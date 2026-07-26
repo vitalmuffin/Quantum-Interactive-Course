@@ -6,7 +6,7 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <meta content="dark light" name="color-scheme"/>
-<title>Quantum – Das Kleinste verstehen · Interactive history of quantum mechanics</title><script type="text/x-mathjax-config">MathJax.Hub.Config({showProcessingMessages:false,messageStyle:"none",tex2jax:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"]],processEscapes:true},SVG:{font:"TeX"}});</script><script src="vendor/MathJax/MathJax.js?config=TeX-AMS-MML_SVG"></script><script src="vendor/math-offline.js"></script>
+<title>Quantum – Das Kleinste verstehen · Interactive history of quantum mechanics</title><script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"]],processEscapes:true,packages:{"[+]":["ams"]}},svg:{fontCache:"local"},startup:{typeset:true}};</script><script src="vendor/mathjax-tex-svg-full.js"></script><script src="vendor/math-offline.js"></script>
 <meta content="Bilingual interactive system map of 32 foundational papers in quantum mechanics." name="description"/>
 <script charset="utf-8" defer="" src="vendor/plotly-3.3.1.min.js"></script>
 <style>
@@ -331,7 +331,23 @@
       .footer-grid{display:block}
       .mobile-only{display:block}
     }
-  </style>
+  
+@media(max-width:760px){
+  .map-layout{gap:14px}
+  .map-layout>.explorer,.map-layout>.detail{min-width:0;width:100%}
+  .graph-toolbar{display:grid;grid-template-columns:1fr auto;align-items:center;gap:8px}
+  .graph-toolbar small{grid-column:1/-1;line-height:1.4}
+  .graph-toolbar .check{justify-self:start}
+  .graph-wrap{height:min(66vh,560px);min-height:430px;touch-action:none;-webkit-user-select:none;user-select:none}
+  #graphCanvas .node{pointer-events:all}
+  #graphCanvas .node polygon,#graphCanvas .node path,#graphCanvas .node ellipse{vector-effect:non-scaling-stroke}
+  .overview-track{height:78px}
+  .filters{gap:8px}
+  .view-switch{min-height:44px}
+  .view-switch button{flex:1;min-height:36px}
+  #paperDetail{scroll-margin-top:76px}
+}
+</style>
 <link href="vendor/recall-progress.css" rel="stylesheet"/><style id="v08-accessibility">
 .skip-link{position:fixed;left:12px;top:8px;z-index:9999;transform:translateY(-160%);padding:10px 14px;border-radius:10px;background:#fff;color:#111;text-decoration:none;font-weight:700}
 .skip-link:focus{transform:translateY(0)}
@@ -353,13 +369,13 @@
 }
 </style>
 </head>
-<body data-course-page="index.html" id="top"><header class="course-shell course-shell-static"><div class="course-shell-inner"><a class="course-brand" href="index.html"><span class="course-brand-mark"></span><span data-brand="">Quantum<small>Das Kleinste verstehen · v0.12</small></span></a><nav aria-label="Geführte Kursreise" class="course-journey"><a class="active" href="index.html"><span class="course-step-no">1</span><span>Überblick</span></a><a class="" href="primer.html"><span class="course-step-no">2</span><span>Grundlagen &amp; Primer</span></a><a class="" href="prehistory.html"><span class="course-step-no">3</span><span>Klassische Grenzen</span></a><a class="" href="historical_core.html#planck"><span class="course-step-no">4</span><span>Energiequanten &amp; Photonen</span></a><a class="" href="historical_core.html#matterwave"><span class="course-step-no">5</span><span>Materiewellen &amp; Statistik</span></a><a class="" href="historical_core.html#matrix"><span class="course-step-no">6</span><span>Operatoren &amp; Wellenmechanik</span></a><a class="" href="historical_core.html#born"><span class="course-step-no">7</span><span>Wahrscheinlichkeit, Bindung &amp; Felder</span></a><a class="" href="foundations_tests.html"><span class="course-step-no">8</span><span>Deutung &amp; Tests</span></a><a class="" href="quantum_information.html"><span class="course-step-no">9</span><span>Quanteninformation</span></a><a class="" href="source_reader.html"><span class="course-step-no">10</span><span>Quellen</span></a></nav><button class="course-tool course-mobile-menu" data-role="menu">Etappen</button><div class="course-tools"><button class="course-tool labelled" data-role="progress">Fortschritt</button><div class="course-lang-seg"><button class="active" data-lang="de">DE</button><button data-lang="en">EN</button></div><button aria-label="Farbschema" class="course-tool" data-role="theme">◐</button></div></div><div class="qm-stage-progress"><i></i></div></header><a class="skip-link" href="#main-content">Zum Inhalt / Skip to content</a>
+<body data-course-page="index.html" id="top"><header class="course-shell course-shell-static"><div class="course-shell-inner"><a class="course-brand" href="index.html"><span class="course-brand-mark"></span><span data-brand="">Quantum<small>Das Kleinste verstehen · v0.14</small></span></a><nav aria-label="Geführte Kursreise" class="course-journey"><a class="active" href="index.html"><span class="course-step-no">1</span><span>Überblick</span></a><a class="" href="primer.html"><span class="course-step-no">2</span><span>Grundlagen &amp; Primer</span></a><a class="" href="prehistory.html"><span class="course-step-no">3</span><span>Klassische Grenzen</span></a><a class="" href="historical_core.html#planck"><span class="course-step-no">4</span><span>Energiequanten &amp; Photonen</span></a><a class="" href="historical_core.html#matterwave"><span class="course-step-no">5</span><span>Materiewellen &amp; Statistik</span></a><a class="" href="historical_core.html#matrix"><span class="course-step-no">6</span><span>Operatoren &amp; Wellenmechanik</span></a><a class="" href="historical_core.html#born"><span class="course-step-no">7</span><span>Wahrscheinlichkeit, Bindung &amp; Felder</span></a><a class="" href="foundations_tests.html"><span class="course-step-no">8</span><span>Deutung &amp; Tests</span></a><a class="" href="quantum_information.html"><span class="course-step-no">9</span><span>Quanteninformation</span></a><a class="" href="source_reader.html"><span class="course-step-no">10</span><span>Quellen</span></a></nav><div class="course-tools"><button class="course-tool labelled" data-role="progress">Fortschritt</button><div class="course-lang-seg"><button class="active" data-lang="de">DE</button><button data-lang="en">EN</button></div><button aria-label="Farbschema" class="course-tool" data-role="theme">◐</button></div></div><div class="qm-stage-progress"><i></i></div></header><a class="skip-link" href="#main-content">Zum Inhalt / Skip to content</a>
 <noscript><div class="noscript">Diese Anwendung benötigt JavaScript. / This application requires JavaScript.</div></noscript>
 <header class="topbar">
 <div class="shell topbar-inner">
 <a class="brand" href="#top">
 <span class="brand-mark"><i></i></span>
-<span class="brand-copy"><strong data-i18n="brand">Quantum – Das Kleinste verstehen</strong><span>v0.12 · integrierter Lernpfad · 32 Primärarbeiten</span></span>
+<span class="brand-copy"><strong data-i18n="brand">Quantum – Das Kleinste verstehen</strong><span>v0.14 · integrierter Lernpfad · 32 Primärarbeiten</span></span>
 </a>
 <nav class="nav">
 <a data-i18n="navPattern" href="prehistory.html#knowledge-cycle">Grundmuster</a>
@@ -510,7 +526,7 @@
 </main>
 <footer class="footer">
 <div class="shell footer-grid">
-<div><strong>Quantum – Das Kleinste verstehen · v0.12</strong><br/><span data-i18n="footerScope">Systemkarte, bilinguale Paper-Ansicht, Temml, Plotly, Canvas und PDF-Verknüpfung.</span></div>
+<div><strong>Quantum – Das Kleinste verstehen · v0.14</strong><br/><span data-i18n="footerScope">Systemkarte, bilinguale Paper-Ansicht, Temml, Plotly, Canvas und PDF-Verknüpfung.</span></div>
 <div data-i18n="footerNote">Interpretationen werden von experimentell bestätigten Aussagen getrennt.</div>
 </div>
 </footer>
@@ -3771,7 +3787,7 @@
       mapEyebrow:"Historical system map",mapTitle:"32 steps, one connected model.",mapIntro:"The timeline shows when something happened. The graph shows which idea enabled a later one. Select a paper to open its summary, equations, images, and PDF.",
       viewGraph:"Graph",viewCards:"List",graphHint:"Select nodes · drag to pan · use wheel, +/−, or arrow keys to zoom and move",allLinks:"all dependencies",graphLoading:"Building the system graph …",
       selectPaper:"Select a node or paper.",selectPaperHint:"The historical step appears here as problem → idea → test → consequence.",
-      labsEyebrow:"First experiment lab",labsTitle:"Do not only read. Move parameters.",labsIntro:"v0.12 adds a dedicated interactive primer to the systems map. The two historical lab prototypes remain as an entry point.",
+      labsEyebrow:"First experiment lab",labsTitle:"Do not only read. Move parameters.",labsIntro:"v0.14 adds a dedicated interactive primer to the systems map. The two historical lab prototypes remain as an entry point.",
       bbTitle:"Black-body radiation",bbIntro:"Compare Planck’s distribution with the classical limiting formulas. At short wavelengths the classical model runs away.",
       bbFormulaNote:"Underbraces explain each quantity’s role directly inside the equation.",temperature:"Temperature",models:"Models",
       waveTitle:"A wave packet made from single waves",waveIntro:"A localized form is not produced by one wave. It appears when many waves of different wavelengths are added with the right phases.",
@@ -3969,7 +3985,7 @@
       status.textContent=t("graphError");
       return;
     }
-    canvas.innerHTML=template.innerHTML;
+    canvas.replaceChildren(template.content.cloneNode(true));
     const svg=$("svg",canvas);
     if(svg){
       svg.setAttribute("role","img");
@@ -4060,21 +4076,39 @@
 
 
   let graphTransform={x:0,y:0,scale:1};
-  function applyGraphTransform(){const svg=$("#graphCanvas svg");if(!svg)return;svg.style.transform=`matrix(${graphTransform.scale},0,0,${graphTransform.scale},${graphTransform.x},${graphTransform.y})`;$("#graphZoomReset").textContent=`${Math.round(graphTransform.scale*100)} %`;}
+  function graphInitialScale(wrap){const fit=Math.min(1,Math.max(.18,(wrap?.clientWidth-24||1000)/1150));return innerWidth<=760?Math.max(.38,fit):fit}
+  function applyGraphTransform(){const svg=$("#graphCanvas svg");if(!svg)return;svg.style.transform=`translate3d(${graphTransform.x}px,${graphTransform.y}px,0) scale(${graphTransform.scale})`;$("#graphZoomReset").textContent=`${Math.round(graphTransform.scale*100)} %`;}
   function enableGraphPanZoom(){
     const wrap=document.querySelector('.graph-wrap'),svg=$("#graphCanvas svg");if(!wrap||!svg)return;
-    wrap.tabIndex=0;graphTransform={x:12,y:12,scale:Math.min(1,(wrap.clientWidth-24)/1150)};applyGraphTransform();
-    let dragging=false,moved=false,sx=0,sy=0,ox=0,oy=0;
-    wrap.onpointerdown=e=>{if(e.target.closest('.node')){moved=false;return}if(e.button!==0||e.target.closest('button,input,label'))return;dragging=true;moved=false;wrap.classList.add('dragging');sx=e.clientX;sy=e.clientY;ox=graphTransform.x;oy=graphTransform.y;wrap.setPointerCapture?.(e.pointerId)};
-    wrap.onpointermove=e=>{if(!dragging)return;const dx=e.clientX-sx,dy=e.clientY-sy;if(Math.abs(dx)+Math.abs(dy)>4)moved=true;graphTransform.x=ox+dx;graphTransform.y=oy+dy;applyGraphTransform()};
-    wrap.onpointerup=wrap.onpointercancel=e=>{dragging=false;wrap.classList.remove('dragging');try{wrap.releasePointerCapture?.(e.pointerId)}catch(_){}};
-    wrap.addEventListener('click',e=>{if(moved&&!e.target.closest('.node')){e.preventDefault();e.stopPropagation()}moved=false},true);
+    wrap.tabIndex=0;graphTransform={x:12,y:12,scale:graphInitialScale(wrap)};applyGraphTransform();
+    const pointers=new Map();let start=null,pinch=null,moved=false,suppressClickUntil=0;
+    const point=e=>({x:e.clientX,y:e.clientY});
+    const distance=(a,b)=>Math.hypot(a.x-b.x,a.y-b.y);
+    const midpoint=(a,b)=>({x:(a.x+b.x)/2,y:(a.y+b.y)/2});
+    const paperIdFromTarget=t=>{const node=t.closest?.('.node'),m=(node?.querySelector('title')?.textContent||'').match(/^p(\d+)$/);return m?Number(m[1]):null};
+    const beginSingle=e=>{const p=point(e);start={id:e.pointerId,x:p.x,y:p.y,ox:graphTransform.x,oy:graphTransform.y,paperId:paperIdFromTarget(e.target)};pinch=null};
+    wrap.onpointerdown=e=>{
+      if(e.pointerType==='mouse'&&e.button!==0)return;
+      if(e.target.closest?.('button,input,label'))return;
+      e.preventDefault();pointers.set(e.pointerId,point(e));wrap.setPointerCapture?.(e.pointerId);wrap.classList.add('dragging');moved=false;
+      if(pointers.size===1)beginSingle(e);
+      else if(pointers.size>=2){const [a,b]=[...pointers.values()];const rect=wrap.getBoundingClientRect(),mid=midpoint(a,b);pinch={distance:Math.max(1,distance(a,b)),scale:graphTransform.scale,x:graphTransform.x,y:graphTransform.y,cx:mid.x-rect.left,cy:mid.y-rect.top};start=null}
+    };
+    wrap.onpointermove=e=>{
+      if(!pointers.has(e.pointerId))return;e.preventDefault();pointers.set(e.pointerId,point(e));
+      if(pointers.size>=2&&pinch){const [a,b]=[...pointers.values()],rect=wrap.getBoundingClientRect(),mid=midpoint(a,b),ratio=distance(a,b)/pinch.distance,next=Math.max(.24,Math.min(3.5,pinch.scale*ratio));const cx=mid.x-rect.left,cy=mid.y-rect.top;graphTransform.x=cx-(pinch.cx-pinch.x)*(next/pinch.scale);graphTransform.y=cy-(pinch.cy-pinch.y)*(next/pinch.scale);graphTransform.scale=next;moved=true;applyGraphTransform();return}
+      if(start&&start.id===e.pointerId){const p=point(e),dx=p.x-start.x,dy=p.y-start.y;if(Math.abs(dx)+Math.abs(dy)>5)moved=true;graphTransform.x=start.ox+dx;graphTransform.y=start.oy+dy;applyGraphTransform()}
+    };
+    const finish=e=>{if(!pointers.has(e.pointerId))return;const tapPaper=!moved&&pointers.size===1&&start?.id===e.pointerId?start.paperId:null;pointers.delete(e.pointerId);try{wrap.releasePointerCapture?.(e.pointerId)}catch(_){}if(moved)suppressClickUntil=performance.now()+400;if(tapPaper){suppressClickUntil=performance.now()+180;selectPaper(tapPaper)}if(!pointers.size){start=null;pinch=null;wrap.classList.remove('dragging')}else if(pointers.size===1){const [id,p]=[...pointers.entries()][0];start={id,x:p.x,y:p.y,ox:graphTransform.x,oy:graphTransform.y,paperId:null};pinch=null}};
+    wrap.onpointerup=finish;wrap.onpointercancel=finish;wrap.onlostpointercapture=finish;
+    wrap.addEventListener('click',e=>{if(performance.now()<suppressClickUntil){e.preventDefault();e.stopImmediatePropagation()}},true);
     wrap.onwheel=e=>{e.preventDefault();if(e.shiftKey){graphTransform.x-=e.deltaY;graphTransform.y-=e.deltaX;applyGraphTransform();return}const rect=wrap.getBoundingClientRect(),mx=e.clientX-rect.left,my=e.clientY-rect.top,old=graphTransform.scale,next=Math.max(.22,Math.min(3.5,old*Math.exp(-e.deltaY*.0015)));graphTransform.x=mx-(mx-graphTransform.x)*(next/old);graphTransform.y=my-(my-graphTransform.y)*(next/old);graphTransform.scale=next;applyGraphTransform()};
     wrap.ondblclick=e=>{if(!e.target.closest('.node'))resetGraph()};
     wrap.onkeydown=e=>{const d=e.shiftKey?55:24;if(e.key==='+'||e.key==='=')zoomGraph(1.18);else if(e.key==='-')zoomGraph(1/1.18);else if(e.key==='0')resetGraph();else if(e.key==='ArrowLeft')graphTransform.x+=d;else if(e.key==='ArrowRight')graphTransform.x-=d;else if(e.key==='ArrowUp')graphTransform.y+=d;else if(e.key==='ArrowDown')graphTransform.y-=d;else return;e.preventDefault();applyGraphTransform()};
+    wrap.__qmGraphResize?.disconnect?.();if('ResizeObserver' in window){wrap.__qmGraphResize=new ResizeObserver(()=>{if(!pointers.size)requestAnimationFrame(()=>{const fit=graphInitialScale(wrap);if(graphTransform.scale<fit*.72){graphTransform.scale=fit;applyGraphTransform()}})});wrap.__qmGraphResize.observe(wrap)}
   }
   function zoomGraph(f){graphTransform.scale=Math.max(.25,Math.min(3,graphTransform.scale*f));applyGraphTransform()}
-  function resetGraph(){const wrap=document.querySelector('.graph-wrap');graphTransform={x:12,y:12,scale:Math.min(1,(wrap?.clientWidth-24||1000)/1150)};applyGraphTransform()}
+  function resetGraph(){const wrap=document.querySelector('.graph-wrap');graphTransform={x:12,y:12,scale:graphInitialScale(wrap)};applyGraphTransform()}
   function ensureImagePopover(){let m=document.getElementById('imagePopover');if(m)return m;m=document.createElement('div');m.id='imagePopover';m.className='image-popover';m.innerHTML='<figure class="image-popover-card"><button class="image-popover-close">×</button><img alt=""><figcaption></figcaption></figure>';m.onclick=e=>{if(e.target===m||e.target.classList.contains('image-popover-close'))m.classList.remove('open')};document.body.appendChild(m);return m}
   function bindImagePopovers(root=document){root.querySelectorAll('[data-pop-src]').forEach(b=>{b.onclick=e=>{e.preventDefault();const m=ensureImagePopover();m.querySelector('img').src=b.dataset.popSrc;m.querySelector('img').alt=b.dataset.popCaption||'';m.querySelector('figcaption').textContent=b.dataset.popCaption||'';m.classList.add('open')}})}
   function hydrateInlineLatex(root){const walk=document.createTreeWalker(root,NodeFilter.SHOW_TEXT);const nodes=[];while(walk.nextNode())if(/\$[^$\n]+\$/.test(walk.currentNode.nodeValue)&&!walk.currentNode.parentElement.closest('code,pre,script,style'))nodes.push(walk.currentNode);nodes.forEach(n=>{const f=document.createDocumentFragment();n.nodeValue.split(/(\$[^$\n]+\$)/).forEach(part=>{if(/^\$.*\$$/.test(part)){const span=document.createElement('span');span.className='math-inline';span.dataset.latex=part.slice(1,-1);f.appendChild(span)}else f.appendChild(document.createTextNode(part))});n.replaceWith(f)});root.querySelectorAll('.math-inline[data-latex]').forEach(el=>renderMathElement(el,el.dataset.latex,false))}

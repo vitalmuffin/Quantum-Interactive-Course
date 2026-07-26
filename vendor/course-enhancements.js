@@ -17,7 +17,7 @@ const $$=(s,r=document)=>[...r.querySelectorAll(s)];
 const lang=()=>document.documentElement.lang?.startsWith('en')?'en':'de';
 const file=()=>location.pathname.split('/').pop()||'index.html';
 const isEmbedded=()=>new URLSearchParams(location.search).get('embedded')==='1';
-let rail,frame,currentId;
+let rail,frame,currentId,mobileTrigger,railScrim;
 
 function stageFromLocation(path=file(),hash=location.hash){
   if(path==='index.html')return'intro';
@@ -50,6 +50,27 @@ function cleanUrl(raw){
 function embeddedUrl(raw){
   const u=new URL(raw,location.href);u.searchParams.set('embedded','1');return u.pathname.split('/').pop()+u.search+(u.hash||'');
 }
+function stageForCourseLink(raw){
+  let u;try{u=new URL(raw,location.href)}catch(_){return null}
+  if(u.origin!==location.origin)return null;
+  const path=u.pathname.split('/').pop()||'index.html';
+  if(path==='index.html'&&u.hash&&!['','#top'].includes(u.hash))return null;
+  if(!['index.html','primer.html','math_foundations.html','prehistory.html','historical_core.html','foundations_tests.html','quantum_information.html','source_reader.html'].includes(path))return null;
+  return stageFromLocation(path,u.hash);
+}
+function routeCourseLink(raw,stageId=stageForCourseLink(raw)){
+  if(!stageId)return false;
+  showFrame(cleanUrl(raw),stageId);return true;
+}
+function setupCourseLinkRouting(){
+  document.addEventListener('click',e=>{
+    if(e.defaultPrevented||e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    const a=e.target.closest?.('a[href]');if(!a||a.target==='_blank'||a.hasAttribute('download'))return;
+    const id=stageForCourseLink(a.href);if(!id)return;
+    e.preventDefault();routeCourseLink(a.href,id);
+    if(innerWidth<760)setExpanded(false);
+  });
+}
 function updateRail(id=stageFromScroll()){
   currentId=id; if(!rail)return;
   $$('.qm-stage-link',rail).forEach((a,i)=>{
@@ -59,9 +80,12 @@ function updateRail(id=stageFromScroll()){
   const label=$('.qm-stage-current',rail),s=STAGES.find(x=>x.id===id);if(label&&s)label.textContent=s[lang()];
 }
 function setExpanded(open){
+  const mobile=matchMedia('(max-width:760px)').matches;
   document.body.classList.toggle('qm-rail-expanded',open);rail?.classList.toggle('expanded',open);
-  localStorage.setItem('qm_stage_rail_expanded',open?'1':'0');
+  if(!mobile)localStorage.setItem('qm_stage_rail_expanded',open?'1':'0');
   const b=$('.qm-stage-toggle',rail);if(b){b.setAttribute('aria-expanded',String(open));b.title=open?(lang()==='de'?'Etappen einklappen':'Collapse stages'):(lang()==='de'?'Etappen ausklappen':'Expand stages')}
+  if(mobileTrigger){mobileTrigger.setAttribute('aria-expanded',String(open));mobileTrigger.setAttribute('aria-label',lang()==='de'?(open?'Etappen schließen':'Etappen öffnen'):(open?'Close stages':'Open stages'))}
+  railScrim?.classList.toggle('open',mobile&&open);
 }
 function showFrame(url,stageId){
   currentId=stageId;updateRail(stageId);
@@ -97,17 +121,23 @@ function navigateStage(e,s){
 function buildRail(){
   rail=document.createElement('aside');rail.className='qm-stage-rail';rail.setAttribute('aria-label',lang()==='de'?'Kurs-Etappen':'Course stages');
   rail.innerHTML=`<button class="qm-stage-toggle" type="button" aria-expanded="false"><span class="qm-toggle-icon">☰</span><span class="qm-toggle-label">${lang()==='de'?'Etappen':'Stages'}</span></button><div class="qm-stage-current"></div><nav>${STAGES.map((s,i)=>`<a class="qm-stage-link" href="${s.url}" data-stage="${s.id}"><span class="qm-stage-number">${i+1}</span><span class="qm-stage-name">${s[lang()]}</span><span class="qm-stage-state">○</span></a>`).join('')}</nav><button class="qm-rail-progress" type="button"><span>◔</span><span>${lang()==='de'?'Fortschritt':'Progress'}</span></button>`;
-  document.body.appendChild(rail);
+  mobileTrigger=document.createElement('button');mobileTrigger.className='qm-stage-mobile-trigger';mobileTrigger.type='button';mobileTrigger.innerHTML='<span aria-hidden="true">☰</span>';mobileTrigger.setAttribute('aria-controls','qmStageRail');
+  rail.id='qmStageRail';
+  railScrim=document.createElement('button');railScrim.className='qm-stage-scrim';railScrim.type='button';railScrim.tabIndex=-1;
+  document.body.append(railScrim,rail,mobileTrigger);
   $('.qm-stage-toggle',rail).onclick=()=>setExpanded(!document.body.classList.contains('qm-rail-expanded'));
+  mobileTrigger.onclick=()=>setExpanded(true);railScrim.onclick=()=>setExpanded(false);
   $$('.qm-stage-link',rail).forEach((a,i)=>a.onclick=e=>navigateStage(e,STAGES[i]));
   $('.qm-rail-progress',rail).onclick=()=>window.QMCourseShell?.openProgress?.();
-  const saved=localStorage.getItem('qm_stage_rail_expanded');setExpanded(saved===null?innerWidth>=1280:saved==='1');updateRail();
-  const topMenu=$('.course-shell [data-role="menu"]');if(topMenu){topMenu.onclick=()=>setExpanded(!document.body.classList.contains('qm-rail-expanded'));topMenu.textContent=lang()==='de'?'☰ Etappen':'☰ Stages'}
+  const saved=localStorage.getItem('qm_stage_rail_expanded');setExpanded(innerWidth<=760?false:(saved===null?innerWidth>=1280:saved==='1'));updateRail();
+  addEventListener('resize',()=>{if(innerWidth<=760&&document.body.classList.contains('qm-rail-expanded'))setExpanded(false)},{passive:true});
 }
 function refreshRailLanguage(){
   if(!rail)return;$('.qm-toggle-label',rail).textContent=lang()==='de'?'Etappen':'Stages';
   $$('.qm-stage-name',rail).forEach((n,i)=>n.textContent=STAGES[i][lang()]);
-  $('.qm-rail-progress span:last-child',rail).textContent=lang()==='de'?'Fortschritt':'Progress';updateRail(currentId||stageFromScroll());
+  $('.qm-rail-progress span:last-child',rail).textContent=lang()==='de'?'Fortschritt':'Progress';
+  if(mobileTrigger)mobileTrigger.setAttribute('aria-label',lang()==='de'?'Etappen öffnen':'Open stages');
+  updateRail(currentId||stageFromScroll());
 }
 function setupCarouselArrows(){
   const wrap=$('.rail-carousel'),track=wrap?.querySelector('.rail'),buttons=wrap?$$('.rail-arrow',wrap):[];if(!track||buttons.length<2)return;
@@ -137,14 +167,20 @@ function setupEmbeddedBridge(){
   document.documentElement.classList.add('qm-embedded');
   const notify=()=>parent.postMessage({type:'qm-embedded-location',url:location.href,stage:stageFromScroll()},'*');
   addEventListener('hashchange',notify);addEventListener('load',notify);let tick=false;addEventListener('scroll',()=>{if(!tick){requestAnimationFrame(()=>{notify();tick=false});tick=true}},{passive:true});
+  document.addEventListener('click',e=>{
+    if(e.defaultPrevented||e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    const a=e.target.closest?.('a[href]');if(!a||a.target==='_blank'||a.hasAttribute('download'))return;
+    const stage=stageForCourseLink(a.href);if(!stage)return;
+    e.preventDefault();parent.postMessage({type:'qm-embedded-navigate',url:cleanUrl(a.href),stage},'*');
+  });
   addEventListener('message',e=>{const d=e.data||{};if(d.type!=='qm-shell-state')return;if(d.lang){localStorage.setItem('qm_language',d.lang);const b=$(d.lang==='de'?'#langDE,#deBtn':'#langEN,#enBtn');b?.click()}if(d.theme&&document.documentElement.dataset.theme!==d.theme){const b=$('#themeToggle,#themeBtn,#theme');b?.click()}});
 }
 function init(){
   if(isEmbedded()){setupFoundationVisuals();setupCarouselArrows();setupEmbeddedBridge();return}
-  buildRail();setupCarouselArrows();setupFoundationVisuals();
+  buildRail();setupCourseLinkRouting();setupCarouselArrows();setupFoundationVisuals();
   let ticking=false;addEventListener('scroll',()=>{if(!ticking){requestAnimationFrame(()=>{updateRail(stageFromScroll());ticking=false});ticking=true}},{passive:true});
   addEventListener('hashchange',()=>updateRail(stageFromScroll()));
-  addEventListener('message',e=>{const d=e.data||{};if(d.type!=='qm-embedded-location')return;currentId=d.stage||currentId;updateRail(currentId);requestAnimationFrame(()=>updateRail(currentId));try{history.replaceState({qmFrame:true},'',cleanUrl(d.url))}catch(_){}});
+  addEventListener('message',e=>{const d=e.data||{};if(d.type==='qm-embedded-navigate'){routeCourseLink(d.url,d.stage||stageForCourseLink(d.url));return}if(d.type!=='qm-embedded-location')return;currentId=d.stage||currentId;updateRail(currentId);requestAnimationFrame(()=>updateRail(currentId));try{history.replaceState({qmFrame:true},'',cleanUrl(d.url))}catch(_){}});
   addEventListener('popstate',()=>{if(frame)frame.src=embeddedUrl(location.href)});
   new MutationObserver(refreshRailLanguage).observe(document.documentElement,{attributes:true,attributeFilter:['lang']});
   const themeObserver=new MutationObserver(()=>{try{frame?.contentWindow?.postMessage({type:'qm-shell-state',lang:lang(),theme:document.documentElement.dataset.theme||'dark'},'*')}catch(_){}});themeObserver.observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
