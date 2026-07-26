@@ -1,4 +1,4 @@
-# Quantum – Das Kleinste verstehen · v0.10
+# Quantum – Das Kleinste verstehen · v0.12
 
 Ein bilingualer, interaktiver Onlinekurs zur Entwicklung der Quantenmechanik. Der Kurs verbindet mathematische Grundlagen, Primer, physikalische Vorgeschichte, historische Primärarbeiten, Modellrechnungen, Grundlagenexperimente und Quanteninformation zu einem geführten Lernweg.
 
@@ -10,12 +10,12 @@ Die Startseite kann direkt geöffnet werden:
 xdg-open index.html
 ```
 
-Die Quellenansicht ist in v0.10 vollständig offline gebündelt und funktioniert ebenfalls beim direkten Öffnen über `file://`.
+Die Quellenansicht ist in v0.12 vollständig offline gebündelt und funktioniert ebenfalls beim direkten Öffnen über `file://`.
 
 Optional kann der Kurs über einen lokalen Webserver gestartet werden:
 
 ```bash
-cd qm_interactive_course_v0.10
+cd qm_interactive_course_v0.12
 ./start_course.sh
 ```
 
@@ -28,7 +28,7 @@ http://localhost:8000/
 ## Geführter Lernweg
 
 1. **Überblick** — Systemkarte, zwei interaktive Einstiegsmodelle und Motivation.
-2. **Grundlagen & Primer** — sieben Konzepte; vor jedem Konzept werden die unmittelbar benötigten mathematischen Grundlagen erneut erklärt.
+2. **Grundlagen & Primer** — sieben Konzepte mit Definitionen, Mini-Beispielen, Abbildungen und interaktiven Modellen.
 3. **Klassische Grenzen** — Mechanik, Elektrodynamik, Thermodynamik und die messbaren Krisen vor der Quantenmechanik.
 4. **Energiequanten & Photonen** — Planck, Einstein, Bohr, Strahlungsprozesse und Compton.
 5. **Materiewellen & Statistik** — de Broglie, Bose–Einstein, Fermi–Dirac und Pauli.
@@ -52,7 +52,7 @@ Die obere Kursleiste ist bereits im HTML vorhanden und wird nicht erst nachträg
 - Ableitung und Integral;
 - Operatoren, Eigenvektoren und Eigenwerte.
 
-Jede Einheit beginnt mit einer wiederholten Grundlagenbox. Zu jedem Begriff gibt es eine anschauliche Erklärung und ein Mini-Beispiel. Für jede Einheit werden drei externe Erklärungen mit einer Einfachheitsbewertung dokumentiert; die sichtbare Erklärung ist entweder die einfachste geeignete Fassung oder eine Synthese der drei Quellen.
+Jede Einheit enthält kurze Definitionen, anschauliche Erklärungen, Mini-Beispiele und eine passende Abbildung. Vertiefungen können bei Bedarf aufgeklappt werden.
 
 Historische Texte verlinken zum passenden Primer. Über den Rückkehrparameter gelangt man anschließend wieder zur ursprünglichen Textstelle. Die Abschlusskarten des Primers führen nun zu den zugehörigen historischen Modellen; der primäre Weiter-Button führt in die Vorgeschichte.
 
@@ -85,7 +85,7 @@ Verfügbar sind:
 
 - formatierte Kursaufbereitung;
 - seitenweiser Paper-Ausschnitt;
-- Original-OCR sowie deutsche und englische Fassungen;
+- Original-OCR sowie deutsche und englische Fassungen; bei drei englischen Übersetzungen ursprünglich deutscher Arbeiten wird statt einer nicht verlässlichen deutschen Volltextübersetzung transparent eine geprüfte deutsche Aufbereitung angezeigt;
 - Schlüsselgleichungen und OCR-Gleichungen mit Seitenverweis;
 - Bibliografie, DOI und lokale Dateipfade;
 - Abbildungen in einem Pop-over mit Seitenkontext und Bildunterschrift;
@@ -99,6 +99,8 @@ Die vollständige Zusammenfassung ist standardmäßig eingeklappt. Formeln werde
 python3 tests/validate_course.py
 python3 tests/validate_models.py
 python3 tests/runtime_smoke.py
+python3 tests/validate_translations.py
+python3 tests/validate_v012_features.py
 ```
 
 Ergebnis der Release-Prüfung:
@@ -107,7 +109,9 @@ Ergebnis der Release-Prüfung:
 - 40/40 unabhängige numerische Modellprüfungen bestanden;
 - 4/4 Runtime-Smoke-Tests der Modellseiten bestanden;
 - JavaScript-Syntaxprüfung aller Hauptseiten und Bundles bestanden;
-- 32 Papers und 748 eingebettete Quellentexte im Offline-Bundle bestätigt.
+- 32 Papers und 748 eingebettete Quellentexte im Offline-Bundle bestätigt;
+- alle 64 als deutsch bezeichneten Übersetzungs-/Zusammenfassungsdateien auf längere englische Passagen geprüft;
+- v0.12-Regressionsprüfungen für Navigation, Graph, mobile Quellenansicht, lokale Mathematik und Übersetzungsmetadaten bestanden.
 
 Eine echte pixelbasierte Browserprüfung ließ sich in der Erstellungsumgebung nicht zuverlässig automatisieren. Die statischen, strukturellen, numerischen und simulierten Runtime-Prüfungen sind reproduzierbar in `tests/` enthalten.
 
@@ -122,4 +126,3 @@ Eine echte pixelbasierte Browserprüfung ließ sich in der Erstellungsumgebung n
 - `source_reader.html` — offlinefähige Primärquellenansicht
 - `data/source_offline_bundle.js` — Quellenindex und 748 Textressourcen
 - `tests/` — reproduzierbare Validierung
-# Quantum-Interactive-Course

@@ -104,3 +104,53 @@ body{background:radial-gradient(circle at 15% 0,color-mix(in srgb,var(--accent) 
 .rail-arrow{width:38px;height:38px;border:1px solid var(--qm-shell-border);border-radius:50%;background:var(--qm-shell-panel);color:var(--qm-shell-text);font-size:1.45rem;cursor:pointer;display:grid;place-items:center;z-index:2}
 .rail-arrow:hover{border-color:var(--qm-shell-accent)}
 @media(max-width:700px){.course-tool.labelled{padding:8px}.course-tools{gap:4px}.course-brand small{display:none}.course-brand-mark{width:26px;height:26px}.course-shell-inner{width:calc(100% - 12px);gap:5px}.course-tool[data-role=progress]{font-size:0}.course-tool[data-role=progress]:after{content:'✓';font-size:.9rem}.course-tool[data-role=menu]{font-size:0}.course-tool[data-role=menu]:after{content:'☰';font-size:1rem}.rail-arrow{width:34px;height:34px}}
+
+/* Persistent stage rail, embedded content frame, and mobile-safe layout */
+:root{--qm-stage-rail-collapsed:56px;--qm-stage-rail-expanded:286px;--qm-stage-rail-w:var(--qm-stage-rail-collapsed)}
+body.qm-shell-ready{padding-left:var(--qm-stage-rail-w);transition:padding-left .2s ease;overflow-x:hidden}
+body.qm-rail-expanded{--qm-stage-rail-w:var(--qm-stage-rail-expanded)}
+.qm-stage-rail{position:fixed;z-index:1200;left:0;top:var(--qm-shell-h);bottom:0;width:var(--qm-stage-rail-collapsed);border-right:1px solid var(--qm-shell-border);background:color-mix(in srgb,var(--qm-shell-panel) 96%,var(--bg,#07101f));color:var(--qm-shell-text);display:flex;flex-direction:column;overflow:hidden;box-shadow:8px 0 28px rgba(0,0,0,.14);transition:width .2s ease}
+.qm-stage-rail.expanded{width:var(--qm-stage-rail-expanded)}
+.qm-stage-toggle,.qm-rail-progress{min-height:48px;border:0;border-bottom:1px solid var(--qm-shell-border);background:transparent;color:inherit;display:flex;align-items:center;gap:12px;padding:0 17px;white-space:nowrap;cursor:pointer;text-align:left}
+.qm-stage-toggle:hover,.qm-rail-progress:hover{background:color-mix(in srgb,var(--qm-shell-accent) 9%,transparent)}
+.qm-toggle-icon{font-size:1.05rem;min-width:22px;text-align:center}.qm-toggle-label{font-weight:800}
+.qm-stage-current{display:none;padding:12px 16px 8px;color:var(--qm-shell-muted);font-size:.72rem;text-transform:uppercase;letter-spacing:.09em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.qm-stage-rail.expanded .qm-stage-current{display:block}
+.qm-stage-rail nav{display:grid;gap:3px;padding:8px 5px;overflow-y:auto;overflow-x:hidden;scrollbar-width:thin;flex:1}
+.qm-stage-link{height:43px;display:grid;grid-template-columns:34px minmax(0,1fr) 20px;align-items:center;gap:7px;border:1px solid transparent;border-radius:11px;color:var(--qm-shell-muted);text-decoration:none;white-space:nowrap;overflow:hidden;padding:0 5px}
+.qm-stage-link:hover{background:color-mix(in srgb,var(--qm-shell-accent) 8%,transparent);color:var(--qm-shell-text)}
+.qm-stage-link.active{background:color-mix(in srgb,var(--qm-shell-accent) 13%,var(--qm-shell-panel));border-color:color-mix(in srgb,var(--qm-shell-accent) 45%,var(--qm-shell-border));color:var(--qm-shell-text)}
+.qm-stage-number{width:30px;height:30px;display:grid;place-items:center;border-radius:9px;border:1px solid var(--qm-shell-border);font-weight:850;font-size:.75rem}
+.qm-stage-link.active .qm-stage-number{background:var(--qm-shell-accent);border-color:transparent;color:#05251d}
+.qm-stage-name{opacity:0;overflow:hidden;text-overflow:ellipsis;transition:opacity .12s}.qm-stage-state{opacity:0;text-align:center;font-size:.72rem;color:var(--qm-shell-accent)}
+.qm-stage-rail.expanded .qm-stage-name,.qm-stage-rail.expanded .qm-stage-state{opacity:1}
+.qm-rail-progress{border-top:1px solid var(--qm-shell-border);border-bottom:0;margin-top:auto}.qm-rail-progress span:first-child{min-width:22px;text-align:center}.qm-rail-progress span:last-child{opacity:0}.qm-stage-rail.expanded .qm-rail-progress span:last-child{opacity:1}
+.course-shell-inner{padding-left:4px}.course-shell .course-tools{margin-left:auto}.course-shell .course-tool.labelled{display:inline-flex}
+.qm-stage-frame{position:fixed;z-index:900;left:var(--qm-stage-rail-w);right:0;top:var(--qm-shell-h);bottom:0;width:calc(100% - var(--qm-stage-rail-w));height:calc(100vh - var(--qm-shell-h));border:0;background:var(--bg,#07101f);transition:left .2s ease,width .2s ease}
+body.qm-stage-frame-active> :not(.course-shell):not(.qm-stage-rail):not(.qm-overlay):not(.qm-stage-frame):not(.image-popover):not(#qmSourcePopover){display:none!important}
+html.qm-embedded body{padding-left:0!important;overflow-x:hidden}html.qm-embedded .course-shell,html.qm-embedded .qm-stage-rail,html.qm-embedded .qm-journey-footer,html.qm-embedded .qm-checkpoint{display:none!important}html.qm-embedded .topbar,html.qm-embedded .rail-wrap{top:0!important}html.qm-embedded .side{top:0!important;height:100vh!important}
+
+/* Equations stay centered and cannot push whole panels sideways */
+.math,.math-block,.math-scroll,.formula-card .math,.formula-box .math{text-align:center!important;justify-items:center!important;place-items:center!important;max-width:100%;min-width:0}
+.math svg,.math-block svg,.math-scroll svg,.MathJax_SVG_Display svg{max-width:100%!important;height:auto!important}
+.formula-card,.formula-box,.equation-card,.detail,.summary-content,.source-card,.view,.viewpad{min-width:0;max-width:100%}
+.detail{overflow-x:hidden!important}.detail code,.source-card code{overflow-wrap:anywhere;word-break:break-word}.detail-actions,.source-inline-actions{max-width:100%}
+.qm-math-pending{min-height:2.6em}
+
+/* Primer illustrations */
+.foundation-visual{margin:14px 0 16px;border:1px solid var(--qm-shell-border);border-radius:16px;padding:10px;background:color-mix(in srgb,var(--qm-shell-panel) 75%,transparent);overflow:hidden}
+.foundation-visual svg{display:block;width:100%;height:auto;max-height:250px}.foundation-visual text{fill:var(--qm-shell-muted);font:14px Inter,system-ui,sans-serif}.fv-axis{stroke:color-mix(in srgb,var(--qm-shell-muted) 58%,transparent);stroke-width:1.5;fill:none}.fv-tick{stroke:var(--qm-shell-muted);stroke-width:1}.fv-a{stroke:var(--qm-shell-accent);stroke-width:4;fill:none}.fv-b{stroke:#86a8ff;stroke-width:3.5;fill:none}.fv-c{stroke:#f6c66d;stroke-width:3.5;fill:none}.fv-sum{stroke:#ff91aa;stroke-width:4;fill:none}.fv-dash{stroke:var(--qm-shell-muted);stroke-width:2;stroke-dasharray:7 6;fill:none}.fv-dash2{stroke:#ff91aa;stroke-width:3;stroke-dasharray:7 6;fill:none}.fv-circle{stroke:var(--qm-shell-muted);stroke-width:2;fill:none}.fv-fill{fill:color-mix(in srgb,var(--qm-shell-accent) 25%,transparent);stroke:none}.fv-point{fill:#f6c66d}.foundation-visual marker path{fill:var(--qm-shell-accent)}
+.foundation-legend{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;color:var(--qm-shell-muted);font-size:.78rem;margin-top:4px}.foundation-legend span:before{content:"";display:inline-block;width:18px;height:3px;margin-right:6px;vertical-align:middle;border-radius:3px}.fv-a-dot:before{background:var(--qm-shell-accent)}.fv-b-dot:before{background:#86a8ff}.fv-c-dot:before{background:#f6c66d}.fv-sum-dot:before{background:#ff91aa}
+
+/* Carousel boundary feedback */
+.rail-arrow:disabled{opacity:.24!important;cursor:default!important;filter:grayscale(1);transform:none!important}.rail-arrow:disabled:hover{border-color:var(--qm-shell-border)!important;background:var(--qm-shell-panel)!important}
+
+@media(max-width:760px){
+ :root{--qm-stage-rail-collapsed:48px;--qm-stage-rail-expanded:min(86vw,310px);--qm-shell-h:64px}
+ body.qm-shell-ready{padding-left:var(--qm-stage-rail-collapsed)}body.qm-rail-expanded{padding-left:var(--qm-stage-rail-collapsed)}
+ .qm-stage-rail{width:var(--qm-stage-rail-collapsed)}.qm-stage-rail.expanded{width:var(--qm-stage-rail-expanded);box-shadow:18px 0 55px rgba(0,0,0,.55)}
+ .qm-stage-toggle,.qm-rail-progress{padding:0 12px}.qm-stage-link{grid-template-columns:32px minmax(0,1fr) 18px;padding:0 3px}.qm-stage-number{width:28px;height:28px}
+ .course-brand small{display:none}.course-shell-inner{width:calc(100% - 8px);gap:5px}.course-shell .course-tool{padding:7px 8px}.course-shell .course-tool.labelled{display:inline-flex!important;font-size:0}.course-shell .course-tool.labelled:before{font-size:.9rem}.course-shell [data-role="menu"]:before{content:"☰"}.course-shell [data-role="progress"]:before{content:"◔"}.course-lang-seg button{padding:5px 7px!important}
+ .qm-stage-frame{left:var(--qm-stage-rail-collapsed);width:calc(100% - var(--qm-stage-rail-collapsed))}
+ .foundation-visual{padding:5px}.foundation-visual svg{min-width:520px}.foundation-visual{overflow-x:auto}
+}

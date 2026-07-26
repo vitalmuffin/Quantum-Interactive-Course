@@ -1969,7 +1969,7 @@
         "en": "Quantum-Theoretical Reinterpretation of Kinematic and Mechanical Relations"
       },
       "module": "M3",
-      "original_language": "de",
+      "original_language": "en",
       "journal": "Zeitschrift für Physik",
       "doi": "10.1007/BF01328377",
       "page_range": "879-893",
@@ -2349,7 +2349,11 @@
       "what_was_constrained_or_replaced": {
         "de": "Klassische Trajektorien wurden als Fundament aufgegeben, blieben aber als Grenzfall großer Quantenzahlen erhalten.",
         "en": "Classical trajectories were abandoned as the foundation but retained as a large-quantum-number limit."
-      }
+      },
+      "source_file_language": "en",
+      "original_work_language": "de",
+      "german_translation_available": false,
+      "german_translation_status": "source_language_mismatch_replaced_by_reviewed_summary"
     },
     {
       "folder": "10_1925_Born_Jordan_On_Quantum_Mechanics",
@@ -4257,7 +4261,7 @@
         "en": "Quantum Mechanics of Collision Processes"
       },
       "module": "M3",
-      "original_language": "de",
+      "original_language": "en",
       "journal": "Zeitschrift für Physik",
       "doi": "10.1007/BF01397477",
       "page_range": "803-827",
@@ -4785,7 +4789,11 @@
       "what_was_constrained_or_replaced": {
         "de": "Die naive materielle Welle wurde aufgegeben; eine tiefere deterministische Theorie wurde dadurch nicht logisch ausgeschlossen.",
         "en": "The naive material-wave interpretation was abandoned, but a deeper deterministic theory was not logically excluded."
-      }
+      },
+      "source_file_language": "en",
+      "original_work_language": "de",
+      "german_translation_available": false,
+      "german_translation_status": "source_language_mismatch_replaced_by_reviewed_summary"
     },
     {
       "folder": "16_1927_Heisenberg_Physical_Content_Uncertainty_EN",
@@ -4796,7 +4804,7 @@
         "en": "The Physical Content of Quantum Kinematics and Mechanics"
       },
       "module": "M4",
-      "original_language": "de",
+      "original_language": "en",
       "journal": "Zeitschrift für Physik",
       "doi": "10.1007/BF01397280",
       "page_range": "172-198",
@@ -5013,7 +5021,11 @@
       "what_was_constrained_or_replaced": {
         "de": "Ausgeschlossen ist die gleichzeitige beliebig genaue klassische Beschreibung; reine technische Messstörung ist jedoch nicht die vollständige moderne Aussage.",
         "en": "An arbitrarily precise simultaneous classical description is excluded, although mere technical disturbance is not the full modern statement."
-      }
+      },
+      "source_file_language": "en",
+      "original_work_language": "de",
+      "german_translation_available": false,
+      "german_translation_status": "source_language_mismatch_replaced_by_reviewed_summary"
     },
     {
       "folder": "17_1927_Born_Oppenheimer_Molecular_Quantum_Theory_EN",
