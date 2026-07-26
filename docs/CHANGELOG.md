@@ -1,3 +1,14 @@
+# v0.13 — mobile navigation and graph repair
+
+- corrected the stretched spacing of the persistent stage rail;
+- removed the redundant stage button from the top bar;
+- routed all internal course-stage links through the persistent middle content frame;
+- prevented embedded pages from creating a second rail/header;
+- replaced graph-template `innerHTML` parsing with SVG template cloning;
+- added one-finger pan from any graph point, two-finger pinch zoom, drag-click suppression, and mobile graph sizing;
+- moved release documentation and audits into `docs/`;
+- packaged the project below the top-level folder `Quantum Interactive Course/`.
+
 # Changelog
 
 ## v0.12 — Persistent stage rail, mobile mathematics, graph and translation repair
@@ -102,3 +113,12 @@
 - Added evidence links to every experimental information field.
 - Fixed the Bose–Einstein chemical-potential domain and the Planck-only plot scale.
 - Added structural, JavaScript runtime and 39-model numerical validation.
+
+## v0.14
+
+- Replaced the fixed mobile stage strip with a small off-canvas navigation trigger.
+- Restored the full viewport width for course content on phones.
+- Standardized stage-row spacing.
+- Replaced MathJax 2 with a self-contained local MathJax 3 SVG bundle.
+- Changed dynamic equations to direct asynchronous TeX-to-SVG rendering.
+- Updated the source reader to use the same stable renderer.

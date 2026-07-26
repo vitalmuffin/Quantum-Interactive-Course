@@ -1,4 +1,4 @@
-# Quantum – Das Kleinste verstehen · v0.12
+# Quantum – Das Kleinste verstehen · v0.14
 
 Ein bilingualer, interaktiver Onlinekurs zur Entwicklung der Quantenmechanik. Der Kurs verbindet mathematische Grundlagen, Primer, physikalische Vorgeschichte, historische Primärarbeiten, Modellrechnungen, Grundlagenexperimente und Quanteninformation zu einem geführten Lernweg.
 
@@ -10,12 +10,12 @@ Die Startseite kann direkt geöffnet werden:
 xdg-open index.html
 ```
 
-Die Quellenansicht ist in v0.12 vollständig offline gebündelt und funktioniert ebenfalls beim direkten Öffnen über `file://`.
+Die Quellenansicht ist in v0.14 vollständig offline gebündelt und funktioniert ebenfalls beim direkten Öffnen über `file://`.
 
 Optional kann der Kurs über einen lokalen Webserver gestartet werden:
 
 ```bash
-cd qm_interactive_course_v0.12
+cd 'Quantum Interactive Course'
 ./start_course.sh
 ```
 
@@ -101,6 +101,8 @@ python3 tests/validate_models.py
 python3 tests/runtime_smoke.py
 python3 tests/validate_translations.py
 python3 tests/validate_v012_features.py
+python3 tests/validate_v013_features.py
+python3 tests/validate_v014_features.py
 ```
 
 Ergebnis der Release-Prüfung:
@@ -111,7 +113,7 @@ Ergebnis der Release-Prüfung:
 - JavaScript-Syntaxprüfung aller Hauptseiten und Bundles bestanden;
 - 32 Papers und 748 eingebettete Quellentexte im Offline-Bundle bestätigt;
 - alle 64 als deutsch bezeichneten Übersetzungs-/Zusammenfassungsdateien auf längere englische Passagen geprüft;
-- v0.12-Regressionsprüfungen für Navigation, Graph, mobile Quellenansicht, lokale Mathematik und Übersetzungsmetadaten bestanden.
+- v0.14-Regressionsprüfungen für Navigation, Graph, mobile Quellenansicht, lokale Mathematik und Übersetzungsmetadaten bestanden.
 
 Eine echte pixelbasierte Browserprüfung ließ sich in der Erstellungsumgebung nicht zuverlässig automatisieren. Die statischen, strukturellen, numerischen und simulierten Runtime-Prüfungen sind reproduzierbar in `tests/` enthalten.
 
@@ -126,3 +128,19 @@ Eine echte pixelbasierte Browserprüfung ließ sich in der Erstellungsumgebung n
 - `source_reader.html` — offlinefähige Primärquellenansicht
 - `data/source_offline_bundle.js` — Quellenindex und 748 Textressourcen
 - `tests/` — reproduzierbare Validierung
+
+
+## Ordnerstruktur ab v0.14
+
+```text
+Quantum Interactive Course/
+├── assets/       # PDFs und extrahierte Primärquellen-Abbildungen
+├── data/         # Kurs-, Graph- und Offline-Quelldaten
+├── docs/         # Audits, Roadmap, Status und Release Notes
+├── sources/      # vollständige Quellen- und Übersetzungsdateien
+├── summaries/    # deutsche und englische Paper-Zusammenfassungen
+├── tests/        # statische, numerische und Runtime-Prüfungen
+├── vendor/       # lokal gebündelte JavaScript- und MathJax-Abhängigkeiten
+├── index.html    # Einstiegspunkt
+└── start_course.sh
+```

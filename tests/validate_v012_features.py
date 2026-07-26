@@ -41,14 +41,14 @@ need('.rail-arrow:disabled' in shell and 'buttons[0].disabled' in enh,'carousel 
 need("setupFoundationVisuals();setupCarouselArrows();setupEmbeddedBridge()" in enh,'embedded content enhancements missing')
 
 sr=(R/'source_reader.html').read_text()
-need("script.type=e.classList.contains('math-block')?'math/tex; mode=display':'math/tex'" in sr,'source equation renderer is not using stable MathJax script nodes')
+need('window.QMMath?.render' in sr,'source equation renderer is not using the shared math renderer')
 need('.translation-warning' in sr,'translation warning UI missing')
 need('@media(max-width:900px)' in sr and '.tabs{position:sticky' in sr,'mobile source navigation CSS missing')
-need('vendor/MathJax/MathJax.js?config=TeX-AMS-MML_SVG' in sr,'local SVG MathJax missing in source reader')
+need('vendor/mathjax-tex-svg-full.js' in sr,'local SVG MathJax missing in source reader')
 
 for name in ['index.html','primer.html','historical_core.html','foundations_tests.html','quantum_information.html']:
     text=(R/name).read_text()
-    need('vendor/MathJax/MathJax.js?config=TeX-AMS-MML_SVG' in text,f'{name}: local MathJax missing')
+    need('vendor/mathjax-tex-svg-full.js' in text,f'{name}: local MathJax missing')
     need('cdn.jsdelivr.net/npm/temml' not in text,f'{name}: remote Temml remains')
 
 flagged={
