@@ -61,7 +61,7 @@ for mid in ["blackbodyFormula","waveFormula"]:
  vi=max((i for i,x in enumerate(kids) if x.get("id") in ("blackbodyPlot",) or "canvas-wrap" in (x.get("class") or [])),default=-1)
  fi=next((i for i,x in enumerate(kids) if "formula-box" in (x.get("class") or [])), -1)
  if fi<=vi:errors.append(f"index {mid}: formula not after visual")
-# v0.10 integration checks
+# v0.11 integration checks
 for n in ["index.html","primer.html","prehistory.html","historical_core.html","foundations_tests.html","quantum_information.html","source_reader.html"]:
  if not soups[n].select_one("header.course-shell-static"): errors.append(f"{n}: pre-rendered shell missing")
  if "vendor/course-shell.css" not in (root/n).read_text(encoding="utf-8"): errors.append(f"{n}: blue shell CSS missing")
