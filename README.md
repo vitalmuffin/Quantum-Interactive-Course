@@ -122,3 +122,4 @@ Eine echte pixelbasierte Browserprüfung ließ sich in der Erstellungsumgebung n
 - `source_reader.html` — offlinefähige Primärquellenansicht
 - `data/source_offline_bundle.js` — Quellenindex und 748 Textressourcen
 - `tests/` — reproduzierbare Validierung
+# Quantum-Interactive-Course
