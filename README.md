@@ -7,7 +7,13 @@ Ein bilingualer, interaktiver Onlinekurs zur Entwicklung der Quantenmechanik. De
 Die Startseite kann direkt geöffnet werden:
 
 ```bash
-xdg-open index.html
+https://vitalmuffin.github.io/Quantum-Interactive-Course/foundations_tests.html
+```
+
+oder über folgende URL erreicht werden:
+```bash
+cd 'Quantum Interactive Course'
+./start_course.sh
 ```
 
 Die Quellenansicht ist in v0.14 vollständig offline gebündelt und funktioniert ebenfalls beim direkten Öffnen über `file://`.
