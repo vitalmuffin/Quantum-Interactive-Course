@@ -1,4 +1,4 @@
-# Quantum – Das Kleinste verstehen · v0.14
+# Quantum – Das Kleinste verstehen · v0.15
 
 Ein bilingualer, interaktiver Onlinekurs zur Entwicklung der Quantenmechanik. Der Kurs verbindet mathematische Grundlagen, Primer, physikalische Vorgeschichte, historische Primärarbeiten, Modellrechnungen, Grundlagenexperimente und Quanteninformation zu einem geführten Lernweg.
 
@@ -10,7 +10,7 @@ Die Startseite kann direkt geöffnet werden:
 xdg-open index.html
 ```
 
-Die Quellenansicht ist in v0.14 vollständig offline gebündelt und funktioniert ebenfalls beim direkten Öffnen über `file://`.
+Die Quellenansicht ist in v0.15 vollständig offline gebündelt und funktioniert ebenfalls beim direkten Öffnen über `file://`.
 
 Optional kann der Kurs über einen lokalen Webserver gestartet werden:
 
@@ -91,7 +91,7 @@ Verfügbar sind:
 - Abbildungen in einem Pop-over mit Seitenkontext und Bildunterschrift;
 - eingebettetes PDF und direkter PDF-Link als Fallback.
 
-Die vollständige Zusammenfassung ist standardmäßig eingeklappt. Formeln werden lokal durch MathJax gerendert.
+Die vollständige Zusammenfassung ist standardmäßig eingeklappt. Formeln werden lokal durch MathJax gerendert. Dynamische Display-Gleichungen werden nach dem Einfügen erneut erkannt und bei einem zu frühen Renderaufruf automatisch wiederholt.
 
 ## Validierung
 
@@ -103,6 +103,7 @@ python3 tests/validate_translations.py
 python3 tests/validate_v012_features.py
 python3 tests/validate_v013_features.py
 python3 tests/validate_v014_features.py
+python3 tests/validate_v015_features.py
 ```
 
 Ergebnis der Release-Prüfung:
@@ -113,7 +114,7 @@ Ergebnis der Release-Prüfung:
 - JavaScript-Syntaxprüfung aller Hauptseiten und Bundles bestanden;
 - 32 Papers und 748 eingebettete Quellentexte im Offline-Bundle bestätigt;
 - alle 64 als deutsch bezeichneten Übersetzungs-/Zusammenfassungsdateien auf längere englische Passagen geprüft;
-- v0.14-Regressionsprüfungen für Navigation, Graph, mobile Quellenansicht, lokale Mathematik und Übersetzungsmetadaten bestanden.
+- v0.15-Regressionsprüfungen für Navigation, Graph, mobile Quellenansicht, lokale Mathematik und Übersetzungsmetadaten bestanden.
 
 Eine echte pixelbasierte Browserprüfung ließ sich in der Erstellungsumgebung nicht zuverlässig automatisieren. Die statischen, strukturellen, numerischen und simulierten Runtime-Prüfungen sind reproduzierbar in `tests/` enthalten.
 
@@ -130,7 +131,7 @@ Eine echte pixelbasierte Browserprüfung ließ sich in der Erstellungsumgebung n
 - `tests/` — reproduzierbare Validierung
 
 
-## Ordnerstruktur ab v0.14
+## Ordnerstruktur ab v0.15
 
 ```text
 Quantum Interactive Course/

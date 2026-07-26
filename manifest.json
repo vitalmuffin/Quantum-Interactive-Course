@@ -1,7 +1,7 @@
 {
-  "version": "0.14",
+  "version": "0.15",
   "product_name": "Quantum – Das Kleinste verstehen",
-  "created_utc": "2026-07-26T13:17:12.367692+00:00",
+  "created_utc": "2026-07-26T13:36:10.581712+00:00",
   "status": "validated release candidate",
   "contents": {
     "paper_count": 32,
@@ -25,24 +25,27 @@
     "runtime_smoke_pages_total": 4,
     "verified_equations_rendered": 251,
     "verified_equations_total": 251,
+    "dynamic_display_equation_browser_checks_passed": 5,
+    "dynamic_display_equation_browser_checks_total": 5,
     "translation_audit": "passed",
     "v012_feature_regression": "passed",
     "v013_feature_regression": "passed",
     "v014_feature_regression": "passed",
+    "v015_feature_regression": "passed",
     "source_bundle_missing_paths": 0,
     "javascript_syntax_errors": 0,
     "chronology_sorted": true,
-    "visual_browser_test": "not executable reliably in the build environment because the available Chromium process did not complete local page loads; static, TeX-to-SVG, numeric, translation, syntax, feature-regression and runtime smoke checks passed"
+    "visual_browser_test": "Full local-page navigation remained blocked by the build environment Chromium URL policy. The MathJax bundle and adapter were nevertheless executed directly in isolated Chromium, where five dynamic display-equation cases rendered to SVG."
   },
   "package": {
     "root_folder": "Quantum Interactive Course",
-    "file_count_excluding_manifest": 1737,
-    "bytes_excluding_manifest": 128685656
+    "file_count_excluding_manifest": 1740,
+    "bytes_excluding_manifest": 128695623
   },
   "files": {
     "README.md": {
-      "bytes": 7668,
-      "sha256": "e4bbb45acd99c5689b5c32f3a322829e453e0cb32ed20346712e1a11d8d508cd"
+      "bytes": 7842,
+      "sha256": "0bc5651fa88fd2744a7e9841ec0b276bb053078c87b29fd40d70697b1c816214"
     },
     "assets/pdfs/01_1900_Planck_Energy_Distribution.pdf": {
       "bytes": 417809,
@@ -412,6 +415,10 @@
       "bytes": 1628,
       "sha256": "d40871c167d24b9794d591d2f256d37059ffdedcb3526cdbce95f27fabb96cd0"
     },
+    "docs/RELEASE_NOTES_v0.15.md": {
+      "bytes": 1891,
+      "sha256": "eb0fc11103b50a4db5bf99e2454e29c7de934cd6f48ea4f521982ff8acd9c9f1"
+    },
     "docs/RELEASE_NOTES_v0.8.md": {
       "bytes": 461,
       "sha256": "4dfc300abf3e25b56f305e3572ca0e8de5c8a39d84503c7476d5572db18af6ed"
@@ -429,8 +436,8 @@
       "sha256": "04878860aeb93574661bfe83103563c2ca598756658a2caf0b8f69fdacf57a9b"
     },
     "docs/STATUS.md": {
-      "bytes": 1603,
-      "sha256": "b9eb3822ee1e187daf6ee3dd073c9b484d1bbb785f50d9091f8c7ced076d23d1"
+      "bytes": 1796,
+      "sha256": "7bcc41896202689e9f3970f3211f7e5a5364d00b92048f93bfab9a2f08267b38"
     },
     "docs/TEXT_BILINGUAL_AUDIT.md": {
       "bytes": 3179,
@@ -456,45 +463,49 @@
       "bytes": 1292,
       "sha256": "84c778a12fc47b389dc8dfec17c07e145c3385d4bab48702ce14aa0f016bb297"
     },
+    "docs/VALIDATION_REPORT_v0.15.md": {
+      "bytes": 1311,
+      "sha256": "46bfad5b5829e0eecdf49576ca055ef5848475d4d246f3fc8e8af7d4d7c69339"
+    },
     "evidence_notes.html": {
       "bytes": 7100,
-      "sha256": "69416feb0a5df09a0b18fec9e0828eb8e26ac922103b11bf961e88e59a2326c5"
+      "sha256": "8ce02a92e8af4c4d63a10aa69cbeee8af41acfa63e64099feadffce2e3b630bb"
     },
     "foundations_tests.html": {
-      "bytes": 81033,
-      "sha256": "3fccc9970a676aa18a19723adbc848872418b9ee9a2a30b4a4a40ec4d580bb3d"
+      "bytes": 81121,
+      "sha256": "56bb739e6738315dbab94152625a3af6caf5b8e5cf3003fdb131338250863ecd"
     },
     "historical_core.html": {
-      "bytes": 176884,
-      "sha256": "f8983476920b5a08f4a2efd6f5641430c5536d723bebed71e5ef1efd85843a4e"
+      "bytes": 176935,
+      "sha256": "485628027a4064afd73bea4b13cdc2b4a0bab283f77bc1895d72397133c6eb84"
     },
     "index.html": {
-      "bytes": 1953715,
-      "sha256": "b2a77651f9586e6b0a5cabee09746751bd4721f8d9aac42d6285b97e44bfd639"
+      "bytes": 1953846,
+      "sha256": "07c1c25e06c8bf199a3522f6e1593cad5cc94183b75b8a27be7b959a4fa95d6a"
     },
     "math_foundations.html": {
       "bytes": 3416,
-      "sha256": "3fac130294a53a9db81898b343d3755297099a0ced240da3861ed866b87b01c1"
+      "sha256": "30351e3f1b0ac90daff3a820d467b02f9729ba6676d5eb5a2ae363d2e0c881b1"
     },
     "prehistory.html": {
       "bytes": 23984,
-      "sha256": "7827c3f2b79f3f1d8b8cefa5088b64619b986cac7b7833899c1430cef10aa4f2"
+      "sha256": "5dff7a02aef2611b4a664900612d2f0ee688272d489ee1a90e02d0d561d60b41"
     },
     "primer.html": {
-      "bytes": 121221,
-      "sha256": "f678eb4a6b7b9f80a8b81ab98c07c286aba16f399693e30b3d37411b68f46274"
+      "bytes": 121278,
+      "sha256": "e39e4b1b7306ff6d6a870aec07d9ad01f69e170bc6f4f408082da94401e3ae60"
     },
     "progress.html": {
       "bytes": 367,
       "sha256": "bfe5e05a83e271ac4b56a4a5663b4a39ce8f1630454d5a980381417694b50471"
     },
     "quantum_information.html": {
-      "bytes": 72458,
-      "sha256": "b6a28ed460a000c51341de94aeb556143ae8e05419f7b4201254c22523f4137a"
+      "bytes": 72540,
+      "sha256": "6e15d2b9220a9721e4c1b2c2b73b4b32a074abdb87adcb486f040bd9d137ebde"
     },
     "source_reader.html": {
-      "bytes": 29959,
-      "sha256": "dbe01535f1aadb0ff2abbbfde06878f5145a57e19cf17619ad8ed46c4de41e94"
+      "bytes": 29987,
+      "sha256": "263faf3510764d388fa7a12b50f58e4cd8ed772a5bd7dfa889980753c91f3858"
     },
     "sources/01_1900_Planck_Energy_Distribution/document-annotation.json": {
       "bytes": 102731,
@@ -6945,12 +6956,16 @@
       "sha256": "eab4daa928dde4f9bfc808471c5498664f82deacc5db2b2dfe2439bb9355702f"
     },
     "tests/validate_v013_features.py": {
-      "bytes": 1819,
-      "sha256": "76a44715a0c7de01e57576efb1a575c5ee61c1f000f56afebea63968026290f4"
+      "bytes": 1845,
+      "sha256": "8c6ae833a7636a0cbd7d64eef90e52cca863afbb9545a4295a91d4f7e9ec9fdb"
     },
     "tests/validate_v014_features.py": {
-      "bytes": 2509,
-      "sha256": "415c0349b5db6bfa2f2d6db74b7e4ff679981309c5fb43e2535b668ec6e825d9"
+      "bytes": 2535,
+      "sha256": "f4087854b63836d8f03ad42f1403e87038ccc3376b11221a5a681cef195d6842"
+    },
+    "tests/validate_v015_features.py": {
+      "bytes": 2149,
+      "sha256": "4cfe89263ba3656fb991855982dbf2b4a8804dff95bfefc259cf6168a5a05334"
     },
     "vendor/course-enhancements.js": {
       "bytes": 17234,
@@ -6965,8 +6980,8 @@
       "sha256": "b3316e6098cc56d3fa5f567726fcfe1328a536245ce9cc9ac4a28cba4d85b2d8"
     },
     "vendor/math-offline.js": {
-      "bytes": 1846,
-      "sha256": "2942d09889ef84f3be149d5fd87a3e21559fb45577ad2aef1971837a9257b0a9"
+      "bytes": 5606,
+      "sha256": "a0cbc21225c6528aaa8c9c6e0d00533d98072a822acb9344f48b1c35f20ea9fb"
     },
     "vendor/mathjax-tex-svg-full.js": {
       "bytes": 2275113,

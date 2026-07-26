@@ -1,4 +1,4 @@
-# Status v0.14
+# Status v0.15
 
 **Dauerhafte linke Etappenleiste mit Nummern und Auf-/Zuklappen:** umgesetzt  
 **Etappenwechsel ohne Austausch der äußeren Kursoberfläche:** umgesetzt  
@@ -8,6 +8,7 @@
 **Graph- und Detailfeld auf großen Displays gleich hoch:** umgesetzt  
 **Eigenständiges lokales MathJax 3 mit direkter SVG-Ausgabe für Desktop, Mobilgeräte und `file://`:** umgesetzt  
 **Quellengleichungen bleiben nach dem Setzen sichtbar:** umgesetzt  
+**Große dynamische Display-Gleichungen werden nach MathJax-Bereitschaft gesetzt und bei Bedarf erneut versucht:** umgesetzt  
 **Mobile Etappenleiste als kleines Off-Canvas-Menü ohne dauerhaft belegte Inhaltsbreite:** umgesetzt  
 **Sieben Grundlagenabbildungen:** umgesetzt  
 **Meta-/Layoutformulierungen aus sichtbaren Konzepttexten entfernt:** umgesetzt  
@@ -20,6 +21,6 @@
 Eine visuelle Browserautomatisierung war in der Build-Umgebung durch eine systemweite Browser-URL-Sperrrichtlinie nicht ausführbar. JavaScript-Syntax, DOM-Struktur, Dateiverweise, Übersetzungsqualität, numerische Modelle und simulierte Laufzeitpfade wurden automatisiert geprüft.
 
 
-## v0.14
+## v0.15
 
-Sidebar-Abstände, eingebettete Kursnavigation und mobile Graphgesten wurden überarbeitet; die Dokumentation wurde in `docs/` konsolidiert.
+Dynamische Display-Gleichungen wurden auf einen robusten, wiederholbaren MathJax-SVG-Renderpfad umgestellt. Die falsche Argumentreihenfolge der Quellenansicht und veraltete Browser-Caches werden abgefangen.

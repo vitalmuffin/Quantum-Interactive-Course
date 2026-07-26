@@ -24,7 +24,7 @@ need('template.content.cloneNode(true)' in idx,'graph SVG is still reparsed with
 need('const pointers=new Map()' in idx and 'pointers.size>=2' in idx,'mobile graph pinch/pointer handling missing')
 need('suppressClickUntil' in idx,'graph drag can still trigger accidental node clicks')
 need('height:min(66vh,560px)' in idx,'mobile graph sizing missing')
-need(('v0.13' in shell or 'v0.14' in shell) and ('v0.13' in idx or 'v0.14' in idx),'runtime version not updated')
+need(any(v in shell for v in ('v0.13','v0.14','v0.15')) and any(v in idx for v in ('v0.13','v0.14','v0.15')),'runtime version not updated')
 if errors:
     print('\n'.join('FAIL '+x for x in errors));sys.exit(1)
 print('OK: v0.13 navigation, layout, mobile graph, and folder-structure checks passed.')
