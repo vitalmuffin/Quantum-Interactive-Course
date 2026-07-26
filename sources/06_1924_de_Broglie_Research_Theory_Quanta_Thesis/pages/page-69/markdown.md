@@ -1,0 +1,11 @@
+RECHERCHES SUR LA THÉORIE DES QUANTA
+
+89
+
+autre tandis que la théorie ondulatoire seule peut expliquer pourquoi le transfert le long d'une trajectoire dépend de celui qui a lieu sur une autre. Il semble presque que l'énergie elle-même soit transportée par des corpuscules tandis que le pouvoir de l'absorber et de la rendre perceptible à l'expérience est transportée par des ondes sphériques ».
+
+Pour que des interférences puissent se produire régulièrement, il semble nécessaire d'établir une sorte de dépendance entre les émissions des divers atomes d'une même source. Nous avons proposé d'exprimer cette dépendance par le postulat suivant. « L'onde de phase liée au mouvement d'un atome de lumière peut en passant sur des atomes matériels excités, déclencher l'émission d'autres atomes de lumière dont la phase sera en accord avec celle de l'onde ». Une onde pourrait ainsi transporter de nombreux petits centres de condensation d'énergie qui glisseraient d'ailleurs légèrement à sa surface en restant toujours en phase avec elle. Si le nombre des atomes transportés était extrêmement grand, la structure de l'onde se rapprocherait des conceptions classiques comme d'une sorte de limite.
+
+## VI. — LA LOI DE FRÉQUENCE DE BOHR. CONCLUSIONS
+
+A quelque point de vue qu'on se place, le détail des transformations internes subies par l'atome lorsqu'il absorbe ou lorsqu'il émet, ne peut encore être aucunement imaginé. Admettons toujours l'hypothèse granulaire : nous ne savons pas si le quantum absorbé par l'atome se fond en quelque sorte avec lui ou s'il subsiste à son intérieur à l'état d'unité isolée, pas davantage nous ne savons si l'émission est l'expulsion d'un quantum préexistant dans l'atome ou la création d'une unité nouvelle aux dépens de l'énergie interne de celui-ci. Quoiqu'il en soit, il paraît certain que l'émission ne porte que sur un seul quantum ; dès lors, l'énergie totale du corpuscule égale à $h$ fois la fréquence de l'onde de phase qui l'accompagne devrait, pour sauvegarder la conservation

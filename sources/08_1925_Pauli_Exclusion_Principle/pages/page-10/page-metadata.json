@@ -1,0 +1,67 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 91,
+      "topLeftY": 87,
+      "bottomRightX": 121,
+      "bottomRightY": 104,
+      "content": "774",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 295,
+      "topLeftY": 87,
+      "bottomRightX": 371,
+      "bottomRightY": 104,
+      "content": "W. Pauli jr.,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 258,
+      "bottomRightX": 107,
+      "bottomRightY": 775,
+      "content": "Tabelle 1. Ursprüngliches Bohrsches Schema der Edelgaskonfiguration.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 120,
+      "bottomRightX": 312,
+      "bottomRightY": 911,
+      "content": "|  Element | Atom. Nr. | Anzahl der $n_k$-Elektronen  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  $l_1$ | $2_1$ | $2_2$ | $3_1$ | $3_2$ | $3_3$ | $4_1$ | $4_2$ | $4_3$ | $4_4$ | $5_1$ | $5_2$ | $5_3$ | $6_1$ | $6_2$  |\n|  Helium . . . . . | 2 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | —  |\n|  Neon . . . . . | 10 | 2 | 4 | 4 | — | — | — | — | — | — | — | — | — | — | — | —  |\n|  Argon . . . . . | 18 | 2 | 4 | 4 | 4 | 4 | — | — | — | — | — | — | — | — | — | —  |\n|  Krypton . . . . . | 36 | 2 | 4 | 4 | 6 | 6 | 6 | 4 | 4 | — | — | — | — | — | — | —  |\n|  Xenon . . . . . | 54 | 2 | 4 | 4 | 6 | 6 | 6 | 6 | 6 | 6 | — | 4 | 4 | — | — | —  |\n|  Emanation . . . . . | 86 | 2 | 4 | 4 | 6 | 6 | 6 | 8 | 8 | 8 | 8 | 6 | 6 | 6 | 4 | 4  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 349,
+      "topLeftY": 299,
+      "bottomRightX": 366,
+      "bottomRightY": 733,
+      "content": "Tabelle 2. Schema der Edelgaskonfigurationen nach Stoner.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 120,
+      "bottomRightX": 575,
+      "bottomRightY": 911,
+      "content": "|  Element | Atom. Nr. | Anzahl der $n_{k_1,k_2}$-Elektronen  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  $l_1$ | $2_1$ | $2_2(1+2)$ | $3_1$ | $3_2(1+2)$ | $3_3(2+3)$ | $4_1$ | $4_2(1+2)$ | $4_3(2+3)$ | $4_4(3+4)$ | $5_1$ | $5_2(1+2)$ | $5_3(2+3)$ | $6_1$ | $6_2(1+2)$  |\n|  Helium . . . . . | 2 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | —  |\n|  Neon . . . . . | 10 | 2 | 2 | 2+4 | — | — | — | — | — | — | — | — | — | — | — | —  |\n|  Argon . . . . . | 18 | 2 | 2 | 2+4 | 2 | 2+4 | — | — | — | — | — | — | — | — | — | —  |\n|  Krypton . . . . . | 36 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | — | — | — | — | — | — | —  |\n|  Xenon . . . . . | 54 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | 4+6 | — | 2 | 2+4 | — | — | —  |\n|  Emanation . . . . . | 86 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | 4+6 | 6+8 | 2 | 2+4 | 4+6 | 2 | 2+4  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    }
+  ]
+}

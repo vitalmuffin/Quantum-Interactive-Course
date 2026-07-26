@@ -1,0 +1,164 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 272,
+      "topLeftY": 46,
+      "bottomRightX": 538,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 666,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "3",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 329,
+      "topLeftY": 92,
+      "bottomRightX": 676,
+      "bottomRightY": 128,
+      "content": "$$\\psi(q) = \\sum_{n} c_{n} \\psi_{n}(q). \\tag{3}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 147,
+      "bottomRightX": 676,
+      "bottomRightY": 235,
+      "content": "Up to now, all of the attention has been focused upon the eigenvibrations $\\psi_{n}$ and the eigenvalues $W_{n}$. The picture that we suggested in the introduction is closely related to the idea of connecting the superposition of functions that is represented in (3) with the probability that the state will appear with a certain frequency in a cloud of identical, uncoupled atoms.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 237,
+      "bottomRightX": 307,
+      "bottomRightY": 254,
+      "content": "The completeness relation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 329,
+      "topLeftY": 254,
+      "bottomRightX": 676,
+      "bottomRightY": 288,
+      "content": "$$\\int |\\psi(q)|^{2} \\, dq = \\sum_{n} |c_{n}|^{2} \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 308,
+      "bottomRightX": 676,
+      "bottomRightY": 379,
+      "content": "leads to the idea that this integral can be regarded as the number of atoms. It then has the value 1 for the appearance of a single, normalized eigenvibration (or: the *a priori* weight of the state is 1), $|c_{n}|^{2}$ means the frequency of the state $n$, and the total numbers can be combined additively from these components.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 380,
+      "bottomRightX": 676,
+      "bottomRightY": 434,
+      "content": "In order to justify this interpretation, we shall consider, say, the motion of a massive point in three-dimensional space under the action of the potential energy $U(x, y, z)$; the differential equation (1) will then read:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 453,
+      "bottomRightX": 676,
+      "bottomRightY": 492,
+      "content": "$$\\Delta\\psi + \\frac{8\\pi^{2}\\mu}{h^{2}}(W - U)\\psi = 0. \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 512,
+      "bottomRightX": 676,
+      "bottomRightY": 569,
+      "content": "If one sets $W$, $\\psi$ in this equal to an eigenvalue $W_{n}$ and an eigenfunction $\\psi_{n}$, resp., multiplies the equation by $\\psi_{n}^{*}$, and integrates over all space ($dS = dx\\,dy\\,dz$) then one will obtain:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 253,
+      "topLeftY": 572,
+      "bottomRightX": 538,
+      "bottomRightY": 619,
+      "content": "$$\\iiint \\left\\{ \\psi_{m}^{*} \\Delta\\psi_{n} + \\frac{8\\pi^{2}\\mu}{h^{2}}(W_{n} - U)\\psi_{n}\\psi_{m}^{*} \\right\\} dS = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 639,
+      "bottomRightX": 642,
+      "bottomRightY": 658,
+      "content": "From *Green's* theorem, and recalling the orthogonality conditions (2), that will give:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 234,
+      "topLeftY": 676,
+      "bottomRightX": 676,
+      "bottomRightY": 722,
+      "content": "$$\\delta_{mn} W_{n} = \\iiint \\left\\{ \\frac{h^{2}}{8\\pi^{2}\\mu}(\\text{grad }\\psi_{n} \\cdot \\text{grad }\\psi_{m}^{*}) + U\\psi_{n}\\psi_{m}^{*} \\right\\} dS. \\tag{6}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 741,
+      "bottomRightX": 676,
+      "bottomRightY": 776,
+      "content": "Each energy level can then be regarded as the spatial integral of the energy density of the eigenvibrations.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 777,
+      "bottomRightX": 531,
+      "bottomRightY": 796,
+      "content": "If one now defines the corresponding integral for any function:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 814,
+      "bottomRightX": 676,
+      "bottomRightY": 860,
+      "content": "$$W = \\iiint \\left\\{ \\frac{h^{2}}{8\\pi^{2}\\mu}|\\text{grad }\\psi_{n}|^{2} + U|\\psi_{n}|^{2} \\right\\} dS \\tag{7}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 881,
+      "bottomRightX": 607,
+      "bottomRightY": 900,
+      "content": "then if one substitutes the development (3), one will get the expression for this:",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

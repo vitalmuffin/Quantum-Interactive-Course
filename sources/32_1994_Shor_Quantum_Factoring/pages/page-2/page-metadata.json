@@ -1,0 +1,101 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 101,
+      "topLeftY": 122,
+      "bottomRightX": 375,
+      "bottomRightY": 285,
+      "content": "the solution, but for which the solution, once found, may be verified in polynomial time (possibly with a polynomial amount of additional supporting evidence). We will also discuss two other traditional complexity classes. One is BPP, which are problems which can be solved with high probability in polynomial time, given access to a random number generator. The other is P#P, which are those problems which could be solved in polynomial time if sums of exponentially many terms could be computed efficiently (where these sums must satisfy the requirement that each term is computable in polynomial time). These classes are related as follows:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 160,
+      "topLeftY": 292,
+      "bottomRightX": 318,
+      "bottomRightY": 308,
+      "content": "$$\\mathrm{P} \\subseteq \\mathrm{BPP}, \\mathrm{NP} \\subseteq \\mathrm{P}^{\\# \\mathrm{P}} \\subseteq \\mathrm{PSPACE}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 316,
+      "bottomRightX": 319,
+      "bottomRightY": 330,
+      "content": "The relationship of BPP and NP is not known.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 330,
+      "bottomRightX": 375,
+      "bottomRightY": 764,
+      "content": "The question of whether using quantum mechanics in a computer allows one to obtain more computational power has not yet been satisfactorily answered. This question was addressed in [11, 6, 7], but it was not shown how to solve any problem in quantum polynomial time that was not known to be solvable in BPP (the class of problems which can be solved in polynomial time with a bounded probability of error). Recent work on this problem was stimulated by Bernstein and Vazirani's paper [5] which laid the foundations of the quantum computation theory of computational complexity. One of the results contained in this paper was an oracle problem (a problem involving a \"black box\" subroutine) which can be done in polynomial time on a quantum Turing machine and requires super-polynomial time on a classical computer. This was the first indication, other than the fact that nobody knew how to simulate a quantum computer on a classical computer without an exponential slowdown, that quantum computation might obtain a greater than polynomial speedup over classical computation augmented with a random number generator. This result was improved by Simon [28], who gave a much simpler construction of an oracle problem which takes polynomial time on a quantum computer and requires exponential time on a classical computer. Indeed, by viewing Simon's oracle as a subroutine, this result becomes a promise problem which takes polynomial time on a quantum computer and looks as if it would be very difficult on a classical computer. The algorithm for the \"easy case\" of discrete log given in this paper is directly analogous to Simon's algorithm with the group Z5^5 replaced by the group Zp-1; I was only able to discover this algorithm after seeing Simon's paper.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 765,
+      "bottomRightX": 375,
+      "bottomRightY": 834,
+      "content": "In another result in Bernstein and Vazirani's paper, a particular class of quantum Turing machine was rigorously defined and a universal quantum Turing machine was given which could simulate any other quantum Turing machine of this class. Unfortunately, it was not clear whether these",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 122,
+      "bottomRightX": 669,
+      "bottomRightY": 353,
+      "content": "quantum Turing machines could simulate other classes of quantum Turing machines, so this result was not entirely satisfactory. Yao [32] has remedied the situation by showing that quantum Turing machines can simulate, and be simulated by, uniform families of polynomial size quantum circuits, with at most polynomial slowdown. He has further defined quantum Turing machines with k heads and showed that these machines can be simulated with slowdown of a factor of 2^k. This seems to show that the class of problems which can be solved in polynomial time on one of these machines, possibly with a bounded probability ε < 1/3 of error, is reasonably robust. This class is called BQP in analogy to the classical complexity class BPP, which are those problems which can be solved with a bounded probability of error on a probabilistic Turing machine. This class BQP could be considered the class of problems that are efficiently solvable on a quantum Turing machine.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 354,
+      "bottomRightX": 669,
+      "bottomRightY": 695,
+      "content": "Since BQP ⊆ P#P ⊆ PSPACE [5], any non-relativized proof that BQP is strictly larger than BPP would imply the structural complexity result BPP ⊊ PSPACE which is not yet proven. In view of this difficulty, several approaches come to mind; one is showing that BQP ⊆ BPP would lead to a collapse of classical complexity classes which are believed to be different. A second approach is to prove results relative to an oracle. In Bennett et al. [4] it is shown that relative to a random oracle, it is not the case that NP ⊆ BQP. This proof in fact suggests that a quantum computer cannot invert one-way functions, but only proves this for one-way oracles, i.e. \"black box\" functions given as a subroutine which the quantum computer is not allowed to look inside. Such oracle results have been misleading in the past, most notably in the case of IP = PSPACE [15, 27]. A third approach, which we take, is to solve in BQP some well-studied problem for which no polynomial time algorithm is known. This shows that the extra power conferred by quantum interference is at least hard to achieve using classical computation. Both Bernstein and Vazirani [5] and Simon [28] also gave polynomial time algorithms for problems which were not known to be in BPP, but these problems were invented especially for this purpose, although Simon's problem does not appear contrived and could conceivably be useful.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 696,
+      "bottomRightX": 669,
+      "bottomRightY": 806,
+      "content": "Discrete logarithms and integer factoring are two number-theory problems which have been studied extensively but for which no polynomial-time algorithms are known [16, 19, 20, 25]. In fact, these problems are so widely believed to be hard that cryptosystems based on their hardness have been proposed, and the RSA public key cryptosystem [26], based on the hardness of factoring, is in use. We show that these problems can be solved in BQP.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 397,
+      "topLeftY": 806,
+      "bottomRightX": 669,
+      "bottomRightY": 835,
+      "content": "Currently, nobody knows how to build a quantum computer, although it seems as though it could be possible",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 381,
+      "topLeftY": 863,
+      "bottomRightX": 397,
+      "bottomRightY": 873,
+      "content": "125",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

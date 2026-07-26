@@ -1,0 +1,65 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 75,
+      "topLeftY": 87,
+      "bottomRightX": 95,
+      "bottomRightY": 104,
+      "content": "60",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 204,
+      "topLeftY": 90,
+      "bottomRightX": 397,
+      "bottomRightY": 104,
+      "content": "S. KOCHEN & E. P. SPECKER",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 121,
+      "bottomRightX": 551,
+      "bottomRightY": 392,
+      "content": "concept of a partial algebra. The set of quantum mechanical observables viewed as operators on Hilbert space form a partial algebra if we restrict the operations of sum and product to be defined only when the operators commute. A necessary condition then for the existence of hidden variables is that this partial algebra be imbeddable in a commutative algebra (such as the algebra of all real-valued functions on a phase space). In Sections 3 and 4 it is shown that there exists a finite partial algebra of quantum mechanical observables for which no such imbedding exists. The physical description of this result may be understood in an intuitive fashion quite independently of the formal machinery introduced. An electric field of rhombic symmetry may be applied to an atom of orthohelium in its lowest energy state in any one of a specified finite number of directions. The proposed classical interpretation must then predict the resulting change in the energy state of the atom in every one of these directions. For each such prediction there exists a direction in this specified set in which the field may be applied such that the predicted value is contradicted by the experimentally measured value.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 392,
+      "bottomRightX": 551,
+      "bottomRightY": 628,
+      "content": "The last section deals with the logic of quantum mechanics. It is proved there that the imbedding problem we considered earlier is equivalent to the question of whether the logic of quantum mechanics is essentially the same as classical logic. The precise meaning of this statement is given in that section. Roughly speaking a propositional formula $\\psi(x_1, \\cdots, x_n)$ is valid in quantum mechanics if for every \"meaningful\" substitution of quantum mechanical propositions $P_i$ for the variables $x_i$ this formula is true, where a meaningful substitution is one such that the propositions $P_i$ are only conjoined by the logical connectives in $\\psi(P_1, \\cdots P_n)$ if they are simultaneously measurable. It then follows from our results that there is a formula $\\varphi(x_1, \\cdots, x_{16})$ which is a classical tautology but is false for some meaningful substitution of quantum mechanical propositions. In this sense the logic of quantum mechanics differs from classical logic. The positive problem of describing quantum logic has been studied in Kochen and Specker [10] and [11].",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 627,
+      "bottomRightX": 552,
+      "bottomRightY": 867,
+      "content": "In Section 5 the present proof has been compared with von Neumann's well-known proof of the non-existence of hidden variables. von Neumann's proof is essentially based on the non-existence of a real-valued function on the set of quantum mechanical observables which is multiplicative on commuting observables and linear. In our proof we show the non-existence of a real-valued function which is both multiplicative and linear only on commuting observables. Thus, in a formal sense our result is stronger than von Neumann's. In Section 5 we attempt to show that this difference is essential. We show that von Neumann's criterion applies to a single particle of spin $\\frac{1}{2}$, implying that there is no classical description of this system. On the other hand, we contradict this conclusion by constructing a classical model of a spin $\\frac{1}{2}$ particle. This is done by imbedding the partial algebra of self-adjoint operators on a two-dimensional complex Hilbert space into the algebra of real-valued functions on a suitable phase space in such a way that the statistical condition is satisfied.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 944,
+      "bottomRightX": 420,
+      "bottomRightY": 979,
+      "content": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

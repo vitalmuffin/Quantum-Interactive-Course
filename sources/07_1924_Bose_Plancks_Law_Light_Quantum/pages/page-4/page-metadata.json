@@ -1,0 +1,182 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 215,
+      "topLeftY": 105,
+      "bottomRightX": 470,
+      "bottomRightY": 122,
+      "content": "Plancks Gesetz und Lichtquantenhypothese.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 104,
+      "bottomRightX": 581,
+      "bottomRightY": 121,
+      "content": "181",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 145,
+      "bottomRightX": 250,
+      "bottomRightY": 163,
+      "content": "Daraus folgt zunächst",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 163,
+      "bottomRightX": 397,
+      "bottomRightY": 198,
+      "content": "$$p_r^s = B^s e^{-\\frac{r h v^s}{\\beta}}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 198,
+      "bottomRightX": 160,
+      "bottomRightY": 215,
+      "content": "Da aber",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 215,
+      "bottomRightX": 488,
+      "bottomRightY": 259,
+      "content": "$$A^s = \\sum_r B^s e^{-\\frac{r h v^s}{\\beta}} = B^s \\left(1 - e^{-\\frac{h v^s}{\\beta}}\\right)^{-1},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 259,
+      "bottomRightX": 146,
+      "bottomRightY": 275,
+      "content": "so ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 265,
+      "topLeftY": 275,
+      "bottomRightX": 425,
+      "bottomRightY": 310,
+      "content": "$$B_s = A^s \\left(1 - e^{-\\frac{h v^s}{\\beta}}\\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 311,
+      "bottomRightX": 211,
+      "bottomRightY": 327,
+      "content": "Ferner hat man",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 327,
+      "bottomRightX": 498,
+      "bottomRightY": 444,
+      "content": "$$\\begin{aligned} N^s &= \\sum_r r p_r^s = \\sum_r r A^s \\left(1 - e^{-\\frac{h v^s}{\\beta}}\\right) e^{-\\frac{r h v^s}{\\beta}} \\\\ &= \\frac{A^s e^{-\\frac{h v^s}{\\beta}}}{1 - e^{-\\frac{h v^s}{\\beta}}}. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 453,
+      "bottomRightX": 515,
+      "bottomRightY": 473,
+      "content": "Mit Rücksicht auf den oben gefundenen Wert von $A^s$ ist also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 480,
+      "bottomRightX": 466,
+      "bottomRightY": 546,
+      "content": "$$E = \\sum_s \\frac{8 \\pi h v^{s^3} d v^s}{c^3} V \\frac{e^{-\\frac{h v^s}{\\beta}}}{1 - e^{-\\frac{h v^s}{\\beta}}}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 553,
+      "bottomRightX": 491,
+      "bottomRightY": 573,
+      "content": "Mit Benutzung der bisherigen Resultate findet man ferner",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 579,
+      "bottomRightX": 466,
+      "bottomRightY": 622,
+      "content": "$$S = k \\left[ \\frac{E}{\\beta} - \\sum_s A^s \\lg \\left(1 - e^{\\frac{h v^s}{\\beta}}\\right) \\right],$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 626,
+      "bottomRightX": 586,
+      "bottomRightY": 690,
+      "content": "woraus mit Rücksicht darauf, daß $\\frac{\\partial S}{\\partial E} = \\frac{1}{T}$, folgt, daß $\\beta = kT$. Setzt man dies in obige Gleichung für $E$ ein, so erhält man",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 695,
+      "bottomRightX": 459,
+      "bottomRightY": 750,
+      "content": "$$E = \\sum_s \\frac{8 \\pi h v^{s^3}}{c^3} V \\frac{1}{e^{\\frac{h v^s}{kT}} - 1} d v^s,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 756,
+      "bottomRightX": 440,
+      "bottomRightY": 775,
+      "content": "welche Gleichung Plancks Formel äquivalent ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 406,
+      "topLeftY": 775,
+      "bottomRightX": 586,
+      "bottomRightY": 793,
+      "content": "(Übersetzt von A. Einstein.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 802,
+      "bottomRightX": 586,
+      "bottomRightY": 882,
+      "content": "Anmerkung des Übersetzers. Boses Ableitung der Planckschen Formel bedeutet nach meiner Meinung einen wichtigen Fortschritt. Die hier benutzte Methode liefert auch die Quantentheorie des idealen Gases, wie ich an anderer Stelle ausführen will.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 69,
+      "topLeftY": 40,
+      "bottomRightX": 101,
+      "bottomRightY": 58,
+      "content": "116",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 258,
+      "topLeftY": 40,
+      "bottomRightX": 365,
+      "bottomRightY": 59,
+      "content": "E. Schrödinger",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 76,
+      "bottomRightX": 553,
+      "bottomRightY": 447,
+      "content": "hängt in eminentem Maße von dem *Zustand* ab, in welchem das Atom sich gerade befindet, während die erzwungenen Schwingungen einer Membran, Platte usw. bekanntlich ganz unabhängig sind von den eventuell übergelagerten Eigenschwingungen, mithin ein ganz unbrauchbares Bild liefern würden. *Zweitens* tritt auf der linken Seite von (13) an der Stelle des Eigenwertes, d. h. als „erregende Frequenz“ nicht die Frequenz $\\nu$ der Störungskraft *allein* auf, vielmehr das eine Mal ihre Summe, das andere Mal ihre Differenz gegen die der schon vorhandenen freien Schwingung. Das ist gleichfalls eine unerläßliche Forderung, denn sonst würden die Eigenfrequenzen selbst, die doch den *Termfrequenzen* entsprechen, als *Resonanzstellen* fungieren, und nicht wie zu fordern ist, und wie Gleichung (13) wirklich ergibt, die *Differenzen* der Eigenfrequenzen und zwar wie man mit Befriedigung erkennt: *nur* die Differenzen einer Eigenfrequenz, *die wirklich angeregt ist*, gegen alle übrigen, *nicht* die Differenzen von Eigenfrequenzpaaren, von denen *keine* angeregt ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 450,
+      "bottomRightX": 553,
+      "bottomRightY": 514,
+      "content": "Um dies genauer zu überblicken, führen wir das Lösungsverfahren bis zu Ende. Nach wohlbekannter Methode$^{1)}$ finden wir als *eindeutige* Lösungen von (13):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 527,
+      "bottomRightX": 420,
+      "bottomRightY": 578,
+      "content": "$$(14) \\quad w_{\\pm}(x) = \\frac{1}{2} \\sum_{n=1}^{\\infty} \\frac{a_{kn}' u_n(x)}{E_k - E_n \\pm h\\nu}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 576,
+      "bottomRightX": 104,
+      "bottomRightY": 594,
+      "content": "mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 595,
+      "bottomRightX": 435,
+      "bottomRightY": 628,
+      "content": "$$(15) \\quad a_{kn}' = \\int A(x) u_k(x) u_n(x) \\varrho(x) \\, dx.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 643,
+      "bottomRightX": 556,
+      "bottomRightY": 788,
+      "content": "$\\varrho(x)$ ist die „Dichtefunktion“, d. h. diejenige Funktion der Lagekoordinaten, mit der Gleichung (1') multipliziert werden muß, um sie zu einer selbstadjungierten zu machen. Die $u_n(x)$ sind als normiert vorausgesetzt. Ferner ist vorausgesetzt, daß $h\\nu$ mit *keiner der Eigenwertdifferenzen* $E_k - E_n$ *genau übereinstimmt*. Von diesem „Resonanzfall“ wird später die Rede sein (vgl. § 4).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 793,
+      "bottomRightX": 557,
+      "bottomRightY": 835,
+      "content": "Bilden wir nun aus (14) nach (12) und (10) die gesamte gestörte Schwingung, so ergibt sich:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 862,
+      "bottomRightX": 557,
+      "bottomRightY": 880,
+      "content": "1) Vgl. 3. Mitteilung §§ 1 u. 2, Text bei Gleichungen (8) u. (24).",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

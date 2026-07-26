@@ -1,0 +1,56 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 183,
+      "topLeftY": 142,
+      "bottomRightX": 203,
+      "bottomRightY": 155,
+      "content": "472",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 555,
+      "topLeftY": 142,
+      "bottomRightX": 607,
+      "bottomRightY": 155,
+      "content": "Feyman",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 171,
+      "bottomRightX": 607,
+      "bottomRightY": 407,
+      "content": "probability of something is $10^{-700}$, we say it isn't going to happen, and we're not caught out very often. So we could allow ourselves to do that. But the real difficulty is this: If we had many particles, we have $R$ particles, for example, in a system, then we would have to describe the probability of a circumstance by giving the probability to find these particles at points $x_1, x_2, \\dots, x_R$ at the time $t$. That would be a description of the probability of the system. And therefore, you'd need a $k$-digit number for every configuration of the system, for every arrangement of the $R$ values of $x$. And therefore if there are $N$ points in space, we'd need $N^R$ configurations. Actually, from our point of view that at each point in space there is information like electric fields and so on, $R$ will be of the same order as $N$ if the number of information bits is the same as the number of points in space, and therefore you'd have to have something like $N^N$ configurations to be described to get the probability out, and that's too big for our computer to hold if the size of the computer is of order $N$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 404,
+      "bottomRightX": 606,
+      "bottomRightY": 499,
+      "content": "We emphasize, if a description of an isolated part of nature with $N$ variables requires a general function of $N$ variables and if a computer stimulates this by actually computing or storing this function then doubling the size of nature ($N \\rightarrow 2N$) would require an exponentially explosive growth in the size of the simulating computer. It is therefore impossible, according to the rules stated, to simulate by calculating the probability.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 498,
+      "bottomRightX": 603,
+      "bottomRightY": 825,
+      "content": "Is there any other way? What kind of simulation can we have? We can't expect to compute the probability of configurations for a probabilistic theory. But the other way to simulate a probabilistic nature, which I'll call $\\mathfrak{N}$ for the moment, might still be to simulate the probabilistic nature by a computer $\\mathcal{C}$ which itself is probabilistic, in which you always randomize the last two digit's of every number, or you do something terrible to it. So it becomes what I'll call a probabilistic computer, in which the output is not a unique function of the input. And then you try to work it out so that it simulates nature in this sense: that $\\mathcal{C}$ goes from some state—initial state if you like—to some final state with the *same* probability that $\\mathfrak{N}$ goes from the corresponding initial state to the corresponding final state. Of course when you set up the machine and let nature do it, the imitator will not do the same thing, it only does it with the same probability. Is that no good? No it's O.K. How do you know what the probability is? You see, nature's unpredictable; how do you expect to predict it with a computer? You can't, —it's unpredictable if it's probabilistic. But what you really do in a probabilistic system is repeat the experiment in nature a large number of times. If you repeat the same experiment in the computer a large number of times (and that doesn't take any more time than it does to do the same thing in nature of course), it will give the frequency of a given final state proportional to the number of times, with approximately the same rate (plus",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

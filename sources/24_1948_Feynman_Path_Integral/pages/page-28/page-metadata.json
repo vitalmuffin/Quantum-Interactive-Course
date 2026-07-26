@@ -1,0 +1,128 @@
+{
+  "index": 27,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 157,
+      "bottomRightX": 587,
+      "bottomRightY": 191,
+      "content": "We expect the change of order $\\delta$ lasting for a time $\\epsilon$ to be of order $\\delta\\epsilon$. Hence, dividing by $\\delta\\epsilon i/\\hbar$, we can define the kinetic energy functional as",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 203,
+      "bottomRightX": 587,
+      "bottomRightY": 232,
+      "content": "$$\\mathrm{K.E.} = \\frac{1}{2}m[(x_{k+1} - x_k)/\\epsilon]^2 + \\hbar/2\\epsilon i. \\tag{52}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 243,
+      "bottomRightX": 589,
+      "bottomRightY": 293,
+      "content": "This is finite as $\\epsilon \\to 0$ in view of (50). By making use of an equation which results from substituting $m(x_{k+1} - x_k)/\\epsilon$ for $F$ in (48) we can also show that the expression (52) is equal (to order $\\epsilon$) to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 304,
+      "bottomRightX": 587,
+      "bottomRightY": 339,
+      "content": "$$\\mathrm{K.E.} = \\frac{1}{2}m\\left(\\frac{x_{k+1} - x_k}{\\epsilon}\\right)\\left(\\frac{x_k - x_{k-1}}{\\epsilon}\\right). \\tag{53}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 350,
+      "bottomRightX": 589,
+      "bottomRightY": 398,
+      "content": "That is, the easiest way to produce observable functionals involving powers of the velocities is to replace these powers by a product of velocities, each factor of which is taken at a slightly different time.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 420,
+      "bottomRightX": 333,
+      "bottomRightY": 438,
+      "content": "## 10. The Hamiltonian",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 446,
+      "bottomRightX": 258,
+      "bottomRightY": 460,
+      "content": "# **Momentum**",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 147,
+      "topLeftY": 474,
+      "bottomRightX": 587,
+      "bottomRightY": 587,
+      "content": "The Hamiltonian operator is of central importance in the usual formulation of quantum mechanics. We shall study in this section the functional corresponding to this operator. We could immediately define the Hamiltonian functional by adding the kinetic energy functional (52) or (53) to the potential energy. This method is artificial and does not exhibit the important relationship of the Hamiltonian to time. We shall define the Hamiltonian functional by the changes made in a state when it is displaced in time.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 147,
+      "topLeftY": 589,
+      "bottomRightX": 589,
+      "bottomRightY": 669,
+      "content": "To do this we shall have to digress a moment to point out that the subdivision of time into *equal* intervals is not necessary. Clearly, any subdivision into instants $t_i$ will be satisfactory; the limits are to be taken as the largest spacing, $t_{i+1} - t_i$ approaches zero. The total action $S$ must now be represented as a sum",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 291,
+      "topLeftY": 683,
+      "bottomRightX": 587,
+      "bottomRightY": 714,
+      "content": "$$S = \\sum_i S(x_{i+1}, t_{i+1}; x_i, t_i), \\tag{54}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 726,
+      "bottomRightX": 189,
+      "bottomRightY": 740,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 253,
+      "topLeftY": 739,
+      "bottomRightX": 587,
+      "bottomRightY": 790,
+      "content": "$$S(x_{i+1}, t_{i+1}; x_i, t_i) = \\int_{t_i}^{t_i+1} L(\\dot{x}(t), x(t)) dt, \\tag{55}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 834,
+      "bottomRightX": 376,
+      "bottomRightY": 846,
+      "content": "28",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

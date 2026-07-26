@@ -1,0 +1,227 @@
+{
+  "index": 27,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 100,
+      "bottomRightX": 134,
+      "bottomRightY": 117,
+      "content": "584",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 100,
+      "bottomRightX": 456,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 137,
+      "bottomRightX": 581,
+      "bottomRightY": 193,
+      "content": "„Strecken“-Spektrum. Dieses ist, wie wir sehen werden, mit dem „Term-spektrum“ der Physik identisch, während das „Frequenzspektrum“ durch Differenzbildung daraus entsteht.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 197,
+      "bottomRightX": 581,
+      "bottomRightY": 296,
+      "content": "Diese Hauptachsen-Transformation liefert uns nun unmittelbar die Lösung unseres dynamischen Problems: es sollte eine solche Transformation $(p^0 q^0) \\rightarrow (pq)$ gefunden werden, welche die Gleichungen (3), Kap. 2, invariant läßt und zugleich die Energie in eine Diagonalmatrix überführt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 299,
+      "bottomRightX": 581,
+      "bottomRightY": 337,
+      "content": "Denn nach dem obigen Satze der Algebra gibt es eine orthogonale Matrix $S$, für die also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 336,
+      "bottomRightX": 581,
+      "bottomRightY": 357,
+      "content": "$$S \\tilde{S}^* = 1, \\quad \\tilde{S}^* S = 1 \\quad (11)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 362,
+      "bottomRightX": 415,
+      "bottomRightY": 381,
+      "content": "ist, von der Art, daß durch die Transformation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 387,
+      "bottomRightX": 581,
+      "bottomRightY": 436,
+      "content": "$$\\left. \\begin{aligned} p_k &= S p_k^0 \\tilde{S}^* = S p_k^0 S^{-1}, \\\\ q_k &= S q_k^0 \\tilde{S}^* = S q_k^0 S^{-1} \\end{aligned} \\right\\} \\quad (12)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 440,
+      "bottomRightX": 581,
+      "bottomRightY": 494,
+      "content": "1. der Hermitesche Charakter von $p_k^0, q_k^0$ auch für die $p_k, q_k$ erhalten bleibt, 2. die Gleichungen (3), Kap. 2, invariant sind, 3. die Energie in eine Diagonalmatrix",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 498,
+      "bottomRightX": 581,
+      "bottomRightY": 519,
+      "content": "$$H(pq) = SH(p^0 q^0) S^{-1} = W \\quad (13)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 518,
+      "bottomRightX": 219,
+      "bottomRightY": 534,
+      "content": "übergeführt wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 538,
+      "bottomRightX": 581,
+      "bottomRightY": 596,
+      "content": "Wir wollen die Frage der Eindeutigkeit dieser Lösung diskutieren, vor allem, ob nicht durch eine andere orthogonale Transformation $T$ andere Energiewerte erzeugt werden können. Angenommen, es wäre",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 266,
+      "topLeftY": 602,
+      "bottomRightX": 420,
+      "bottomRightY": 620,
+      "content": "$$TH(p^0 q^0) T^{-1} = W'$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 625,
+      "bottomRightX": 497,
+      "bottomRightY": 643,
+      "content": "eine von $W$ verschiedene Diagonalmatrix. Dann hätte man",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 648,
+      "bottomRightX": 497,
+      "bottomRightY": 667,
+      "content": "$$TS^{-1} SH S^{-1} ST^{-1} = TS^{-1} W (TS^{-1})^{-1},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 672,
+      "bottomRightX": 581,
+      "bottomRightY": 710,
+      "content": "und unsere Frage bedeutet, ob es möglich ist, aus einer Diagonalmatrix $W$ eine andere $W'$ durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 233,
+      "topLeftY": 714,
+      "bottomRightX": 581,
+      "bottomRightY": 735,
+      "content": "$$W' = MWM^{-1}, \\quad M\\tilde{M}^* = 1 \\quad (14)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 740,
+      "bottomRightX": 581,
+      "bottomRightY": 776,
+      "content": "zu bilden, derart, daß $W'$ nicht durch Permutation der Diagonalglieder aus $W$ zu erhalten ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 782,
+      "bottomRightX": 482,
+      "bottomRightY": 799,
+      "content": "Die Gleichung (14), Kap. 3, aber läßt sich schreiben",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 803,
+      "bottomRightX": 408,
+      "bottomRightY": 821,
+      "content": "$$W'M - MW = 0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 821,
+      "bottomRightX": 231,
+      "bottomRightY": 837,
+      "content": "und bedeutet daher",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 837,
+      "bottomRightX": 581,
+      "bottomRightY": 855,
+      "content": "$$M(nm) (W'_n - W_m) = 0. \\quad (14a)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 860,
+      "bottomRightX": 511,
+      "bottomRightY": 879,
+      "content": "Aus der Orthogonalität von $M$ folgt für $m = n$ insbesondere",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 883,
+      "bottomRightX": 478,
+      "bottomRightY": 914,
+      "content": "$$\\sum_k |M(nk)|^2 = 1, \\quad \\sum_k |M(kn)|^2 = 1;$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 185,
+      "topLeftY": 144,
+      "bottomRightX": 203,
+      "bottomRightY": 156,
+      "content": "482",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 561,
+      "topLeftY": 143,
+      "bottomRightX": 607,
+      "bottomRightY": 157,
+      "content": "Feynman",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 314,
+      "topLeftY": 172,
+      "bottomRightX": 470,
+      "bottomRightY": 268,
+      "content": "![img-2.jpeg](img-2.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-2.jpeg"
+    },
+    {
+      "topLeftX": 377,
+      "topLeftY": 279,
+      "bottomRightX": 409,
+      "bottomRightY": 292,
+      "content": "Fig. 3.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 310,
+      "bottomRightX": 606,
+      "bottomRightY": 344,
+      "content": "You'll find the following. When a photon comes in, you always find that only one of the four counters goes off.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 349,
+      "bottomRightX": 607,
+      "bottomRightY": 413,
+      "content": "If the photon is $O$ from the first calcite, then the second calcite gives $O-O$ with probability $\\cos^2\\phi$ or $O-E$ with the complementary probability $1-\\cos^1\\phi=\\sin^2\\phi$. Likewise an $E$ photon gives a $E-O$ with the probability $\\sin^2\\phi$ or an $E-E$ with the probability $\\cos^2\\phi$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 435,
+      "bottomRightX": 547,
+      "bottomRightY": 451,
+      "content": "### 8. TWO-PHOTON CORRELATION EXPERIMENT",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 467,
+      "bottomRightX": 604,
+      "bottomRightY": 497,
+      "content": "Let us turn now to the two photon correlation experiment (see Figure 4).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 498,
+      "bottomRightX": 606,
+      "bottomRightY": 577,
+      "content": "What can happen is that an atom emits two photons in opposite direction (e.g., the $3s \\to 2p \\to 1s$ transition in the H atom). They are observed simultaneously (say, by you and by me) through two calcites set at $\\phi_1$ and $\\phi_2$ to the vertical. Quantum theory and experiment agree that the probability $P_{OO}$ that both of us detect an ordinary photon is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 330,
+      "topLeftY": 588,
+      "bottomRightX": 454,
+      "bottomRightY": 608,
+      "content": "$$P_{OO} = \\frac{1}{2} \\cos^2(\\phi_2 - \\phi_1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 620,
+      "bottomRightX": 604,
+      "bottomRightY": 637,
+      "content": "The probability $P_{EE}$ that we both observe an extraordinary ray is the same",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 330,
+      "topLeftY": 648,
+      "bottomRightX": 454,
+      "bottomRightY": 668,
+      "content": "$$P_{EE} = \\frac{1}{2} \\cos^2(\\phi_2 - \\phi_1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 680,
+      "bottomRightX": 473,
+      "bottomRightY": 697,
+      "content": "The probability $P_{OE}$ that I find $O$ and you find $E$ is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 331,
+      "topLeftY": 709,
+      "bottomRightX": 451,
+      "bottomRightY": 729,
+      "content": "$$P_{OE} = \\frac{1}{2} \\sin^2(\\phi_2 - \\phi_1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 298,
+      "topLeftY": 742,
+      "bottomRightX": 480,
+      "bottomRightY": 804,
+      "content": "![img-3.jpeg](img-3.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-3.jpeg"
+    },
+    {
+      "topLeftX": 373,
+      "topLeftY": 814,
+      "bottomRightX": 405,
+      "bottomRightY": 827,
+      "content": "Fig. 4.",
+      "confidenceScores": null,
+      "type": "caption"
+    }
+  ]
+}

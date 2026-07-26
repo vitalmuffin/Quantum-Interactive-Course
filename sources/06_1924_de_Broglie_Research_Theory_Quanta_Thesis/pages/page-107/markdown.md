@@ -1,0 +1,11 @@
+RECHERCHES SUR LA THÉORIE DES QUANTA
+
+127
+
+amorphes en insistant particulièrement sur la toute récente théorie de MM. P. Debye et A.-H. Compton qui rend, semble-t-il, presque tangible l'existence des quanta de lumière.
+
+Enfin, au chapitre VII, nous introduisons l'onde de phase dans la Mécanique statistique, nous retrouvons aussi la valeur de l'élément d'extension en phase que Planck a proposée et nous obtenons la loi du rayonnement noir comme la loi de Maxwell d'un gaz formé d'atomes de lumière à condition toutefois d'admettre une certaine cohérence entre les mouvements de certains atomes, cohérence dont l'étude des fluctuations de l'énergie paraît aussi montrer l'intérêt.
+
+Bref, j'ai développé des idées nouvelles pouvant peut-être contribuer à hâter la synthèse nécessaire qui, de nouveau, unifiera la physique des radiations aujourd'hui si étrangement scindées en deux domaines où règnent respectivement deux conceptions opposées : la conception corpusculaire et celle des ondes. J'ai pressenti que les principes de la Dynamique du point matériel, si on savait les analyser correctement, se présenteraient sans doute comme exprimant des propagations et des concordances de phases et j'ai cherché, de mon mieux, à tirer de là, l'explication d'un certain nombre d'énigmes posées par la théorie des Quanta. En tentant cet effort je suis parvenu à quelques conclusions intéressantes qui permettent peut-être d'espérer arriver à des résultats plus complets en poursuivant dans la même voie. Mais il faudrait d'abord constituer une théorie électromagnétique nouvelle conforme naturellement au principe de Relativité, rendant compte de la structure discontinue de l'énergie radiante et de la nature physique des ondes de phase, laissant enfin à la théorie de Maxwell-Lorentz un caractère d'approximation statistique qui expliquerait la légitimité de son emploi et l'exactitude de ses prévisions dans un très grand nombre de cas.
+
+J'ai intentionnellement laissé assez vagues les définitions de l'onde de phase et du phénomène périodique dont elle

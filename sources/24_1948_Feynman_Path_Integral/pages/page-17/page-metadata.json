@@ -1,0 +1,92 @@
+{
+  "index": 16,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 156,
+      "bottomRightX": 587,
+      "bottomRightY": 187,
+      "content": "Canceling $\\psi(x,t)$ from both sides, and comparing terms to first order in $\\epsilon$ and multiplying by $-\\hbar/i$ one obtains",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 200,
+      "bottomRightX": 586,
+      "bottomRightY": 235,
+      "content": "$$-\\frac{\\hbar}{i}\\frac{\\partial\\psi}{\\partial t}=\\frac{1}{2\\dot{m}}\\left(\\frac{\\hbar}{i}\\frac{\\partial}{\\partial x}\\right)^2\\psi+V(x)\\psi,\\quad(30)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 248,
+      "bottomRightX": 505,
+      "bottomRightY": 263,
+      "content": "which is Schroedinger's equation for the problem in question.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 264,
+      "bottomRightX": 587,
+      "bottomRightY": 344,
+      "content": "The equation for $\\chi^*$ can be developed in the same way, but adding a factor *decreases* the time by one step, i.e., $\\chi^*$ satisfies an equation like (30) but with the sign of the time reversed. By taking complex conjugates we can conclude that $\\chi$ satisfies the same equation as $\\psi$, i.e., an experiment can be defined by the particular state $\\chi$ to which it corresponds.$^{14}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 345,
+      "bottomRightX": 587,
+      "bottomRightY": 459,
+      "content": "This example shows that most of the contribution to $\\psi(x_{k+1},t+\\epsilon)$ comes from values of $x_k$ in $\\psi(x_k,t)$ which are quite close to $x_{k+1}$ (distant of order $\\epsilon^{1/2}$) so that the integral equation (23) can, in the limit, be replaced by a differential equation. The 'velocities,' $(x_{k+1}-x_k)/\\epsilon$ which are important are very high, being of order $(\\hbar/m\\epsilon)^{1/2}$ which diverges as $\\epsilon\\rightarrow 0$. The paths involved are, therefore, continuous but possess no derivative. They are of a type familiar from study of Brownian motion.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 461,
+      "bottomRightX": 587,
+      "bottomRightY": 607,
+      "content": "It is these large velocities which make it so necessary to be careful in approximating $S(x_{k+1},x_k)$ from Eq. (11).$^{15}$ To replace $V(x_{k+1})$ by $V(x_k)$ would, of course, change the exponent in (18) by $i\\epsilon[V(x_k)-V(x_{k+1})]/\\hbar$ which is of order $\\epsilon(x_{k+1}-x_k)$, and thus lead to unimportant terms of higher order than $\\epsilon$ on the right-hand side of (29). It is for this reason that (20) and (21) are equally satisfactory approximations to $S(x_{i+1},x_i)$ when there is no vector potential. A term, linear in velocity, however, arising from a vector potential, as $A\\dot{x}dt$ must be handled more carefully. Here a term in $S(x_{k+1},x_k)$ such as $A(x_{k+1})\\times(x_{k+1}-x_k)$ differs from $A(x_k)(x_{k+1}-x_k)$ by a term of order",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 615,
+      "bottomRightX": 587,
+      "bottomRightY": 698,
+      "content": "$^{14}$Dr. Hartland Snyder has pointed out to me, in private conversation, the very interesting possibility that there may be a generalization of quantum mechanics in which the states measured by experiment cannot be prepared; that is, there would be no state into which a system may be put for which a particular experiment gives certainty for a result. The class of functions $\\chi$ is not identical to the class of available states $\\psi$. This would result if, for example, $\\chi$ satisfied a different equation than $\\psi$.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 698,
+      "bottomRightX": 587,
+      "bottomRightY": 805,
+      "content": "$^{15}$Equation (18) is actually exact when (11) is used for $S(x_{i+1},x_i)$ for arbitrary $\\epsilon$ for cases in which the potential does not involve $x$ to higher powers than the second (e.g., free particle, harmonic oscillator). It is necessary, however, to use a more accurate value of $A$. One can define $A$ in this way. Assume classical particles with $k$ degrees of freedom start from the point $x_i,t_i$, with uniform density in momentum space. Write the number of particles having a given component of momentum in range $dp$ as $dp/p_1$, with $p_0$, constant. Then $A=(2\\pi\\hbar i/p_0)^{k/2}\\rho^{-1/2}$, where $\\rho$ is the density in $k$ dimensional coordinate space $x_{i+1}$ of these particles at time $t_{i+1}$.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 359,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "17",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

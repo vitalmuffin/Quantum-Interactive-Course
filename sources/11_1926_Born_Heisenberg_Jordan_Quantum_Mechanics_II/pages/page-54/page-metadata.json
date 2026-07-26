@@ -1,0 +1,119 @@
+{
+  "index": 53,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 102,
+      "topLeftY": 101,
+      "bottomRightX": 132,
+      "bottomRightY": 117,
+      "content": "610",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 101,
+      "bottomRightX": 454,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 138,
+      "bottomRightX": 581,
+      "bottomRightY": 235,
+      "content": "Die zugeordnete Lichtquantenstatistik zur Debyeschen Schwingungsstatistik wird durch die von Wolfke¹⁾ und Bothe²⁾ entwickelte Theorie dargestellt. Allerdings sprechen diese Verfasser nicht von r-fach besetzten Zellen, sondern bezeichnen (37), Kap. 4, als Anzahl der „r-quantigen Lichtquantenmoleküle“.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 240,
+      "bottomRightX": 583,
+      "bottomRightY": 444,
+      "content": "Die erwähnte Unzulänglichkeit der klassischen Wellentheorie tritt bekanntlich bei der Untersuchung der Energieschwankungen im Strahlungsfeld folgendermaßen zutage. Kommuniziert ein Volumen V mit einem sehr großen Volumen derart, daß die Wellen eines schmalen Bereichs v, v + dv ungehindert von einem ins andere laufen können, während für alle anderen Wellen die Volumina getrennt bleiben, und ist E die Energie der Wellen mit der Frequenz v in V, so kann das Schwankungsquadrat $\\overline{\\mathcal{A}}^2 = (E - \\overline{E})^2$ nach Einstein durch eine Umkehrung des Boltzmannschen Prinzips berechnet werden. Ist z_v dv die auf die Volumeneinheit bezogene Anzahl der Eigenschwingungen (Zellen) für dv, so daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 450,
+      "bottomRightX": 583,
+      "bottomRightY": 498,
+      "content": "$$\\overline{E} = \\frac{z_v h v}{e^{\\frac{h v}{k T}} - 1} \\cdot v \\quad (39)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 509,
+      "bottomRightX": 230,
+      "bottomRightY": 528,
+      "content": "gilt, so ergibt sich",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 268,
+      "topLeftY": 512,
+      "bottomRightX": 583,
+      "bottomRightY": 549,
+      "content": "$$\\overline{\\mathcal{A}}^2 = h v \\overline{E} + \\frac{\\overline{E}^2}{z_v V} \\cdot \\quad (40)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 556,
+      "bottomRightX": 585,
+      "bottomRightY": 794,
+      "content": "Berechnet man jedoch die Energieschwankungen aus den Interferenzen im Wellenfeld, so ergibt die klassische Theorie, wie Lorentz³⁾ ausführlich nachgerechnet hat, nur den zweiten Summanden in (40), Kap. 4. Dieser Widerspruch besteht natürlich ganz allgemein auch für die Wellen etwa in einem Kristallgitter oder einem elastischen Kontinuum. Sein Ursprung ist nach Ehrenfest⁴⁾ darin zu suchen, daß in der Einsteinschen Überlegung Additivität der Entropien von V und dem großen Volumen vorausgesetzt wurde. Diese Additivität der Entropien besteht aber nach der klassischen Theorie der Eigenschwingungen nur im Gültigkeitsbereich des Rayleigh-Jeansschen Gesetzes. Eben das Nichtbestehen statistischer Unabhängigkeit der Teilvolumina im allgemeinen Falle ist ein so unnatürliches Ergebnis der bisherigen Theorie der Hohl-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 811,
+      "bottomRightX": 383,
+      "bottomRightY": 829,
+      "content": "¹⁾ M. Wolfke, Phys. ZS. 22, 375, 1921.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 827,
+      "bottomRightX": 479,
+      "bottomRightY": 843,
+      "content": "²⁾ W. Bothe, ZS. f. Phys. 20, 145, 1923; 23, 214, 1924.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 841,
+      "bottomRightX": 585,
+      "bottomRightY": 872,
+      "content": "³⁾ H. A. Lorentz, Les Théories Statistiques en Thermodynamique (Leipzig, 1916), S. 59.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 871,
+      "bottomRightX": 587,
+      "bottomRightY": 917,
+      "content": "⁴⁾ P. Ehrenfest, Vortrag im Göttinger Seminar über Struktur der Materie, Sommer 1925. Der Inhalt dieses Vortrages ist uns bei unseren Überlegungen eine wertvolle Hilfe gewesen. Inzwischen veröffentlicht, ZS. f. Phys. 34, 362, 1925.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

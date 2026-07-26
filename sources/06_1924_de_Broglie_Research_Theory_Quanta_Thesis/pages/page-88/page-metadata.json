@@ -1,0 +1,110 @@
+{
+  "index": 87,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 41,
+      "topLeftY": 19,
+      "bottomRightX": 75,
+      "bottomRightY": 39,
+      "content": "108",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 23,
+      "bottomRightX": 378,
+      "bottomRightY": 40,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 63,
+      "bottomRightX": 504,
+      "bottomRightY": 89,
+      "content": "ploi de la dynamique classique, nous trouvons alors :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 166,
+      "topLeftY": 107,
+      "bottomRightX": 446,
+      "bottomRightY": 143,
+      "content": "$$w = \\frac{1}{2} m_0 v^2 \\quad dpdqdr = 4\\pi G^2 dG$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 163,
+      "bottomRightX": 562,
+      "bottomRightY": 270,
+      "content": "où $G = m_0 v = \\sqrt{2m_0 w}$ est la quantité de mouvement. Finalement, le nombre des atomes contenus dans l'élément de volume dont l'énergie est comprise entre $w$ et $w + dw$ est donnée par la formule classique :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 286,
+      "bottomRightX": 462,
+      "bottomRightY": 329,
+      "content": "$$dn = C^{\\text{te}} e^{-\\frac{w}{kT}} 4\\pi m_0^{\\frac{3}{2}} \\sqrt{2w} \\, dw dx dy dz$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 348,
+      "bottomRightX": 564,
+      "bottomRightY": 530,
+      "content": "Reste à calculer l'énergie libre et l'entropie. Pour cela, nous prendrons comme objet de la théorie générale non une molécule isolée, mais un gaz tout entier formé de N molécules identiques de masse $m_0$ dont l'état est par suite défini par 6N paramètres. L'énergie libre du gaz dans le sens thermodynamique sera définie à la façon de Gibbs, comme la valeur moyenne de l'énergie libre des $\\mathfrak{K}$ gaz, soit :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 547,
+      "bottomRightX": 474,
+      "bottomRightY": 591,
+      "content": "$$\\bar{F} = -kT \\log \\left[ \\sum_1^m e^{-\\beta \\varepsilon i} \\right] \\quad \\beta = \\frac{1}{kT}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 610,
+      "bottomRightX": 565,
+      "bottomRightY": 843,
+      "content": "M. Planck a précisé comment cette somme devait être effectuée, elle peut s'exprimer par une intégrale étendue à toute l'extension en phase à 6N dimensions, intégrale qui elle-même est équivalente au produit de N intégrales sextuples étendues à l'extension en phase de chaque molécule; mais il faut avoir soin de diviser le résultat par N! en raison de l'identité des molécules. L'énergie libre étant ainsi calculée, on en déduit l'entropie et l'énergie par les relations thermodynamiques classiques.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 188,
+      "topLeftY": 860,
+      "bottomRightX": 416,
+      "bottomRightY": 898,
+      "content": "$$S = -\\frac{\\partial F}{\\partial T} \\quad E = F + TS$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 916,
+      "bottomRightX": 565,
+      "bottomRightY": 967,
+      "content": "Pour effectuer les calculs, il faut préciser quelle est la constante dont le produit par l'élément d'extension en phase",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

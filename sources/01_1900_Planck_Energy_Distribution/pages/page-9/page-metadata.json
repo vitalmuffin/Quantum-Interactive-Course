@@ -1,0 +1,164 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 126,
+    "height": 1020,
+    "width": 712
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 58,
+      "bottomRightX": 132,
+      "bottomRightY": 77,
+      "content": "Nr. 17.]",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 213,
+      "topLeftY": 58,
+      "bottomRightX": 445,
+      "bottomRightY": 78,
+      "content": "Sitzung vom 14. December 1900.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 544,
+      "topLeftY": 60,
+      "bottomRightX": 578,
+      "bottomRightY": 78,
+      "content": "245",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 96,
+      "bottomRightX": 578,
+      "bottomRightY": 139,
+      "content": "Die LOSCHMIDT'sche Constante $\\mathfrak{N}$, d. h. die Anzahl Gasmolecule in 1 ccm bei $0^\\circ$ C. und 1 Atm. Druck ist:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 145,
+      "bottomRightX": 442,
+      "bottomRightY": 180,
+      "content": "$$\\mathfrak{N} = \\frac{1018200}{R \\cdot 273 \\cdot \\omega} = 2,76 \\cdot 10^{19}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 185,
+      "bottomRightX": 354,
+      "bottomRightY": 206,
+      "content": "Hr. DRUDE$^{1)}$ findet $\\mathfrak{N} = 2,1 \\cdot 10^{19}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 206,
+      "bottomRightX": 578,
+      "bottomRightY": 269,
+      "content": "Die BOLTZMANN-DRUDE'sche Constante $\\alpha$, d. h. die mittlere lebendige Kraft eines Atomes bei der absoluten Temperatur 1 ist:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 270,
+      "bottomRightX": 452,
+      "bottomRightY": 291,
+      "content": "$$\\alpha = \\frac{3}{2} \\omega R = \\frac{3}{2} k = 2,02 \\cdot 10^{-16}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 294,
+      "bottomRightX": 373,
+      "bottomRightY": 315,
+      "content": "Hr. DRUDE$^{2)}$ findet $\\alpha = 2,65 \\cdot 10^{-16}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 315,
+      "bottomRightX": 579,
+      "bottomRightY": 400,
+      "content": "Das Elementarquantum der Elektrizität $e$, d. h. die elektrische Ladung eines positiven einwertigen Ions oder Elektrons ist, wenn $\\varepsilon$ die bekannte Ladung eines einwertigen g-Ions bedeutet:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 176,
+      "topLeftY": 400,
+      "bottomRightX": 476,
+      "bottomRightY": 421,
+      "content": "$$e = \\varepsilon \\omega = 4,69 \\cdot 10^{-10} \\text{ elektrostatisch}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 425,
+      "bottomRightX": 579,
+      "bottomRightY": 468,
+      "content": "Hr. F. RICHARZ$^{3)}$ findet $1,29 \\cdot 10^{-10}$, Hr. J. J. THOMSON$^{4)}$ neuerdings $6,5 \\cdot 10^{-10}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 469,
+      "bottomRightX": 581,
+      "bottomRightY": 640,
+      "content": "Alle diese Beziehungen beanspruchen, wenn die Theorie überhaupt richtig ist, nicht annähernde, sondern absolute Gültigkeit. Daher fällt die Genauigkeit der berechneten Zahlen wesentlich mit derjenigen der relativ unsichersten, der Strahlungsconstanten $k$, zusammen, und übertrifft somit bei weitem alle bisherigen Bestimmungen dieser Grössen. Ihre Prüfung durch directere Methoden wird eine ebenso wichtige wie notwendige Aufgabe der weiteren Forschung sein.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 657,
+      "bottomRightX": 422,
+      "bottomRightY": 676,
+      "content": "1) P. DRUDE, Ann. d. Phys. 1. p. 578. 1900.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 676,
+      "bottomRightX": 163,
+      "bottomRightY": 692,
+      "content": "2) l. c.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 692,
+      "bottomRightX": 424,
+      "bottomRightY": 711,
+      "content": "3) F. RICHARZ, Wied. Ann. 52. p. 397. 1894.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 711,
+      "bottomRightX": 464,
+      "bottomRightY": 729,
+      "content": "4) J. J. THOMSON, Phil. Mag. (5) 46. p. 528. 1898.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 150,
+      "bottomRightX": 532,
+      "bottomRightY": 168,
+      "content": "$S_1$ and $0$, the measurement will transform the initial total state:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 254,
+      "topLeftY": 177,
+      "bottomRightX": 603,
+      "bottomRightY": 200,
+      "content": "$$\\psi^{S_1+S_2+\\cdots+S_n+0} = \\psi^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots]} \\quad (13)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 208,
+      "bottomRightX": 252,
+      "bottomRightY": 224,
+      "content": "into the final state:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 232,
+      "bottomRightX": 603,
+      "bottomRightY": 269,
+      "content": "$$\\psi'^{S_1+S_2+\\cdots+S_n+0} = \\sum_i a_i \\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]} \\quad (14)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 271,
+      "bottomRightX": 600,
+      "bottomRightY": 300,
+      "content": "where $a_i = (\\phi_i^{S_1}, \\psi^{S_1})$ and $\\phi_i^{S_1}$ are the eigenfunctions of the observation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 298,
+      "bottomRightX": 605,
+      "bottomRightY": 332,
+      "content": "Thus we arrive at the general rule for the transformation of total state functions which describe systems within which observation processes occur:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 340,
+      "bottomRightX": 605,
+      "bottomRightY": 378,
+      "content": "*Rule 1:* The observation of a quantity $A$, with eigenfunctions $\\phi_i^{S_1}$, in a system $S_1$ by the observer $0$, transforms the total state according to:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 386,
+      "bottomRightX": 603,
+      "bottomRightY": 421,
+      "content": "$$\\psi^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots]} \\rightarrow \\sum_i a_i \\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]} \\quad (15)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 431,
+      "bottomRightX": 206,
+      "bottomRightY": 446,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 335,
+      "topLeftY": 445,
+      "bottomRightX": 432,
+      "bottomRightY": 467,
+      "content": "$$a_i = (\\phi_i^{S_1}, \\psi^{S_1}).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 478,
+      "bottomRightX": 605,
+      "bottomRightY": 565,
+      "content": "If we next consider a *second* observation to be made, where our total state is now a superposition, we can apply Rule 1 separately to each element of the superposition, since each element separately obeys the wave equation and behaves independently of the remaining elements, and then superpose the results to obtain the final solution. We formulate this as:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 574,
+      "bottomRightX": 605,
+      "bottomRightY": 647,
+      "content": "*Rule 2:* Rule 1 may be applied separately to each element of a superposition of total system states, the results being superposed to obtain the final total state. Thus, a determination of $B$, with eigenfunctions $\\eta_j^{S_2}$, on $S_2$ by the observer $0$ transforms the total state",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 304,
+      "topLeftY": 656,
+      "bottomRightX": 603,
+      "bottomRightY": 692,
+      "content": "$$\\sum_i a_i \\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]} \\quad (16)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 701,
+      "bottomRightX": 254,
+      "bottomRightY": 717,
+      "content": "into the state",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 714,
+      "bottomRightX": 603,
+      "bottomRightY": 751,
+      "content": "$$\\sum_{i,j} a_i b_j \\phi_i^{S_1}\\eta_j^{S_2}\\psi^{S_3}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i,\\beta_j]} \\quad (17)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 757,
+      "bottomRightX": 605,
+      "bottomRightY": 814,
+      "content": "where $b_j = (\\eta_j^{S_2}, \\psi^{S_2})$, which follows from the application of Rule 1 to each element $\\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]}$, and then superposing the results with the coefficients $a_i$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 359,
+      "topLeftY": 832,
+      "bottomRightX": 376,
+      "bottomRightY": 848,
+      "content": "12",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

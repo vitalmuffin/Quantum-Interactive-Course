@@ -1,0 +1,128 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 162,
+      "topLeftY": 94,
+      "bottomRightX": 511,
+      "bottomRightY": 110,
+      "content": "Wechselwirkung neutraler Atome und homöopolare Bindung.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 546,
+      "topLeftY": 94,
+      "bottomRightX": 576,
+      "bottomRightY": 110,
+      "content": "465",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 131,
+      "bottomRightX": 576,
+      "bottomRightY": 169,
+      "content": "muß also verschwinden. Weiterhin treten in dem Säkularproblem folgende Matrizenelemente auf:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 171,
+      "bottomRightX": 457,
+      "bottomRightY": 276,
+      "content": "$$\\begin{aligned} \\int H \\Psi_1^2 d\\tau &= \\int H \\Psi_2^2 d\\tau = H_{11}, \\\\ \\int H \\Psi_1 \\Psi_2 d\\tau &= H_{12}, \\\\ \\int H \\Phi_1^2 d\\tau &= \\int H \\Phi_2^2 d\\tau = K_{11}, \\\\ \\int H \\Phi_1 \\Phi_2 d\\tau &= 0. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 281,
+      "bottomRightX": 579,
+      "bottomRightY": 319,
+      "content": "Das Säkularproblem vierten Grades für die Störungsenergien $E$ lautet dann:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 318,
+      "bottomRightX": 529,
+      "bottomRightY": 421,
+      "content": "$$\\begin{array}{c|ccc} & \\Psi_1 & \\Psi_2 & \\Phi_1 & \\Phi_2 \\\\ \\Psi_1 & H_{11} - E & H_{12} & 0 & 0 \\\\ \\Psi_2 & H_{12} & H_{11} - E & 0 & 0 \\\\ \\Phi_1 & 0 & 0 & K_{11} - E & 0 \\\\ \\Phi_2 & 0 & 0 & 0 & K_{11} - E \\end{array} = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 423,
+      "bottomRightX": 579,
+      "bottomRightY": 461,
+      "content": "Man erhält einen zweifach entarteten Eigenwert $K_{11}$ und zwei nicht entartete Eigenwerte:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 277,
+      "topLeftY": 459,
+      "bottomRightX": 579,
+      "bottomRightY": 538,
+      "content": "$$\\left. \\begin{aligned} E_\\alpha &= H_{11} + H_{12}, \\\\ E_\\beta &= H_{11} - H_{12}, \\\\ E_\\gamma &= K_{11}. \\end{aligned} \\right\\} \\quad (19)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 543,
+      "bottomRightX": 580,
+      "bottomRightY": 582,
+      "content": "Dazu findet man nach bekanntem Verfahren die Eigenfunktionen nullter Ordnung:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 586,
+      "bottomRightX": 580,
+      "bottomRightY": 668,
+      "content": "$$\\left. \\begin{aligned} \\alpha &= \\Psi_1 + \\Psi_2 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12} + \\psi_{14} \\varphi_{23} + \\psi_{23} \\varphi_{14}, \\\\ \\beta &= \\Psi_1 - \\Psi_2 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12} - \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}, \\\\ \\gamma &= \\Phi_1 = \\psi_{12} \\varphi_{34} - \\psi_{34} \\varphi_{12}, \\\\ \\delta &= \\Phi_2 = \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}. \\end{aligned} \\right\\} \\quad (20)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 670,
+      "bottomRightX": 583,
+      "bottomRightY": 809,
+      "content": "Aus demselben Grunde wie beim 2-Wasserstoffproblem muß $E_\\alpha$ der tiefste Eigenwert, infolgedessen $H_{12} < 0$ sein; denn zu $E_\\alpha$ gehört die knotenlose symmetrische Eigenfunktion $\\alpha$. Wir werden indes im folgenden Abschnitt zeigen, daß dieses $\\alpha$, welches energetisch eine Molekülbildung ermöglichen würde, bei neutralem He quantentheoretisch nicht zulässig ist, daß vielmehr von den vier Lösungen (20) einzig $\\beta$ auftreten kann, welche wieder elastische Reflexion bedeutet.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 811,
+      "bottomRightX": 583,
+      "bottomRightY": 870,
+      "content": "§ 4. Pauliprinzip und Molekülbildung. 1. Wie man sich leicht überzeugt, gehören unsere Lösungen (4a) bzw. (20) Systemen an, welche nicht miteinander kombinieren¹. Dieser Umstand eröffnet die Möglich-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 880,
+      "bottomRightX": 583,
+      "bottomRightY": 913,
+      "content": "¹ Sie unterscheiden sich darin von einem ähnlichen, kürzlich von F. Hund, ZS. f. Phys. 40, 742, 1927, untersuchten Falle, nämlich dem Zweizentrenproblem",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

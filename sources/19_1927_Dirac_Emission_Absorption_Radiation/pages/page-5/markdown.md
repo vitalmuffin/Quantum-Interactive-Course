@@ -1,0 +1,13 @@
+form
+
+$$\int H(\xi'\xi'')d\xi''(\xi''/\alpha') = ih\partial(\xi'/\alpha')/\partial t, \quad (3')$$
+
+in which it can be applied to systems for which the Hamiltonian involves the time explicitly.
+
+One may have a dynamical system specified by a Hamiltonian $H$ which cannot be expressed as an algebraic function of any set of canonical variables, but which can all the same be represented by a matrix $H(\xi'\xi'')$. Such a problem can still be solved by the present method, since one can still use equation (3) to obtain the energy levels and eigenfunctions. We shall find that the Hamiltonian which describes the interaction of a light-quantum and an atomic system is of this more general type, so that the interaction can be treated mathematically, although one cannot talk about an interaction potential energy in the usual sense.
+
+It should be observed that there is a difference between a light-wave and the de Broglie or Schrödinger wave associated with the light-quanta. Firstly, the light-wave is always real, while the de Broglie wave associated with a light-quantum moving in a definite direction must be taken to involve an imaginary exponential. A more important difference is that their intensities are to be interpreted in different ways. The number of light-quanta per unit volume associated with a monochromatic light-wave equals the energy per unit volume of the wave divided by the energy $(2\pi h)\nu$ of a single light-quantum. On the other hand a monochromatic de Broglie wave of amplitude $a$ (multiplied into the imaginary exponential factor) must be interpreted as representing $a^2$ light-quanta per unit volume for all frequencies. This is a special case of the general rule for interpreting the matrix analysis,$^6$ according to which, if $(\xi'/\alpha')$ or $\psi_{\alpha'}(\xi'_k)$ is the eigenfunction in the variables $\xi_k$ of the state $\alpha'$ of an atomic system (or simple particle), $|\psi_{\alpha'}(\xi'_k)|^2$ is the probability of each $\xi_k$ having the value $\xi'_k$, [or $|\psi_{\alpha'}(\xi'_k)|^2 d\xi'_1 d\xi'_2 \dots$ is the probability of each $\xi_k$ lying between the values $\xi'_k$ and $\xi'_k + d\xi'_k$, when the $\xi_k$ have continuous ranges of characteristic values] on the assumption that all phases of the system are equally probable. The wave whose intensity is to be interpreted in the first of these two ways appears in the theory only when one is dealing with an assembly of the associated particles satisfying the Einstein-Bose statistics. There is thus no such wave associated with electrons.
+
+---$^6$Loc. cit., II, §§ 6,7.
+
+5

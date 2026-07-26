@@ -1,0 +1,156 @@
+{
+  "index": 20,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 78,
+      "topLeftY": 91,
+      "bottomRightX": 97,
+      "bottomRightY": 106,
+      "content": "78",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 92,
+      "bottomRightX": 400,
+      "bottomRightY": 108,
+      "content": "S. KOCHEN & E. P. SPECKER",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 122,
+      "bottomRightX": 368,
+      "bottomRightY": 169,
+      "content": "$$\\eta = \\begin{bmatrix} \\cos (\\rho/2) \\\\ \\sin (\\rho/2) \\end{bmatrix}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 178,
+      "bottomRightX": 553,
+      "bottomRightY": 212,
+      "content": "Since $A$ was assumed to be a projection matrix, $\\eta$ is also the eigenvector of $A$ belonging to the eigenvalue $+1$. Thus,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 220,
+      "bottomRightX": 387,
+      "bottomRightY": 297,
+      "content": "$$\\begin{aligned} \\langle A\\psi, \\psi \\rangle &= \\langle\\langle\\psi, \\eta\\rangle\\eta, \\psi\\rangle \\\\ &= |\\langle\\psi, \\eta\\rangle|^2 \\\\ &= \\cos^2 (\\rho/2). \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 305,
+      "bottomRightX": 505,
+      "bottomRightY": 323,
+      "content": "Our problem is thus reduced to solving for $u(\\theta)$ the integral equation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 334,
+      "bottomRightX": 405,
+      "bottomRightY": 368,
+      "content": "$$\\cos^2 (\\rho/2) = \\int_{S^*} f_A(p)u(\\theta) \\, dp.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 376,
+      "bottomRightX": 113,
+      "bottomRightY": 392,
+      "content": "Since",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 398,
+      "bottomRightX": 386,
+      "bottomRightY": 445,
+      "content": "$$f_A(p) = \\begin{cases} 1 & \\text{on } S_{P_{\\epsilon(A)}}^+ \\\\ 0 & \\text{otherwise} \\end{cases}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 452,
+      "bottomRightX": 213,
+      "bottomRightY": 469,
+      "content": "this equation becomes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 479,
+      "bottomRightX": 386,
+      "bottomRightY": 513,
+      "content": "$$\\cos^2 (\\rho/2) = \\int_T u(\\theta) \\, dp$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 519,
+      "bottomRightX": 280,
+      "bottomRightY": 538,
+      "content": "where $T = S_{P_{\\epsilon(A)}}^+ \\cap S_{P_\\theta}^+$. Thus,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 544,
+      "bottomRightX": 437,
+      "bottomRightY": 580,
+      "content": "$$\\cos^2 (\\rho/2) = \\int_{\\rho-\\pi/2}^{\\pi/2} \\int_{-\\varphi_\\theta}^{\\varphi_\\theta} u(\\theta) \\sin \\theta \\, d\\varphi \\, d\\theta$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 588,
+      "bottomRightX": 553,
+      "bottomRightY": 642,
+      "content": "where $\\varphi_\\theta$ is the azimuthal angle of the point $Q = (\\sin \\theta \\cos \\varphi_\\theta, \\sin \\theta \\sin \\varphi_\\theta, \\cos \\theta)$ with polar angle $\\theta$ which lies on the great circle $C$ perpendicular to the point $P_{\\epsilon(A)} = (\\sin \\rho, 0, \\cos \\rho)$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 653,
+      "bottomRightX": 437,
+      "bottomRightY": 872,
+      "content": "![img-3.jpeg](img-3.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-3.jpeg"
+    },
+    {
+      "topLeftX": 202,
+      "topLeftY": 946,
+      "bottomRightX": 421,
+      "bottomRightY": 982,
+      "content": "This content downloaded from 140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC All use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

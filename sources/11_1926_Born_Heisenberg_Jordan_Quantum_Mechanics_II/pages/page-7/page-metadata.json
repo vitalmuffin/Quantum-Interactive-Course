@@ -1,0 +1,209 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 101,
+      "bottomRightX": 419,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 552,
+      "topLeftY": 101,
+      "bottomRightX": 580,
+      "bottomRightY": 117,
+      "content": "563",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 138,
+      "bottomRightX": 580,
+      "bottomRightY": 176,
+      "content": "Aus der Gleichung (5), Kap. 1 kann noch eine später wichtige Beziehung abgeleitet werden:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 179,
+      "bottomRightX": 498,
+      "bottomRightY": 198,
+      "content": "Sei $f(pq)$ irgend eine Funktion von $p$ und $q$, so gilt:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 203,
+      "bottomRightX": 580,
+      "bottomRightY": 285,
+      "content": "$$\\left. \\begin{array}{l} fq - qf = \\frac{\\partial f}{\\partial p} \\frac{h}{2\\pi i}, \\\\ pf - fp = \\frac{\\partial f}{\\partial q} \\frac{h}{2\\pi i}. \\end{array} \\right\\} \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 290,
+      "bottomRightX": 582,
+      "bottomRightY": 368,
+      "content": "Denn nehmen wir einmal an, diese Gleichungen seien richtig für irgend zwei Funktionen $\\varphi$ und $\\psi$, dann sind sie auch richtig für $\\varphi + \\psi$ und $\\varphi \\cdot \\psi$. Für $\\varphi + \\psi$ ist dies trivial, für $\\varphi \\cdot \\psi$ ergibt eine leichte Rechnung:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 165,
+      "topLeftY": 368,
+      "bottomRightX": 519,
+      "bottomRightY": 427,
+      "content": "$$\\begin{aligned} \\varphi \\cdot \\psi q - q\\varphi\\psi &= \\varphi(\\psi q - q\\psi) + (\\varphi q - q\\varphi)\\psi \\\\ &= \\left(\\varphi \\frac{\\partial \\psi}{\\partial p} + \\frac{\\partial \\varphi}{\\partial p} \\psi\\right) \\frac{h}{2\\pi i} = \\frac{\\partial (\\varphi \\psi)}{\\partial p} \\frac{h}{2\\pi i}; \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 432,
+      "bottomRightX": 283,
+      "bottomRightY": 450,
+      "content": "analog für $p\\varphi\\psi - \\varphi\\psi p$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 450,
+      "bottomRightX": 582,
+      "bottomRightY": 490,
+      "content": "Nun gilt die Relation (6) für $p$ und $q$, also auch für jede Funktion $f$, die formal nach Potenzen von $p$ und $q$ entwickelbar ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 490,
+      "bottomRightX": 582,
+      "bottomRightY": 549,
+      "content": "§ 2. Die kanonischen Gleichungen, Energiesatz und Frequenzbedingung. Seien jetzt eine Energiefunktion $H(pq)$ und die zugehörigen kanonischen Gleichungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 554,
+      "bottomRightX": 582,
+      "bottomRightY": 593,
+      "content": "$$p = -\\frac{\\partial H}{\\partial q}; \\quad q = \\frac{\\partial H}{\\partial p} \\quad (7)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 598,
+      "bottomRightX": 398,
+      "bottomRightY": 617,
+      "content": "gegeben. Aus dem Kombinationsprinzip für",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 621,
+      "bottomRightX": 582,
+      "bottomRightY": 640,
+      "content": "$$v(nm) + v(mk) = v(nk) \\quad (8)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 646,
+      "bottomRightX": 434,
+      "bottomRightY": 664,
+      "content": "folgt, daß $v$ dargestellt werden kann in der Form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 267,
+      "topLeftY": 669,
+      "bottomRightX": 582,
+      "bottomRightY": 704,
+      "content": "$$v(nm) = \\frac{W_n - W_m}{h}. \\quad (9)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 712,
+      "bottomRightX": 582,
+      "bottomRightY": 751,
+      "content": "Wir führen jetzt eine quantentheoretische Größe $W$ ein als „Termgröße“, definiert durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 750,
+      "bottomRightX": 441,
+      "bottomRightY": 787,
+      "content": "$$W(nm) = \\begin{cases} W_n & \\text{für } n = m \\\\ 0 & , \\ n \\neq m. \\end{cases}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 792,
+      "bottomRightX": 314,
+      "bottomRightY": 810,
+      "content": "$W$ ist also eine Diagonalmatrix.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 812,
+      "bottomRightX": 488,
+      "bottomRightY": 831,
+      "content": "Dann gilt für irgend eine quantentheoretische Größe:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 261,
+      "topLeftY": 836,
+      "bottomRightX": 582,
+      "bottomRightY": 872,
+      "content": "$$\\dot{a} = \\frac{2\\pi i}{h} (Wa - aW). \\quad (10)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 879,
+      "bottomRightX": 427,
+      "bottomRightY": 897,
+      "content": "In der Tat war ja (vgl. Teil I) $\\dot{a}$ definiert durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 246,
+      "topLeftY": 902,
+      "bottomRightX": 441,
+      "bottomRightY": 920,
+      "content": "$$\\dot{a}(nm) = 2\\pi i v(nm) a(nm).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

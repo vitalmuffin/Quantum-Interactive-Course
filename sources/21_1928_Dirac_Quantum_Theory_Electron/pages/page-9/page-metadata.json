@@ -1,0 +1,119 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 98,
+      "bottomRightX": 136,
+      "bottomRightY": 114,
+      "content": "618",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 297,
+      "topLeftY": 97,
+      "bottomRightX": 417,
+      "bottomRightY": 114,
+      "content": "P. A. M. Dirac.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 146,
+      "bottomRightX": 512,
+      "bottomRightY": 163,
+      "content": "# § 4. The Hamiltonian for an Arbitrary Field.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 170,
+      "bottomRightX": 611,
+      "bottomRightY": 251,
+      "content": "To obtain the Hamiltonian for an electron in an electromagnetic field with scalar potential $A_0$ and vector potential $\\mathbf{A}$, we adopt the usual procedure of substituting $p_0 + e/c \\cdot A_0$ for $p_0$ and $\\mathbf{p} + e/c \\cdot \\mathbf{A}$ for $\\mathbf{p}$ in the Hamiltonian for no field. From equation (9) we thus obtain",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 202,
+      "topLeftY": 267,
+      "bottomRightX": 608,
+      "bottomRightY": 301,
+      "content": "$$\\left[ p_0 + \\frac{e}{c} A_0 + \\rho_1 \\left( \\boldsymbol{\\sigma}, \\mathbf{p} + \\frac{e}{c} \\mathbf{A} \\right) + \\rho_3 mc \\right] \\psi = 0. \\quad (14)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 319,
+      "bottomRightX": 611,
+      "bottomRightY": 484,
+      "content": "This wave equation appears to be sufficient to account for all the duplexity phenomena. On account of the matrices $\\rho$ and $\\sigma$ containing four rows and columns, it will have four times as many solutions as the non-relativity wave equation, and twice as many as the previous relativity wave equation (1). Since half the solutions must be rejected as referring to the charge $+e$ on the electron, the correct number will be left to account for duplexity phenomena. The proof given in the preceding section of invariance under a Lorentz transformation applies equally well to the more general wave equation (14).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 486,
+      "bottomRightX": 611,
+      "bottomRightY": 546,
+      "content": "We can obtain a rough idea of how (14) differs from the previous relativity wave equation (1) by multiplying it up analogously to (5). This gives, if we write $e'$ for $e/c$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 561,
+      "bottomRightX": 608,
+      "bottomRightY": 661,
+      "content": "$$\\begin{aligned} 0 &= \\left[ - (p_0 + e' A_0) + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) + \\rho_3 mc \\right] \\\\ &\\quad \\times \\left[ (p_0 + e' A_0) + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) + \\rho_3 mc \\right] \\psi \\\\ &= \\left[ - (p_0 + e' A_0)^2 + (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A})^2 + m^2 c^2 \\right. \\\\ &\\quad \\left. + \\rho_1 \\left\\{ (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) (p_0 + e' A_0) - (p_0 + e' A_0) (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) \\right\\} \\right] \\psi. \\quad (15) \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 677,
+      "bottomRightX": 608,
+      "bottomRightY": 714,
+      "content": "We now use the general formula, that if $\\mathbf{B}$ and $\\mathbf{C}$ are any two vectors that commute with $\\boldsymbol{\\sigma}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 173,
+      "topLeftY": 727,
+      "bottomRightX": 608,
+      "bottomRightY": 795,
+      "content": "$$\\begin{aligned} (\\boldsymbol{\\sigma}, \\mathbf{B}) (\\boldsymbol{\\sigma}, \\mathbf{C}) &= \\Sigma \\sigma_1^2 B_1 C_1 + \\Sigma (\\sigma_1 \\sigma_2 B_1 C_2 + \\sigma_2 \\sigma_1 B_2 C_1) \\\\ &= (\\mathbf{B}, \\mathbf{C}) + i \\Sigma \\sigma_3 (B_1 C_2 - B_2 C_1) \\\\ &= (\\mathbf{B}, \\mathbf{C}) + i (\\boldsymbol{\\sigma}, \\mathbf{B} \\times \\mathbf{C}). \\quad (16) \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 811,
+      "bottomRightX": 332,
+      "bottomRightY": 829,
+      "content": "Taking $\\mathbf{B} = \\mathbf{C} = \\mathbf{p} + e' \\mathbf{A}$, we find",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 844,
+      "bottomRightX": 583,
+      "bottomRightY": 917,
+      "content": "$$\\begin{aligned} (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A})^2 &= (\\mathbf{p} + e' \\mathbf{A})^2 + i \\Sigma \\sigma_3 \\\\ &\\quad \\left[ (p_1 + e' A_1) (p_2 + e' A_2) - (p_2 + e' A_2) (p_1 + e' A_1) \\right] \\\\ &= (\\mathbf{p} + e' \\mathbf{A})^2 + h e' (\\boldsymbol{\\sigma}, \\operatorname{curl} \\mathbf{A}). \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

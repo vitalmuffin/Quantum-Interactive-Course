@@ -1,0 +1,92 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 72,
+      "topLeftY": 40,
+      "bottomRightX": 106,
+      "bottomRightY": 58,
+      "content": "120",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 261,
+      "topLeftY": 40,
+      "bottomRightX": 369,
+      "bottomRightY": 61,
+      "content": "E. Schrödinger",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 74,
+      "bottomRightX": 553,
+      "bottomRightY": 262,
+      "content": "zuerst Kramers¹⁾ auf Grund korrespondenzmäßiger Überlegungen die Aufmerksamkeit gelenkt hat. Überhaupt ist unsere Formel — trotz der sehr verschiedenen Bezeichnungs- und Denkweise — wohl als formal identisch mit der Kramerschen Sekundärstrahlungsformel zu bezeichnen. Der wichtige Zusammenhang der Sekundärstrahlungskoeffizienten mit den spontanen Strahlungskoeffizienten $a_{kn}$, $b_{kn}$ ist in Evidenz gesetzt und zwar wird die Sekundärstrahlung auch hinsichtlich ihres Polarisationszustandes genau beschrieben.²⁾",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 262,
+      "bottomRightX": 554,
+      "bottomRightY": 530,
+      "content": "Was den Absolutbetrag der gestreuten Strahlung bzw. der induzierten Dipolmoments anlangt, so möchte ich glauben, daß auch er durch Formel (23) richtig wiedergegeben wird, obwohl ein Fehlgriff im Zahlenfaktor beim Ansetzen der oben eingeführten heuristischen Hypothese selbstverständlich im Bereich der Möglichkeit liegt. Die physikalische Dimension ist jedenfalls die richtige, denn da die Quadratintegrale der Eigenfunktionen auf Eins normiert sind, sind die $a_{kn}$, $b_{kn}$ nach (18), (19), (21), (22) elektrische Momente. Das Verhältnis des induzierten Dipolmoments zum spontanen ist, wenn $\\nu$ von der betreffenden Emissionsfrequenz weit ab liegt, größenordnungsmäßig gleich dem Verhältnis der potentiellen Zusatzenergie $F a_{kn}$ zur „Energiestufe“ $E_k - E_n$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 550,
+      "bottomRightX": 554,
+      "bottomRightY": 585,
+      "content": "### § 3. Ergänzungen zu § 2: Angeregte Atome, entartete Systeme, Streckenspektrum",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 588,
+      "bottomRightX": 554,
+      "bottomRightY": 651,
+      "content": "Der Übersichtlichkeit wegen wurden im vorigen Paragraph einige spezielle Annahmen gemacht und manche Fragen beiseite gesetzt, die nun nachträglich zu überlegen sind.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 651,
+      "bottomRightX": 554,
+      "bottomRightY": 673,
+      "content": "Zunächst: was geschieht, wenn die Lichtwelle das Atom",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 691,
+      "bottomRightX": 555,
+      "bottomRightY": 776,
+      "content": "1) H. A. Kramers, Nature 10. Mai 1924; ebendort 30. August 1924; H. A. Kramers u. W. Heisenberg, Ztschr. f. Phys. 31. S. 681. 1925. Die am letzteren Ort gegebene korrespondenzmäßige Beschreibung der Polarisation des Streulichts (Gl. 27) ist mit der unseren *formal* fast identisch.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 776,
+      "bottomRightX": 555,
+      "bottomRightY": 879,
+      "content": "2) Es ist wohl kaum nötig, zu sagen, daß die beiden Richtungen, die wir einfachheitshalber als „x-Richtung“ und „y-Richtung“ bezeichnet haben, nicht gerade zueinander senkrecht zu sein brauchen. Das eine ist die Polarisationsrichtung der einfallenden Welle, das andere ist diejenige Polarisationskomponente der Sekundärwelle, für die man sich gerade interessiert.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

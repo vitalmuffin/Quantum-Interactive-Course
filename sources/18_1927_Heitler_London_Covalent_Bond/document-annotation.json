@@ -1,0 +1,1426 @@
+{
+  "document_id": "455_1927_heitler_london_wechselwirkung_neutrale_atome",
+  "source_filename": "455_1927_Heitler_London_Wechselwirkung_neutrale_Atome.pdf",
+  "metadata": {
+    "title_original": "Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik",
+    "title_normalized": "Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik",
+    "authors": [
+      "W. Heitler",
+      "F. London"
+    ],
+    "publication_year": 1927,
+    "original_language": "de",
+    "journal": "Zeitschrift für Physik",
+    "volume": "44",
+    "issue": null,
+    "page_range": "455-472",
+    "doi": "10.1007/BF01397394",
+    "received_date": "30. Juni 1927",
+    "abstract_original": "Das Kräftespiel zwischen neutralen Atomen zeigt eine charakteristische quantenmechanische Mehrdeutigkeit. Diese Mehrdeutigkeit scheint geeignet zu sein, die verschiedenen Verhaltensweisen zu umfassen, welche die Erfahrung liefert: Bei Wasserstoff z. B. die Möglichkeit einer homöopolaren Bindung, bzw. elastischer Reflexion, bei den Edelgasen dagegen nur die letztere — und zwar dies bereits als Effekte erster Näherung von ungefähr der richtigen Größe. Bei der Auswahl und Diskussion der verschiedenen Verhaltensweisen bewährt sich das Pauliprinzip auch hier, in Anwendung auf Systeme von mehreren Atomen.\n\nDie Wechselwirkung zwischen neutralen Atomen hat der theoretischen Behandlung bisher erhebliche Schwierigkeiten bereitet. Während man sich von den Anziehungskräften der Ionen seit längerer Zeit ein einfaches Bild machen konnte, schienen die Verhältnisse bei neutralen Atomen, insbesondere die Möglichkeit einer nichtpolaren Bindung, außerordentlich schwer verständlich, wenn man nicht zu sehr künstlichen Erklärungen greifen wollte.\n\nDie Entwicklung der Quantenmechanik hat für die Behandlung dieser Probleme durchaus neue Gesichtspunkte geliefert: Zunächst ist in den neuen „Modellen“ die Ladungsverteilung völlig andersartig als in den Bohrschen Modellen (nämlich Abklingen wie e^{-r}), was bereits ein ganz anderes Kräftespiel zwischen „neutralen“ Atomen nach sich ziehen würde. Wesentlicher aber und entscheidend für das Verständnis der zwischen neutralen Atomen möglichen Verhaltensweisen erweist sich ein charakteristisch quantenmechanisches Schwebungsphänomen, welches nahe verwandt ist mit den von Heisenberg aufgefundenen Resonanzschwebungen. Wir werden am Beispiel zweier H-Atome (§ 1), sowie zweier He-Atome (§ 3) diese Verhältnisse studieren. Um das Resultat (§ 2) vorwegzunehmen: Man erhält für die Wechselwirkungsenergie zwei Lösungen: Eine, welche bei mittleren Abständen der Atome Anziehung, bei kleinen Abständen Abstoßung ergibt und welche für eine homöopolare Molekülbildung geeignet ist (bereits in erster Näherung, in welcher von Störungen durch Polarisation abzusehen ist). Diese Lösung ist jedoch auf Grund des Pauliverbotes (§ 4) bei He im Grundzustand nicht erlaubt. Eine zweite Lösung, welche bei He allein in Frage kommt, liefert überall Abstoßung (van der Waals' b-Kräfte)."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "455",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik$^{1}$.",
+          "markdown": "# Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik$^{1}$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Von W. Heitler und F. London in Zürich.",
+          "markdown": "Von **W. Heitler** und **F. London** in Zürich.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.5,
+            0.84
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Mit 2 Abbildungen. (Eingegangen am 30. Juni 1927.)",
+          "markdown": "*Mit 2 Abbildungen. (Eingegangen am 30. Juni 1927.)*",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das Kräftespiel zwischen neutralen Atomen zeigt eine charakteristische quantenmechanische Mehrdeutigkeit. Diese Mehrdeutigkeit scheint geeignet zu sein, die verschiedenen Verhaltensweisen zu umfassen, welche die Erfahrung liefert: Bei Wasserstoff z. B. die Möglichkeit einer homöopolaren Bindung, bzw. elastischer Reflexion, bei den Edelgasen dagegen nur die letztere — und zwar dies bereits als Effekte erster Näherung von ungefähr der richtigen Größe. Bei der Auswahl und Diskussion der verschiedenen Verhaltensweisen bewährt sich das Pauliprinzip auch hier, in Anwendung auf Systeme von mehreren Atomen.",
+          "markdown": "Das Kräftespiel zwischen neutralen Atomen zeigt eine charakteristische quantenmechanische Mehrdeutigkeit. Diese Mehrdeutigkeit scheint geeignet zu sein, die verschiedenen Verhaltensweisen zu umfassen, welche die Erfahrung liefert: Bei Wasserstoff z. B. die Möglichkeit einer homöopolaren Bindung, bzw. elastischer Reflexion, bei den Edelgasen dagegen nur die letztere — und zwar dies bereits als Effekte erster Näherung von ungefähr der richtigen Größe. Bei der Auswahl und Diskussion der verschiedenen Verhaltensweisen bewährt sich das Pauliprinzip auch hier, in Anwendung auf Systeme von mehreren Atomen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Wechselwirkung zwischen neutralen Atomen hat der theoretischen Behandlung bisher erhebliche Schwierigkeiten bereitet. Während man sich von den Anziehungskräften der Ionen seit längerer Zeit ein einfaches Bild machen konnte, schienen die Verhältnisse bei neutralen Atomen, insbesondere die Möglichkeit einer nichtpolaren Bindung, außerordentlich schwer verständlich, wenn man nicht zu sehr künstlichen Erklärungen greifen wollte$^{2}$.",
+          "markdown": "Die Wechselwirkung zwischen neutralen Atomen hat der theoretischen Behandlung bisher erhebliche Schwierigkeiten bereitet. Während man sich von den Anziehungskräften der Ionen seit längerer Zeit ein einfaches Bild machen konnte, schienen die Verhältnisse bei neutralen Atomen, insbesondere die Möglichkeit einer nichtpolaren Bindung, außerordentlich schwer verständlich, wenn man nicht zu sehr künstlichen Erklärungen greifen wollte$^{2}$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Entwicklung der Quantenmechanik hat für die Behandlung dieser Probleme durchaus neue Gesichtspunkte geliefert: Zunächst ist in den neuen „Modellen“ die Ladungsverteilung völlig andersartig als in den Bohrschen Modellen (nämlich Abklingen wie $e^{-r}$), was bereits ein ganz anderes Kräftespiel zwischen „neutralen“ Atomen nach sich ziehen würde. Wesentlicher aber und entscheidend für das Verständnis der zwischen neutralen Atomen möglichen Verhaltensweisen erweist sich ein charakteristisch quantenmechanisches Schwebungsphänomen, welches nahe verwandt ist mit den von Heisenberg aufgefundenen Resonanzschwebungen. Wir werden am Beispiel zweier H-Atome (§ 1), sowie zweier He-Atome (§ 3) diese Verhältnisse studieren. Um das Resultat (§ 2) vorwegzunehmen: Man erhält für die Wechselwirkungsenergie zwei Lösungen: Eine, welche bei mittleren Abständen der Atome Anziehung, bei kleinen Abständen Abstoßung ergibt und welche für eine homöopolare Molekülbildung geeignet ist (bereits in erster Näherung, in welcher von Störungen durch Polarisation abzusehen ist). Diese Lösung ist jedoch auf Grund des Pauliverbotes (§ 4) bei He im Grundzustand nicht erlaubt. Eine zweite Lösung, welche bei He allein in Frage kommt, liefert überall Abstoßung (van der Waals' *b*-Kräfte).",
+          "markdown": "Die Entwicklung der Quantenmechanik hat für die Behandlung dieser Probleme durchaus neue Gesichtspunkte geliefert: Zunächst ist in den neuen „Modellen“ die Ladungsverteilung völlig andersartig als in den Bohrschen Modellen (nämlich Abklingen wie $e^{-r}$), was bereits ein ganz anderes Kräftespiel zwischen „neutralen“ Atomen nach sich ziehen würde. Wesentlicher aber und entscheidend für das Verständnis der zwischen neutralen Atomen möglichen Verhaltensweisen erweist sich ein charakteristisch quantenmechanisches Schwebungsphänomen, welches nahe verwandt ist mit den von Heisenberg aufgefundenen Resonanzschwebungen. Wir werden am Beispiel zweier H-Atome (§ 1), sowie zweier He-Atome (§ 3) diese Verhältnisse studieren. Um das Resultat (§ 2) vorwegzunehmen: Man erhält für die Wechselwirkungsenergie zwei Lösungen: Eine, welche bei mittleren Abständen der Atome Anziehung, bei kleinen Abständen Abstoßung ergibt und welche für eine homöopolare Molekülbildung geeignet ist (bereits in erster Näherung, in welcher von Störungen durch Polarisation abzusehen ist). Diese Lösung ist jedoch auf Grund des Pauliverbotes (§ 4) bei He im Grundzustand nicht erlaubt. Eine zweite Lösung, welche bei He allein in Frage kommt, liefert überall Abstoßung (van der Waals' *b*-Kräfte).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{1}$ Vorgetragen auf der Gauvereinstagung der Deutschen Physikalischen Gesellschaft Freiburg i. Br., 12. Juni 1927.",
+          "markdown": "> $^{1}$ Vorgetragen auf der Gauvereinstagung der Deutschen Physikalischen Gesellschaft Freiburg i. Br., 12. Juni 1927.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{2}$ Literatur hierüber siehe etwa Handb. d. Phys. Bd. XXII, 1926, Artikel Herzfeld.",
+          "markdown": "> $^{2}$ Literatur hierüber siehe etwa Handb. d. Phys. Bd. XXII, 1926, Artikel Herzfeld.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{3}$ Die Korrespondenz zwischen klassischen und quantenmechanischen Größen bezieht sich bekanntlich nur auf die elektrischen Momente, d. h. auf die Schwerpunkte der Ladung, nicht auf die Ladungsverteilung selbst, welcher Unterschied bei den üblichen spektroskopischen Fragen nicht zum Austrag kommt.",
+          "markdown": "> $^{3}$ Die Korrespondenz zwischen klassischen und quantenmechanischen Größen bezieht sich bekanntlich nur auf die elektrischen Momente, d. h. auf die Schwerpunkte der Ladung, nicht auf die Ladungsverteilung selbst, welcher Unterschied bei den üblichen spektroskopischen Fragen nicht zum Austrag kommt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.88,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik$^{1}$.\n\nVon **W. Heitler** und **F. London** in Zürich.\n\n*Mit 2 Abbildungen. (Eingegangen am 30. Juni 1927.)*\n\nDas Kräftespiel zwischen neutralen Atomen zeigt eine charakteristische quantenmechanische Mehrdeutigkeit. Diese Mehrdeutigkeit scheint geeignet zu sein, die verschiedenen Verhaltensweisen zu umfassen, welche die Erfahrung liefert: Bei Wasserstoff z. B. die Möglichkeit einer homöopolaren Bindung, bzw. elastischer Reflexion, bei den Edelgasen dagegen nur die letztere — und zwar dies bereits als Effekte erster Näherung von ungefähr der richtigen Größe. Bei der Auswahl und Diskussion der verschiedenen Verhaltensweisen bewährt sich das Pauliprinzip auch hier, in Anwendung auf Systeme von mehreren Atomen.\n\nDie Wechselwirkung zwischen neutralen Atomen hat der theoretischen Behandlung bisher erhebliche Schwierigkeiten bereitet. Während man sich von den Anziehungskräften der Ionen seit längerer Zeit ein einfaches Bild machen konnte, schienen die Verhältnisse bei neutralen Atomen, insbesondere die Möglichkeit einer nichtpolaren Bindung, außerordentlich schwer verständlich, wenn man nicht zu sehr künstlichen Erklärungen greifen wollte$^{2}$.\n\nDie Entwicklung der Quantenmechanik hat für die Behandlung dieser Probleme durchaus neue Gesichtspunkte geliefert: Zunächst ist in den neuen „Modellen“ die Ladungsverteilung völlig andersartig als in den Bohrschen Modellen (nämlich Abklingen wie $e^{-r}$), was bereits ein ganz anderes Kräftespiel zwischen „neutralen“ Atomen nach sich ziehen würde. Wesentlicher aber und entscheidend für das Verständnis der zwischen neutralen Atomen möglichen Verhaltensweisen erweist sich ein charakteristisch quantenmechanisches Schwebungsphänomen, welches nahe verwandt ist mit den von Heisenberg aufgefundenen Resonanzschwebungen. Wir werden am Beispiel zweier H-Atome (§ 1), sowie zweier He-Atome (§ 3) diese Verhältnisse studieren. Um das Resultat (§ 2) vorwegzunehmen: Man erhält für die Wechselwirkungsenergie zwei Lösungen: Eine, welche bei mittleren Abständen der Atome Anziehung, bei kleinen Abständen Abstoßung ergibt und welche für eine homöopolare Molekülbildung geeignet ist (bereits in erster Näherung, in welcher von Störungen durch Polarisation abzusehen ist). Diese Lösung ist jedoch auf Grund des Pauliverbotes (§ 4) bei He im Grundzustand nicht erlaubt. Eine zweite Lösung, welche bei He allein in Frage kommt, liefert überall Abstoßung (van der Waals' *b*-Kräfte).\n\n> $^{1}$ Vorgetragen auf der Gauvereinstagung der Deutschen Physikalischen Gesellschaft Freiburg i. Br., 12. Juni 1927.\n\n> $^{2}$ Literatur hierüber siehe etwa Handb. d. Phys. Bd. XXII, 1926, Artikel Herzfeld.\n\n> $^{3}$ Die Korrespondenz zwischen klassischen und quantenmechanischen Größen bezieht sich bekanntlich nur auf die elektrischen Momente, d. h. auf die Schwerpunkte der Ladung, nicht auf die Ladungsverteilung selbst, welcher Unterschied bei den üblichen spektroskopischen Fragen nicht zum Austrag kommt.",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Text in Frakturschrift und Antiqua gemischt",
+        "Formeln in Blocksatz, teilweise schwer zu erkennen",
+        "Fußnoten am Seitenende, korrekt zugeordnet"
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "456",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "W. Heitler und F. London,",
+          "markdown": "W. Heitler und F. London,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Abständen Abstoßung ergibt und welche für eine homöopolare Molekülbildung geeignet ist (bereits in erster Näherung, in welcher von Störungen durch Polarisation abzusehen ist). Diese Lösung ist jedoch auf Grund des Pauliverbotes (§ 4) bei He im Grundzustand nicht erlaubt. Eine zweite Lösung, welche bei He allein in Frage kommt, liefert überall Abstoßung (van der Waals' *b*-Kräfte).",
+          "markdown": "Abständen Abstoßung ergibt und welche für eine homöopolare Molekülbildung geeignet ist (bereits in erster Näherung, in welcher von Störungen durch Polarisation abzusehen ist). Diese Lösung ist jedoch auf Grund des Pauliverbotes (§ 4) bei He im Grundzustand nicht erlaubt. Eine zweite Lösung, welche bei He allein in Frage kommt, liefert überall Abstoßung (van der Waals' *b*-Kräfte).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 1. Wechselwirkung zweier Wasserstoffatome. Wir stellen uns die Aufgabe, die Energieänderung zu bestimmen, welche zwei neutrale Wasserstoffatome im Grundzustand erfahren, wenn wir sie auf die Entfernung $R$ (gemessen am Abstand der Kerne) einander nähern. Jenschendem, ob diese Zusatzenergie bei allmählicher Annäherung der Atome abnimmt oder wächst, entnehmen$^{1}$ wir Anziehung oder Abstoßung.",
+          "markdown": "## § 1. Wechselwirkung zweier Wasserstoffatome\n\nWir stellen uns die Aufgabe, die Energieänderung zu bestimmen, welche zwei neutrale Wasserstoffatome im Grundzustand erfahren, wenn wir sie auf die Entfernung $R$ (gemessen am Abstand der Kerne) einander nähern. Jenschendem, ob diese Zusatzenergie bei allmählicher Annäherung der Atome abnimmt oder wächst, entnehmen$^{1}$ wir Anziehung oder Abstoßung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "1. Wir bezeichnen die beiden Kerne, deren Abstand ein für allemal fest und gleich $R$ sei, mit $a$ und $b$, die beiden Elektronen mit den Nummern 1 und 2, endlich die Abstände der Elektronen von den Kernen und voneinander mit $r_{a_1}, \\dots, r_{a_2}$.\n\nDie Wellengleichung unseres Problems — des 2-Wasserstoffatomproblems — lautet dann (mit $\\Delta_{12} = \\Delta_1 + \\Delta_2 = \\frac{\\partial^2}{\\partial x_1^2} + \\frac{\\partial^2}{\\partial y_1^2} + \\frac{\\partial^2}{\\partial z_1^2} + \\frac{\\partial^2}{\\partial x_2^2} + \\frac{\\partial^2}{\\partial y_2^2} + \\frac{\\partial^2}{\\partial z_2^2}$):\n\n$$(\\chi) \\equiv \\Delta_{12} \\chi + \\frac{8 \\pi^2 m}{h^2} \\left\\{ E - \\left( \\frac{\\varepsilon^2}{R} + \\frac{\\varepsilon^2}{r_{12}} - \\frac{\\varepsilon^2}{r_{a_1}} - \\frac{\\varepsilon^2}{r_{a_2}} - \\frac{\\varepsilon^2}{r_{b_1}} - \\frac{\\varepsilon^2}{r_{b_2}} \\right) \\right\\} \\chi = 0. \\quad (1)$$",
+          "markdown": "1. Wir bezeichnen die beiden Kerne, deren Abstand ein für allemal fest und gleich $R$ sei, mit $a$ und $b$, die beiden Elektronen mit den Nummern 1 und 2, endlich die Abstände der Elektronen von den Kernen und voneinander mit $r_{a_1}, \\dots, r_{a_2}$.\n\nDie Wellengleichung unseres Problems — des 2-Wasserstoffatomproblems — lautet dann (mit $\\Delta_{12} = \\Delta_1 + \\Delta_2 = \\frac{\\partial^2}{\\partial x_1^2} + \\frac{\\partial^2}{\\partial y_1^2} + \\frac{\\partial^2}{\\partial z_1^2} + \\frac{\\partial^2}{\\partial x_2^2} + \\frac{\\partial^2}{\\partial y_2^2} + \\frac{\\partial^2}{\\partial z_2^2}$):\n\n$$(\\chi) \\equiv \\Delta_{12} \\chi + \\frac{8 \\pi^2 m}{h^2} \\left\\{ E - \\left( \\frac{\\varepsilon^2}{R} + \\frac{\\varepsilon^2}{r_{12}} - \\frac{\\varepsilon^2}{r_{a_1}} - \\frac{\\varepsilon^2}{r_{a_2}} - \\frac{\\varepsilon^2}{r_{b_1}} - \\frac{\\varepsilon^2}{r_{b_2}} \\right) \\right\\} \\chi = 0. \\quad (1)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit komplexen Indizes und mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir interessieren uns für diejenigen Lösungen $\\chi$, welche den Störungen zweier neutraler H-Atome im Grundzustand entsprechen, und demgemäß werden wir sie von den wohlbekannten Eigenfunktionen des Wasserstoffgrundzustandes ausgehend approximieren.\n\nBefindet sich das Elektron 1 am Kern $a$, so ist ihm die bekannte Wasserstoffeigenfunktion\n\n$$\\psi(1) = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{a_1}}{a_0}} \\quad (2)$$",
+          "markdown": "Wir interessieren uns für diejenigen Lösungen $\\chi$, welche den Störungen zweier neutraler H-Atome im Grundzustand entsprechen, und demgemäß werden wir sie von den wohlbekannten Eigenfunktionen des Wasserstoffgrundzustandes ausgehend approximieren.\n\nBefindet sich das Elektron 1 am Kern $a$, so ist ihm die bekannte Wasserstoffeigenfunktion\n\n$$\\psi(1) = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{a_1}}{a_0}} \\quad (2)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "wobei $a_0$ den Bohrschen Bahnradius der 1$_{1}$-Bahn bedeutet. Das Argument 1 kennzeichnet die Koordinaten des Elektrons 1 im $q$-Raum, wir schreiben es in Zukunft als Index also $\\psi_1$ (eine Verwechslung mit dem Eigenwertindex ist nicht zu befürchten, da wir stets Atome im Grundzustand betrachten). Entsprechend bedeutet\n\n$$\\varphi_1 = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{b_1}}{a_0}}, \\quad (2')$$\n\ndaß das erste Elektron sich am Kern $b$ befindet. Die beiden Eigenfunktionen (2) und (2') sind durchaus verschieden, wenn sie auch durch eine einfache Translation zur Deckung gebracht werden können$^{1}$; denn sie spielen sich in verschiedenen Gebieten des Raumes ab.",
+          "markdown": "wobei $a_0$ den Bohrschen Bahnradius der 1$_{1}$-Bahn bedeutet. Das Argument 1 kennzeichnet die Koordinaten des Elektrons 1 im $q$-Raum, wir schreiben es in Zukunft als Index also $\\psi_1$ (eine Verwechslung mit dem Eigenwertindex ist nicht zu befürchten, da wir stets Atome im Grundzustand betrachten). Entsprechend bedeutet\n\n$$\\varphi_1 = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{b_1}}{a_0}}, \\quad (2')$$\n\ndaß das erste Elektron sich am Kern $b$ befindet. Die beiden Eigenfunktionen (2) und (2') sind durchaus verschieden, wenn sie auch durch eine einfache Translation zur Deckung gebracht werden können$^{1}$; denn sie spielen sich in verschiedenen Gebieten des Raumes ab.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Entsprechende Eigenfunktionen existieren für das Elektron 2:\n\n$$\\psi_2 = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{a_2}}{a_0}}, \\quad \\varphi_2 = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{b_2}}{a_0}}, \\quad (2a)$$\n\nwelche besagen, daß das Elektron 2 sich am Kern $a$ bzw. $b$ befindet. Die Eigenfunktionen (2a) unterscheiden sich von den Eigenfunktionen (2) und (2') nur im $q$-Raume.",
+          "markdown": "Entsprechende Eigenfunktionen existieren für das Elektron 2:\n\n$$\\psi_2 = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{a_2}}{a_0}}, \\quad \\varphi_2 = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{b_2}}{a_0}}, \\quad (2a)$$\n\nwelche besagen, daß das Elektron 2 sich am Kern $a$ bzw. $b$ befindet. Die Eigenfunktionen (2a) unterscheiden sich von den Eigenfunktionen (2) und (2') nur im $q$-Raume.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "2. Als ungestörte Eigenfunktionen werden wir diejenigen zu wählen haben, welche besagen, daß ein$^{2}$ Elektron am einen, das andere Elektronen am anderen Kerne sich befindet. Wenn man diese beiden noch ungekoppelten Systeme als ein System zusammendenkt, hat man bekanntlich das Produkt dieser beiden Eigenfunktionen als die gemeinsame Eigenfunktion anzusehen. Das aber ist — je nach der Verteilung der beiden Elektronen auf die beiden Kerne — auf zwei verschiedene Weisen möglich. Man hat zunächst:\n\n$$\\psi_1 \\varphi_2 \\quad (1 \\text{ ist bei } a, 2 \\text{ ist bei } b). \\quad (3a)$$\n\nMit demselben Rechte aber erhält man auch:\n\n$$\\psi_2 \\varphi_1 \\quad (2 \\text{ ist bei } a, 1 \\text{ ist bei } b). \\quad (3b)$$\n\nBeide Möglichkeiten gehören zu derselben Energie des Gesamtsystems (doppelte Wasserstoffenergie). Es liegt ein Fall zweifacher Entartung vor: Sämtliche Paare orthogonaler Linearkombinationen von $\\psi_1 \\varphi_2$ und $\\psi_2 \\varphi_1$:\n\n$$\\left. \\begin{aligned} \\alpha &= a \\psi_1 \\varphi_2 + b \\psi_2 \\varphi_1, \\\\ \\beta &= c \\psi_1 \\varphi_2 + d \\psi_2 \\varphi_1 \\end{aligned} \\right\\} \\quad (4)$$\n\nmit den Normierungs- und Orthogonalitätsbedingungen\n\n$$\\left. \\begin{array}{l} a^2 + b^2 + 2abS = 1, \\\\ c^2 + d^2 + 2cdS = 1, \\\\ ac + bd + (ad + bc)S = 0 \\end{array} \\right\\} \\quad (5)$$\n\n(wobei $S = \\int \\psi_1 \\varphi_1 \\psi_2 \\varphi_2 d\\tau_1 d\\tau_2$) sind als ungestörte Eigenfunktionen des Problems anzusehen.",
+          "markdown": "2. Als ungestörte Eigenfunktionen werden wir diejenigen zu wählen haben, welche besagen, dass ein$^{2}$ Elektron am einen, das andere Elektron am anderen Kern sich befindet. Wenn man diese beiden noch ungekoppelten Systeme als ein System zusammendenkt, hat man bekanntlich das Produkt dieser beiden Eigenfunktionen als die gemeinsame Eigenfunktion anzusehen. Das aber ist — je nach der Verteilung der beiden Elektronen auf die beiden Kerne — auf zwei verschiedene Weisen möglich. Man hat zunächst:\n\n$$\\psi_1 \\varphi_2 \\quad (1 \\text{ ist bei } a, 2 \\text{ ist bei } b). \\quad (3a)$$\n\nMit demselben Rechte aber erhält man auch:\n\n$$\\psi_2 \\varphi_1 \\quad (2 \\text{ ist bei } a, 1 \\text{ ist bei } b). \\quad (3b)$$\n\nBeide Möglichkeiten gehören zu derselben Energie des Gesamtsystems (doppelte Wasserstoffenergie). Es liegt ein Fall zweifacher Entartung vor: Sämtliche Paare orthogonaler Linearkombinationen von $\\psi_1 \\varphi_2$ und $\\psi_2 \\varphi_1$:\n\n$$\\left. \\begin{aligned} \\alpha &= a \\psi_1 \\varphi_2 + b \\psi_2 \\varphi_1, \\\\ \\beta &= c \\psi_1 \\varphi_2 + d \\psi_2 \\varphi_1 \\end{aligned} \\right\\} \\quad (4)$$\n\nmit den Normierungs- und Orthogonalitätsbedingungen\n\n$$\\left. \\begin{array}{l} a^2 + b^2 + 2abS = 1, \\\\ c^2 + d^2 + 2cdS = 1, \\\\ ac + bd + (ad + bc)S = 0 \\end{array} \\right\\} \\quad (5)$$\n\n(wobei $S = \\int \\psi_1 \\varphi_1 \\psi_2 \\varphi_2 d\\tau_1 d\\tau_2$) sind als ungestörte Eigenfunktionen des Problems anzusehen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formeln mit mathematischen Symbolen und komplexen Strukturen, OCR-Erkennung unsicher"
+        }
+      ],
+      "page_markdown_original": "W. Heitler und F. London,\n\nAbständen Abstoßung ergibt und welche für eine homöopolare Molekülbildung geeignet ist (bereits in erster Näherung, in welcher von Störungen durch Polarisation abzusehen ist). Diese Lösung ist jedoch auf Grund des Pauliverbotes (§ 4) bei He im Grundzustand nicht erlaubt. Eine zweite Lösung, welche bei He allein in Frage kommt, liefert überall Abstoßung (van der Waals' *b*-Kräfte).\n\n## § 1. Wechselwirkung zweier Wasserstoffatome\n\nWir stellen uns die Aufgabe, die Energieänderung zu bestimmen, welche zwei neutrale Wasserstoffatome im Grundzustand erfahren, wenn wir sie auf die Entfernung $R$ (gemessen am Abstand der Kerne) einander nähern. Jenschendem, ob diese Zusatzenergie bei allmählicher Annäherung der Atome abnimmt oder wächst, entnehmen$^{1}$ wir Anziehung oder Abstoßung.\n\n1. Wir bezeichnen die beiden Kerne, deren Abstand ein für allemal fest und gleich $R$ sei, mit $a$ und $b$, die beiden Elektronen mit den Nummern 1 und 2, endlich die Abstände der Elektronen von den Kernen und voneinander mit $r_{a_1}, \\dots, r_{a_2}$.\n\nDie Wellengleichung unseres Problems — des 2-Wasserstoffatomproblems — lautet dann (mit $\\Delta_{12} = \\Delta_1 + \\Delta_2 = \\frac{\\partial^2}{\\partial x_1^2} + \\frac{\\partial^2}{\\partial y_1^2} + \\frac{\\partial^2}{\\partial z_1^2} + \\frac{\\partial^2}{\\partial x_2^2} + \\frac{\\partial^2}{\\partial y_2^2} + \\frac{\\partial^2}{\\partial z_2^2}$):\n\n$$(\\chi) \\equiv \\Delta_{12} \\chi + \\frac{8 \\pi^2 m}{h^2} \\left\\{ E - \\left( \\frac{\\varepsilon^2}{R} + \\frac{\\varepsilon^2}{r_{12}} - \\frac{\\varepsilon^2}{r_{a_1}} - \\frac{\\varepsilon^2}{r_{a_2}} - \\frac{\\varepsilon^2}{r_{b_1}} - \\frac{\\varepsilon^2}{r_{b_2}} \\right) \\right\\} \\chi = 0. \\quad (1)$$<|reserved_token_163790|>\n\nWir interessieren uns für diejenigen Lösungen $\\chi$, welche den Störungen zweier neutraler H-Atome im Grundzustand entsprechen, und demgemäß werden wir sie von den wohlbekannten Eigenfunktionen des Wasserstoffgrundzustandes ausgehend approximieren.\n\nBefindet sich das Elektron 1 am Kern $a$, so ist ihm die bekannte Wasserstoffeigenfunktion\n\n$$\\psi(1) = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{a_1}}{a_0}} \\quad (2)$$<|reserved_token_163791|>\n\nwobei $a_0$ den Bohrschen Bahnradius der 1$_{1}$-Bahn bedeutet. Das Argument 1 kennzeichnet die Koordinaten des Elektrons 1 im $q$-Raum, wir schreiben es in Zukunft als Index also $\\psi_1$ (eine Verwechslung mit dem Eigenwertindex ist nicht zu befürchten, da wir stets Atome im Grundzustand betrachten). Entsprechend bedeutet\n\n$$\\varphi_1 = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{b_1}}{a_0}}, \\quad (2')$$\n\ndaß das erste Elektron sich am Kern $b$ befindet. Die beiden Eigenfunktionen (2) und (2') sind durchaus verschieden, wenn sie auch durch eine einfache Translation zur Deckung gebracht werden können$^{1}$; denn sie spielen sich in verschiedenen Gebieten des Raumes ab.\n\nEntsprechende Eigenfunktionen existieren für das Elektron 2:\n\n$$\\psi_2 = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{a_2}}{a_0}}, \\quad \\varphi_2 = \\frac{1}{\\sqrt{\\pi}} \\left( \\frac{1}{a_0} \\right)^{3/2} e^{-\\frac{r_{b_2}}{a_0}}, \\quad (2a)$$\n\nwelche besagen, dass das Elektron 2 sich am Kern $a$ bzw. $b$ befindet. Die Eigenfunktionen (2a) unterscheiden sich von den Eigenfunktionen (2) und (2') nur im $q$-Raume.\n\n2. Als ungestörte Eigenfunktionen werden wir diejenigen zu wählen haben, welche besagen, dass ein$^{2}$ Elektron am einen, das andere Elektronen am anderen Kerne sich befindet. Wenn man diese beiden noch ungekoppelten Systeme als ein System zusammendenkt, hat man bekanntlich das Produkt dieser beiden Eigenfunktionen als die gemeinsame Eigenfunktion anzusehen. Das aber ist — je nach der Verteilung der beiden Elektronen auf die beiden Kerne — auf zwei verschiedene Weisen möglich. Man hat zunächst:\n\n$$\\psi_1 \\varphi_2 \\quad (1 \\text{ ist bei } a, 2 \\text{ ist bei } b). \\quad (3a)$$\n\nMit demselben Rechte aber erhält man auch:\n\n$$\\psi_2 \\varphi_1 \\quad (2 \\text{ ist bei } a, 1 \\text{ ist bei } b). \\quad (3b)$$\n\nBeide Möglichkeiten gehören zu derselben Energie des Gesamtsystems (doppelte Wasserstoffenergie). Es liegt ein Fall zweifacher Entartung vor: Sämtliche Paare orthogonaler Linearkombinationen von $\\psi_1 \\varphi_2$ und $\\psi_2 \\varphi_1$:\n\n$$\\left. \\begin{aligned} \\alpha &= a \\psi_1 \\varphi_2 + b \\psi_2 \\varphi_1, \\\\ \\beta &= c \\psi_1 \\varphi_2 + d \\psi_2 \\varphi_1 \\end{aligned} \\right\\} \\quad (4)$$\n\nmit den Normierungs- und Orthogonalitätsbedingungen\n\n$$\\left. \\begin{array}{l} a^2 + b^2 + 2abS = 1, \\\\ c^2 + d^2 + 2cdS = 1, \\\\ ac + bd + (ad + bc)S = 0 \\end{array} \\right\\} \\quad (5)$$\n\n(wobei $S = \\int \\psi_1 \\varphi_1 \\psi_2 \\varphi_2 d\\tau_1 d\\tau_2$) sind als ungestörte Eigenfunktionen des Problems anzusehen.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Text in Frakturschrift und Antiqua gemischt",
+        "Formeln in Blocksatz, teilweise schwer zu erkennen",
+        "Fußnoten am Seitenende, korrekt zugeordnet",
+        "Seitenzahl '456' oben rechts"
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "457",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Wechselwirkung neutraler Atome und homöopolare Bindung.",
+          "markdown": "Wechselwirkung neutraler Atome und homöopolare Bindung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "3. Die exakten Eigenfunktionen der Differentialgleichung (1) gehen aus ganz bestimmten Linearkombinationen (4) hervor, den Eigenfunktionen „nullter Näherung“ und unterscheiden sich von letzteren nur um eine kleine Störung $v$. Die Koeffizienten $a, b, c, d$ in (4) für diese Eigenfunktionen nullter Näherung lassen sich nach bekannten Regeln bestimmen. Zwar fehlt der Gleichung (1) der Charakter eines Störungsproblems, weil man kein Glied in der Potentialfunktion als „Störungspotential“ abtrennen kann, aber die Methode zur Bestimmung der besagten Koeffizienten und der Störungsenergien ist genau die gleiche, wie wenn ein Störungspotential vorhanden wäre. Um die Rechnungen durchsichtiger zu machen, wollen wir von vorherin die richtigen und gemäß (5) normierten Linearkombinationen wählen (und ihre Richtigkeit nachträglich verifizieren):\n\n$$\\left. \\begin{array}{l} \\alpha = \\frac{1}{\\sqrt{2 + 2S}} (\\psi_1 \\varphi_2 + \\psi_2 \\varphi_1), \\\\ \\beta = \\frac{1}{\\sqrt{2 - 2S}} (\\psi_1 \\varphi_2 - \\psi_2 \\varphi_1). \\end{array} \\right\\} \\quad (4a)$$",
+          "markdown": "3. Die exakten Eigenfunktionen der Differentialgleichung (1) gehen aus ganz bestimmten Linearkombinationen (4) hervor, den Eigenfunktionen „nullter Näherung“ und unterscheiden sich von letzteren nur um eine kleine Störung $v$. Die Koeffizienten $a, b, c, d$ in (4) für diese Eigenfunktionen nullter Näherung lassen sich nach bekannten Regeln bestimmen. Zwar fehlt der Gleichung (1) der Charakter eines Störungsproblems, weil man kein Glied in der Potentialfunktion als „Störungspotential“ abtrennen kann, aber die Methode zur Bestimmung der besagten Koeffizienten und der Störungsenergien ist genau die gleiche, wie wenn ein Störungspotential vorhanden wäre. Um die Rechnungen durchsichtiger zu machen, wollen wir von vorherin die richtigen und gemäß (5) normierten Linearkombinationen wählen (und ihre Richtigkeit nachträglich verifizieren):\n\n$$\\left. \\begin{array}{l} \\alpha = \\frac{1}{\\sqrt{2 + 2S}} (\\psi_1 \\varphi_2 + \\psi_2 \\varphi_1), \\\\ \\beta = \\frac{1}{\\sqrt{2 - 2S}} (\\psi_1 \\varphi_2 - \\psi_2 \\varphi_1). \\end{array} \\right\\} \\quad (4a)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Für die gestörten Eigenfunktionen werden wir jetzt anzusetzen haben:\n\n$$\\left. \\begin{array}{l} \\chi_\\alpha = \\alpha + v_\\alpha, \\\\ \\chi_\\beta = \\beta + v_\\beta. \\end{array} \\right\\} \\quad (6)$$",
+          "markdown": "Für die gestörten Eigenfunktionen werden wir jetzt anzusetzen haben:\n\n$$\\left. \\begin{array}{l} \\chi_\\alpha = \\alpha + v_\\alpha, \\\\ \\chi_\\beta = \\beta + v_\\beta. \\end{array} \\right\\} \\quad (6)$$",
+          "asset_id": "equation_457_01",
+          "suggested_filename": "equations/equation_457_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Mit diesem Ansatz gehen wir in die Gleichung (1) ein, und berücksichtigen, dass die Funktionen $\\psi_1, \\psi_2, \\varphi_1, \\varphi_2$ den vier Gleichungen genügen,\n\n$$\\left. \\begin{array}{l} \\Delta_1 \\psi_1 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{a_1}}\\right) \\psi_1 = 0, \\\\ \\Delta_2 \\psi_2 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_2 = 0, \\\\ \\Delta_1 \\varphi_1 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{b_1}}\\right) \\varphi_1 = 0, \\\\ \\Delta_2 \\varphi_2 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\varphi_2 = 0, \\end{array} \\right\\} \\quad (7)$$",
+          "markdown": "Mit diesem Ansatz gehen wir in die Gleichung (1) ein, und berücksichtigen, dass die Funktionen $\\psi_1, \\psi_2, \\varphi_1, \\varphi_2$ den vier Gleichungen genügen,\n\n$$\\left. \\begin{array}{l} \\Delta_1 \\psi_1 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{a_1}}\\right) \\psi_1 = 0, \\\\ \\Delta_2 \\psi_2 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_2 = 0, \\\\ \\Delta_1 \\varphi_1 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{b_1}}\\right) \\varphi_1 = 0, \\\\ \\Delta_2 \\varphi_2 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\varphi_2 = 0, \\end{array} \\right\\} \\quad (7)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "wobei $E_0 = -13,5$ Volt den Eigenwert des Wasserstoffgrundzustandes bedeutet. Mit der Bezeichnung\n\n$$E_1 = E - 2 E_0 \\quad (8)$$\n\nfür die Eigenwertstörung erhalten wir aus (1) die beiden Differentialgleichungen für $v_\\alpha$ und $v_\\beta$:\n\n$$\\sqrt{2 + 2 S} L(v_\\alpha) + \\left(E_1 - \\frac{\\varepsilon^2}{r_{12}} - \\frac{\\varepsilon^2}{R}\\right) (\\psi_1 \\varphi_2 + \\psi_2 \\varphi_1) + \\left(\\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\psi_2 \\varphi_1 + \\left(\\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_1 \\varphi_2 = 0, \\quad (9 \\alpha)$$",
+          "markdown": "wobei $E_0 = -13,5$ Volt den Eigenwert des Wasserstoffgrundzustandes bedeutet. Mit der Bezeichnung\n\n$$E_1 = E - 2 E_0 \\quad (8)$$\n\nfür die Eigenwertstörung erhalten wir aus (1) die beiden Differentialgleichungen für $v_\\alpha$ und $v_\\beta$:\n\n$$\\sqrt{2 + 2 S} L(v_\\alpha) + \\left(E_1 - \\frac{\\varepsilon^2}{r_{12}} - \\frac{\\varepsilon^2}{R}\\right) (\\psi_1 \\varphi_2 + \\psi_2 \\varphi_1) + \\left(\\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\psi_2 \\varphi_1 + \\left(\\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_1 \\varphi_2 = 0, \\quad (9 \\alpha)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "$$\\sqrt{2 - 2 S} L(v_\\beta) + \\left(E_1 - \\frac{\\varepsilon^2}{r_{12}} - \\frac{\\varepsilon^2}{R}\\right) (\\psi_1 \\varphi_2 - \\psi_2 \\varphi_1) + \\left(\\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\psi_2 \\varphi_1 - \\left(\\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_1 \\varphi_2 = 0. \\quad (9 \\beta)$$",
+          "markdown": "$$\\sqrt{2 - 2 S} L(v_\\beta) + \\left(E_1 - \\frac{\\varepsilon^2}{r_{12}} - \\frac{\\varepsilon^2}{R}\\right) (\\psi_1 \\varphi_2 - \\psi_2 \\varphi_1) + \\left(\\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\psi_2 \\varphi_1 - \\left(\\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_1 \\varphi_2 = 0. \\quad (9 \\beta)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Damit diese in $v$ inhomogenen Gleichungen für einen Eigenwert $E$ der homogenen Gleichung überhaupt lösbar sind, ist zu verlangen, dass die Inhomogenitäten auf sämtlichen Eigenfunktionen der homogenen Gleichung, also auf $\\chi_\\alpha$ und $\\chi_\\beta$, die zum gleichen Eigenwert $E$ gehören, orthogonal stehen.\n\nMan findet zunächst, dass die Inhomogenität von $(9 \\alpha)$ schon orthogonal auf $\\beta$ und die Inhomogenität von $(9 \\beta)$ orthogonal auf $\\alpha$ steht (bis auf vernachlässigbare Größen). Damit ist die Richtigkeit des Ansatzes (4a) verifiziert. Die beiden anderen Forderungen:\n\n$$\\text{Inhomogenität } (9 \\alpha) \\perp \\text{ auf } \\alpha,$$\n\n$$\\text{„} \\quad (9 \\beta) \\perp \\text{ „ } \\beta,$$\n\nliefern die beiden Eigenwertstörungen\n\n$$\\left. \\begin{aligned} E_\\alpha &= E_{11} - \\frac{E_{11} S - E_{12}}{1 + S}, \\\\ E_\\beta &= E_{11} + \\frac{E_{11} S - E_{12}}{1 - S} \\end{aligned} \\right\\} \\quad (10)$$",
+          "markdown": "Damit diese in $v$ inhomogenen Gleichungen für einen Eigenwert $E$ der homogenen Gleichung überhaupt lösbar sind, ist zu verlangen, dass die Inhomogenitäten auf sämtlichen Eigenfunktionen der homogenen Gleichung, also auf $\\chi_\\alpha$ und $\\chi_\\beta$, die zum gleichen Eigenwert $E$ gehören, orthogonal stehen.\n\nMan findet zunächst, dass die Inhomogenität von $(9 \\alpha)$ schon orthogonal auf $\\beta$ und die Inhomogenität von $(9 \\beta)$ orthogonal auf $\\alpha$ steht (bis auf vernachlässigbare Größen). Damit ist die Richtigkeit des Ansatzes (4a) verifiziert. Die beiden anderen Forderungen:\n\n$$\\text{Inhomogenität } (9 \\alpha) \\perp \\text{ auf } \\alpha,$$\n\n$$\\text{„} \\quad (9 \\beta) \\perp \\text{ „ } \\beta,$$\n\nliefern die beiden Eigenwertstörungen\n\n$$\\left. \\begin{aligned} E_\\alpha &= E_{11} - \\frac{E_{11} S - E_{12}}{1 + S}, \\\\ E_\\beta &= E_{11} + \\frac{E_{11} S - E_{12}}{1 - S} \\end{aligned} \\right\\} \\quad (10)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "mit folgenden Bezeichnungen:\n\n$$\\left. \\begin{aligned} E_{11} &= \\int \\left[ \\left(\\frac{\\varepsilon^2}{r_{12}} + \\frac{\\varepsilon^2}{R}\\right) \\frac{\\psi_1^2 \\varphi_2^2 + \\psi_2^2 \\varphi_1^2}{2} - \\left(\\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\frac{\\psi_2^2 \\varphi_1^2}{2} - \\left(\\frac{\\varepsilon^2}{r_{a_2}} + \\frac{\\varepsilon^2}{r_{b_1}}\\right) \\frac{\\psi_1^2 \\varphi_2^2}{2} \\right] d\\tau_1 d\\tau_2, \\\\ E_{12} &= \\int \\left( \\frac{2 \\varepsilon^2}{r_{12}} + \\frac{2 \\varepsilon^2}{R} - \\frac{\\varepsilon^2}{r_{a_1}} - \\frac{\\varepsilon^2}{r_{a_2}} - \\frac{\\varepsilon^2}{r_{b_1}} - \\frac{\\varepsilon^2}{r_{b_2}} \\right) \\frac{\\psi_1 \\varphi_1 \\psi_2 \\varphi_2}{2} d\\tau_1 d\\tau_2, \\\\ S &= \\int \\psi_1 \\varphi_1 \\psi_2 \\varphi_2 d\\tau_1 d\\tau_2. \\end{aligned} \\right\\} \\quad (11)$$",
+          "markdown": "mit folgenden Bezeichnungen:\n\n$$\\left. \\begin{aligned} E_{11} &= \\int \\left[ \\left(\\frac{\\varepsilon^2}{r_{12}} + \\frac{\\varepsilon^2}{R}\\right) \\frac{\\psi_1^2 \\varphi_2^2 + \\psi_2^2 \\varphi_1^2}{2} - \\left(\\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\frac{\\psi_2^2 \\varphi_1^2}{2} - \\left(\\frac{\\varepsilon^2}{r_{a_2}} + \\frac{\\varepsilon^2}{r_{b_1}}\\right) \\frac{\\psi_1^2 \\varphi_2^2}{2} \\right] d\\tau_1 d\\tau_2, \\\\ E_{12} &= \\int \\left( \\frac{2 \\varepsilon^2}{r_{12}} + \\frac{2 \\varepsilon^2}{R} - \\frac{\\varepsilon^2}{r_{a_1}} - \\frac{\\varepsilon^2}{r_{a_2}} - \\frac{\\varepsilon^2}{r_{b_1}} - \\frac{\\varepsilon^2}{r_{b_2}} \\right) \\frac{\\psi_1 \\varphi_1 \\psi_2 \\varphi_2}{2} d\\tau_1 d\\tau_2, \\\\ S &= \\int \\psi_1 \\varphi_1 \\psi_2 \\varphi_2 d\\tau_1 d\\tau_2. \\end{aligned} \\right\\} \\quad (11)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        }
+      ],
+      "page_markdown_original": "Wechselwirkung neutraler Atome und homöopolare Bindung.\n\n## Wechselwirkung zweier Wasserstoffatome (Fortsetzung)\n\n3. Die exakten Eigenfunktionen der Differentialgleichung (1) gehen aus ganz bestimmten Linearkombinationen (4) hervor, den Eigenfunktionen „nullter Näherung“ und unterscheiden sich von letzteren nur um eine kleine Störung $v$. Die Koeffizienten $a, b, c, d$ in (4) für diese Eigenfunktionen nullter Näherung lassen sich nach bekannten Regeln bestimmen. Zwar fehlt der Gleichung (1) der Charakter eines Störungsproblems, weil man kein Glied in der Potentialfunktion als „Störungspotential“ abtrennen kann, aber die Methode zur Bestimmung der besagten Koeffizienten und der Störungsenergien ist genau die gleiche, wie wenn ein Störungspotential vorhanden wäre. Um die Rechnungen durchsichtiger zu machen, wollen wir von vorherin die richtigen und gemäß (5) normierten Linearkombinationen wählen (und ihre Richtigkeit nachträglich verifizieren):\n\n$$\\left. \\begin{array}{l} \\alpha = \\frac{1}{\\sqrt{2 + 2S}} (\\psi_1 \\varphi_2 + \\psi_2 \\varphi_1), \\\\ \\beta = \\frac{1}{\\sqrt{2 - 2S}} (\\psi_1 \\varphi_2 - \\psi_2 \\varphi_1). \\end{array} \\right\\} \\quad (4a)$$\n\nFür die gestörten Eigenfunktionen werden wir jetzt anzusetzen haben:\n\n$$\\left. \\begin{array}{l} \\chi_\\alpha = \\alpha + v_\\alpha, \\\\ \\chi_\\beta = \\beta + v_\\beta. \\end{array} \\right\\} \\quad (6)$$\n\nMit diesem Ansatz gehen wir in die Gleichung (1) ein, und berücksichtigen, dass die Funktionen $\\psi_1, \\psi_2, \\varphi_1, \\varphi_2$ den vier Gleichungen genügen,\n\n$$\\left. \\begin{array}{l} \\Delta_1 \\psi_1 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{a_1}}\\right) \\psi_1 = 0, \\\\ \\Delta_2 \\psi_2 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_2 = 0, \\\\ \\Delta_1 \\varphi_1 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{b_1}}\\right) \\varphi_1 = 0, \\\\ \\Delta_2 \\varphi_2 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\varphi_2 = 0, \\end{array} \\right\\} \\quad (7)$$\n\nwobei $E_0 = -13,5$ Volt den Eigenwert des Wasserstoffgrundzustandes bedeutet. Mit der Bezeichnung\n\n$$E_1 = E - 2 E_0 \\quad (8)$$\n\nfür die Eigenwertstörung erhalten wir aus (1) die beiden Differentialgleichungen für $v_\\alpha$ und $v_\\beta$:\n\n$$\\sqrt{2 + 2 S} L(v_\\alpha) + \\left(E_1 - \\frac{\\varepsilon^2}{r_{12}} - \\frac{\\varepsilon^2}{R}\\right) (\\psi_1 \\varphi_2 + \\psi_2 \\varphi_1) + \\left(\\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\psi_2 \\varphi_1 + \\left(\\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_1 \\varphi_2 = 0, \\quad (9 \\alpha)$$\n\n$$\\sqrt{2 - 2 S} L(v_\\beta) + \\left(E_1 - \\frac{\\varepsilon^2}{r_{12}} - \\frac{\\varepsilon^2}{R}\\right) (\\psi_1 \\varphi_2 - \\psi_2 \\varphi_1) + \\left(\\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\psi_2 \\varphi_1 - \\left(\\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_1 \\varphi_2 = 0. \\quad (9 \\beta)$$\n\nDamit diese in $v$ inhomogenen Gleichungen für einen Eigenwert $E$ der homogenen Gleichung überhaupt lösbar sind, ist zu verlangen, dass die Inhomogenitäten auf sämtlichen Eigenfunktionen der homogenen Gleichung, also auf $\\chi_\\alpha$ und $\\chi_\\beta$, die zum gleichen Eigenwert $E$ gehören, orthogonal stehen.\n\nMan findet zunächst, dass die Inhomogenität von $(9 \\alpha)$ schon orthogonal auf $\\beta$ und die Inhomogenität von $(9 \\beta)$ orthogonal auf $\\alpha$ steht (bis auf vernachlässigbare Größen). Damit ist die Richtigkeit des Ansatzes (4a) verifiziert. Die beiden anderen Forderungen:\n\n$$\\text{Inhomogenität } (9 \\alpha) \\perp \\text{ auf } \\alpha,$$\n\n$$\\text{„} \\quad (9 \\beta) \\perp \\text{ „ } \\beta,$$\n\nliefern die beiden Eigenwertstörungen\n\n$$\\left. \\begin{aligned} E_\\alpha &= E_{11} - \\frac{E_{11} S - E_{12}}{1 + S}, \\\\ E_\\beta &= E_{11} + \\frac{E_{11} S - E_{12}}{1 - S} \\end{aligned} \\right\\} \\quad (10)$$\n\nmit folgenden Bezeichnungen:\n\n$$\\left. \\begin{aligned} E_{11} &= \\int \\left[ \\left(\\frac{\\varepsilon^2}{r_{12}} + \\frac{\\varepsilon^2}{R}\\right) \\frac{\\psi_1^2 \\varphi_2^2 + \\psi_2^2 \\varphi_1^2}{2} - \\left(\\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\frac{\\psi_2^2 \\varphi_1^2}{2} - \\left(\\frac{\\varepsilon^2}{r_{a_2}} + \\frac{\\varepsilon^2}{r_{b_1}}\\right) \\frac{\\psi_1^2 \\varphi_2^2}{2} \\right] d\\tau_1 d\\tau_2, \\\\ E_{12} &= \\int \\left( \\frac{2 \\varepsilon^2}{r_{12}} + \\frac{2 \\varepsilon^2}{R} - \\frac{\\varepsilon^2}{r_{a_1}} - \\frac{\\varepsilon^2}{r_{a_2}} - \\frac{\\varepsilon^2}{r_{b_1}} - \\frac{\\varepsilon^2}{r_{b_2}} \\right) \\frac{\\psi_1 \\varphi_1 \\psi_2 \\varphi_2}{2} d\\tau_1 d\\tau_2, \\\\ S &= \\int \\psi_1 \\varphi_1 \\psi_2 \\varphi_2 d\\tau_1 d\\tau_2. \\end{aligned} \\right\\} \\quad (11)$$\n\n",
+      "word_count": 480,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Text in Frakturschrift und Antiqua gemischt",
+        "Formeln in Blocksatz, teilweise schwer zu erkennen",
+        "Fußnoten am Seitenende, korrekt zugeordnet",
+        "Seitenzahl '457' oben rechts"
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "458",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "W. Heitler und F. London,",
+          "markdown": "W. Heitler und F. London,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 2. Diskussion des Resultats. 1. Wir erhalten also zwei Störungsenergien entsprechend den Ansätzen (5a):\n\n$$E_a = E_{11} - \\frac{E_{11}S - E_{12}}{1 + S}$$\n\ngehört zu $\\frac{1}{\\sqrt{2 + 2S}}(\\psi_1\\varphi_2 + \\psi_2\\varphi_1)$ (symmetrisch in 1 und 2),\n\n$$E_\\beta = E_{11} + \\frac{E_{11}S - E_{12}}{1 - S}$$\n\ngehört zu $\\frac{1}{\\sqrt{2 - 2S}}(\\psi_1\\varphi_2 - \\psi_2\\varphi_1)$ (antisymmetrisch in 1 und 2).",
+          "markdown": "## § 2. Diskussion des Resultats\n\n1. Wir erhalten also zwei Störungsenergien entsprechend den Ansätzen (5a):\n\n$$E_a = E_{11} - \\frac{E_{11}S - E_{12}}{1 + S}$$\n\ngehört zu $\\frac{1}{\\sqrt{2 + 2S}}(\\psi_1\\varphi_2 + \\psi_2\\varphi_1)$ (symmetrisch in 1 und 2),\n\n$$E_\\beta = E_{11} + \\frac{E_{11}S - E_{12}}{1 - S}$$\n\ngehört zu $\\frac{1}{\\sqrt{2 - 2S}}(\\psi_1\\varphi_2 - \\psi_2\\varphi_1)$ (antisymmetrisch in 1 und 2).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es ist ein mit klassischen Begriffen nur sehr künstlich zu beschreibendes Ergebnis, dass zwei neutrale Atome auf zwei verschiedene Weisen miteinander wechselwirken können. Von einem wirklichen Verständnis dieses Sachverhaltes sind wir wohl noch weit entfernt. Aber es ist wünschenswert, sich wenigstens darüber klar zu werden, wie diese merkwürdige Zweideutigkeit mathematisch zustande kommt. Das Wesentliche ist offenbar, dass das Problem ursprünglich zweifach entartet ist (1a und 1b), entsprechend den beiden Möglichkeiten, die Elektronen den neutralen Atomen zuzuordnen$^{1}$. Die Aufhebung dieser Entartung knüpft sich, wie man aus (10) ersieht, an das Nichtverschwinden der Eigenfunktion des Atoms $a$ am Orte des Atoms $b$ und umgekehrt (anderenfalls wäre $\\psi_1 \\varphi_1 = 0$ und folglich $E_{12} = 0$ und $S = 0$); das aber besagt, dass eine endliche Wahrscheinlichkeit für das Elektron von $a$ bestehen muss, dem Atom $b$ anzugehören. Das exponentielle Verhalten von $\\psi$ und $\\varphi$ erfüllt tatsächlich diese Bedingung stets.",
+          "markdown": "Es ist ein mit klassischen Begriffen nur sehr künstlich zu beschreibendes Ergebnis, dass zwei neutrale Atome auf zwei verschiedene Weisen miteinander wechselwirken können. Von einem wirklichen Verständnis dieses Sachverhaltes sind wir wohl noch weit entfernt. Aber es ist wünschenswert, sich wenigstens darüber klar zu werden, wie diese merkwürdige Zweideutigkeit mathematisch zustande kommt. Das Wesentliche ist offenbar, dass das Problem ursprünglich zweifach entartet ist (1a und 1b), entsprechend den beiden Möglichkeiten, die Elektronen den neutralen Atomen zuzuordnen$^{1}$. Die Aufhebung dieser Entartung knüpft sich, wie man aus (10) ersieht, an das Nichtverschwinden der Eigenfunktion des Atoms $a$ am Orte des Atoms $b$ und umgekehrt (anderenfalls wäre $\\psi_1 \\varphi_1 = 0$ und folglich $E_{12} = 0$ und $S = 0$); das aber besagt, dass eine endliche Wahrscheinlichkeit für das Elektron von $a$ bestehen muss, dem Atom $b$ anzugehören. Das exponentielle Verhalten von $\\psi$ und $\\varphi$ erfüllt tatsächlich diese Bedingung stets.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man wird die Größe $1/h(E_\\beta - E_\\alpha)$ als die Frequenz zu deuten haben, mit welcher im Mittel ein Austausch der beiden Elektronen erfolgt. Für große Entfernung nimmt diese Differenz wie $\\frac{\\varepsilon^2}{a_0} e^{-\\frac{2}{a_0} R}$ ab, so dass weit entfernte Atome äußerst selten$^1$ in Austausch treten.\n\nDas ganze Phänomen ist nahe verwandt mit dem von Heisenberg behandelten quantenmechanischen Resonanzphänomen. Während aber bei Resonanz die Elektronen verschiedener Bewegungsstufen einer und derselben Eigenfunktionenreihe sich ihre Energie austauschen, treten hier Elektronen gleicher Anregungsstufe (gleicher Energie), aber an verschiedenen Eigenfunktionssystemen ($\n\\psi$ und $\\varphi$), in Austausch ihrer Orte. Dort ist das zweimalige Vorkommen derselben Sprungfrequenz charakteristisch (Resonanzphänomen); hier dagegen ist von Resonanz nicht die Rede.",
+          "markdown": "Man wird die Größe $1/h(E_\\beta - E_\\alpha)$ als die Frequenz zu deuten haben, mit welcher im Mittel ein Austausch der beiden Elektronen erfolgt. Für große Entfernung nimmt diese Differenz wie $\\frac{\\varepsilon^2}{a_0} e^{-\\frac{2}{a_0} R}$ ab, so dass weit entfernte Atome äußerst selten$^1$ in Austausch treten.\n\nDas ganze Phänomen ist nahe verwandt mit dem von Heisenberg behandelten quantenmechanischen Resonanzphänomen. Während aber bei Resonanz die Elektronen verschiedener Bewegungsstufen einer und derselben Eigenfunktionenreihe sich ihre Energie austauschen, treten hier Elektronen gleicher Anregungsstufe (gleicher Energie), aber an verschiedenen Eigenfunktionssystemen ($\n\\psi$ und $\\varphi$), in Austausch ihrer Orte. Dort ist das zweimalige Vorkommen derselben Sprungfrequenz charakteristisch (Resonanzphänomen); hier dagegen ist von Resonanz nicht die Rede.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "2. Wenden wir uns jetzt zur quantitativen Diskussion der Wechselwirkungsenergien (10). Schon ohne die auftretenden Integrale auszuwerten, lässt sich sagen: Das Vorzeichen von $E_{11}S - E_{12}$ ist stets positiv. In einem Sturm-Liouvilleschen Eigenwertproblem beliebig vieler Dimensionen mit homogenen Randbedingungen besitzt diejenige Eigenschwingung, die keinen Knoten hat, den tiefsten Eigenwert. Jede andere orthogonale Eigenschwingung hat Knoten und einen höheren Eigenwert. Nun ist aber offenbar die Lösung $\\alpha$ knotenlos, während $\\beta$ als antisymmetrische Eigenfunktion immer einen Knoten besitzt. Es ist also $E_\\beta > E_\\alpha$. (12)",
+          "markdown": "2. Wenden wir uns jetzt zur quantitativen Diskussion der Wechselwirkungsenergien (10). Schon ohne die auftretenden Integrale auszuwerten, lässt sich sagen: Das Vorzeichen von $E_{11}S - E_{12}$ ist stets positiv. In einem Sturm-Liouvilleschen Eigenwertproblem beliebig vieler Dimensionen mit homogenen Randbedingungen besitzt diejenige Eigenschwingung, die keinen Knoten hat, den tiefsten Eigenwert. Jede andere orthogonale Eigenschwingung hat Knoten und einen höheren Eigenwert. Nun ist aber offenbar die Lösung $\\alpha$ knotenlos, während $\\beta$ als antisymmetrische Eigenfunktion immer einen Knoten besitzt. Es ist also $E_\\beta > E_\\alpha$. (12)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Bedeutung von $E_{11}$ ist sofort aus (11) ersichtlich: Es ist die rein Coulombsche Wechselwirkung der vorhandenen Ladungsverteilung. Die Ausrechnung ergibt\n\n$$E_{11} = \\frac{\\varepsilon^2}{a_0} e^{-\\frac{2}{a_0} R} \\left( \\frac{a_0}{R} + \\frac{5}{8} - \\frac{3}{4} \\frac{R}{a_0} - \\frac{1}{6} \\frac{R^2}{a_0^2} \\right). \\quad (13)$$",
+          "markdown": "Die Bedeutung von $E_{11}$ ist sofort aus (11) ersichtlich: Es ist die rein Coulombsche Wechselwirkung der vorhandenen Ladungsverteilung. Die Ausrechnung ergibt\n\n$$E_{11} = \\frac{\\varepsilon^2}{a_0} e^{-\\frac{2}{a_0} R} \\left( \\frac{a_0}{R} + \\frac{5}{8} - \\frac{3}{4} \\frac{R}{a_0} - \\frac{1}{6} \\frac{R^2}{a_0^2} \\right). \\quad (13)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Der Verlauf zeigt die mittlere Kurve in Fig. 1. $R$ ist in Einheiten von $a_0 = 0,532$ Å, die Energie in Volt aufgetragen.\n\nDer übrige Teil der Energien (11) lässt sich nicht so einfach deuten. Die dort vorkommenden Integrale ließen sich nicht alle auswerten. Man berechnet:\n\n$$\\left. \\begin{aligned} S &= \\left( 1 + \\frac{R}{a_0} + \\frac{R^2}{3 a_0^2} \\right)^2 e^{-\\frac{2R}{a_0}} \\\\ \\int \\frac{\\psi_1 \\psi_2 \\varphi_1 \\varphi_2}{2} \\left( \\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{a_2}} + \\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{b_2}} - \\frac{2 \\varepsilon^2}{R} \\right) d\\tau_1 d\\tau_2 \\\\ &= \\frac{2 \\varepsilon^2}{a_0} \\left( 1 + \\frac{2R}{a_0} + \\frac{4}{3} \\frac{R^2}{a_0^2} + \\frac{R^2}{3 a_0^2} \\right) e^{-\\frac{2R}{a_0}} - \\frac{\\varepsilon^2}{R} S, \\end{aligned} \\right\\} \\quad (14)$$",
+          "markdown": "Der Verlauf zeigt die mittlere Kurve in Fig. 1. $R$ ist in Einheiten von $a_0 = 0,532$ Å, die Energie in Volt aufgetragen.\n\nDer übrige Teil der Energien (11) lässt sich nicht so einfach deuten. Die dort vorkommenden Integrale ließen sich nicht alle auswerten. Man berechnet:\n\n$$\\left. \\begin{aligned} S &= \\left( 1 + \\frac{R}{a_0} + \\frac{R^2}{3 a_0^2} \\right)^2 e^{-\\frac{2R}{a_0}} \\\\ \\int \\frac{\\psi_1 \\psi_2 \\varphi_1 \\varphi_2}{2} \\left( \\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{a_2}} + \\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{b_2}} - \\frac{2 \\varepsilon^2}{R} \\right) d\\tau_1 d\\tau_2 \\\\ &= \\frac{2 \\varepsilon^2}{a_0} \\left( 1 + \\frac{2R}{a_0} + \\frac{4}{3} \\frac{R^2}{a_0^2} + \\frac{R^2}{3 a_0^2} \\right) e^{-\\frac{2R}{a_0}} - \\frac{\\varepsilon^2}{R} S, \\end{aligned} \\right\\} \\quad (14)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "während wir für das fehlende Integral über $1/r_{12}$ nur eine obere Grenze erhielten$^{1}$. Es ist\n\n$$\\int \\frac{\\psi_1 \\psi_2 \\varphi_1 \\varphi_2}{r_{12}} d\\tau_1 d\\tau_2 < \\frac{\\varepsilon^2}{a_0} \\frac{5}{8} \\left( 1 + \\frac{R}{a_0} + \\frac{R^2}{3 a_0^2} \\right)^2 e^{-\\frac{2R}{a_0}}. \\quad (15)$$",
+          "markdown": "während wir für das fehlende Integral über $1/r_{12}$ nur eine obere Grenze erhielten$^{1}$. Es ist\n\n$$\\int \\frac{\\psi_1 \\psi_2 \\varphi_1 \\varphi_2}{r_{12}} d\\tau_1 d\\tau_2 < \\frac{\\varepsilon^2}{a_0} \\frac{5}{8} \\left( 1 + \\frac{R}{a_0} + \\frac{R^2}{3 a_0^2} \\right)^2 e^{-\\frac{2R}{a_0}}. \\quad (15)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_458_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Mit dieser oberen Grenze ergeben sich die Kurven $E_\\alpha$ und $E_\\beta$ in Fig. 1.\n\n$E_\\beta$ zeigt beständig Abstoßung; $E_\\alpha$ zeigt in großer Entfernung Anziehung, dann ein Minimum ungefähr bei $R = \\frac{3}{2} a_0$ und in kleiner Entfernung Abstoßung. Die hier auftretende nichtpolare Anziehung zeigt sich als charakteristisch quantenmechanischer Effekt. Sie kommt bereits zustande ohne Berücksichtigung der Störungen durch Polarisation. Es ist auch bemerkenswert, dass die Abstoßung $E_\\beta$, wie man sieht, zum größten Teil ebenfalls auf diesem quantenmechanischen Effekt, nicht auf der Coulombschen Wechselwirkung ($E_{11}$) beruht.",
+          "markdown": "Mit dieser oberen Grenze ergeben sich die Kurven $E_\\alpha$ und $E_\\beta$ in Fig. 1.\n\n$E_\\beta$ zeigt beständig Abstoßung; $E_\\alpha$ zeigt in großer Entfernung Anziehung, dann ein Minimum ungefähr bei $R = \\frac{3}{2} a_0$ und in kleiner Entfernung Abstoßung. Die hier auftretende nichtpolare Anziehung zeigt sich als charakteristisch quantenmechanischer Effekt. Sie kommt bereits zustande ohne Berücksichtigung der Störungen durch Polarisation. Es ist auch bemerkenswert, dass die Abstoßung $E_\\beta$, wie man sieht, zum größten Teil ebenfalls auf diesem quantenmechanischen Effekt, nicht auf der Coulombschen Wechselwirkung ($E_{11}$) beruht.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "figure",
+          "level": null,
+          "text_original": "Fig. 1. Potential zweier neutraler H-Atome.\n($E_\\alpha$ = homöopolare Anziehung.\n$E_\\beta$ = elastische Reflexion.)",
+          "markdown": "![Fig. 1. Potential zweier neutraler H-Atome.](pictures/figure_458_01.png)\n\n*Fig. 1. Potential zweier neutraler H-Atome.*\n($E_\\alpha$ = homöopolare Anziehung.\n$E_\\beta$ = elastische Reflexion.)",
+          "asset_id": "fig_458_01",
+          "suggested_filename": "pictures/figure_458_01.png",
+          "caption_original": "Fig. 1. Potential zweier neutraler H-Atome.\n($E_\\alpha$ = homöopolare Anziehung.\n$E_\\beta$ = elastische Reflexion.)",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "W. Heitler und F. London,\n\n## § 2. Diskussion des Resultats\n\n1. Wir erhalten also zwei Störungsenergien entsprechend den Ansätzen (5a):\n\n$$E_a = E_{11} - \\frac{E_{11}S - E_{12}}{1 + S}$$\n\ngehört zu $\\frac{1}{\\sqrt{2 + 2S}}(\\psi_1\\varphi_2 + \\psi_2\\varphi_1)$ (symmetrisch in 1 und 2),\n\n$$E_\\beta = E_{11} + \\frac{E_{11}S - E_{12}}{1 - S}$$\n\ngehört zu $\\frac{1}{\\sqrt{2 - 2S}}(\\psi_1\\varphi_2 - \\psi_2\\varphi_1)$ (antisymmetrisch in 1 und 2).\n\nEs ist ein mit klassischen Begriffen nur sehr künstlich zu beschreibendes Ergebnis, dass zwei neutrale Atome auf zwei verschiedene Weisen miteinander wechselwirken können. Von einem wirklichen Verständnis dieses Sachverhaltes sind wir wohl noch weit entfernt. Aber es ist wünschenswert, sich wenigstens darüber klar zu werden, wie diese merkwürdige Zweideutigkeit mathematisch zustande kommt. Das Wesentliche ist offenbar, dass das Problem ursprünglich zweifach entartet ist (1a und 1b), entsprechend den beiden Möglichkeiten, die Elektronen den neutralen Atomen zuzuordnen$^{1}$. Die Aufhebung dieser Entartung knüpft sich, wie man aus (10) ersieht, an das Nichtverschwinden der Eigenfunktion des Atoms $a$ am Orte des Atoms $b$ und umgekehrt (anderenfalls wäre $\\psi_1 \\varphi_1 = 0$ und folglich $E_{12} = 0$ und $S = 0$); das aber besagt, dass eine endliche Wahrscheinlichkeit für das Elektron von $a$ bestehen muss, dem Atom $b$ anzugehören. Das exponentielle Verhalten von $\\psi$ und $\\varphi$ erfüllt tatsächlich diese Bedingung stets. Man wird die Größe $1/h(E_\\beta - E_\\alpha)$ als die Frequenz zu deuten haben, mit welcher im Mittel ein Austausch der beiden Elektronen erfolgt. Für große Entfernung nimmt diese Differenz wie $\\frac{\\varepsilon^2}{a_0} e^{-\\frac{2}{a_0} R}$ ab, so dass weit entfernte Atome äußerst selten$^1$ in Austausch treten.\n\nDas ganze Phänomen ist nahe verwandt mit dem von Heisenberg behandelten quantenmechanischen Resonanzphänomen. Während aber bei Resonanz die Elektronen verschiedener Bewegungsstufen einer und derselben Eigenfunktionenreihe sich ihre Energie austauschen, treten hier Elektronen gleicher Anregungsstufe (gleicher Energie), aber an verschiedenen Eigenfunktionssystemen ($\n\\psi$ und $\\varphi$), in Austausch ihrer Orte. Dort ist das zweimalige Vorkommen derselben Sprungfrequenz charakteristisch (Resonanzphänomen); hier dagegen ist von Resonanz nicht die Rede.\n\n2. Wenden wir uns jetzt zur quantitativen Diskussion der Wechselwirkungsenergien (10). Schon ohne die auftretenden Integrale auszuwerten, lässt sich sagen: Das Vorzeichen von $E_{11}S - E_{12}$ ist stets positiv. In einem Sturm-Liouvilleschen Eigenwertproblem beliebig vieler Dimensionen mit homogenen Randbedingungen besitzt diejenige Eigenschwingung, die keinen Knoten hat, den tiefsten Eigenwert. Jede andere orthogonale Eigenschwingung hat Knoten und einen höheren Eigenwert. Nun ist aber offenbar die Lösung $\\alpha$ knotenlos, während $\\beta$ als antisymmetrische Eigenfunktion immer einen Knoten besitzt. Es ist also $E_\\beta > E_\\alpha$. (12)\n\nDie Bedeutung von $E_{11}$ ist sofort aus (11) ersichtlich: Es ist die rein Coulombsche Wechselwirkung der vorhandenen Ladungsverteilung. Die Ausrechnung ergibt\n\n$$E_{11} = \\frac{\\varepsilon^2}{a_0} e^{-\\frac{2}{a_0} R} \\left( \\frac{a_0}{R} + \\frac{5}{8} - \\frac{3}{4} \\frac{R}{a_0} - \\frac{1}{6} \\frac{R^2}{a_0^2} \\right). \\quad (13)$$\n\nDer Verlauf zeigt die mittlere Kurve in Fig. 1. $R$ ist in Einheiten von $a_0 = 0,532$ Å, die Energie in Volt aufgetragen.\n\nDer übrige Teil der Energien (11) lässt sich nicht so einfach deuten. Die dort vorkommenden Integrale ließen sich nicht alle auswerten. Man berechnet:\n\n$$\\left. \\begin{aligned} S &= \\left( 1 + \\frac{R}{a_0} + \\frac{R^2}{3 a_0^2} \\right)^2 e^{-\\frac{2R}{a_0}} \\\\ \\int \\frac{\\psi_1 \\psi_2 \\varphi_1 \\varphi_2}{2} \\left( \\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{a_2}} + \\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{b_2}} - \\frac{2 \\varepsilon^2}{R} \\right) d\\tau_1 d\\tau_2 \\\\ &= \\frac{2 \\varepsilon^2}{a_0} \\left( 1 + \\frac{2R}{a_0} + \\frac{4}{3} \\frac{R^2}{a_0^2} + \\frac{R^2}{3 a_0^2} \\right) e^{-\\frac{2R}{a_0}} - \\frac{\\varepsilon^2}{R} S, \\end{aligned} \\right\\} \\quad (14)$$\n\nwährend wir für das fehlende Integral über $1/r_{12}$ nur eine obere Grenze erhielten$^{1}$. Es ist\n\n$$\\int \\frac{\\psi_1 \\psi_2 \\varphi_1 \\varphi_2}{r_{12}} d\\tau_1 d\\tau_2 < \\frac{\\varepsilon^2}{a_0} \\frac{5}{8} \\left( 1 + \\frac{R}{a_0} + \\frac{R^2}{3 a_0^2} \\right)^2 e^{-\\frac{2R}{a_0}}. \\quad (15)$$\n\nMit dieser oberen Grenze ergeben sich die Kurven $E_\\alpha$ und $E_\\beta$ in Fig. 1.\n\n$E_\\beta$ zeigt beständig Abstoßung; $E_\\alpha$ zeigt in großer Entfernung Anziehung, dann ein Minimum ungefähr bei $R = \\frac{3}{2} a_0$ und in kleiner Entfernung Abstoßung. Die hier auftretende nichtpolare Anziehung zeigt sich als charakteristisch quantenmechanischer Effekt. Sie kommt bereits zustande ohne Berücksichtigung der Störungen durch Polarisation. Es ist auch bemerkenswert, dass die Abstoßung $E_\\beta$, wie man sieht, zum größten Teil ebenfalls auf diesem quantenmechanischen Effekt, nicht auf der Coulombschen Wechselwirkung ($E_{11}$) beruht.\n\n![Fig. 1. Potential zweier neutraler H-Atome.](pictures/figure_458_01.png)\n\n*Fig. 1. Potential zweier neutraler H-Atome.*\n($E_\\alpha$ = homöopolare Anziehung.\n$E_\\beta$ = elastische Reflexion.)\n\n",
+      "word_count": 520,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Text in Frakturschrift und Antiqua gemischt",
+        "Formeln in Blocksatz, teilweise schwer zu erkennen",
+        "Fußnoten am Seitenende, korrekt zugeordnet",
+        "Seitenzahl '458' oben rechts",
+        "Abbildung 'Fig. 1' mit Beschriftung"
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "459",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Wechselwirkung neutraler Atome und homöopolare Bindung.",
+          "markdown": "Wechselwirkung neutraler Atome und homöopolare Bindung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die physikalische Bedeutung der beiden Lösungen, behaupten wir, ist folgende: Die antisymmetrische Lösung mit der Wechselwirkungsenergie $E_\\beta$ entspricht der van der Waalsschen Abstoßung (elastische Reflexion) der beiden Wasserstoffatome. Ist aber $\\alpha$ angeregt, so können sich die beiden Wasserstoffatome zu einem homöopolaren Molekül zusammenschließen, wobei das Minimum von $E_\\alpha$ die Gleichgewichtslage angibt. Wir werden ferner zeigen, dass bei der Wechselwirkung zweier nichtangeregter Edelgasatome (§ 3) die Lösung, die der Molekülbildung entspräche, quantentheoretisch verboten ist. Die Begründung dieser Behauptungen erfolgt in § 4.",
+          "markdown": "Die physikalische Bedeutung der beiden Lösungen, behaupten wir, ist folgende: Die antisymmetrische Lösung mit der Wechselwirkungsenergie $E_\\beta$ entspricht der van der Waalsschen Abstoßung (elastische Reflexion) der beiden Wasserstoffatome. Ist aber $\\alpha$ angeregt, so können sich die beiden Wasserstoffatome zu einem homöopolaren Molekül zusammenschließen, wobei das Minimum von $E_\\alpha$ die Gleichgewichtslage angibt. Wir werden ferner zeigen, dass bei der Wechselwirkung zweier nichtangeregter Edelgasatome (§ 3) die Lösung, die der Molekülbildung entspräche, quantentheoretisch verboten ist. Die Begründung dieser Behauptungen erfolgt in § 4.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die abgeschätzten Kurven ergeben ungefähr die Werte der betreffenden atomaren Größen: Atomdurchmesser, Dissoziationsenergie und Trägheitsmoment des Moleküls. Was den durch die Abschätzung verursachten Fehler angeht, so beachte man, dass jedenfalls $E_\\beta$ in Wirklichkeit höher, $E'_a$ tiefer zu liegen kommt, wodurch also der typische Charakter der beiden Potentiale sich noch stärker ausprägen würde. Da es nicht unser Ziel ist, möglichst genaue Zahlenwerte auszurechnen sondern Einblick in die physikalischen Verhältnisse bei der homöopolaren Bindung zu gewinnen, begnügen wir uns hier mit dieser Abschätzung.",
+          "markdown": "Die abgeschätzten Kurven ergeben ungefähr die Werte der betreffenden atomaren Größen: Atomdurchmesser, Dissoziationsenergie und Trägheitsmoment des Moleküls. Was den durch die Abschätzung verursachten Fehler angeht, so beachte man, dass jedenfalls $E_\\beta$ in Wirklichkeit höher, $E'_a$ tiefer zu liegen kommt, wodurch also der typische Charakter der beiden Potentiale sich noch stärker ausprägen würde. Da es nicht unser Ziel ist, möglichst genaue Zahlenwerte auszurechnen sondern Einblick in die physikalischen Verhältnisse bei der homöoplaren Bindung zu gewinnen, begnügen wir uns hier mit dieser Abschätzung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 3. Wechselwirkung zweier He-Atome. Wir untersuchen mit derselben Methode die Wechselwirkung zweier neutraler He-Atome. Die beiden Kerne heißen wieder $a$ und $b$ und seien in festem Abstand $R$ gehalten. Die Elektronen tragen die Nummern 1 bis 4. Für jeden Kern existiert eine Eigenfunktion, $\\psi$ für den Kern $a$, $\\varphi$ für den Kern $b$ welche jetzt aber Funktionen von je zwei Elektronen sind, und zwar hat die He-Theorie von Heisenberg$^{1}$ gezeigt, dass die Eigenfunktionen des He-Grundzustandes symmetrisch in den Ortskoordinaten der beiden Elektronen sind. Durch Produktbildung je einer $\\psi$- und einer $\\varphi$-Funktion entsteht eine Eigenfunktion (wir schreiben die Argumente wieder als Indizes):\n\n$$\\psi_{ik} \\cdot \\varphi_{ij} \\quad (i \\neq k \\neq l \\neq j = 1, 2, 3, 4) \\quad (16)$$",
+          "markdown": "## § 3. Wechselwirkung zweier He-Atome\n\nWir untersuchen mit derselben Methode die Wechselwirkung zweier neutraler He-Atome. Die beiden Kerne heißen wieder $a$ und $b$ und seien in festem Abstand $R$ gehalten. Die Elektronen tragen die Nummern 1 bis 4. Für jeden Kern existiert eine Eigenfunktion, $\\psi$ für den Kern $a$, $\\varphi$ für den Kern $b$ welche jetzt aber Funktionen von je zwei Elektronen sind, und zwar hat die He-Theorie von Heisenberg$^{1}$ gezeigt, dass die Eigenfunktionen des He-Grundzustandes symmetrisch in den Ortskoordinaten der beiden Elektronen sind. Durch Produktbildung je einer $\\psi$- und einer $\\varphi$-Funktion entsteht eine Eigenfunktion (wir schreiben die Argumente wieder als Indizes):\n\n$$\\psi_{ik} \\cdot \\varphi_{ij} \\quad (i \\neq k \\neq l \\neq j = 1, 2, 3, 4) \\quad (16)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "des ungestörten Problems (weitgetrennte neutrale Atome). Durch Permutation der vier Elektronen (wobei man berücksichtigt, dass $\\psi_{ik} = \\psi_{ki}$, $\\varphi_{ik} = \\varphi_{ki}$ ist) entstehen $\\binom{4}{2} = 6$ neue Eigenfunktionen, die alle zum gleichen Eigenwert gehören. Sie lauten:\n\n$$\\left. \\begin{array}{ll} \\psi_{12} \\varphi_{34}, & \\psi_{34} \\varphi_{12}, \\\\ \\psi_{13} \\varphi_{42}, & \\psi_{42} \\varphi_{13}, \\\\ \\psi_{14} \\varphi_{33}, & \\psi_{33} \\varphi_{14}. \\end{array} \\right\\} \\quad (17)$$",
+          "markdown": "des ungestörten Problems (weitgetrennte neutrale Atome). Durch Permutation der vier Elektronen (wobei man berücksichtigt, dass $\\psi_{ik} = \\psi_{ki}$, $\\varphi_{ik} = \\varphi_{ki}$ ist) entstehen $\\binom{4}{2} = 6$ neue Eigenfunktionen, die alle zum gleichen Eigenwert gehören. Sie lauten:\n\n$$\\left. \\begin{array}{ll} \\psi_{12} \\varphi_{34}, & \\psi_{34} \\varphi_{12}, \\\\ \\psi_{13} \\varphi_{42}, & \\psi_{42} \\varphi_{13}, \\\\ \\psi_{14} \\varphi_{33}, & \\psi_{33} \\varphi_{14}. \\end{array} \\right\\} \\quad (17)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Elektronen des Heliumgrundzustandes müssen hinsichtlich ihres Dralls verschieden voneinander sein. Wir wollen die Bezeichnung so wählen, dass die Elektronen 1 und 3 von gleichem Drall sind, ebenso 2 und 4, aber 1 und 2 verschiedenen Drall haben. Dann ist es nach dem Pauliprinzip ausgeschlossen, dass 1 und 3 bzw. 2 und 4 am gleichen He-Kern sich befinden. Wir können demzufolge zwei der sechs Eigenfunktionen (17) von vornherein ausschließen und uns auf\n\n$$\\left. \\begin{array}{ll} \\psi_{12} \\varphi_{34}, & \\psi_{34} \\varphi_{12}, \\\\ \\psi_{14} \\varphi_{23}, & \\psi_{23} \\varphi_{14} \\end{array} \\right\\} \\quad (17a)$$\n\nbeschränken.",
+          "markdown": "Die Elektronen des Heliumgrundzustandes müssen hinsichtlich ihres Dralls verschieden voneinander sein. Wir wollen die Bezeichnung so wählen, dass die Elektronen 1 und 3 von gleichem Drall sind, ebenso 2 und 4, aber 1 und 2 verschiedenen Drall haben. Dann ist es nach dem Pauliprinzip ausgeschlossen, dass 1 und 3 bzw. 2 und 4 am gleichen He-Kern sich befinden. Wir können demzufolge zwei der sechs Eigenfunktionen (17) von vornherein ausschließen und uns auf\n\n$$\\left. \\begin{array}{ll} \\psi_{12} \\varphi_{34}, & \\psi_{34} \\varphi_{12}, \\\\ \\psi_{14} \\varphi_{23}, & \\psi_{23} \\varphi_{14} \\end{array} \\right\\} \\quad (17a)$$\n\nbeschränken.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Wellengleichung für das 2-He-Problem lautet:\n\n$$\\sum_{i=1}^4 \\left[ \\Delta_i \\chi + \\frac{8 \\pi^2 m}{h^2} \\left( E - \\varepsilon^2 \\left( \\frac{4}{R} + \\sum_{k=1}^4 \\frac{1}{r_{ik}} - \\frac{1}{r_{ai}} - \\frac{1}{r_{bi}} \\right) \\right) \\chi \\right] = 0. \\quad (18)$$",
+          "markdown": "Die Wellengleichung für das 2-He-Problem lautet:\n\n$$\\sum_{i=1}^4 \\left[ \\Delta_i \\chi + \\frac{8 \\pi^2 m}{h^2} \\left( E - \\varepsilon^2 \\left( \\frac{4}{R} + \\sum_{k=1}^4 \\frac{1}{r_{ik}} - \\frac{1}{r_{ai}} - \\frac{1}{r_{bi}} \\right) \\right) \\chi \\right] = 0. \\quad (18)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Sie ist symmetrisch in allen vier Elektronen. Wir haben auch hier wieder kein Störungsproblem von der üblichen Form, da sich ebenso wenig wie in § 1 ein Störungspotential abtrennen lässt; wir entnehmen aber der Symmetrie der Differentialgleichung, dass die Eigenfunktionen nullter Näherung die gleichen sind, wie wenn ein kleines in den vier Elektronen symmetrisches Störungspotential vorhanden wäre. Wir bezeichnen es mit $H$.\n\nMit dieser Hilfsbetrachtung können wir natürlich nicht die Eigenwerte erster Ordnung dem Säkularproblem entnehmen, wohl aber die richtigen Eigenfunktionen nullter Ordnung, wenn diese allein durch den Symmetriecharakter der Differentialgleichung ausgezeichnet werden. Anstatt mit den Eigenfunktionen (17a) in das Säkularproblem mit $H$ einzugehen, ist es praktischer von vornherein gewisse Linearkombinationen von (17a) zu bilden, nämlich (die Normierungsfaktoren lassen wir weg):\n\n$$\\left. \\begin{array}{ll} \\Psi_1 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12}, & \\Phi_1 = \\psi_{12} \\varphi_{34} - \\psi_{34} \\varphi_{12}, \\\\ \\Psi_2 = \\psi_{14} \\varphi_{23} + \\psi_{23} \\varphi_{14}, & \\Phi_2 = \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}. \\end{array} \\right\\} \\quad (17b)$$",
+          "markdown": "Sie ist symmetrisch in allen vier Elektronen. Wir haben auch hier wieder kein Störungsproblem von der üblichen Form, da sich ebenso wenig wie in § 1 ein Störungspotential abtrennen lässt; wir entnehmen aber der Symmetrie der Differentialgleichung, dass die Eigenfunktionen nullter Näherung die gleichen sind, wie wenn ein kleines in den vier Elektronen symmetrisches Störungspotential vorhanden wäre. Wir bezeichnen es mit $H$.\n\nMit dieser Hilfsbetrachtung können wir natürlich nicht die Eigenwerte erster Ordnung dem Säkularproblem entnehmen, wohl aber die richtigen Eigenfunktionen nullter Ordnung, wenn diese allein durch den Symmetriecharakter der Differentialgleichung ausgezeichnet werden. Anstatt mit den Eigenfunktionen (17a) in das Säkularproblem mit $H$ einzugehen, ist es praktischer von vornherein gewisse Linearkombinationen von (17a) zu bilden, nämlich (die Normierungsfaktoren lassen wir weg):\n\n$$\\left. \\begin{array}{ll} \\Psi_1 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12}, & \\Phi_1 = \\psi_{12} \\varphi_{34} - \\psi_{34} \\varphi_{12}, \\\\ \\Psi_2 = \\psi_{14} \\varphi_{23} + \\psi_{23} \\varphi_{14}, & \\Phi_2 = \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}. \\end{array} \\right\\} \\quad (17b)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Mit diesen Eigenfunktionen verschwinden alle Matrizenelemente der Form\n\n$$\\int H \\Psi \\Phi \\, d\\tau = 0,$$\n\nden $H \\Psi$ ist symmetrisch, $\\Phi$ dagegen antisymmetrisch hinsichtlich eines Austausches von 1 mit 3 und zugleich 2 mit 4, das Integral ist aber gegenüber einem Austausch der Integrationsvariablen unempfindlich, es muss also verschwinden. Weiterhin treten in dem Säkularproblem folgende Matrizenelemente auf:\n\n$$\\begin{aligned} \\int H \\Psi_1^2 d\\tau &= \\int H \\Psi_2^2 d\\tau = H_{11}, \\\\ \\int H \\Psi_1 \\Psi_2 d\\tau &= H_{12}, \\\\ \\int H \\Phi_1^2 d\\tau &= \\int H \\Phi_2^2 d\\tau = K_{11}, \\\\ \\int H \\Phi_1 \\Phi_2 d\\tau &= 0. \\end{aligned}$$",
+          "markdown": "Mit diesen Eigenfunktionen verschwinden alle Matrizenelemente der Form\n\n$$\\int H \\Psi \\Phi \\, d\\tau = 0,$$\n\nden $H \\Psi$ ist symmetrisch, $\\Phi$ dagegen antisymmetrisch hinsichtlich eines Austausches von 1 mit 3 und zugleich 2 mit 4, das Integral ist aber gegenüber einem Austausch der Integrationsvariablen unempfindlich, es muss also verschwinden. Weiterhin treten in dem Säkularproblem folgende Matrizenelemente auf:\n\n$$\\begin{aligned} \\int H \\Psi_1^2 d\\tau &= \\int H \\Psi_2^2 d\\tau = H_{11}, \\\\ \\int H \\Psi_1 \\Psi_2 d\\tau &= H_{12}, \\\\ \\int H \\Phi_1^2 d\\tau &= \\int H \\Phi_2^2 d\\tau = K_{11}, \\\\ \\int H \\Phi_1 \\Phi_2 d\\tau &= 0. \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        }
+      ],
+      "page_markdown_original": "Wechselwirkung neutraler Atome und homöopolare Bindung.\n\n## Wechselwirkung zweier He-Atome (Fortsetzung)\n\nDie physikalische Bedeutung der beiden Lösungen, behaupten wir, ist folgende: Die antisymmetrische Lösung mit der Wechselwirkungsenergie $E_\\beta$ entspricht der van der Waalsschen Abstoßung (elastische Reflexion) der beiden Wasserstoffatome. Ist aber $\\alpha$ angeregt, so können sich die beiden Wasserstoffatome zu einem homöopolaren Molekül zusammenschließen, wobei das Minimum von $E_\\alpha$ die Gleichgewichtslage angibt. Wir werden ferner zeigen, dass bei der Wechselwirkung zweier nichtangeregter Edelgasatome (§ 3) die Lösung, die der Molekülbildung entspräche, quantentheoretisch verboten ist. Die Begründung dieser Behauptungen erfolgt in § 4.\n\nDie abgeschätzten Kurven ergeben ungefähr die Werte der betreffenden atomaren Größen: Atomdurchmesser, Dissoziationsenergie und Trägheitsmoment des Moleküls. Was den durch die Abschätzung verursachten Fehler angeht, so beachte man, dass jedenfalls $E_\\beta$ in Wirklichkeit höher, $E'_a$ tiefer zu liegen kommt, wodurch also der typische Charakter der beiden Potentiale sich noch stärker ausprägen würde. Da es nicht unser Ziel ist, möglichst genaue Zahlenwerte auszurechnen sondern Einblick in die physikalischen Verhältnisse bei der homöopolaren Bindung zu gewinnen, begnügen wir uns hier mit dieser Abschätzung.\n\n## § 3. Wechselwirkung zweier He-Atome\n\nWir untersuchen mit derselben Methode die Wechselwirkung zweier neutraler He-Atome. Die beiden Kerne heißen wieder $a$ und $b$ und seien in festem Abstand $R$ gehalten. Die Elektronen tragen die Nummern 1 bis 4. Für jeden Kern existiert eine Eigenfunktion, $\\psi$ für den Kern $a$, $\\varphi$ für den Kern $b$ welche jetzt aber Funktionen von je zwei Elektronen sind, und zwar hat die He-Theorie von Heisenberg$^{1}$ gezeigt, dass die Eigenfunktionen des He-Grundzustandes symmetrisch in den Ortskoordinaten der beiden Elektronen sind. Durch Produktbildung je einer $\\psi$- und einer $\\varphi$-Funktion entsteht eine Eigenfunktion (wir schreiben die Argumente wieder als Indizes):\n\n$$\\psi_{ik} \\cdot \\varphi_{ij} \\quad (i \\neq k \\neq l \\neq j = 1, 2, 3, 4) \\quad (16)$$\n\ndes ungestörten Problems (weitgetrennte neutrale Atome). Durch Permutation der vier Elektronen (wobei man berücksichtigt, dass $\\psi_{ik} = \\psi_{ki}$, $\\varphi_{ik} = \\varphi_{ki}$ ist) entstehen $\\binom{4}{2} = 6$ neue Eigenfunktionen, die alle zum gleichen Eigenwert gehören. Sie lauten:\n\n$$\\left. \\begin{array}{ll} \\psi_{12} \\varphi_{34}, & \\psi_{34} \\varphi_{12}, \\\\ \\psi_{13} \\varphi_{42}, & \\psi_{42} \\varphi_{13}, \\\\ \\psi_{14} \\varphi_{33}, & \\psi_{33} \\varphi_{14}. \\end{array} \\right\\} \\quad (17)$$\n\nDie Elektronen des Heliumgrundzustandes müssen hinsichtlich ihres Dralls verschieden voneinander sein. Wir wollen die Bezeichnung so wählen, dass die Elektronen 1 und 3 von gleichem Drall sind, ebenso 2 und 4, aber 1 und 2 verschiedenen Drall haben. Dann ist es nach dem Pauliprinzip ausgeschlossen, dass 1 und 3 bzw. 2 und 4 am gleichen He-Kern sich befinden. Wir können demzufolge zwei der sechs Eigenfunktionen (17) von vornherein ausschließen und uns auf\n\n$$\\left. \\begin{array}{ll} \\psi_{12} \\varphi_{34}, & \\psi_{34} \\varphi_{12}, \\\\ \\psi_{14} \\varphi_{23}, & \\psi_{23} \\varphi_{14} \\end{array} \\right\\} \\quad (17a)$$\n\nbeschränken.\n\nDie Wellengleichung für das 2-He-Problem lautet:\n\n$$\\sum_{i=1}^4 \\left[ \\Delta_i \\chi + \\frac{8 \\pi^2 m}{h^2} \\left( E - \\varepsilon^2 \\left( \\frac{4}{R} + \\sum_{k=1}^4 \\frac{1}{r_{ik}} - \\frac{1}{r_{ai}} - \\frac{1}{r_{bi}} \\right) \\right) \\chi \\right] = 0. \\quad (18)$$\n\nSie ist symmetrisch in allen vier Elektronen. Wir haben auch hier wieder kein Störungsproblem von der üblichen Form, da sich ebenso wenig wie in § 1 ein Störungspotential abtrennen lässt; wir entnehmen aber der Symmetrie der Differentialgleichung, dass die Eigenfunktionen nullter Näherung die gleichen sind, wie wenn ein kleines in den vier Elektronen symmetrisches Störungspotential vorhanden wäre. Wir bezeichnen es mit $H$.\n\nMit dieser Hilfsbetrachtung können wir natürlich nicht die Eigenwerte erster Ordnung dem Säkularproblem entnehmen, wohl aber die richtigen Eigenfunktionen nullter Ordnung, wenn diese allein durch den Symmetriecharakter der Differentialgleichung ausgezeichnet werden. Anstatt mit den Eigenfunktionen (17a) in das Säkularproblem mit $H$ einzugehen, ist es praktischer von vornherein gewisse Linearkombinationen von (17a) zu bilden, nämlich (die Normierungsfaktoren lassen wir weg):\n\n$$\\left. \\begin{array}{ll} \\Psi_1 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12}, & \\Phi_1 = \\psi_{12} \\varphi_{34} - \\psi_{34} \\varphi_{12}, \\\\ \\Psi_2 = \\psi_{14} \\varphi_{23} + \\psi_{23} \\varphi_{14}, & \\Phi_2 = \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}. \\end{array} \\right\\} \\quad (17b)$$\n\nMit diesen Eigenfunktionen verschwinden alle Matrizenelemente der Form\n\n$$\\int H \\Psi \\Phi \\, d\\tau = 0,$$\n\nden $H \\Psi$ ist symmetrisch, $\\Phi$ dagegen antisymmetrisch hinsichtlich eines Austausches von 1 mit 3 und zugleich 2 mit 4, das Integral ist aber gegenüber einem Austausch der Integrationsvariablen unempfindlich, es muss also verschwinden. Weiterhin treten in dem Säkularproblem folgende Matrizenelemente auf:\n\n$$\\begin{aligned} \\int H \\Psi_1^2 d\\tau &= \\int H \\Psi_2^2 d\\tau = H_{11}, \\\\ \\int H \\Psi_1 \\Psi_2 d\\t",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Text in Frakturschrift und Antiqua gemischt",
+        "Formeln in Blocksatz, teilweise schwer zu erkennen",
+        "Fußnoten am Seitenende, korrekt zugeordnet",
+        "Seitenzahl '459' oben rechts"
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "460",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "W. Heitler und F. London,",
+          "markdown": "W. Heitler und F. London,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "null"
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das Säkularproblem vierten Grades für die Störungsenergien $E$ lautet dann:\n\n$$\\begin{array}{c|ccc} & \\Psi_1 & \\Psi_2 & \\Phi_1 & \\Phi_2 \\\\ \\\\ \\Psi_1 & H_{11} - E & H_{12} & 0 & 0 \\\\ \\Psi_2 & H_{12} & H_{11} - E & 0 & 0 \\\\ \\Phi_1 & 0 & 0 & K_{11} - E & 0 \\\\ \\Phi_2 & 0 & 0 & 0 & K_{11} - E \\end{array} = 0.$$",
+          "markdown": "Das Säkularproblem vierten Grades für die Störungsenergien $E$ lautet dann:\n\n$$\\begin{array}{c|ccc} & \\Psi_1 & \\Psi_2 & \\Phi_1 & \\Phi_2 \\\\ \\\\ \\Psi_1 & H_{11} - E & H_{12} & 0 & 0 \\\\ \\Psi_2 & H_{12} & H_{11} - E & 0 & 0 \\\\ \\Phi_1 & 0 & 0 & K_{11} - E & 0 \\\\ \\Phi_2 & 0 & 0 & 0 & K_{11} - E \\end{array} = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man erhält einen zweifach entarteten Eigenwert $K_{11}$ und zwei nicht entartete Eigenwerte:\n\n$$\\left. \\begin{aligned} E_\\alpha &= H_{11} + H_{12}, \\\\ E_\\beta &= H_{11} - H_{12}, \\\\ E_\\gamma &= K_{11}. \\end{aligned} \\right\\} \\quad (19)$$",
+          "markdown": "Man erhält einen zweifach entarteten Eigenwert $K_{11}$ und zwei nicht entartete Eigenwerte:\n\n$$\\left. \\begin{aligned} E_\\alpha &= H_{11} + H_{12}, \\\\ E_\\beta &= H_{11} - H_{12}, \\\\ E_\\gamma &= K_{11}. \\end{aligned} \\right\\} \\quad (19)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dazu findet man nach bekanntem Verfahren die Eigenfunktionen nullter Ordnung:\n\n$$\\left. \\begin{aligned} \\alpha &= \\Psi_1 + \\Psi_2 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12} + \\psi_{14} \\varphi_{23} + \\psi_{23} \\varphi_{14}, \\\\ \\beta &= \\Psi_1 - \\Psi_2 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12} - \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}, \\\\ \\gamma &= \\Phi_1 = \\psi_{12} \\varphi_{34} - \\psi_{34} \\varphi_{12}, \\\\ \\delta &= \\Phi_2 = \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}. \\end{aligned} \\right\\} \\quad (20)$$",
+          "markdown": "Dazu findet man nach bekanntem Verfahren die Eigenfunktionen nullter Ordnung:\n\n$$\\left. \\begin{aligned} \\alpha &= \\Psi_1 + \\Psi_2 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12} + \\psi_{14} \\varphi_{23} + \\psi_{23} \\varphi_{14}, \\\\ \\beta &= \\Psi_1 - \\Psi_2 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12} - \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}, \\\\ \\gamma &= \\Phi_1 = \\psi_{12} \\varphi_{34} - \\psi_{34} \\varphi_{12}, \\\\ \\delta &= \\Phi_2 = \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}. \\end{aligned} \\right\\} \\quad (20)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Aus demselben Grunde wie beim 2-Wasserstoffproblem muss $E_\\alpha$ der tiefste Eigenwert, infolgedessen $H_{12} < 0$ sein; denn zu $E_\\alpha$ gehört die knotenlose symmetrische Eigenfunktion $\\alpha$. Wir werden indes im folgenden Abschnitt zeigen, dass dieses $\\alpha$, welches energetisch eine Molekülbildung ermöglichen würde, bei neutralem He quantentheoretisch nicht zulässig ist, dass vielmehr von den vier Lösungen (20) einzig $\\beta$ auftreten kann, welche wieder elastische Reflexion bedeutet.",
+          "markdown": "Aus demselben Grunde wie beim 2-Wasserstoffproblem muss $E_\\alpha$ der tiefste Eigenwert, infolgedessen $H_{12} < 0$ sein; denn zu $E_\\alpha$ gehört die knotenlose symmetrische Eigenfunktion $\\alpha$. Wir werden indes im folgenden Abschnitt zeigen, dass dieses $\\alpha$, welches energetisch eine Molekülbildung ermöglichen würde, bei neutralem He quantentheoretisch nicht zulässig ist, dass vielmehr von den vier Lösungen (20) einzig $\\beta$ auftreten kann, welche wieder elastische Reflexion bedeutet.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 4. Pauliprinzip und Molekülbildung. 1. Wie man sich leicht überzeugt, gehören unsere Lösungen (4a) bzw. (20) Systemen an, welche nicht miteinander kombinieren¹. Dieser Umstand eröffnet die Möglichkeit, das Pauliprinzip, welches sich bei der Diskussion der Elektronenkonfigurationen der Einzelatome so bewährt hat, in einem erweiterten Sinne auf das System zweier in Wechselwirkung stehender Atome anzuwenden, um eine engere Auswahl der quantentheoretisch erlaubten Verhaltensweisen zweier Atome zu erzielen.\n\nFolgende Formulierung dieser Vorschrift ist für unsere Zwecke ausreichend$^{1}$: Die auserwählten Eigenfunktionen des Systems sollen bei Vertauschung zweier Elektronen ihr Vorzeichen $\\frac{\\text{wechseln}}{\\text{beibehalten}}$, wenn die beiden Elektronen $\\frac{\\text{gleichen}}{\\text{verschiedenen}}$ Drall haben. (Eine sogenannte „Eigenfunktion des Dralles“ ist hierbei nicht zu berücksichtigen.)",
+          "markdown": "## § 4. Pauliprinzip und Molekülbildung\n\n1. Wie man sich leicht überzeugt, gehören unsere Lösungen (4a) bzw. (20) Systemen an, welche nicht miteinander kombinieren¹. Dieser Umstand eröffnet die Möglichkeit, das Pauliprinzip, welches sich bei der Diskussion der Elektronenkonfigurationen der Einzelatome so bewährt hat, in einem erweiterten Sinne auf das System zweier in Wechselwirkung stehender Atome anzuwenden, um eine engere Auswahl der quantentheoretisch erlaubten Verhaltensweisen zweier Atome zu erzielen.\n\nFolgende Formulierung dieser Vorschrift ist für unsere Zwecke ausreichend$^{1}$: Die auserwählten Eigenfunktionen des Systems sollen bei Vertauschung zweier Elektronen ihr Vorzeichen $\\frac{\\text{wechseln}}{\\text{beibehalten}}$, wenn die beiden Elektronen $\\frac{\\text{gleichen}}{\\text{verschiedenen}}$ Drall haben. (Eine sogenannte „Eigenfunktion des Dralles“ ist hierbei nicht zu berücksichtigen.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "2. Wir wenden diese Vorschrift auf die Lösungen des § 1 und 3 an. Für Wasserstoff behält das symmetrische $\\alpha$ bei Vertauschung von 1 und 2 sein Vorzeichen bei, $\\beta$ wechselt es. Bei $\\alpha$ müssen also die beiden Elektronen verschiedenen, bei $\\beta$ gleichen Drall haben. Da jedoch über den Drall getrennter Atome keine Einschränkung besteht, können beide Lösungen vorkommen — je nach Zufall.\n\nFür die Lösungen (20) des 2-He-Problems aber wissen wir, dass 1 und 3 sowie 2 und 4 je gleichen Drall hatten, 1 und 2, sowie 3 und 4 dagegen verschiedenen. Der Vertauschbarkeit der Elektronen sind dadurch von vornherein Grenzen gesetzt. Soll das einzelne He-Atom existenzfähig bleiben (Pauliprinzip, angewandt auf das einzelne He-Atom), so darf man nur die Elektronen 1 mit 3 sowie 2 mit 4 vertauschen. Gegenüber jeder dieser Vertauschungen müssen die auserwählten Eigenfunktionen antisymmetrisch sein. Bei Vertauschung beider Paare muss sie sich wieder (ohne Vorzeichenwechsel) reproduzieren. Die Eigenfunktionen $\\alpha, \\beta, \\gamma, \\delta$ gehen nun bei den genannten Vertauschungen über in\n\n|   | 1 mit 3 | 2 mit 4 | 1 mit 3 und 2 mit 4  |\n| --- | --- | --- | --- |\n|  $\\alpha \\rightarrow$ | $+\\alpha$ | $+\\alpha$ | $+\\alpha'$  |\n|  $\\beta \\rightarrow$ | $-\\beta$ | $-\\beta$ | $+\\beta$  |\n|  $\\gamma \\rightarrow$ | $-\\delta$ | $+\\delta$ | $-\\gamma$  |\n|  $\\delta \\rightarrow$ | $-\\gamma$ | $+\\gamma$ | $-\\delta$  |",
+          "markdown": "2. Wir wenden diese Vorschrift auf die Lösungen des § 1 und 3 an. Für Wasserstoff behält das symmetrische $\\alpha$ bei Vertauschung von 1 und 2 sein Vorzeichen bei, $\\beta$ wechselt es. Bei $\\alpha$ müssen also die beiden Elektronen verschiedenen, bei $\\beta$ gleichen Drall haben. Da jedoch über den Drall getrennter Atome keine Einschränkung besteht, können beide Lösungen vorkommen — je nach Zufall.\n\nFür die Lösungen (20) des 2-He-Problems aber wissen wir, dass 1 und 3 sowie 2 und 4 je gleichen Drall hatten, 1 und 2, sowie 3 und 4 dagegen verschiedenen. Der Vertauschbarkeit der Elektronen sind dadurch von vornherein Grenzen gesetzt. Soll das einzelne He-Atom existenzfähig bleiben (Pauliprinzip, angewandt auf das einzelne He-Atom), so darf man nur die Elektronen 1 mit 3 sowie 2 mit 4 vertauschen. Gegenüber jeder dieser Vertauschungen müssen die auserwählten Eigenfunktionen antisymmetrisch sein. Bei Vertauschung beider Paare muss sie sich wieder (ohne Vorzeichenwechsel) reproduzieren. Die Eigenfunktionen $\\alpha, \\beta, \\gamma, \\delta$ gehen nun bei den genannten Vertauschungen über in\n\n|   | 1 mit 3 | 2 mit 4 | 1 mit 3 und 2 mit 4  |\n| --- | --- | --- | --- |\n|  $\\alpha \\rightarrow$ | $+\\alpha$ | $+\\alpha$ | $+\\alpha'$  |\n|  $\\beta \\rightarrow$ | $-\\beta$ | $-\\beta$ | $+\\beta$  |\n|  $\\gamma \\rightarrow$ | $-\\delta$ | $+\\delta$ | $-\\gamma$  |\n|  $\\delta \\rightarrow$ | $-\\gamma$ | $+\\gamma$ | $-\\delta$  |",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir sehen also, dass bei He einzig die Lösung $\\beta$ den Forderungen genügt. Zu ihr aber gehört der höhere Eigenwert. Wenn wir die Verhältnisse beim Wasserstoff hier übertragen, so haben wir für die Abhängigkeit der Wechselwirkung von $R$ die obere Kurve $E_\\beta$ von Fig. 1, welche stets Abstoßung ergibt, anzunehmen. Nähere Diskussion zeigt, dass sie ungefähr die richtige Größe des gaskinetischen He-Radius liefert. Die außerordentliche Einschränkung, die wir hier beim He finden, hat ihren Grund ersichtlich darin, dass 2 He-Atome (und dasselbe gilt für alle Edelgase) sich hinsichtlich ihres Dralls nicht unterscheiden können — im Gegensatz zum Wasserstoff (und allen Atomen mit unabgeschlossenen Schalen) —, wodurch 2 He-Atomen nur eine einzige Verhaltensweise möglich ist.",
+          "markdown": "Wir sehen also, dass bei He einzig die Lösung $\\beta$ den Forderungen genügt. Zu ihr aber gehört der höhere Eigenwert. Wenn wir die Verhältnisse beim Wasserstoff hier übertragen, so haben wir für die Abhängigkeit der Wechselwirkung von $R$ die obere Kurve $E_\\beta$ von Fig. 1, welche stets Abstoßung ergibt, anzunehmen. Nähere Diskussion zeigt, dass sie ungefähr die richtige Größe des gaskinetischen He-Radius liefert. Die außerordentliche Einschränkung, die wir hier beim He finden, hat ihren Grund ersichtlich darin, dass 2 He-Atome (und dasselbe gilt für alle Edelgase) sich hinsichtlich ihres Dralls nicht unterscheiden können — im Gegensatz zum Wasserstoff (und allen Atomen mit unabgeschlossenen Schalen) —, wodurch 2 He-Atomen nur eine einzige Verhaltensweise möglich ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "W. Heitler und F. London,\n\nDas Säkularproblem vierten Grades für die Störungsenergien $E$ lautet dann:\n\n$$\\begin{array}{c|ccc} & \\Psi_1 & \\Psi_2 & \\Phi_1 & \\Phi_2 \\\\ \\\\ \\Psi_1 & H_{11} - E & H_{12} & 0 & 0 \\\\ \\Psi_2 & H_{12} & H_{11} - E & 0 & 0 \\\\ \\Phi_1 & 0 & 0 & K_{11} - E & 0 \\\\ \\Phi_2 & 0 & 0 & 0 & K_{11} - E \\end{array} = 0.$$<|reserved_token_163792|>\n\nMan erhält einen zweifach entarteten Eigenwert $K_{11}$ und zwei nicht entartete Eigenwerte:\n\n$$\\left. \\begin{aligned} E_\\alpha &= H_{11} + H_{12}, \\\\ E_\\beta &= H_{11} - H_{12}, \\\\ E_\\gamma &= K_{11}. \\end{aligned} \\right\\} \\quad (19)$$\n\nDazu findet man nach bekanntem Verfahren die Eigenfunktionen nullter Ordnung:\n\n$$\\left. \\begin{aligned} \\alpha &= \\Psi_1 + \\Psi_2 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12} + \\psi_{14} \\varphi_{23} + \\psi_{23} \\varphi_{14}, \\\\ \\beta &= \\Psi_1 - \\Psi_2 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12} - \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}, \\\\ \\gamma &= \\Phi_1 = \\psi_{12} \\varphi_{34} - \\psi_{34} \\varphi_{12}, \\\\ \\delta &= \\Phi_2 = \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}. \\end{aligned} \\right\\} \\quad (20)$$\n\nAus demselben Grunde wie beim 2-Wasserstoffproblem muss $E_\\alpha$ der tiefste Eigenwert, infolgedessen $H_{12} < 0$ sein; denn zu $E_\\alpha$ gehört die knotenlose symmetrische Eigenfunktion $\\alpha$. Wir werden indes im folgenden Abschnitt zeigen, dass dieses $\\alpha$, welches energetisch eine Molekülbildung ermöglichen würde, bei neutralem He quantentheoretisch nicht zulässig ist, dass vielmehr von den vier Lösungen (20) einzig $\\beta$ auftreten kann, welche wieder elastische Reflexion bedeutet.\n\n## § 4. Pauliprinzip und Molekülbildung\n\n1. Wie man sich leicht überzeugt, gehören unsere Lösungen (4a) bzw. (20) Systemen an, welche nicht miteinander kombinieren¹. Dieser Umstand eröffnet die Möglichkeit, das Pauliprinzip, welches sich bei der Diskussion der Elektronenkonfigurationen der Einzelatome so bewährt hat, in einem erweiterten Sinne auf das System zweier in Wechselwirkung stehender Atome anzuwenden, um eine engere Auswahl der quantentheoretisch erlaubten Verhaltensweisen zweier Atome zu erzielen.\n\nFolgende Formulierung dieser Vorschrift ist für unsere Zwecke ausreichend$^{1}$: Die auserwählten Eigenfunktionen des Systems sollen bei Vertauschung zweier Elektronen ihr Vorzeichen $\\frac{\\text{wechseln}}{\\text{beibehalten}}$, wenn die beiden Elektronen $\\frac{\\text{gleichen}}{\\text{verschiedenen}}$ Drall haben. (Eine sogenannte „Eigenfunktion des Dralles“ ist hierbei nicht zu berücksichtigen.)\n\n2. Wir wenden diese Vorschrift auf die Lösungen des § 1 und 3 an. Für Wasserstoff behält das symmetrische $\\alpha$ bei Vertauschung von 1 und 2 sein Vorzeichen bei, $\\beta$ wechselt es. Bei $\\alpha$ müssen also die beiden Elektronen verschiedenen, bei $\\beta$ gleichen Drall haben. Da jedoch über den Drall getrennter Atome keine Einschränkung besteht, können beide Lösungen vorkommen — je nach Zufall.\n\nFür die Lösungen (20) des 2-He-Problems aber wissen wir, dass 1 und 3 sowie 2 und 4 je gleichen Drall hatten, 1 und 2, sowie 3 und 4 dagegen verschiedenen. Der Vertauschbarkeit der Elektronen sind dadurch von vornherein Grenzen gesetzt. Soll das einzelne He-Atom existenzfähig bleiben (Pauliprinzip, angewandt auf das einzelne He-Atom), so darf man nur die Elektronen 1 mit 3 sowie 2 mit 4 vertauschen. Gegenüber jeder dieser Vertauschungen müssen die auserwählten Eigenfunktionen antisymmetrisch sein. Bei Vertauschung beider Paare muss sie sich wieder (ohne Vorzeichenwechsel) reproduzieren. Die Eigenfunktionen $\\alpha, \\beta, \\gamma, \\delta$ gehen nun bei den genannten Vertauschungen über in\n\n|   | 1 mit 3 | 2 mit 4 | 1 mit 3 und 2 mit 4  |\n| --- | --- | --- | --- |\n|  $\\alpha \\rightarrow$ | $+\\alpha$ | $+\\alpha$ | $+\\alpha'$  |\n|  $\\beta \\rightarrow$ | $-\\beta$ | $-\\beta$ | $+\\beta$  |\n|  $\\gamma \\rightarrow$ | $-\\delta$ | $+\\delta$ | $-\\gamma$  |\n|  $\\delta \\rightarrow$ | $-\\gamma$ | $+\\gamma$ | $-\\delta$  |\n\nWir sehen also, dass bei He einzig die Lösung $\\beta$ den Forderungen genügt. Zu ihr aber gehört der höhere Eigenwert. Wenn wir die Verhältnisse beim Wasserstoff hier übertragen, so haben wir für die Abhängigkeit der Wechselwirkung von $R$ die obere Kurve $E_\\beta$ von Fig. 1, welche stets Abstoßung ergibt, anzunehmen. Nähere Diskussion zeigt, dass sie ungefähr die richtige Größe des gaskinetischen He-Radius liefert. Die außerordentliche Einschränkung, die wir hier beim He finden, hat ihren Grund ersichtlich darin, dass 2 He-Atome (und dasselbe gilt für alle Edelgase) sich hinsichtlich ihres Dralls nicht unterscheiden können — im Gegensatz zum Wasserstoff (und allen Atomen mit unabgeschlossenen Schalen) —, wodurch 2 He-Atomen nur eine einzige Verhaltensweise möglich ist.\n\n",
+      "word_count": 510,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Text in Frakturschrift und Antiqua gemischt",
+        "Formeln in Blocksatz, teilweise schwer zu erkennen",
+        "Fußnoten am Seitenende, korrekt zugeordnet",
+        "Seitenzahl '460' oben rechts"
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "461",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Wechselwirkung neutraler Atome und homöopolare Bindung.",
+          "markdown": "Wechselwirkung neutraler Atome und homöopolare Bindung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "3. Wir wollen jetzt noch zeigen, welche von den so ausgeschiedenen Lösungen eine Molekülbildung gestatten. Folgende Charakterisierung eines Moleküls scheint für eine weite Klasse von Fällen das Richtige zu treffen¹: Die Konfiguration derjenigen Elektronen, welche an der Bindung der Molekel beteiligt sind, soll adiabatisch (d. h. ohne Quantensprünge) in eine nach dem Pauliprinzip erlaubte Konfiguration eines Atoms überführbar sein.\n\nMan sieht sofort, die Lösung $\\alpha$ von Wasserstoff ist in diesem Sinne einer Molekülbildung fähig²: Durch adiabatisches Zusammenrücken der Kerne würde der Grundzustand eines He-Atoms ($1^1S$) resultieren. Tatsächlich zeigt $E_\\alpha$ (Fig. 1) starke Anziehung, — die Gleichgewichtslage entspricht dem normalen Zustand der $H_2$-Molekel.",
+          "markdown": "3. Wir wollen jetzt noch zeigen, welche von den so ausgeschiedenen Lösungen eine Molekülbildung gestatten. Folgende Charakterisierung eines Moleküls scheint für eine weite Klasse von Fällen das Richtige zu treffen¹: Die Konfiguration derjenigen Elektronen, welche an der Bindung der Molekel beteiligt sind, soll adiabatisch (d. h. ohne Quantensprünge) in eine nach dem Pauliprinzip erlaubte Konfiguration eines Atoms überführbar sein.\n\nMan sieht sofort, die Lösung $\\alpha$ von Wasserstoff ist in diesem Sinne einer Molekülbildung fähig²: Durch adiabatisches Zusammenrücken der Kerne würde der Grundzustand eines He-Atoms ($1^1S$) resultieren. Tatsächlich zeigt $E_\\alpha$ (Fig. 1) starke Anziehung, — die Gleichgewichtslage entspricht dem normalen Zustand der $H_2$-Molekel.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Lösung $\\beta$ von Wasserstoff tritt, wie wir sehen, ein, wenn die beiden Elektronen gleichen Drall haben. Bei der Überführung in einen He-artigen Zustand würden zwei äquivalente Bahnen mit gleichem Drall resultieren. Diese sind aber ausgeschlossen. [Es wäre dies der tiefste Zustand des Triplettsystems ($1^3S$), der nicht vorhanden ist, und der bei der Auffindung des Pauliprinzips eine so große Rolle gespielt hat.] $\\beta$ kann also nicht zur Molekülbildung führen — und sozusagen als die Wächter des Pauliverbots sehen wir eine beträchtliche Abstoßung jede Annäherung verhüten.",
+          "markdown": "Die Lösung $\\beta$ von Wasserstoff tritt, wie wir sehen, ein, wenn die beiden Elektronen gleichen Drall haben. Bei der Überführung in einen He-artigen Zustand würden zwei äquivalente Bahnen mit gleichem Drall resultieren. Diese sind aber ausgeschlossen. [Es wäre dies der tiefste Zustand des Triplettsystems ($1^3S$), der nicht vorhanden ist, und der bei der Auffindung des Pauliprinzips eine so große Rolle gespielt hat.] $\\beta$ kann also nicht zur Molekülbildung führen — und sozusagen als die Wächter des Pauliverbots sehen wir eine beträchtliche Abstoßung jede Annäherung verhüten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Lösungen $\\alpha, \\beta, \\gamma, \\delta$ bei He können sämtlich keine Molekülbildung bewirken, denn es würden dann vier Elektronen in einer $K$-Schale sich befinden, das aber ist ausgeschlossen. Wohl aber wäre es durchaus möglich, mit angeregten He-Atomen eine existenzfähige Schale zu bilden, bei diesen wären mehrere gegenseitige Verhaltensweisen je nach dem vorliegenden Drall durchaus gegeben, und in diesem Sinne wird man das Vorhandensein sehr unstabiler He₂-Moleküle u. a. zu verstehen haben.",
+          "markdown": "Die Lösungen $\\alpha, \\beta, \\gamma, \\delta$ bei He können sämtlich keine Molekülbildung bewirken, denn es würden dann vier Elektronen in einer $K$-Schale sich befinden, das aber ist ausgeschlossen. Wohl aber wäre es durchaus möglich, mit angeregten He-Atomen eine existenzfähige Schale zu bilden, bei diesen wären mehrere gegenseitige Verhaltensweisen je nach dem vorliegenden Drall durchaus gegeben, und in diesem Sinne wird man das Vorhandensein sehr unstabiler He₂-Moleküle u. a. zu verstehen haben.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "4. Die Überlegungen des vorigen Abschnittes werden unvollkommen erscheinen, solange nicht gezeigt ist, dass die Anziehungskräfte, welche zur homöopolaren Molekülbildung führen, erlöschen, sobald die vorhandene chemische Valenz abgesättigt ist.\n\nMan überlegt sich leicht, dass zwischen zwei Systemen, die sich hinsichtlich ihres Elektronendralls nur in einer einzigen Weise relativ zueinander einstellen können (wie wir z. B. bei He sahen), nur eine Eigenschwingung vom Typ $\\beta$ bestehen kann, welche einen Knoten hat, und man wird demzufolge wie bei He hier stets Abstoßung erwarten. Dieser Fall tritt ersichtlich immer dann bereits ein, wenn wenigstens eines der Systeme eine abgeschlossene Schalenkonfiguration hat, also z. B. bei H₂ + H, He + H, H₂ + H₃ usw. Die Unmöglichkeit, H₃⁻, H₄⁻, HeH-Moleküle aus den unangeregten Atomen zu bilden, geht im übrigen bereits aus der Platzbeschränkung in der K-Schale hervor.",
+          "markdown": "4. Die Überlegungen des vorigen Abschnittes werden unvollkommen erscheinen, solange nicht gezeigt ist, dass die Anziehungskräften, welche zur homöopolaren Molekülbildung führen, erlöschen, sobald die vorhandene chemische Valenz abgesättigt ist.\n\nMan überlegt sich leicht, dass zwischen zwei Systemen, die sich hinsichtlich ihres Elektronendralls nur in einer einzigen Weise relativ zueinander einstellen können (wie wir z. B. bei He sahen), nur eine Eigenschwingung vom Typ $\\beta$ bestehen kann, welche einen Knoten hat, und man wird demzufolge wie bei He hier stets Abstoßung erwarten. Dieser Fall tritt ersichtlich immer dann bereits ein, wenn wenigstens eines der Systeme eine abgeschlossene Schalenkonfiguration hat, also z. B. bei H₂ + H, He + H, H₂ + H₃ usw. Die Unmöglichkeit, H₃⁻, H₄⁻, HeH-Moleküle aus den unangeregten Atomen zu bilden, geht im übrigen bereits aus der Platzbeschränkung in der K-Schale hervor.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 5. Wasserstoff und Ionenbildung. Unsere Überlegungen im ersten Paragraphen können insofern nicht vollständig sein, als der Möglichkeit der Ionenbildung nicht Rechnung getragen wurde. Wir hatten dort in unseren Ansätzen den Ausgang genommen von den Funktionen (3):\n\n$$\\psi_1 \\varphi_2 \\text{ bzw. } \\psi_2 \\varphi_1,$$\n\nwelche für jeden Kern je ein Elektron vorsehen, — entsprechend unserer Fragestellung nach der Wechselwirkung neutraler Atome.\n\nWenn wir uns jetzt für die Wechselwirkung zweier H-Ionen (H⁺ und H⁻) interessieren, werden wir die Konfigurationen zweier Elektronen am gleichen Kern:\n\n$$\\psi_1 \\psi_2 \\text{ bzw. } \\varphi_1 \\varphi_2, \\quad (21)$$\n\nzu berücksichtigen haben, die wir bisher nicht beachteten. — Man könnte meinen, dass diese Vernachlässigung zu Unrecht geschah, da die Eigenfunktionen (21) zum gleichen Eigenwert gehören, wie die von uns bisher allein benutzten (3), dass wir also von einer vierfachen Entartung auszugehen hätten.",
+          "markdown": "## § 5. Wasserstoff und Ionenbildung\n\nUnsere Überlegungen im ersten Paragraphen können insofern nicht vollständig sein, als der Möglichkeit der Ionenbildung nicht Rechnung getragen wurde. Wir hatten dort in unseren Ansätzen den Ausgang genommen von den Funktionen (3):\n\n$$\\psi_1 \\varphi_2 \\text{ bzw. } \\psi_2 \\varphi_1,$$\n\nwelche für jeden Kern je ein Elektron vorsehen, — entsprechend unserer Fragestellung nach der Wechselwirkung neutraler Atome.\n\nWenn wir uns jetzt für die Wechselwirkung zweier H-Ionen (H⁺ und H⁻) interessieren, werden wir die Konfigurationen zweier Elektronen am gleichen Kern:\n\n$$\\psi_1 \\psi_2 \\text{ bzw. } \\varphi_1 \\varphi_2, \\quad (21)$$\n\nzu berücksichtigen haben, die wir bisher nicht beachteten. — Man könnte meinen, dass diese Vernachlässigung zu Unrecht geschah, da die Eigenfunktionen (21) zum gleichen Eigenwert gehören, wie die von uns bisher allein benutzten (3), dass wir also von einer vierfachen Entartung auszugehen hätten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das ist indes nicht richtig: Auch für weit getrennte Ionen sind die sehr beträchtlichen Störungen der beiden Elektronen untereinander von vornherein mit zu berücksichtigen, wenn beide Elektronen am gleichen Kern sich befinden (analog den Störungen im He-Atom!). Wir erhalten für getrennte Ionen statt der $2 E_0$ ($-27$ Volt) der neutralen Atome eine um die Ionisierungsarbeit (13,5 Volt) höhere Energie (korrigiert um den Betrag der Elektronenaffinität, der aber nur sehr geringfügig ist. Als Eigenfunktionen sind dementsprechend sogleich statt (21) He-artig gestörte Funktionen zu benutzen:\n\n$$\\psi_{12} \\text{ bzw. } \\varphi_{12},$$\n\nwelche jedenfalls in 1 und 2 symmetrisch sind und sich nur der Lage im $q$-Raum, nicht der Gestalt nach unterscheiden.",
+          "markdown": "Das ist indes nicht richtig: Auch für weit getrennte Ionen sind die sehr beträchtlichen Störungen der beiden Elektronen untereinander von vornherein mit zu berücksichtigen, wenn beide Elektronen am gleichen Kern sich befinden (analog den Störungen im He-Atom!). Wir erhalten für getrennte Ionen statt der $2 E_0$ ($-27$ Volt) der neutralen Atome eine um die Ionisierungsarbeit (13,5 Volt) höhere Energie (korrigiert um den Betrag der Elektronenaffinität, der aber nur sehr geringfügig ist. Als Eigenfunktionen sind dementsprechend sogleich statt (21) He-artig gestörte Funktionen zu benutzen:\n\n$$\\psi_{12} \\text{ bzw. } \\varphi_{12},$$\n\nwelche jedenfalls in 1 und 2 symmetrisch sind und sich nur der Lage im $q$-Raum, nicht der Gestalt nach unterscheiden.",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_461_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Berücksichtigen wir jetzt die Störung des He-artigen Ions H$^-$ durch das H$^+$, so erhalten wir wegen des Symmetriecharakters der Wellengleichung (1) in üblicher Weise als Eigenfunktionen nullter Ordnung (ohne Normierung):\n\n$$\\left. \\begin{aligned} \\alpha^* &= \\psi_{12} + \\varphi_{12}, \\\\ \\beta^* &= \\psi_{12} - \\varphi_{12}. \\end{aligned} \\right\\} \\quad (22)$$",
+          "markdown": "Berücksichtigen wir jetzt die Störung des He-artigen Ions H$^-$ durch das H$^+$, so erhalten wir wegen des Symmetriecharakters der Wellengleichung (1) in üblicher Weise als Eigenfunktionen nullter Ordnung (ohne Normierung):\n\n$$\\left. \\begin{aligned} \\alpha^* &= \\psi_{12} + \\varphi_{12}, \\\\ \\beta^* &= \\psi_{12} - \\varphi_{12}. \\end{aligned} \\right\\} \\quad (22)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bei gegenseitiger Annäherung der beiden Ionen werden die zugehörigen Eigenwerte $E_\\alpha^*$ und $E_\\beta^*$ zunächst abnehmen, ungefähr wie das Ionenpotential $-\\frac{\\varepsilon^2}{R}$ (Fig. 2).\n\nHierbei wird $E_\\alpha^*$, als zum knotenlosen $\\alpha^*$ gehörig, stets tiefer als $E_\\beta^*$ sein. Der Unterschied $E_\\beta^* - E_\\alpha^*$ ist proportional der Frequenz des Austauschs der Ionenladungen.",
+          "markdown": "Bei gegenseitiger Annäherung der beiden Ionen werden die zugehörigen Eigenwerte $E_\\alpha^*$ und $E_\\beta^*$ zunächst abnehmen, ungefähr wie das Ionenpotential $-\\frac{\\varepsilon^2}{R}$ (Fig. 2).\n\nHierbei wird $E_\\alpha^*$, als zum knotenlosen $\\alpha^*$ gehörig, stets tiefer als $E_\\beta^*$ sein. Der Unterschied $E_\\beta^* - E_\\alpha^*$ ist proportional der Frequenz des Austauschs der Ionenladungen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Wechselwirkung neutraler Atome und homöopolare Bindung.\n\n## Pauliprinzip und Molekülbildung (Fortsetzung)\n\n3. Wir wollen jetzt noch zeigen, welche von den so ausgeschiedenen Lösungen eine Molekülbildung gestatten. Folgende Charakterisierung eines Moleküls scheint für eine weite Klasse von Fällen das Richtige zu treffen¹: Die Konfiguration derjenigen Elektronen, welche an der Bindung der Molekel beteiligt sind, soll adiabatisch (d. h. ohne Quantensprünge) in eine nach dem Pauliprinzip erlaubte Konfiguration eines Atoms überführbar sein.\n\nMan sieht sofort, die Lösung $\\alpha$ von Wasserstoff ist in diesem Sinne einer Molekülbildung fähig²: Durch adiabatisches Zusammenrücken der Kerne würde der Grundzustand eines He-Atoms ($1^1S$) resultieren. Tatsächlich zeigt $E_\\alpha$ (Fig. 1) starke Anziehung, — die Gleichgewichtslage entspricht dem normalen Zustand der $H_2$-Molekel.\n\nDie Lösung $\\beta$ von Wasserstoff tritt, wie wir sehen, ein, wenn die beiden Elektronen gleichen Drall haben. Bei der Überführung in einen He-artigen Zustand würden zwei äquivalente Bahnen mit gleichem Drall resultieren. Diese sind aber ausgeschlossen. [Es wäre dies der tiefste Zustand des Triplettsystems ($1^3S$), der nicht vorhanden ist, und der bei der Auffindung des Pauliprinzips eine so große Rolle gespielt hat.] $\\beta$ kann also nicht zur Molekülbildung führen — und sozusagen als die Wächter des Pauliverbots sehen wir eine beträchtliche Abstoßung jede Annäherung verhüten.\n\nDie Lösungen $\\alpha, \\beta, \\gamma, \\delta$ bei He können sämtlich keine Molekülbildung bewirken, denn es würden dann vier Elektronen in einer $K$-Schale sich befinden, das aber ist ausgeschlossen. Wohl aber wäre es durchaus möglich, mit angeregten He-Atomen eine existenzfähige Schale zu bilden, bei diesen wären mehrere gegenseitige Verhaltensweisen je nach dem vorliegenden Drall durchaus gegeben, und in diesem Sinne wird man das Vorhandensein sehr unstabiler He₂-Moleküle u. a. zu verstehen haben.\n\n4. Die Überlegungen des vorigen Abschnittes werden unvollkommen erscheinen, solange nicht gezeigt ist, dass die Anziehungskräfte, welche zur homöopolaren Molekülbildung führen, erlöschen, sobald die vorhandene chemische Valenz abgesättigt ist.\n\nMan überlegt sich leicht, dass zwischen zwei Systemen, die sich hinsichtlich ihres Elektronendralls nur in einer einzigen Weise relativ zueinander einstellen können (wie wir z. B. bei He sahen), nur eine Eigenschwingung vom Typ $\\beta$ bestehen kann, welche einen Knoten hat, und man wird demzufolge wie bei He hier stets Abstoßung erwarten. Dieser Fall tritt ersichtlich immer dann bereits ein, wenn wenigstens eines der Systeme eine abgeschlossene Schalenkonfiguration hat, also z. B. bei H₂ + H, He + H, H₂ + H₃ usw. Die Unmöglichkeit, H₃⁻, H₄⁻, HeH-Moleküle aus den unangeregten Atomen zu bilden, geht im übrigen bereits aus der Platzbeschränkung in der K-Schale hervor.\n\n## § 5. Wasserstoff und Ionenbildung\n\nUnsere Überlegungen im ersten Paragraphen können insofern nicht vollständig sein, als der Möglichkeit der Ionenbildung nicht Rechnung getragen wurde. Wir hatten dort in unseren Ansätzen den Ausgang genommen von den Funktionen (3):\n\n$$\\psi_1 \\varphi_2 \\text{ bzw. } \\psi_2 \\varphi_1,$$\n\nwelche für jeden Kern je ein Elektron vorsehen, — entsprechend unserer Fragestellung nach der Wechselwirkung neutraler Atome.\n\nWenn wir uns jetzt für die Wechselwirkung zweier H-Ionen (H⁺ und H⁻) interessieren, werden wir die Konfigurationen zweier Elektronen am gleichen Kern:\n\n$$\\psi_1 \\psi_2 \\text{ bzw. } \\varphi_1 \\varphi_2, \\quad (21)$$\n\nzu berücksichtigen haben, die wir bisher nicht beachteten. — Man könnte meinen, dass diese Vernachlässigung zu Unrecht geschah, da die Eigenfunktionen (21) zum gleichen Eigenwert gehören, wie die von uns bisher allein benutzten (3), dass wir also von einer vierfachen Entartung auszugehen hätten.\n\nDas ist indes nicht richtig: Auch für weit getrennte Ionen sind die sehr beträchtlichen Störungen der beiden Elektronen untereinander von vornherein mit zu berücksichtigen, wenn beide Elektronen am gleichen Kern sich befinden (analog den Störungen im He-Atom!). Wir erhalten für getrennte Ionen statt der $2 E_0$ ($-27$ Volt) der neutralen Atome eine um die Ionisierungsarbeit (13,5 Volt) höhere Energie (korrigiert um den Betrag der Elektronenaffinität, der aber nur sehr geringfügig ist. Als Eigenfunktionen sind dementsprechend sogleich statt (21) He-artig gestörte Funktionen zu benutzen:\n\n$$\\psi_{12} \\text{ bzw. } \\varphi_{12},$$\n\nwelche jedenfalls in 1 und 2 symmetrisch sind und sich nur der Lage im $q$-Raum, nicht der Gestalt nach unterscheiden.\n\nBerücksichtigen wir jetzt die Störung des He-artigen Ions H$^-$ durch das H$^+$, so erhalten wir wegen des Symmetriecharakters der Wellengleichung (1) in üblicher Weise als Eigenfunktionen nullter Ordnung (ohne Normierung):\n\n$$\\left. \\begin{aligned} \\alpha^* &= \\psi_{12} + \\varphi_{12}, \\\\ \\beta^* &= \\psi_{12} - \\varphi_{12}. \\end{aligned} \\right\\} \\quad (22)$$\n\nBei gegenseitiger Annäherung der beiden Ionen werden die zugehörigen Eigenwerte $E_\\alpha^*$ und $E_\\beta^*$ zunächst abnehmen, ungefähr wie das Ionenpotential $-\\frac{\\varepsilon^2}{R}$ (Fig. 2).\n\nHierbei wird $E_\\alpha^*$, als zum knotenlosen $\\alpha^*$ gehörig, stets tiefer als $E_\\beta^*$ sein. Der Unterschied $E_\\beta^* - E_\\alpha^*$ ist proportional der Frequ",
+      "word_count": 530,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Text in Frakturschrift und Antiqua gemischt",
+        "Formeln in Blocksatz, teilweise schwer zu erkennen",
+        "Fußnoten am Seitenende, korrekt zugeordnet",
+        "Seitenzahl '461' oben rechts"
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "462",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "W. Heitler und F. London,",
+          "markdown": "W. Heitler und F. London,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Solange die Eigenwerte $E_\\alpha^*$ und $E_\\beta^*$ nicht in die Nähe unserer Energiekurven von § 2 (sie sind in Fig. 2 noch einmal eingezeichnet$^1$) kommen, sind die Rechnungen des § 1 als Störungen des Eigenwertes $2 E_0 = -27$ Volt aufzufassen und nicht zu beanstanden. Etwas Neues tritt aber ein, wenn die neuen Kurven den alten sehr nahe kommen. Für diese Werte von $R$ wird der betreffende Eigenwert mehrfach, man hat Entartung, die „richtigen“ Eigenfunktionen nullter Ordnung werden dann gewisse Linearkombinationen der Eigenfunktionen vor dem Schnittpunkt, welche sich durch ein Säkularproblem ergeben. Die Rechnungen des § 1 wären also zu beanstanden, wenn sich bei dieser Gelegenheit andere Linearkombinationen ergeben würden, als die dort benutzten. Das wollen wir jetzt prüfen.",
+          "markdown": "Solange die Eigenwerte $E_\\alpha^*$ und $E_\\beta^*$ nicht in die Nähe unserer Energiekurven von § 2 (sie sind in Fig. 2 noch einmal eingezeichnet$^1$) kommen, sind die Rechnungen des § 1 als Störungen des Eigenwertes $2 E_0 = -27$ Volt aufzufassen und nicht zu beanstanden. Etwas Neues tritt aber ein, wenn die neuen Kurven den alten sehr nahe kommen. Für diese Werte von $R$ wird der betreffende Eigenwert mehrfach, man hat Entartung, die „richtigen“ Eigenfunktionen nullter Ordnung werden dann gewisse Linearkombinationen der Eigenfunktionen vor dem Schnittpunkt, welche sich durch ein Säkularproblem ergeben. Die Rechnungen des § 1 wären also zu beanstanden, wenn sich bei dieser Gelegenheit andere Linearkombinationen ergeben würden, als die dort benutzten. Das wollen wir jetzt prüfen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "1. Zuerst werden $E_\\alpha^*$ und eventuell auch $E_\\beta^*$ die obere der beiden Energiekurven $E_\\beta$ schneiden. Da $\\alpha^*$ und $\\beta^*$ symmetrisch, dagegen $\\beta$ antisymmetrisch in 1 und 2 ist, welche Symmetrieverhältnisse auch bei beliebig großer Störung wegen der Symmetrie der Differentialgleichung in 1 und 2 nicht verlorengeht, so verschwinden die Matrizenelemente der „Störungsenergie“$^{1}$ $H$, die in den Säkularproblemen auftreten:\n\n$$\\int H \\alpha^* \\beta \\, d\\tau_1 \\, d\\tau_2 = 0,$$\n\n$$\\int H \\beta^* \\beta \\, d\\tau_1 \\, d\\tau_2 = 0.$$",
+          "markdown": "1. Zuerst werden $E_\\alpha^*$ und eventuell auch $E_\\beta^*$ die obere der beiden Energiekurven $E_\\beta$ schneiden. Da $\\alpha^*$ und $\\beta^*$ symmetrisch, dagegen $\\beta$ antisymmetrisch in 1 und 2 ist, welche Symmetrieverhältnisse auch bei beliebig großer Störung wegen der Symmetrie der Differentialgleichung in 1 und 2 nicht verlorengeht, so verschwinden die Matrizenelemente der „Störungsenergie“$^{1}$ $H$, die in den Säkularproblemen auftreten:\n\n$$\\int H \\alpha^* \\beta \\, d\\tau_1 \\, d\\tau_2 = 0,$$\n\n$$\\int H \\beta^* \\beta \\, d\\tau_1 \\, d\\tau_2 = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR-Erkennung unsicher"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das Säkularproblem am Schnittpunkt von $E_\\alpha^*$ mit $E_\\beta$ lautet also:\n\n$$\\left| \\begin{array}{cc} \\int H \\alpha^{*2} \\, d\\tau - E & 0 \\\\ 0 & \\int H \\beta^2 \\, d\\tau - E \\end{array} \\right| = 0.$$",
+          "markdown": "Das Säkularproblem am Schnittpunkt von $E_\\alpha^*$ mit $E_\\beta$ lautet also:\n\n$$\\left| \\begin{array}{cc} \\int H \\alpha^{*2} \\, d\\tau - E & 0 \\\\ 0 & \\int H \\beta^2 \\, d\\tau - E \\end{array} \\right| = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit mathematischen Symbolen, OCR_\n\nDas Säkularproblem am Schnittpunkt von $E_\\alpha^*$ mit $E_\\beta$ lautet also:\n\n$$\\left| \\begin{array}{cc} \\int H \\alpha^{*2} \\, d\\tau - E & 0 \\\\ 0 & \\int H \\beta^2 \\, d\\tau - E \\end{array} \\right| = 0.$$<|reserved_token_163793|>\n\nDas ist ein mit klassischen Begriffen nur sehr künstlich zu beschreibendes Ergebnis, dass zwei neutrale Atome auf zwei verschiedene Weisen miteinander wechselwirken können. Von einem wirklichen Verständnis dieses Sachverhaltes sind wir wohl noch weit entfernt. Aber es ist wünschenswert, sich wenigstens darüber klar zu werden, wie diese merkwürdige Zweideutigkeit mathematisch zustande kommt. Das Wesentliche ist offenbar, dass das Problem ursprünglich zweifach entartet ist (1a und 1b), entsprechend den beiden Möglichkeiten, die Elektronen den neutralen Atomen zuzuordnen$^{1}$. Die Aufhebung dieser Entartung knüpft sich, wie man aus (10) ersieht, an das Nichtverschwinden der Eigenfunktion des Atoms $a$ am Orte des Atoms $b$ und umgekehrt (anderenfalls wäre $\\psi_1 \\varphi_1 = 0$ und folglich $E_{12} = 0$ und $S = 0$); das aber besagt, dass eine endliche Wahrscheinlichkeit für das Elektron von $a$ bestehen muss, dem Atom $b$ anzugehören. Das exponentielle Verhalten von $\\psi$ und $\\varphi$ erfüllt tatsächlich diese Bedingung stets. Man wird die Größe $1/h(E_\\beta - E_\\alpha)$ als die Frequenz zu deuten haben, mit welcher im Mittel ein Austausch der beiden Elektronen erfolgt. Für große Entfernung nimmt diese Differenz wie $\\frac{\\varepsilon^2}{a_0} e^{-\\frac{2}{a_0} R}$ ab, so dass weit entfernte Atome äußerst selten$^1$ in Austausch treten.\n\nDas ganze Phänomen ist nahe verwandt mit dem von Heisenberg behandelten quantenmechanischen Resonanzphänomen. Während aber bei Resonanz die Elektronen verschiedener Bewegungsstufen einer und derselben Eigenfunktionenreihe sich ihre Energie austauschen, treten hier Elektronen gleicher Anregungsstufe (gleicher Energie), aber an verschiedenen Eigenfunktionssystemen ($\n\\psi$ und $\\varphi$), in Austausch ihrer Orte. Dort ist das zweimalige Vorkommen derselben Sprungfrequenz charakteristisch (Resonanzphänomen); hier dagegen ist von Resonanz nicht die Rede.\n\n2. Wenden wir uns jetzt zur quantitativen Diskussion der Wechselwirkungsenergien (10). Schon ohne die auftretenden Integrale auszuwerten, lässt sich sagen: Das Vorzeichen von $E_{11}S - E_{12}$ ist stets positiv. In einem Sturm-Liouvilleschen Eigenwertproblem beliebig vieler Dimensionen mit homogenen Randbedingungen besitzt diejenige Eigenschwingung, die keinen Knoten hat, den tiefsten Eigenwert. Jede andere orthogonale Eigenschwingung hat Knoten und einen höheren Eigenwert. Nun ist aber offenbar die Lösung $\\alpha$ knotenlos, während $\\beta$ als antisymmetrische Eigenfunktion immer einen Knoten besitzt. Es ist also $E_\\beta > E_\\alpha$. (12)\n\nDie Bedeutung von $E_{11}$ ist sofort aus (11) ersichtlich: Es ist die rein Coulombsche Wechselwirkung der vorhandenen Ladungsverteilung. Die Ausrechnung ergibt\n\n$$E_{11} = \\frac{\\varepsilon^2}{a_0} e^{-\\frac{2}{a_0} R} \\left( \\frac{a_0}{R} + \\frac{5}{8} - \\frac{3}{4} \\frac{R}{a_0} - \\frac{1}{6} \\frac{R^2}{a_0^2} \\right). \\quad (13)$$\n\nDer Verlauf zeigt die mittlere Kurve in Fig. 1. $R$ ist in Einheiten von $a_0 = 0,532$ Å, die Energie in Volt aufgetragen.\n\nDer übrige Teil der Energien (11) lässt sich nicht so einfach deuten. Die dort vorkommenden Integrale ließen sich nicht alle auswerten. Man berechnet:\n\n$$\\left. \\begin{aligned} S &= \\left( 1 + \\frac{R}{a_0} + \\frac{R^2}{3 a_0^2} \\right)^2 e^{-\\frac{2R}{a_0}} \\\\ \\int \\frac{\\psi_1 \\psi_2 \\varphi_1 \\varphi_2}{2} \\left( \\frac{\\varepsilon^2}{r_{a_1}} + \\frac{\\varepsilon^2}{r_{a_2}} + \\frac{\\varepsilon^2}{r_{b_1}} + \\frac{\\varepsilon^2}{r_{b_2}} - \\frac{2 \\varepsilon^2}{R} \\right) d\\tau_1 d\\tau_2 \\\\ &= \\frac{2 \\varepsilon^2}{a_0} \\left( 1 + \\frac{2R}{a_0} + \\frac{4}{3} \\frac{R^2}{a_0^2} + \\frac{R^2}{3 a_0^2} \\right) e^{-\\frac{2R}{a_0}} - \\frac{\\varepsilon^2}{R} S, \\end{aligned} \\right\\} \\quad (14)$$\n\nwährend wir für das fehlende Integral über $1/r_{12}$ nur eine obere Grenze erhielten$^{1}$. Es ist\n\n$$\\int \\frac{\\psi_1 \\psi_2 \\varphi_1 \\varphi_2}{r_{12}} d\\tau_1 d\\tau_2 < \\frac{\\varepsilon^2}{a_0} \\frac{5}{8} \\left( 1 + \\frac{R}{a_0} + \\frac{R^2}{3 a_0^2} \\right)^2 e^{-\\frac{2R}{a_0}}. \\quad (15)$$\n\nMit dieser oberen Grenze ergeben sich die Kurven $E_\\alpha$ und $E_\\beta$ in Fig. 1.\n\n$E_\\beta$ zeigt beständig Abstoßung; $E_\\alpha$ zeigt in großer Entfernung Anziehung, dann ein Minimum ungefähr bei $R = \\frac{3}{2} a_0$ und in kleiner Entfernung Abstoßung. Die hier auftretende nichtpolare Anziehung zeigt sich als charakteristisch quantenmechanischer Effekt. Sie kommt bereits zustande ohne Berücksichtigung der Störungen durch Polarisation. Es ist auch bemerkenswert, dass die Abstoßung $E_\\beta$, wie man sieht, zum größten Teil ebenfalls auf diesem quantenmechanischen Effekt, nicht auf der Coulombschen Wechselwirkung ($E_{11}$) beruht.\n\n![Fig. 1. Potential zweier neutraler H-Atome.](pictures/figure_462_01.png)\n\n*Fig. 1. Potential zweier neutraler H-Atome.*\n($E_\\alpha$ = homöopolare Anziehung.\n$E_\\beta$ = elastische Re\n\nDas Säkularproblem am Schnittpunkt von $E_\\alpha^*$ mit $E_\\beta$ lautet also:\n\n$$\\left| \\begin{array}{cc} \\int H \\alpha^{*2} \\, d\\tau - E & 0 \\\\ 0 & \\int H \\beta^2 \\, d\\tau - E \\end{array} \\right| = 0.$$<|reserved_token_163794|>\n\nEin gleichartiges Säkularproblem erhält man für den Schnittpunkt von $E_\\beta^*$ mit $E_\\beta$. Hieraus geht hervor, dass die säkularen Eigenwerte dieselben sind wie die ursprünglichen, und weiterhin, dass die Eigenfunktionen sich unvermengt durchdringen, ohne Linearkombinationen zu bilden$^{2}$.\n\n2. Sodann wird $\\alpha^*$ sich mit $\\alpha$ auseinanderzusetzen haben. Würde man nur das Ionenpotential $-\\frac{\\varepsilon^2}{R}$ berücksichtigen, so würde $E_\\alpha^*$ die Nullachse bei $R = 2a_0$ schneiden (Fig. 2, punktierte Kurve). In diesem Bereich befindet man sich aber bereits merklich im Innern der Ladungswolke (sie ist für $H^-$ wesentlich ausgedehnter als für $H$), und demzufolge wird dort allmählich die Ionenanziehung aufhören und einer Abstoßung Platz machen$^1$. Man überlegt sich leicht, dass auch bei Berücksichtigung der Austauschglieder die beiden Kurven $E_a^*$ und $E_a$ in der Gegend des Minimums von $E_a$ sich noch fernbleiben (Fig. 2, die ausgezogene Kurve $E_a^*$ ist nur ganz qualitativ). Die Linearkombination von $\\alpha$ mit $\\alpha^*$ wird demgemäß in der Gegend von $R = 2a_0$ noch schwach sein — man kann sie als Störung der Eigenfunktion $\\alpha$ auffassen. Es wird deshalb berechtigt sein, $E_a$ ohne Berücksichtigung der Linearkombination mit $E_a^*$ zu berechnen, und gerade dadurch wird das Molekül als „vorwiegend homöopolar“ charakterisiert. $E_a^*$ hat seinerseits irgendwo ebenfalls ein Minimum; an dieser Stelle wäre also Platz für eine polare Molekel. Insofern aber dieses Minimum kein absolutes Minimum ist, und insofern es auf adiabatischem$^2$ Wege in das uns bekannte absolute Minimum übergehen kann, wird man mit Recht sagen, dass die polare Molekülbildung nicht die stabile Konfiguration der beiden H-Atome im Molekül darstellt. Bei einer Trennung der Molekel ohne gleichzeitige Anregung wird man daher mit größerer Wahrscheinlichkeit erwarten, zwei neutrale Atome zu finden. In welcher Weise die beiden Lösungen $\\alpha$ und $\\alpha^*$ linear kombinieren, lässt sich ohne eingehendere Untersuchung nicht voraussehen.\n\nDie Lösung $\\beta^*$ schließlich (antisymmetrisch in $\\psi$ und $\\varphi$) würde ungestört die Lösung $\\alpha$ auf Grund derselben Überlegungen wie oben durchsetzen. Vermutlich kommt es aber gar nicht dazu. Zur Molekülbildung kommt $\\beta^*$ wegen ihrer Nichtüberführbarkeit in eine He-Konfiguration — sie hat zwischen den Kernen einen Knoten — nicht in Betracht.\n\nWir möchten glauben, dass die hier aufgefundenen Kategorien von Entartungen und Symmetrieverhältnissen typisch sein dürften für einen großen Bezirk der Tatsachen, welche mit den Wechselwirkungen von Atomsystemen untereinander, vor allem mit den Diskontinuitäten ihrer chemischen Verhaltensweisen im Zusammenhang stehen$^3$.\n\n$^1$ Das Vorhandensein einer Ionenabstoßung für kleinere Entfernungen (bei Zugrundelegung der quantenmechanischen Ladungsverteilung) haben unabhängig bereits L. Pauling, Proc. Roy. Soc. (A) 114, 181, 1927, und A. Unsöld, ZS. f. Phys. (im Druck), bemerkt.\n\n$^2$ Das Wort „adiabatisch“ ist hier nicht ganz am Platze, da die Überführung durch einen Punkt der Entartung hindurchgeht.\n\n$^3$ Man wird sich überlegen, ob das Austauschphänomen, welches für die Wechselwirkung von Atomen so maßgebend ist, sich noch in anderen Gebieten der Physik bemerkbar macht. Wir möchten hier auf zweierlei hinweisen. Bei den Stoßprozessen bringt der Austausch von Stoß- und Atomelektron die Möglichkeit mit sich, auch Quantensprünge zwischen optisch nicht kombinierenden Term-472 W. Heitler und F. London, Wechselwirkung neutraler Atome usw.\n\nHerrn Prof. Schrödinger möchten wir von Herzen danken für das liebenswürdige, fördernde Interesse, mit welchem er unsere Arbeit begleitet hat. Dem International Education Board danken wir, dass er es uns ermöglicht hat, hier in Zürich zu arbeiten.\n\nZürich, Physikal. Institut der Universität, Juni 1927.\n\nsystemen anzuregen (z. B. $1^1 S - 2^3 S$ bei He). Nach der Bornschen Theorie sind solche Übergänge nur auf Grund der minimalen magnetischen Wechselwirkung möglich. Bei der Deutung des Kraftgesetzes der Atomkerne, welches sich in den Streuversuchen mit $\\alpha$- oder $H$-Teilchen bemerkbar macht, wird man als einen wesentlichen Einflus den Austausch mit Kernbausteinen zu berücksichtigen haben.\n\n![Fig. 2. Ionenpotential ($E_\\alpha^*, E_\\beta^*$), verglichen mit dem Potential neutraler Atome ($E_\\alpha, E_\\beta$).](pictures/figure_462_02.png)\n\n*Fig. 2. Ionenpotential ($E_\\alpha^*, E_\\beta^*$), verglichen mit dem Potential neutraler Atome ($E_\\alpha, E_\\beta$).*\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDanksagung\n\nHerrn Prof. Schrödinger möchten wir von Herzen danken für das liebenswürdige, fördernde Interesse, mit welchem er unsere Arbeit begleitet hat. Dem International Education Board danken wir, dass er es uns ermöglicht hat, hier in Zürich zu arbeiten.\n\nZürich, Physikal. Institut der Universität, Juni 1927.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+        }
+      ],
+      "page_markdown_original": "W. Heitler und F. London,\n\nSolange die Eigenwerte $E_\\alpha^*$ und $E_\\beta^*$ nicht in die Nähe unserer Energiekurven von § 2 (sie sind in Fig. 2 noch einmal eingezeichnet$^1$) kommen, sind die Rechnungen des § 1 als Störungen des Eigenwertes $2 E_0 = -27$ Volt aufzufassen und nicht zu beanstanden. Etwas Neues tritt aber ein, wenn die neuen Kurven den alten sehr nahe kommen. Für diese Werte von $R$ wird der betreffende Eigenwert mehrfach, man hat Entartung, die „richtigen“ Eigenfunktionen nullter Ordnung werden dann gewisse Linearkombinationen der Eigenfunktionen vor dem Schnittpunkt, welche sich durch ein Säkularproblem ergeben. Die Rechnungen des § 1 wären also zu beanstanden, wenn sich bei dieser Gelegenheit andere Linearkombinationen ergeben würden, als die dort benutzten. Das wollen wir jetzt prüfen.\n\n1. Zuerst werden $E_\\alpha^*$ und eventuell auch $E_\\beta^*$ die obere der beiden Energiekurven $E_\\beta$ schneiden. Da $\\alpha^*$ und $\\beta^*$ symmetrisch, dagegen $\\beta$ antisymmetrisch in 1 und 2 ist, welche Symmetrieverhältnisse auch bei beliebig großer Störung wegen der Symmetrie der Differentialgleichung in 1 und 2 nicht verlorengeht, so verschwinden die Matrizenelemente der „Störungsenergie“$^{1}$ $H$, die in den Säkularproblemen auftreten:\n\n$$\\int H \\alpha^* \\beta \\, d\\tau_1 \\, d\\tau_2 = 0,$$\n\n$$\\int H \\beta^* \\beta \\, d\\tau_1 \\, d\\tau_2 = 0.$$<|reserved_token_163795|>\n\nDas Säkularproblem am Schnittpunkt von $E_\\alpha^*$ mit $E_\\beta$ lautet also:\n\n$$\\left| \\begin{array}{cc} \\int H \\alpha^{*2} \\, d\\tau - E & 0 \\\\ 0 & \\int H \\beta^2 \\, d\\tau - E \\end{array} \\right| = 0.$$<|reserved_token_163796|>\n\nEin gleichartiges Säkularproblem erhält man für den Schnittpunkt von $E_\\beta^*$ mit $E_\\beta$. Hieraus geht hervor, dass die säkularen Eigenwerte dieselben sind wie die ursprünglichen, und weiterhin, dass die Eigenfunktionen sich unvermengt durchdringen, ohne Linearkombinationen zu bilden$^{2}$.\n\n2. Sodann wird $\\alpha^*$ sich mit $\\alpha$ auseinanderzusetzen haben. Würde man nur das Ionenpotential $-\\frac{\\varepsilon^2}{R}$ berücksichtigen, so würde $E_\\alpha^*$ die Nullachse bei $R = 2a_0$ schneiden (Fig. 2, punktierte Kurve). In diesem Bereich befindet man sich aber bereits merklich im Innern der Ladungswolke (sie ist für $H^-$ wesentlich ausgedehnter als für $H$), und demzufolge wird dort allmählich die Ionenanziehung aufhören und einer Abstoßung Platz machen$^1$. Man überlegt sich leicht, dass auch bei Berücksichtigung der Austauschglieder die beiden Kurven $E_a^*$ und $E_a$ in der Gegend des Minimums von $E_a$ sich noch fernbleiben (Fig. 2, die ausgez",
+      "word_count": 600,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Text in Frakturschrift und Antiqua gemischt",
+        "Formeln in Blocksatz, teilweise schwer zu erkennen",
+        "Fußnoten am Seitenende, korrekt zugeordnet",
+        "Seitenzahl '462' oben rechts",
+        "Abbildung 'Fig. 2' mit Beschriftung",
+        "Danksagung am Seitenende"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "fig_458_01",
+      "asset_type": "figure",
+      "pdf_page_number": 4,
+      "filename": "pictures/figure_458_01.png",
+      "caption_original": "Fig. 1. Potential zweier neutraler H-Atome.\n($E_\\alpha$ = homöopolare Anziehung.\n$E_\\beta$ = elastische Reflexion.)",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.25
+      ],
+      "crop_quality": "good",
+      "crop_notes": "Klare Abbildung mit Beschriftung, gut lesbar"
+    },
+    {
+      "asset_id": "fig_462_02",
+      "asset_type": "figure",
+      "pdf_page_number": 8,
+      "filename": "pictures/figure_462_02.png",
+      "caption_original": "Fig. 2. Ionenpotential ($E_\\alpha^*, E_\\beta^*$), verglichen mit dem Potential neutraler Atome ($E_\\alpha, E_\\beta$).",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.3
+      ],
+      "crop_quality": "good",
+      "crop_notes": "Klare Abbildung mit Beschriftung, gut lesbar"
+    }
+  ],
+  "document_statistics": {
+    "pdf_page_count": 8,
+    "ocr_page_count": 8,
+    "total_word_count": 3940,
+    "figure_count": 2,
+    "table_count": 0,
+    "equation_block_count": 15,
+    "pages_requiring_review": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "Alle Seiten wurden erfolgreich OCR-erkannt",
+      "Formeln und mathematische Symbole wurden erkannt, aber teilweise unsicher",
+      "Abbildungen wurden identifiziert und zugeordnet",
+      "Fußnoten und Referenzen sind vollständig erfasst"
+    ]
+  }
+}

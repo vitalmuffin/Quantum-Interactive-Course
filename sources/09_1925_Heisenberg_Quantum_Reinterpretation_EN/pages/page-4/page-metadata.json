@@ -1,0 +1,155 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 296,
+      "topLeftY": 165,
+      "bottomRightX": 440,
+      "bottomRightY": 182,
+      "content": "*Quantum theoretically:*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 204,
+      "topLeftY": 193,
+      "bottomRightX": 604,
+      "bottomRightY": 211,
+      "content": "$$\\nu(n, n - \\alpha) + \\nu(n - \\alpha, n - \\alpha - \\beta) = \\nu(n, n - \\alpha - \\beta) \\quad (8)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 204,
+      "topLeftY": 218,
+      "bottomRightX": 604,
+      "bottomRightY": 235,
+      "content": "$$\\nu(n - \\beta, n - \\alpha - \\beta) + \\nu(n, n - \\beta) = \\nu(n, n - \\alpha - \\beta) \\quad (9)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 242,
+      "bottomRightX": 605,
+      "bottomRightY": 328,
+      "content": "Secondly, besides the frequencies, the amplitudes are necessary for the description of radiation. The amplitudes can be written as complex vectors (each with six independent components) and determine polarization and phase. They are also function of the two variables $n$ and $\\alpha$ so that the corresponding part of the radiation will be represented with",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 296,
+      "topLeftY": 337,
+      "bottomRightX": 440,
+      "bottomRightY": 356,
+      "content": "*Quantum theoretically:*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 364,
+      "bottomRightX": 604,
+      "bottomRightY": 384,
+      "content": "$$\\Re\\{\\vec{X}(n, n - \\alpha)e^{i\\omega(n, n - \\alpha)t}\\} \\quad (10)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 332,
+      "topLeftY": 394,
+      "bottomRightX": 404,
+      "bottomRightY": 411,
+      "content": "*Classically:*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 312,
+      "topLeftY": 419,
+      "bottomRightX": 604,
+      "bottomRightY": 439,
+      "content": "$$\\Re\\{\\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t}\\} \\quad (11)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 445,
+      "bottomRightX": 605,
+      "bottomRightY": 569,
+      "content": "First of all, the phase (contained in $\\vec{X}$) appears to have no meaning in the quantum theory since in this theory the frequencies are not in general commensurable with their harmonics. However, we will immediately see that also in the quantum theory the phase has a precise meaning which has an analog in the classical theory. Let us consider now a particular quantity $x(t)$ in the classical theory such that it can be regarded as represented by the totality of quantities of the form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 567,
+      "bottomRightX": 604,
+      "bottomRightY": 586,
+      "content": "$$\\vec{A}_\\alpha(n)e^{i\\omega(n)\\alpha t} \\quad (12)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 593,
+      "bottomRightX": 605,
+      "bottomRightY": 627,
+      "content": "which depending on the motion being periodic or not, represents $x(t)$ with a sum or an integral",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 627,
+      "bottomRightX": 604,
+      "bottomRightY": 666,
+      "content": "$$x(t) = \\sum_{\\alpha=-\\infty}^{+\\infty} \\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t} \\quad (13)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 262,
+      "topLeftY": 673,
+      "bottomRightX": 604,
+      "bottomRightY": 705,
+      "content": "$$\\text{or} \\quad x(t) = \\int_{-\\infty}^{+\\infty} \\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t} d\\alpha \\quad (14)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 710,
+      "bottomRightX": 605,
+      "bottomRightY": 780,
+      "content": "A similar combination of the corresponding quantum-theoretical quantities seems to be impossible in an unique manner and therefore not meaningful in view of the equal weight of the quantities $n$ and $n - \\alpha$. However, one may readily regard the ensemble of quantities",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 298,
+      "topLeftY": 789,
+      "bottomRightX": 604,
+      "bottomRightY": 809,
+      "content": "$$\\vec{X}(n, n - \\alpha)e^{i\\omega(n, n - \\alpha)t} \\quad (15)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 828,
+      "bottomRightX": 373,
+      "bottomRightY": 844,
+      "content": "4",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

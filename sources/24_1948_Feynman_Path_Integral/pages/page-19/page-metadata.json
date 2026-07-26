@@ -1,0 +1,101 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 155,
+      "bottomRightX": 587,
+      "bottomRightY": 187,
+      "content": "postulates are able to describe what can be described by non-relativistic quantum mechanics, neglecting spin.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 209,
+      "bottomRightX": 458,
+      "bottomRightY": 229,
+      "content": "## 7. Discussion of the Wave Equation",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 217,
+      "topLeftY": 234,
+      "bottomRightX": 338,
+      "bottomRightY": 249,
+      "content": "### The Classical Limit",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 264,
+      "bottomRightX": 587,
+      "bottomRightY": 312,
+      "content": "This completes the demonstration of the equivalence of the new and old formulations. We should like to include in this section a few remarks about the important equation (18).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 312,
+      "bottomRightX": 587,
+      "bottomRightY": 590,
+      "content": "This equation gives the development of the wave function during a small time interval. It is easily interpreted physically as the expression of Huygens' principle for matter waves. In geometrical optics the rays in an inhomogeneous medium satisfy Fermat's principle of least *time*. We may state Huygens' principle in wave optics in this way: If the amplitude of the wave is known on a given surface, the amplitude at a near by point can be considered as a sum of contributions from all points of the surface. Each contribution is delayed in phase by an amount proportional to the *time* it would take the light to get from the surface to the point along the ray of least *time* of geometrical optics. We can consider (22) in an analogous manner starting with Hamilton's first principle of least *action* for classical or 'geometrical' mechanics. If the amplitude of the wave $\\psi$ is known on a given 'surface,' in particular the 'surface' consisting of all $x$ at time $t$, its value at a particular nearby point at time $t + \\epsilon$, is a sum of contributions from all points of the surface at $t$. Each contribution is delayed in phase by an amount proportional to the *action* it would require to get from the surface to the point along the path of least action of classical mechanics. $^{16}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 591,
+      "bottomRightX": 587,
+      "bottomRightY": 689,
+      "content": "Actually Huygens' principle is not correct in optics. It is replaced by Kirchhoff's modification which requires that both the amplitude and its derivative must be known on the adjacent surface. This is a consequence of the fact that the wave equation in optics is second order in the time. The wave equation of quantum mechanics is first order in the time; therefore, Huygens' principle *is* correct for matter waves, action replacing time.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 690,
+      "bottomRightX": 587,
+      "bottomRightY": 738,
+      "content": "The equation can also be compared mathematically to quantities appearing in the usual formulations. In Schroedinger's method the development of the wave function with time is given by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 323,
+      "topLeftY": 743,
+      "bottomRightX": 587,
+      "bottomRightY": 775,
+      "content": "$$- \\frac{\\hbar}{i} \\frac{\\partial \\psi}{\\partial t} = \\mathbf{H} \\psi, \\quad (31)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 782,
+      "bottomRightX": 587,
+      "bottomRightY": 810,
+      "content": "---$^{16}$See in this connection the very interesting remarks of Schroedinger, Ann. d. Physik **79**, 489 (1926).",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 359,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "19",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

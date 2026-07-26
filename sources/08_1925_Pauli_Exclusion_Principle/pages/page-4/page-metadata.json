@@ -1,0 +1,74 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 91,
+      "topLeftY": 86,
+      "bottomRightX": 121,
+      "bottomRightY": 102,
+      "content": "768",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 87,
+      "bottomRightX": 370,
+      "bottomRightY": 103,
+      "content": "W. Pauli jr.,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 123,
+      "bottomRightX": 578,
+      "bottomRightY": 464,
+      "content": "Allgemeiner gibt nach einer von Heisenberg und Landé$^{1)}$ aufgestellten Verzweigungsregel ein stationärer Zustand des Atomrestes mit $N$ Zuständen im Felde bei Anlagerung eines weiteren Elektrons zu zwei Termsystemen Anlaß, denen bei einem bestimmten Werte der Quantenzahl $k_1$ des angelagerten Elektrons insgesamt $(N + 1)(2k_1 - 1)$ bzw. $(N - 1)(2k_1 - 1)$ Zustände im Felde entsprechen. Nach unserer Interpretation kommen diese $2N(2k_1 - 1)$ Zustände des ganzen Atoms in starken Feldern durch $N$ Zustände des Atomrestes und $2(2k_1 - 1)$ Zustände des Leuchtelektrons zustande. Bei der angenommenen quantentheoretischen Klassifikation der Elektronen erscheint demnach die durch die Verzweigungsregel geforderte Termannigfaltigkeit einfach als eine Folge des Aufbauprinzips. Nach der hier vorgeschlagenen Auffassung äußert sich ferner der Bohrsche Zwang nicht in einer Durchbrechung der Permanenz der Quantenzahlen bei der Kopplung des Serienelektrons an den Atomrest, sondern nur in der eigentümlichen Zweideutigkeit der quantentheoretischen Eigenschaften der einzelnen Elektronen in den stationären Zuständen des Atoms.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 466,
+      "bottomRightX": 578,
+      "bottomRightY": 687,
+      "content": "Wir können jedoch bei dieser Auffassung gemäß dem Aufbauprinzip nicht allein die Anzahl der stationären Zustände, sondern auch die Energiewerte im Falle starker Felder (ihre der Feldstärke proportionalen Teile) aus denen des freien Atomrestes und des Leuchtelektrons additiv berechnen, wobei letztere aus den Alkalispektren zu entnehmen sind. Es ist nämlich in diesem Falle sowohl die totale Komponente $\\bar{m}_1$ des Impulsmoments des Atoms parallel dem Felde (in der Einheit $h/2\\pi$ gemessen), als auch die Komponente $\\bar{m}_2$ des magnetischen Moments des Atoms in derselben Richtung (in der Einheit des Bohrschen Magnetons gemessen) gleich der Summe der Quantenzahlen $m_1$ bzw. $m_2$ für die einzelnen Elektronen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 222,
+      "topLeftY": 696,
+      "bottomRightX": 578,
+      "bottomRightY": 719,
+      "content": "$$\\bar{m}_1 = \\sum m_1, \\quad \\bar{m}_2 = \\sum m_2. \\quad (1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 725,
+      "bottomRightX": 578,
+      "bottomRightY": 784,
+      "content": "Hierin sollen die letzteren unabhängig voneinander alle Werte durchlaufen, welche zu den Werten der Impulsquantenzahlen $k_1$ und $k_2$ dieser Elektronen im betrachteten stationären Zustand des Atoms gehören.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 801,
+      "bottomRightX": 578,
+      "bottomRightY": 908,
+      "content": "$^{1)}$ ZS. f. Phys. 25, 279, 1924. Auf die Frage der Gültigkeitsgrenzen dieser Regel und insbesondere auf die theoretische Deutung der sogenannten gestrichenen Terme, bei deren Interpretation im Sinne der Verzweigungsregel möglicherweise eine Verschiedenheit des Atomrestes im gebundenen und im freien Zustand angenommen werden müßte, gehen wir hier nicht ein. Es wird hierbei jedenfalls die für diese Terme geltende, von der gewöhnlichen abweichende Kombinationsregel wesentlich berücksichtigt werden müssen.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

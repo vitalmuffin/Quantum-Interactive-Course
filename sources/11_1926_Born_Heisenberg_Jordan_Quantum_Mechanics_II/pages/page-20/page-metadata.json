@@ -1,0 +1,173 @@
+{
+  "index": 19,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 100,
+      "bottomRightX": 133,
+      "bottomRightY": 116,
+      "content": "576",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 100,
+      "bottomRightX": 457,
+      "bottomRightY": 116,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 136,
+      "bottomRightX": 581,
+      "bottomRightY": 193,
+      "content": "wobei $\\delta_k = 1$, wenn $n_j = m_j$ für alle $j$ außer $j = k$, $\\delta_k = 0$, wenn für irgend ein $j$ ($\\neq k$) nicht $n_j = m_j$ ist. Daraus aber erkennt man: Erstlich bleiben die Gleichungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 193,
+      "bottomRightX": 581,
+      "bottomRightY": 229,
+      "content": "$$p_k^0 q_k^0 - q_k^0 p_k^0 = \\frac{h}{2\\pi i} 1, \\quad (12)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 236,
+      "bottomRightX": 581,
+      "bottomRightY": 295,
+      "content": "ursprünglich für die zweidimensionalen Matrizen (10), Kap. 2, geltend, auch für die $2f$-dimensionalen Matrizen (11), Kap. 2, in Kraft. Zweitens ergeben sich die Beziehungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 298,
+      "bottomRightX": 579,
+      "bottomRightY": 342,
+      "content": "$$\\left. \\begin{aligned} p_k^0 q_l^0 - q_l^0 p_k^0 &= 0 \\text{ für } l \\neq k, \\\\ p_k^0 p_l^0 - p_l^0 p_k^0 &= q_k^0 q_l^0 - q_l^0 q_k^0 = 0. \\end{aligned} \\right\\} \\quad (13)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 345,
+      "bottomRightX": 581,
+      "bottomRightY": 485,
+      "content": "Für $\\lambda = 0$ gelten daher wirklich alle Gleichungen (13), Kap. 2. Es soll gezeigt werden, daß $p, q$ derart bestimmt werden können, daß (3), Kap. 2, auch für die höheren Näherungen gleichzeitig mit $H = W$ erfüllt wird. Vorauszusetzen ist dabei wiederum, daß das System $H_0$ als nicht-entartet gewählt wurde, d. h. daß unter den Diagonalgliedern von $H_0$ bei Einsetzen von $q = q^0$, $p = p^0$ keine zwei gleich sind. In diesem Falle haben wir nur wieder den Ansatz (5a), Kap. 2,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 219,
+      "topLeftY": 488,
+      "bottomRightX": 579,
+      "bottomRightY": 509,
+      "content": "$$q_k = S q_k^0 S^{-1}; \\quad p_k = S p_k^0 S^{-1} \\quad (14)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 507,
+      "bottomRightX": 203,
+      "bottomRightY": 524,
+      "content": "zu machen und",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 519,
+      "bottomRightX": 438,
+      "bottomRightY": 538,
+      "content": "$$S = 1 + \\lambda S_1 + \\lambda^2 S_2 + \\dots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 542,
+      "bottomRightX": 579,
+      "bottomRightY": 602,
+      "content": "derart zu bestimmen, daß die Gleichung $H = W$ erfüllt wird. Die Gleichungen (3), Kap. 2, sind dann sämtlich auch befriedigt, da sie durch (14) in (12), (13) übergehen. Also ist der verlangte Beweis geführt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 603,
+      "bottomRightX": 579,
+      "bottomRightY": 641,
+      "content": "Die Gleichungen (3) sind invariant gegenüber einer linearen orthogonalen Transformation der $q_k$ und $p_k$. Denn setzt man",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 647,
+      "bottomRightX": 455,
+      "bottomRightY": 714,
+      "content": "$$\\begin{aligned} q_k' &= \\sum_l a_{kl} q_l, \\\\ p_k' &= \\sum_l a_{kl} p_l, \\end{aligned} \\quad \\sum_l a_{kl} a_{jl} = \\delta_{kj},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 707,
+      "bottomRightX": 153,
+      "bottomRightY": 723,
+      "content": "so wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 154,
+      "topLeftY": 716,
+      "bottomRightX": 526,
+      "bottomRightY": 755,
+      "content": "$$p_k' q_l' - q_l' p_k' = \\sum_{hj} a_{kh} a_{lj} (p_h q_j - q_j p_h) = \\delta_{kl} \\frac{h}{2\\pi i}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 758,
+      "bottomRightX": 577,
+      "bottomRightY": 815,
+      "content": "und entsprechend für die anderen Relationen. Fordern wir daher die Bedingungen (3), Kap. 2, für ein kartesisches Koordinatensystem, so gelten sie auch in jedem andern kartesischen Koordinatensystem.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 816,
+      "bottomRightX": 577,
+      "bottomRightY": 875,
+      "content": "Anhangsweise sei hier noch darauf hingewiesen, daß ein wohlbekannter Satz der klassischen Mechanik sich auf Grund der Festsetzungen (3), Kap. 2, ohne weiteres in die neue Theorie überträgt. Es sei",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 877,
+      "bottomRightX": 577,
+      "bottomRightY": 914,
+      "content": "$$H = E_{\\text{kin}} + E_{\\text{pot}} = \\frac{1}{2} \\sum_k \\frac{p_k^2}{m_k} + E_{\\text{pot}}, \\quad (15)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

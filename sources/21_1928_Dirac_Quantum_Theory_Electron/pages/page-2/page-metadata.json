@@ -1,0 +1,182 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 240,
+      "topLeftY": 94,
+      "bottomRightX": 467,
+      "bottomRightY": 116,
+      "content": "Quantum Theory of Electron.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 577,
+      "topLeftY": 97,
+      "bottomRightX": 605,
+      "bottomRightY": 112,
+      "content": "611",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 136,
+      "bottomRightX": 467,
+      "bottomRightY": 155,
+      "content": "# § 1. Previous Relativity Treatments.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 160,
+      "bottomRightX": 611,
+      "bottomRightY": 220,
+      "content": "The relativity Hamiltonian according to the classical theory for a point electron moving in an arbitrary electro-magnetic field with scalar potential A₀ and vector potential A is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 217,
+      "topLeftY": 226,
+      "bottomRightX": 501,
+      "bottomRightY": 264,
+      "content": "$$\\mathbf{F} \\equiv \\left(\\frac{\\mathbf{W}}{c} + \\frac{e}{c} \\mathbf{A}_0\\right)^2 + \\left(\\mathbf{p} + \\frac{e}{c} \\mathbf{A}\\right)^2 + m^2 c^2,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 271,
+      "bottomRightX": 612,
+      "bottomRightY": 332,
+      "content": "where p is the momentum vector. It has been suggested by Gordon* that the operator of the wave equation of the quantum theory should be obtained from this F by the same procedure as in non-relativity theory, namely, by putting",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 287,
+      "topLeftY": 341,
+      "bottomRightX": 368,
+      "bottomRightY": 378,
+      "content": "$$\\mathbf{W} = i\\hbar \\frac{\\partial}{\\partial t},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 287,
+      "topLeftY": 385,
+      "bottomRightX": 497,
+      "bottomRightY": 424,
+      "content": "$$p_r = -i\\hbar \\frac{\\partial}{\\partial x_r}, \\quad r = 1, 2, 3,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 434,
+      "bottomRightX": 346,
+      "bottomRightY": 453,
+      "content": "in it. This gives the wave equation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 463,
+      "bottomRightX": 612,
+      "bottomRightY": 501,
+      "content": "$$\\mathbf{F}\\psi \\equiv \\left[ \\left(i\\hbar \\frac{\\partial}{c \\partial t} + \\frac{e}{c} \\mathbf{A}_0\\right)^2 + \\Sigma_r \\left(-i\\hbar \\frac{\\partial}{\\partial x_r} + \\frac{e}{c} \\mathbf{A}_r\\right)^2 + m^2 c^2 \\right] \\psi = 0, \\quad (1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 513,
+      "bottomRightX": 612,
+      "bottomRightY": 551,
+      "content": "the wave function ψ being a function of x₁, x₂, x₃, t. This gives rise to two difficulties.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 554,
+      "bottomRightX": 612,
+      "bottomRightY": 617,
+      "content": "The first is in connection with the physical interpretation of ψ. Gordon, and also independently Klein,† from considerations of the conservation theorems, make the assumption that if ψₘ, ψₙ are two solutions",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 165,
+      "topLeftY": 629,
+      "bottomRightX": 503,
+      "bottomRightY": 667,
+      "content": "$$\\rho_{mn} = -\\frac{e}{2mc^2} \\left\\{ i\\hbar \\left( \\psi_m \\frac{\\partial \\psi_n}{\\partial t} - \\overline{\\psi}_n \\frac{\\partial \\psi_m}{\\partial t} \\right) + 2e\\mathbf{A}_0 \\psi_m \\overline{\\psi}_n \\right\\}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 672,
+      "bottomRightX": 131,
+      "bottomRightY": 688,
+      "content": "and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 691,
+      "bottomRightX": 579,
+      "bottomRightY": 728,
+      "content": "$$\\mathbf{I}_{mn} = -\\frac{e}{2m} \\left\\{ -i\\hbar \\left( \\psi_m \\operatorname{grad} \\overline{\\psi}_n - \\overline{\\psi}_n \\operatorname{grad} \\psi_m \\right) + 2 \\frac{e}{c} \\mathbf{A}_m \\psi_m \\overline{\\psi}_n \\right\\}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 739,
+      "bottomRightX": 614,
+      "bottomRightY": 843,
+      "content": "are to be interpreted as the charge and current associated with the transition m → n. This appears to be satisfactory so far as emission and absorption of radiation are concerned, but is not so general as the interpretation of the non-relativity quantum mechanics, which has been developed‡ sufficiently to enable one to answer the question: What is the probability of any dynamical variable",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 854,
+      "bottomRightX": 381,
+      "bottomRightY": 870,
+      "content": "* Gordon, 'Z. f. Physik,' vol. 40, p. 117 (1926).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 871,
+      "bottomRightX": 371,
+      "bottomRightY": 887,
+      "content": "† Klein, 'Z. f. Physik,' vol. 41, p. 407 (1927).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 888,
+      "bottomRightX": 612,
+      "bottomRightY": 920,
+      "content": "‡ Jordan, 'Z. f. Physik,' vol. 40, p. 809 (1927); Dirac, 'Roy. Soc. Proc.,' A, vol. 113, p. 621 (1927).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

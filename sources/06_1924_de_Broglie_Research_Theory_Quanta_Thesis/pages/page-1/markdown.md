@@ -1,0 +1,15 @@
+# ANNALES
+DE
+PHYSIQUE
+
+EXTRAIT
+
+# RECHERCHES SUR LA THÉORIE
+DES QUANTA
+
+Par M. Louis de BROGLIE
+
+Annales de Physique — 10e Série — Tome III — Janvier-Février 1925
+
+MASSON & Cie, ÉDITEURS
+120, BOULEVARD ST-GERMAIN, PARIS (VIe)

@@ -1,0 +1,1612 @@
+{
+  "document_id": "01_1900_planck_energy_distribution",
+  "source_filename": "planck_1900_energy_distribution.pdf",
+  "metadata": {
+    "title_original": "*Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum; von M. Planck.*",
+    "title_normalized": "Zur Theorie des Gesetzes der Energieverteilung im Normalspektrum",
+    "authors": [
+      "Max Planck"
+    ],
+    "publication_year": 1900,
+    "original_language": "de",
+    "journal": "Verhandlungen der Deutschen Physikalischen Gesellschaft",
+    "volume": "2",
+    "issue": "17",
+    "page_range": "237-245",
+    "doi": null,
+    "received_date": null,
+    "abstract_original": "In dieser Arbeit wird die theoretische Herleitung des Gesetzes der Energieverteilung im Normalspektrum (Plancksches Strahlungsgesetz) dargelegt. Planck führt die Hypothese der \"natürlichen Strahlung\" ein und leitet aus thermodynamischen und wahrscheinlichkeitstheoretischen Überlegungen die Entropie eines Resonators ab. Durch die Annahme diskreter Energieelemente (später als Quanten bekannt) und die Anwendung der Boltzmannschen Statistik gelingt es ihm, eine Formel für die Energieverteilung zu entwickeln, die mit experimentellen Daten übereinstimmt. Die Arbeit enthält auch die Einführung der Naturkonstanten h (Plancksches Wirkungsquantum) und k (Boltzmann-Konstante) sowie deren numerische Werte. Ferner werden Beziehungen zwischen der Strahlungstheorie und der kinetischen Gastheorie diskutiert, insbesondere die Bestimmung der Loschmidtschen Konstante und des Elementarquantums der Elektrizität."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "237",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "*Zur Theorie des Gesetzes  der Energieverteilung im Normalspectrum;  von M. Planck.*",
+          "markdown": "# Zur Theorie des Gesetzes der Energieverteilung im Normalspektrum\n\n*von M. Planck.*",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "(Vorgetragen in der Sitzung vom 14. December 1900.)",
+          "markdown": "(Vorgetragen in der Sitzung vom 14. December 1900.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "(Vgl. oben S. 235.)",
+          "markdown": "(Vgl. oben S. 235.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "M. H.! Als ich vor mehreren Wochen die Ehre hatte, Ihre Aufmerksamkeit auf eine neue Formel zu lenken, welche mir geeignet schien, das Gesetz der Verteilung der strahlenden Energie auf alle Gebiete des Normalspectrums auszudrücken¹), gründete sich meine Ansicht von der Brauchbarkeit der Formel, wie ich schon damals ausführte, nicht allein auf die anscheinend gute Uebereinstimmung der wenigen Zahlen, die ich Ihnen damals mitteilen konnte, mit den bisherigen Messungsresultaten²), sondern hauptsächlich auf den einfachen Bau der Formel und insbesondere darauf, dass dieselbe für die Abhängigkeit der Entropie eines bestrahlten monochromatisch schwingenden Resonators von seiner Schwingungsenergie einen sehr einfachen logarithmischen Ausdruck ergiebt, welcher die Möglichkeit einer allgemeinen Deutung jedenfalls eher zu versprechen schien, als jede andere bisher in Vorschlag gebrachte Formel, abgesehen von der WIEN’schen, die aber durch die Thatsachen nicht bestätigt wird.",
+          "markdown": "M. H.! Als ich vor mehreren Wochen die Ehre hatte, Ihre Aufmerksamkeit auf eine neue Formel zu lenken, welche mir geeignet schien, das Gesetz der Verteilung der strahlenden Energie auf alle Gebiete des Normalspektrums auszudrücken[^1]), gründete sich meine Ansicht von der Brauchbarkeit der Formel, wie ich schon damals ausführte, nicht allein auf die anscheinend gute Übereinstimmung der wenigen Zahlen, die ich Ihnen damals mitteilen konnte, mit den bisherigen Messungsresultaten[^2]), sondern hauptsächlich auf den einfachen Bau der Formel und insbesondere darauf, dass dieselbe für die Abhängigkeit der Entropie eines bestrahlten monochromatisch schwingenden Resonators von seiner Schwingungsenergie einen sehr einfachen logarithmischen Ausdruck ergibt, welcher die Möglichkeit einer allgemeinen Deutung jedenfalls eher zu versprechen schien, als jede andere bisher in Vorschlag gebrachte Formel, abgesehen von der Wien’schen, die aber durch die Tatsachen nicht bestätigt wird.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Entropie bedingt Unordnung, und diese Unordnung glaubte ich erblicken zu müssen in der Unregelmässigkeit, mit der auch im vollkommen stationären Strahlungsfelde die Schwingungen des Resonators ihre Amplitude und ihre Phase wechseln, sofern man Zeitepochen betrachtet, die gross sind gegen die Zeit einer Schwingung, aber klein gegen die Zeit einer Messung. Die constante Energie des stationär schwingenden Resonators",
+          "markdown": "Entropie bedingt Unordnung, und diese Unordnung glaubte ich erblicken zu müssen in der Unregelmäßigkeit, mit der auch im vollkommen stationären Strahlungsfelde die Schwingungen des Resonators ihre Amplitude und ihre Phase wechseln, sofern man Zeitepochen betrachtet, die groß sind gegen die Zeit einer Schwingung, aber klein gegen die Zeit einer Messung. Die konstante Energie des stationär schwingenden Resonators",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) M. PLANCK, Verhandl. der Deutschen Physikal. Gesellsch. 2. p. 202. 1900.",
+          "markdown": "[^1]: M. Planck, Verhandl. der Deutschen Physikalischen Gesellsch. 2, p. 202. 1900.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²) Inzwischen haben die Herren H. RUBENS und F. KURLBAUM (Sitzungsber. d. k. Akad. d. Wissensch. zu Berlin vom 25. October 1900, p. 929) für sehr lange Wellen eine directe Bestätigung gegeben.",
+          "markdown": "[^2]: Inzwischen haben die Herren H. Rubens und F. Kurlbaum (Sitzungsber. d. k. Akad. d. Wissensch. zu Berlin vom 25. October 1900, p. 929) für sehr lange Wellen eine direkte Bestätigung gegeben.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Zur Theorie des Gesetzes der Energieverteilung im Normalspektrum\n\n*von M. Planck.*\n\n(Vorgetragen in der Sitzung vom 14. December 1900.)\n\n(Vgl. oben S. 235.)\n\nM. H.! Als ich vor mehreren Wochen die Ehre hatte, Ihre Aufmerksamkeit auf eine neue Formel zu lenken, welche mir geeignet schien, das Gesetz der Verteilung der strahlenden Energie auf alle Gebiete des Normalspektrums auszudrücken[^1]), gründete sich meine Ansicht von der Brauchbarkeit der Formel, wie ich schon damals ausführte, nicht allein auf die anscheinend gute Übereinstimmung der wenigen Zahlen, die ich Ihnen damals mitteilen konnte, mit den bisherigen Messungsresultaten[^2]), sondern hauptsächlich auf den einfachen Bau der Formel und insbesondere darauf, dass dieselbe für die Abhängigkeit der Entropie eines bestrahlten monochromatisch schwingenden Resonators von seiner Schwingungsenergie einen sehr einfachen logarithmischen Ausdruck ergibt, welcher die Möglichkeit einer allgemeinen Deutung jedenfalls eher zu versprechen schien, als jede andere bisher in Vorschlag gebrachte Formel, abgesehen von der Wien’schen, die aber durch die Tatsachen nicht bestätigt wird.\n\nEntropie bedingt Unordnung, und diese Unordnung glaubte ich erblicken zu müssen in der Unregelmäßigkeit, mit der auch im vollkommen stationären Strahlungsfelde die Schwingungen des Resonators ihre Amplitude und ihre Phase wechseln, sofern man Zeitepochen betrachtet, die groß sind gegen die Zeit einer Schwingung, aber klein gegen die Zeit einer Messung. Die konstante Energie des stationär schwingenden Resonators\n\n[^1]: M. Planck, Verhandl. der Deutschen Physikalischen Gesellsch. 2, p. 202. 1900.\n\n[^2]: Inzwischen haben die Herren H. Rubens und F. Kurlbaum (Sitzungsber. d. k. Akad. d. Wissensch. zu Berlin vom 25. October 1900, p. 929) für sehr lange Wellen eine direkte Bestätigung gegeben.",
+      "word_count": 230,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Frakturschrift in Titel und Fließtext",
+        "Fußnoten am Seitenende korrekt erkannt",
+        "Formelzeichen wie $c$, $\\nu$, $E$ korrekt erkannt"
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "238",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "238 Verhandlungen der Deutschen Physikal. Gesellschaft. [Nr. 17.",
+          "markdown": "238 Verhandlungen der Deutschen Physikalischen Gesellschaft. [Nr. 17.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "ist danach nur als ein zeitlicher Mittelwert aufzufassen, oder, was auf dasselbe hinauskommt, als der augenblickliche Mittelwert der Energien einer grossen Anzahl von gleichbeschaffenen Resonatoren, die sich im nämlichen stationären Strahlungsfelde weit genug entfernt voneinander befinden, um sich nicht gegenseitig direct zu beeinflussen. Da somit die Entropie eines Resonators durch die Art der gleichzeitigen Energieverteilung auf viele Resonatoren bedingt ist, so vermutete ich, dass sich diese Grösse durch Einführung von Wahrscheinlichkeitsbetrachtungen, deren Bedeutung für den zweiten Hauptsatz der Thermodynamik Hr. L. BOLTZMANN¹⁾ zuerst aufgedeckt hat, in die elektromagnetische Theorie der Strahlung würde berechnen lassen müssen. Diese Vermutung hat sich bestätigt; es ist mir möglich geworden, einen Ausdruck für die Entropie eines monochromatisch schwingenden Resonators, und somit auch für die Verteilung der Energie im stationären Strahlungszustand, d. h. im Normalspectrum, auf deductivem Wege zu ermitteln, wobei es nur nötig wird, der von mir in die elektromagnetische Theorie eingeführten Hypothese der „natürlichen Strahlung“ eine etwas weitergehende Fassung zu geben als bisher. Ausserdem aber haben sich hierbei noch andere Beziehungen ergeben, die mir für weitere Gebiete der Physik und auch der Chemie von erheblicher Tragweite zu sein scheinen.",
+          "markdown": "ist danach nur als ein zeitlicher Mittelwert aufzufassen, oder, was auf dasselbe hinauskommt, als der augenblickliche Mittelwert der Energien einer großen Anzahl von gleichbeschaffenen Resonatoren, die sich im nämlichen stationären Strahlungsfelde weit genug entfernt voneinander befinden, um sich nicht gegenseitig direkt zu beeinflussen. Da somit die Entropie eines Resonators durch die Art der gleichzeitigen Energieverteilung auf viele Resonatoren bedingt ist, so vermutete ich, dass sich diese Größe durch Einführung von Wahrscheinlichkeitsbetrachtungen, deren Bedeutung für den zweiten Hauptsatz der Thermodynamik Hr. L. Boltzmann[^1] zuerst aufgedeckt hat, in die elektromagnetische Theorie der Strahlung würde berechnen lassen müssen. Diese Vermutung hat sich bestätigt; es ist mir möglich geworden, einen Ausdruck für die Entropie eines monochromatisch schwingenden Resonators, und somit auch für die Verteilung der Energie im stationären Strahlungszustand, d. h. im Normalspektrum, auf deduktivem Wege zu ermitteln, wobei es nur nötig wird, der von mir in die elektromagnetische Theorie eingeführten Hypothese der „natürlichen Strahlung“ eine etwas weitergehende Fassung zu geben als bisher. Ausserdem aber haben sich hierbei noch andere Beziehungen ergeben, die mir für weitere Gebiete der Physik und auch der Chemie von erheblicher Tragweite zu sein scheinen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ L. BOLTZMANN, namentlich Sitzungsber. d. k. Akad. d. Wissensch. zu Wien (II) 76. p. 373. 1877.",
+          "markdown": "[^1]: L. Boltzmann, namentlich Sitzungsber. d. k. Akad. d. Wissensch. zu Wien (II) 76, p. 373. 1877.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Indessen liegt mir heute nicht sowohl daran, jene Deduction, welche sich auf die Gesetze der elektromagnetischen Strahlung, der Thermodynamik und der Wahrscheinlichkeitsrechnung stützt, hier systematisch in allen Einzelheiten durchzuführen, als vielmehr daran, Ihnen den eigentlichen Kernpunkt der ganzen Theorie möglichst übersichtlich darzulegen, und dies kann wohl am besten dadurch geschehen, dass ich Ihnen hier ein neues, ganz elementares Verfahren beschreibe, durch welches man, ohne von einer Spectralformel oder auch von irgend einer Theorie etwas zu wissen, mit Hilfe einer einzigen Naturconstanten die Verteilung einer gegebenen Energiemenge auf die einzelnen Farben des Normalspectrums, und dann mittels einer zweiten Naturconstanten auch die Temperatur dieser Energiestrahlung zahlenmässig berechnen kann. Es wird Ihnen bei dem anzugebenden Verfahren manches willkürlich und umständlich erscheinen, aber ich lege hier, wie gesagt, nicht Wert auf den Nachweis der Notwendigkeit und der leichten praktischen Ausführbarkeit, sondern nur auf die Klarheit und Eindeutigkeit der gegebenen Vorschriften zur Lösung der Aufgabe.",
+          "markdown": "Indessen liegt mir heute nicht sowohl daran, jene Deduktion, welche sich auf die Gesetze der elektromagnetischen Strahlung, der Thermodynamik und der Wahrscheinlichkeitsrechnung stützt, hier systematisch in allen Einzelheiten durchzuführen, als vielmehr daran, Ihnen den eigentlichen Kernpunkt der ganzen Theorie möglichst übersichtlich darzulegen, und dies kann wohl am besten dadurch geschehen, dass ich Ihnen hier ein neues, ganz elementares Verfahren beschreibe, durch welches man, ohne von einer Spektralformel oder auch von irgend einer Theorie etwas zu wissen, mit Hilfe einer einzigen Naturkonstante die Verteilung einer gegebenen Energiemenge auf die einzelnen Farben des Normalspektrums, und dann mittels einer zweiten Naturkonstante auch die Temperatur dieser Energiestrahlung zahlenmäßig berechnen kann. Es wird Ihnen bei dem anzugebenden Verfahren manches willkürlich und umständlich erscheinen, aber ich lege hier, wie gesagt, nicht Wert auf den Nachweis der Notwendigkeit und der leichten praktischen Ausführbarkeit, sondern nur auf die Klarheit und Eindeutigkeit der gegebenen Vorschriften zur Lösung der Aufgabe.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "238 Verhandlungen der Deutschen Physikalischen Gesellschaft. [Nr. 17.\n\nist danach nur als ein zeitlicher Mittelwert aufzufassen, oder, was auf dasselbe hinauskommt, als der augenblickliche Mittelwert der Energien einer großen Anzahl von gleichbeschaffenen Resonatoren, die sich im nämlichen stationären Strahlungsfelde weit genug entfernt voneinander befinden, um sich nicht gegenseitig direkt zu beeinflussen. Da somit die Entropie eines Resonators durch die Art der gleichzeitigen Energieverteilung auf viele Resonatoren bedingt ist, so vermutete ich, dass sich diese Größe durch Einführung von Wahrscheinlichkeitsbetrachtungen, deren Bedeutung für den zweiten Hauptsatz der Thermodynamik Hr. L. Boltzmann[^1] zuerst aufgedeckt hat, in die elektromagnetische Theorie der Strahlung würde berechnen lassen müssen. Diese Vermutung hat sich bestätigt; es ist mir möglich geworden, einen Ausdruck für die Entropie eines monochromatisch schwingenden Resonators, und somit auch für die Verteilung der Energie im stationären Strahlungszustand, d. h. im Normalspektrum, auf deduktivem Wege zu ermitteln, wobei es nur nötig wird, der von mir in die elektromagnetische Theorie eingeführten Hypothese der „natürlichen Strahlung“ eine etwas weitergehende Fassung zu geben als bisher. Ausserdem aber haben sich hierbei noch andere Beziehungen ergeben, die mir für weitere Gebiete der Physik und auch der Chemie von erheblicher Tragweite zu sein scheinen.\n\n[^1]: L. Boltzmann, namentlich Sitzungsber. d. k. Akad. d. Wissensch. zu Wien (II) 76, p. 373. 1877.\n\nIndessen liegt mir heute nicht sowohl daran, jene Deduktion, welche sich auf die Gesetze der elektromagnetischen Strahlung, der Thermodynamik und der Wahrscheinlichkeitsrechnung stützt, hier systematisch in allen Einzelheiten durchzuführen, als vielmehr daran, Ihnen den eigentlichen Kernpunkt der ganzen Theorie möglichst übersichtlich darzulegen, und dies kann wohl am besten dadurch geschehen, dass ich Ihnen hier ein neues, ganz elementares Verfahren beschreibe, durch welches man, ohne von einer Spektralformel oder auch von irgend einer Theorie etwas zu wissen, mit Hilfe einer einzigen Naturkonstante die Verteilung einer gegebenen Energiemenge auf die einzelnen Farben des Normalspektrums, und dann mittels einer zweiten Naturkonstante auch die Temperatur dieser Energiestrahlung zahlenmäßig berechnen kann. Es wird Ihnen bei dem anzugebenden Verfahren manches willkürlich und umständlich erscheinen, aber ich lege hier, wie gesagt, nicht Wert auf den Nachweis der Notwendigkeit und der leichten praktischen Ausführbarkeit, sondern nur auf die Klarheit und Eindeutigkeit der gegebenen Vorschriften zur Lösung der Aufgabe.",
+      "word_count": 320,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Frakturschrift in Fließtext",
+        "Fußnoten korrekt erkannt",
+        "Formelzeichen wie $E$, $U$ korrekt erkannt"
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "239",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Sitzung vom 14. December 1900.",
+          "markdown": "Sitzung vom 14. December 1900.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In einem von spiegelnden Wänden umschlossenen diathermanen Medium mit der Lichtfortpflanzungsgeschwindigkeit $c$ befinden sich in gehörigen Abständen voneinander eine grosse Anzahl von linearen monochromatisch schwingenden Resonatoren, und zwar $N$ mit der Schwingungszahl $\\nu$ (pro Secunde), $N'$ mit der Schwingungszahl $\\nu'$, $N''$ mit der Schwingungszahl $\\nu''$ etc., wobei alle $N$ grosse Zahlen sind. Das System enthalte eine gegebene Menge Energie: die Totalenergie $E_t$, in erg, die teils in dem Medium als fortschreitende Strahlung, teils in den Resonatoren als Schwingung derselben auftritt. Die Frage ist, wie sich im stationären Zustand diese Energie auf die Schwingungen der Resonatoren und auf die einzelnen Farben der in dem Medium befindlichen Strahlung verteilt und welche Temperatur dann das ganze System besitzt.",
+          "markdown": "In einem von spiegelnden Wänden umschlossenen diathermanen Medium mit der Lichtfortpflanzungsgeschwindigkeit $c$ befinden sich in gehörigen Abständen voneinander eine große Anzahl von linearen monochromatisch schwingenden Resonatoren, und zwar $N$ mit der Schwingungszahl $\\nu$ (pro Sekunde), $N'$ mit der Schwingungszahl $\\nu'$, $N''$ mit der Schwingungszahl $\\nu''$ etc., wobei alle $N$ große Zahlen sind. Das System enthalte eine gegebene Menge Energie: die Totalenergie $E_t$, in erg, die teils in dem Medium als fortschreitende Strahlung, teils in den Resonatoren als Schwingung derselben auftritt. Die Frage ist, wie sich im stationären Zustand diese Energie auf die Schwingungen der Resonatoren und auf die einzelnen Farben der in dem Medium befindlichen Strahlung verteilt und welche Temperatur dann das ganze System besitzt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Zur Beantwortung dieser Frage fassen wir zuerst nur die Schwingungen der Resonatoren ins Auge, und erteilen ihnen versuchsweise bestimmte willkürliche Energien; nämlich den $N$ Resonatoren $\\nu$ etwa die Energie $E$, den $N'$ Resonatoren $\\nu'$ die Energie $E'$ etc. Natürlich muss die Summe:",
+          "markdown": "Zur Beantwortung dieser Frage fassen wir zuerst nur die Schwingungen der Resonatoren ins Auge, und erteilen ihnen versuchsweise bestimmte willkürliche Energien; nämlich den $N$ Resonatoren $\\nu$ etwa die Energie $E$, den $N'$ Resonatoren $\\nu'$ die Energie $E'$ etc. Natürlich muss die Summe:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$E + E' + E'' + \\dots = E_0$$",
+          "markdown": "$$E + E' + E'' + \\dots = E_0$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.4,
+            0.7,
+            0.6,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "kleiner sein als $E_t$. Der Rest $E_t - E_0$ entfällt dann auf die im Medium befindliche Strahlung. Nun ist noch die Verteilung der Energie auf die einzelnen Resonatoren innerhalb jeder Gattung vorzunehmen, zuerst die Verteilung der Energie $E$ auf die $N$ Resonatoren mit der Schwingungszahl $\\nu$. Wenn $E$ als unbeschränkt teilbare Grösse angesehen wird, ist die Verteilung auf unendlich viele Arten möglich. Wir betrachten aber — und dies ist der wesentlichste Punkt der ganzen Berechnung — $E$ als zusammengesetzt aus einer ganz bestimmten Anzahl endlicher gleicher Teile und bedienen uns dazu der Naturconstanten $h = 6,55 \\cdot 10^{-27}$ [erg $\\times$ sec]. Diese Constante",
+          "markdown": "kleiner sein als $E_t$. Der Rest $E_t - E_0$ entfällt dann auf die im Medium befindliche Strahlung. Nun ist noch die Verteilung der Energie auf die einzelnen Resonatoren innerhalb jeder Gattung vorzunehmen, zuerst die Verteilung der Energie $E$ auf die $N$ Resonatoren mit der Schwingungszahl $\\nu$. Wenn $E$ als unbeschränkt teilbare Größe angesehen wird, ist die Verteilung auf unendlich viele Arten möglich. Wir betrachten aber — und dies ist der wesentlichste Punkt der ganzen Berechnung — $E$ als zusammengesetzt aus einer ganz bestimmten Anzahl endlicher gleicher Teile und bedienen uns dazu der Naturkonstante $h = 6{,}55 \\cdot 10^{-27}$ [erg $\\times$ sec]. Diese Konstante",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "mit der gemeinsamen Schwingungszahl $\\nu$ der Resonatoren multiplicirt ergiebt das Energieelement $\\varepsilon$ in erg, und durch Division von $E$ durch $\\varepsilon$ erhalten wir die Anzahl $P$ der Energieelemente, welche unter die $N$ Resonatoren zu verteilen sind.",
+          "markdown": "mit der gemeinsamen Schwingungszahl $\\nu$ der Resonatoren multipliziert ergibt das Energieelement $\\varepsilon$ in erg, und durch Division von $E$ durch $\\varepsilon$ erhalten wir die Anzahl $P$ der Energieelemente, welche unter die $N$ Resonatoren zu verteilen sind.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\varepsilon = h \\nu$$",
+          "markdown": "$$\\varepsilon = h \\nu$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.4,
+            0.55,
+            0.6,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und speziellen Symbolen (z. B. $\\varepsilon$)"
+        }
+      ],
+      "page_markdown_original": "Sitzung vom 14. December 1900.\n\nIn einem von spiegelnden Wänden umschlossenen diathermanen Medium mit der Lichtfortpflanzungsgeschwindigkeit $c$ befinden sich in gehörigen Abständen voneinander eine große Anzahl von linearen monochromatisch schwingenden Resonatoren, und zwar $N$ mit der Schwingungszahl $\\nu$ (pro Sekunde), $N'$ mit der Schwingungszahl $\\nu'$, $N''$ mit der Schwingungszahl $\\nu''$ etc., wobei alle $N$ große Zahlen sind. Das System enthalte eine gegebene Menge Energie: die Totalenergie $E_t$, in erg, die teils in dem Medium als fortschreitende Strahlung, teils in den Resonatoren als Schwingung derselben auftritt. Die Frage ist, wie sich im stationären Zustand diese Energie auf die Schwingungen der Resonatoren und auf die einzelnen Farben der in dem Medium befindlichen Strahlung verteilt und welche Temperatur dann das ganze System besitzt.\n\nZur Beantwortung dieser Frage fassen wir zuerst nur die Schwingungen der Resonatoren ins Auge, und erteilen ihnen versuchsweise bestimmte willkürliche Energien; nämlich den $N$ Resonatoren $\\nu$ etwa die Energie $E$, den $N'$ Resonatoren $\\nu'$ die Energie $E'$ etc. Natürlich muss die Summe:\n\n$$E + E' + E'' + \\dots = E_0$$\n\nkleiner sein als $E_t$. Der Rest $E_t - E_0$ entfällt dann auf die im Medium befindliche Strahlung. Nun ist noch die Verteilung der Energie auf die einzelnen Resonatoren innerhalb jeder Gattung vorzunehmen, zuerst die Verteilung der Energie $E$ auf die $N$ Resonatoren mit der Schwingungszahl $\\nu$. Wenn $E$ als unbeschränkt teilbare Größe angesehen wird, ist die Verteilung auf unendlich viele Arten möglich. Wir betrachten aber — und dies ist der wesentlichste Punkt der ganzen Berechnung — $E$ als zusammengesetzt aus einer ganz bestimmten Anzahl endlicher gleicher Teile und bedienen uns dazu der Naturkonstante $h = 6{,}55 \\cdot 10^{-27}$ [erg $\\times$ sec]. Diese Konstante\n\nmit der gemeinsamen Schwingungszahl $\\nu$ der Resonatoren multipliziert ergibt das Energieelement $\\varepsilon$ in erg, und durch Division von $E$ durch $\\varepsilon$ erhalten wir die Anzahl $P$ der Energieelemente, welche unter die $N$ Resonatoren zu verteilen sind.\n\n$$\\varepsilon = h \\nu$$\n",
+      "word_count": 280,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Frakturschrift in Fließtext",
+        "Formelzeichen wie $E_t$, $N$, $\\nu$ korrekt erkannt",
+        "Formel $\\varepsilon = h \\nu$ benötigt manuelle Überprüfung (Frakturschrift)"
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "240",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "240 Verhandlungen der Deutschen Physikal. Gesellschaft. [Nr. 17.",
+          "markdown": "240 Verhandlungen der Deutschen Physikalischen Gesellschaft. [Nr. 17.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn der so berechnete Quotient keine ganze Zahl ist, so nehme man für $P$ eine in der Nähe gelegene ganze Zahl.",
+          "markdown": "Wenn der so berechnete Quotient keine ganze Zahl ist, so nehme man für $P$ eine in der Nähe gelegene ganze Zahl.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nun ist einleuchtend, dass die Verteilung der $P$ Energieelemente auf die $N$ Resonatoren nur auf eine endliche ganz bestimmte Anzahl von Arten erfolgen kann. Jede solche Art der Verteilung nennen wir nach einem von Hrn. BOLTZMANN für einen ähnlichen Begriff gebrauchten Ausdruck eine „Complexion“. Bezeichnet man die Resonatoren mit den Ziffern 1., 2., 3. . . bis $N$, schreibt diese der Reihe nach nebeneinander, und setzt unter jeden Resonator die Anzahl der auf ihn entfallenden Energieelemente, so erhält man für jede Complexion ein Symbol von folgender Form:",
+          "markdown": "Nun ist einleuchtend, dass die Verteilung der $P$ Energieelemente auf die $N$ Resonatoren nur auf eine endliche ganz bestimmte Anzahl von Arten erfolgen kann. Jede solche Art der Verteilung nennen wir nach einem von Hrn. Boltzmann für einen ähnlichen Begriff gebrauchten Ausdruck eine „Komplexion“. Bezeichnet man die Resonatoren mit den Ziffern 1., 2., 3. . . bis $N$, schreibt diese der Reihe nach nebeneinander, und setzt unter jeden Resonator die Anzahl der auf ihn entfallenden Energieelemente, so erhält man für jede Komplexion ein Symbol von folgender Form:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "table",
+          "level": null,
+          "text_original": "|  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  7 | 38 | 11 | 0 | 9 | 2 | 20 | 4 | 4 | 5  |",
+          "markdown": "| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 7 | 38 | 11 | 0 | 9 | 2 | 20 | 4 | 4 | 5 |",
+          "asset_id": "table_p004_01",
+          "suggested_filename": "tables/table_p004_01.md",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hier ist $N=10$, $P=100$ angenommen. Die Anzahl aller möglichen Complexionen ist offenbar gleich der Anzahl aller möglichen Ziffernbilder, die man auf diese Weise, bei bestimmtem $N$ und $P$, für die untere Reihe erhalten kann. Um jedes Missverständnis auszuschliessen, sei noch bemerkt, dass zwei Complexionen als verschieden anzusehen sind, wenn die entsprechenden Ziffernbilder dieselben Ziffern, aber in verschiedener Anordnung, enthalten. Aus der Combinationslehre ergiebt sich die Anzahl aller möglichen Complexionen zu",
+          "markdown": "Hier ist $N=10$, $P=100$ angenommen. Die Anzahl aller möglichen Komplexionen ist offenbar gleich der Anzahl aller möglichen Ziffernbilder, die man auf diese Weise, bei bestimmtem $N$ und $P$, für die untere Reihe erhalten kann. Um jedes Missverständnis auszuschließen, sei noch bemerkt, dass zwei Komplexionen als verschieden anzusehen sind, wenn die entsprechenden Ziffernbilder dieselben Ziffern, aber in verschiedener Anordnung, enthalten. Aus der Kombinationslehre ergibt sich die Anzahl aller möglichen Komplexionen zu",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{N \\cdot (N+1) \\cdot (N+2) \\dots (N+P-1)}{1 \\cdot 2 \\cdot 3 \\dots P} = \\frac{(N+P-1)!}{(N-1)! P!}$$",
+          "markdown": "$$\\frac{N \\cdot (N+1) \\cdot (N+2) \\dots (N+P-1)}{1 \\cdot 2 \\cdot 3 \\dots P} = \\frac{(N+P-1)!}{(N-1)! P!}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "und mit genügender Annäherung\n\n$$= \\frac{(N+P)^{N+P}}{N^N P^P}.$$",
+          "markdown": "und mit genügender Annäherung\n\n$$= \\frac{(N+P)^{N+P}}{N^N P^P}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "240 Verhandlungen der Deutschen Physikalischen Gesellschaft. [Nr. 17.\n\nWenn der so berechnete Quotient keine ganze Zahl ist, so nehme man für $P$ eine in der Nähe gelegene ganze Zahl.\n\nNun ist einleuchtend, dass die Verteilung der $P$ Energieelemente auf die $N$ Resonatoren nur auf eine endliche ganz bestimmte Anzahl von Arten erfolgen kann. Jede solche Art der Verteilung nennen wir nach einem von Hrn. Boltzmann für einen ähnlichen Begriff gebrauchten Ausdruck eine „Komplexion“. Bezeichnet man die Resonatoren mit den Ziffern 1., 2., 3. . . bis $N$, schreibt diese der Reihe nach nebeneinander, und setzt unter jeden Resonator die Anzahl der auf ihn entfallenden Energieelemente, so erhält man für jede Komplexion ein Symbol von folgender Form:\n\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 7 | 38 | 11 | 0 | 9 | 2 | 20 | 4 | 4 | 5 |\n\nHier ist $N=10$, $P=100$ angenommen. Die Anzahl aller möglichen Komplexionen ist offenbar gleich der Anzahl aller möglichen Ziffernbilder, die man auf diese Weise, bei bestimmtem $N$ und $P$, für die untere Reihe erhalten kann. Um jedes Missverständnis auszuschließen, sei noch bemerkt, dass zwei Komplexionen als verschieden anzusehen sind, wenn die entsprechenden Ziffernbilder dieselben Ziffern, aber in verschiedener Anordnung, enthalten. Aus der Kombinationslehre ergibt sich die Anzahl aller möglichen Komplexionen zu\n\n$$\\frac{N \\cdot (N+1) \\cdot (N+2) \\dots (N+P-1)}{1 \\cdot 2 \\cdot 3 \\dots P} = \\frac{(N+P-1)!}{(N-1)! P!}$$\n\nund mit genügender Annäherung\n\n$$= \\frac{(N+P)^{N+P}}{N^N P^P}.$$",
+      "word_count": 250,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Frakturschrift in Fließtext",
+        "Tabelle korrekt erkannt und als Markdown-Tabelle formatiert",
+        "Formeln korrekt erkannt"
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "241",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Nr. 17.]",
+          "markdown": "Nr. 17.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dieselbe Rechnung führen wir bei den Resonatoren der übrigen Gattungen aus, indem wir für jede Resonatorgattung die Anzahl der bei der für sie angenommenen Energie möglichen Complexionen bestimmen. Die Multiplication aller so erhaltenen Zahlen ergiebt dann die Gesamtzahl $\\Re$ der bei der versuchsweise vorgenommenen Energieverteilung in allen Resonatoren zusammengenommen möglichen Complexionen.",
+          "markdown": "Dieselbe Rechnung führen wir bei den Resonatoren der übrigen Gattungen aus, indem wir für jede Resonatorgattung die Anzahl der bei der für sie angenommenen Energie möglichen Komplexionen bestimmen. Die Multiplikation aller so erhaltenen Zahlen ergibt dann die Gesamtzahl $\\Re$ der bei der versuchsweise vorgenommenen Energieverteilung in allen Resonatoren zusammengenommen möglichen Komplexionen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "So entspricht auch jeder anderen willkürlich vorgenommenen Energieverteilung $E, E', E'', \\dots$ eine in der angegebenen Weise zu bestimmende Zahl $\\Re$ von möglichen Complexionen. Unter allen Energieverteilungen nun, welche bei constant gehaltenem $E_0 = E + E' + E'' + \\dots$ möglich sind, giebt es eine einzige ganz bestimmte, für welche die Zahl der möglichen Complexionen $\\Re_0$ grösser ist als für jede andere; diese Energieverteilung suchen wir auf, eventuell durch Probiren; denn sie ist gerade diejenige, welche die Resonatoren im stationären Strahlungsfelde annehmen, wenn sie insgesamt die Energie $E_0$ besitzen. Dann lassen sich alle Grössen $E, E', E'' \\dots$ durch die eine Grösse $E_0$ ausdrücken. Durch Division von $E$ durch $N$, von $E'$ durch $N'$ etc. erhält man dann den stationären Wert der Energie $U_\\nu, U_\\nu', U_\\nu'' \\dots$ eines einzelnen Resonators einer jeden Gattung, und daraus auch die räumliche Dichtigkeit der dem Spectralbezirk $\\nu$ bis $\\nu + d\\nu$ angehörenden strahlenden Energie im diathermanen Medium:",
+          "markdown": "So entspricht auch jeder anderen willkürlich vorgenommenen Energieverteilung $E, E', E'', \\dots$ eine in der angegebenen Weise zu bestimmende Zahl $\\Re$ von möglichen Komplexionen. Unter allen Energieverteilungen nun, welche bei konstant gehaltenem $E_0 = E + E' + E'' + \\dots$ möglich sind, gibt es eine einzige ganz bestimmte, für welche die Zahl der möglichen Komplexionen $\\Re_0$ größer ist als für jede andere; diese Energieverteilung suchen wir auf, eventuell durch Probieren; denn sie ist gerade diejenige, welche die Resonatoren im stationären Strahlungsfelde annehmen, wenn sie insgesamt die Energie $E_0$ besitzen. Dann lassen sich alle Größen $E, E', E'' \\dots$ durch die eine Größe $E_0$ ausdrücken. Durch Division von $E$ durch $N$, von $E'$ durch $N'$ etc. erhält man dann den stationären Wert der Energie $U_\\nu, U_\\nu', U_\\nu'' \\dots$ eines einzelnen Resonators einer jeden Gattung, und daraus auch die räumliche Dichte der dem Spektralbezirk $\\nu$ bis $\\nu + d\\nu$ angehörenden strahlenden Energie im diathermanen Medium:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_\\nu d\\nu = \\frac{8\\pi\\nu^2}{c^3} \\cdot U_\\nu d\\nu,$$",
+          "markdown": "$$u_\\nu d\\nu = \\frac{8\\pi\\nu^2}{c^3} \\cdot U_\\nu d\\nu,$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.7,
+            0.7,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "woraus auch die in dem Medium enthaltene Energie bestimmt ist.",
+          "markdown": "woraus auch die in dem Medium enthaltene Energie bestimmt ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Von allen angeführten Grössen erscheint jetzt nur noch $E_0$ als willkürlich gewählt. Man sieht aber leicht, wie auch noch $E_0$ aus der gegebenen totalen Energie $E_t$ zu berechnen ist. Denn wenn der gewählte Wert von $E_0$ etwa einen zu grossen Wert von $E_t$ ergeben sollte, so ist er entsprechend zu verkleinern, und umgekehrt.",
+          "markdown": "Von allen angeführten Größen erscheint jetzt nur noch $E_0$ als willkürlich gewählt. Man sieht aber leicht, wie auch noch $E_0$ aus der gegebenen totalen Energie $E_t$ zu berechnen ist. Denn wenn der gewählte Wert von $E_0$ etwa einen zu großen Wert von $E_t$ ergeben sollte, so ist er entsprechend zu verkleinern, und umgekehrt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nachdem so die stationäre Energieverteilung mit Hülfe der einen Constante $k$ ermittelt ist, findet man die entsprechende Temperatur $\\vartheta$ in Celsiusgraden mittels einer zweiten Naturconstanten $k = 1,346 \\cdot 10^{-16}$ [erg:grad] durch die Gleichung:",
+          "markdown": "Nachdem so die stationäre Energieverteilung mit Hilfe der einen Konstante $k$ ermittelt ist, findet man die entsprechende Temperatur $\\vartheta$ in Celsiusgraden mittels einer zweiten Naturkonstante $k = 1{,}346 \\cdot 10^{-16}$ [erg:grad] durch die Gleichung:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{1}{\\vartheta} = k \\frac{d \\log \\Re_0}{d E_0}.$$",
+          "markdown": "$$\\frac{1}{\\vartheta} = k \\frac{d \\log \\Re_0}{d E_0}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.35,
+            0.7,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das Product $k \\log \\Re_0$ ist die Entropie des Systems der Resonatoren; sie ist die Summe der Entropien aller einzelnen Resonatoren.",
+          "markdown": "Das Produkt $k \\log \\Re_0$ ist die Entropie des Systems der Resonatoren; sie ist die Summe der Entropien aller einzelnen Resonatoren.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Nr. 17.\n\nDieselbe Rechnung führen wir bei den Resonatoren der übrigen Gattungen aus, indem wir für jede Resonatorgattung die Anzahl der bei der für sie angenommenen Energie möglichen Komplexionen bestimmen. Die Multiplikation aller so erhaltenen Zahlen ergibt dann die Gesamtzahl $\\Re$ der bei der versuchsweise vorgenommenen Energieverteilung in allen Resonatoren zusammengenommen möglichen Komplexionen.\n\nSo entspricht auch jeder anderen willkürlich vorgenommenen Energieverteilung $E, E', E'', \\dots$ eine in der angegebenen Weise zu bestimmende Zahl $\\Re$ von möglichen Komplexionen. Unter allen Energieverteilungen nun, welche bei konstant gehaltenem $E_0 = E + E' + E'' + \\dots$ möglich sind, gibt es eine einzige ganz bestimmte, für welche die Zahl der möglichen Komplexionen $\\Re_0$ größer ist als für jede andere; diese Energieverteilung suchen wir auf, eventuell durch Probieren; denn sie ist gerade diejenige, welche die Resonatoren im stationären Strahlungsfelde annehmen, wenn sie insgesamt die Energie $E_0$ besitzen. Dann lassen sich alle Größen $E, E', E'' \\dots$ durch die eine Größe $E_0$ ausdrücken. Durch Division von $E$ durch $N$, von $E'$ durch $N'$ etc. erhält man dann den stationären Wert der Energie $U_\\nu, U_\\nu', U_\\nu'' \\dots$ eines einzelnen Resonators einer jeden Gattung, und daraus auch die räumliche Dichte der dem Spektralbezirk $\\nu$ bis $\\nu + d\\nu$ angehörenden strahlenden Energie im diathermanen Medium:\n\n$$u_\\nu d\\nu = \\frac{8\\pi\\nu^2}{c^3} \\cdot U_\\nu d\\nu,$$\n\nworaus auch die in dem Medium enthaltene Energie bestimmt ist.\n\nVon allen angeführten Größen erscheint jetzt nur noch $E_0$ als willkürlich gewählt. Man sieht aber leicht, wie auch noch $E_0$ aus der gegebenen totalen Energie $E_t$ zu berechnen ist. Denn wenn der gewählte Wert von $E_0$ etwa einen zu großen Wert von $E_t$ ergeben sollte, so ist er entsprechend zu verkleinern, und umgekehrt.\n\nNachdem so die stationäre Energieverteilung mit Hilfe der einen Konstante $k$ ermittelt ist, findet man die entsprechende Temperatur $\\vartheta$ in Celsiusgraden mittels einer zweiten Naturkonstante $k = 1{,}346 \\cdot 10^{-16}$ [erg:grad] durch die Gleichung:\n\n$$\\frac{1}{\\vartheta} = k \\frac{d \\log \\Re_0}{d E_0}.$$ \n\nDas Produkt $k \\log \\Re_0$ ist die Entropie des Systems der Resonatoren; sie ist die Summe der Entropien aller einzelnen Resonatoren.",
+      "word_count": 300,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Frakturschrift in Fließtext",
+        "Formeln korrekt erkannt",
+        "Formelzeichen wie $U_\\nu$, $\\Re_0$ korrekt erkannt"
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "242",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "242 Verhandlungen der Deutschen Physikal. Gesellschaft. [Nr. 17.",
+          "markdown": "242 Verhandlungen der Deutschen Physikalischen Gesellschaft. [Nr. 17.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es würde nun freilich sehr umständlich sein, die angegebenen Rechnungen wirklich auszuführen, obwohl es gewiss nicht ohne Interesse wäre, an einem einfachen Fall einmal den so zu erreichenden Grad von Annäherung an die Wahrheit zu prüfen. Viel directer zeigt eine allgemeinere, genau an der Hand der gegebenen Vorschriften ausgeführte durchaus mühelose Rechnung, dass die auf solche Weise bestimmte normale Energieverteilung im durchstrahlten Medium dargestellt wird durch den Ausdruck:",
+          "markdown": "Es würde nun freilich sehr umständlich sein, die angegebenen Rechnungen wirklich auszuführen, obwohl es gewiss nicht ohne Interesse wäre, an einem einfachen Fall einmal den so zu erreichenden Grad von Annäherung an die Wahrheit zu prüfen. Viel direkter zeigt eine allgemeinere, genau an der Hand der gegebenen Vorschriften ausgeführte durchaus mühelose Rechnung, dass die auf solche Weise bestimmte normale Energieverteilung im durchstrahlten Medium dargestellt wird durch den Ausdruck:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_\\nu d\\nu = \\frac{8\\pi h \\nu^3}{c^3} \\cdot \\frac{d\\nu}{e^{\\frac{h\\nu}{k\\vartheta}} - 1},$$",
+          "markdown": "$$u_\\nu d\\nu = \\frac{8\\pi h \\nu^3}{c^3} \\cdot \\frac{d\\nu}{e^{\\frac{h\\nu}{k\\vartheta}} - 1},$$",
+          "asset_id": null,
+          "suggested_filename": "equations/planck_radiation_law.md",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "welcher genau der von mir früher angegebenen Spectralformel entspricht:",
+          "markdown": "welcher genau der von mir früher angegebenen Spektralformel entspricht:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$E_\\lambda d\\lambda = \\frac{c_1 \\lambda^{-5}}{e^{\\frac{c_2}{\\lambda \\vartheta}} - 1} \\cdot d\\lambda.$$",
+          "markdown": "$$E_\\lambda d\\lambda = \\frac{c_1 \\lambda^{-5}}{e^{\\frac{c_2}{\\lambda \\vartheta}} - 1} \\cdot d\\lambda.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die formalen Abweichungen sind bedingt durch die Unterschiede in der Definition von $u_\\nu$ und $E_\\lambda$. Die obere Formel ist insofern etwas allgemeiner, als sie für ein ganz beliebiges diathermanes Medium mit der Lichtfortpflanzungsgeschwindigkeit $c$ gilt. Die mitgeteilten Zahlenwerte von $h$ und $k$ habe ich aus dieser Formel nach den Messungen von F. KURLBAUM¹) und von O. LUMMER und E. PRINGSHEIM²) berechnet.",
+          "markdown": "Die formalen Abweichungen sind bedingt durch die Unterschiede in der Definition von $u_\\nu$ und $E_\\lambda$. Die obere Formel ist insofern etwas allgemeiner, als sie für ein ganz beliebiges diathermanes Medium mit der Lichtfortpflanzungsgeschwindigkeit $c$ gilt. Die mitgeteilten Zahlenwerte von $h$ und $k$ habe ich aus dieser Formel nach den Messungen von F. Kurlbaum[^1] und von O. Lummer und E. Pringsheim[^2] berechnet.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) F. KURLBAUM, Wied. Ann. 65. p. 759. 1898 ($S_{100} - S_0 = 0,0731$ Watt: cm²).",
+          "markdown": "[^1]: F. Kurlbaum, Wied. Ann. 65, p. 759. 1898 ($S_{100} - S_0 = 0{,}0731$ Watt: cm²).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²) O. LUMMER u. E. PRINGSHEIM, Verhandl. d. Deutsch. Physik. Gesellsch. 2. p. 176. 1900 ($\\lambda_m \\vartheta = 2940 \\mu \\times \\text{grad}$).",
+          "markdown": "[^2]: O. Lummer u. E. Pringsheim, Verhandl. d. Deutsch. Physik. Gesellsch. 2, p. 176. 1900 ($\\lambda_m \\vartheta = 2940 \\mu \\times \\text{grad}$).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "242 Verhandlungen der Deutschen Physikalischen Gesellschaft. [Nr. 17.\n\nEs würde nun freilich sehr umständlich sein, die angegebenen Rechnungen wirklich auszuführen, obwohl es gewiss nicht ohne Interesse wäre, an einem einfachen Fall einmal den so zu erreichenden Grad von Annäherung an die Wahrheit zu prüfen. Viel direkter zeigt eine allgemeinere, genau an der Hand der gegebenen Vorschriften ausgeführte durchaus mühelose Rechnung, dass die auf solche Weise bestimmte normale Energieverteilung im durchstrahlten Medium dargestellt wird durch den Ausdruck:\n\n$$u_\\nu d\\nu = \\frac{8\\pi h \\nu^3}{c^3} \\cdot \\frac{d\\nu}{e^{\\frac{h\\nu}{k\\vartheta}} - 1},$$\n\nwelcher genau der von mir früher angegebenen Spektralformel entspricht:\n\n$$E_\\lambda d\\lambda = \\frac{c_1 \\lambda^{-5}}{e^{\\frac{c_2}{\\lambda \\vartheta}} - 1} \\cdot d\\lambda.$$ \n\nDie formalen Abweichungen sind bedingt durch die Unterschiede in der Definition von $u_\\nu$ und $E_\\lambda$. Die obere Formel ist insofern etwas allgemeiner, als sie für ein ganz beliebiges diathermanes Medium mit der Lichtfortpflanzungsgeschwindigkeit $c$ gilt. Die mitgeteilten Zahlenwerte von $h$ und $k$ habe ich aus dieser Formel nach den Messungen von F. Kurlbaum[^1] und von O. Lummer und E. Pringsheim[^2] berechnet.\n\n[^1]: F. Kurlbaum, Wied. Ann. 65, p. 759. 1898 ($S_{100} - S_0 = 0{,}0731$ Watt: cm²).\n\n[^2]: O. Lummer u. E. Pringsheim, Verhandl. d. Deutsch. Physik. Gesellsch. 2, p. 176. 1900 ($\\lambda_m \\vartheta = 2940 \\mu \\times \\text{grad}$).",
+      "word_count": 280,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Frakturschrift in Fließtext",
+        "Wichtige Plancksche Strahlungsformel korrekt erkannt",
+        "Fußnoten korrekt erkannt"
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "243",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Sitzung vom 14. December 1900.",
+          "markdown": "Sitzung vom 14. December 1900.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ich wende mich noch mit einigen kurzen Bemerkungen zu der Frage nach der Notwendigkeit der angegebenen Deduction. Dass das für eine Resonatorgattung angenommene Energieelement $\\varepsilon$ proportional sein muss der Schwingungszahl $\\nu$, lässt sich unmittelbar aus dem höchst wichtigen WIEN'schen sogenannten Verschiebungsgesetz folgern. Die Beziehung zwischen $u$ und $U$ ist eine der Grundgleichungen der elektromagnetischen Strahlungstheorie. Im übrigen basiert die ganze Deduction auf dem einen Satz, dass die Entropie eines Systems von Resonatoren mit gegebener Energie proportional ist dem Logarithmus der Gesamtzahl der bei dieser",
+          "markdown": "Ich wende mich noch mit einigen kurzen Bemerkungen zu der Frage nach der Notwendigkeit der angegebenen Deduktion. Dass das für eine Resonatorgattung angenommene Energieelement $\\varepsilon$ proportional sein muss der Schwingungszahl $\\nu$, lässt sich unmittelbar aus dem höchst wichtigen Wien’schen sogenannten Verschiebungsgesetz folgern. Die Beziehung zwischen $u$ und $U$ ist eine der Grundgleichungen der elektromagnetischen Strahlungstheorie. Im Übrigen basiert die ganze Deduktion auf dem einen Satz, dass die Entropie eines Systems von Resonatoren mit gegebener Energie proportional ist dem Logarithmus der Gesamtzahl der bei dieser",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Energie möglichen Complexionen, und dieser Satz lässt sich seinerseits zerlegen in zwei andere: 1. dass die Entropie des Systems in einem bestimmten Zustand proportional ist dem Logarithmus der Wahrscheinlichkeit dieses Zustandes, und 2. dass die Wahrscheinlichkeit eines jeden Zustandes proportional ist der Anzahl der ihm entsprechenden Complexionen, oder mit anderen Worten, dass irgend eine bestimmte Complexion ebenso wahrscheinlich ist als irgend eine andere bestimmte Complexion. Der 1. Satz kommt, auf Strahlungsvorgänge angewandt, wohl nur auf eine Definition der Wahrscheinlichkeit eines Zustandes hinaus, insofern man bei der Energiestrahlung von vornherein gar kein anderes Mittel besitzt, um die Wahrscheinlichkeit zu definieren, als eben die Bestimmung der Entropie. Hier liegt einer der Unterschiede gegenüber den entsprechenden Verhältnissen in der kinetischen Gastheorie. Der 2. Satz bildet den Kernpunkt der ganzen vorliegenden Theorie; sein Beweis kann in letzter Linie nur durch die Erfahrung geliefert werden.",
+          "markdown": "Energie möglichen Komplexionen, und dieser Satz lässt sich seinerseits zerlegen in zwei andere: 1. dass die Entropie des Systems in einem bestimmten Zustand proportional ist dem Logarithmus der Wahrscheinlichkeit dieses Zustandes, und 2. dass die Wahrscheinlichkeit eines jeden Zustandes proportional ist der Anzahl der ihm entsprechenden Komplexionen, oder mit anderen Worten, dass irgend eine bestimmte Komplexion ebenso wahrscheinlich ist als irgend eine andere bestimmte Komplexion. Der 1. Satz kommt, auf Strahlungsvorgänge angewandt, wohl nur auf eine Definition der Wahrscheinlichkeit eines Zustandes hinaus, insofern man bei der Energiestrahlung von vornherein gar kein anderes Mittel besitzt, um die Wahrscheinlichkeit zu definieren, als eben die Bestimmung der Entropie. Hier liegt einer der Unterschiede gegenüber den entsprechenden Verhältnissen in der kinetischen Gastheorie. Der 2. Satz bildet den Kernpunkt der ganzen vorliegenden Theorie; sein Beweis kann in letzter Linie nur durch die Erfahrung geliefert werden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Er lässt sich auch als eine nähere Präcisierung der von mir eingeführten Hypothese der natürlichen Strahlung auffassen, die ich bisher nur in der Form ausgesprochen habe, dass die Energie der Strahlung sich vollkommen „unregelmässig“ auf die einzelnen in ihr enthaltenen Partialschwingungen verteilt.¹) Ich beabsichtige die hier nur angedeuteten Ueberlegungen nächstens an anderer Stelle ausführlich mit allen Rechnungen mitzuteilen, zugleich mit einem Rückblick auf die bisherige Entwicklung der Theorie.",
+          "markdown": "Er lässt sich auch als eine nähere Präzisierung der von mir eingeführten Hypothese der natürlichen Strahlung auffassen, die ich bisher nur in der Form ausgesprochen habe, dass die Energie der Strahlung sich vollkommen „unregelmäßig“ auf die einzelnen in ihr enthaltenen Partialschwingungen verteilt.[^1] Ich beabsichtige, die hier nur angedeuteten Überlegungen nächstens an anderer Stelle ausführlich mit allen Rechnungen mitzuteilen, zugleich mit einem Rückblick auf die bisherige Entwicklung der Theorie.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) M. PLANCK, Ann. d. Phys. 1, p. 73. 1900. Wenn Hr. W. WIEN in seinem Pariser Rapport (II, p. 38, 1900) über die theoretischen Gesetze der Strahlung meine Theorie der irreversibeln Strahlungsvorgänge deshalb nicht befriedigend findet, weil sie nicht den Nachweis erbringe, dass die Hypothese der natürlichen Strahlung die einzige ist, welche zur Irreversibilität führt, so verlangt er nach meiner Meinung von dieser Hypothese doch wohl etwas zu viel.",
+          "markdown": "[^1]: M. Planck, Ann. d. Phys. 1, p. 73. 1900. Wenn Hr. W. Wien in seinem Pariser Rapport (II, p. 38, 1900) über die theoretischen Gesetze der Strahlung meine Theorie der irreversiblen Strahlungsvorgänge deshalb nicht befriedigend findet, weil sie nicht den Nachweis erbringe, dass die Hypothese der natürlichen Strahlung die einzige ist, welche zur Irreversibilität führt, so verlangt er nach meiner Meinung von dieser Hypothese doch wohl etwas zu viel.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Sitzung vom 14. December 1900.\n\nIch wende mich noch mit einigen kurzen Bemerkungen zu der Frage nach der Notwendigkeit der angegebenen Deduktion. Dass das für eine Resonatorgattung angenommene Energieelement $\\varepsilon$ proportional sein muss der Schwingungszahl $\\nu$, lässt sich unmittelbar aus dem höchst wichtigen Wien’schen sogenannten Verschiebungsgesetz folgern. Die Beziehung zwischen $u$ und $U$ ist eine der Grundgleichungen der elektromagnetischen Strahlungstheorie. Im Übrigen basiert die ganze Deduktion auf dem einen Satz, dass die Entropie eines Systems von Resonatoren mit gegebener Energie proportional ist dem Logarithmus der Gesamtzahl der bei dieser Energie möglichen Komplexionen, und dieser Satz lässt sich seinerseits zerlegen in zwei andere: 1. dass die Entropie des Systems in einem bestimmten Zustand proportional ist dem Logarithmus der Wahrscheinlichkeit dieses Zustandes, und 2. dass die Wahrscheinlichkeit eines jeden Zustandes proportional ist der Anzahl der ihm entsprechenden Komplexionen, oder mit anderen Worten, dass irgend eine bestimmte Komplexion ebenso wahrscheinlich ist als irgend eine andere bestimmte Komplexion. Der 1. Satz kommt, auf Strahlungsvorgänge angewandt, wohl nur auf eine Definition der Wahrscheinlichkeit eines Zustandes hinaus, insofern man bei der Energiestrahlung von vornherein gar kein anderes Mittel besitzt, um die Wahrscheinlichkeit zu definieren, als eben die Bestimmung der Entropie. Hier liegt einer der Unterschiede gegenüber den entsprechenden Verhältnissen in der kinetischen Gastheorie. Der 2. Satz bildet den Kernpunkt der ganzen vorliegenden Theorie; sein Beweis kann in letzter Linie nur durch die Erfahrung geliefert werden.\n\nEr lässt sich auch als eine nähere Präzisierung der von mir eingeführten Hypothese der natürlichen Strahlung auffassen, die ich bisher nur in der Form ausgesprochen habe, dass die Energie der Strahlung sich vollkommen „unregelmäßig“ auf die einzelnen in ihr enthaltenen Partialschwingungen verteilt.[^1] Ich beabsichtige, die hier nur angedeuteten Überlegungen nächstens an anderer Stelle ausführlich mit allen Rechnungen mitzuteilen, zugleich mit einem Rückblick auf die bisherige Entwicklung der Theorie.\n\n[^1]: M. Planck, Ann. d. Phys. 1, p. 73. 1900. Wenn Hr. W. Wien in seinem Pariser Rapport (II, p. 38, 1900) über die theoretischen Gesetze der Strahlung meine Theorie der irreversiblen Strahlungsvorgänge deshalb nicht befriedigend findet, weil sie nicht den Nachweis erbringe, dass die Hypothese der natürlichen Strahlung die einzige ist, welche zur Irreversibilität führt, so verlangt er nach meiner Meinung von dieser Hypothese doch wohl etwas zu viel.",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Frakturschrift in Fließtext",
+        "Fußnoten korrekt erkannt",
+        "Formelzeichen wie $\\varepsilon$, $\\nu$ korrekt erkannt"
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "244",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "244 Verhandlungen der Deutschen Physikal. Gesellschaft. [Nr. 17.",
+          "markdown": "244 Verhandlungen der Deutschen Physikalischen Gesellschaft. [Nr. 17.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn Hr. W. WIEN in seinem Pariser Rapport (II, p. 38, 1900) über die theoretischen Gesetze der Strahlung meine Theorie der irreversibeln Strahlungsvorgänge deshalb nicht befriedigend findet, weil sie nicht den Nachweis erbringe, dass die Hypothese der natürlichen Strahlung die einzige ist, welche zur Irreversibilität führt, so verlangt er nach meiner Meinung von dieser Hypothese doch wohl etwas zu viel. Denn wenn man die Hypothese beweisen könnte, so wäre es eben keine Hypothese mehr, und man brauchte eine solche überhaupt gar nicht erst aufzustellen. Dann würde man aber auch nichts wesentlich Neues aus ihr ableiten können. Von demselben Standpunkt aus müsste doch wohl auch die kinetische Gastheorie als unbefriedigend erklärt werden, weil der Nachweis noch nicht erbracht ist, dass die atomistische Hypothese die einzige ist, welche die Irreversibilität erklärt, und ein entsprechender Vorwurf dürfte mehr oder minder alle nur auf inductivem Wege gewonnenen Theorien treffen.",
+          "markdown": "Wenn Hr. W. Wien in seinem Pariser Rapport (II, p. 38, 1900) über die theoretischen Gesetze der Strahlung meine Theorie der irreversiblen Strahlungsvorgänge deshalb nicht befriedigend findet, weil sie nicht den Nachweis erbringe, dass die Hypothese der natürlichen Strahlung die einzige ist, welche zur Irreversibilität führt, so verlangt er nach meiner Meinung von dieser Hypothese doch wohl etwas zu viel. Denn wenn man die Hypothese beweisen könnte, so wäre es eben keine Hypothese mehr, und man brauchte eine solche überhaupt gar nicht erst aufzustellen. Dann würde man aber auch nichts wesentlich Neues aus ihr ableiten können. Von demselben Standpunkt aus müsste doch wohl auch die kinetische Gastheorie als unbefriedigend erklärt werden, weil der Nachweis noch nicht erbracht ist, dass die atomistische Hypothese die einzige ist, welche die Irreversibilität erklärt, und ein entsprechender Vorwurf dürfte mehr oder minder alle nur auf induktivem Wege gewonnenen Theorien treffen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Zum Schluss möchte ich noch auf eine wichtige Consequenz der entwickelten Theorie hinweisen, die zugleich eine weitere Prüfung ihrer Zulässigkeit ermöglicht. Hr. BOLTZMANN¹⁾ hat gezeigt, dass die Entropie eines im Gleichgewicht befindlichen einatomigen Gases gleich ist ω R log ℜ₀, wobei ℜ₀ die Anzahl der bei der wahrscheinlichsten Geschwindigkeitsverteilung möglichen Complexionen (die „Permutabilität“), R die bekannte Gasconstante (8,31.10⁷ für O = 16), ω das für alle Substanzen gleiche Verhältnis der Masse eines wirklichen Molecules zur Masse eines g-Molecules darstellt. Sind nun in dem Gase auch strahlende Resonatoren vorhanden, so ist nach der hier entwickelten Theorie die Entropie des ganzen Systems proportional dem Logarithmus der Zahl aller möglicher Complexionen, Geschwindigkeiten und Strahlung zusammengenommen. Da aber nach der elektromagnetischen Theorie der Strahlung die Geschwindigkeiten der Atome vollkommen unabhängig sind von der Verteilung der strahlenden Energie, so ist die Gesamtzahl der Complexionen einfach gleich dem Producte der auf die Geschwindigkeiten und der auf die Strahlung bezüglichen Zahlen, mithin die Gesamtentropie, wenn f' einen Proportionalitätsfactor bedeutet:",
+          "markdown": "Zum Schluss möchte ich noch auf eine wichtige Konsequenz der entwickelten Theorie hinweisen, die zugleich eine weitere Prüfung ihrer Zulässigkeit ermöglicht. Hr. Boltzmann[^1] hat gezeigt, dass die Entropie eines im Gleichgewicht befindlichen einatomigen Gases gleich ist $\\omega R \\log \\Re_0$ ist, wobei $\\Re_0$ die Anzahl der bei der wahrscheinlichsten Geschwindigkeitsverteilung möglichen Komplexionen (die „Permutabilität“), $R$ die bekannte Gaskonstante ($8{,}31\\cdot 10^7$ für O = 16), $\\omega$ das für alle Substanzen gleiche Verhältnis der Masse eines wirklichen Moleküls zur Masse eines g-Moleküls darstellt. Sind nun in dem Gase auch strahlende Resonatoren vorhanden, so ist nach der hier entwickelten Theorie die Entropie des ganzen Systems proportional dem Logarithmus der Zahl aller möglichen Komplexionen, Geschwindigkeiten und Strahlung zusammengenommen. Da aber nach der elektromagnetischen Theorie der Strahlung die Geschwindigkeiten der Atome vollkommen unabhängig sind von der Verteilung der strahlenden Energie, so ist die Gesamtzahl der Komplexionen einfach gleich dem Produkt der auf die Geschwindigkeiten und der auf die Strahlung bezüglichen Zahlen, mithin die Gesamtentropie, wenn $f'$ einen Proportionalitätsfaktor bedeutet:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": "Formelzeichen wie $\\omega$, $\\Re_0$ benötigt manuelle Überprüfung (Frakturschrift)"
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$f' \\log (\\mathfrak{P}_0 \\Re_0) = f' \\log \\mathfrak{P}_0 + f' \\log \\Re_0.$$",
+          "markdown": "$$f' \\log (\\mathfrak{P}_0 \\Re_0) = f' \\log \\mathfrak{P}_0 + f' \\log \\Re_0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.6,
+            0.7,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und speziellen Symbolen (z. B. $\\mathfrak{P}_0$)"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Der erste Summand ist die kinetische, der zweite die Strahlungsentropie. Durch Vergleichung mit den vorigen Ausdrücken erhält man hieraus:",
+          "markdown": "Der erste Summand ist die kinetische, der zweite die Strahlungsentropie. Durch Vergleichung mit den vorigen Ausdrücken erhält man hieraus:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$f = \\omega R = k,$$",
+          "markdown": "$$f = \\omega R = k,$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.5,
+            0.5,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und speziellen Symbolen (z. B. $\\omega$)"
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "oder",
+          "markdown": "oder",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.45,
+            0.45,
+            0.55,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\omega = \\frac{k}{R} = 1,62 \\cdot 10^{-24},$$",
+          "markdown": "$$\\omega = \\frac{k}{R} = 1{,}62 \\cdot 10^{-24},$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.4,
+            0.7,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und speziellen Symbolen (z. B. $\\omega$)"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "d. h. ein wirkliches Molecul ist das 1,62.10⁻²⁴ fache eines g-Molecules, oder: ein Wasserstoffatom wiegt 1,64.10⁻²⁴ g, da H = 1,01, oder: auf ein g-Molecul eines jeden Stoffes gehen 1/ω = 6,175.10²³ wirkliche Molecule. Hr. O. E. MEYER²⁾ berechnet diese Zahl auf 640.10²¹, also nahe übereinstimmend.",
+          "markdown": "d. h. ein wirkliches Molekül ist das $1{,}62\\cdot 10^{-24}$-fache eines g-Moleküls, oder: ein Wasserstoffatom wiegt $1{,}64\\cdot 10^{-24}$ g, da H = 1,01, oder: auf ein g-Molekül eines jeden Stoffes gehen $1/\\omega = 6{,}175\\cdot 10^{23}$ wirkliche Moleküle. Hr. O. E. Meyer[^2] berechnet diese Zahl auf $640\\cdot 10^{21}$, also nahe übereinstimmend.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ L. BOLTZMANN, Sitzungsber. d. k. Akad. d. Wissensch. zu Wien (II) 76. p. 428. 1877.",
+          "markdown": "[^1]: L. Boltzmann, Sitzungsber. d. k. Akad. d. Wissensch. zu Wien (II) 76, p. 428. 1877.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²⁾ Hr. O. E. MEYER, Die kinetische Theorie der Gase, 2. Aufl. p. 337. 1899.",
+          "markdown": "[^2]: Hr. O. E. Meyer, Die kinetische Theorie der Gase, 2. Aufl., p. 337. 1899.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "244 Verhandlungen der Deutschen Physikalischen Gesellschaft. [Nr. 17.\n\nWenn Hr. W. Wien in seinem Pariser Rapport (II, p. 38, 1900) über die theoretischen Gesetze der Strahlung meine Theorie der irreversiblen Strahlungsvorgänge deshalb nicht befriedigend findet, weil sie nicht den Nachweis erbringe, dass die Hypothese der natürlichen Strahlung die einzige ist, welche zur Irreversibilität führt, so verlangt er nach meiner Meinung von dieser Hypothese doch wohl etwas zu viel. Denn wenn man die Hypothese beweisen könnte, so wäre es eben keine Hypothese mehr, und man brauchte eine solche überhaupt gar nicht erst aufzustellen. Dann würde man aber auch nichts wesentlich Neues aus ihr ableiten können. Von demselben Standpunkt aus müsste doch wohl auch die kinetische Gastheorie als unbefriedigend erklärt werden, weil der Nachweis noch nicht erbracht ist, dass die atomistische Hypothese die einzige ist, welche die Irreversibilität erklärt, und ein entsprechender Vorwurf dürfte mehr oder minder alle nur auf induktivem Wege gewonnenen Theorien treffen.\n\nZum Schluss möchte ich noch auf eine wichtige Konsequenz der entwickelten Theorie hinweisen, die zugleich eine weitere Prüfung ihrer Zulässigkeit ermöglicht. Hr. Boltzmann[^1] hat gezeigt, dass die Entropie eines im Gleichgewicht befindlichen einatomigen Gases gleich ist $\\omega R \\log \\Re_0$ ist, wobei $\\Re_0$ die Anzahl der bei der wahrscheinlichsten Geschwindigkeitsverteilung möglichen Komplexionen (die „Permutabilität“), $R$ die bekannte Gaskonstante ($8{,}31\\cdot 10^7$ für O = 16), $\\omega$ das für alle Substanzen gleiche Verhältnis der Masse eines wirklichen Moleküls zur Masse eines g-Moleküls darstellt. Sind nun in dem Gase auch strahlende Resonatoren vorhanden, so ist nach der hier entwickelten Theorie die Entropie des ganzen Systems proportional dem Logarithmus der Zahl aller möglichen Komplexionen, Geschwindigkeiten und Strahlung zusammengenommen. Da aber nach der elektromagnetischen Theorie der Strahlung die Geschwindigkeiten der Atome vollkommen unabhängig sind von der Verteilung der strahlenden Energie, so ist die Gesamtzahl der Komplexionen einfach gleich dem Produkt der auf die Geschwindigkeiten und der auf die Strahlung bezüglichen Zahlen, mithin die Gesamtentropie, wenn $f'$ einen Proportionalitätsfaktor bedeutet:\n\n$$f' \\log (\\mathfrak{P}_0 \\Re_0) = f' \\log \\mathfrak{P}_0 + f' \\log \\Re_0.$$ \n\nDer erste Summand ist die kinetische, der zweite die Strahlungsentropie. Durch Vergleichung mit den vorigen Ausdrücken erhält man hieraus:\n\n$$f = \\omega R = k,$$\n\noder\n\n$$\\omega = \\frac{k}{R} = 1{,}62 \\cdot 10^{-24},$$\n\nd. h. ein wirkliches Molekül ist das $1{,}62\\cdot 10^{-24}$-fache eines g-Moleküls, oder: ein Wasserstoffatom wiegt $1{,}64\\cdot 10^{-24}$ g, da H = 1,01, oder: auf ein g-Molekül eines jeden Stoffes gehen $1/\\omega = 6{,}175\\cdot 10^{23}$ wirkliche Moleküle. Hr. O. E. Meyer[^2] berechnet diese Zahl auf $640\\cdot 10^{21}$, also nahe übereinstimmend.\n\n[^1]: L. Boltzmann, Sitzungsber. d. k. Akad. d. Wissensch. zu Wien (II) 76, p. 428. 1877.\n\n[^2]: Hr. O. E. Meyer, Die kinetische Theorie der Gase, 2. Aufl., p. 337. 1899.",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Frakturschrift in Fließtext",
+        "Formeln mit Frakturschrift (z. B. $\\omega$, $\\mathfrak{P}_0$) benötigen manuelle Überprüfung",
+        "Fußnoten korrekt erkannt"
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": "245",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Nr. 17.]",
+          "markdown": "Nr. 17.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die LOSCHMIDT'sche Constante $\\mathfrak{N}$, d. h. die Anzahl Gasmolecule in 1 ccm bei $0^\\circ$ C. und 1 Atm. Druck ist:",
+          "markdown": "Die Loschmidt’sche Konstante $\\mathfrak{N}$, d. h. die Anzahl Gasmoleküle in 1 cm³ bei $0^\\circ$ C. und 1 Atm. Druck ist:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Formelzeichen wie $\\mathfrak{N}$ benötigt manuelle Überprüfung (Frakturschrift)"
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathfrak{N} = \\frac{1018200}{R \\cdot 273 \\cdot \\omega} = 2,76 \\cdot 10^{19}.$$",
+          "markdown": "$$\\mathfrak{N} = \\frac{1018200}{R \\cdot 273 \\cdot \\omega} = 2{,}76 \\cdot 10^{19}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.85,
+            0.8,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und speziellen Symbolen (z. B. $\\mathfrak{N}$)"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hr. DRUDE$^{1)}$ findet $\\mathfrak{N} = 2,1 \\cdot 10^{19}$.",
+          "markdown": "Hr. Drude[^1] findet $\\mathfrak{N} = 2{,}1 \\cdot 10^{19}$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Formelzeichen wie $\\mathfrak{N}$ benötigt manuelle Überprüfung (Frakturschrift)"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die BOLTZMANN-DRUDE'sche Constante $\\alpha$, d. h. die mittlere lebendige Kraft eines Atomes bei der absoluten Temperatur 1 ist:",
+          "markdown": "Die Boltzmann-Drude’sche Konstante $\\alpha$, d. h. die mittlere lebendige Kraft eines Atoms bei der absoluten Temperatur 1 ist:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Formelzeichen wie $\\alpha$ benötigt manuelle Überprüfung (Frakturschrift)"
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\alpha = \\frac{3}{2} \\omega R = \\frac{3}{2} k = 2,02 \\cdot 10^{-16}.$$",
+          "markdown": "$$\\alpha = \\frac{3}{2} \\omega R = \\frac{3}{2} k = 2{,}02 \\cdot 10^{-16}.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/boltzmann_drude_constant.md",
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.7,
+            0.8,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und speziellen Symbolen (z. B. $\\alpha$)"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hr. DRUDE$^{2)}$ findet $\\alpha = 2,65 \\cdot 10^{-16}$.",
+          "markdown": "Hr. Drude[^2] findet $\\alpha = 2{,}65 \\cdot 10^{-16}$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Formelzeichen wie $\\alpha$ benötigt manuelle Überprüfung (Frakturschrift)"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das Elementarquantum der Elektrizität $e$, d. h. die elektrische Ladung eines positiven einwertigen Ions oder Elektrons ist, wenn $\\varepsilon$ die bekannte Ladung eines einwertigen g-Ions bedeutet:",
+          "markdown": "Das Elementarquantum der Elektrizität $e$, d. h. die elektrische Ladung eines positiven einwertigen Ions oder Elektrons ist, wenn $\\varepsilon$ die bekannte Ladung eines einwertigen g-Ions bedeutet:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$e = \\varepsilon \\omega = 4,69 \\cdot 10^{-10} \\text{ elektrostatisch}.$$",
+          "markdown": "$$e = \\varepsilon \\omega = 4{,}69 \\cdot 10^{-10} \\text{ elektrostatisch}.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/elementary_charge.md",
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.55,
+            0.8,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hr. F. RICHARZ$^{3)}$ findet $1,29 \\cdot 10^{-10}$, Hr. J. J. THOMSON$^{4)}$ neuerdings $6,5 \\cdot 10^{-10}$.",
+          "markdown": "Hr. F. Richarz[^3] findet $1{,}29 \\cdot 10^{-10}$, Hr. J. J. Thomson[^4] neuerdings $6{,}5 \\cdot 10^{-10}$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Alle diese Beziehungen beanspruchen, wenn die Theorie überhaupt richtig ist, nicht annähernde, sondern absolute Gültigkeit. Daher fällt die Genauigkeit der berechneten Zahlen wesentlich mit derjenigen der relativ unsichersten, der Strahlungsconstanten $k$, zusammen, und übertrifft somit bei weitem alle bisherigen Bestimmungen dieser Grössen. Ihre Prüfung durch directere Methoden wird eine ebenso wichtige wie notwendige Aufgabe der weiteren Forschung sein.",
+          "markdown": "Alle diese Beziehungen beanspruchen, wenn die Theorie überhaupt richtig ist, nicht annähernde, sondern absolute Gültigkeit. Daher fällt die Genauigkeit der berechneten Zahlen wesentlich mit derjenigen der relativ unsichersten, der Strahlungsconstanten $k$, zusammen, und übertrifft somit bei weitem alle bisherigen Bestimmungen dieser Größen. Ihre Prüfung durch direktere Methoden wird eine ebenso wichtige wie notwendige Aufgabe der weiteren Forschung sein.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) P. DRUDE, Ann. d. Phys. 1. p. 578. 1900.",
+          "markdown": "[^1]: P. Drude, Ann. d. Phys. 1, p. 578. 1900.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²) l. c.",
+          "markdown": "[^2]: l. c.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "³) F. RICHARZ, Wied. Ann. 52. p. 397. 1894.",
+          "markdown": "[^3]: F. Richarz, Wied. Ann. 52, p. 397. 1894.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "⁴) J. J. THOMSON, Phil. Mag. (5) 46. p. 528. 1898.",
+          "markdown": "[^4]: J. J. Thomson, Phil. Mag. (5) 46, p. 528. 1898.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Nr. 17.\n\nDie Loschmidt’sche Konstante $\\mathfrak{N}$, d. h. die Anzahl Gasmoleküle in 1 cm³ bei $0^\\circ$ C. und 1 Atm. Druck ist:\n\n$$\\mathfrak{N} = \\frac{1018200}{R \\cdot 273 \\cdot \\omega} = 2{,}76 \\cdot 10^{19}.$$ \n\nHr. Drude[^1] findet $\\mathfrak{N} = 2{,}1 \\cdot 10^{19}$.\n\nDie Boltzmann-Drude’sche Konstante $\\alpha$, d. h. die mittlere lebendige Kraft eines Atoms bei der absoluten Temperatur 1 ist:\n\n$$\\alpha = \\frac{3}{2} \\omega R = \\frac{3}{2} k = 2{,}02 \\cdot 10^{-16}.$$ \n\nHr. Drude[^2] findet $\\alpha = 2{,}65 \\cdot 10^{-16}$.\n\nDas Elementarquantum der Elektrizität $e$, d. h. die elektrische Ladung eines positiven einwertigen Ions oder Elektrons ist, wenn $\\varepsilon$ die bekannte Ladung eines einwertigen g-Ions bedeutet:\n\n$$e = \\varepsilon \\omega = 4{,}69 \\cdot 10^{-10} \\text{ elektrostatisch}.$$ \n\nHr. F. Richarz[^3] findet $1{,}29 \\cdot 10^{-10}$, Hr. J. J. Thomson[^4] neuerdings $6{,}5 \\cdot 10^{-10}$.\n\nAlle diese Beziehungen beanspruchen, wenn die Theorie überhaupt richtig ist, nicht annähernde, sondern absolute Gültigkeit. Daher fällt die Genauigkeit der berechneten Zahlen wesentlich mit derjenigen der relativ unsichersten, der Strahlungsconstanten $k$, zusammen, und übertrifft somit bei weitem alle bisherigen Bestimmungen dieser Größen. Ihre Prüfung durch direktere Methoden wird eine ebenso wichtige wie notwendige Aufgabe der weiteren Forschung sein.\n\n[^1]: P. Drude, Ann. d. Phys. 1, p. 578. 1900.\n\n[^2]: l. c.\n\n[^3]: F. Richarz, Wied. Ann. 52, p. 397. 1894.\n\n[^4]: J. J. Thomson, Phil. Mag. (5) 46, p. 528. 1898.",
+      "word_count": 250,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Frakturschrift in Fließtext",
+        "Formeln mit Frakturschrift (z. B. $\\mathfrak{N}$, $\\alpha$) benötigen manuelle Überprüfung",
+        "Fußnoten korrekt erkannt"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "table_p004_01",
+      "asset_type": "table",
+      "pdf_page_number": 4,
+      "filename": "tables/table_p004_01.md",
+      "caption_original": null,
+      "bounding_box": [
+        0.1,
+        0.65,
+        0.9,
+        0.75
+      ],
+      "crop_quality": "good",
+      "crop_notes": "Tabelle mit Resonator-Symbolik korrekt erkannt"
+    },
+    {
+      "asset_id": "planck_radiation_law",
+      "asset_type": "equation_image",
+      "pdf_page_number": 6,
+      "filename": "equations/planck_radiation_law.png",
+      "caption_original": null,
+      "bounding_box": [
+        0.1,
+        0.8,
+        0.9,
+        0.85
+      ],
+      "crop_quality": "good",
+      "crop_notes": "Plancksche Strahlungsformel als zentrales Ergebnis der Arbeit"
+    },
+    {
+      "asset_id": "boltzmann_drude_constant",
+      "asset_type": "equation_image",
+      "pdf_page_number": 9,
+      "filename": "equations/boltzmann_drude_constant.png",
+      "caption_original": null,
+      "bounding_box": [
+        0.2,
+        0.7,
+        0.8,
+        0.75
+      ],
+      "crop_quality": "good",
+      "crop_notes": "Boltzmann-Drude-Konstante als Verbindung zwischen Strahlungs- und Gastheorie"
+    },
+    {
+      "asset_id": "elementary_charge",
+      "asset_type": "equation_image",
+      "pdf_page_number": 9,
+      "filename": "equations/elementary_charge.png",
+      "caption_original": null,
+      "bounding_box": [
+        0.2,
+        0.55,
+        0.8,
+        0.6
+      ],
+      "crop_quality": "good",
+      "crop_notes": "Elementarquantum der Elektrizität als weitere physikalische Konstante"
+    }
+  ],
+  "document_statistics": {
+    "pdf_page_count": 9,
+    "ocr_page_count": 9,
+    "total_word_count": 2410,
+    "figure_count": 0,
+    "table_count": 1,
+    "equation_block_count": 12,
+    "pages_requiring_review": [
+      3,
+      8,
+      9
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "Alle Seiten wurden erfolgreich OCR-verarbeitet",
+      "Formeln mit Frakturschrift wurden erkannt, benötigen aber teilweise manuelle Überprüfung",
+      "Tabellen und Fußnoten korrekt erkannt",
+      "Keine fehlenden Seiten oder Blöcke festgestellt"
+    ]
+  }
+}

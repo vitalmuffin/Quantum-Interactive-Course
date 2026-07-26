@@ -1,0 +1,146 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 173,
+      "topLeftY": 41,
+      "bottomRightX": 436,
+      "bottomRightY": 62,
+      "content": "Quantisierung als Eigenwertproblem",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 517,
+      "topLeftY": 41,
+      "bottomRightX": 550,
+      "bottomRightY": 59,
+      "content": "119",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 77,
+      "bottomRightX": 551,
+      "bottomRightY": 138,
+      "content": "wenn es sich um das Dipolmoment in der $y$-Richtung handelt. Sodann hat man über *alle* Konfigurationskoordinaten zu integrieren.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 138,
+      "bottomRightX": 487,
+      "bottomRightY": 158,
+      "content": "Führen wir das aus. Setzen wir zur Abkürzung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 173,
+      "bottomRightX": 442,
+      "bottomRightY": 205,
+      "content": "$$(19) \\quad b_{kn} = \\int M_y(x) u_k(x) u_n(x) \\varrho(x) \\, dx \\ .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 217,
+      "bottomRightX": 551,
+      "bottomRightY": 279,
+      "content": "Verdeutlichen wir ferner die Definition der $a_{kn}'$ nach (15), indem wir uns erinnern, daß, wenn der einfallende elektrische Lichtvektor durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 284,
+      "bottomRightX": 376,
+      "bottomRightY": 306,
+      "content": "$$(20) \\quad \\mathfrak{E}_z = F \\cos 2\\pi \\nu t$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 317,
+      "bottomRightX": 355,
+      "bottomRightY": 338,
+      "content": "gegeben ist, $A(x)$ die Bedeutung hat",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 349,
+      "bottomRightX": 432,
+      "bottomRightY": 397,
+      "content": "$$(21) \\quad \\begin{cases} A(x) = -F \\cdot M_z(x) \\ , \\\\ \\text{wobei } M_z(x) = \\sum e_i z_i \\ . \\end{cases}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 406,
+      "bottomRightX": 330,
+      "bottomRightY": 428,
+      "content": "Setzt man dann, analog mit (19),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 442,
+      "bottomRightX": 425,
+      "bottomRightY": 475,
+      "content": "$$(22) \\quad a_{kn} = \\int M_z(x) u_k(x) u_n(x) \\varrho(x) \\, dx \\ ,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 486,
+      "bottomRightX": 551,
+      "bottomRightY": 528,
+      "content": "so ist $a_{kn}' = -F a_{kn}$ und man findet durch Ausführung der geplanten Integration:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 532,
+      "bottomRightX": 501,
+      "bottomRightY": 622,
+      "content": "$$(23) \\quad \\begin{cases} \\int M_y \\psi \\bar{\\psi} \\varrho \\, dx = a_{kk} \\\\ \\qquad + 2F \\cos 2\\pi \\nu t \\sum_{n=1}^{\\infty} \\frac{(E_n - E_k) a_{kn} b_{kn}}{(E_k - E_n)^2 - h^2 \\nu^2} \\end{cases}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 630,
+      "bottomRightX": 552,
+      "bottomRightY": 672,
+      "content": "für das resultierende elektrische Moment, dem die Sekundärstrahlung zuzuschreiben ist, zu der die einfallende Welle (20) Anlaß gibt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 675,
+      "bottomRightX": 552,
+      "bottomRightY": 881,
+      "content": "Für die Ausstrahlung kommt es natürlich nur auf den zweiten, zeitlich variablen Teil an, während der erste das zeitlich konstante Dipolmoment darstellt, das mit der ursprünglich bestehenden freien Schwingung eventuell verknüpft ist. Dieser variable Teil sieht ziemlich vernünftig aus und dürfte allen Anforderungen entsprechen, die man an eine „Dispersionsformel“ zu stellen gewohnt ist. Man beachte vor allem das Auftreten auch derjenigen, sogenannten „negativen“ Glieder, welche — in der üblichen Ausdrucksweise — der Übergangsmöglichkeit auf ein tieferes Niveau ($E_n < E_k$) entsprechen und auf welche",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

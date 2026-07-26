@@ -1,0 +1,83 @@
+{
+  "index": 21,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 139,
+      "topLeftY": 100,
+      "bottomRightX": 639,
+      "bottomRightY": 114,
+      "content": "QUANTUM THEORY IN TERMS OF 'HIDDEN' VARIABLES. II",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 667,
+      "topLeftY": 99,
+      "bottomRightX": 687,
+      "bottomRightY": 113,
+      "content": "187",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 127,
+      "bottomRightX": 382,
+      "bottomRightY": 791,
+      "content": "no difficulties. In a relativistic theory, however, the problem is more complicated. We first note that as long as the three special assumptions mentioned in Sec. 2 are valid, our interpretation can give rise to no inconsistencies with relativity, because it leads to precisely the same predictions for all physical processes as are obtained from the usual interpretation (which is known to be consistent with relativity). The reason why no contradictions with relativity arise in our interpretation despite the instantaneous transmission of momentum between particles is that no signal can be carried in this way. For such a transmission of momentum could constitute a signal only if there were some practical means of determining precisely what the second particle would have done if the first particle had not been observed; and as we have seen, this information cannot be obtained as long as the present form of the quantum theory is valid. To obtain such information, we require conditions (such as might perhaps exist in connection with distances of the order of $10^{-12}$ cm) under which the usual form of the quantum theory breaks down (see Sec. 6), so that the positions and momenta of the particles can be determined simultaneously and precisely. If such conditions should exist, then there are two ways in which contradictions might be avoided. First, the more general physical laws appropriate to the new domains may be such that they do not permit the transmission of controllable aspects of interparticle forces faster than light. In this way, Lorentz covariance could be preserved. Secondly, it is possible that the application of the usual criteria of Lorentz covariance may not be appropriate when the usual interpretation of quantum theory breaks down. Even in connection with gravitational theory, general relativity indicates that the limitation of speeds to the velocity of light does not necessarily hold universally. If we adopt the spirit of general relativity, which is to seek to make the properties of space dependent on the properties of the matter that moves in this space, then it is quite conceivable that the metric, and therefore the limiting velocity, may depend on the $\\psi$-field as well as on the gravitational tensor $g^{\\mu\\nu}$. In the classical limit, the dependence on the $\\psi$-field could be neglected, and we would get the usual form of covariance. In any case, it can hardly be said that we have a solid experimental basis for requiring the same form of covariance at very short distances that we require at ordinary distances.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 792,
+      "bottomRightX": 382,
+      "bottomRightY": 940,
+      "content": "To sum up, we may assert that wherever the present form of the quantum theory is correct, our interpretation cannot lead to inconsistencies with relativity. In the domains where the present theory breaks down, there are several possible ways in which our interpretation could continue to treat the problem of covariance consistently. The attempt to maintain a consistent treatment of covariance in this problem might perhaps serve as an important heuristic principle in the search for new physical laws.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 127,
+      "bottomRightX": 688,
+      "bottomRightY": 164,
+      "content": "## 9. ON VON NEUMANN'S DEMONSTRATION THAT QUANTUM THEORY IS INCONSISTENT WITH HIDDEN VARIABLES",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 170,
+      "bottomRightX": 688,
+      "bottomRightY": 366,
+      "content": "Von Neumann$^6$ has studied the following question: 'If the present mathematical formulation of the quantum theory and its usual probability interpretation are assumed to lead to absolutely correct results for every experiment that can ever be done, can quantum-mechanical probabilities be understood in terms of any conceivable distribution over hidden parameters?' Von Neumann answers this question in the negative. His conclusions are subject, however, to the criticism that in his proof he has implicitly restricted himself to an excessively narrow class of hidden parameters and in this way has excluded from consideration precisely those types of hidden parameters which have been proposed in this paper.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 366,
+      "bottomRightX": 688,
+      "bottomRightY": 911,
+      "content": "To demonstrate the above statements, we summarize Von Neumann's proof briefly. This proof (which begins on p. 167 of his book), shows that the usual quantum-mechanical rules of calculating probabilities imply that there can be no 'dispersionless states,' i.e., states in which the values of all possible observables are simultaneously determined by physical parameters associated with the observed system. For example, if we consider two noncommuting observables, $p$ and $q$, then Von Neumann shows that it would be inconsistent with the usual rules of calculating quantum-mechanical probabilities to assume that there were in the observed system a set of hidden parameters which simultaneously determined the results of measurements of position and momentum 'observables.' With this conclusion, we are in agreement. However, in our suggested new interpretation of the theory, the so-called 'observables' are, as we have seen in Sec. 5, not properties belonging to the observed system alone, but instead potentialities whose precise development depends just as much on the observing apparatus as on the observed system. In fact, when we measure the momentum 'observable,' the final result is determined by hidden parameters in the momentum-measuring device as well as by hidden parameters in the observed electron. Similarly, when we measure the position 'observable,' the final result is determined in part by hidden parameters in the position-measuring device. Thus, the statistical distribution of 'hidden' parameters to be used in calculating averages in a momentum measurement is different from the distribution to be used in calculating averages in a position measurement. Von Neumann's proof (see p. 171 in his book) that no single distribution of hidden parameters could be consistent with the results of the quantum theory is therefore irrelevant here, since in our interpretation of measurements of the type that can now be carried out, the distribution of hidden parameters varies in accordance with the different mutually exclusive experimental",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 392,
+      "topLeftY": 918,
+      "bottomRightX": 687,
+      "bottomRightY": 941,
+      "content": "\\(^{6}\\) J. von Neumann, Mathematische Grundlagen der Quantenmechanik (Verlag. Julius Springer, Berlin, 1932).",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

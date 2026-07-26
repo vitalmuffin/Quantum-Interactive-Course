@@ -1,0 +1,74 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 180,
+      "topLeftY": 165,
+      "bottomRightX": 449,
+      "bottomRightY": 182,
+      "content": "P.A.M. Dirac, Proc. Roy. Soc., A114, 243",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 587,
+      "topLeftY": 165,
+      "bottomRightX": 626,
+      "bottomRightY": 181,
+      "content": "1927",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 196,
+      "topLeftY": 285,
+      "bottomRightX": 589,
+      "bottomRightY": 323,
+      "content": "# The Quantum Theory of the Emission and Absorption of Radiation.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 372,
+      "bottomRightX": 626,
+      "bottomRightY": 424,
+      "content": "P. A. M. Dirac, St. John's College,  \nCambridge, and Institute for Theoretical Physics, Copenhagen.  \n(Communicated by N. Bohr, For. Mem. R.S. – Received February 2, 1927.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 481,
+      "bottomRightX": 458,
+      "bottomRightY": 502,
+      "content": "## § 1. Introduction and Summary.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 516,
+      "bottomRightX": 627,
+      "bottomRightY": 865,
+      "content": "The new quantum theory, based on the assumption that the dynamical variables do not obey the commutative law of multiplication, has by now been developed sufficiently to form a fairly complete theory of dynamics. One can treat mathematically the problem of any dynamical system composed of a number of particles with instantaneous forces acting between them, provided it is describable by a Hamiltonian function, and one can interpret the mathematics physically by a quite definite general method. On the other hand, hardly anything has been done up to the present on quantum electrodynamics. The questions of the correct treatment of a system in which the forces are propagated with the velocity of light instead of instantaneously, of the production of an electromagnetic field by a moving electron, and of the reaction of this field on the electron have not yet been touched. In addition, there is a serious difficulty in making the theory satisfy all the requirements of the restricted principle of relativity, since a Hamiltonian, function can no longer be used. This relativity question is, of course, connected with the previous ones, and it will be impossible to answer any one question completely without at the same time answering them all. However, it appears to be possible to build up a fairly satisfactory theory of the emission of radiation and of the reaction of the radiation field on the emitting system on the basis of a kinematics and dynamics which",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 386,
+      "topLeftY": 889,
+      "bottomRightX": 397,
+      "bottomRightY": 903,
+      "content": "1",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "index": 19,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 638
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 57,
+      "topLeftY": 33,
+      "bottomRightX": 82,
+      "bottomRightY": 54,
+      "content": "40",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 33,
+      "bottomRightX": 388,
+      "bottomRightY": 51,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 72,
+      "bottomRightX": 570,
+      "bottomRightY": 151,
+      "content": "bien différent, nous retrouvons un résultat analogue, car la vitesse du mobile n'est pas autre chose que la vitesse du déplacement de l'énergie.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 125,
+      "topLeftY": 169,
+      "bottomRightX": 503,
+      "bottomRightY": 191,
+      "content": "### III. — L'ONDE DE PHASE DANS L'ESPACE-TEMPS",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 209,
+      "bottomRightX": 574,
+      "bottomRightY": 288,
+      "content": "Minkowski a montré le premier qu'on obtenait une représentation géométrique simple des relations de l'espace et du temps introduites par Einstein en considérant une multipli-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 304,
+      "bottomRightX": 563,
+      "bottomRightY": 605,
+      "content": "![img-0.jpeg](img-0.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-0.jpeg"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 610,
+      "bottomRightX": 351,
+      "bottomRightY": 632,
+      "content": "Fig. 1.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 65,
+      "topLeftY": 653,
+      "bottomRightX": 581,
+      "bottomRightY": 886,
+      "content": "cité euclidienne à 4 dimensions dite Univers ou Espace-temps. Pour cela il prenait 3 axes de coordonnées rectangulaires d'espace et un quatrième axe normal aux 3 premiers sur lequel étaient portés les temps multipliés par $c\\sqrt{-1}$. On porte plus volontiers aujourd'hui sur le quatrième axe la quantité réelle $ct$, mais alors les plans passant par cet axe et normaux à l'espace ont une géométrie pseudo euclidienne hyperbolique dont l'invariant fondamental est $c^2 dt^2 - dx^2 - dy^2 - dz^2$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 67,
+      "topLeftY": 885,
+      "bottomRightX": 583,
+      "bottomRightY": 963,
+      "content": "Considérons donc l'espace-temps rapporté aux 4 axes rectangulaires de l'observateur dit « fixe ». Nous prendrons pour axe des $x$ la trajectoire rectiligne du mobile et nous",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

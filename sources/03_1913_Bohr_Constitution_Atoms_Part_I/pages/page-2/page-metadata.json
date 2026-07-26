@@ -1,0 +1,128 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 600
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 85,
+      "topLeftY": 91,
+      "bottomRightX": 513,
+      "bottomRightY": 258,
+      "content": "# THE\nLONDON, EDINBURGH, AND DUBLIN\nPHILOSOPHICAL MAGAZINE\nAND\nJOURNAL OF SCIENCE.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 216,
+      "topLeftY": 305,
+      "bottomRightX": 381,
+      "bottomRightY": 326,
+      "content": "[SIXTH SERIES.]",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 366,
+      "bottomRightX": 357,
+      "bottomRightY": 385,
+      "content": "JULY 1913.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 126,
+      "topLeftY": 425,
+      "bottomRightX": 472,
+      "bottomRightY": 464,
+      "content": "I. On the Constitution of Atoms and Molecules.\nBy N. BOHR, Dr. phil. Copenhagen*.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 254,
+      "topLeftY": 476,
+      "bottomRightX": 349,
+      "bottomRightY": 493,
+      "content": "Introduction.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 499,
+      "bottomRightX": 525,
+      "bottomRightY": 798,
+      "content": "IN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford† has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays‡.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 797,
+      "bottomRightX": 521,
+      "bottomRightY": 852,
+      "content": "In an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 860,
+      "bottomRightX": 430,
+      "bottomRightY": 877,
+      "content": "* Communicated by Prof. E. Rutherford, F.R.S.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 874,
+      "bottomRightX": 420,
+      "bottomRightY": 891,
+      "content": "† E. Rutherford, Phil. Mag. xxi. p. 669 (1911).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 888,
+      "bottomRightX": 469,
+      "bottomRightY": 906,
+      "content": "‡ See also Geiger and Marsden, Phil. Mag. April 1913.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 906,
+      "bottomRightX": 407,
+      "bottomRightY": 925,
+      "content": "Phil. Mag. S. 6. Vol. 26. No. 151. July 1913.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 468,
+      "topLeftY": 907,
+      "bottomRightX": 483,
+      "bottomRightY": 923,
+      "content": "B",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 288,
+      "bottomRightX": 12,
+      "bottomRightY": 724,
+      "content": "Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

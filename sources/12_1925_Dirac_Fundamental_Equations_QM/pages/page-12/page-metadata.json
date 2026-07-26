@@ -1,0 +1,137 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 106,
+    "height": 1015,
+    "width": 668
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 81,
+      "topLeftY": 97,
+      "bottomRightX": 112,
+      "bottomRightY": 113,
+      "content": "652",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 273,
+      "topLeftY": 93,
+      "bottomRightX": 393,
+      "bottomRightY": 113,
+      "content": "P. A. M. Dirac.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 130,
+      "bottomRightX": 587,
+      "bottomRightY": 211,
+      "content": "may, for instance, be $\\eta_r\\xi_r = -i/2\\pi \\cdot J_r$, or $\\frac{1}{2}(\\xi_r\\eta_r + \\eta_r\\xi_r) = -i/2\\pi \\cdot J_r$. A detailed investigation of any particular dynamical system is necessary in order to decide what it is. In the event of the last relation being true, we can introduce the set of canonical variables $\\xi_r'$, $\\eta_r'$ defined by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 188,
+      "topLeftY": 220,
+      "bottomRightX": 481,
+      "bottomRightY": 241,
+      "content": "$$\\xi_r' = (\\xi_r + i\\eta_r)/\\sqrt{2}, \\quad \\eta_r' = (i\\xi_r + \\eta_r)/\\sqrt{2},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 247,
+      "bottomRightX": 209,
+      "bottomRightY": 264,
+      "content": "and shall then have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 267,
+      "topLeftY": 263,
+      "bottomRightX": 393,
+      "bottomRightY": 281,
+      "content": "$$J_r = \\pi (\\xi_r'^2 + \\eta_r'^2).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 292,
+      "bottomRightX": 587,
+      "bottomRightY": 353,
+      "content": "This is the case that actually occurs for the harmonic oscillator. In general $J_r$ is not necessarily even a rational function of the $\\xi_r$ and $\\eta_r$, an example of this being the rigid rotator considered by Heisenberg.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 375,
+      "bottomRightX": 419,
+      "bottomRightY": 393,
+      "content": "### § 6. *The Stationary States.*",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 400,
+      "bottomRightX": 587,
+      "bottomRightY": 563,
+      "content": "A quantity $C$, that does not vary with the time, has all its $(nm)$ components zero, except those for which $n = m$. It thus becomes convenient to suppose each set of $n$'s to be associated with a definite state of the atom, as on Bohr's theory, so that each $C(nn)$ belongs to a certain state in precisely the same way in which *every* quantity occurring in the classical theory belongs to a certain configuration. The components of a varying quantum quantity are so interlocked, however, that it is impossible to associate the sum of certain of them with a given state.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 566,
+      "bottomRightX": 587,
+      "bottomRightY": 770,
+      "content": "A relation between quantum quantities reduces, when all the quantities are constants, to a relation between $C(nn)$'s belonging to a definite stationary state $n$. This relation will be the same as the classical theory relation, on the assumption that the classical laws hold for the description of the stationary states; in particular, the energy will be the same function of the $J$'s as on the classical theory. We have here a justification for Bohr's assumption of the mechanical nature of the stationary states. It should be noted though, that the variable quantities associated with a stationary state on Bohr's theory, the amplitudes and frequencies of orbital motion, have no physical meaning and are of no mathematical importance.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 772,
+      "bottomRightX": 585,
+      "bottomRightY": 811,
+      "content": "If we apply the fundamental equation (11) to the quantities $x$ and $H$ we get, with the help of (14),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 821,
+      "bottomRightX": 576,
+      "bottomRightY": 839,
+      "content": "$$x(nm)H(mm) - H(nn)x(nm) = ih/2\\pi \\cdot \\dot{x}(nm) = -h/2\\pi \\cdot \\omega(nm)x(nm),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 846,
+      "bottomRightX": 447,
+      "bottomRightY": 865,
+      "content": "or $$H(nn) - H(mm) = h/2\\pi \\cdot \\omega(nm).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 875,
+      "bottomRightX": 585,
+      "bottomRightY": 912,
+      "content": "This is just Bohr's relation connecting the frequencies with the energy differences.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

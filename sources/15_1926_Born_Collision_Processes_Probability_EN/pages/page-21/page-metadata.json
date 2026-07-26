@@ -1,0 +1,182 @@
+{
+  "index": 20,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 535,
+      "bottomRightY": 61,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 659,
+      "topLeftY": 46,
+      "bottomRightX": 675,
+      "bottomRightY": 60,
+      "content": "21",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 94,
+      "bottomRightX": 451,
+      "bottomRightY": 116,
+      "content": "$$h v_{10}^a < W^e < h v_{20}^a$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 138,
+      "bottomRightX": 675,
+      "bottomRightY": 179,
+      "content": "then $W_{0m}^e$ will become only positive for $m = 0$ and $m = 1$; one then has either elastic reflection with the profit $\\Phi_{00}$ or stimulated resonance with the profit $\\Phi_{01}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 180,
+      "bottomRightX": 316,
+      "bottomRightY": 198,
+      "content": "If $W^e$ increases further until:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 217,
+      "bottomRightX": 451,
+      "bottomRightY": 240,
+      "content": "$$h v_{20}^a < W^e < h v_{30}^a$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 259,
+      "bottomRightX": 675,
+      "bottomRightY": 314,
+      "content": "then there will be three cases: Elastic reflection with profit $\\Phi_{00}$, stimulation of the first quantum jump with $\\Phi_{01}$, stimulation of the second quantum jump with $\\Phi_{02}$. One proceeds further in the same way.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 315,
+      "bottomRightX": 675,
+      "bottomRightY": 354,
+      "content": "We now fix out attention on the fact that the atom is initially in the second quantum state ($n = 1$); one will then have $v_{10}^a > 0$ and $v_{1m}^a < 0$ for $m = 2, 3, \\ldots$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 357,
+      "bottomRightX": 226,
+      "bottomRightY": 373,
+      "content": "One then has:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 299,
+      "topLeftY": 376,
+      "bottomRightX": 517,
+      "bottomRightY": 446,
+      "content": "$$\\begin{array}{l} W_{10}^e = W^e + h v_{10}^a, \\\\ W_{11}^e = W^e, \\\\ W_{1m}^e = W^e - h v_{m1}^a, \\quad m = 2, 3, \\ldots \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 468,
+      "bottomRightX": 675,
+      "bottomRightY": 534,
+      "content": "Now, if $W^e < h v_{21}^a$ then $W_{1m}^e$ will be negative for $m = 2, 3, \\ldots$; therefore, there is only either a collision of the second kind with an energy increase for the electron by $h v_{10}^a$, with a profit of $\\Phi_{10}$, or elastic reflection with the profit $\\Phi_{11}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 534,
+      "bottomRightX": 206,
+      "bottomRightY": 549,
+      "content": "If one has:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 552,
+      "bottomRightX": 450,
+      "bottomRightY": 573,
+      "content": "$$h v_{21}^a < W^e < h v_{31}^a$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 595,
+      "bottomRightX": 675,
+      "bottomRightY": 630,
+      "content": "then the stimulation of the state $n = 2$ with the profit $\\Phi_{12}$ will enter into these processes. One proceeds further in the same way.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 631,
+      "bottomRightX": 675,
+      "bottomRightY": 665,
+      "content": "In the general case, if the atom is initially in the state $n$ then there will be only collisions of the second kind for:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 352,
+      "topLeftY": 668,
+      "bottomRightX": 437,
+      "bottomRightY": 689,
+      "content": "$$W^e < h v_{n+1,n}^a,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 710,
+      "bottomRightX": 675,
+      "bottomRightY": 799,
+      "content": "for which, the atom will drop into the states $0, 1, \\ldots, n - 1$ and give up the energy values $h v_{n0}^a, h v_{n1}^a, \\ldots, h v_{n,n+1}^a$, to the electron, with the profits $\\Phi_{n0}, \\Phi_{n1}, \\ldots, \\Phi_{n,n-1}$, and the elastic reflection $\\Phi_{nm}$. If $W^e$ increases over $h v_{n+1,n}^a$ then there will be stimulations with the profits $\\Phi_{n,n+1}, \\Phi_{n,n+2}, \\ldots, \\Phi_{n,m}$ when:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 321,
+      "topLeftY": 817,
+      "bottomRightX": 469,
+      "bottomRightY": 840,
+      "content": "$$h v_{n+1,n}^a < W^e < h v_{m+1,n}^a.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 860,
+      "bottomRightX": 675,
+      "bottomRightY": 896,
+      "content": "The next problem would be to discuss the formula (10), § 7 for the profit; thus, we would like to content ourselves with an entirely tentative, if not truly debatable, consideration.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

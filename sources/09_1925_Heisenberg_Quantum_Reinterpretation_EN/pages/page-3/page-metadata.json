@@ -1,0 +1,128 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 165,
+      "bottomRightX": 605,
+      "bottomRightY": 198,
+      "content": "that we can denote as quadrupole radiation. and at the next higher order we have terms of the form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 334,
+      "topLeftY": 198,
+      "bottomRightX": 605,
+      "bottomRightY": 224,
+      "content": "$$\\frac{e}{r c^4}(\\vec{v} \\times \\vec{v}^2) \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 229,
+      "bottomRightX": 599,
+      "bottomRightY": 245,
+      "content": "and in this way the approximation can be carried out at any desired order.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 245,
+      "bottomRightX": 606,
+      "bottomRightY": 314,
+      "content": "(In the previous expressions, $\\vec{E}$ and $\\vec{H}$ are the fields strengths at a point, e is the electron charge, $\\vec{r}$ is the distance of the electron from the field point, $\\vec{v}$ the electron velocity). One can ask himself how the higher terms look like in the quantum theory.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 316,
+      "bottomRightX": 606,
+      "bottomRightY": 438,
+      "content": "Since in the classical theory the higher orders can be easily calculated when the motion of the electron or its Fourier representation are given respectively, one can expect the same in the quantum theory. This question does not have to do with electrodynamics but this is - and this seems particularly important to us - of pure kinematical nature. We can pose this question as follows: given instead of the classical quantity x(t) a quantum theoretical one, which quantum theoretical quantity enters in the place of $x(t)^2$?",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 438,
+      "bottomRightX": 606,
+      "bottomRightY": 541,
+      "content": "Before being able to answer this question, we have to remember that in the quantum theory it was not possible to assign to the electron a point in space as a function of time through observable quantities. However surely also in the quantum theory one can assign to the electron an emitted radiation. First, this radiation will be described by frequencies which quantum theoretically arise as function of two variables in the form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 258,
+      "topLeftY": 552,
+      "bottomRightX": 605,
+      "bottomRightY": 585,
+      "content": "$$\\nu(n, n - \\alpha) = \\frac{1}{h}\\{E(n) - E(n - \\alpha)\\} \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 594,
+      "bottomRightX": 377,
+      "bottomRightY": 610,
+      "content": "and in the classical theory in the form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 316,
+      "topLeftY": 622,
+      "bottomRightX": 605,
+      "bottomRightY": 655,
+      "content": "$$\\nu(n, \\alpha) = \\alpha \\frac{1}{h} \\frac{dE}{dn} \\tag{6}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 664,
+      "bottomRightX": 605,
+      "bottomRightY": 733,
+      "content": "(From here onwards, we define $nh = J$ where $J$ is one of the canonical constants). As characteristic for the comparisons of the classical mechanics to the quantum theory, with regard to the frequencies one can write the “combination relations”",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 333,
+      "topLeftY": 763,
+      "bottomRightX": 406,
+      "bottomRightY": 781,
+      "content": "Classically:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 790,
+      "bottomRightX": 605,
+      "bottomRightY": 809,
+      "content": "$$\\nu(n, \\alpha) + \\nu(n, \\beta) = \\nu(n, \\alpha + \\beta) \\tag{7}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 364,
+      "topLeftY": 832,
+      "bottomRightX": 373,
+      "bottomRightY": 845,
+      "content": "3",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

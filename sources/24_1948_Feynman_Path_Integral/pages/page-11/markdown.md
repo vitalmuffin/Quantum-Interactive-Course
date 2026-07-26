@@ -1,0 +1,15 @@
+section how the wave function may be defined from the new point of view. In the next section we shall show that this function satisfies Schroedinger's differential wave equation.
+
+We shall see that it is the possibility, (10), of expressing $S$ as a sum, and hence $\Phi$ as a product, of contributions from successive sections of the path, which leads to the possibility of defining a quantity having the properties of a wave function.
+
+To make this clear, let us imagine that we choose a particular time $t$ and divide the region $R$ in Eq. (12) into pieces, future and past relative to $t$. We imagine that $R$ can be split into: (a) a region $R'$, restricted in any way in space, but lying entirely earlier in time than some $t'$, such that $t' < t$; (b) a region $R''$ arbitrarily restricted in space but lying entirely later in time than $t''$, such that $t'' > t$; (c) the region between $t'$ and $t''$ in which all the values of $x$ coordinates are unrestricted, i.e., all of space-time between $t'$ and $t''$. The region (c) is not absolutely necessary. It can be taken as narrow in time as desired. However, it is convenient in letting us consider varying $t$ a little without having to redefine $R'$ and $R''$. Then $|\varphi(R', R'')|^2$ is the probability that the path occupies $R'$ and $R''$. Because $R'$ is entirely previous to $R''$, considering the time $t$ as the present, we can express this as the probability that the path had been in region $R'$ and will be in region $R''$. If we divide by a factor, the probability that the path is in $R'$, to renormalize the probability we find: $|\varphi(R', R'')|^2$ is the (relative) probability that if the system were in region $R'$ it will be found later in $R''$.
+
+This is, of course, the important quantity in predicting the results of many experiments. We prepare the system in a certain way (e.g., it was in region $R'$) and then measure some other property (e.g., will it be found in region $R''$?). What does (12) say about computing this quantity, or rather the quantity $\varphi(R', R'')$ of which it is the square?
+
+Let us suppose in Eq. (12) that the time $t$ corresponds to one particular point $k$ of the subdivision of time into steps $\epsilon$, i.e., assume $t = t_k$, the index $k$, of course, depending upon the subdivision $\epsilon$. Then, the exponential being the exponential of a sum may be split into a product of two factors
+
+$$\exp \left[ \frac{i}{\hbar} \sum_{i=k}^{\infty} S(x_{i+1}, x_i) \right] \cdot \exp \left[ \frac{i}{\hbar} \sum_{i=-\infty}^{k-1} S(x_{i+1}, x_i) \right]. \quad (13)$$
+
+The first factor contains only coordinates with index $k$ or higher, while the second contains only coordinates with index $k$ or lower. This split is possible because of Eq. (10), which results essentially from the fact that the Lagrangian is a function only of positions and velocities. First, the
+
+11

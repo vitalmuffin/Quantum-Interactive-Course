@@ -1,0 +1,236 @@
+{
+  "index": 27,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 277,
+      "topLeftY": 102,
+      "bottomRightX": 408,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 102,
+      "bottomRightX": 583,
+      "bottomRightY": 117,
+      "content": "885",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 583,
+      "bottomRightY": 197,
+      "content": "werden wir die elektrische und die magnetische Feldstärke $\\mathfrak{E}$, $\\mathfrak{H}$ als Matrizen ansehen, deren Elemente harmonisch schwingende ebene Wellen sind, also z. B. bei geeigneter Lage des Koordinatensystems",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 202,
+      "bottomRightX": 583,
+      "bottomRightY": 229,
+      "content": "$$\\mathfrak{E} = \\left( \\mathfrak{E}(nm) e^{2\\pi i r (nm) \\left( t - \\frac{x}{c} \\right)} \\right). \\quad (89)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 232,
+      "bottomRightX": 583,
+      "bottomRightY": 291,
+      "content": "Freilich muß damit gerechnet werden, daß $n, m$ sich im allgemeinen nicht mehr auf eine diskrete Menge von Werten beschränken und auch nicht mehr einzelne Zahlen, sondern Zahlensysteme (Vektoren) bezeichnen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 293,
+      "bottomRightX": 583,
+      "bottomRightY": 330,
+      "content": "Die Maxwellschen Gleichungen wird man als Matrizengleichungen beibehalten:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 183,
+      "topLeftY": 327,
+      "bottomRightX": 583,
+      "bottomRightY": 362,
+      "content": "$$\\text{rot } \\mathfrak{H} - \\frac{1}{c} \\dot{\\mathfrak{E}} = 0, \\quad \\text{rot } \\mathfrak{E} + \\frac{1}{c} \\dot{\\mathfrak{H}} = 0. \\quad (90)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 368,
+      "bottomRightX": 583,
+      "bottomRightY": 406,
+      "content": "Die Differentiationen nach $x, y, z, t$ sind dabei in jedem einzelnen Element der Matrix ausgeführt zu denken$^{1)}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 408,
+      "bottomRightX": 583,
+      "bottomRightY": 465,
+      "content": "Wir wollen nun den Energie-Impulssatz ableiten; dazu ist es notwendig, einige Bemerkungen über die Multiplikation von Matrizenvektoren vorauszuschicken.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 469,
+      "bottomRightX": 436,
+      "bottomRightY": 486,
+      "content": "Wir definieren das skalare Produkt durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 489,
+      "bottomRightX": 583,
+      "bottomRightY": 510,
+      "content": "$$(\\mathfrak{A}, \\mathfrak{B}) = \\mathfrak{A}\\mathfrak{B} = \\mathfrak{A}_x \\mathfrak{B}_x + \\mathfrak{A}_y \\mathfrak{B}_y + \\mathfrak{A}_z \\mathfrak{B}_z, \\quad (91)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 514,
+      "bottomRightX": 289,
+      "bottomRightY": 531,
+      "content": "das Vektorprodukt durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 261,
+      "topLeftY": 533,
+      "bottomRightX": 583,
+      "bottomRightY": 553,
+      "content": "$$[\\mathfrak{A}\\mathfrak{B}]_x = \\mathfrak{A}_y \\mathfrak{B}_z - \\mathfrak{A}_z \\mathfrak{B}_y. \\quad (92)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 557,
+      "bottomRightX": 583,
+      "bottomRightY": 594,
+      "content": "Da die Matrizenmultiplikation nicht kommutativ ist, gelten die Beziehungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 588,
+      "bottomRightX": 472,
+      "bottomRightY": 609,
+      "content": "$$\\mathfrak{A}\\mathfrak{B} = \\mathfrak{B}\\mathfrak{A}, \\quad [\\mathfrak{A}\\mathfrak{B}] = -[\\mathfrak{B}\\mathfrak{A}]$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 614,
+      "bottomRightX": 253,
+      "bottomRightY": 631,
+      "content": "im allgemeinen nicht.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 633,
+      "bottomRightX": 299,
+      "bottomRightY": 652,
+      "content": "Dagegen behaupten wir:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 655,
+      "bottomRightX": 583,
+      "bottomRightY": 674,
+      "content": "$$\\text{div } [\\mathfrak{A}\\mathfrak{B}] = (\\text{rot } \\mathfrak{A}, \\mathfrak{B}) - (\\mathfrak{A}, \\text{rot } \\mathfrak{B}). \\quad (93)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 677,
+      "bottomRightX": 544,
+      "bottomRightY": 696,
+      "content": "Wir definieren nun die Energichte $\\mathcal{W}$ (als skalare Matrix) durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 701,
+      "bottomRightX": 583,
+      "bottomRightY": 736,
+      "content": "$$\\mathcal{W} = \\frac{1}{8\\pi} (\\mathfrak{E}^2 + \\mathfrak{H}^2). \\quad (94)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 734,
+      "bottomRightX": 246,
+      "bottomRightY": 751,
+      "content": "Dann wird nach (11)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 753,
+      "bottomRightX": 475,
+      "bottomRightY": 775,
+      "content": "$$8\\pi \\dot{\\mathcal{W}} = \\mathfrak{E}\\dot{\\mathfrak{E}} + \\dot{\\mathfrak{E}}\\mathfrak{E} + \\mathfrak{H}\\dot{\\mathfrak{H}} + \\dot{\\mathfrak{H}}\\mathfrak{H},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 774,
+      "bottomRightX": 206,
+      "bottomRightY": 791,
+      "content": "und nach (90):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 141,
+      "topLeftY": 794,
+      "bottomRightX": 542,
+      "bottomRightY": 829,
+      "content": "$$\\frac{8\\pi}{c} \\mathcal{W} = (\\mathfrak{E}, \\text{rot } \\mathfrak{H}) + (\\text{rot } \\mathfrak{H}, \\mathfrak{E}) - (\\mathfrak{H}, \\text{rot } \\mathfrak{E}) - (\\text{rot } \\mathfrak{E}, \\mathfrak{H}),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 846,
+      "bottomRightX": 583,
+      "bottomRightY": 922,
+      "content": "$^{1)}$ Unter Umständen ist eine andere Auffassung des elektromagnetischen Feldes erforderlich, bei der die räumlichen Koordinaten nicht als Zahlen, sondern selbst wieder als Matrizen erscheinen; das hat eine entsprechende Änderung der Bedeutung der räumlichen Differenzialquotienten in den Maxwellschen Gleichungen zur Folge. Wir kommen hierauf in der Fortsetzung der Arbeit zurück.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

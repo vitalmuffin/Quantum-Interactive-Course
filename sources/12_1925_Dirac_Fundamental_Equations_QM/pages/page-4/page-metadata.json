@@ -1,0 +1,218 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 106,
+    "height": 1015,
+    "width": 668
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 80,
+      "topLeftY": 90,
+      "bottomRightX": 112,
+      "bottomRightY": 108,
+      "content": "644",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 90,
+      "bottomRightX": 391,
+      "bottomRightY": 108,
+      "content": "P. A. M. Dirac.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 125,
+      "bottomRightX": 585,
+      "bottomRightY": 164,
+      "content": "On the classical theory we can multiply two harmonic components related to the same set of $\\kappa$'s, as follows :—",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 176,
+      "bottomRightX": 552,
+      "bottomRightY": 196,
+      "content": "$$a_{\\alpha\\kappa} \\exp. i (\\alpha\\omega)_\\kappa t \\cdot b_{\\beta\\kappa} \\exp. i (\\beta\\omega)_\\kappa t = (ab)_{\\alpha+\\beta,\\kappa} \\exp. i (\\alpha + \\beta, \\omega)_\\kappa t$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 196,
+      "bottomRightX": 122,
+      "bottomRightY": 211,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 273,
+      "topLeftY": 211,
+      "bottomRightX": 393,
+      "bottomRightY": 231,
+      "content": "$$(ab)_{\\alpha+\\beta,\\kappa} = a_{\\alpha\\kappa} b_{\\beta\\kappa}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 241,
+      "bottomRightX": 583,
+      "bottomRightY": 279,
+      "content": "In a corresponding manner on the quantum theory we can multiply an $(nm)$ and an $(mk)$ component",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 291,
+      "bottomRightX": 552,
+      "bottomRightY": 310,
+      "content": "$$a (nm) \\exp. i\\omega (nm) t \\cdot b (mk) \\exp. i\\omega (mk) t = ab (nk) \\exp. i\\omega (nk) t$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 321,
+      "bottomRightX": 120,
+      "bottomRightY": 338,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 253,
+      "topLeftY": 321,
+      "bottomRightX": 412,
+      "bottomRightY": 338,
+      "content": "$$ab (nk) = a (nm) b (mk).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 351,
+      "bottomRightX": 585,
+      "bottomRightY": 452,
+      "content": "We are thus led to consider the product of the amplitudes of an $(nm)$ and an $(mk)$ component as an $(nk)$ amplitude. This, together with the rule that only amplitudes related to the same pair of sets of numbers can occur added together in an A equation, replaces the classical rule that all amplitudes occurring in an A equation have the same set of $\\kappa$'s.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 453,
+      "bottomRightX": 585,
+      "bottomRightY": 494,
+      "content": "We are now in a position to perform the ordinary algebraic operations on quantum variables. The sum of $x$ and $y$ is determined by the equations",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 500,
+      "bottomRightX": 438,
+      "bottomRightY": 519,
+      "content": "$$\\{x + y\\} (nm) = x (nm) + y (nm)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 518,
+      "bottomRightX": 211,
+      "bottomRightY": 536,
+      "content": "and the product by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 532,
+      "bottomRightX": 584,
+      "bottomRightY": 552,
+      "content": "$$xy (nm)_\\kappa = \\Sigma_k x(nk) y (km) \\quad (2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 564,
+      "bottomRightX": 288,
+      "bottomRightY": 582,
+      "content": "similar to the classical product",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 587,
+      "bottomRightX": 396,
+      "bottomRightY": 607,
+      "content": "$$(xy)_{n\\kappa} = \\Sigma_r x_{r\\kappa} y_{n-r,\\kappa}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 616,
+      "bottomRightX": 585,
+      "bottomRightY": 638,
+      "content": "An important difference now occurs between the two algebras. In general",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 648,
+      "bottomRightX": 374,
+      "bottomRightY": 665,
+      "content": "$$xy (nm) \\neq yx (nm)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 677,
+      "bottomRightX": 587,
+      "bottomRightY": 824,
+      "content": "and quantum multiplication is not commutative, although, as is easily verified, it is associative and distributive. The quantity with components $xy (nm)$ defined by (2) we shall call the Heisenberg product of $x$ and $y$, and shall write simply as $xy$. Whenever two quantum quantities occur multiplied together, the Heisenberg product will be understood. Ordinary multiplication is, of course, implied in the products of amplitudes and frequencies and other quantities that are related to sets of $n$'s which are explicitly stated.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 821,
+      "bottomRightX": 586,
+      "bottomRightY": 865,
+      "content": "The reciprocal of a quantum quantity $x$ may be defined by either of the relations",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 862,
+      "bottomRightX": 586,
+      "bottomRightY": 882,
+      "content": "$$1/x \\cdot x = 1 \\quad \\text{or} \\quad x \\cdot 1/x = 1. \\quad (3)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 890,
+      "bottomRightX": 586,
+      "bottomRightY": 913,
+      "content": "These two equations are equivalent, since if we multiply both sides of the",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

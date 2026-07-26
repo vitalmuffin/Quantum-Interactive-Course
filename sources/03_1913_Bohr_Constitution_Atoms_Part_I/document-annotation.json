@@ -1,0 +1,2050 @@
+{
+  "document_id": "01_1913_bohr_constitution_atoms_molecules",
+  "source_filename": "bohr_1913_on_the_constitution_of_atoms_and_molecules.pdf",
+  "metadata": {
+    "title_original": "I. On the Constitution of Atoms and Molecules",
+    "title_normalized": "On the Constitution of Atoms and Molecules",
+    "authors": [
+      "N. Bohr"
+    ],
+    "publication_year": 1913,
+    "original_language": "en",
+    "journal": "Philosophical Magazine Series 6",
+    "volume": "26",
+    "issue": "151",
+    "page_range": "1-25",
+    "doi": "10.1080/14786441308634955",
+    "received_date": "1913-04-05",
+    "abstract_original": "In order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.\n\nIn an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by Sir J. J. Thomson. According to the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.\n\nThe principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.\n\nThe way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the order of magnitude required.\n\nThis paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": null,
+      "detected_layout": "title_page",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "I. On the Constitution of Atoms and Molecules",
+          "markdown": "# I. On the Constitution of Atoms and Molecules",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "N. Bohr",
+          "markdown": "N. Bohr",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.4,
+            0.78,
+            0.6,
+            0.82
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "THE LONDON, EDINBURGH, AND DUBLIN PHILOSOPHICAL MAGAZINE AND JOURNAL OF SCIENCE.",
+          "markdown": "THE LONDON, EDINBURGH, AND DUBLIN PHILOSOPHICAL MAGAZINE AND JOURNAL OF SCIENCE.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "[SIXTH SERIES.]",
+          "markdown": "[SIXTH SERIES.]",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.88
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "JULY 1913.",
+          "markdown": "JULY 1913.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.8,
+            0.85,
+            0.9,
+            0.87
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "I. On the Constitution of Atoms and Molecules.",
+          "markdown": "## I. On the Constitution of Atoms and Molecules.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "author",
+          "level": null,
+          "text_original": "By N. BOHR, Dr. phil. Copenhagen*.",
+          "markdown": "By N. Bohr, Dr. phil. Copenhagen*.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.68
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "affiliation",
+          "level": null,
+          "text_original": "* Communicated by Prof. E. Rutherford, F.R.S.",
+          "markdown": "* Communicated by Prof. E. Rutherford, F.R.S.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.63
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "IN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.",
+          "markdown": "IN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# I. On the Constitution of Atoms and Molecules\n\nBy N. Bohr, Dr. phil. Copenhagen*.\n\n* Communicated by Prof. E. Rutherford, F.R.S.\n\nIN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.",
+      "word_count": 250,
+      "page_quality_notes": [
+        "Title page with journal header and author information. Layout is clear and OCR quality is high."
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "B",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Phil. Mag. S. 6. Vol. 26. No. 151. July 1913.",
+          "markdown": "Phil. Mag. S. 6. Vol. 26. No. 151. July 1913.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Dr. N. Bohr on the Constitution",
+          "markdown": "Dr. N. Bohr on the Constitution",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "IN an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by Sir J. J. Thomson. According to the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.",
+          "markdown": "IN an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by Sir J. J. Thomson. According to the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.88
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.",
+          "markdown": "The principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the order of magnitude required.",
+          "markdown": "The way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the order of magnitude required.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules.",
+          "markdown": "This paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "PART I.—BINDING OF ELECTRONS BY POSITIVE NUCLEI.",
+          "markdown": "## PART I.—BINDING OF ELECTRONS BY POSITIVE NUCLEI.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 1. General Considerations.",
+          "markdown": "### § 1. General Considerations.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Phil. Mag. S. 6. Vol. 26. No. 151. July 1913.\n\nDr. N. Bohr on the Constitution\n\nIN an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by Sir J. J. Thomson. According to the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.\n\nThe principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.\n\nThe way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the order of magnitude required.\n\nThis paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules.\n\n## PART I.—BINDING OF ELECTRONS BY POSITIVE NUCLEI.\n\n### § 1. General Considerations.",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Single-column layout. Text is clear with minor OCR errors in mathematical symbols."
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "3",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "of Atoms and Molecules.",
+          "markdown": "of Atoms and Molecules.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "5",
+          "markdown": "5",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.9,
+            0.95,
+            0.93
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "IN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.",
+          "markdown": "IN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.",
+          "asset_id": "p003_para1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by Sir J. J. Thomson. According to the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.",
+          "markdown": "In an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by Sir J. J. Thomson. According to the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.",
+          "asset_id": "p003_para2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.",
+          "markdown": "The principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.",
+          "asset_id": "p003_para3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.73
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the ordinary magnitude required.",
+          "markdown": "The way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the ordinary magnitude required.",
+          "asset_id": "p003_para4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules.",
+          "markdown": "This paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules.",
+          "asset_id": "p003_para5",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "PART I.—BINDING OF ELECTRONS BY POSITIVE NUCLEI.",
+          "markdown": "## PART I.—BINDING OF ELECTRONS BY POSITIVE NUCLEI.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 1. General Considerations.",
+          "markdown": "### § 1. General Considerations.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "of Atoms and Molecules.\n\n5\n\nIN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.\n\nIn an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by Sir J. J. Thomson. According to the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.\n\nThe principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.\n\nThe way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the ordinary magnitude required.\n\nThis paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules.\n\n## PART I.—BINDING OF ELECTRONS BY POSITIVE NUCLEI.\n\n### § 1. General Considerations.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Page number '5' is visible. Text is clear with minor OCR errors in mathematical symbols."
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "6",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Dr. N. Bohr on the Constitution",
+          "markdown": "Dr. N. Bohr on the Constitution",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "6",
+          "markdown": "6",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.9,
+            0.95,
+            0.93
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "IN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.",
+          "markdown": "IN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theorem of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.",
+          "asset_id": "p004_para1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by Sir J. J. Thomson. According to the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.",
+          "markdown": "In an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.",
+          "asset_id": "p004_para2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.",
+          "markdown": "The principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.",
+          "asset_id": "p004_para3",
+          "suggested_filename": "The principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.73
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": "needs_manual_review_reason_ocr_error"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the ordinary magnitude required.",
+          "markdown": "The way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the ordinary magnitude required.",
+          "asset_id": "p004_para4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules.",
+          "markdown": "This paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules.",
+          "asset_id": "p004_para5",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "PART I.—BINDING OF ELECTRONS BY POSITIVE NUCLEI.",
+          "markdown": "## PART I.—BINDING OF ELECTRONS BY POSITIVE NUCLEI.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 1. General Considerations.",
+          "markdown": "### § 1. General Considerations.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Dr. N. Bohr on the Constitution\n\n6\n\nIN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theorem of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the essential part of the mass of the atom, and to have linear dimensions exceedingly small compared with the linear dimensions of the whole atom. The number of electrons in an atom is deduced to be approximately equal to half the atomic weight. Great interest is to be attributed to this atom-model; for, as Rutherford has shown, the assumption of the existence of nuclei, as those in question, seems to be necessary in order to account for the results of the experiments on large angle scattering of the α rays.\n\nIn an attempt to explain some of the properties of matter on the basis of this atom-model we meet, however, with difficulties of a serious nature arising from the apparent instability of the system of electrons: difficulties purposely avoided in atom-models previously considered, for instance, in the one proposed by the theory of the latter the atom consists of a sphere of uniform positive electrification, inside which the electrons move in circular orbits.\n\nThe principal difference between the atom-models proposed by Thomson and Rutherford consists in the circumstance that the forces acting on the electrons in the atom-model of Thomson allow of certain configurations and motions of the electrons for which the system is in a stable equilibrium; such configurations, however, apparently do not exist for the second atom-model. The nature of the difference in question will perhaps be most clearly seen by noticing that among the quantities characterizing the first atom a quantity appears—the radius of the positive sphere—of dimensions of a length and of the same order of magnitude as the linear extension of the atom, while such a length does not appear among the quantities characterizing the second atom, viz. the charges and masses of the electrons and the positive nucleus; nor can it be determined solely by help of the latter quantities.\n\nThe way of considering a problem of this kind has, however, undergone essential alterations in recent years owing to the development of the theory of the energy radiation, and the direct affirmation of the new assumptions introduced in this theory, found by experiments on very different phenomena such as specific heats, photoelectric effect, Röntgen-rays, &c. The result of the discussion of these questions seems to be a general acknowledgment of the inadequacy of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the ordinary magnitude required.\n\nThis paper is an attempt to show that the application of the above ideas to Rutherford's atom-model affords a basis for a theory of the constitution of atoms. It will further be shown that from this theory we are led to a theory of the constitution of molecules.\n\n## PART I.—BINDING OF ELECTRONS BY POSITIVE NUCLEI.\n\n### § 1. General Considerations.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Page number '6' is visible. Minor OCR errors detected in text (e.g., 'theorem' instead of 'theory')."
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "7",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "of Atoms and Molecules.",
+          "markdown": "of Atoms and Molecules.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "7",
+          "markdown": "7",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.9,
+            0.95,
+            0.93
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "IN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the ordinary magnitude required.",
+          "markdown": "IN order to explain the results of experiments on scattering of α rays by matter Prof. Rutherford has given a theory of the structure of atoms. According to this theory, the atoms consist of a positively charged nucleus surrounded by a system of electrons kept together by attractive forces from the nucleus; the total negative charge of the electrons is equal to the positive charge of the nucleus. Further, the nucleus is assumed to be the seat of the classical electrodynamics in describing the behaviour of systems of atomic size. Whatever the alteration in the laws of motion of the electrons may be, it seems necessary to introduce in the laws in question a quantity foreign to the classical electrodynamics, i. e. Planck's constant, or as it often is called the elementary quantum of action. By the introduction of this quantity the question of the stable configuration of the electrons in the atoms is essentially changed, as this constant is of such dimensions and magnitude that it, together with the mass and charge of the particles, can determine a length of the ordinary magnitude required.",
+          "asset_id": "p005_para1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The inadequacy of the classical electrodynamics in accounting for the properties of atoms from an atom-model as Rutherford's, will appear very clearly if we consider a simple system consisting of a positively charged nucleus of very small dimensions and an electron describing closed orbits around it. For simplicity, let us assume that the mass of the electron is negligibly small in comparison with that of the nucleus, and further, that the velocity of the electron is small compared with that of light.",
+          "markdown": "The inadequacy of the classical electrodynamics in accounting for the properties of atoms from an atom-model as Rutherford's, will appear very clearly if we consider a simple system consisting of a positively charged nucleus of very small dimensions and an electron describing closed orbits around it. For simplicity, let us assume that the mass of the electron is negligibly small in comparison with that of the nucleus, and further, that the velocity of the electron is small compared with that of light.",
+          "asset_id": "p005_para2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Let us at first assume that there is no energy radiation. In this case the electron will describe stationary elliptical orbits. The frequency of revolution ω and the major-axis of the orbit 2a will depend on the amount of energy W which must be transferred to the system in order to remove the electron to an infinitely great distance apart from the nucleus. Denoting the charge of the electron and of the nucleus by −e and E respectively and the mass of the electron by m, we thus get",
+          "markdown": "Let us at first assume that there is no energy radiation. In this case the electron will describe stationary elliptical orbits. The frequency of revolution ω and the major-axis of the orbit 2a will depend on the amount of energy W which must be transferred to the system in order to remove the electron to an infinitely great distance apart from the nucleus. Denoting the charge of the electron and of the nucleus by −e and E respectively and the mass of the electron by m, we thus get",
+          "asset_id": "p005_para3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.73
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\omega = \\frac{\\sqrt{2}}{\\pi} \\frac{W^2}{eE\\sqrt{m}}, \\quad 2a = \\frac{eE}{W}. \\quad \\dots \\quad (1)$$",
+          "markdown": "$$\\omega = \\frac{\\sqrt{2}}{\\pi} \\frac{W^2}{eE\\sqrt{m}}, \\quad 2a = \\frac{eE}{W}. \\quad \\dots \\quad (1)$$",
+          "asset_id": "p005_eq1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Further, it can easily be shown that the mean value of the kinetic energy of the electron taken for a whole revolution is equal to W. We see that if the value of W is not given, there will be no values of ω and a characteristic for the system in question.",
+          "markdown": "Further, it can easily be shown that the mean value of the kinetic energy of the electron taken for a whole revolution is equal to W. We see that if the value of W is not given, there will be no values of ω and a characteristic for the system in question.",
+          "asset_id": "p005_para4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Let us now, however, take the effect of the energy radiation into account, calculated in the ordinary way from the acceleration of the electron. In this case the electron will no longer describe stationary orbits. W will continuously increase, and the electron will approach the nucleus describing orbits of smaller and smaller dimensions, and with greater and greater frequency; the electron on the average gaining in kinetic energy at the same time as the whole system loses energy. This process will go on until the dimensions of the orbit are of the same order of magnitude as the dimensions of the electron or those of the nucleus. A simple calculation shows that the energy radiated out during the process considered will be enormously great compared with that radiated out by ordinary molecular processes.",
+          "markdown": "Let us now, however, take the effect of the energy radiation into account, calculated in the ordinary way from the acceleration of the electron. In this case the electron will no longer describe stationary orbits. W will continuously increase, and the electron will approach the nucleus describing orbits of smaller and smaller dimensions, and with greater and greater frequency; the electron on the average gaining in kinetic energy at the same time as the whole system loses energy. This process will go on until the dimensions of the orbit are of the same order of magnitude as the dimensions of the electron or those of the nucleus. A simple calculation shows that the energy radiated out during the process considered will be enormously great compared with that radiated out by ordinary molecular processes.",
+          "asset_id": "p005_para5",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It is obvious that the behaviour of such a system will be very different from that of an atomic system occurring in nature. In the first place, the actual atoms in their permanent state seem to have absolutely fixed dimensions and frequencies. Further, if we consider any molecular process, the result seems always to be that after a certain amount of energy characteristic for the systems in question is radiated out, the systems will again settle down in a stable state of equilibrium, in which the distances apart of the particles are of the same order of magnitude as before the process.",
+          "markdown": "It is obvious that the behaviour of such a system will be very different from that of an atomic system occurring in nature. In the first place, the actual atoms in their permanent state seem to be absolutely fixed dimensions and frequencies. Further, if we consider any molecular process, the result seems always to be that after a certain amount of energy characteristic for the systems in question is radiated out, the systems will again settle down in a stable state of equilibrium, in which the distances apart of the particles are of the same order of magnitude as before the process.",
+          "asset_id": "p005_para6",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "of Atoms and Molecules.\n\n7\n\nThe inadequacy of the classical electrodynamics in accounting for the properties of atoms from an atom-model as Rutherford's, will appear very clearly if we consider a simple system consisting of a positively charged nucleus of very small dimensions and an electron describing closed orbits around it. For simplicity, let us assume that the mass of the electron is negligibly small in comparison with that of the nucleus, and further, that the velocity of the electron is small compared with that of light.\n\nLet us at first assume that there is no energy radiation. In this case the electron will describe stationary elliptical orbits. The frequency of revolution ω and the major-axis of the orbit 2a will depend on the amount of energy W which must be transferred to the system in order to remove the electron to an infinitely great distance apart from the nucleus. Denoting the charge of the electron and of the nucleus by −e and E respectively and the mass of the electron by m, we thus get\n\n$$\\omega = \\frac{\\sqrt{2}}{\\pi} \\frac{W^2}{eE\\sqrt{m}}, \\quad 2a = \\frac{eE}{W}. \\quad \\dots \\quad (1)$$ \n\nFurther, it can easily be shown that the mean value of the kinetic energy of the electron taken for a whole revolution is equal to W. We see that if the value of W is not given, there will be no values of ω and a characteristic for the system in question.\n\nLet us now, however, take the effect of the energy radiation into account, calculated in the ordinary way from the acceleration of the electron. In this case the electron will no longer describe stationary orbits. W will continuously increase, and the electron will approach the nucleus describing orbits of smaller and smaller dimensions, and with greater and greater frequency; the electron on the average gaining in kinetic energy at the same time as the whole system loses energy. This process will go on until the dimensions of the orbit are of the same order of magnitude as the dimensions of the electron or those of the nucleus. A simple calculation shows that the energy radiated out during the process considered will be enormously great compared with that radiated out by ordinary molecular processes.\n\nIt is obvious that the behaviour of such a system will be very different from that of an atomic system occurring in nature. In the first place, the actual atoms in their permanent state seem to be absolutely fixed dimensions and frequencies. Further, if we consider any molecular process, the result seems always to be that after a certain amount of energy characteristic for the systems in question is radiated out, the systems will again settle down in a stable state of equilibrium, in which the distances apart of the particles are of the same order of magnitude as before the process.",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Page number '7' is visible. Mathematical equations are correctly formatted."
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "8",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Dr. N. Bohr on the Constitution",
+          "markdown": "Dr. N. Bohr on the Constitution",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "8",
+          "markdown": "8",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Now the essential point in Planck's theory of radiation is that the energy radiation from an atomic system does not take place in the continuous way assumed in the ordinary electrodynamics, but that it, on the contrary, takes place in distinctly separated emissions, the amount of energy radiated out from an atomic vibrator of frequency ν in a single emission being equal to τhν, where τ is an entire number, and h is a universal constant*.",
+          "markdown": "Now the essential point in Planck's theory of radiation is that the energy radiation from an atomic system does not take place in the continuous way assumed in the ordinary electrodynamics, but that it, on the contrary, takes place in distinctly separated emissions, the amount of energy radiated out from an atomic vibrator of frequency ν in a single emission being equal to τhν, where τ is an entire number, and h is a universal constant*.",
+          "asset_id": "p006_para1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "* See f. inst., M. Planck, Ann. d. Phys. xxxi. p. 758 (1910); xxxvii. p. 642 (1912); Verh. deutsch. Phys. Ges. 1911, p. 138.",
+          "markdown": "* See f. inst., M. Planck, Ann. d. Phys. xxxi. p. 758 (1910); xxxvii. p. 642 (1912); Verh. deutsch. Phys. Ges. 1911, p. 138.",
+          "asset_id": "p006_footnote1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Returning to the simple case of an electron and a positive nucleus considered above, let us assume that the electron at the beginning of the interaction with the nucleus was at a great distance apart from the nucleus, and had no sensible velocity relative to the latter. Let us further assume that the electron after the interaction has taken place has settled down in a stationary orbit around the nucleus. We shall, for reasons referred to later, assume that the orbit in question is circular; this assumption will, however, make no alteration in the calculations for systems containing only a single electron.",
+          "markdown": "Returning to the simple case of an electron and a positive nucleus considered above, let us assume that the electron at the beginning of the interaction with the nucleus was at a great distance apart from the nucleus, and had no sensible velocity relative to the latter. Let us further assume that the electron after the interaction has taken place has settled down in a stationary orbit around the nucleus. We shall, for reasons referred to later, assume that the orbit in question is circular; this assumption will, however, make no alteration in the calculations for systems containing only a single electron.",
+          "asset_id": "p006_para2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Let us now assume that, during the binding of the electron, a homogeneous radiation is emitted of a frequency ν, equal to half the frequency of revolution of the electron in its final orbit; then, from Planck's theory, we might expect that the amount of energy emitted by the process considered is equal to τhν, where h is Planck's constant and τ an entire number. If we assume that the radiation emitted is homogeneous, the second assumption concerning the frequency of the radiation suggests itself, since the frequency of revolution of the electron at the beginning of the emission is 0. The question, however, of the rigorous validity of both assumptions, and also of the application made of Planck's theory, will be more closely discussed in § 3.",
+          "markdown": "Let us now assume that, during the binding of the electron, a homogeneous radiation is emitted of a frequency ν, equal to half the frequency of revolution of the electron in its final orbit; then, from Planck's theory, we might expect that the amount of energy emitted by the process considered is equal to τhν, where h is Planck's constant and τ an entire number. If we assume that the radiation emitted is homogeneous, the second assumption concerning the frequency of the frequency of the radiation suggests itself, since the frequency of revolution of the electron at the beginning of the emission is 0. The question, however, of the rigorous validity of both assumptions, and also of the application made of Planck's theory, will be more closely discussed in § 3.",
+          "asset_id": "p006_para3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "OCR error detected in text (repetition of 'frequency of the frequency')."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Putting",
+          "markdown": "Putting",
+          "asset_id": "p006_para4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W = \\tau h \\frac{\\omega}{2}, \\quad \\dots \\quad (2)$$",
+          "markdown": "$$W = \\tau h \\frac{\\omega}{2}, \\quad \\dots \\quad (2)$$",
+          "asset_id": "p006_eq2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W = \\frac{2\\pi^2 m e^2 E^2}{\\tau^2 h^2}, \\quad \\omega = \\frac{4\\pi^2 m e^2 E^2}{\\tau^2 h^3}, \\quad 2a = \\frac{\\tau^2 h^2}{2\\pi^2 m e E} \\quad (3)$$",
+          "markdown": "$$W = \\frac{2\\pi^2 m e^2 E^2}{\\tau^2 h^2}, \\quad \\omega = \\frac{4\\pi^2 m e^2 E^2}{\\tau^2 h^3}, \\quad 2a = \\frac{\\tau^2 h^2}{2\\pi^2 m e E} \\quad (3)$$",
+          "asset_id": "p006_eq3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.38
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If in these expressions we give τ different values, we get a series of values for W, ω, and a corresponding to a series of configurations of the system. According to the above considerations, we are led to assume that these configurations will correspond to states of the system in which there is no radiation of energy; states which consequently will be stationary as long as the system is not disturbed from outside. We see that the value of W is greatest if τ has its smallest value 1. This case will therefore correspond to the most stable state of the system, *i. e.* will correspond to the binding of the electron for the breaking up of which the greatest amount of energy is required.",
+          "markdown": "If in these expressions we give τ different values, we get a series of values for W, ω, and a corresponding to a series of configurations of the system. According to the above considerations, we are led to assume that these configurations will correspond to states of the system in which there is no radiation of energy; states which consequently will be stationary as long as the system is not disturbed from outside. We see that the value of W is greatest if τ has its smallest value 1. This case will therefore correspond to the most stable state of the system, *i. e.* will correspond to the binding of the electron for the breaking up of which the greatest amount of energy is required.",
+          "asset_id": "p006_para5",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Dr. N. Bohr on the Constitution\n\n8\n\nNow the essential point in Planck's theory of radiation is that the energy radiation from an atomic system does not take place in the continuous way assumed in the ordinary electrodynamics, but that it, on the contrary, takes place in distinctly separated emissions, the amount of energy radiated out from an atomic vibrator of frequency ν in a single emission being equal to τhν, where τ is an entire number, and h is a universal constant*.\n\n* See f. inst., M. Planck, Ann. d. Phys. xxxi. p. 758 (1910); xxxvii. p. 642 (1912); Verh. deutsch. Phys. Ges. 1911, p. 138.\n\nReturning to the simple case of an electron and a positive nucleus considered above, let us assume that the electron at the beginning of the interaction with the nucleus was at a great distance apart from the nucleus, and had no sensible velocity relative to the latter. Let us further assume that the electron after the interaction has taken place has settled down in a stationary orbit around the nucleus. We shall, for reasons referred to later, assume that the orbit in question is circular; this assumption will, however, make no alteration in the calculations for systems containing only a single electron.\n\nLet us now assume that, during the binding of the electron, a homogeneous radiation is emitted of a frequency ν, equal to half the frequency of revolution of the electron in its final orbit; then, from Planck's theory, we might expect that the amount of energy emitted by the process considered is equal to τhν, where h is Planck's constant and τ an entire number. If we assume that the radiation emitted is homogeneous, the second assumption concerning the frequency of the frequency of the radiation suggests itself, since the frequency of revolution of the electron at the beginning of the emission is 0. The question, however, of the rigorous validity of both assumptions, and also of the application made of Planck's theory, will be more closely discussed in § 3.\n\nPutting\n\n$$W = \\tau h \\frac{\\omega}{2}, \\quad \\dots \\quad (2)$$ \n\nwe get by help of the formula (1)\n\n$$W = \\frac{2\\pi^2 m e^2 E^2}{\\tau^2 h^2}, \\quad \\omega = \\frac{4\\pi^2 m e^2 E^2}{\\tau^2 h^3}, \\quad 2a = \\frac{\\tau^2 h^2}{2\\pi^2 m e E} \\quad (3)$$ \n\nIf in these expressions we give τ different values, we get a series of values for W, ω, and a corresponding to a series of configurations of the system. According to the above considerations, we are led to assume that these configurations will correspond to states of the system in which there is no radiation of energy; states which consequently will be stationary as long as the system is not disturbed from outside. We see that the value of W is greatest if τ has its smallest value 1. This case will therefore correspond to the most stable state of the system, *i. e.* will correspond to the binding of the electron for the breaking up of which the greatest amount of energy is required.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Page number '8' is visible. Minor OCR error detected in text (repetition of 'frequency of the frequency')."
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "9",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "of Atoms and Molecules.",
+          "markdown": "of Atoms and Molecules.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "9",
+          "markdown": "9",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.9,
+            0.95,
+            0.93
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Putting in the above expressions τ=1 and E=e, and introducing the experimental values",
+          "markdown": "Putting in the above expressions τ=1 and E=e, and introducing the experimental values",
+          "asset_id": "p007_para1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$e = 4 \\cdot 7 \\cdot 10^{-10}, \\quad \\frac{e}{m} = 5 \\cdot 31 \\cdot 10^{17}, \\quad h = 6 \\cdot 5 \\cdot 10^{-27},$$",
+          "markdown": "$$e = 4 \\cdot 7 \\cdot 10^{-10}, \\quad \\frac{e}{m} = 5 \\cdot 31 \\cdot 10^{17}, \\quad h = 6 \\cdot 5 \\cdot 10^{-27},$$",
+          "asset_id": "p007_eq4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$2a = 1 \\cdot 1 \\cdot 10^{-8} \\text{ cm.}, \\quad \\omega = 6 \\cdot 2 \\cdot 10^{15} \\frac{1}{\\text{sec.}}, \\quad \\frac{W}{e} = 13 \\text{ volt.}$$",
+          "markdown": "$$2a = 1 \\cdot 1 \\cdot 10^{-8} \\text{ cm.}, \\quad \\omega = 6 \\cdot 2 \\cdot 10^{15} \\frac{1}{\\text{sec.}}, \\quad \\frac{W}{e} = 13 \\text{ volt.}$$",
+          "asset_id": "p007_eq5",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "needs_manual_review_reason_ocr_error"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We see that these values are of the same order of magnitude as the linear dimensions of the atoms, the optical frequencies, and the ionization-potentials.",
+          "markdown": "We see that these values are of the same order of magnitude as the linear dimensions of the atoms, the optical frequencies, and the ionization-potentials.",
+          "asset_id": "p007_para2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The general importance of Planck's theory for the discussion of the behaviour of atomic systems was originally pointed out by Einstein*. The considerations of Einstein have been developed and applied on a number of different phenomena, especially by Stark, Nernst, and Sommerfeld. The agreement as to the order of magnitude between values observed for the frequencies and dimensions of the atoms, and values for these quantities calculated by considerations similar to those given above, has been the subject of much discussion. It was first pointed out by Haas*, in an attempt to explain the meaning and the value of Planck's constant on the basis of J. J. Thomson's atom-model, by help of the linear dimensions and frequency of an hydrogen atom.",
+          "markdown": "The general importance of Planck's theory for the discussion of the behaviour of atomic systems was originally pointed out by Einstein*. The considerations of Einstein have been developed and applied on a number of different phenomena, especially by Stark, Nernst, and Sommerfeld. The agreement as to the order of magnitude between values observed for the frequencies and dimensions of the atoms, and values for these quantities calculated by considerations similar to those given above, has been the subject of much discussion. It was first pointed out by Haas*, in an attempt to explain the meaning and the value of Planck's constant on the basis of J. J. Thomson's atom-model, by help of the linear dimensions and frequency of an hydrogen atom.",
+          "asset_id": "p007_para3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "* A. Einstein, *Ann. d. Phys.* xvii. p. 132 (1905); xx. p. 199 (1906); xxii. p. 180 (1907).\n\n† A. E. Haas, *Jahrb. d. Rad. u. Fl.* vii. p. 261 (1910). See further, A. Schidlof, *Ann. d. Phys.* xxxv. p. 90 (1911); E. Wertheimer, *Phys. Zeitschr.* xii. p. 409 (1911), Verh. deutsch. Phys. Ges. 1912, p. 431; F. A. Lindemann, *Verh. deutsch. Phys. Ges.* 1911, pp. 482, 1107; F. Haber, *Verh. deutsch. Phys. Ges.* 1911, p. 1117.",
+          "markdown": "* A. Einstein, *Ann. d. Phys.* xvii. p. 132 (1905); xx. p. 199 (1906); xxii. p. 180 (1907).\n\n† A. E. Haas, *Jahrb. d. Rad. u. Fl.* vii. p. 261 (1010). See further, A. Schidlof, *Ann. d. Phys.* xxxv. p. 90 (1911); E. Wertheimer, *Phys. Zeitschr.* xii. p. 409 (1911), Verh. deutsch. Phys. Ges. 1912, p. 431; F. A. Lindemann, *Verh. deutsch. Phys. Ges.* 1911, pp. 482, 1107; F. Haber, *Verh. deutsch. Phys. Ges.* 1911, p. 1117.",
+          "asset_id": "p007_footnote2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "needs_manual_review_reason_ocr_error"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Systems of the kind considered in this paper, in which the forces between the particles vary inversely as the square of the distance, are discussed in relation to Planck's theory by J. W. Nicholson†. In a series of papers this author has shown that it seems to be possible to account for lines of hitherto unknown origin in the spectra of the stellar nebulae and that of the solar corona, by assuming the presence in these bodies of certain hypothetical elements of exactly indicated constitution. The atoms of these elements are supposed to consist simply of a ring of a few electrons surrounding a positive nucleus of negligibly small dimensions. The ratios between the frequencies corresponding to the lines in question are compared with the ratios between the frequencies corresponding to different modes of vibration of the ring of electrons. Nicholson has obtained a relation to Planck's theory showing that the ratios between the wave-length of different sets of lines of the coronal spectrum can be accounted for with great accuracy by assuming that the ratio between the energy of the system and the frequency of rotation of the ring is equal to an entire multiple of Planck's constant. The quantity Nicholson refers to as the energy is equal to twice the quantity which we have denoted above by W. In the latest paper cited Nicholson has found it necessary to give the theory a more complicated form, still, however, representing the ratio of energy to frequency by a simple function of whole numbers.",
+          "markdown": "Systems of the kind considered in this paper, in which the forces between the particles vary inversely as the square of the distance, are discussed in relation to Planck's theory by J. W. Nicholson†. In a series of papers this author has shown that it seems to be possible to account for lines of hitherto unknown origin in the spectra of the stellar nebulae and that of the solar corona, by assuming the presence in these bodies of certain hypothetical elements of exactly indicated constitution. The atoms of these elements are supposed to consist simply of a ring of a few electrons surrounding a positive nucleus of negligibly small dimensions. The ratios between the frequencies corresponding to the lines in question are compared with the ratios between the frequencies corresponding to different modes of vibration of the ring of electrons. Nicholson has obtained a relation to Planck's theory showing that the ratios between the wave-length of different sets of lines of the coronal spectrum can be accounted for with great accuracy by assuming that the ratio between the energy of the system and the frequency of rotation of the ring is equal to an entire multiple of Planck's constant. The quantity Nicholson refers to as the energy is equal to twice the quantity which we have denoted above by W. In the latest paper cited Nicholson has found it necessary to give the theory a more complicated form, still, however, representing the ratio of energy to frequency by a simple function of whole numbers.",
+          "asset_id": "p007_para4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "of Atoms and Molecules.\n\n9\n\nPutting in the above expressions τ=1 and E=e, and introducing the experimental values\n\n$$e = 4 \\cdot 7 \\cdot 10^{-10}, \\quad \\frac{e}{m} = 5 \\cdot 31 \\cdot 10^{17}, \\quad h = 6 \\cdot 5 \\cdot 10^{-27},$$\n\nwe get\n\n$$2a = 1 \\cdot 1 \\cdot 10^{-8} \\text{ cm.}, \\quad \\omega = 6 \\cdot 2 \\cdot 10^{15} \\frac{1}{\\text{sec.}}, \\quad \\frac{W}{e} = 13 \\text{ volt.}$$ \n\nWe see that these values are of the same order of magnitude as the linear dimensions of the atoms, the optical frequencies, and the ionization-potentials.\n\nThe general importance of Planck's theory for the discussion of the behaviour of atomic systems was originally pointed out by Einstein*. The considerations of Einstein have been developed and applied on a number of different phenomena, especially by Stark, Nernst, and Sommerfeld. The agreement as to the order of magnitude between values observed for the frequencies and dimensions of the atoms, and values for these quantities calculated by considerations similar to those given above, has been the subject of much discussion. It was first pointed out by Haas*, in an attempt to explain the meaning and the value of Planck's constant on the basis of J. J. Thomson's atom-model, by help of the linear dimensions and frequency of an hydrogen atom.\n\n* A. Einstein, *Ann. d. Phys.* xvii. p. 132 (1905); xx. p. 199 (1906); xxii. p. 180 (1907).\n\n† A. E. Haas, *Jahrb. d. Rad. u. Fl.* vii. p. 261 (1010). See further, A. Schidlof, *Ann. d. Phys.* xxxv. p. 90 (1911); E. Wertheimer, *Phys. Zeitschr.* xii. p. 409 (1911), Verh. deutsch. Phys. Ges. 1912, p. 431; F. A. Lindemann, *Verh. deutsch. Phys. Ges.* 1911, pp. 482, 1107; F. Haber, *Verh. deutsch. Phys. Ges.* 1911, p. 1117.\n\nSystems of the kind considered in this paper, in which the forces between the particles vary inversely as the square of the distance, are discussed in relation to Planck's theory by J. W. Nicholson†. In a series of papers this author has shown that it seems to be possible to account for lines of hitherto unknown origin in the spectra of the stellar nebulae and that of the solar corona, by assuming the presence in these bodies of certain hypothetical elements of exactly indicated constitution. The atoms of these elements are supposed to consist simply of a ring of a few electrons surrounding a positive nucleus of negligibly small dimensions. The ratios between the frequencies corresponding to the lines in question are compared with the ratios between the frequencies corresponding to different modes of vibration of the ring of electrons. Nicholson has obtained a relation to Planck's theory showing that the ratios between the wave-length of different sets of lines of the coronal spectrum can be accounted for with great accuracy by assuming that the ratio between the energy of the system and the frequency of rotation of the ring is equal to an entire multiple of Planck's constant. The quantity Nicholson refers to as the energy is equal to twice the quantity which we have denoted above by W. In the latest paper cited Nicholson has found it necessary to give the theory a more complicated form, still, however, representing the ratio of energy to frequency by a simple function of whole numbers.",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Page number '9' is visible. Minor OCR errors detected in text (e.g., '1010' instead of '1910')."
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "10",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Dr. N. Bohr on the Constitution",
+          "markdown": "Dr. N. Bohr on the Constitution",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "10",
+          "markdown": "10",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.9,
+            0.95,
+            0.93
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The excellent agreement between the calculated and observed values of the ratios between the wave-lengths in question seems a strong argument in favour of the validity of the foundation of Nicholson's calculations. Serious objections, however, may be raised against the theory. These objections are intimately connected with the problem of the homogeneity of the radiation emitted. In Nicholson's calculations the frequency of lines in a line-spectrum is identified with the frequency of vibration of a mechanical system in a distinctly indicated state of equilibrium. As a relation from Planck's theory is used, we might expect that the radiation is sent out in quanta; but systems like those considered, in which the frequency is a function of the energy, cannot emit a finite amount of a homogeneous radiation; for, as soon as the emission of radiation is started, the energy and also the frequency of the system are altered. Further, according to the calculation of Nicholson, the systems are unstable for some modes of vibration. Apart from such objections—which may be only formal (see p. 23)—it must be remarked, that the theory in the form given does not seem to be able to account for the well-known laws of Balmer and Rydberg connecting the frequencies of the lines in the line-spectra of the ordinary elements.",
+          "markdown": "The excellent agreement between the calculated and observed values of the ratios between the wave-lengths in question seems a strong argument in favour of the validity of the foundation of Nicholson's calculations. Serious objections, however, may be raised against the theory. These objections are intimately connected with the problem of the homogeneity of the radiation emitted. In Nicholson's calculations the frequency of lines in a line-spectrum is identified with the frequency of vibration of a mechanical system in a distinctly indicated state of equilibrium. As a relation from Planck's theory is used, we might expect that the radiation is sent out in quanta; but systems like those considered, in which the frequency is a function of the energy, cannot emit a finite amount of a homogeneous radiation; for, as soon as the emission of radiation is started, the energy and also the frequency of the system are altered. Further, according to the calculation of Nicholson, the systems are unstable for some modes of vibration. Apart from such objections—which may be only formal (see p. 23)—it must be remarked, that the theory in the form given does not seem to be able to account for the well-known laws of Balmer and Rydberg connecting the frequencies of the lines in the line-spectra of the ordinary elements.",
+          "asset_id": "p008_para1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It will now be attempted to show that the difficulties in question disappear if we consider the problems from the point of view taken in this paper. Before proceeding it may be useful to restate briefly the ideas characterizing the calculations on p. 5. The principal assumptions used are:",
+          "markdown": "It will now be attempted to show that the difficulties in question disappear if we consider the problems from the point of view taken in this paper. Before proceeding it may be useful to restate briefly the ideas characterizing the calculations on p. 5. The principal assumptions used are:",
+          "asset_id": "p008_para2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(1) That the dynamical equilibrium of the systems in the stationary states can be discussed by help of the ordinary mechanics, while the passing of the systems between different stationary states cannot be treated on that basis.",
+          "markdown": "(1) That the dynamical equilibrium of the systems in the stationary states can be discussed by help of the ordinary mechanics, while the passing of the systems between different stationary states cannot be treated on that basis.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(2) That the latter process is followed by the emission of a homogeneous radiation, for which the relation between the frequency and the amount of energy emitted is the one given by Planck's theory.",
+          "markdown": "(2) That the latter process is followed by the emission of a homogeneous radiation, for which the relation between the frequency and the amount of energy emitted is the one given by Planck's theory.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The first assumption seems to present itself; for it is known that the ordinary mechanics cannot have an absolute validity, but will only hold in calculations of certain mean values of the motion of the electrons. On the other hand, in the calculations of the dynamical equilibrium in a stationary state in which there is no relative displacement of the particles, we need not distinguish between the actual motions and their mean values. The second assumption is in obvious contrast to the ordinary ideas of electrodynamics, but appears to be necessary in order to account for experimental facts.",
+          "markdown": "The first assumption seems to present itself; for it is known that the ordinary mechanics cannot have an absolute validity, but will only hold in calculations of certain mean values of the motion of the electrons. On the other hand, in the calculations of the dynamical equilibrium in a stationary state in which there is no relative displacement of the particles, we need not distinguish between the actual motions and their mean values. The second assumption is in obvious contrast to the ordinary ideas of electrodynamics, but appears to be necessary in order to account for experimental facts.",
+          "asset_id": "p008_para3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In the calculations on page 5 we have further made use of the more special assumptions, viz. that the different stationary states correspond to the emission of a different number of Planck's energy-quanta, and that the frequency of the radiation emitted during the passing of the system from a state in which no energy is yet radiated out to one of the stationary states, is equal to half the frequency of revolution of the electron in the latter state. We can, however (see § 3), also arrive at the expressions (3) for the stationary states by using assumptions of somewhat different form. We shall, therefore, postpone the discussion of the special assumptions, and first show how by the help of the above principal assumptions, and of the expressions (3) for the stationary states, we can account for the line-spectrum of hydrogen.",
+          "markdown": "In the calculations on page 5 we have further made use of the more special assumptions, viz. that the different stationary states correspond to the emission of a different number of Planck's energy-quanta, and that the frequency of the radiation emitted during the passing of the system from a state in which no energy is yet radiated out to one of the stationary states, is equal to half the frequency of revolution of the electron in the latter state. We can, however (see § 3), also arrive at the expressions (3) for the stationary states by using assumptions of somewhat different form. We shall, therefore, postpone the discussion of the special assumptions, and first show how by the help of the above principal assumptions, and of the expressions (3) for the stationary states, we can account for the line-spectrum of hydrogen.",
+          "asset_id": "p008_para4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 2. Emission of Line-spectra.",
+          "markdown": "### § 2. Emission of Line-spectra.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Dr. N. Bohr on the Constitution\n\n10\n\nThe excellent agreement between the calculated and observed values of the ratios between the wave-lengths in question seems a strong argument in favour of the validity of the foundation of Nicholson's calculations. Serious objections, however, may be raised against the theory. These objections are intimately connected with the problem of the homogeneity of the radiation emitted. In Nicholson's calculations the frequency of lines in a line-spectrum is identified with the frequency of vibration of a mechanical system in a distinctly indicated state of equilibrium. As a relation from Planck's theory is used, we might expect that the radiation is sent out in quanta; but systems like those considered, in which the frequency is a function of the energy, cannot emit a finite amount of a homogeneous radiation; for, as soon as the emission of radiation is started, the energy and also the frequency of the system are altered. Further, according to the calculation of Nicholson, the systems are unstable for some modes of vibration. Apart from such objections—which may be only formal (see p. 23)—it must be remarked, that the theory in the form given does not seem to be able to account for the well-known laws of Balmer and Rydberg connecting the frequencies of the lines in the line-spectra of the ordinary elements.\n\nIt will now be attempted to show that the difficulties in question disappear if we consider the problems from the point of view taken in this paper. Before proceeding it may be useful to restate briefly the ideas characterizing the calculations on p. 5. The principal assumptions used are:\n\n(1) That the dynamical equilibrium of the systems in the stationary states can be discussed by help of the ordinary mechanics, while the passing of the systems between different stationary states cannot be treated on that basis.\n\n(2) That the latter process is followed by the emission of a homogeneous radiation, for which the relation between the frequency and the amount of energy emitted is the one given by Planck's theory.\n\nThe first assumption seems to present itself; for it is known that the ordinary mechanics cannot have an absolute validity, but will only hold in calculations of certain mean values of the motion of the electrons. On the other hand, in the calculations of the dynamical equilibrium in a stationary state in which there is no relative displacement of the particles, we need not distinguish between the actual motions and their mean values. The second assumption is in obvious contrast to the ordinary ideas of electrodynamics, but appears to be necessary in order to account for experimental facts.\n\nIn the calculations on page 5 we have further made use of the more special assumptions, viz. that the different stationary states correspond to the emission of a different number of Planck's energy-quanta, and that the frequency of the radiation emitted during the passing of the system from a state in which no energy is yet radiated out to one of the stationary states, is equal to half the frequency of revolution of the electron in the latter state. We can, however (see § 3), also arrive at the expressions (3) for the stationary states by using assumptions of somewhat different form. We shall, therefore, postpone the discussion of the special assumptions, and first show how by the help of the above principal assumptions, and of the expressions (3) for the stationary states, we can account for the line-spectrum of hydrogen.\n\n## § 2. Emission of Line-spectra.",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Page number '10' is visible. Text is clear with minor OCR errors."
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": "11",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "of Atoms and Molecules.",
+          "markdown": "of Atoms and Molecules.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "11",
+          "markdown": "11",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.9,
+            0.95,
+            0.93
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "*Spectrum of Hydrogen.*—General evidence indicates that an atom of hydrogen consists simply of a single electron rotating round a positive nucleus of charge e*. The reformation of a hydrogen atom, when the electron has been removed to great distances away from the nucleus—*e. g.* by the effect of electrical discharge in a vacuum tube—will accordingly correspond to the binding of an electron by a positive nucleus considered on p. 5. If in (3) we put E=e, we get for the total amount of energy radiated out by the formation of one of the stationary states,",
+          "markdown": "*Spectrum of Hydrogen.*—General evidence indicates that an atom of hydrogen consists simply of a single electron rotating round a positive nucleus of charge e*. The reformation of a hydrogen atom, when the electron has been removed to great distances away from the nucleus—*e. g.* by the effect of electrical discharge in a vacuum tube—will accordingly correspond to the binding of an electron by a positive nucleus considered on p. 5. If in (3) we put E=e, we get for the total amount of energy radiated out by the formation of one of the stationary states,",
+          "asset_id": "p009_para1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W_\\tau = \\frac{2\\pi^2 m e^4}{h^2 \\tau^2}.$$",
+          "markdown": "$$W_\\tau = \\frac{2\\pi^2 m e^4}{h^2 \\tau^2}.$$",
+          "asset_id": "p009_eq6",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The amount of energy emitted by the passing of the system from a state corresponding to τ=τ₁ to one corresponding to τ=τ₂, is consequently",
+          "markdown": "The amount of energy emitted by the passing of the system from a state corresponding to τ=τ₁ to one corresponding to τ=τ₂, is consequently",
+          "asset_id": "p009_para2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W_{\\tau_2} - W_{\\tau_1} = \\frac{2\\pi^2 m e^4}{h^2} \\left( \\frac{1}{\\tau_2^2} - \\frac{1}{\\tau_1^2} \\right).$$",
+          "markdown": "$$W_{\\tau_2} - W_{\\tau_1} = \\frac{2\\pi^2 m e^4}{h^2} \\left( \\frac{1}{\\tau_2^2} - \\frac{1}{\\tau_1^2} \\right).$$",
+          "asset_id": "p009_eq7",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If now we suppose that the radiation in question is homogeneous, and that the amount of energy emitted is equal to hν, where ν is the frequency of the radiation, we get",
+          "markdown": "If now we suppose that the radiation in question is homogeneous, and that the amount of energy emitted is equal to hν, where ν is the frequency of the radiation, we get",
+          "asset_id": "p009_para3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W_{\\tau_2} - W_{\\tau_1} = h\\nu,$$",
+          "markdown": "$$W_{\\tau_2} - W_{\\tau_1} = h\\nu,$$",
+          "asset_id": "p009_eq8",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\nu = \\frac{2\\pi^2 m e^4}{h^3} \\left( \\frac{1}{\\tau_2^2} - \\frac{1}{\\tau_1^2} \\right) \\dots \\dots \\dots (4)$$",
+          "markdown": "$$\\nu = \\frac{2\\pi^2 m e^4}{h^3} \\left( \\frac{1}{\\tau_2^2} - \\frac{1}{\\tau_1^2} \\right) \\dots \\dots \\dots (4)$$",
+          "asset_id": "p009_eq9",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We see that this expression accounts for the law connecting the lines in the spectrum of hydrogen. If we put τ₂=2 and let τ₁ vary, we get the ordinary Balmer series. If we put τ₂=3, we get the series in the ultra-red observed by Paschen* and previously suspected by Ritz. If we put τ₂=1 and τ₂=4, 5, …, we get series respectively in the extreme ultraviolet and the extreme ultra-red, which are not observed, but the existence of which may be expected.",
+          "markdown": "We see that this expression accounts for the law connecting the lines in the spectrum of hydrogen. If we put τ₂=2 and let τ₁ vary, we get the ordinary Balmer series. If we put τ₂=3, we get the series in the ultra-red observed by Paschen* and previously suspected by Ritz. If we put τ₂=1 and τ₂=4, 5, …, we get series respectively in the extreme ultraviolet and the extreme ultra-red, which are not observed, but the existence of which may be expected.",
+          "asset_id": "p009_para4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "* F. Paschen, *Ann. d. Phys.* xxvii. p. 565 (1908).",
+          "markdown": "* F. Paschen, *Ann. d. Phys.* xxvii. p. 565 (1908).",
+          "asset_id": "p009_footnote3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The agreement in question is quantitative as well as qualitative. Putting",
+          "markdown": "The agreement in question is quantitative as well as qualitative. Putting",
+          "asset_id": "p009_para5",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$e = 4 \\cdot 7 \\cdot 10^{-10}, \\quad \\frac{e}{m} = 5 \\cdot 31 \\cdot 10^{17}, \\quad \\text{and} \\quad h = 6 \\cdot 5 \\cdot 10^{-27},$$",
+          "markdown": "$$e = 4 \\cdot 7 \\cdot 10^{-10}, \\quad \\frac{e}{m} = 5 \\cdot 31 \\cdot 10^{17}, \\quad \\text{and} \\quad h = 6 \\cdot 5 \\cdot 10^{-27},$$",
+          "asset_id": "p009_eq10",
+          "suggested_filename": "e = 4 \\cdot 7 \\cdot 10^{-10}, \\quad \\frac{e}{m} = 5 \\cdot 31 \\cdot 10^{17}, \\quad \\text{and} \\quad h = 6 \\cdot 5 \\cdot 10^{-27},",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "needs_manual_review_reason_ocr_error"
+        },
+        {
+          "order": 14,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{2\\pi^2 m e^4}{h^3} = 3 \\cdot 1 \\cdot 10^{15}.$$",
+          "markdown": "$$\\frac{2\\pi^2 m e^4}{h^3} = 3 \\cdot 1 \\cdot 10^{15}.$$",
+          "asset_id": "p009_eq11",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The observed value for the factor outside the bracket in the formula (4) is",
+          "markdown": "The observed value for the factor outside the bracket in the formula (4) is",
+          "asset_id": "p009_para6",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 16,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$3 \\cdot 290 \\cdot 10^{15}.$$",
+          "markdown": "$$3 \\cdot 290 \\cdot 10^{15}.$$",
+          "asset_id": "p009_eq12",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "of Atoms and Molecules.\n\n11\n\n*Spectrum of Hydrogen.*—General evidence indicates that an atom of hydrogen consists simply of a single electron rotating round a positive nucleus of charge e*. The reformation of a hydrogen atom, when the electron has been removed to great distances away from the nucleus—*e. g.* by the effect of electrical discharge in a vacuum tube—will accordingly correspond to the binding of an electron by a positive nucleus considered on p. 5. If in (3) we put E=e, we get for the total amount of energy radiated out by the formation of one of the stationary states,\n\n$$W_\\tau = \\frac{2\\pi^2 m e^4}{h^2 \\tau^2}.$$ \n\nThe amount of energy emitted by the passing of the system from a state corresponding to τ=τ₁ to one corresponding to τ=τ₂, is consequently\n\n$$W_{\\tau_2} - W_{\\tau_1} = \\frac{2\\pi^2 m e^4}{h^2} \\left( \\frac{1}{\\tau_2^2} - \\frac{1}{\\tau_1^2} \\right).$$ \n\nIf now we suppose that the radiation in question is homogeneous, and that the amount of energy emitted is equal to hν, where ν is the frequency of the radiation, we get\n\n$$W_{\\tau_2} - W_{\\tau_1} = h\\nu,$$ \n\nand from this\n\n$$\\nu = \\frac{2\\pi^2 m e^4}{h^3} \\left( \\frac{1}{\\tau_2^2} - \\frac{1}{\\tau_1^2} \\right) \\dots \\dots \\dots (4)$$ \n\nWe see that this expression accounts for the law connecting the lines in the spectrum of hydrogen. If we put τ₂=2 and let τ₁ vary, we get the ordinary Balmer series. If we put τ₂=3, we get the series in the ultra-red observed by Paschen* and previously suspected by Ritz. If we put τ₂=1 and τ₂=4, 5, …, we get series respectively in the extreme ultraviolet and the extreme ultra-red, which are not observed, but the existence of which may be expected.\n\n* F. Paschen, *Ann. d. Phys.* xxvii. p. 565 (1908).\n\nThe agreement in question is quantitative as well as qualitative. Putting\n\n$$e = 4 \\cdot 7 \\cdot 10^{-10}, \\quad \\frac{e}{m} = 5 \\cdot 31 \\cdot 10^{17}, \\quad \\text{and} \\quad h = 6 \\cdot 5 \\cdot 10^{-27},$$\n\nwe get\n\n$$\\frac{2\\pi^2 m e^4}{h^3} = 3 \\cdot 1 \\cdot 10^{15}.$$ \n\nThe observed value for the factor outside the bracket in the formula (4) is\n\n$$3 \\cdot 290 \\cdot 10^{15}.$$",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Page number '11' is visible. Mathematical equations are correctly formatted."
+      ]
+    },
+    {
+      "pdf_page_number": 10,
+      "printed_page_number": "12",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Dr. N. Bohr on the Constitution",
+          "markdown": "Dr. N. Bohr on the Constitution",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "12",
+          "markdown": "12",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.9,
+            0.95,
+            0.93
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The agreement between the theoretical and observed values is inside the uncertainty due to experimental errors in the constants entering in the expression for the theoretical value. We shall in § 3 return to consider the possible importance of the agreement in question.",
+          "markdown": "The agreement between the theoretical and observed values is inside the uncertainty due to experimental errors in the constants entering in the expression for the theoretical value. We shall in § 3 return to consider the possible importance of the agreement in question.",
+          "asset_id": "p010_para1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It may be remarked that the fact, that it has not been possible to observe more than 12 lines of the Balmer series in experiments with vacuum tubes, while 33 lines are observed in the spectra of some celestial bodies, is just what we should expect from the above theory. According to the equation (3) the diameter of the orbit of the electron in the different stationary states is proportional to τ². For τ=12 the diameter is equal to 1⋅6⋅10⁻⁶ cm., or equal to the mean distance between the molecules in a gas at a pressure of about 7 mm. mercury; for τ=33 the diameter is equal to 1⋅2⋅10⁻⁵ cm., corresponding to the mean distance of the molecules at a pressure of about 0.02 mm. mercury. According to the theory the necessary condition for the appearance of a great number of lines is therefore a very small density of the gas; for simultaneously to obtain an intensity sufficient for observation the space filled with the gas must be very great. If the theory is right, we may therefore never expect to be able in experiments with vacuum tubes to observe the lines corresponding to high numbers of the Balmer series of the emission spectrum of hydrogen; it might, however, be possible to observe the lines by investigation of the absorption spectrum of this gas (see § 4).",
+          "markdown": "It may be remarked that the fact, that it has not been possible to observe more than 12 lines of the Balmer series in experiments with vacuum tubes, while 33 lines are observed in the spectra of some celestial bodies, is just what we should expect from the above theory. According to the equation (3) the diameter of the orbit of the electron in the different stationary states is proportional to τ². For τ=12 the diameter is equal to 1⋅6⋅10⁻⁶ cm., or equal to the mean distance between the molecules in a gas at a pressure of about 7 mm. mercury; for τ=33 the diameter is equal to 1⋅2⋅10⁻⁵ cm., corresponding to the mean distance of the molecules at a pressure of about 0.02 mm. mercury. According to the theory the necessary condition for the appearance of a great number of lines is therefore a very small density of the gas; for simultaneously to obtain an intensity sufficient for observation the space filled with the gas must be very great. If the theory is right, we may therefore never expect to be able in experiments with vacuum tubes to observe the lines corresponding to high numbers of the Balmer series of the emission spectrum of hydrogen; it might, however, be possible to observe the lines by investigation of the absorption spectrum of this gas (see § 4).",
+          "asset_id": "p010_para2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It will be observed that we in the above way do not obtain other series of lines, generally ascribed to hydrogen; for instance, the series first observed by Pickering* in the spectrum of the star ζ Puppis, and the set of series recently found by Fowler† by experiments with vacuum tubes containing a mixture of hydrogen and helium. We shall, however, see that, by help of the above theory, we can account naturally for these series of lines if we ascribe them to helium.",
+          "markdown": "It will be observed that we in the above way do not obtain other series of lines, generally ascribed to hydrogen; for instance, the series first observed by Pickering* in the spectrum of the star ζ Puppis, and the set of series recently found by Fowler† by experiments with vacuum tubes containing a mixture of hydrogen and helium. We shall, however, see that, by help of the above theory, we can account naturally for these series of lines if we ascribe them to helium.",
+          "asset_id": "p010_para3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "* E. C. Pickering, *Astrophys. J.* iv. p. 369 (1896); v. p. 92 (1897).\n\n† A. Fowler, *Month. Not. Roy. Astr. Soc.* lxxiii. Dec. 1912.",
+          "markdown": "* E. C. Pickering, *Astrophys. J.* iv. p. 369 (1896); v. p. 92 (1897).\n\n† A. Fowler, *Month. Not. Roy. Astr. Soc.* lxxiii. Dec. 1912.",
+          "asset_id": "p010_footnote4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "A neutral atom of the latter element consists, according to Rutherford's theory, of a positive nucleus of charge 2e and two electrons. Now considering the binding of a single electron by a helium nucleus, we get, putting E=2e in the expressions (3) on page 5, and proceeding in exactly the same way as above,",
+          "markdown": "A neutral atom of the latter element consists, according to Rutherford's theory, of a positive nucleus of charge 2e and two electrons. Now considering the binding of a single electron by a helium nucleus, we get, putting E=2e in the expressions (3) on page 5, and proceeding in exactly the same way as above,",
+          "asset_id": "p010_para4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.38
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\nu = \\frac{8\\pi^2 m e^4}{h^3} \\left( \\frac{1}{\\tau_2^2} - \\frac{1}{\\tau_1^2} \\right) = \\frac{2\\pi^2 m e^4}{h^3} \\left( \\frac{1}{\\left( \\frac{\\tau_2}{2} \\right)^2} - \\frac{1}{\\left( \\frac{\\tau_1}{2} \\right)^2} \\right).$$",
+          "markdown": "$$\\nu = \\frac{8\\pi^2 m e^4}{h^3} \\left( \\frac{1}{\\tau_2^2} - \\frac{1}{\\tau_1^2} \\right) = \\frac{2\\pi^2 m e^4}{h^3} \\left( \\frac{1}{\\left( \\frac{\\tau_2}{2} \\right)^2} - \\frac{1}{\\left( \\frac{\\tau_1}{2} \\right)^2} \\right).$$",
+          "asset_id": "p010_eq13",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Dr. N. Bohr on the Constitution\n\n12\n\nThe agreement between the theoretical and observed values is inside the uncertainty due to experimental errors in the constants entering in the expression for the theoretical value. We shall in § 3 return to consider the possible importance of the agreement in question.\n\nIt may be remarked that the fact, that it has not been possible to observe more than 12 lines of the Balmer series in experiments with vacuum tubes, while 33 lines are observed in the spectra of some celestial bodies, is just what we should expect from the above theory. According to the equation (3) the diameter of the orbit of the electron in the different stationary states is proportional to τ². For τ=12 the diameter is equal to 1⋅6⋅10⁻⁶ cm., or equal to the mean distance between the molecules in a gas at a pressure of about 7 mm. mercury; for τ=33 the diameter is equal to 1⋅2⋅10⁻⁵ cm., corresponding to the mean distance of the molecules at a pressure of about 0.02 mm. mercury. According to the theory the necessary condition for the appearance of a great number of lines is therefore a very small density of the gas; for simultaneously to obtain an intensity sufficient for observation the space filled with the gas must be very great. If the theory is right, we may therefore never expect to be able in experiments with vacuum tubes to observe the lines corresponding to high numbers of the Balmer series of the emission spectrum of hydrogen; it might, however, be possible to observe the lines by investigation of the absorption spectrum of this gas (see § 4).\n\nIt will be observed that we in the above way do not obtain other series of lines, generally ascribed to hydrogen; for instance, the series first observed by Pickering* in the spectrum of the star ζ Puppis, and the set of series recently found by Fowler† by experiments with vacuum tubes containing a mixture of hydrogen and helium. We shall, however, see that, by help of the above theory, we can account naturally for these series of lines if we ascribe them to helium.\n\n* E. C. Pickering, *Astrophys. J.* iv. p. 369 (1896); v. p. 92 (1897).\n\n† A. Fowler, *Month. Not. Roy. Astr. Soc.* lxxiii. Dec. 1912.\n\nA neutral atom of the latter element consists, according to Rutherford's theory, of a positive nucleus of charge 2e and two electrons. Now considering the binding of a single electron by a helium nucleus, we get, putting E=2e in the expressions (3) on page 5, and proceeding in exactly the same way as above,",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Page number '12' is visible. Minor OCR errors detected in text (e.g., '⋅' instead of '.')."
+      ]
+    },
+    {
+      "pdf_page_number": 25,
+      "printed_page_number": "25",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Dr. N. Bohr on the Constitution",
+          "markdown": "Dr. N. Bohr on the Constitution",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "25",
+          "markdown": "25",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The foundation of the hypothesis has been sought entirely in its relation with Planck's theory of radiation; by help of considerations given later it will be attempted to throw some further light on the foundation of it from another point of view.",
+          "markdown": "The foundation of the hypothesis has been sought entirely in its relation with Planck's theory of radiation; by help of considerations given later it will be attempted to throw some further light on the foundation of it from another point of view.",
+          "asset_id": "p025_para1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "April 5, 1913.",
+          "markdown": "April 5, 1913.",
+          "asset_id": "p025_para2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Dr. N. Bohr on the Constitution\n\n25\n\nThe foundation of the hypothesis has been sought entirely in its relation with Planck's theory of radiation; by help of considerations given later it will be attempted to throw some further light on the foundation of it from another point of view.\n\nApril 5, 1913.",
+      "word_count": 50,
+      "page_quality_notes": [
+        "Final page of the document. Text is clear."
+      ]
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 25,
+    "ocr_page_count": 25,
+    "total_word_count": 12500,
+    "figure_count": 0,
+    "table_count": 0,
+    "equation_block_count": 15,
+    "pages_requiring_review": [
+      6
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "All pages are present and OCR quality is high. Minor OCR errors detected in text and mathematical symbols."
+    ]
+  }
+}

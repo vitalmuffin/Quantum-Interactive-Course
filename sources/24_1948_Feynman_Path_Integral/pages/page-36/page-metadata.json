@@ -1,0 +1,119 @@
+{
+  "index": 35,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 157,
+      "bottomRightX": 587,
+      "bottomRightY": 222,
+      "content": "is replaced by $\\exp i(S - S')/\\hbar$, where $S'$ is the same function of the $x_i'$ as $S$ is of $x_i$. It is required, for example, to describe the result of the elimination of the field oscillators where, say, the final state of the oscillators is unspecified and one desires only the sum over all final states $m$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 224,
+      "bottomRightX": 587,
+      "bottomRightY": 272,
+      "content": "Spin may be included in a formal way. The Pauli spin equation can be obtained in this way: One replaces the vector potential interaction term in $S(x_{i+1}, x_i)$,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 278,
+      "bottomRightX": 507,
+      "bottomRightY": 306,
+      "content": "$$\\frac{e}{2c}(\\mathbf{x}_{i+1} - \\mathbf{x}_i) \\cdot \\mathbf{A}(\\mathbf{x}_i) + \\frac{e}{2c}(\\mathbf{x}_{i+1} - \\mathbf{x}_i) \\cdot \\mathbf{A}(\\mathbf{x}_{i+1})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 310,
+      "bottomRightX": 420,
+      "bottomRightY": 326,
+      "content": "arising from expression (13) by the expression",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 332,
+      "bottomRightX": 554,
+      "bottomRightY": 360,
+      "content": "$$\\frac{e}{2c}(\\sigma \\cdot (\\mathbf{x}_{i+1} - \\mathbf{x}_i))(\\sigma \\cdot \\mathbf{A}(\\mathbf{x}_i)) + \\frac{e}{2c}(\\sigma \\cdot \\mathbf{A}(\\mathbf{x}_{i+1}))(\\sigma \\cdot (\\mathbf{x}_{i+1} - \\mathbf{x}_i)).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 363,
+      "bottomRightX": 587,
+      "bottomRightY": 428,
+      "content": "Here $\\mathbf{A}$ is the vector potential, $\\mathbf{x}_{i+1}$ and $\\mathbf{x}$, the vector positions of a particle at times $t_{i+1}$ and $t_i$, and $\\sigma$ is Pauli's spin vector matrix. The quantity $\\Phi$ must now be expressed as $\\Pi_i \\exp i S(x_{i+1}, x_i)/\\hbar$ for this differs from the exponential of the sum of $S(x_{i+1}, x_i)$. Thus, $\\Phi$ is now a spin matrix.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 429,
+      "bottomRightX": 587,
+      "bottomRightY": 526,
+      "content": "The Klein Gordon relativistic equation can also be obtained formally by adding a fourth coordinate to specify a path. One considers a \"path\" as being specified by four functions $x^{(\\mu)}(\\tau)$ of a parameter $\\tau$. The parameter $\\tau$ now goes in steps $\\epsilon$ as the variable $t$ went previously. The quantities $x^{(1)}(t), x^{(2)}(t), x^{(3)}(t)$ are the space coordinates of a particle and $x^{(4)}(t)$ is a corresponding time. The Lagrangian used is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 266,
+      "topLeftY": 533,
+      "bottomRightX": 471,
+      "bottomRightY": 574,
+      "content": "$$\\sum_{\\mu=1}^{t} [(dx^\\mu/d\\tau)^2 + (e/c)(dx^\\mu/d\\tau)\\mathbf{A}_\\mu],$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 580,
+      "bottomRightX": 587,
+      "bottomRightY": 694,
+      "content": "where $A_\\mu$ is the 4-vector potential and the terms in the sum for $\\mu = 1, 2, 3$ are taken with reversed sign. If one seeks a wave function which depends upon $\\tau$ periodically, one can show this must satisfy the Klein Gordon equation. The Dirac equation results from a modification of the Lagrangian used for the Klein Gordon equation, which is analogous to the modification of the non-relativistic Lagrangian required for the Pauli equation. What results directly is the square of the usual Dirac operator.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 696,
+      "bottomRightX": 587,
+      "bottomRightY": 760,
+      "content": "These results for spin and relativity are purely formal and add nothing to the understanding of these equations. There are other ways of obtaining the Dirac equation which offer some promise of giving a clearer physical interpretation to that important and beautiful equation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 760,
+      "bottomRightX": 587,
+      "bottomRightY": 809,
+      "content": "The author sincerely appreciates the helpful advice of Professor and Mrs. H. C. Corben and of Professor H. A. Bethe. He wishes to thank Professor J. A. Wheeler for very many discussions during the early stages of the work.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 835,
+      "bottomRightX": 376,
+      "bottomRightY": 846,
+      "content": "36",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "index": 30,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 136,
+      "topLeftY": 36,
+      "bottomRightX": 474,
+      "bottomRightY": 57,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 536,
+      "topLeftY": 38,
+      "bottomRightX": 557,
+      "bottomRightY": 57,
+      "content": "51",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 49,
+      "topLeftY": 75,
+      "bottomRightX": 560,
+      "bottomRightY": 128,
+      "content": "Dans tous les cas où les potentiels ne dépendent pas du temps on retrouve la conservation de l'énergie :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 138,
+      "bottomRightX": 513,
+      "bottomRightY": 191,
+      "content": "$$W = -\\mathcal{L} + \\sum_i p_i q_i = C^{te} \\quad p_i = \\frac{\\partial \\mathcal{L}}{\\partial q_i} \\quad i = 1, 2, 3.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 202,
+      "bottomRightX": 559,
+      "bottomRightY": 255,
+      "content": "En suivant exactement la même marche que plus haut, on obtient le principe de Maupertuis :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 268,
+      "bottomRightX": 373,
+      "bottomRightY": 309,
+      "content": "$$\\delta \\int_A^{B\\phi} \\sum_i p_i dq_i = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 321,
+      "bottomRightX": 558,
+      "bottomRightY": 399,
+      "content": "A et B étant les deux points de l'espace qui correspondent pour le système de référence employé aux points P et Q de l'espace-temps.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 397,
+      "bottomRightX": 557,
+      "bottomRightY": 561,
+      "content": "Les quantités $p_1 p_2 p_3$ égales aux dérivées partielles de la fonction $\\mathcal{L}$ par rapport aux vitesses correspondantes peuvent servir à définir un vecteur $\\vec{p}$ que nous nommerons le « vecteur moment ». S'il n'y a pas de champ magnétique (qu'il y ait ou non un champ électrique), les composantes rectangulaires de ce vecteur sont :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 578,
+      "bottomRightX": 508,
+      "bottomRightY": 626,
+      "content": "$$p_x = \\frac{m_0 v_x}{\\sqrt{1 - \\beta^2}} \\quad p_y = \\frac{m_0 v_y}{\\sqrt{1 - \\beta^2}} \\quad p_z = \\frac{m_0 v_z}{\\sqrt{1 - \\beta^2}}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 636,
+      "bottomRightX": 554,
+      "bottomRightY": 762,
+      "content": "Il est donc identique à la quantité de mouvement et l'intégrale d'action Maupertuisienne à la forme simple proposée par Maupertuis lui-même avec cette seule différence que la masse varie maintenant avec la vitesse suivant la loi de Lorentz.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 762,
+      "bottomRightX": 552,
+      "bottomRightY": 815,
+      "content": "S'il y a un champ magnétique, on trouve pour les composantes du vecteur moment les expressions :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 828,
+      "bottomRightX": 550,
+      "bottomRightY": 878,
+      "content": "$$p_x = \\frac{m_0 v_x}{\\sqrt{1 - \\beta^2}} + ea_x \\quad p_y = \\frac{m_0 v_y}{\\sqrt{1 - \\beta^2}} + ea_y \\quad p_z = \\frac{m_0 v_z}{\\sqrt{1 - \\beta^2}} + ea_z.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 886,
+      "bottomRightX": 551,
+      "bottomRightY": 972,
+      "content": "Il n'y a plus identité entre le vecteur $\\vec{p}$ et la quantité de mouvement; par suite, l'expression de l'intégrale d'action en devient plus compliquée.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

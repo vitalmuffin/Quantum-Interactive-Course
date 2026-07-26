@@ -1,0 +1,92 @@
+{
+  "index": 12,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 162,
+      "topLeftY": 94,
+      "bottomRightX": 513,
+      "bottomRightY": 110,
+      "content": "Wechselwirkung neutraler Atome und homöopolare Bindung.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 548,
+      "topLeftY": 94,
+      "bottomRightX": 577,
+      "bottomRightY": 110,
+      "content": "467",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 132,
+      "bottomRightX": 579,
+      "bottomRightY": 372,
+      "content": "Wir sehen also, daß bei He einzig die Lösung $\\beta$ den Forderungen genügt. Zu ihr aber gehört der höhere Eigenwert. Wenn wir die Verhältnisse beim Wasserstoff hier übertragen, so haben wir für die Abhängigkeit der Wechselwirkung von $R$ die obere Kurve $E_\\beta$ von Fig. 1, welche stets Abstoßung ergibt, anzunehmen. Nähere Diskussion zeigt, daß sie ungefähr die richtige Größe des gaskinetischen He-Radius liefert. Die außerordentliche Einschränkung, die wir hier beim He finden, hat ihren Grund ersichtlich darin, daß 2 He-Atome (und dasselbe gilt für alle Edelgase) sich hinsichtlich ihres Dralls nicht unterscheiden können — im Gegensatz zum Wasserstoff (und allen Atomen mit unabgeschlossenen Schalen) —, wodurch 2 He-Atomen nur eine einzige Verhaltensweise möglich ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 377,
+      "bottomRightX": 580,
+      "bottomRightY": 517,
+      "content": "3. Wir wollen jetzt noch zeigen, welche von den so ausgeschiedenen Lösungen eine Molekülbildung gestatten. Folgende Charakterisierung eines Moleküls scheint für eine weite Klasse von Fällen das Richtige zu treffen¹: Die Konfiguration derjenigen Elektronen, welche an der Bindung der Molekel beteiligt sind, soll adiabatisch (d. h. ohne Quantensprünge) in eine nach dem Pauliprinzip erlaubte Konfiguration eines Atoms überführbar sein.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 519,
+      "bottomRightX": 580,
+      "bottomRightY": 618,
+      "content": "Man sieht sofort, die Lösung $\\alpha$ von Wasserstoff ist in diesem Sinne einer Molekülbildung fähig²: Durch adiabatisches Zusammenrücken der Kerne würde der Grundzustand eines He-Atoms ($1^1S$) resultieren. Tatsächlich zeigt $E_\\alpha$ (Fig. 1) starke Anziehung, — die Gleichgewichtslage entspricht dem normalen Zustand der $H_2$-Molekel.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 618,
+      "bottomRightX": 581,
+      "bottomRightY": 797,
+      "content": "Die Lösung $\\beta$ von Wasserstoff tritt, wie wir sehen, ein, wenn die beiden Elektronen gleichen Drall haben. Bei der Überführung in einen He-artigen Zustand würden zwei äquivalente Bahnen mit gleichem Drall resultieren. Diese sind aber ausgeschlossen. [Es wäre dies der tiefste Zustand des Triplettsystems ($1^3S$), der nicht vorhanden ist, und der bei der Auffindung des Pauliprinzips eine so große Rolle gespielt hat.] $\\beta$ kann also nicht zur Molekülbildung führen — und sozusagen als die Wächter des Pauliverbots sehen wir eine beträchtliche Abstoßung jede Annäherung verhüten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 803,
+      "bottomRightX": 581,
+      "bottomRightY": 842,
+      "content": "Die Lösungen $\\alpha$, $\\beta$, $\\gamma$, $\\delta$ bei He können sämtlich keine Molekülbildung bewirken, denn es würden dann vier Elektronen in einer $K$-Schale",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 854,
+      "bottomRightX": 581,
+      "bottomRightY": 886,
+      "content": "¹ Wir lehnen uns dabei an die Überlegungen von H. G. Grimm und A. Sommerfeld, ZS. f. Phys. 36, 36, 1926, sowie F. Hund, i. e., an.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 884,
+      "bottomRightX": 581,
+      "bottomRightY": 916,
+      "content": "² Sie muß natürlich nicht zur Molekülbildung führen. Wann das eintritt, hängt von den Anfangsbedingungen ab.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "index": 30,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 263,
+      "topLeftY": 99,
+      "bottomRightX": 417,
+      "bottomRightY": 115,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 552,
+      "topLeftY": 99,
+      "bottomRightX": 580,
+      "bottomRightY": 116,
+      "content": "587",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 135,
+      "bottomRightX": 580,
+      "bottomRightY": 174,
+      "content": "Nach unserer Voraussetzung haben nun die Koeffizienten der Gleichungen (15), Kap. 3, die Form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 179,
+      "bottomRightX": 499,
+      "bottomRightY": 198,
+      "content": "$$H(kl) = \\delta_{kl} W_l^0 + \\lambda H_1(kl) + \\lambda^2 H_2(kl) + \\cdots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 203,
+      "bottomRightX": 580,
+      "bottomRightY": 240,
+      "content": "Daher suchen wir die Lösung von (15), Kap. 3, durch Entwicklungen der Form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 230,
+      "bottomRightX": 580,
+      "bottomRightY": 271,
+      "content": "$$\\left. \\begin{aligned} W &= W^0 + \\lambda W^{(1)} + \\lambda^2 W^{(2)} + \\cdots \\\\ x_k &= x_k^0 + \\lambda x_k^{(1)} + \\lambda^2 x_k^{(2)} + \\cdots \\end{aligned} \\right\\} \\quad (16)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 273,
+      "bottomRightX": 580,
+      "bottomRightY": 311,
+      "content": "zu gewinnen. Setzen wir das in (15), Kap. 3, ein, so bekommen wir die Näherungsgleichungen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 316,
+      "bottomRightX": 580,
+      "bottomRightY": 423,
+      "content": "$$\\left. \\begin{aligned} a) & x_k^0 (W^0 - W_k^0) = 0, \\\\ b) & x_k^{(1)} (W^0 - W_k^0) = -x_k^0 W^{(1)} + \\sum_l H^{(1)}(kl) x_l^0, \\\\ c) & x_k^{(2)} (W^0 - W_k^0) = -(x_k^{(1)} W^{(1)} + x_k^{(0)} W^{(2)}) \\\\ & \\quad + \\sum_l (H^{(1)}(kl) x_l^{(1)} + H^{(2)}(kl) x_l^0). \\end{aligned} \\right\\} \\quad (17)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 423,
+      "bottomRightX": 580,
+      "bottomRightY": 501,
+      "content": "Aus (17a), Kap. 3, folgt, daß $W$ gleich einem der $W_k$ werden muß; denn sonst würden alle $x_k^0$ verschwinden, und dann würde man aus den folgenden Näherungsgleichungen auch das Verschwinden von $x_k^{(1)}, x_k^{(2)} \\dots$ der Reihe nach erschließen können.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 503,
+      "bottomRightX": 580,
+      "bottomRightY": 544,
+      "content": "Nehmen wir nun das Ausgangssystem als nicht entartet, also alle $W_k^0$ als verschieden an, so lautet die Lösung von (17a), Kap. 3:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 545,
+      "bottomRightX": 580,
+      "bottomRightY": 567,
+      "content": "$$W = W_n^0; \\quad x_{nn}^0 = y_n^0; \\quad x_{kn}^0 = 0 \\text{ für } k \\neq n. \\quad (18)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 569,
+      "bottomRightX": 319,
+      "bottomRightY": 588,
+      "content": "Dabei ist $y_n^0$ eine beliebige Zahl.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 589,
+      "bottomRightX": 580,
+      "bottomRightY": 626,
+      "content": "Setzen wir das in (17b), Kap. 3, ein, so hat man, je nachdem $k = n$ oder $k \\neq n$ ist:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 626,
+      "bottomRightX": 474,
+      "bottomRightY": 667,
+      "content": "$$\\begin{aligned} 0 &= y_n^0 (-W^{(1)} + H^{(1)}(nn)), \\\\ x_k^{(1)} (W_n^0 - W_k^0) &= H^{(1)}(kn) y_n^0, \\quad k \\neq n. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 668,
+      "bottomRightX": 262,
+      "bottomRightY": 687,
+      "content": "Die Lösung lautet also:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 688,
+      "bottomRightX": 580,
+      "bottomRightY": 727,
+      "content": "$$W^{(1)} = H^{(1)}(nn); \\quad x_{nn}^{(1)} = y_n^{(1)}; \\quad x_{kn}^{(1)} = -\\frac{H^{(1)}(kn)}{h \\nu_0(kn)} y_n^0 \\text{ für } k \\neq n, \\quad (19)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 722,
+      "bottomRightX": 374,
+      "bottomRightY": 744,
+      "content": "wo $y_n^{(1)}$ wiederum eine beliebige Zahl ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 744,
+      "bottomRightX": 410,
+      "bottomRightY": 763,
+      "content": "Nunmehr folgt ebenso aus (17c), Kap. 3:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 154,
+      "topLeftY": 766,
+      "bottomRightX": 580,
+      "bottomRightY": 915,
+      "content": "$$\\left. \\begin{aligned} W^{(2)} &= H^{(2)}(nn) - \\frac{1}{h} \\sum_l \\frac{H^{(1)}(nl) H^{(1)}(ln)}{\\nu_0(ln)}, \\\\ x_{nn}^{(2)} &= y_n^{(2)} \\\\ x_{kn}^{(2)} &= \\left( \\frac{1}{h^2} \\sum_l \\frac{H^{(1)}(kl) H^{(1)}(ln)}{\\nu_0(kn) \\nu_0(ln)} - \\frac{H^{(1)}(nn) H^{(1)}(kn)}{h^2 \\nu_0(kn)^2} \\right. \\\\ & \\left. - \\frac{H^{(2)}(kn)}{h \\nu_0(kn)} \\right) y_n^0 - \\frac{H^{(1)}(kn)}{h \\nu_0(kn)} y_n^{(1)}. \\end{aligned} \\right\\} \\quad (20)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

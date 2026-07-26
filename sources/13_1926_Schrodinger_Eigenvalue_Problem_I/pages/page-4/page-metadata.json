@@ -1,0 +1,146 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 660
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 90,
+      "topLeftY": 58,
+      "bottomRightX": 122,
+      "bottomRightY": 77,
+      "content": "364",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 273,
+      "topLeftY": 58,
+      "bottomRightX": 383,
+      "bottomRightY": 78,
+      "content": "E. Schrödinger.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 94,
+      "bottomRightX": 568,
+      "bottomRightY": 153,
+      "content": "nur für gewisse ausgezeichnete Werte der in der Gleichung auftretenden Konstanten. Diese ausgezeichneten Werte gilt es zu bestimmen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 154,
+      "bottomRightX": 568,
+      "bottomRightY": 195,
+      "content": "Der eben hervorgehobene Sachverhalt ist der *springende Punkt* in der ganzen Untersuchung.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 195,
+      "bottomRightX": 568,
+      "bottomRightY": 257,
+      "content": "Wir betrachten zunächst die singuläre Stelle $r = 0$. Die sogenannte *determinierende Fundamentalgleichung*, welche das Verhalten der Integrale an dieser Stelle bestimmt, ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 262,
+      "bottomRightX": 446,
+      "bottomRightY": 284,
+      "content": "$$(8) \\quad \\varrho(\\varrho - 1) + 2\\varrho - n(n + 1) = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 287,
+      "bottomRightX": 226,
+      "bottomRightY": 306,
+      "content": "mit den Wurzeln",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 312,
+      "bottomRightX": 437,
+      "bottomRightY": 334,
+      "content": "$$(8') \\quad \\varrho_1 = n, \\quad \\varrho_2 = -(n + 1) .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 339,
+      "bottomRightX": 569,
+      "bottomRightY": 564,
+      "content": "Die beiden kanonischen Integrale an dieser Stelle gehören also zu den Exponenten $n$ und $-(n + 1)$. Von ihnen ist, da $n$ nicht negativ ist, nur das erste für uns brauchbar. Es wird, da es zu dem *größeren* Exponenten gehört, durch eine gewöhnliche Potenzreihe dargestellt, die mit $r^n$ beginnt. (Das andere Integral, das uns nicht interessiert, kann, wegen der ganzzahligen Differenz zwischen den Exponenten, einen Logarithmus enthalten.) Da der nächste singuläre Punkt erst im Unendlichen liegt, konvergiert die genannte Potenzreihe beständig und stellt eine *Ganze Transzendente* dar. Wir stellen also fest:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 566,
+      "bottomRightX": 570,
+      "bottomRightY": 626,
+      "content": "*Die gesuchte Lösung ist eine (bis auf einen belanglosen konstanten Faktor) eindeutig bestimmte Ganze Transzendente, die bei $r = 0$ zum Exponenten $n$ gehört.*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 626,
+      "bottomRightX": 569,
+      "bottomRightY": 688,
+      "content": "Es handelt sich jetzt darum, das Verhalten dieser Funktion im *Unendlichen* der positiven reellen Achse zu untersuchen. Dazu vereinfachen wir die Gleichung (7) durch die Substitution",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 696,
+      "bottomRightX": 367,
+      "bottomRightY": 717,
+      "content": "$$(9) \\quad \\chi = r^\\alpha U ,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 721,
+      "bottomRightX": 569,
+      "bottomRightY": 802,
+      "content": "worin $\\alpha$ so gewählt wird, daß das Glied mit $1/r^2$ fortfällt. Dazu muß $\\alpha$ einen der beiden Werte $n$, $-(n + 1)$ erhalten, wie man leicht nachrechnet. Gleichung (7) nimmt dann die Form an:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 808,
+      "bottomRightX": 497,
+      "bottomRightY": 843,
+      "content": "$$(7') \\quad \\frac{d^2 U}{dr^2} + \\frac{2(\\alpha + 1)}{r} \\frac{dU}{dr} + \\frac{2m}{K^2} \\left( E + \\frac{e^2}{r} \\right) U = 0 .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 851,
+      "bottomRightX": 569,
+      "bottomRightY": 892,
+      "content": "*Ihre* Integrale gehören bei $r = 0$ zu den Exponenten 0 und $-2\\alpha - 1$. Für den ersten $\\alpha$-Wert, $\\alpha = n$, ist das *erste*, für",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

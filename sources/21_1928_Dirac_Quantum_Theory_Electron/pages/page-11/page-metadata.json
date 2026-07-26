@@ -1,0 +1,200 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 108,
+      "topLeftY": 100,
+      "bottomRightX": 137,
+      "bottomRightY": 115,
+      "content": "620",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 299,
+      "topLeftY": 99,
+      "bottomRightX": 420,
+      "bottomRightY": 118,
+      "content": "P. A. M. Dirac.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 136,
+      "bottomRightX": 611,
+      "bottomRightY": 175,
+      "content": "together with similar relations obtained by permuting the suffixes. Also m commutes with r, and with p_r, the momentum canonically conjugate to r.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 120,
+      "topLeftY": 177,
+      "bottomRightX": 184,
+      "bottomRightY": 193,
+      "content": "We have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 196,
+      "bottomRightX": 517,
+      "bottomRightY": 263,
+      "content": "$$\\begin{array}{l} m_{1} \\mathbf{F} - \\mathbf{F} m_{1} = \\rho_{1} \\{m_{1}(\\boldsymbol{\\sigma}, \\mathbf{p}) - (\\boldsymbol{\\sigma}, \\mathbf{p}) m_{1}\\} \\\\ = \\rho_{1}(\\boldsymbol{\\sigma}, m_{1} \\mathbf{p} - \\mathbf{p} m_{1}) \\\\ = i h \\rho_{1} (\\sigma_{2} p_{3} - \\sigma_{3} p_{2}), \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 261,
+      "bottomRightX": 153,
+      "bottomRightY": 276,
+      "content": "and so",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 278,
+      "bottomRightX": 608,
+      "bottomRightY": 296,
+      "content": "$$\\mathbf{m} \\mathbf{F} - \\mathbf{F} \\mathbf{m} = i h \\rho_{1} \\boldsymbol{\\sigma} \\times \\mathbf{p}. \\tag{18}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 307,
+      "bottomRightX": 484,
+      "bottomRightY": 324,
+      "content": "Thus m is not a constant of the motion. We have further",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 223,
+      "topLeftY": 333,
+      "bottomRightX": 489,
+      "bottomRightY": 401,
+      "content": "$$\\begin{array}{l} \\sigma_{1} \\mathbf{F} - \\mathbf{F} \\sigma_{1} = \\rho_{1} \\{\\sigma_{1}(\\boldsymbol{\\sigma}, \\mathbf{p}) - (\\boldsymbol{\\sigma}, \\mathbf{p}) \\sigma_{1}\\} \\\\ = \\rho_{1} (\\sigma_{1} \\boldsymbol{\\sigma} - \\boldsymbol{\\sigma} \\sigma_{1}, \\mathbf{p}) \\\\ = 2 i \\rho_{1} (\\sigma_{3} p_{2} - \\sigma_{2} p_{3}), \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 408,
+      "bottomRightX": 282,
+      "bottomRightY": 426,
+      "content": "with the help of (8), and so",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 266,
+      "topLeftY": 435,
+      "bottomRightX": 456,
+      "bottomRightY": 452,
+      "content": "$$\\boldsymbol{\\sigma} \\mathbf{F} - \\mathbf{F} \\boldsymbol{\\sigma} = - 2 i \\rho_{1} \\boldsymbol{\\sigma} \\times \\mathbf{p}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 449,
+      "bottomRightX": 149,
+      "bottomRightY": 466,
+      "content": "Hence",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 467,
+      "bottomRightX": 483,
+      "bottomRightY": 485,
+      "content": "$$(\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}) \\mathbf{F} - \\mathbf{F} (\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}) = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 491,
+      "bottomRightX": 610,
+      "bottomRightY": 570,
+      "content": "Thus $\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}$ (= M say) is a constant of the motion. We can interpret this result by saying that the electron has a spin angular momentum of $\\tfrac{1}{2} h \\boldsymbol{\\sigma}$, which, added to the orbital angular momentum m, gives the total angular momentum M, which is a constant of the motion.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 574,
+      "bottomRightX": 608,
+      "bottomRightY": 611,
+      "content": "The Vertauschungs relations (17) all hold when M's are written for the m's. In particular",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 222,
+      "topLeftY": 611,
+      "bottomRightX": 494,
+      "bottomRightY": 631,
+      "content": "$$\\mathbf{M} \\times \\mathbf{M} = i h \\mathbf{M} \\quad \\text{and} \\quad \\mathbf{M}^{2} \\mathbf{M}_{3} = \\mathbf{M}_{3} \\mathbf{M}^{2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 641,
+      "bottomRightX": 610,
+      "bottomRightY": 719,
+      "content": "M_3 will be an action variable of the system. Since the characteristic values of m_3 must be integral multiples of h in order that the wave function may be single-valued, the characteristic values of M_3 must be half odd integral multiples of h. If we put",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 303,
+      "topLeftY": 720,
+      "bottomRightX": 607,
+      "bottomRightY": 739,
+      "content": "$$\\mathbf{M}^{2} = (j^{2} - \\tfrac{1}{4}) h^{2}, \\tag{19}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 749,
+      "bottomRightX": 608,
+      "bottomRightY": 789,
+      "content": "j will be another quantum number, and the characteristic values of M_3 will extend from $(j - \\tfrac{1}{2}) h$ to $(-j + \\tfrac{1}{2}) h$.* Thus j takes integral values.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 791,
+      "bottomRightX": 610,
+      "bottomRightY": 893,
+      "content": "One easily verifies from (18) that m^2 does not commute with F, and is thus not a constant of the motion. This makes a difference between the present theory and the previous spinning electron theory, in which m^2 is constant, and defines the azimuthal quantum number k by a relation similar to (19). We shall find that our j plays the same part as the k of the previous theory.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 216,
+      "topLeftY": 903,
+      "bottomRightX": 500,
+      "bottomRightY": 920,
+      "content": "* See 'Roy. Soc. Proc.,' A, vol. 111, p. 281 (1926).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

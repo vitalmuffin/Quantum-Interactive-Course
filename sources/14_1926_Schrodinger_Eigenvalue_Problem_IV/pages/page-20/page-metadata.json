@@ -1,0 +1,101 @@
+{
+  "index": 19,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 73,
+      "topLeftY": 41,
+      "bottomRightX": 104,
+      "bottomRightY": 59,
+      "content": "128",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 41,
+      "bottomRightX": 367,
+      "bottomRightY": 60,
+      "content": "E. Schrödinger",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 76,
+      "bottomRightX": 551,
+      "bottomRightY": 117,
+      "content": "kommenden Emissionsfrequenzen übereinstimmt. Wir nehmen nun an, es sei etwa",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 123,
+      "bottomRightX": 392,
+      "bottomRightY": 144,
+      "content": "$$(31) \\quad h\\nu = E_n - E_k > 0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 147,
+      "bottomRightX": 553,
+      "bottomRightY": 249,
+      "content": "wobei wir im übrigen, der einfacheren Sprechweise wegen, zu den beschränkenden Annahmen von § 2 zurückkehren (einfache, diskrete Eigenwerte, eine einzige freie Schwingung $u_k$ erregt). Im Gleichungspaar (13) erhält dann der Eigenwertparameter die Werte",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 249,
+      "bottomRightX": 424,
+      "bottomRightY": 291,
+      "content": "$$(32) \\quad E_k \\pm E_n \\mp E_k = \\begin{cases} E_n \\\\ 2E_k - E_n \\end{cases}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 299,
+      "bottomRightX": 555,
+      "bottomRightY": 383,
+      "content": "D. h. für das obere Zeichen liegt ein *Eigenwert*, nämlich $E_n$, vor. — Dann sind zwei Fälle möglich. Entweder die mit $\\varrho(x)$ multiplizierte rechte Seite dieser Gleichung *steht senkrecht* auf der zugehörigen Eigenfunktion $u_n(x)$, d. h. es ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 389,
+      "bottomRightX": 449,
+      "bottomRightY": 421,
+      "content": "$$(33) \\quad \\int A(x)u_k(x)u_n(x)\\varrho(x)dx = a'_{kn} = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 426,
+      "bottomRightX": 555,
+      "bottomRightY": 695,
+      "content": "oder physikalisch: $u_k$ und $u_n$ würden, wenn sie als freie Schwingungen nebeneinander bestehen, entweder zu gar keiner oder zu einer Spontanemission Anlaß geben, die senkrecht zur Polarisationsrichtung des einfallenden Lichtes polarisiert ist. In diesem Falle besitzt auch die kritische Gleichung (13) nach wie vor eine Lösung, welche nach wie vor durch (14) gegeben ist, worin das Katastrophenglied verschwindet. Physikalisch bedeutet dies — in der alten Sprechweise — daß ein „verbotener Übergang“ durch Resonanz nicht angeregt werden kann, bzw. daß ein „Übergang“, auch wenn er nicht verboten ist, nicht durch Licht angeregt werden kann, das senkrecht zur Polarisationsrichtung desjenigen Lichtes schwingt, welches beim „spontanen Übergang“ emittiert werden würde.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 694,
+      "bottomRightX": 555,
+      "bottomRightY": 878,
+      "content": "Oder zweitens, (33) ist *nicht* erfüllt. Dann besitzt die kritische Gleichung *keine* Lösung. Der Ansatz (10), der eine Schwingung annimmt, welche sich nur *wenig* — um Größen von der Ordnung der Lichtamplitude $F$ — von der ursprünglich bestehenden freien Schwingung unterscheidet, und *unter dieser Annahme* der *allgemeinste* ist, *führt dann also nicht zum Ziel*. Es existiert dann also keine Lösung, welche sich nur um Größen von der Ordnung $F$ von der ursprünglich bestehenden freien Schwingung unterscheidet, das einfallende",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

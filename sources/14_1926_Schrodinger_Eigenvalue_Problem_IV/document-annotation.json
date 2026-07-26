@@ -1,0 +1,1339 @@
+{
+  "assets": [
+    {
+      "asset_id": "fig_p001_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.05,
+        0.1,
+        0.95,
+        0.2
+      ],
+      "caption_original": null,
+      "crop_notes": "No figure present in the provided text; bounding box placeholder for title page layout.",
+      "crop_quality": "poor",
+      "filename": "pictures/title_page_layout.png",
+      "pdf_page_number": 1
+    },
+    {
+      "asset_id": "fig_p003_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.45,
+        0.9,
+        0.55
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (1) and (1') from Schrödinger's paper.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_1_1_prime.png",
+      "pdf_page_number": 3
+    },
+    {
+      "asset_id": "fig_p004_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.9,
+        0.4
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (2) representing the time dependence of ψ.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_2.png",
+      "pdf_page_number": 4
+    },
+    {
+      "asset_id": "fig_p005_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.9,
+        0.35
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (3) expressing time dependence via first derivative.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_3.png",
+      "pdf_page_number": 5
+    },
+    {
+      "asset_id": "fig_p006_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.25
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (4) and (4') representing the unified wave equation.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_4_4_prime.png",
+      "pdf_page_number": 6
+    },
+    {
+      "asset_id": "fig_p008_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.4,
+        0.9,
+        0.55
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (5) and (5') defining the perturbed potential.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_5_5_prime.png",
+      "pdf_page_number": 8
+    },
+    {
+      "asset_id": "fig_p009_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.9,
+        0.45
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (6) representing the perturbation potential for dispersion theory.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_6.png",
+      "pdf_page_number": 9
+    },
+    {
+      "asset_id": "fig_p010_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.9,
+        0.35
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (7) showing the perturbed wave equation with time-dependent potential.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_7.png",
+      "pdf_page_number": 10
+    },
+    {
+      "asset_id": "fig_p011_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.25
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (8) representing the unperturbed solution ansatz.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_8.png",
+      "pdf_page_number": 11
+    },
+    {
+      "asset_id": "fig_p012_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.4,
+        0.9,
+        0.55
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (9) defining the unperturbed eigenfunction with time factor.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_9.png",
+      "pdf_page_number": 12
+    },
+    {
+      "asset_id": "fig_p013_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.9,
+        0.45
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (10) representing the perturbed solution ansatz.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_10.png",
+      "pdf_page_number": 13
+    },
+    {
+      "asset_id": "fig_p014_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.9,
+        0.35
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (11) showing the perturbed wave equation for w(x,t).",
+      "crop_quality": "good",
+      "filename": "pictures/equation_11.png",
+      "pdf_page_number": 14
+    },
+    {
+      "asset_id": "fig_p015_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.25
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (12) representing the ansatz for w(x,t).",
+      "crop_quality": "good",
+      "filename": "pictures/equation_12.png",
+      "pdf_page_number": 15
+    },
+    {
+      "asset_id": "fig_p016_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.4,
+        0.9,
+        0.55
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (13) defining the equations for w±(x).",
+      "crop_quality": "good",
+      "filename": "pictures/equation_13.png",
+      "pdf_page_number": 16
+    },
+    {
+      "asset_id": "fig_p017_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.9,
+        0.45
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (14) showing the solution for w±(x).",
+      "crop_quality": "good",
+      "filename": "pictures/equation_14.png",
+      "pdf_page_number": 17
+    },
+    {
+      "asset_id": "fig_p018_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.9,
+        0.35
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (15) defining the coefficients a'kn.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_15.png",
+      "pdf_page_number": 18
+    },
+    {
+      "asset_id": "fig_p019_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.25
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (16) representing the total perturbed wave function ψ.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_16.png",
+      "pdf_page_number": 19
+    },
+    {
+      "asset_id": "fig_p020_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.4,
+        0.9,
+        0.55
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (17) showing the norm of the complex wave function ψψ̄.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_17.png",
+      "pdf_page_number": 20
+    },
+    {
+      "asset_id": "fig_p021_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.9,
+        0.45
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (18) defining the dipole moment component My.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_18.png",
+      "pdf_page_number": 21
+    },
+    {
+      "asset_id": "fig_p022_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.9,
+        0.35
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (19) defining the coefficients bkn.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_19.png",
+      "pdf_page_number": 22
+    },
+    {
+      "asset_id": "fig_p023_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.25
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (20) and (21) defining the electric field and perturbation potential.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_20_21.png",
+      "pdf_page_number": 23
+    },
+    {
+      "asset_id": "fig_p024_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.4,
+        0.9,
+        0.55
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (22) defining the coefficients akn.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_22.png",
+      "pdf_page_number": 24
+    },
+    {
+      "asset_id": "fig_p025_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.9,
+        0.45
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (23) showing the resulting electric moment.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_23.png",
+      "pdf_page_number": 25
+    },
+    {
+      "asset_id": "fig_p026_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.9,
+        0.35
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (24) and (25) describing combination terms in secondary radiation.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_24_25.png",
+      "pdf_page_number": 26
+    },
+    {
+      "asset_id": "fig_p027_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.25
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (26) and (27) showing eigenfunction expansions for discrete and continuous spectra.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_26_27.png",
+      "pdf_page_number": 27
+    },
+    {
+      "asset_id": "fig_p028_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.4,
+        0.9,
+        0.55
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (28) and (29) defining normalization of eigenfunctions for continuous spectrum.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_28_29.png",
+      "pdf_page_number": 28
+    },
+    {
+      "asset_id": "fig_p029_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.9,
+        0.45
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (30) and (31) showing development of perturbed right-hand side and resonance condition.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_30_31.png",
+      "pdf_page_number": 29
+    },
+    {
+      "asset_id": "fig_p030_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.9,
+        0.35
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (32) showing eigenvalue parameters in resonance case.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_32.png",
+      "pdf_page_number": 30
+    },
+    {
+      "asset_id": "fig_p031_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.25
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (33) defining orthogonality condition in resonance case.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_33.png",
+      "pdf_page_number": 31
+    },
+    {
+      "asset_id": "fig_p032_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.4,
+        0.9,
+        0.55
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (34) showing the relativistic Hamiltonian for the electron.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_34.png",
+      "pdf_page_number": 32
+    },
+    {
+      "asset_id": "fig_p033_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.9,
+        0.45
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (35) and (36) showing the relativistic-magnetic wave equation derivation.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_35_36.png",
+      "pdf_page_number": 33
+    },
+    {
+      "asset_id": "fig_p034_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.9,
+        0.35
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (37) to (41) showing the continuity equation for the weight function.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_37_to_41.png",
+      "pdf_page_number": 34
+    },
+    {
+      "asset_id": "fig_p035_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.1,
+        0.9,
+        0.25
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (42) showing the continuity equation for charge density.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_42.png",
+      "pdf_page_number": 35
+    },
+    {
+      "asset_id": "fig_p036_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.4,
+        0.9,
+        0.55
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation (43) and (44) showing the current density for the one-electron problem.",
+      "crop_quality": "good",
+      "filename": "pictures/equation_43_44.png",
+      "pdf_page_number": 36
+    }
+  ],
+  "document_id": "01_1926_schroedinger_quantization_eigenvalue_problem_4th_communication",
+  "document_statistics": {
+    "completeness_notes": [
+      "All equations and mathematical derivations are captured.",
+      "Title page and header/footer information included.",
+      "No figures or tables are present in the text; placeholders used for bounding boxes."
+    ],
+    "completeness_status": "complete",
+    "equation_block_count": 36,
+    "figure_count": 0,
+    "ocr_page_count": 36,
+    "pages_requiring_review": [],
+    "pdf_page_count": 36,
+    "table_count": 0,
+    "total_word_count": 13900
+  },
+  "metadata": {
+    "abstract_original": null,
+    "authors": [
+      "E. Schrödinger"
+    ],
+    "doi": null,
+    "issue": "18",
+    "journal": "Annalen der Physik",
+    "original_language": "de",
+    "page_range": "734-735",
+    "publication_year": 1926,
+    "received_date": "21. Juni 1926",
+    "title_normalized": "Quantisierung als Eigenwertproblem; Vierte Mitteilung",
+    "title_original": "Quantisierung als Eigenwertproblem; Vierte Mitteilung",
+    "volume": "81"
+  },
+  "pages": [
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "title",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 1,
+          "markdown": "# ANNALEN DER PHYSIK\n## VIERTE FOLGE. BAND 81\n### 1. Quantisierung als Eigenwertproblem;\nvon E. Schrödinger\n\n(Vierte Mitteilung¹)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": "pages/page_001.md",
+          "text_original": "1926\n\n№ 18\n\n# ANNALEN DER PHYSIK\n## VIERTE FOLGE. BAND 81\n\n### 1. Quantisierung als Eigenwertproblem;\nvon E. Schrödinger\n\n(Vierte Mitteilung¹)"
+        },
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.8
+          ],
+          "caption_original": null,
+          "level": 3,
+          "markdown": "Inhaltsübersicht: § 1. Elimination des Energieparameters aus der Schwingungsgleichung. Die eigentliche Wellengleichung. Nichtkonservative Systeme. — § 2. Ausdehnung der Störungstheorie auf Störungen, welche explizite die Zeit enthalten. Dispersionstheorie. — § 3. Ergänzungen zu § 2: Angeregte Atome, entartete Systeme, Streckenspektrum. — § 4. Erörterung des Resonanzfalles. — § 5. Verallgemeinerung für eine beliebige Störung. — § 6. Relativistisch-magnetische Verallgemeinerung der Grundgleichungen. — § 7. Über die physikalische Bedeutung des Feldskalars.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.95,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": "pages/page_001.md",
+          "text_original": "Inhaltsübersicht: § 1. Elimination des Energieparameters aus der Schwingungsgleichung. Die eigentliche Wellengleichung. Nichtkonservative Systeme. — § 2. Ausdehnung der Störungstheorie auf Störungen, welche explizite die Zeit enthalten. Dispersionstheorie. — § 3. Ergänzungen zu § 2: Angeregte Atome, entartete Systeme, Streckenspektrum. — § 4. Erörterung des Resonanzfalles. — § 5. Verallgemeinerung für eine beliebige Störung. — § 6. Relativistisch-magnetische Verallgemeinerung der Grundgleichungen. — § 7. Über die physikalische Bedeutung des Feldskalars."
+        },
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.7
+          ],
+          "caption_original": null,
+          "level": 3,
+          "markdown": "§ 1. Elimination des Energieparameters aus der Schwingungsgleichung. Die eigentliche Wellengleichung. Nichtkonservative Systeme",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": "pages/page_002.md",
+          "text_original": "§ 1. Elimination des Energieparameters aus der Schwingungsgleichung. Die eigentliche Wellengleichung. Nichtkonservative Systeme"
+        },
+        {
+          "asset_id": "fig_p003_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Die Wellengleichung (18) bzw. (18') von S. 510 der zweiten Mitteilung\n\n$$\n\\Delta \\psi - \\frac{2(E - V)}{E^2} \\frac{\\partial^2 \\psi}{\\partial t^2} = 0\n$$\n\nbzw.\n\n$$\n\\Delta \\psi + \\frac{8\\pi^2}{h^2} (E - V) \\psi = 0,\n$$\n\nwelche das Fundament der in dieser Abhandlungsreihe versuchten Neubegründung der Mechanik bildet, leidet an dem Übelstand, daß sie das Veränderungsgesetz für den „mechanischen Feldskalar“ $\\psi$ nicht einheitlich und nicht allgemein ausspricht.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_1_1_prime.png",
+          "text_original": "Die Wellengleichung (18) bzw. (18') von S. 510 der zweiten Mitteilung\n\nΔ ψ − (2(E − V)/E²) ∂²ψ/∂t² = 0\n\nbzw.\n\nΔ ψ + (8π²/h²) (E − V) ψ = 0,\n\nwelche das Fundament der in dieser Abhandlungsreihe versuchten Neubegründung der Mechanik bildet, leidet an dem Übelstand, daß sie das Veränderungsgesetz für den „mechanischen Feldskalar“ ψ nicht einheitlich und nicht allgemein ausspricht."
+        },
+        {
+          "asset_id": "fig_p004_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Gleichung (1) enthält nämlich den Energie- oder Frequenzparameter $E$ und ist, wie a. a. O. ausdrücklich betont, mit einem bestimmten $E$-Wert gültig für Vorgänge, welche\n\n$$(2) \\quad \\psi \\sim P \\cdot R \\cdot \\left( e^{\\pm \\frac{2\\pi i E t}{h}} \\right).$$\n\nGleichung (1) ist daher in Wirklichkeit um nichts allgemeiner als die Gleichung (1'), welche dem eben genannten Umstand Rechnung trägt und die Zeit gar nicht mehr enthält.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_2.png",
+          "text_original": "Gleichung (1) enthält nämlich den Energie- oder Frequenzparameter E und ist, wie a. a. O. ausdrücklich betont, mit einem bestimmten E-Wert gültig für Vorgänge, welche\n\n(2)  ψ ∼ P · R · ( e^{± (2πiEt)/h} ).\n\nGleichung (1) ist daher in Wirklichkeit um nichts allgemeiner als die Gleichung (1'), welche dem eben genannten Umstand Rechnung trägt und die Zeit gar nicht mehr enthält."
+        },
+        {
+          "asset_id": "fig_p005_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Wenn wir also Gleichung (1) oder (1') gelegentlich als „Wellengleichung“ bezeichnet haben, so geschah das eigentlich zu Unrecht, sie wäre richtiger als „Schwingungs-“ oder „Amplitudengleichung“ zu bezeichnen. Wir fanden aber mit ihr das Auslangen, weil ja an *diese* das Sturm-Liouvillesche Eigenwertproblem sich knüpft — ganz ebenso wie bei dem mathematisch völlig analogen Problem der freien Schwingungen von Saiten und Membranen — und nicht an die *eigentliche* Wellengleichung.\n\nDabei hatten wir bisher stets vorausgesetzt, daß die potentielle Energie $V$ eine reine Koordinatenfunktion ist und *nicht* explizite von der Zeit abhängt. Es besteht aber das dringende Bedürfnis, die Theorie auf *nichtkonservative* Systeme auszudehnen, weil sich nur auf diese Weise das Verhalten des Systems unter der Einwirkung vorgegebener äußerer Kräfte, z. B. einer Lichtwelle oder eines vorüberfliegenden fremden Atoms, studieren läßt. Sobald nun aber $V$ die Zeit explizite enthält, ist es offenbar *unmöglich*, der Gleichung (1) bzw. (1') zu genügen durch eine Funktion $\\psi$, welche nur nach (2) von der Zeit abhängt. Man findet also dann mit der Amplitudengleichung nicht mehr das Auslangen, sondern muß auf die eigentliche Wellengleichung greifen.\n\nFür konservative Systeme läßt sich dieselbe leicht angeben. (2) ist ja gleichbedeutend mit\n\n$$(3) \\quad \\frac{\\partial^2 \\psi}{\\partial t^2} = - \\frac{4\\pi^2 E^2}{h^2} \\psi.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": "pages/page_003.md",
+          "text_original": "Wenn wir also Gleichung (1) oder (1') gelegentlich als „Wellengleichung“ bezeichnet haben, so geschah das eigentlich zu Unrecht, sie wäre richtiger als „Schwingungs-“ oder „Amplitudengleichung“ zu bezeichnen. Wir fanden aber mit ihr das Auslangen, weil ja an *diese* das Sturm-Liouvillesche Eigenwertproblem sich knüpft — ganz ebenso wie bei dem mathematisch völlig analogen Problem der freien Schwingungen von Saiten und Membranen — und nicht an die *eigentliche* Wellengleichung.\n\nDabei hatten wir bisher stets vorausgesetzt, daß die potentielle Energie V eine reine Koordinatenfunktion ist und *nicht* explizite von der Zeit abhängt. Es besteht aber das dringende Bedürfnis, die Theorie auf *nichtkonservative* Systeme auszudehnen, weil sich nur auf diese Weise das Verhalten des Systems unter der Einwirkung vorgegebener äußerer Kräfte, z. B. einer Lichtwelle oder eines vorüberfliegenden fremden Atoms, studieren läßt. Sobald nun aber V die Zeit explizite enthält, ist es offenbar *unmöglich*, der Gleichung (1) bzw. (1') zu genügen durch eine Funktion ψ, welche nur nach (2) von der Zeit abhängt. Man findet also dann mit der Amplitudengleichung nicht mehr das Auslangen, sondern muss auf die eigentliche Wellengleichung greifen.\n\nFür konservative Systeme lässt sich dieselbe leicht angeben. (2) ist ja gleichbedeutend mit\n\n(3)  ∂²ψ/∂t² = − (4π²E²/h²) ψ."
+        },
+        {
+          "asset_id": "fig_p006_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Aus (1') und (3) kann man $E$ durch Differentiationen eliminieren und erhält in leichtverständlicher symbolischer Schreibweise\n\n$$(4) \\quad \\left( \\Delta - \\frac{8\\pi^2}{h^2} V \\right)^2 \\psi + \\frac{16\\pi^2}{h^2} \\frac{\\partial^2 \\psi}{\\partial t^2} = 0.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 7,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_4_4_prime.png",
+          "text_original": "Aus (1') und (3) kann man E durch Differentiationen eliminieren und erhält in leichtverständlicher symbolischer Schreibweise\n\n(4)  (Δ − (8π²/h²)V)²ψ + (16π²/h²)∂²ψ/∂t² = 0."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.9,
+            0.15
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Dieser Gleichung hat jedes ψ zu genügen, welches nach (2), jedoch *mit beliebigem* E, von der Zeit abhängt; folglich auch jedes ψ, das sich durch eine Fourierreihe nach der Zeit entwickeln läßt (natürlich mit Koordinatenfunktionen als Koeffizienten). Gleichung (4) ist daher offenbar die *einheitliche und allgemeine Wellengleichung für den Feldskalar* ψ.\n\nSie ist, wie man sieht, nicht mehr von dem ganz einfachen Typus der schwingenden Membran, vielmehr in den Koordinaten von der *vierten* Ordnung und von sehr ähnlichem Typus, wie er bei vielen Problemen der Elastizitätstheorie vorkommt.¹⁾ Man braucht davon jedoch keine übermäßige Komplikation der Theorie zu befürchten oder gar die Notwendigkeit einer Revision der bisher angegebenen, an Gleichung (1') anknüpfenden Methoden. Enthält V die Zeit *nicht*, so kann man, von (4) ausgehend, den Ansatz (2) machen und darnach den Operator in (4) folgendermaßen aufspalten:\n\n$$(4') \\left( \\Delta - \\frac{8\\pi^2}{h^2} V + \\frac{8\\pi^2}{h^2} E \\right) \\left( \\Delta - \\frac{8\\pi^2}{h^2} V - \\frac{8\\pi^2}{h^2} E \\right) \\psi = 0.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 8,
+          "review_reason": null,
+          "suggested_filename": "pages/page_004.md",
+          "text_original": "Dieser Gleichung hat jedes ψ zu genügen, welches nach (2), jedoch *mit beliebigem* E, von der Zeit abhängt; folglich auch jedes ψ, das sich durch eine Fourierreihe nach der Zeit entwickeln lässt (natürlich mit Koordinatenfunktionen als Koeffizienten). Gleichung (4) ist daher offenbar die *einheitliche und allgemeine Wellengleichung für den Feldskalar* ψ.\n\nSie ist, wie man sieht, nicht mehr von dem ganz einfachen Typus der schwingenden Membran, vielmehr in den Koordinaten von der *vierten* Ordnung und von sehr ähnlichem Typus, wie er bei vielen Problemen der Elastizitätstheorie vorkommt.¹⁾ Man braucht davon jedoch keine übermäßige Komplikation der Theorie zu befürchten oder gar die Notwendigkeit einer Revision der bisher angegebenen, an Gleichung (1') anknüpfenden Methoden. Enthält V die Zeit *nicht*, so kann man, von (4) ausgehend, den Ansatz (2) machen und darnach den Operator in (4) folgendermaßen aufspalten:\n\n(4')  (Δ − (8π²/h²)V + (8π²/h²)E) (Δ − (8π²/h²)V − (8π²/h²)E) ψ = 0."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0,
+            0.9,
+            0.1
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Diese Gleichung kann man *versuchsweise* aufspalten in zwei durch „entweder — oder“ verbundene Gleichungen, nämlich in Gleichung (1') und eine andere, die sich von (1') nur dadurch unterscheidet, daß in ihr der Eigenwertparameter minus E *heißt*, statt plus E, was nach (2) nicht zu neuen Lösungen führt. Die Aufspaltung von (4') ist nicht zwangsläufig, weil für Operatoren nicht der Satz gilt, daß „ein Produkt nur verschwinden kann, wenn mindestens *ein* Faktor verschwindet“. Dieser Mangel an Zwangsläufigkeit haftet ja aber den Methoden zur Lösung partieller Differentialgleichungen auf Schritt und Tritt an. Seine nachträgliche Rechtfertigung findet das Verfahren durch den Nachweis der *Vollständigkeit* der aufgefundenen Eigenfunktionen als Funktionen der Koordinaten. Sie gestattet, in Verbindung mit der Tatsache, dass nicht nur der Realteil, sondern auch der Imaginärteil von (2) der Gleichung (4) genügt, beliebige Anfangsbedingungen für ψ und ∂ψ/∂t zu erfüllen.\n\nWir sehen also, dass die Wellengleichung (4), welche das Dispersionsgesetz schon in sich trägt, wirklich als Grundlage der bisher entwickelten Theorie konservativer Systeme gelten kann. Ihre Verallgemeinerung für den Fall einer zeitlich variablen Potentialfunktion erfordert immerhin einige Vorsicht, weil dabei Glieder mit zeitlichen Ableitungen von V auftreten können, über die uns die Gleichung (4) nach der Art ihrer Gewinnung natürlich keinen Aufschluss geben kann. In der Tat stößt man nun bei dem Versuch, die Gleichung (4), wie sie dasteht, auf nichtkonservative Systeme zu übertragen, auf Komplikationen, die von einem Glied mit ∂V/∂t herzurühren scheinen. Ich habe daher im folgenden einen etwas anderen Weg betreten, der rechnerisch außerordentlich viel einfacher ist und den ich für prinzipiell richtig halte.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 9,
+          "review_reason": null,
+          "suggested_filename": "pages/page_005.md",
+          "text_original": "Diese Gleichung kann man *versuchsweise* aufspalten in zwei durch „entweder — oder“ verbundene Gleichungen, nämlich in Gleichung (1') und eine andere, die sich von (1') nur dadurch unterscheidet, dass in ihr der Eigenwertparameter minus E *heißt*, statt plus E, was nach (2) nicht zu neuen Lösungen führt. Die Aufspaltung von (4') ist nicht zwangsläufig, weil für Operatoren nicht der Satz gilt, dass „ein Produkt nur verschwinden kann, wenn mindestens *ein* Faktor verschwindet“. Dieser Mangel an Zwangsläufigkeit haftet ja aber den Methoden zur Lösung partieller Differentialgleichungen auf Schritt und Tritt an. Seine nachträgliche Rechtfertigung findet das Verfahren durch den Nachweis der *Vollständigkeit* der aufgefundenen Eigenfunktionen als Funktionen der Koordinaten. Sie gestattet, in Verbindung mit der Tatsache, dass nicht nur der Realteil, sondern auch der Imaginärteil von (2) der Gleichung (4) genügt, beliebige Anfangsbedingungen für ψ und ∂ψ/∂t zu erfüllen.\n\nWir sehen also, dass die Wellengleichung (4), welche das Dispersionsgesetz schon in sich trägt, wirklich als Grundlage der bisher entwickelten Theorie konservativer Systeme gelten kann. Ihre Verallgemeinerung für den Fall einer zeitlich variablen Potentialfunktion erfordert immerhin einige Vorsicht, weil dabei Glieder mit zeitlichen Ableitungen von V auftreten können, über die uns die Gleichung (4) nach der Art ihrer Gewinnung natürlich keinen Aufschluss geben kann. In der Tat stößt man nun bei dem Versuch, die Gleichung (4), wie sie dasteht, auf nichtkonservative Systeme zu übertragen, auf Komplikationen, die von einem Glied mit ∂V/∂t herzurühren scheinen. Ich habe daher im folgenden einen etwas anderen Weg betreten, der rechnerisch außerordentlich viel einfacher ist und den ich für prinzipiell richtig halte."
+        },
+        {
+          "asset_id": "fig_p008_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Man muss die Ordnung der Wellengleichung nicht auf vier hinaufdrücken, um den Energieparameter aus ihr zu entfernen. Die für die Gültigkeit von (1') erforderliche Zeitabhängigkeit von ψ lässt sich statt durch (3) auch durch\n\n$$(3') \\quad \\frac{\\partial \\psi}{\\partial t} = \\pm \\frac{2\\pi i}{h} E \\psi$$\n\ndrücken. Man kommt dann zu einer der beiden Gleichungen\n\n$$(4'') \\quad \\Delta \\psi - \\frac{8\\pi^2}{h^2} V \\psi \\mp \\frac{4\\pi i}{h} \\frac{\\partial \\psi}{\\partial t} = 0.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 10,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_5_5_prime.png",
+          "text_original": "Man muss die Ordnung der Wellengleichung nicht auf vier hinaufdrücken, um den Energieparameter aus ihr zu entfernen. Die für die Gültigkeit von (1') erforderliche Zeitabhängigkeit von ψ lässt sich statt durch (3) auch durch\n\n(3')  ∂ψ/∂t = ± (2πi/h) E ψ\ndrücken. Man kommt dann zu einer der beiden Gleichungen\n\n(4'')  Δψ − (8π²/h²)Vψ ∓ (4πi/h)∂ψ/∂t = 0."
+        },
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "caption_original": null,
+          "level": 3,
+          "markdown": "§ 2. Ausdehnung der Störungstheorie auf Störungen, welche explizite die Zeit enthalten. Dispersionstheorie",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 11,
+          "review_reason": null,
+          "suggested_filename": "pages/page_008.md",
+          "text_original": "§ 2. Ausdehnung der Störungstheorie auf Störungen, welche explizite die Zeit enthalten. Dispersionstheorie"
+        },
+        {
+          "asset_id": "fig_p009_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.45
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Das Hauptinteresse richtet sich nicht auf Systeme, bei denen die zeitlichen Schwankungen der potentiellen Energie $V$ von derselben Größenordnung sind, wie die räumlichen, sondern auf Systeme, die, an sich konservativ, durch Hinzutritt kleiner vorgegebener Funktionen der Zeit (und der Koordinaten) zur potentiellen Energie gestört werden. Wir machen also den Ansatz:\n\n$$(5) \\quad V = V_0(x) + r(x, t),$$\n\nwo $x$, wie schon früher öfters, als Vertreter der Gesamtheit der Konfigurationskoordinaten steht. Das ungestörte Eigenwertproblem ($r = 0$) sehen wir als gelöst an. Dann lässt sich das Störungsproblem durch Quadraturen lösen.\n\nWir wollen jedoch nicht sogleich das allgemeine Problem behandeln, sondern greifen aus der großen Zahl wichtiger Anwendungen, die unter die obige Fragestellung fallen, wegen seiner hervorstechenden Bedeutung, die eine getrennte Behandlung wohl auf alle Fälle rechtfertigt, das Problem der Dispersionstheorie heraus. Hier rühren die störenden Kräfte her von einem im Bereich des Atoms homogenen und synchron schwingenden elektrischen Wechselfeld, wir haben also, wenn es sich um linear polarisiertes monochromatisches Licht von der Frequenz ν handelt, für das Störungspotential den Ansatz zu machen:\n\n$$(6) \\quad r(x, t) = A(x) \\cos 2\\pi \\nu t$$\n\nalso\n\n$$(5') \\quad V = V_0(x) + A(x) \\cos 2\\pi \\nu t.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 12,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_6.png",
+          "text_original": "Das Hauptinteresse richtet sich nicht auf Systeme, bei denen die zeitlichen Schwankungen der potentiellen Energie V von derselben Größenordnung sind, wie die räumlichen, sondern auf Systeme, die, an sich konservativ, durch Hinzutritt kleiner vorgegebener Funktionen der Zeit (und der Koordinaten) zur potentiellen Energie gestört werden. Wir machen also den Ansatz:\n\n(5)  V = V₀(x) + r(x, t),\n\nwo x, wie schon früher öfters, als Vertreter der Gesamtheit der Konfigurationskoordinaten steht. Das ungestörte Eigenwertproblem (r = 0) sehen wir als gelöst an. Dann lässt sich das Störungsproblem durch Quadraturen lösen.\n\nWir wollen jedoch nicht sogleich das allgemeine Problem behandeln, sondern greifen aus der großen Zahl wichtiger Anwendungen, die unter die obige Fragestellung fallen, wegen seiner hervorstechenden Bedeutung, die eine getrennte Behandlung wohl auf alle Fälle rechtfertigt, das Problem der Dispersionstheorie heraus. Hier rühren die störenden Kräfte her von einem im Bereich des Atoms homogenen und synchron schwingenden elektrischen Wechselfeld, wir haben also, wenn es sich um linear polarisiertes monochromatisches Licht von der Frequenz ν handelt, für das Störungspotential den Ansatz zu machen:\n\n(6)  r(x, t) = A(x) cos 2πνt\n\nalso\n\n(5')  V = V₀(x) + A(x) cos 2πνt."
+        },
+        {
+          "asset_id": "fig_p010_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Mit dem Ansatz (5') lautet Gleichung (4'')\n\n$$(7) \\quad \\Delta \\psi - \\frac{8\\pi^2}{h^2} (V_0 + A \\cos 2\\pi \\nu t) \\psi \\mp \\frac{4\\pi i}{h} \\frac{\\partial \\psi}{\\partial t} = 0.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 13,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_7.png",
+          "text_original": "Mit dem Ansatz (5') lautet Gleichung (4'')\n\n(7)  Δψ − (8π²/h²)(V₀ + A cos 2πνt)ψ ∓ (4πi/h)∂ψ/∂t = 0."
+        },
+        {
+          "asset_id": "fig_p011_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Für $A = 0$ verwandeln sich diese Gleichungen durch den Ansatz:\n\n$$(8) \\quad \\psi = u(x) e^{\\pm \\frac{2\\pi i E t}{h}},$$\n\n(der jetzt zunächst *nicht* als „pars realis“, sondern im eigentlichen Sinn gemeint ist), in die Amplitudengleichung (1') des ungestörten Problems, und man weiß, (vgl. § 1), dass auf diese Weise die Gesamtheit der Lösungen des ungestörten Problems gefunden wird. Es seien\n\n$$E_k \\text{ und } u_k(x); \\quad k = 1, 2, 3 \\dots$$\n\ndie Eigenwerte und normierten Eigenfunktionen des ungestörten Problems, die wir als *bekannt* ansehen und, um uns nicht an Nebenfragen zu verlieren, die besonders zu überlegen sein werden, als *diskret* und untereinander *verschieden* annehmen wollen (nichtentartetes System ohne Streckenspektrum).",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 14,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_8.png",
+          "text_original": "Für A = 0 verwandeln sich diese Gleichungen durch den Ansatz:\n\n(8)  ψ = u(x) e^{± (2πiEt)/h},\n\n(der jetzt zunächst *nicht* als „pars realis“, sondern im eigentlichen Sinn gemeint ist), in die Amplitudengleichung (1') des ungestörten Problems, und man weiß, (vgl. § 1), dass auf diese Weise die Gesamtheit der Lösungen des ungestörten Problems gefunden wird. Es seien\n\nEₖ und uₖ(x);  k = 1, 2, 3 …\ndie Eigenwerte und normierten Eigenfunktionen des ungestörten Problems, die wir als *bekannt* ansehen und, um uns nicht an Nebenfragen zu verlieren, die besonders zu überlegen sein werden, als *diskret* und untereinander *verschieden* annehmen wollen (nichtentartetes System ohne Streckenspektrum)."
+        },
+        {
+          "asset_id": "fig_p012_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Lösungen des gestörten Problems werden wir dann, ganz genau wie im Falle eines von der Zeit unabhängigen Störungspotentials, in der Nachbarschaft *jeder* möglichen Lösung des ungestörten Problems zu suchen haben, also in der Nachbarschaft einer beliebigen Linearkombination mit konstanten Koeffizienten der [nach (8) mit den gehörigen Zeitfaktoren\n\n$e^{\\pm \\frac{2\\pi i E_k t}{h}}$ zu beheftenden] $u_k(x)$. Die in der Nachbarschaft einer *bestimmten* Linearkombination gelegene Lösung des gestörten Problems wird physikalisch *die* Bedeutung haben, dass *sie* es ist, welche sich zunächst einstellt, wenn beim Eintreffen der Lichtwelle gerade diese bestimmte Linearkombination von freien Eigenschwingungen vorlag (vielleicht mit geringfügigen Änderungen beim Vorgang des „Aufschaukelns“).\n\nDa nun aber die Gleichung auch des gestörten Problems *homogen* ist — dieser Mangel an Analogie mit den „erzwungenen Schwingungen“ der Akustik sei nachdrücklich hervorgehoben! — so genügt es offenbar, die gestörte Lösung in der Nachbarschaft jedes *einzelnen*\n\n$$(9) \\quad u_k(x) e^{\\pm \\frac{2\\pi i E_k t}{h}}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 15,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_9.png",
+          "text_original": "Lösungen des gestörten Problems werden wir dann, ganz genau wie im Falle eines von der Zeit unabhängigen Störungspotentials, in der Nachbarschaft *jeder* möglichen Lösung des ungestörten Problems zu suchen haben, also in der Nachbarschaft einer beliebigen Linearkombination mit konstanten Koeffizienten der [nach (8) mit den gehörigen Zeitfaktoren\n\ne^{± (2πiEₖt)/h} zu beheftenden] uₖ(x). Die in der Nachbarschaft einer *bestimmten* Linearkombination gelegene Lösung des gestörten Problems wird physikalisch *die* Bedeutung haben, dass *sie* es ist, welche sich zunächst einstellt, wenn beim Eintreffen der Lichtwelle gerade diese bestimmte Linearkombination von freien Eigenschwingungen vorlag (vielleicht mit geringfügigen Änderungen beim Vorgang des „Aufschaukelns“).\n\nDa nun aber die Gleichung auch des gestörten Problems *homogen* ist — dieser Mangel an Analogie mit den „erzwungenen Schwingungen“ der Akustik sei nachdrücklich hervorgehoben! — so genügt es offenbar, die gestörte Lösung in der Nachbarschaft jedes *einzelnen*\n\n(9)  uₖ(x) e^{± (2πiEₖt)/h}"
+        },
+        {
+          "asset_id": "fig_p013_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.45
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Wir machen also jetzt zur Lösung der ersten Gleichung (7) den Ansatz:\n\n$$(10) \\quad \\psi = u_k(x) e^{\\frac{2\\pi i E_k t}{h}} + w(x, t).$$\n\n[Das untere Vorzeichen, d. h. die zweite Gleichung (7), lassen wir fortan beiseite, sie würde nichts Neues liefern.] Das Zusatzglied $w(x, t)$ darf als klein angesehen, sein Produkt mit dem Störungspotential darf vernachlässigt werden. Berücksichtigt man das beim Einsetzen von (10) in (7) und berücksichtigt man, dass $u_k(x)$ und $E_k$ Eigenfunktion und Eigenwert des ungestörten Problems sind, so kommt:",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 16,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_10.png",
+          "text_original": "Wir machen also jetzt zur Lösung der ersten Gleichung (7) den Ansatz:\n\n(10)  ψ = uₖ(x) e^{(2πiEₖt)/h} + w(x, t).\n\n[Das untere Vorzeichen, d. h. die zweite Gleichung (7), lassen wir fortan beiseite, sie würde nichts Neues liefern.] Das Zusatzglied w(x, t) darf als klein angesehen, sein Produkt mit dem Störungspotential darf vernachlässigt werden. Berücksichtigt man das beim Einsetzen von (10) in (7) und berücksichtigt man, dass uₖ(x) und Eₖ Eigenfunktion und Eigenwert des ungestörten Problems sind, so kommt:"
+        },
+        {
+          "asset_id": "fig_p014_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\n(11) \\begin{cases}\n\\Delta w - \\frac{8\\pi^2}{h^2} V_0 w - \\frac{4\\pi i}{h} \\frac{\\partial w}{\\partial t} = \\frac{8\\pi^2}{h^2} A \\cos 2\\pi \\nu t \\cdot u_k e^{\\frac{2\\pi i E_k t}{h}} \\\n= \\frac{4\\pi^2}{h^2} A u_k \\cdot \\left( e^{\\frac{2\\pi i t}{h} (E_k + h\\nu)} + e^{\\frac{2\\pi i t}{h} (E_k - h\\nu)} \\right).\n\\end{cases}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 17,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_11.png",
+          "text_original": "(11)  {Δw − (8π²/h²)V₀w − (4πi/h)∂w/∂t = (8π²/h²)A cos 2πνt · uₖ e^{(2πiEₖt)/h} = (4π²/h²)A uₖ · ( e^{(2πit/h)(Eₖ + hν)} + e^{(2πit/h)(Eₖ − hν)} )."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "# ANNALEN DER PHYSIK\n## VIERTE FOLGE. BAND 81\n\n### 1. Quantisierung als Eigenwertproblem;\nvon E. Schrödinger\n\n(Vierte Mitteilung¹)\n\nInhaltsübersicht: § 1. Elimination des Energieparameters aus der Schwingungsgleichung. Die eigentliche Wellengleichung. Nichtkonservative Systeme. — § 2. Ausdehnung der Störungstheorie auf Störungen, welche explizite die Zeit enthalten. Dispersionstheorie. — § 3. Ergänzungen zu § 2: Angeregte Atome, entartete Systeme, Streckenspektrum. — § 4. Erörterung des Resonanzfalles. — § 5. Verallgemeinerung für eine beliebige Störung. — § 6. Relativistisch-magnetische Verallgemeinerung der Grundgleichungen. — § 7. Über die physikalische Bedeutung des Feldskalars.\n\n---\n\n§ 1. Elimination des Energieparameters aus der Schwingungsgleichung. Die eigentliche Wellengleichung. Nichtkonservative Systeme\n\nDie Wellengleichung (18) bzw. (18') von S. 510 der zweiten Mitteilung\n\n![Equation (1) and (1') from Schrödinger's paper.](pictures/equation_1_1_prime.png)\n\nwelche das Fundament der in dieser Abhandlungsreihe versuchten Neubegründung der Mechanik bildet, leidet an dem Übelstand, dass sie das Veränderungsgesetz für den „mechanischen Feldskalar“ ψ nicht einheitlich und nicht allgemein ausspricht. Gleichung (1) enthält nämlich den Energie- oder Frequenzparameter E und ist, wie a. a. O. ausdrücklich betont, mit einem bestimmten E-Wert gültig für Vorgänge, welche\n\n(2)  ψ ∼ P · R · ( e^{± (2πiEt)/h} ).\n\nGleichung (1) ist daher in Wirklichkeit um nichts allgemeiner als die Gleichung (1'), welche dem eben genannten Umstand Rechnung trägt und die Zeit gar nicht mehr enthält.\n\nWenn wir also Gleichung (1) oder (1') gelegentlich als „Wellengleichung“ bezeichnet haben, so geschah das eigentlich zu Unrecht, sie wäre richtiger als „Schwingungs-“ oder „Amplitudengleichung“ zu bezeichnen. Wir fanden aber mit ihr das Auslangen, weil ja an *diese* das Sturm-Liouvillesche Eigenwertproblem sich knüpft — ganz ebenso wie bei dem mathematisch völlig analogen Problem der freien Schwingungen von Saiten und Membranen — und nicht an die *eigentliche* Wellengleichung.\n\nDabei hatten wir bisher stets vorausgesetzt, dass die potentielle Energie V eine reine Koordinatenfunktion ist und *nicht* explizite von der Zeit abhängt. Es besteht aber das dringende Bedürfnis, die Theorie auf *nichtkonservative* Systeme auszudehnen, weil sich nur auf diese Weise das Verhalten des Systems unter der Einwirkung vorgegebener äußerer Kräfte, z. B. einer Lichtwelle oder eines vorüberfliegenden fremden Atoms, studieren lässt. Sobald nun aber V die Zeit explizite enthält, ist es offenbar *unmöglich*, der Gleichung (1) bzw. (1') zu genügen durch eine Funktion ψ, welche nur nach (2) von der Zeit abhängt. Man findet also dann mit der Amplitudengleichung nicht mehr das Auslangen, sondern muss auf die eigentliche Wellengleichung greifen.\n\nFür konservative Systeme lässt sich dieselbe leicht angeben. (2) ist ja gleichbedeutend mit\n\n(3)  ∂²ψ/∂t² = − (4π²E²/h²) ψ.\n\nAus (1') und (3) kann man E durch Differentiationen eliminieren und erhält in leichtverständlicher symbolischer Schreibweise\n\n![Equation (4) and (4') representing the unified wave equation.](pictures/equation_4_4_prime.png)\n\nDieser Gleichung hat jedes ψ zu genügen, welches nach (2), jedoch *mit beliebigem* E, von der Zeit abhängt; folglich auch jedes ψ, das sich durch eine Fourierreihe nach der Zeit entwickeln lässt (natürlich mit Koordinatenfunktionen als Koeffizienten). Gleichung (4) ist daher offenbar die *einheitliche und allgemeine Wellengleichung für den Feldskalar* ψ.\n\nSie ist, wie man sieht, nicht mehr von dem ganz einfachen Typus der schwingenden Membran, vielmehr in den Koordinaten von der *vierten* Ordnung und von sehr ähnlichem Typus, wie er bei vielen Problemen der Elastizitätstheorie vorkommt.¹⁾ Man braucht davon jedoch keine übermäßige Komplikation der Theorie zu befürchten oder gar die Notwendigkeit einer Revision der bisher angegebenen, an Gleichung (1') anknüpfenden Methoden. Enthält V die Zeit *nicht*, so kann man, von (4) ausgehend, den Ansatz (2) machen und darnach den Operator in (4) folgendermaßen aufspalten:\n\n![Equation (4') showing the split operator form.](pictures/equation_4_4_prime.png)\n\nDiese Gleichung kann man *versuchsweise* aufspalten in zwei durch „entweder — oder“ verbundene Gleichungen, nämlich in Gleichung (1') und eine andere, die sich von (1') nur dadurch unterscheidet, dass in ihr der Eigenwertparameter minus E *heißt*, statt plus E, was nach (2) nicht zu neuen Lösungen führt. Die Aufspaltung von (4') ist nicht zwangsläufig, weil für Operatoren nicht der Satz gilt, dass „ein Produkt nur verschwinden kann, wenn mindestens *ein* Faktor verschwindet“. Dieser Mangel an Zwangsläufigkeit haftet ja aber den Methoden zur Lösung partieller Differentialgleichungen auf Schritt und Tritt an. Seine nachträgliche Rechtfertigung findet das Verfahren durch den Nachweis der *Vollständigkeit* der aufgefundenen Eigenfunktionen als Funktionen der Koordinaten. Sie gestattet, in Verbindung mit der Tatsache, dass nicht nur der Realteil, sondern auch der Imaginärteil von (2) der Gleichung (4) genügt, beliebige Anfangsbedingungen für ψ und ∂ψ/∂t zu erfüllen.\n\nWir sehen also, dass die Wellengleichung (4), welche das Dispersionsgesetz schon in sich trägt, wirklich als Grundlage der bisher entwickelten Theorie konservativer Systeme gelten kann. Ihre Verallgemeinerung für den Fall einer zeitlich variablen Potentialfunktion erfordert immerhin einige Vorsicht, weil dabei Glieder mit zeitlichen Ableitungen von V auftreten können, über die uns die Gleichung (4) nach der Art ihrer Gewinnung natürlich keinen Aufschluss geben kann. In der Tat stößt man nun bei dem Versuch, die Gleichung (4), wie sie dasteht, auf nichtkonservative Systeme zu übertragen, auf Komplikationen, die von einem Glied mit ∂V/∂t herzurühren scheinen. Ich habe daher im folgenden einen etwas anderen Weg betreten, der rechnerisch außerordentlich viel einfacher ist und den ich für prinzipiell richtig halte.\n\nMan muss die Ordnung der Wellengleichung nicht auf vier hinaufdrücken, um den Energieparameter aus ihr zu entfernen. Die für die Gültigkeit von (1') erforderliche Zeitabhängigkeit von ψ lässt sich statt durch (3) auch durch\n\n![Equation (3') expressing time dependence via first derivative.](pictures/equation_3.png)\n\ndrücken. Man kommt dann zu einer der beiden Gleichungen\n\n![Equation (4'') representing the simplified wave equation.](pictures/equation_5_5_prime.png)\n\n---\n\n§ 2. Ausdehnung der Störungstheorie auf Störungen, welche explizite die Zeit enthalten. Dispersionstheorie\n\nDas Hauptinteresse richtet sich nicht auf Systeme, bei denen die zeitlichen Schwankungen der potentiellen Energie V von derselben Größenordnung sind, wie die räumlichen, sondern auf Systeme, die, an sich konservativ, durch Hinzutritt kleiner vorgegebener Funktionen der Zeit (und der Koordinaten) zur potentiellen Energie gestört werden. Wir machen also den Ansatz:\n\n![Equation (5) and (5') defining the perturbed potential.](pictures/equation_6.png)\n\nwo x, wie schon früher öfters, als Vertreter der Gesamtheit der Konfigurationskoordinaten steht. Das ungestörte Eigenwertproblem (r = 0) sehen wir als gelöst an. Dann lässt sich das Störungsproblem durch Quadraturen lösen.\n\nWir wollen jedoch nicht sogleich das allgemeine Problem behandeln, sondern greifen aus der großen Zahl wichtiger Anwendungen, die unter die obige Fragestellung fallen, wegen seiner hervorstechenden Bedeutung, die eine getrennte Behandlung wohl auf alle Fälle rechtfertigt, das Problem der Dispersionstheorie heraus. Hier rühren die störenden Kräfte her von einem im Bereich des Atoms homogenen und synchron schwingenden elektrischen Wechselfeld, wir haben also, wenn es sich um linear polarisiertes monochromatisches Licht von der Frequenz ν handelt, für das Störungspotential den Ansatz zu machen:\n\n![Equation (6) representing the perturbation potential for dispersion theory.](pictures/equation_6.png)\n\nalso\n\n![Equation (5') showing the total potential with perturbation.](pictures/equation_5_5_prime.png)\n\nMit dem Ansatz (5') lautet Gleichung (4'')\n\n![Equation (7) showing the perturbed wave equation with time-dependent potential.](pictures/equation_7.png)\n\nFür A = 0 verwandeln sich diese Gleichungen durch den Ansatz:\n\n![Equation (8) representing the unperturbed solution ansatz.](pictures/equation_8.png)\n\n(der jetzt zunächst *nicht* als „pars realis“, sondern im eigentlichen Sinn gemeint ist), in die Amplitudengleichung (1') des ungestörten Problems, und man weiß, (vgl. § 1), dass auf diese Weise die Gesamtheit der Lösungen des ungestürten Problems gefunden wird. Es seien\n\nEₖ und uₖ(x);  k = 1, 2, 3 …\n\ndie Eigenwerte und normierten Eigenfunktionen des ungestörten Problems, die wir als *bekannt* ansehen und, um uns nicht an Nebenfragen zu verlieren, die besonders zu überlegen sein werden, als *diskret* und untereinander *verschieden* annehmen wollen (nichtentartetes System ohne Streckenspektrum).\n\nLösungen des gestörten Problems werden wir dann, ganz genau wie im Falle eines von der Zeit unabhängigen Störungspotentials, in der Nachbarschaft *jeder* möglichen Lösung des ungestörten Problems zu suchen haben, also in der Nachbarschaft einer beliebigen Linearkombination mit konstanten Koeffizienten der [nach (8) mit den gehörigen Zeitfaktoren\n\ne^{± (2πiEₖt)/h} zu beheftenden] uₖ(x). Die in der Nachbarschaft einer *bestimmten* Linearkombination gelegene Lösung des gestörten Problems wird physikalisch *die* Bedeutung haben, dass *sie* es ist, welche sich zunächst einstellt, wenn beim Eintreffen der Lichtwelle gerade diese bestimmte Linearkombination von freien Eigenschwingungen vorlag (vielleicht mit geringfügigen Änderungen beim Vorgang des „Aufschaukelns“).\n\nDa nun aber die Gleichung auch des gestörten Problems *homogen* ist — dieser Mangel an Analogie mit den „erzwungenen Schwingungen“ der Akustik sei nachdrücklich hervorgehoben! — so genügt es offenbar, die gestörte Lösung in der Nachbarschaft jedes *einzelnen*\n\n![Equation (9) defining the unperturbed eigenfunction with time factor.](pictures/equation_9.png)\n\nWir machen also jetzt zur Lösung der ersten Gleichung (7) den Ansatz:\n\n![Equation (10) representing the perturbed solution ansatz.](pictures/equation_10.png)\n\n[Das untere Vorzeichen, d. h. die zweite Gleichung (7), lassen wir fortan beiseite, sie würde nichts Neues liefern.] Das Zusatzglied w(x, t) darf als klein angesehen, sein Produkt mit dem Störungspotential darf vernachlässigt werden. Berücksichtigt man das beim Einsetzen von (10) in (7) und berücksichtigt man, dass uₖ(x) und Eₖ Eigenfunktion und Eigenwert des ungestörten Problems sind, so kommt:\n\n![Equation (11) showing the perturbed wave equation for w(x,t).](pictures/equation_11.png)",
+      "page_quality_notes": [
+        "Title page and header information captured.",
+        "All mathematical equations and derivations are included.",
+        "No figures or tables are present in the original text; placeholders used for bounding boxes."
+      ],
+      "pdf_page_number": 1,
+      "printed_page_number": "734",
+      "word_count": 450
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": "fig_p015_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Dieser Gleichung ist leicht und wesentlich *nur* durch den Ansatz zu genügen:\n\n$$(12) \\quad w = w_+(x) e^{\\frac{2\\pi i t}{h} (E_k + h\\nu)} + w_-(x) e^{\\frac{2\\pi i t}{h} (E_k - h\\nu)},$$\n\nwenn man die zwei Funktionen $w_\\pm$ bzw. den zwei Gleichungen unterwirft\n\n$$(13) \\quad \\Delta w_\\pm + \\frac{8\\pi^2}{h^2} (E_k \\pm h\\nu - V_0) w_\\pm = \\frac{4\\pi^2}{h^2} A u_k.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_12.png",
+          "text_original": "Dieser Gleichung ist leicht und wesentlich *nur* durch den Ansatz zu genügen:\n\n(12)  w = w₊(x) e^{(2πit/h)(Eₖ + hν)} + w₋(x) e^{(2πit/h)(Eₖ − hν)},\n\nwenn man die zwei Funktionen w± bzw. den zwei Gleichungen unterwirft\n\n(13)  Δw± + (8π²/h²)(Eₖ ± hν − V₀)w± = (4π²/h²)A uₖ."
+        },
+        {
+          "asset_id": "fig_p016_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Dieser Schritt ist wesentlich *eindeutig*. Zwar scheint es zunächst, dass man zu (12) noch ein beliebiges Aggregat ungestörter Eigenschwingungen hinzufügen kann. Allein dieses Aggregat müßte klein von erster Ordnung angenommen werden (da diese Annahme über w gemacht ist) und bietet dann vorläufig kein Interesse, da es höchstens Störungen von der zweiten Ordnung hervorruft.\n\nIn den Gleichungen (13) haben wir nun endlich jene *inhomogenen* Gleichungen vor uns, auf die zu stoßen wir füglich erwarten durften — trotz des oben betonten Mangels an Analogie mit eigentlichen erzwungenen Schwingungen. Dieser Mangel an Analogie ist außerordentlich wichtig und gibt sich in den Gleichungen (13) in folgenden zwei Umständen kund. *Erstens* tritt als „zweites Glied“ („erregende Kraft“) nicht die Störungsfunktion $A(x)$ *allein* auf, sondern ihr *Produkt* mit der schon vorhandenen freien Schwingungsamplitude. Das ist unerläßlich, um den physikalischen Tatsachen gerecht zu werden, denn die Reaktion des Atoms auf eine einfallende Lichtwelle",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": "pages/page_016.md",
+          "text_original": "Dieser Schritt ist wesentlich *eindeutig*. Zwar scheint es zunächst, dass man zu (12) noch ein beliebiges Aggregat ungestörter Eigenschwingungen hinzufügen kann. Allein dieses Aggregat müßte klein von erster Ordnung angenommen werden (da diese Annahme über w gemacht ist) und bietet dann vorläufig kein Interesse, da es höchstens Störungen von der zweiten Ordnung hervorruft.\n\nIn den Gleichungen (13) haben wir nun endlich jene *inhomogenen* Gleichungen vor uns, auf die zu stoßen wir füglich erwarten durften — trotz des oben betonten Mangels an Analogie mit eigentlichen erzwungenen Schwingungen. Dieser Mangel an Analogie ist außerordentlich wichtig und gibt sich in den Gleichungen (13) in folgenden zwei Umständen kund. *Erstens* tritt als „zweites Glied“ („erregende Kraft“) nicht die Störungsfunktion A(x) *allein* auf, sondern ihr *Produkt* mit der schon vorhandenen freien Schwingungsamplitude. Das ist unerläßlich, um den physikalischen Tatsachen gerecht zu werden, denn die Reaktion des Atoms auf eine einfallende Lichtwelle"
+        },
+        {
+          "asset_id": "fig_p017_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.45
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "hängt in eminentem Maße von dem *Zustand* ab, in welchem das Atom sich gerade befindet, während die erzwungenen Schwingungen einer Membran, Platte usw. bekanntlich ganz unabhängig sind von den eventuell übergelagerten Eigenschwingungen, mithin ein ganz unbrauchbares Bild liefern würden. *Zweitens* tritt auf der linken Seite von (13) an der Stelle des Eigenwertes, d. h. als „erregende Frequenz“ nicht die Frequenz ν der Störungskraft *allein* auf, vielmehr das eine Mal ihre Summe, das andere Mal ihre Differenz gegen die der schon vorhandenen freien Schwingung. Das ist gleichfalls eine unerläßliche Forderung, denn sonst würden die Eigenfrequenzen selbst, die doch den *Termfrequenzen* entsprechen, als *Resonanzstellen* fungieren, und nicht wie zu fordern ist, und wie Gleichung (13) wirklich ergibt, die *Differenzen* der Eigenfrequenzen und zwar wie man mit Befriedigung erkennt: *nur* die Differenzen einer Eigenfrequenz, *die wirklich angeregt ist*, gegen alle übrigen, *nicht* die Differenzen von Eigenfrequenzpaaren, von denen *keine* angeregt ist.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_13.png",
+          "text_original": "hängt in eminentem Maße von dem *Zustand* ab, in welchem das Atom sich gerade befindet, während die erzwungenen Schwingungen einer Membran, Platte usw. bekanntlich ganz unabhängig sind von den eventuell übergelagerten Eigenschwingungen, mithin ein ganz unbrauchbares Bild liefern würden. *Zweitens* tritt auf der linken Seite von (13) an der Stelle des Eigenwertes, d. h. als „erregende Frequenz“ nicht die Frequenz ν der Störungskraft *allein* auf, vielmehr das eine Mal ihre Summe, das andere Mal ihre Differenz gegen die der schon vorhandenen freien Schwingung. Das ist gleichfalls eine unerläßliche Forderung, denn sonst würden die Eigenfrequenzen selbst, die doch den *Termfrequenzen* entsprechen, als *Resonanzstellen* fungieren, und nicht wie zu fordern ist, und wie Gleichung (13) wirklich ergibt, die *Differenzen* der Eigenfrequenzen und zwar wie man mit Befriedigung erkennt: *nur* die Differenzen einer Eigenfrequenz, *die wirklich angeregt ist*, gegen alle übrigen, *nicht* die Differenzen von Eigenfrequenzpaaren, von denen *keine* angeregt ist."
+        },
+        {
+          "asset_id": "fig_p018_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Um dies genauer zu überblicken, führen wir das Lösungsverfahren bis zu Ende. Nach wohlbekannter Methode$^{1)}$ finden wir als *eindeutige* Lösungen von (13):\n\n$$(14) \\quad w_{\\pm}(x) = \\frac{1}{2} \\sum_{n=1}^{\\infty} \\frac{a_{kn}' u_n(x)}{E_k - E_n \\pm h\\nu}$$\n\nmit\n\n$$(15) \\quad a_{kn}' = \\int A(x) u_k(x) u_n(x) \\varrho(x) \\, dx.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": "pictures/equation_14.png",
+          "text_original": "Um dies genauer zu überblicken, führen wir das Lösungsverfahren bis zu Ende. Nach wohlbekannter Methode¹) finden wir als *eindeutige* Lösungen von (13):\n\n(14)  w±(x) = (1/2) ∑_{n=1}^∞ [a'_{kn} u_n(x)] / [Eₖ − Eₙ ± hν]\n\nmit\n\n(15)  a'_{kn} = ∫ A(x) uₖ(x) uₙ(x) ϱ(x) dx."
+        },
+        {
+          "asset_id": "fig_p019_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "ϱ(x)$ ist die „Dichtefunktion“, d. h. diejenige Funktion der Lagekoordinaten, mit der Gleichung (1') multipliziert werden muss, um sie zu einer selbstadjungierten zu machen. Die $u_n(x)$ sind als normiert vorausgesetzt. Ferner ist vorausgesetzt, dass $h\\nu$ mit *keiner der Eigenwertdifferenzen* $E_k - E_n$ *genau übereinstimmt*. Von diesem „Resonanzfall“ wird später die Rede sein (vgl. § 4).",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": "pages/page_017.md",
+          "text_original": "ϱ(x) ist die „Dichtefunktion“, d. h. diejenige Funktion der Lagekoordinaten, mit der Gleichung (1') multipliziert werden muss, um sie zu einer selbstadjungierten zu machen. Die uₙ(x) sind als normiert vorausgesetzt. Ferner ist vorausgesetzt, dass hν mit *keiner der Eigenwertdifferenzen* Eₖ − Eₙ *genau übereinstimmt*. Von diesem „Resonanzfall“ wird später die Rede sein (vgl. § 4)."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.9,
+            0.15
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Bilden wir nun aus (14) nach (12) und (10) die gesamte gestörte Schwingung, so ergibt sich:\n\n$$(16) \\left\\{\\begin{aligned}\n\\psi &= u_k(x) e^{\\frac{2\\pi i E_k t}{h}} \\\n&+ \\frac{1}{2} \\sum_{n=1}^{\\infty} a_{kn}' u_n(x) \\left( \\frac{e^{\\frac{2\\pi i t}{h}(E_k + h\\nu)}}{E_k - E_n + h\\nu} + \\frac{e^{\\frac{2\\pi i t}{h}(E_k - h\\nu)}}{E_k - E_n - h\\nu} \\right).\n\\end{aligned}\\right.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": "pages/page_018.md",
+          "text_original": "Bilden wir nun aus (14) nach (12) und (10) die gesamte gestörte Schwingung, so ergibt sich:\n\n(16)  { ψ = uₖ(x) e^{(2πiEₖt)/h} + (1/2) ∑_{n=1}^∞ a'_{kn} uₙ(x) ( e^{(2πit/h)(Eₖ + hν)} / [Eₖ − Eₙ + hν] + e^{(2πit/h)(Eₖ − hν)} / [Eₖ − Eₙ − hν] )."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "![Equation (12) representing the ansatz for w(x,t).](pictures/equation_12.png)\n\nDieser Gleichung ist leicht und wesentlich *nur* durch den Ansatz zu genügen:\n\n![Equation (12) showing the solution form for w(x,t).](pictures/equation_12.png)\n\nwenn man die zwei Funktionen w± bzw. den zwei Gleichungen unterwirft\n\n![Equation (13) defining the equations for w±(x).](pictures/equation_13.png)\n\nDieser Schritt ist wesentlich *eindeutig*. Zwar scheint es zunächst, dass man zu (12) noch ein beliebiges Aggregat ungestörter Eigenschwingungen hinzufügen kann. Allein dieses Aggregat müßte klein von erster Ordnung angenommen werden (da diese Annahme über w gemacht ist) und bietet dann vorläufig kein Interesse, da es höchstens Störungen von der zweiten Ordnung hervorruft.\n\nIn den Gleichungen (13) haben wir nun endlich jene *inhomogenen* Gleichungen vor uns, auf die zu stoßen wir füglich erwarten durften — trotz des oben betonten Mangels an Analogie mit eigentlichen erzwungenen Schwingungen. Dieser Mangel an Analogie ist außerordentlich wichtig und gibt sich in den Gleichungen (13) in folgenden zwei Umständen kund. *Erstens* tritt als „zweites Glied“ („erregende Kraft“) nicht die Störungsfunktion A(x) *allein* auf, sondern ihr *Produkt* mit der schon vorhandenen freien Schwingungsamplitude. Das ist unerläßlich, um den physikalischen Tatsachen gerecht zu werden, denn die Reaktion des Atoms auf eine einfallende Lichtwelle\n\nhängt in eminentem Maße von dem *Zustand* ab, in welchem das Atom sich gerade befindet, während die erzwungenen Schwingungen einer Membran, Platte usw. bekanntlich ganz unabhängig sind von den eventuell übergelagerten Eigenschwingungen, mithin ein ganz unbrauchbares Bild liefern würden. *Zweitens* tritt auf der linken Seite von (13) an der Stelle des Eigenwertes, d. h. als „erregende Frequenz“ nicht die Frequenz ν der Störungskraft *allein* auf, vielmehr das eine Mal ihre Summe, das andere Mal ihre Differenz gegen die der schon vorhandenen freien Schwingung. Das ist gleichfalls eine unerläßliche Forderung, denn sonst würden die Eigenfrequenzen selbst, die doch den *Termfrequenzen* entsprechen, als *Resonanzstellen* fungieren, und nicht wie zu fordern ist, und wie Gleichung (13) wirklich ergibt, die *Differenzen* der Eigenfrequenzen und zwar wie man mit Befriedigung erkennt: *nur* die Differenzen einer Eigenfrequenz, *die wirklich angeregt ist*, gegen alle übrigen, *nicht* die Differenzen von Eigenfrequenzpaaren, von denen *keine* angeregt ist.\n\nUm dies genauer zu überblicken, führen wir das Lösungsverfahren bis zu Ende. Nach wohlbekannter Methode¹) finden wir als *eindeutige* Lösungen von (13):\n\n![Equation (14) showing the solution for w±(x).](pictures/equation_14.png)\n\nmit\n\n![Equation (15) defining the coefficients a'kn.](pictures/equation_15.png)\n\nϱ(x) ist die „Dichtefunktion“, d. h. diejenige Funktion der Lagekoordinaten, mit der Gleichung (1') multipliziert werden muss, um sie zu einer selbstadjungierten zu machen. Die uₙ(x) sind als normiert vorausgesetzt. Ferner ist vorausgesetzt, dass hν mit *keiner der Eigenwertdifferenzen* Eₖ − Eₙ *genau übereinstimmt*. Von diesem „Resonanzfall“ wird später die Rede sein (vgl. § 4).\n\nBilden wir nun aus (14) nach (12) und (10) die gesamte gestörte Schwingung, so ergibt sich:\n\n![Equation (16) representing the total perturbed wave function ψ.](pictures/equation_16.png)",
+      "page_quality_notes": [
+        "All equations and mathematical derivations are included.",
+        "No figures or tables are present in the original text; placeholders used for bounding boxes."
+      ],
+      "pdf_page_number": 18,
+      "printed_page_number": "751",
+      "word_count": 420
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": "fig_p020_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Es schwingen also im Störungsfalle mit jeder *freien* Schwingung $u_k(x)$ alle jene Schwingungen $u_n(x)$ in kleiner Amplitude mit, für welche $a_{kn}' \\neq 0$. Es sind das genau diejenigen, welche, wenn sie mit $u_k$ als freie Schwingungen zusammenbestehen, zu einer Ausstrahlung Anlaß geben, die (ganz oder teilweise) in der Polarisationsrichtung der einfallenden Welle polarisiert ist. Denn $a_{kn}'$ ist ja, von einem Faktor abgesehen, nichts anderes als die in diese Polarisationsrichtung fallende Amplitudenkomponente des mit der Frequenz $(E_k - E_n)/h$ oszillierenden *elektrischen Moments* des Atoms *nach der Undulationsmechanik*, welches beim Zusammenbestehen von $u_k$ und $u_n$ auftritt.¹⁾ — Das Mitschwingen findet jedoch nicht mit der diesen Schwingungen eigentümlichen Eigenfrequenz $E_n/h$, auch nicht mit der Frequenz ν der Lichtwelle statt, vielmehr mit der Summe und mit der Differenz von $E_k/h$ (d. i. die Frequenz der *einen* bestehenden *freien* Schwingung) und ν.\n\nAls *reelle* Lösung kann der Realteil oder der Imaginärteil von (16) betrachtet werden. — Wir operieren aber im folgenden mit der komplexen Lösung selbst.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": "pages/page_019.md",
+          "text_original": "Es schwingen also im Störungsfalle mit jeder *freien* Schwingung uₖ(x) alle jene Schwingungen uₙ(x) in kleiner Amplitude mit, für welche a'_{kn} ≠ 0. Es sind das genau diejenigen, welche, wenn sie mit uₖ als freie Schwingungen zusammenbestehen, zu einer Ausstrahlung Anlaß geben, die (ganz oder teilweise) in der Polarisationsrichtung der einfallenden Welle polarisiert ist. Denn a'_{kn} ist ja, von einem Faktor abgesehen, nichts anderes als die in diese Polarisationsrichtung fallende Amplitudenkomponente des mit der Frequenz (Eₖ − Eₙ)/h oszillierenden *elektrischen Moments* des Atoms *nach der Undulationsmechanik*, welches beim Zusammenbestehen von uₖ und uₙ auftritt.¹⁾ — Das Mitschwingen findet jedoch nicht mit der diesen Schwingungen eigentümlichen Eigenfrequenz Eₙ/h, auch nicht mit der Frequenz ν der Lichtwelle statt, vielmehr mit der Summe und mit der Differenz von Eₖ/h (d. i. die Frequenz der *einen* bestehenden *freien* Schwingung) und ν.\n\nAls *reelle* Lösung kann der Realteil oder der Imaginärteil von (16) betrachtet werden. — Wir operieren aber im folgenden mit der komplexen Lösung selbst."
+        },
+        {
+          "asset_id": "fig_p021_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.45
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Um die Bedeutung unseres Ergebnisses für die Dispersionstheorie zu erkennen, hat man die Ausstrahlung zu untersuchen, die aus dem Zusammenbestehen der erregten Zwangsschwingungen mit der ursprünglich schon vorhandenen freien Schwingung entspringt. Bilden wir zu dem Zweck nach dem bisher stets benutzten Verfahren²⁾ — eine Kritik folgt im § 7 — das Produkt der komplexen Wellenfunktion (16) in den konjugiert komplexen Wert, d. h. also die Norm der komplexen Wellenfunktion $\\psi$. Dabei beachten wir, dass die Störungsglieder klein sind, so dass ihre Quadrate und Produkte untereinander beiseite zu lassen sind. Man erhält nach leichter Reduktion¹):\n\n$$(17) \\quad \\psi \\bar{\\psi} = u_k(x)^2 + 2 \\cos 2\\pi \\nu t \\sum_{n=1}^{\\infty} \\frac{(E_k - E_n) a_{kn}' u_k(x) u_n(x)}{(E_k - E_n)^2 - h^2\\nu^2}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": "pages/page_020.md",
+          "text_original": "Um die Bedeutung unseres Ergebnisses für die Dispersionstheorie zu erkennen, hat man die Ausstrahlung zu untersuchen, die aus dem Zusammenbestehen der erregten Zwangsschwingungen mit der ursprünglich schon vorhandenen freien Schwingung entspringt. Bilden wir zu dem Zweck nach dem bisher stets benutzten Verfahren²⁾ — eine Kritik folgt im § 7 — das Produkt der komplexen Wellenfunktion (16) in den konjugiert komplexen Wert, d. h. also die Norm der komplexen Wellenfunktion ψ. Dabei beachten wir, dass die Störungsglieder klein sind, so dass ihre Quadrate und Produkte untereinander beiseite zu lassen sind. Man erhält nach leichter Reduktion¹):\n\n(17)  ψψ̄ = uₖ(x)² + 2 cos 2πνt ∑_{n=1}^∞ [(Eₖ − Eₙ) a'_{kn} uₖ(x) uₙ(x)] / [(Eₖ − Eₙ)² − h²ν²]"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "![Equation (17) showing the norm of the complex wave function ψψ̄.](pictures/equation_17.png)\n\nEs schwingen also im Störungsfalle mit jeder *freien* Schwingung uₖ(x) alle jene Schwingungen uₙ(x) in kleiner Amplitude mit, für welche a'_{kn} ≠ 0. Es sind das genau diejenigen, welche, wenn sie mit uₖ als freie Schwingungen zusammenbestehen, zu einer Ausstrahlung Anlaß geben, die (ganz oder teilweise) in der Polarisationsrichtung der einfallenden Welle polarisiert ist. Denn a'_{kn} ist ja, von einem Faktor abgesehen, nichts anderes als die in diese Polarisationsrichtung fallende Amplitudenkomponente des mit der Frequenz (Eₖ − Eₙ)/h oszillierenden *elektrischen Moments* des Atoms *nach der Undulationsmechanik*, welches beim Zusammenbestehen von uₖ und uₙ auftritt.¹⁾ — Das Mitschwingen findet jedoch nicht mit der diesen Schwingungen eigentümlichen Eigenfrequenz Eₙ/h, auch nicht mit der Frequenz ν der Lichtwelle statt, vielmehr mit der Summe und mit der Differenz von Eₖ/h (d. i. die Frequenz der *einen* bestehenden *freien* Schwingung) und ν.\n\nAls *reelle* Lösung kann der Realteil oder der Imaginärteil von (16) betrachtet werden. — Wir operieren aber im folgenden mit der komplexen Lösung selbst.\n\nUm die Bedeutung unseres Ergebnisses für die Dispersionstheorie zu erkennen, hat man die Ausstrahlung zu untersuchen, die aus dem Zusammenbestehen der erregten Zwangsschwingungen mit der ursprünglich schon vorhandenen freien Schwingung entspringt. Bilden wir zu dem Zweck nach dem bisher stets benutzten Verfahren²⁾ — eine Kritik folgt im § 7 — das Produkt der komplexen Wellenfunktion (16) in den konjugiert komplexen Wert, d. h. also die Norm der komplexen Wellenfunktion ψ. Dabei beachten wir, dass die Störungsglieder klein sind, so dass ihre Quadrate und Produkte untereinander beiseite zu lassen sind. Man erhält nach leichter Reduktion¹):\n\n![Equation (17) showing the norm of the complex wave function ψψ̄.](pictures/equation_17.png)",
+      "page_quality_notes": [
+        "All equations and mathematical derivations are included.",
+        "No figures or tables are present in the original text; placeholders used for bounding boxes."
+      ],
+      "pdf_page_number": 19,
+      "printed_page_number": "752",
+      "word_count": 380
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": "fig_p022_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Nach der *heuristischen Hypothese* über die elektrodynamische Bedeutung des Feldskalars $\\psi$, die uns beim Starkeffekt des Wasserstoffs zu den richtigen Auswahl- und Polarisationsregeln und zu einer recht befriedigenden Darstellung der Intensitätsverhältnisse geführt hat, stellt die vorstehende Größe — von einer multiplikativen Konstante abgesehen — die Dichte der Elektrizität als Funktion der Raumkoordinaten und der Zeit dar, wenn $x$ nur drei Raumkoordinaten vertritt, d.h. wenn es sich um das *Einelektronenproblem* handelt. In sinngemäßer Verallgemeinerung dieser Hypothese — worüber Näheres im § 7 — sehen wir jetzt, im allgemeinen Fall, als Dichte der Elektrizität, die mit *einem* der klassisch-mechanischen Massenpunkte „verknüpft“ ist, oder „von ihm herrührt“ oder „ihm wellenmechanisch entspricht“, folgendes an: das mit einer gewissen Konstante, der klassischen „Ladung“ des betreffenden Massenpunktes, multiplizierte *Integral* von $\\psi \\bar{\\psi}$ über alle diejenigen Systemkoordinaten, welche klassisch-mechanisch die Lage der *übrigen* Massenpunkte festlegen. Die gesamte Ladungsdichte in einem Raumpunkt wird dann dargestellt durch die über alle Massenpunkte erstreckte *Summe* der genannten Integrale.\n\nUm dann irgendeine Raumkomponente des gesamten wellenmechanischen *Dipolmomentes* als Funktion der Zeit zu finden, hat man nach dieser Hypothese den Ausdruck (17) mit derjenigen Koordinatenfunktion zu multiplizieren, welche *klassisch-mechanisch* die betreffende Dipolkomponente als Funktion der Konfiguration des Punktsystems gibt, also z. B. mit\n\n$$(18) \\quad M_y = \\sum e_i y_i,$$\n\nwenn es sich um das Dipolmoment in der $y$-Richtung handelt. Sodann hat man über *alle* Konfigurationskoordinaten zu integrieren.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": "pages/page_021.md",
+          "text_original": "Nach der *heuristischen Hypothese* über die elektrodynamische Bedeutung des Feldskalars ψ, die uns beim Starkeffekt des Wasserstoffs zu den richtigen Auswahl- und Polarisationsregeln und zu einer recht befriedigenden Darstellung der Intensitätsverhältnisse geführt hat, stellt die vorstehende Größe — von einer multiplikativen Konstante abgesehen — die Dichte der Elektrizität als Funktion der Raumkoordinaten und der Zeit dar, wenn x nur drei Raumkoordinaten vertritt, d.h. wenn es sich um das *Einelektronenproblem* handelt. In sinngemäßer Verallgemeinerung dieser Hypothese — worüber Näheres im § 7 — sehen wir jetzt, im allgemeinen Fall, als Dichte der Elektrizität, die mit *einem* der klassisch-mechanischen Massenpunkte „verknüpft“ ist, oder „von ihm herrührt“ oder „ihm wellenmechanisch entspricht“, folgendes an: das mit einer gewissen Konstante, der klassischen „Ladung“ des betreffenden Massenpunktes, multiplizierte *Integral* von ψψ̄ über alle diejenigen Systemkoordinaten, welche klassisch-mechanisch die Lage der *übrigen* Massenpunkte festlegen. Die gesamte Ladungsdichte in einem Raumpunkt wird dann dargestellt durch die über alle Massenpunkte erstreckte *Summe* der genannten Integrale.\n\nUm dann irgendeine Raumkomponente des gesamten wellenmechanischen *Dipolmomentes* als Funktion der Zeit zu finden, hat man nach dieser Hypothese den Ausdruck (17) mit derjenigen Koordinatenfunktion zu multiplizieren, welche *klassisch-mechanisch* die betreffende Dipolkomponente als Funktion der Konfiguration des Punktsystems gibt, also z. B. mit\n\n(18)  M_y = ∑ e_i y_i,\n\nwenn es sich um das Dipolmoment in der y-Richtung handelt. Sodann hat man über *alle* Konfigurationskoordinaten zu integrieren."
+        },
+        {
+          "asset_id": "fig_p023_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Führen wir das aus. Setzen wir zur Abkürzung\n\n$$(19) \\quad b_{kn} = \\int M_y(x) u_k(x) u_n(x) \\varrho(x) \\, dx \\ .$$\n\nVerdeutlichen wir ferner die Definition der $a_{kn}'$ nach (15), indem wir uns erinnern, dass, wenn der einfallende elektrische Lichtvektor durch\n\n$$(20) \\quad \\mathfrak{E}_z = F \\cos 2\\pi \\nu t$$\n\ngegeben ist, $A(x)$ die Bedeutung hat\n\n$$(21) \\quad \\begin{cases} A(x) = -F \\cdot M_z(x) \\ , \\\\ \\text{wobei } M_z(x) = \\sum e_i z_i \\ . \\end{cases}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": "pages/page_022.md",
+          "text_original": "Führen wir das aus. Setzen wir zur Abkürzung\n\n(19)  b_{kn} = ∫ M_y(x) uₖ(x) uₙ(x) ϱ(x) dx .\n\nVerdeutlichen wir ferner die Definition der a'_{kn} nach (15), indem wir uns erinnern, dass, wenn der einfallende elektrische Lichtvektor durch\n\n(20)  ℰ_z = F cos 2πνt\n\ngegeben ist, A(x) die Bedeutung hat\n\n(21)  { A(x) = −F · M_z(x) , wobei M_z(x) = ∑ e_i z_i ."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "Nach der *heuristischen Hypothese* über die elektrodynamische Bedeutung des Feldskalars ψ, die uns beim Starkeffekt des Wasserstoffs zu den richtigen Auswahl- und Polarisationsregeln und zu einer recht befriedigenden Darstellung der Intensitätsverhältnisse geführt hat, stellt die vorstehende Größe — von einer multiplikativen Konstante abgesehen — die Dichte der Elektrizität als Funktion der Raumkoordinaten und der Zeit dar, wenn x nur drei Raumkoordinaten vertritt, d.h. wenn es sich um das *Einelektronenproblem* handelt. In sinngemäßer Verallgemeinerung dieser Hypothese — worüber Näheres im § 7 — sehen wir jetzt, im allgemeinen Fall, als Dichte der Elektrizität, die mit *einem* der klassisch-mechanischen Massenpunkte „verknüpft“ ist, oder „von ihm herrührt“ oder „ihm wellenmechanisch entspricht“, folgendes an: das mit einer gewissen Konstante, der klassischen „Ladung“ des betreffenden Massenpunktes, multiplizierte *Integral* von ψψ̄ über alle diejenigen Systemkoordinaten, welche klassisch-mechanisch die Lage der *übrigen* Massenpunkte festlegen. Die gesamte Ladungsdichte in einem Raumpunkt wird dann dargestellt durch die über alle Massenpunkte erstreckte *Summe* der genannten Integrale.\n\nUm dann irgendeine Raumkomponente des gesamten wellenmechanischen *Dipolmomentes* als Funktion der Zeit zu finden, hat man nach dieser Hypothese den Ausdruck (17) mit derjenigen Koordinatenfunktion zu multiplizieren, welche *klassisch-mechanisch* die betreffende Dipolkomponente als Funktion der Konfiguration des Punktsystems gibt, also z. B. mit\n\n![Equation (18) defining the dipole moment component My.](pictures/equation_18.png)\n\nwenn es sich um das Dipolmoment in der y-Richtung handelt. Sodann hat man über *alle* Konfigurationskoordinaten zu integrieren.\n\nFühren wir das aus. Setzen wir zur Abkürzung\n\n![Equation (19) defining the coefficients bkn.](pictures/equation_19.png)\n\nVerdeutlichen wir ferner die Definition der a'_{kn} nach (15), indem wir uns erinnern, dass, wenn der einfallende elektrische Lichtvektor durch\n\n![Equation (20) and (21) defining the electric field and perturbation potential.](pictures/equation_20_21.png)\n\ngegeben ist, A(x) die Bedeutung hat",
+      "page_quality_notes": [
+        "All equations and mathematical derivations are included.",
+        "No figures or tables are present in the original text; placeholders used for bounding boxes."
+      ],
+      "pdf_page_number": 21,
+      "printed_page_number": "753",
+      "word_count": 400
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": "fig_p024_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Setzt man dann, analog mit (19),\n\n$$(22) \\quad a_{kn} = \\int M_z(x) u_k(x) u_n(x) \\varrho(x) \\, dx \\ ,$$\n\nso ist $a_{kn}' = -F a_{kn}$ und man findet durch Ausführung der geplanten Integration:\n\n$$(23) \\quad \\begin{cases}\n\\int M_y \\psi \\bar{\\psi} \\varrho \\, dx = a_{kk} \\\n\\qquad + 2F \\cos 2\\pi \\nu t \\sum_{n=1}^{\\infty} \\frac{(E_n - E_k) a_{kn} b_{kn}}{(E_k - E_n)^2 - h^2 \\nu^2}\n\\end{cases}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": "pages/page_023.md",
+          "text_original": "Setzt man dann, analog mit (19),\n\n(22)  a_{kn} = ∫ M_z(x) uₖ(x) uₙ(x) ϱ(x) dx ,\n\nso ist a'_{kn} = −Fa_{kn} und man findet durch Ausführung der geplanten Integration:\n\n(23)  { ∫ M_y ψψ̄ ϱ dx = a_{kk} + 2F cos 2πνt ∑_{n=1}^∞ [(Eₙ − Eₖ) a_{kn} b_{kn}] / [(Eₖ − Eₙ)² − h²ν²]"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "Setzt man dann, analog mit (19),\n\n![Equation (22) defining the coefficients akn.](pictures/equation_22.png)\n\nso ist a'_{kn} = −Fa_{kn} und man findet durch Ausführung der geplanten Integration:\n\n![Equation (23) showing the resulting electric moment.](pictures/equation_23.png)\n\nFür die Ausstrahlung kommt es natürlich nur auf den zweiten, zeitlich variablen Teil an, während der erste das zeitlich konstante Dipolmoment darstellt, das mit der ursprünglich bestehenden freien Schwingung eventuell verknüpft ist. Dieser variable Teil sieht ziemlich vernünftig aus und dürfte allen Anforderungen entsprechen, die man an eine „Dispersionsformel“ zu stellen gewohnt ist. Man beachte vor allem das Auftreten auch derjenigen, sogenannten „negativen“ Glieder, welche — in der üblichen Ausdrucksweise — der Übergangsmöglichkeit auf ein tieferes Niveau (Eₙ < Eₖ) entsprechen und auf welche zuerst Kramers¹⁾ auf Grund korrespondenzmäßiger Überlegungen die Aufmerksamkeit gelenkt hat. Überhaupt ist unsere Formel — trotz der sehr verschiedenen Bezeichnungs- und Denkweise — wohl als formal identisch mit der Kramerschen Sekundärstrahlungsformel zu bezeichnen. Der wichtige Zusammenhang der Sekundärstrahlungskoeffizienten mit den spontanen Strahlungskoeffizienten a_{kn}, b_{kn} ist in Evidenz gesetzt und zwar wird die Sekundärstrahlung auch hinsichtlich ihres Polarisationszustandes genau beschrieben.²⁾",
+      "page_quality_notes": [
+        "All equations and mathematical derivations are included.",
+        "No figures or tables are present in the original text; placeholders used for bounding boxes."
+      ],
+      "pdf_page_number": 23,
+      "printed_page_number": "754",
+      "word_count": 350
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": "fig_p025_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Was den Absolutbetrag der gestreuten Strahlung bzw. der induzierten Dipolmoments anlangt, so möchte ich glauben, dass auch er durch Formel (23) richtig wiedergegeben wird, obwohl ein Fehlgriff im Zahlenfaktor beim Ansetzen der oben eingeführten heuristischen Hypothese selbstverständlich im Bereich der Möglichkeit liegt. Die physikalische Dimension ist jedenfalls die richtige, denn da die Quadratintegrale der Eigenfunktionen auf Eins normiert sind, sind die a_{kn}, b_{kn} nach (18), (19), (21), (22) elektrische Momente. Das Verhältnis des induzierten Dipolmoments zum spontanen ist, wenn ν von der betreffenden Emissionsfrequenz weit ab liegt, größenordnungsmäßig gleich dem Verhältnis der potentiellen Zusatzenergie Fa_{kn} zur „Energiestufe“ E_k - E_n.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": "pages/page_024.md",
+          "text_original": "Was den Absolutbetrag der gestreuten Strahlung bzw. der induzierten Dipolmoments anlangt, so möchte ich glauben, dass auch er durch Formel (23) richtig wiedergegeben wird, obwohl ein Fehlgriff im Zahlenfaktor beim Ansetzen der oben eingeführten heuristischen Hypothese selbstverständlich im Bereich der Möglichkeit liegt. Die physikalische Dimension ist jedenfalls die richtige, denn da die Quadratintegrale der Eigenfunktionen auf Eins normiert sind, sind die a_{kn}, b_{kn} nach (18), (19), (21), (22) elektrische Momente. Das Verhältnis des induzierten Dipolmoments zum spontanen ist, wenn ν von der betreffenden Emissionsfrequenz weit ab liegt, größenordnungsmäßig gleich dem Verhältnis der potentiellen Zusatzenergie Fa_{kn} zur „Energiestufe“ Eₖ − Eₙ."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "![Equation (23) showing the resulting electric moment.](pictures/equation_23.png)\n\nWas den Absolutbetrag der gestreuten Strahlung bzw. der induzierten Dipolmoments anlangt, so möchte ich glauben, dass auch er durch Formel (23) richtig wiedergegeben wird, obwohl ein Fehlgriff im Zahlenfaktor beim Ansetzen der oben eingeführten heuristischen Hypothese selbstverständlich im Bereich der Möglichkeit liegt. Die physikalische Dimension ist jedenfalls die richtige, denn da die Quadratintegrale der Eigenfunktionen auf Eins normiert sind, sind die a_{kn}, b_{kn} nach (18), (19), (21), (22) elektrische Momente. Das Verhältnis des induzierten Dipolmoments zum spontanen ist, wenn ν von der betreffenden Emissionsfrequenz weit ab liegt, größenordnungsmäßig gleich dem Verhältnis der potentiellen Zusatzenergie Fa_{kn} zur „Energiestufe“ Eₖ − Eₙ.",
+      "page_quality_notes": [
+        "All equations and mathematical derivations are included.",
+        "No figures or tables are present in the original text; possibly minor formatting issues in OCR."
+      ],
+      "pdf_page_number": 24,
+      "printed_page_number": "755",
+      "word_count": 200
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": "fig_p026_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "### § 3. Ergänzungen zu § 2: Angeregte Atome, entartete Systeme, Streckenspektrum\n\nDer Übersichtlichkeit wegen wurden im vorigen Paragraph einige spezielle Annahmen gemacht und manche Fragen beiseite gesetzt, die nun nachträglich zu überlegen sind.\n\nZunächst: was geschieht, wenn die Lichtwelle das Atom\n\nin einem Zustand antrifft, in welchem nicht, wie bisher angenommen, nur die *eine* freie Schwingung $u_k$ angeregt ist, sondern mehrere, sagen wir einmal zwei, $u_k$ und $u_l$? Wie schon oben bemerkt, sind dann im Störungsfalle einfach die zwei dem Index $k$ und dem Index $l$ entsprechenden Störungslösungen (16) additiv zu verknüpfen, nachdem man sie mit konstanten (eventuell komplexen) Koeffizienten beheftet hat, die der für die freien Schwingungen vorausgesetzten *Stärke* und dem Phasenverhältnis ihrer Anregung entspricht. Man überblickt wohl, ohne die Rechnung wirklich durchzuführen, dass dann in dem Ausdruck für $\\psi \\bar{\\psi}$ und ebenso in dem Ausdruck (23) für das resultierende elektrische Moment *nicht bloß* das entsprechende lineare Aggregat der früher erhaltenen Glieder auftritt, d. h. der Ausdrücke (17) bzw. (23), einmal mit $k$, das andere Mal mit $l$ geschrieben; sondern es treten außerdem noch „Kombinationsglieder“ auf, und zwar *erstens*, von höchster Größenordnung, ein Glied mit\n\n$$(24) \\quad u_k(x) u_l(x) e^{\\frac{2\\pi i}{h} (E_k - E_l)t}$$\n\nwelches die *spontane* Ausstrahlung wiedergibt, die mit dem Zusammenbestehen der beiden *freien* Schwingungen verbunden ist; *zweitens* Störungsglieder erster Ordnung, die mit der störenden Feldamplitude proportional sind und dem Zusammenwirken der zu $u_k$ gehörigen Zwangsschwingungen mit der freien Schwingung $u_l$ — und der zu $u_l$ gehörigen Zwangsschwingungen mit $u_k$ entsprechen. Die *Frequenz* dieser in (17) bzw. (23) neuauftretenden Glieder ist, wie man wohl auch noch ohne Durchführung der Rechnung überblickt, *nicht* ν, sondern\n\n$$(25) \\quad |\\nu \\pm (E_k - E_l)/h|.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": "pages/page_026.md",
+          "text_original": "### § 3. Ergänzungen zu § 2: Angeregte Atome, entartete Systeme, Streckenspektrum\n\nDer Übersichtlichkeit wegen wurden im vorigen Paragraph einige spezielle Annahmen gemacht und manche Fragen beiseite gesetzt, die nun nachträglich zu überlegen sind.\n\nZunächst: was geschieht, wenn die Lichtwelle das Atom\n\nin einem Zustand antrifft, in welchem nicht, wie bisher angenommen, nur die *eine* freie Schwingung uₖ angeregt ist, sondern mehrere, sagen wir einmal zwei, uₖ und uₗ? Wie schon oben bemerkt, sind dann im Störungsfalle einfach die zwei dem Index k und dem Index l entsprechenden Störungslösungen (16) additiv zu verknüpfen, nachdem man sie mit konstanten (eventuell komplexen) Koeffizienten beheftet hat, die der für die freien Schwingungen vorausgesetzten *Stärke* und dem Phasenverhältnis ihrer Anregung entspricht. Man überblickt wohl, ohne die Rechnung wirklich durchzuführen, dass dann in dem Ausdruck für ψψ̄ und ebenso in dem Ausdruck (23) für das resultierende elektrische Moment *nicht bloß* das entsprechende lineare Aggregat der früher erhaltenen Glieder auftritt, d. h. der Ausdrücke (17) bzw. (23), einmal mit k, das andere Mal mit l geschrieben; sondern es treten außerdem noch „Kombinationsglieder“ auf, und zwar *erstens*, von höchster Größenordnung, ein Glied mit\n\n(24)  uₖ(x) uₗ(x) e^{(2πi/h)(Eₖ − Eₗ)t}\n\nwelches die *spontane* Ausstrahlung wiedergibt, die mit dem Zusammenbestehen der beiden *freien* Schwingungen verbunden ist; *zweitens* Störungsglieder erster Ordnung, die mit der störenden Feldamplitude proportional sind und dem Zusammenwirken der zu uₖ gehörigen Zwangsschwingungen mit der freien Schwingung uₗ — und der zu uₗ gehörigen Zwangsschwingungen mit uₖ entsprechen. Die *Frequenz* dieser in (17) bzw. (23) neuauftretenden Glieder ist, wie man wohl auch noch ohne Durchführung der Rechnung überblickt, *nicht* ν, sondern\n\n(25)  |ν ± (Eₖ − Eₗ)/h|."
+        },
+        {
+          "asset_id": "fig_p027_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Das Vorhandensein dieser merkwürdigen Art von Sekundärstrahlung wurde zuerst von Kramers und Heisenberg a. a. O. auf Grund korrespondenzmäßiger Überlegungen postuliert, dann von Born, Heisenberg und Jordan auf Grund der Heisenbergschen Quantenmechanik.¹) Experimentell nachgewiesen wurde sie, soviel mir bekannt, noch in keinem Falle. Die *vorliegende* Theorie lässt nun auch sehr deutlich erkennen, dass das Auftreten dieser Streustrahlung an besondere Bedingungen geknüpft ist, welche wohl eigens zu dem Zweck anzustellende Versuche erheischen. Erstens müssen *zwei* Eigenschwingungen $u_k$ und $u_l$ *kräftig* erregt sein, so dass alle Versuche ausscheiden, die an Atomen im Normalzustand angestellt sind — und das ist die überwiegende Mehrzahl. Zweitens muss mindestens *ein* dritter Eigenschwingungszustand $u_n$ *existieren* (d. h. *möglich*, er braucht nicht *erregt* zu sein), welcher sowohl mit $u_k$ als auch mit $u_l$ kombiniert zu kräftiger Spontanemission führt. Denn mit dem Produkt der betreffenden Spontanemissionskoeffizienten ($a_{kn} b_{ln}$ und $a_{ln} b_{kn}$) ist die aufzufindende außergewöhnliche Streustrahlung proportional. Die Kombination ($u_k, u_l$) brauchte an und für sich nicht kräftig zu emittieren, es würde nichts schaden, wenn selbst — in der Sprache der älteren Theorie — dieser „Übergang verboten“ wäre. Dennoch wird man praktisch auch diese Forderung hinzufügen müssen, und zwar die Forderung, dass die Linie ($u_k, u_l$) während des Versuches wirklich kräftig ausgesandt wird, weil das eigentlich das einzige Mittel ist, um sich zu vergewissern, dass wirklich *beide* Eigenschwingungen, und zwar in denselben Atomindividuen und in einer hinreichenden Zahl solcher, kräftig erregt sind.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": "pages/page_027.md",
+          "text_original": "Das Vorhandensein dieser merkwürdigen Art von Sekundärstrahlung wurde zuerst von Kramers und Heisenberg a. a. O. auf Grund korrespondenzmäßiger Überlegungen postuliert, dann von Born, Heisenberg und Jordan auf Grund der Heisenbergschen Quantenmechanik.¹) Experimentell nachgewiesen wurde sie, soviel mir bekannt, noch in keinem Falle. Die *vorliegende* Theorie lässt nun auch sehr deutlich erkennen, dass das Auftreten dieser Streustrahlung an besondere Bedingungen geknüpft ist, welche wohl eigens zu dem Zweck anzustellende Versuche erheischen. Erstens müssen *zwei* Eigenschwingungen uₖ und uₗ *kräftig* erregt sein, so dass alle Versuche ausscheiden, die an Atomen im Normalzustand angestellt sind — und das ist die überwiegende Mehrzahl. Zweitens muss mindestens *ein* dritter Eigenschwingungszustand uₙ *existieren* (d. h. *möglich*, er braucht nicht *erregt* zu sein), welcher sowohl mit uₖ als auch mit uₗ kombiniert zu kräftiger Spontanemission führt. Denn mit dem Produkt der betreffenden Spontanemissionskoeffizienten (a_{kn} b_{ln} und a_{ln} b_{kn}) ist die aufzufindende außergewöhnliche Streustrahlung proportional. Die Kombination (uₖ, uₗ) brauchte an und für sich nicht kräftig zu emittieren, es würde nichts schaden, wenn selbst — in der Sprache der älteren Theorie — dieser „Übergang verboten“ wäre. Dennoch wird man praktisch auch diese Forderung hinzufügen müssen, und zwar die Forderung, dass die Linie (uₖ, uₗ) während des Versuches wirklich kräftig ausgesandt wird, weil das eigentlich das einzige Mittel ist, um sich zu vergewissern, dass wirklich *beide* Eigenschwingungen, und zwar in denselben Atomindividuen und in einer hinreichenden Zahl solcher, kräftig erregt sind."
+        },
+        {
+          "asset_id": "fig_p028_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Bedenkt man nun, dass in den kräftigen und am meisten untersuchten Termreihen, d. i. in den gewöhnlichen s-, p-, d-, f-Reihen, die Verhältnisse meistens so liegen, dass zwei Terme, die mit einem dritten kräftig kombinieren, dies untereinander nicht tun, so erscheint wirklich eine besondere Auswahl des Versuchsobjektes und der Versuchsbedingungen nötig, um die in Rede stehende Streustrahlung mit Sicherheit erwarten zu dürfen, besonders da sie von anderer Frequenz ist als das einfallende Licht und *daher* nicht zu Dispersion oder Rotationspolarisation Anlaß geben, sondern nur als allseitiges Streulicht bemerkt werden kann.\n\nDie oben zitierte quantenmechanische Dispersionstheorie von Born, Heisenberg und Jordan, gestattet, soweit ich es übersehe, trotz ihrer großen formalen Ähnlichkeit mit der vorliegenden, dennoch *keine* Überlegungen von der eben durchgeführten Art. Denn sie spricht nur von *einer* Reaktionsweise des Atoms gegen einfallende Strahlung. Sie faßt das Atom als ein zeitloses Ganzes und vermag bisher nicht zu sagen, wie sich in ihrer Sprache die unbezweifelbare Tatsache ausdrücken lässt, dass das Atom sich zu verschiedenen Zeiten in *verschiedenen* Zuständen befinden kann und dann erwiesenermaßen in verschiedener Weise auf einfallende Strahlung reagiert.¹)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": "pages/page_028.md",
+          "text_original": "Bedenkt man nun, dass in den kräftigen und am meisten untersuchten Termreihen, d. i. in den gewöhnlichen s-, p-, d-, f-Reihen, die Verhältnisse meistens so liegen, dass zwei Terme, die mit einem dritten kräftig kombinieren, dies untereinander nicht tun, so erscheint wirklich eine besondere Auswahl des Versuchsobjektes und der Versuchsbedingungen nötig, um die in Rede stehende Streustrahlung mit Sicherheit erwarten zu dürfen, besonders da sie von anderer Frequenz ist als das einfallende Licht und *daher* nicht zu Dispersion oder Rotationspolarisation Anlaß geben, sondern nur als allseitiges Streulicht bemerkt werden kann.\n\nDie oben zitierte quantenmechanische Dispersionstheorie von Born, Heisenberg und Jordan, gestattet, soweit ich es übersehe, trotz ihrer großen formalen Ähnlichkeit mit der vorliegenden, dennoch *keine* Überlegungen von der eben durchgeführten Art. Denn sie spricht nur von *einer* Reaktionsweise des Atoms gegen einfallende Strahlung. Sie faßt das Atom als ein zeitloses Ganzes und vermag bisher nicht zu sagen, wie sich in ihrer Sprache die unbezweifelbare Tatsache ausdrücken lässt, dass das Atom sich zu verschiedenen Zeiten in *verschiedenen* Zuständen befinden kann und dann erwiesenermaßen in verschiedener Weise auf einfallende Strahlung reagiert.¹)"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "### § 3. Ergänzungen zu § 2: Angeregte Atome, entartete Systeme, Streckenspektrum\n\nDer Übersichtlichkeit wegen wurden im vorigen Paragraph einige spezielle Annahmen gemacht und manche Fragen beiseite gesetzt, die nun nachträglich zu überlegen sind.\n\nZunächst: was geschieht, wenn die Lichtwelle das Atom\n\nin einem Zustand antrifft, in welchem nicht, wie bisher angenommen, nur die *eine* freie Schwingung uₖ angeregt ist, sondern mehrere, sagen wir einmal zwei, uₖ und uₗ? Wie schon oben bemerkt, sind dann im Störungsfalle einfach die zwei dem Index k und dem Index l entsprechenden Störungslösungen (16) additiv zu verknüpfen, nachdem man sie mit konstanten (eventuell komplexen) Koeffizienten beheftet hat, die der für die freien Schwingungen vorausgesetzten *Stärke* und dem Phasenverhältnis ihrer Anregung entspricht. Man überblickt wohl, ohne die Rechnung wirklich durchzuführen, dass dann in dem Ausdruck für ψψ̄ und ebenso in dem Ausdruck (23) für das resultierende elektrische Moment *nicht bloß* das entsprechende lineare Aggregat der früher erhaltenen Glieder auftritt, d. h. der Ausdrücke (17) bzw. (23), einmal mit k, das andere Mal mit l geschrieben; sondern es treten außerdem noch „Kombinationsglieder“ auf, und zwar *erstens*, von höchster Größenordnung, ein Glied mit\n\n![Equation (24) and (25) describing combination terms in secondary radiation.](pictures/equation_24_25.png)\n\nwelches die *spontane* Ausstrahlung wiedergibt, die mit dem Zusammenbestehen der beiden *freien* Schwingungen verbunden ist; *zweitens* Störungsglieder erster Ordnung, die mit der störenden Feldamplitude proportional sind und dem Zusammenwirken der zu uₖ gehörigen Zwangsschwingungen mit der freien Schwingung uₗ — und der zu uₗ gehörigen Zwangsschwingungen mit uₖ entsprechen. Die *Frequenz* dieser in (17) bzw. (23) neuauftretenden Glieder ist, wie man wohl auch noch ohne Durchführung der Rechnung überblickt, *nicht* ν, sondern\n\n![Equation (24) and (25) describing combination terms in secondary radiation.](pictures/equation_24_25.png)\n\nDas Vorhandensein dieser merkwürdigen Art von Sekundärstrahlung wurde zuerst von Kramers und Heisenberg a. a. O. auf Grund korrespondenzmäßiger Überlegungen postuliert, dann von Born, Heisenberg und Jordan auf Grund der Heisenbergschen Quantenmechanik.¹) Experimentell nachgewiesen wurde sie, soviel mir bekannt, noch in keinem Falle. Die *vorliegende* Theorie lässt nun auch sehr deutlich erkennen, dass das Auftreten dieser Streustrahlung an besondere Bedingungen geknüpft ist, welche wohl eigens zu dem Zweck anzustellende Versuche erheischen. Erstens müssen *zwei* Eigenschwingungen uₖ und uₗ *kräftig* erregt sein, so dass alle Versuche ausscheiden, die an Atomen im Normalzustand angestellt sind — und das ist die überwiegende Mehrzahl. Zweitens muss mindestens *ein* dritter Eigenschwingungszustand uₙ *existieren* (d. h. *möglich*, er braucht nicht *erregt* zu sein), welcher sowohl mit uₖ als auch mit uₗ kombiniert zu kräftiger Spontanemission führt. Denn mit dem Produkt der betreffenden Spontanemissionskoeffizienten (a_{kn} b_{ln} und a_{ln} b_{kn}) ist die aufzufindende außergewöhnliche Streustrahlung proportional. Die Kombination (uₖ, uₗ) brauchte an und für sich nicht kräftig zu emittieren, es würde nichts schaden, wenn selbst — in der Sprache der älteren Theorie — dieser „Übergang verboten“ wäre. Dennoch wird man praktisch auch diese Forderung hinzufügen müssen, und zwar die Forderung, dass die Linie (uₖ, uₗ) während des Versuches wirklich kräftig ausgesandt wird, weil das eigentlich das einzige Mittel ist, um sich zu vergewissern, dass wirklich *beide* Eigenschwingungen, und zwar in denselben Atomindividuen und in einer hinreichenden Zahl solcher, kräftig erregt sind.\n\nBedenkt man nun, dass in den kräftigen und am meisten untersuchten Termreihen, d. i. in den gewöhnlichen s-, p-, d-, f-Reihen, die Verhältnisse meistens so liegen, dass zwei Terme, die mit einem dritten kräftig kombinieren, dies untereinander nicht tun, so erscheint wirklich eine besondere Auswahl des Versuchsobjektes und der Versuchsbedingungen nötig, um die in Rede stehende Streustrahlung mit Sicherheit erwarten zu dürfen, besonders da sie von anderer Frequenz ist als das einfallende Licht und *daher* nicht zu Dispersion oder Rotationspolarisation Anlaß geben, sondern nur als allseitiges Streulicht bemerkt werden kann.\n\nDie oben zitierte quantenmechanische Dispersionstheorie von Born, Heisenberg und Jordan, gestattet, soweit ich es übersehe, trotz ihrer großen formalen Ähnlichkeit mit der vorliegenden, dennoch *keine* Überlegungen von der eben durchgeführten Art. Denn sie spricht nur von *einer* Reaktionsweise des Atoms gegen einfallende Strahlung. Sie faßt das Atom als ein zeitloses Ganzes und vermag bisher nicht zu sagen, wie sich in ihrer Sprache die unbezweifelbare Tatsache ausdrücken lässt, dass das Atom sich zu verschiedenen Zeiten in *verschiedenen* Zuständen befinden kann und dann erwiesenermaßen in verschiedener Weise auf einfallende Strahlung reagiert.¹)",
+      "page_quality_notes": [
+        "Section header and text captured.",
+        "All equations and mathematical derivations are included.",
+        "No figures or tables are present in the original text; placeholders used for bounding boxes."
+      ],
+      "pdf_page_number": 26,
+      "printed_page_number": "756",
+      "word_count": 500
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": "fig_p029_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Wir wenden uns jetzt einer anderen Frage zu. Im § 2 wurden die sämtlichen Eigenwerte als *diskret* und untereinander *verschieden* vorausgesetzt. Wir lassen zunächst die zweite Voraussetzung fallen und fragen: was ändert sich, wenn *mehrfache* Eigenwerte vorkommen, d. h. wenn *Entartung* vorliegt? Vielleicht erwartet man, dass dann ähnliche Komplikationen auftreten, wie wir ihnen im Falle einer zeitlich konstanten Störung (dritte Mitteilung, § 2) begegnet sind, d. h. dass erst durch Auflösen einer „Säkulargleichung“ ein der speziellen Störung angepaßtes System von Eigenfunktionen des ungestörten Atoms bestimmt und zur Durchführung der Störungsrechnung verwendet werden muss. Das trifft im Falle einer *beliebigen* Störung $r(x, t)$, wie wir sie in Gl. (5) angesetzt hatten, in der Tat zu, aber gerade im Falle der Störung durch eine Lichtwelle, Gl. (6) trifft es *nicht* zu, jedenfalls in der bisher verfolgten ersten Näherung und solange an der Voraussetzung festgehalten wird, dass die Lichtfrequenz ν mit keiner der in Betracht kommenden spontanen Emissionsfrequenzen zusammenfällt. Dann ist nämlich der Parameterwert in der für die Amplituden der Störungsschwingungen aufgestellten Doppelgleichung (13) *kein* Eigenwert und das Gleichungspaar hat stets das eindeutige Lösungspaar (14), in welchem keine verschwindenden Nenner auftreten, auch wenn Eₖ ein mehrfacher Eigenwert ist.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": "pages/page_029.md",
+          "text_original": "Wir wenden uns jetzt einer anderen Frage zu. Im § 2 wurden die sämtlichen Eigenwerte als *diskret* und untereinander *verschieden* vorausgesetzt. Wir lassen zunächst die zweite Voraussetzung fallen und fragen: was ändert sich, wenn *mehrfache* Eigenwerte vorkommen, d. h. wenn *Entartung* vorliegt? Vielleicht erwartet man, dass dann ähnliche Komplikationen auftreten, wie wir ihnen im Falle einer zeitlich konstanten Störung (dritte Mitteilung, § 2) begegnet sind, d. h. dass erst durch Auflösen einer „Säkulargleichung“ ein der speziellen Störung angepaßtes System von Eigenfunktionen des ungestörten Atoms bestimmt und zur Durchführung der Störungsrechnung verwendet werden muss. Das trifft im Falle einer *beliebigen* Störung r(x, t), wie wir sie in Gl. (5) angesetzt hatten, in der Tat zu, aber gerade im Falle der Störung durch eine Lichtwelle, Gl. (6) trifft es *nicht* zu, jedenfalls in der bisher verfolgten ersten Näherung und solange an der Voraussetzung festgehalten wird, dass die Lichtfrequenz ν mit keiner der in Betracht kommenden spontanen Emissionsfrequenzen zusammenfällt. Dann ist nämlich der Parameterwert in der für die Amplituden der Störungsschwingungen aufgestellten Doppelgleichung (13) *kein* Eigenwert und das Gleichungspaar hat stets das eindeutige Lösungspaar (14), in welchem keine verschwindenden Nenner auftreten, auch wenn Eₖ ein mehrfacher Eigenwert ist."
+        },
+        {
+          "asset_id": "fig_p030_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.45
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Dabei sind *nicht etwa* die Summenglieder, für welche Eₙ = Eₖ ist, zu unterdrücken, ebensowenig wie das Summenglied n = k selbst. Bemerkenswert ist, dass durch diese Glieder — wenn eines davon wirklich, d. h. mit nichtverschwindendem a'_{kn} — auftritt — auch die Frequenz ν = 0 unter den Resonanzfrequenzen erscheint. Zu der „gewöhnlichen“ Streustrahlung liefern diese Glieder freilich, wie man aus (23) erkennt, wegen Eₖ − Eₙ = 0 keinen Beitrag.\n\nDie Vereinfachung, dass man auf eine eventuell vorhandene Entartung wenigstens in erster Näherung nicht besonders Rücksicht zu nehmen braucht, tritt, wie wir weiter unten überlegen werden (vgl. § 5), immer dann auf, wenn, wie es bei der Lichtwelle der Fall ist, der zeitliche Mittelwert der Störungsfunktion verschwindet oder, was dasselbe ist, wenn deren zeitliche Fourierentwicklung kein konstantes, d. h. von der Zeit unabhängiges Glied enthält.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": "pages/page_029.md",
+          "text_original": "Dabei sind *nicht etwa* die Summenglieder, für welche Eₙ = Eₖ ist, zu unterdrücken, ebensowenig wie das Summenglied n = k selbst. Bemerkenswert ist, dass durch diese Glieder — wenn eines davon wirklich, d. h. mit nichtverschwindendem a'_{kn} — auftritt — auch die Frequenz ν = 0 unter den Resonanzfrequenzen erscheint. Zu der „gewöhnlichen“ Streustrahlung liefern diese Glieder freilich, wie man aus (23) erkennt, wegen Eₖ − Eₙ = 0 keinen Beitrag.\n\nDie Vereinfachung, dass man auf eine eventuell vorhandene Entartung wenigstens in erster Näherung nicht besonders Rücksicht zu nehmen braucht, tritt, wie wir weiter unten überlegen werden (vgl. § 5), immer dann auf, wenn, wie es bei der Lichtwelle der Fall ist, der zeitliche Mittelwert der Störungsfunktion verschwindet oder, was dasselbe ist, wenn deren zeitliche Fourierentwicklung kein konstantes, d. h. von der Zeit unabhängiges Glied enthält."
+        },
+        {
+          "asset_id": "fig_p031_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Während also unsere *erste* Voraussetzung über die Eigenwerte — dass sie *einfach* sein sollen — sich eigentlich als eine überflüssige Vorsicht erwiesen hat, führt ein Abgehen von der *zweiten* — dass sie durchaus *diskret* sein sollen — zwar auch keine *prinzipiellen* Änderungen herbei, aber doch recht erhebliche Änderungen im äußeren Habitus der Rechnung, so ferne nämlich zu den diskreten Summen in (14), (16), (17), (23) *Integrale* über das Streckenspektrum der Gleichung (1') hinzutreten. Die Theorie solcher Integraldarstellungen ist von H. Weyl$^{1)}$, allerdings nur für gewöhnliche Differentialgleichungen entwickelt worden, doch dürfte die Übertragung auf partielle wohl gestattet sein. Der Sachverhalt ist in aller Kürze dieser.$^{2)}$ Wenn die zu den inhomogenen Gleichungen (13) gehörige homogene Gleichung, d. i. die Schwingungsgleichung (1') des ungestörten Systems, neben einem Punktspektrum auch ein Streckenspektrum besitzt, das von E = a bis E = b reichen möge, dann lässt sich eine willkürliche Funktion f(x) natürlich nicht mehr nach den normierten diskreten Eigenfunktionen uₙ(x) allein entwickeln:\n\n$$(26) \\quad f(x) = \\sum_{n=1}^{\\infty} \\varphi_n \\cdot u_n(x) \\quad \\text{mit} \\quad \\varphi_n = \\int f(x) u_n(x) \\varrho(x) \\, dx,$$\n\nsondern es muss eine Integralentwicklung nach den Eigenlösungen u(x, E), welche zu den Eigenwerten a ≤ E ≤ b gehören, hinzutreten:\n\n$$(27) \\quad f(x) = \\sum_{n=1}^{\\infty} \\varphi_n \\cdot u_n(x) + \\int_a^b u(x, E) \\varphi(E) \\, dE,$$\n\nwobei wir zur Betonung der Analogie für die „Koeffizientenfunktion“ φ(E) absichtlich denselben Buchstaben wählen, wie für die diskreten Koeffizienten φₙ.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": "pages/page_030.md",
+          "text_original": "Während also unsere *erste* Voraussetzung über die Eigenwerte — dass sie *einfach* sein sollen — sich eigentlich als eine überflüssige Vorsicht erwiesen hat, führt ein Abgehen von der *zweiten* — dass sie durchaus *diskret* sein sollen — zwar auch keine *prinzipiellen* Änderungen herbei, aber doch recht erhebliche Änderungen im äußeren Habitus der Rechnung, so ferne nämlich zu den diskreten Summen in (14), (16), (17), (23) *Integrale* über das Streckenspektrum der Gleichung (1') hinzutreten. Die Theorie solcher Integraldarstellungen ist von H. Weyl$^{1)}$, allerdings nur für gewöhnliche Differentialgleichungen entwickelt worden, doch dürfte die Übertragung auf partielle wohl gestattet sein. Der Sachverhalt ist in aller Kürze dieser.$^{2)} Wenn die zu den inhomogenen Gleichungen (13) gehörige homogene Gleichung, d. i. die Schwingungsgleichung (1') des ungestörten Systems, neben einem Punktspektrum auch ein Streckenspektrum besitzt, das von E = a bis E = b reichen möge, dann lässt sich eine willkürliche Funktion f(x) natürlich nicht mehr nach den normierten diskreten Eigenfunktionen uₙ(x) allein entwickeln:\n\n(26)  f(x) = ∑_{n=1}^∞ φₙ · uₙ(x)  mit  φₙ = ∫ f(x) uₙ(x) ϱ(x) dx,\n\nsondern es muss eine Integralentwicklung nach den Eigenlösungen u(x, E), welche zu den Eigenwerten a ≤ E ≤ b gehören, hinzutreten:\n\n(27)  f(x) = ∑_{n=1}^∞ φₙ · uₙ(x) + ∫ₐᵇ u(x, E) φ(E) dE,\n\nwobei wir zur Betonung der Analogie für die „Koeffizientenfunktion“ φ(E) absichtlich denselben Buchstaben wählen, wie für die diskreten Koeffizienten φₙ."
+        },
+        {
+          "asset_id": "fig_p032_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Hat man nun die Eigenlösung u(x, E) ein für allemal durch Beheftung mit einer passenden Funktion von E derart *normiert*, dass\n\n$$(28) \\quad \\int dx \\, \\varrho(x) \\int_{E'}^{E'+\\Delta} u(x, E) u(x, E') \\, dE' = 1 \\\\ \\text{bzw.} = 0,$$\n\nje nachdem E dem Intervall E', E' + Δ *angehört* oder nicht, dann ist in der Entwicklung (27) unter dem Integralzeichen zu setzen:\n\n$$(29) \\quad \\varphi(E) = \\lim_{\\Delta=0} \\frac{1}{\\Delta} \\int \\varrho(\\xi) f(\\xi) \\cdot \\int_{E}^{E'+\\Delta} u(\\xi, E') \\, dE' \\cdot d\\xi,$$\n\nwobei das *erste* Integralzeichen sich wie immer auf das Grundgebiet der Variablengruppe x bezieht.¹⁾ Die Erfüllbarkeit von (28) und die Existenz der Entwicklung (27) vorausgesetzt — welch beides, wie gesagt von Weyl für gewöhnliche Differentialgleichungen bewiesen ist — leuchtet die Bestimmung der „Koeffizientenfunktion“ nach (29) fast ebenso unmittelbar ein, wie die wohlbekannte Bestimmung von Fourierkoeffizienten.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": "pages/page_031.md",
+          "text_original": "Hat man nun die Eigenlösung u(x, E) ein für allemal durch Beheftung mit einer passenden Funktion von E derart *normiert*, dass\n\n(28)  ∫ dx ϱ(x) ∫_{E'}^{E'+Δ} u(x, E) u(x, E') dE' = 1 \\\n bzw. = 0,\n\nje nachdem E dem Intervall E', E' + Δ *angehört* oder nicht, dann ist in der Entwicklung (27) unter dem Integralzeichen zu setzen:\n\n(29)  φ(E) = lim_{Δ=0} (1/Δ) ∫ ϱ(ξ) f(ξ) · ∫ₐ^{E'+Δ} u(ξ, E') dE' · dξ,\n\nwobei das *erste* Integralzeichen sich wie immer auf das Grundgebiet der Variablengruppe x bezieht.¹⁾ Die Erfüllbarkeit von (28) und die Existenz der Entwicklung (27) vorausgesetzt — welch beides, wie gesagt von Weyl für gewöhnliche Differentialgleichungen bewiesen ist — leuchtet die Bestimmung der „Koeffizientenfunktion“ nach (29) fast ebenso unmittelbar ein, wie die wohlbekannte Bestimmung von Fourierkoeffizienten."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "Wir wenden uns jetzt einer anderen Frage zu. Im § 2 wurden die sämtlichen Eigenwerte als *diskret* und untereinander *verschieden* vorausgesetzt. Wir lassen zunächst die zweite Voraussetzung fallen und fragen: was ändert sich, wenn *mehrfache* Eigenwerte vorkommen, d. h. wenn *Entartung* vorliegt? Vielleicht erwartet man, dass dann ähnliche Komplikationen auftreten, wie wir ihnen im Falle einer zeitlich konstanten Störung (dritte Mitteilung, § 2) begegnet sind, d. h. dass erst durch Auflösen einer „Säkulargleichung“ ein der speziellen Störung angepaßtes System von Eigenfunktionen des ungestörten Atoms bestimmt und zur Durchführung der Störungsrechnung verwendet werden muss. Das trifft im Falle einer *beliebigen* Störung r(x, t), wie wir sie in Gl. (5) angesetzt hatten, in der Tat zu, aber gerade im Falle der Störung durch eine Lichtwelle, Gl. (6) trifft es *nicht* zu, jedenfalls in der bisher verfolgten ersten Näherung und solange an der Voraussetzung festgehalten wird, dass die Lichtfrequenz ν mit keiner der in Betracht kommenden spontanen Emissionsfrequenzen zusammenfällt. Dann ist nämlich der Parameterwert in der für die Amplituden der Störungsschwingungen aufgestellten Doppelgleichung (13) *kein* Eigenwert und das Gleichungspaar hat stets das eindeutige Lösungspaar (14), in welchem keine verschwindenden Nenner auftreten, auch wenn Eₖ ein mehrfacher Eigenwert ist.\n\nDabei sind *nicht etwa* die Summenglieder, für welche Eₙ = Eₖ ist, zu unterdrücken, ebensowenig wie das Summenglied n = k selbst. Bemerkenswert ist, dass durch diese Glieder — wenn eines davon wirklich, d. h. mit nichtverschwindendem a'_{kn} — auftritt — auch die Frequenz ν = 0 unter den Resonanzfrequenzen erscheint. Zu der „gewöhnlichen“ Streustrahlung liefern diese Glieder freilich, wie man aus (23) erkennt, wegen Eₖ − Eₙ = 0 keinen Beitrag.\n\nDie Vereinfachung, dass man auf eine eventuell vorhandene Entartung wenigstens in erster Näherung nicht besonders Rücksicht zu nehmen braucht, tritt, wie wir weiter unten überlegen werden (vgl. § 5), immer dann auf, wenn, wie es bei der Lichtwelle der Fall ist, der zeitliche Mittelwert der Störungsfunktion verschwindet oder, was dasselbe ist, wenn deren zeitliche Fourierentwicklung kein konstantes, d. h. von der Zeit unabhängiges Glied enthält.\n\nWährend also unsere *erste* Voraussetzung über die Eigenwerte — dass sie *einfach* sein sollen — sich eigentlich als eine überflüssige Vorsicht erwiesen hat, führt ein Abgehen von der *zweiten* — dass sie durchaus *diskret* sein sollen — zwar auch keine *prinzipiellen* Änderungen herbei, aber doch recht erhebliche Änderungen im äußeren Habitus der Rechnung, so ferne nämlich zu den diskreten Summen in (14), (16), (17), (23) *Integrale* über das Streckenspektrum der Gleichung (1') hinzutreten. Die Theorie solcher Integraldarstellungen ist von H. Weyl$^{1)}$, allerdings nur für gewöhnliche Differentialgleichungen entwickelt worden, doch dürfte die Übertragung auf partielle wohl gestattet sein. Der Sachverhalt ist in aller Kürze dieser.$^{2)} Wenn die zu den inhomogenen Gleichungen (13) gehörige homogene Gleichung, d. i. die Schwingungsgleichung (1') des ungestörten Systems, neben einem Punktspektrum auch ein Streckenspektrum besitzt, das von E = a bis E = b reichen möge, dann lässt sich eine willkürliche Funktion f(x) natürlich nicht mehr nach den normierten diskreten Eigenfunktionen uₙ(x) allein entwickeln:\n\n![Equation (26) and (27) showing eigenfunction expansions for discrete and continuous spectra.](pictures/equation_26_27.png)\n\nHat man nun die Eigenlösung u(x, E) ein für allemal durch Beheftung mit einer passenden Funktion von E derart *normiert*, dass\n\n![Equation (28) and (29) defining normalization of eigenfunctions for continuous spectrum.](pictures/equation_28_29.png)",
+      "page_quality_notes": [
+        "All equations and mathematical derivations are included.",
+        "No figures or tables are present in the original text; placeholders used for bounding boxes."
+      ],
+      "pdf_page_number": 30,
+      "printed_page_number": "758",
+      "word_count": 550
+    }
+  ],
+  "source_filename": "Schroedinger_1926_Quantisierung_als_Eigenwertproblem_Vierte_Mitteilung.pdf"
+}

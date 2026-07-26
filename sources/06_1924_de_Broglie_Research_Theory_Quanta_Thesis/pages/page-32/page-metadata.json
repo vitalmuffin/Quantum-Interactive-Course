@@ -1,0 +1,137 @@
+{
+  "index": 31,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 46,
+      "topLeftY": 24,
+      "bottomRightX": 71,
+      "bottomRightY": 44,
+      "content": "52",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 23,
+      "bottomRightX": 388,
+      "bottomRightY": 41,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 61,
+      "bottomRightX": 578,
+      "bottomRightY": 389,
+      "content": "Considérons un mobile placé dans un champ et dont l'énergie totale est donnée ; en tout point du champ, que le mobile peut atteindre, sa vitesse est donnée par l'équation de l'énergie, mais *a priori* la direction en peut être quelconque. L'expression de $p_x p_y$ et $p_z$ montre que le vecteur moment a même grandeur en un point d'un champ électrostatique quelle que soit la direction envisagée. Il n'en est plus de même s'il y a un champ magnétique : la grandeur du vecteur $\\vec{p}$ dépend alors de l'angle entre la direction choisie et le potentiel vecteur comme on le voit en formant l'expression $p_x^2 + p_y^2 + p_z^2$. Cette remarque nous sera utile plus loin.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 51,
+      "topLeftY": 385,
+      "bottomRightX": 581,
+      "bottomRightY": 467,
+      "content": "Pour terminer ce paragraphe, nous allons revenir sur le sens physique du vecteur d'Univers J dont dépend l'intégrale Hamiltonienne. Nous l'avons défini par l'expression :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 165,
+      "topLeftY": 477,
+      "bottomRightX": 468,
+      "bottomRightY": 501,
+      "content": "$$J_i = m_0 c u_i + e \\varphi_i \\quad (i = 1, 2, 3, 4).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 517,
+      "bottomRightX": 416,
+      "bottomRightY": 540,
+      "content": "A l'aide des valeurs $u_i$ et $\\varphi_i$ on trouve :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 552,
+      "bottomRightX": 528,
+      "bottomRightY": 591,
+      "content": "$$J_1 = -p_x \\quad J_2 = -p_y \\quad J_3 = -p_z \\quad J_4 = \\frac{W}{c}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 613,
+      "bottomRightX": 439,
+      "bottomRightY": 639,
+      "content": "Les composantes contre-variantes seront :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 650,
+      "bottomRightX": 496,
+      "bottomRightY": 689,
+      "content": "$$J^1 = p_x \\quad J^2 = p_y \\quad J^3 = p_z \\quad J^4 = \\frac{W}{c}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 708,
+      "bottomRightX": 587,
+      "bottomRightY": 787,
+      "content": "Nous avons donc affaire au célèbre vecteur « Impulsion d'Univers » qui synthétise l'énergie et la quantité de mouvement.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 799,
+      "bottomRightX": 117,
+      "bottomRightY": 819,
+      "content": "De :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 176,
+      "topLeftY": 823,
+      "bottomRightX": 455,
+      "bottomRightY": 866,
+      "content": "$$\\delta \\int_P^Q J_i dx^i = 0 \\quad (i = 1, 2, 3, 4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 884,
+      "bottomRightX": 411,
+      "bottomRightY": 910,
+      "content": "on peut tirer de suite si $J_4$ est constant :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 924,
+      "bottomRightX": 459,
+      "bottomRightY": 971,
+      "content": "$$\\delta \\int_A^B J_i dx^i = 0 \\quad (i = 1, 2, 3).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 130,
+      "bottomRightX": 642,
+      "bottomRightY": 165,
+      "content": "Noting (54) we see that $G_{nn'}^{(3,1)}$ is a number, $G_{nn'}^{(3,2)}$ a differential operator with respect to the $\\zeta_i$ and $G_{nn'}^{(3,3)}$ an operator with respect to the $\\zeta_i$ and $\\theta_i$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 168,
+      "bottomRightX": 175,
+      "bottomRightY": 182,
+      "content": "By (26a), Part II",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 192,
+      "bottomRightX": 466,
+      "bottomRightY": 285,
+      "content": "$$\\begin{aligned} \\sum_{n'}' G_{nn'}^{(3,1)} \\chi_{ns}^{(2)} \\phi_{n'}^{(0)} &= \\sum \\frac{(H_0^{(1)})_{nn'} \\phi_{n'}^{(0)} \\chi_{ns}^{(2)}}{V_n^{(0)} - V_{n'}^{(0)}} \\\\ &= \\sum_{n'}' u_{nn'}^{(1)} \\phi_{n'}^{(0)} \\chi_{ns}^{(2)} \\\\ &= \\phi_n^{(1)} \\chi_{ns}^{(2)} \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 299,
+      "bottomRightX": 98,
+      "bottomRightY": 312,
+      "content": "thus",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 312,
+      "bottomRightX": 642,
+      "bottomRightY": 341,
+      "content": "$$\\psi_n^{(3)} = \\phi_n^{(1)} \\chi_{ns}^{(2)} + \\sum_{n'}' \\left( G_{nn'}^{(3,2)} \\chi_{ns}^{(1)} \\phi_{n'}^{(0)} + G_{nn'}^{(3,3)} \\chi_{ns}^{(0)} \\phi_{n'}^{(0)} \\right). \\tag{62}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 360,
+      "bottomRightX": 631,
+      "bottomRightY": 376,
+      "content": "## Part VI. Solution of the Approximate Equations of fourth and higher Order: Rotation and Coupling Effects",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 390,
+      "bottomRightX": 619,
+      "bottomRightY": 406,
+      "content": "After substitution of the quantities already determined, the 4th order approximation equation (35e) becomes:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 173,
+      "topLeftY": 415,
+      "bottomRightX": 642,
+      "bottomRightY": 522,
+      "content": "$$\\begin{aligned} \\left( H_0^{(0)} - V_n^{(0)} \\right) \\psi_n^{(4)} &= \\left( W^{(4)} - H_0^{(4)} - H_{\\theta\\theta}^{(0)} - H_{\\zeta\\theta}^{(1)} - H_{\\zeta\\zeta}^{(2)} \\right) \\chi_{ns}^{(0)} \\phi_n^{(0)} \\\\ &\\quad - \\left( H_0^{(3)} + H_{\\zeta\\theta}^{(0)} + H_{\\zeta\\zeta}^{(1)} \\right) \\left( \\chi_{ns}^{(1)} \\phi_n^{(0)} + \\chi_{ns}^{(0)} \\phi_n^{(1)} \\right) \\\\ &\\quad + \\left( W_{ns}^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)} \\right) \\left( \\chi_{ns}^{(2)} \\phi_n^{(0)} + \\chi_{ns}^{(1)} \\phi_n^{(1)} + \\chi_{ns}^{(0)} \\phi_n^{(2)} \\right) \\\\ &\\quad - H_0^{(1)} \\left\\{ \\phi_n^{(1)} \\chi_{ns}^{(2)} + \\sum_{n'}' \\left( G_{nn'}^{(3,2)} \\chi_{ns}^{(1)} \\phi_{n'}^{(0)} + G_{nn'}^{(3,3)} \\chi_{ns}^{(0)} \\phi_{n'}^{(0)} \\right) \\right\\}. \\end{aligned} \\tag{63}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 532,
+      "bottomRightX": 310,
+      "bottomRightY": 549,
+      "content": "We develop again the right-hand side in the $\\phi_n^{(0)}$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 559,
+      "bottomRightX": 642,
+      "bottomRightY": 589,
+      "content": "$$\\left( H_0^{(0)} - V_n^{(0)} \\right) \\psi_n^{(4)} = W^{(4)} \\chi_{ns}^{(0)} \\phi_n^{(0)} - \\sum_{n'}' F_{nn'}^{(4)} \\phi_{n'}^{(0)}, \\tag{64}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 600,
+      "bottomRightX": 107,
+      "bottomRightY": 613,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 260,
+      "topLeftY": 613,
+      "bottomRightX": 642,
+      "bottomRightY": 634,
+      "content": "$$F_{nn'}^{(4)} = F_{nn'}^{(4,2)} \\chi_{ns}^{(2)} + F_{nn'}^{(4,3)} \\chi_{ns}^{(1)} + F_{nn'}^{(4,4)} \\chi_{ns}^{(0)}; \\tag{65}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 643,
+      "bottomRightX": 141,
+      "bottomRightY": 656,
+      "content": "here we have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 254,
+      "topLeftY": 654,
+      "bottomRightX": 642,
+      "bottomRightY": 678,
+      "content": "$$F_{nn'}^{(4,2)} = \\left( H_{\\zeta\\zeta}^{(0)} - H_0^{(2)} - W_{ns}^{(2)} \\right)_{nn'} + \\left( H_0^{(1)} \\right)_{nn'}^{(1)} \\tag{66}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 683,
+      "bottomRightX": 642,
+      "bottomRightY": 717,
+      "content": "and is identical with $F_{nn'}^{(3,2)}$ (54b). While $F_{nn'}^{(4,3)}$ is of odd order in the $\\zeta_i, \\partial/\\partial\\zeta_i$, $F_{nn'}^{(4,3)}$ is of even order. The integrability of (64) requires:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 308,
+      "topLeftY": 718,
+      "bottomRightX": 407,
+      "bottomRightY": 735,
+      "content": "$$W^{(4)} \\chi_{ns}^{(0)} - F_{nn}^{(4)} = 0;$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 744,
+      "bottomRightX": 189,
+      "bottomRightY": 759,
+      "content": "this means that by (65)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 254,
+      "topLeftY": 758,
+      "bottomRightX": 642,
+      "bottomRightY": 779,
+      "content": "$$F_{nn}^{(4,2)} \\chi_{ns}^{(2)} = \\left( W^{(4)} - F_{nn}^{(4,4)} \\right) \\chi_{ns}^{(0)} - F_{nn}^{(4,3)} \\chi_{ns}^{(1)}. \\tag{67}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 786,
+      "bottomRightX": 642,
+      "bottomRightY": 819,
+      "content": "The left side agrees again with the vibration equation (45) because of (66). The right-hand side must also be orthogonal to $\\sigma_{ns}^{(0)}$. Substituting the expressions for $\\chi_{ns}^{(0)}$ and $\\chi_{ns}^{(1)}$ from (47b) and (57), and using the symbol",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 827,
+      "bottomRightX": 642,
+      "bottomRightY": 876,
+      "content": "$$(\\Phi)_{ss'}^{(1)} = \\int \\overline{\\sigma_{ns}^{(0)}} \\Phi S_{ns}^{(1)} \\mathrm{d}\\zeta = \\sum_{s''}' \\frac{\\left[ \\Phi F_{nn}^{(3,3)} \\right]_{ss'}}{W_{ns}^{(2)} - W_{ns''}^{(2)}}, \\tag{68}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 350,
+      "topLeftY": 892,
+      "bottomRightX": 365,
+      "bottomRightY": 906,
+      "content": "11",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

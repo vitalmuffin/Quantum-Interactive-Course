@@ -1,0 +1,128 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 131,
+      "topLeftY": 164,
+      "bottomRightX": 493,
+      "bottomRightY": 184,
+      "content": "Further, since $a_{-\\alpha}(n) = a_{\\alpha}(\\bar{n})$ ($x$ must be real), it follows",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 196,
+      "bottomRightX": 605,
+      "bottomRightY": 234,
+      "content": "$$\\oint m \\dot{x}^2 dt = 2\\pi m \\sum_{\\alpha=-\\infty}^{+\\infty} |X_{\\alpha}(n)|^2 \\alpha^2 \\omega(n) \\quad . \\tag{31}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 244,
+      "bottomRightX": 608,
+      "bottomRightY": 332,
+      "content": "Until now, this phase integral was set to a multiple of h (nh); such a condition is not only forced into the classical calculation but it looks arbitrary also from the previous point of view of the correspondence principle because correspondence-wise the J is set only up to an additive constant as a multiple integer of h and instead of Eq. 31 one should have had",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 295,
+      "topLeftY": 338,
+      "bottomRightX": 605,
+      "bottomRightY": 373,
+      "content": "$$\\frac{d}{dn}(nh) = \\frac{d}{dn} \\cdot \\oint m \\dot{x}^2 dt \\tag{32}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 379,
+      "bottomRightX": 216,
+      "bottomRightY": 394,
+      "content": "which means",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 393,
+      "bottomRightX": 605,
+      "bottomRightY": 431,
+      "content": "$$h = 2\\pi m \\sum_{\\alpha=\\infty}^{-\\infty} \\alpha \\frac{d}{dn} (\\alpha \\omega(n) \\cdot |X_{\\alpha}(n)|^2) \\tag{33}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 434,
+      "bottomRightX": 608,
+      "bottomRightY": 539,
+      "content": "Such a relation though fixes the $X_{\\alpha}$s only up to a constant and this indetermination led empirically to the difficulty of half-integer quantum numbers. If we ask for a quantum theoretical relation between observable quantities according to Eq. 31 and 33, the missing unambiguity comes out by itself again. Indeed only Eq. 33 has a simple quantum theoretical connection to the Kramer's dispersion theory:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 141,
+      "topLeftY": 548,
+      "bottomRightX": 605,
+      "bottomRightY": 587,
+      "content": "$$h = 4\\pi m \\sum_{\\alpha=0}^{\\infty} \\left\\{ |X(n, n+\\alpha)|^2 \\omega(n, n+\\alpha) - |X(n, n-\\alpha)|^2 \\omega(n, n-\\alpha) \\right\\} \\tag{34}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 595,
+      "bottomRightX": 607,
+      "bottomRightY": 678,
+      "content": "Indeed, this relationship is sufficient for an unique determination of the $X$s because the initially undetermined constant in the quantities $X$ will be fixed by itself by the condition which should give a normal state where no more radiation is present. Let the normal state be described by $n_0$, then it must be",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 684,
+      "bottomRightX": 604,
+      "bottomRightY": 701,
+      "content": "$$X(n_0, n_0 - \\alpha) = 0 \\quad \\text{for} \\quad \\alpha > 0 \\tag{35}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 707,
+      "bottomRightX": 605,
+      "bottomRightY": 757,
+      "content": "The question about half-integer or integer quantization cannot be present in a quantum mechanics where only relations between observable quantities are used.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 759,
+      "bottomRightX": 607,
+      "bottomRightY": 811,
+      "content": "Eqs. 26 and 34 together contain, if solvable, a complete determination not only of the frequencies and energies, but also of the quantum theoretical transition probabilities. However, the actual mathematical procedure succeeds",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 364,
+      "topLeftY": 832,
+      "bottomRightX": 373,
+      "bottomRightY": 845,
+      "content": "8",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

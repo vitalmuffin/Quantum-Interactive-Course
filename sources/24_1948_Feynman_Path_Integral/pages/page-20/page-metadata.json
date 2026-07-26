@@ -1,0 +1,146 @@
+{
+  "index": 19,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 157,
+      "bottomRightX": 493,
+      "bottomRightY": 173,
+      "content": "which has the solution (for any $\\epsilon$ if $\\mathbf{H}$ is time independent)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 267,
+      "topLeftY": 185,
+      "bottomRightX": 585,
+      "bottomRightY": 202,
+      "content": "$$\\psi(x, t + \\epsilon) = \\exp(-i\\epsilon\\mathbf{H}/\\hbar)\\psi(x, t). \\quad (32)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 214,
+      "bottomRightX": 587,
+      "bottomRightY": 245,
+      "content": "Therefore, Eq. (18) expresses the operator $\\exp(-i\\epsilon\\mathbf{H}/\\hbar)$ by an approximate integral operator for small $\\epsilon$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 247,
+      "bottomRightX": 587,
+      "bottomRightY": 293,
+      "content": "From the point of view of Heisenberg one considers the position at time $t$, for example, as an operator $\\mathbf{x}$. The position $\\mathbf{x}'$ at a later time $t + \\epsilon$ can be expressed in terms of that at time $t$ by the operator equation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 306,
+      "bottomRightX": 585,
+      "bottomRightY": 322,
+      "content": "$$\\mathbf{x}' = \\exp(i\\epsilon\\mathbf{H}/\\hbar)\\mathbf{x}\\exp(-i\\epsilon\\mathbf{H}/\\hbar). \\quad (33)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 332,
+      "bottomRightX": 587,
+      "bottomRightY": 414,
+      "content": "The transformation theory of Dirac allows us to consider the wave function at time $t + \\epsilon$, $\\psi(x', t + \\epsilon)$, as representing a state in a representation in which $\\mathbf{x}'$ is diagonal, while $\\psi(x, t)$ represents the same state in a representation in which $\\mathbf{x}$ is diagonal. They are, therefore, related through the transformation function $(x'|x)_\\epsilon$, which relates these representations:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 424,
+      "bottomRightX": 461,
+      "bottomRightY": 454,
+      "content": "$$\\psi(x', t + \\epsilon) = \\int (x'|x)_\\epsilon\\psi(x, t)dx.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 466,
+      "bottomRightX": 569,
+      "bottomRightY": 482,
+      "content": "Therefore, the content of Eq. (18) is to show that for small $\\epsilon$ we can set",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 493,
+      "bottomRightX": 585,
+      "bottomRightY": 510,
+      "content": "$$(x'|x)_\\epsilon = (1/A)\\exp(iS(x', x)/\\hbar) \\quad (34)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 522,
+      "bottomRightX": 333,
+      "bottomRightY": 537,
+      "content": "with $S(x', x)$ defined as in (11).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 537,
+      "bottomRightX": 587,
+      "bottomRightY": 652,
+      "content": "The close analogy between $(x', |x)_\\epsilon$ and the quantity $\\exp(iS(x', x)/\\hbar)$ has been pointed out on several occasions by Dirac.$^{17}$ In fact, we now see that to sufficient approximations the two quantities may be taken to be proportional to each other. Dirac's remarks were the starting point of the present development. The points he makes concerning the passage to the classical limit $\\hbar \\rightarrow 0$ are very beautiful, and I may perhaps be excused for briefly reviewing them here.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 653,
+      "bottomRightX": 587,
+      "bottomRightY": 684,
+      "content": "First we note that the wave function at $x''$ at time $t''$ can be obtained from that at $x'$ at time $t'$ by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 198,
+      "topLeftY": 695,
+      "bottomRightX": 585,
+      "bottomRightY": 772,
+      "content": "$$\\psi(x'', t'') = \\lim_{\\epsilon \\rightarrow 0} \\int \\dots \\int \\times \\times \\exp\\left[ \\frac{i}{\\hbar} \\sum_{i=0}^{j-1} S(x_{i+1}, x_i) \\right] \\times \\psi(x', t') \\frac{dx_0}{A} \\frac{dx_1}{A} \\dots \\frac{dx_{j-1}}{A}, \\quad (35)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 782,
+      "bottomRightX": 587,
+      "bottomRightY": 810,
+      "content": "$^{17}$P. A. M. Dirac, *The Principles of Quantum Mechanics* (The Clarendon Press, Oxford, 1935), second edition, Section 33; also, Physik. Zeits. Sowjetunion **3**, 64 (1933).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "20",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

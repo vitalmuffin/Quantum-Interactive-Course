@@ -1,0 +1,83 @@
+{
+  "index": 20,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1016,
+    "width": 639
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 84,
+      "topLeftY": 52,
+      "bottomRightX": 102,
+      "bottomRightY": 66,
+      "content": "82",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 307,
+      "topLeftY": 53,
+      "bottomRightX": 384,
+      "bottomRightY": 66,
+      "content": "HEISENBERG",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 87,
+      "bottomRightX": 608,
+      "bottomRightY": 147,
+      "content": "vanishing mass of the slider, however, the energy of the coupled system is different from the energy of the rotator. The energy of the coupled system can take on all possible values (consistent with the T-quantization) with equal probability.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 185,
+      "bottomRightX": 611,
+      "bottomRightY": 418,
+      "content": "Quantum kinematics and mechanics show far-reaching differences from the ordinary theory. The applicability of classical kinematics and mechanical concepts, however, can be justified neither from our laws of thought nor from experiment. The basis for this conclusion is relation (1), $p_1q_1 \\sim h$. As momentum, position, energy, etc. are precisely defined concepts, one does not need to complain that the basic equation (1) contains only qualitative predictions. Moreover, as we can think through qualitatively the experimental consequences of the theory in all simple cases, we will no longer have to look at quantum mechanics as unphysical and abstract.* Of course we would also like to be able to derive, if possible, the quantitative laws of quantum mechanics directly from the physical foundations—that is, essentially, from relation (1). On this account Jordan has sought to interpret the equation,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 424,
+      "bottomRightX": 447,
+      "bottomRightY": 456,
+      "content": "$$S(q, q'') = \\int S(q, q')S(q', q'') dq',$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 475,
+      "bottomRightX": 611,
+      "bottomRightY": 765,
+      "content": "as a probability relation. However, we cannot accept this interpretation (§2). We believe, rather, that for the time being the quantitative laws can be derived out of the physical foundations only by use of the principle of maximum simplicity. If, for example, the X-coordinate of the electron is no longer a “number,” as can be concluded experimentally, according to equation (1), then the simplest assumption conceivable [that does not contradict (1)] is that this X-coordinate is a diagonal term of a matrix whose nondiagonal terms express themselves in an uncertainty or—by transformation—in other ways (see for example §4). The prediction that, say, the velocity in the X-direction is “in reality” not a number but the diagonal term of the matrix, is perhaps no more abstract and no more unvisualizable than the statement that the electric field strengths are “in reality” the time part of an antisymmetric tensor located in space-time. The phrase “in reality” here is as much and as little justified as it is in any mathematical description of natural processes. As soon as one accepts that all quantum-theoretical quantities are “in reality” matrices, the quantitative laws follow without difficulty.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 767,
+      "bottomRightX": 608,
+      "bottomRightY": 787,
+      "content": "If one assumes that the interpretation of quantum mechanics is already correct",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 796,
+      "bottomRightX": 611,
+      "bottomRightY": 904,
+      "content": "* Schrödinger describes quantum mechanics as a formal theory of frightening, indeed repulsive, abstractness and lack of visualizability. Certainly one cannot overestimate the value of the mathematical (and to that extent physical) mastery of the quantum-mechanical laws that Schrödinger’s theory has made possible. However, as regards questions of physical interpretation and principle, the popular view of wave mechanics, as I see it, has actually deflected us from exactly those roads which were pointed out by the papers of Einstein and de Broglie on the one hand and by the papers of Bohr and by quantum mechanics on the other hand.",
+      "confidenceScores": null,
+      "type": "aside_text"
+    }
+  ]
+}

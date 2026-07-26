@@ -1,0 +1,155 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 133,
+      "bottomRightX": 644,
+      "bottomRightY": 202,
+      "content": "These quantities are the diagonal matrix elements of $p_{\\theta}$, $p_{\\omega}$, $p_{\\theta}^{2}$ and $p_{\\omega}^{2}$ (aside from a factor $\\frac{h}{2\\pi^{2}}$, $-\\frac{h^{2}}{4\\pi^{2}}$ respectively); the first two denote the average value of the electronic angular momentum about their corresponding Eulerian angle; the second two, the average of the square of the angular momentum of electronic motion. We write then for (90) explicitly:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 211,
+      "bottomRightX": 643,
+      "bottomRightY": 281,
+      "content": "$$\\left\\{\\left(\\frac{\\partial^{2}}{\\partial\\theta^{2}}+2\\overline{\\Theta_{n}}\\frac{\\partial}{\\partial\\theta}+\\overline{\\Theta_{n}^{(2)}}\\right)+\\operatorname{ctg}\\theta\\left(\\frac{\\partial}{\\partial\\theta}+\\overline{\\Theta_{n}}\\right)\\right.$$ $$\\left.\\frac{1}{\\sin^{2}\\theta}\\left(\\frac{\\partial^{2}}{\\partial\\omega^{2}}+2\\overline{\\Omega_{n}}\\frac{\\partial}{\\partial\\omega}+\\overline{\\Omega_{n}^{(2)}}\\right)+\\frac{8\\pi^{2}m\\xi^{2}}{h^{2}\\mu}\\left(W^{(4)}-C_{ns}\\right)\\right\\}\\rho_{ns}^{(0)}=0 \\quad (92)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 286,
+      "bottomRightX": 644,
+      "bottomRightY": 337,
+      "content": "This is very similar to the equation of Kramers and Pauli for a rotor with a built-in fly-wheel; the difference is essentially that they use the squares of the average values $\\overline{\\Theta_{n}}^{2}$ and $\\overline{\\Omega_{n}}^{2}$, instead of the average of the squares $\\overline{\\Theta_{n}^{2}}$ and $\\overline{\\Omega_{n}^{2}}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 338,
+      "bottomRightX": 644,
+      "bottomRightY": 474,
+      "content": "The dependence of the quantities in (91) on the angles $\\theta$ and $\\omega$ may be established by elementary considerations if it is assumed that for this purpose the diagonal elements of the quantum mechanical matrix may be replaced by the corresponding classical averages. One may decompose the motion of the electronic angular momentum vector into an irregular variation without average rotations and a superimposed uniform rotation about the molecular axis. We represent the variation in the average by a constant vector; this rotates uniformly about the axis. This exhibits the same behaviour as a symmetric top with angular momentum components with respect to the top-fixed coordinate system having values $L$, $M$ and $N$. From this we may express the components of the angular momentum in the $\\theta$, $\\omega$ direction as follows:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 487,
+      "bottomRightX": 471,
+      "bottomRightY": 523,
+      "content": "$$\\begin{array}{l} \\Theta = L\\cos\\gamma - M\\sin\\gamma \\\\ \\Omega = L\\sin\\theta\\sin\\gamma + M\\sin\\theta\\cos\\gamma + N\\cos\\theta, \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 534,
+      "bottomRightX": 481,
+      "bottomRightY": 549,
+      "content": "where $\\gamma$ is the angle of the eigenrotation about the axis. Averaging over $\\gamma$, we find:⁵",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 220,
+      "topLeftY": 557,
+      "bottomRightX": 495,
+      "bottomRightY": 595,
+      "content": "$$\\begin{array}{l} \\overline{\\Theta}=0 \\quad \\overline{\\Omega}=N\\cos\\theta \\\\ \\overline{\\Theta^{2}}=\\frac{1}{2}(L^{2}+M^{2}) \\quad \\overline{\\Omega^{2}}=\\frac{1}{2}(L^{2}+M^{2})\\sin^{2}\\theta+N^{2}\\cos^{2}\\theta. \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 603,
+      "bottomRightX": 644,
+      "bottomRightY": 660,
+      "content": "We identify $N$ with the quantum number $\\rho$ which gives the angular momentum about the axis, and $\\frac{1}{2}(L^{2}+M^{2})$ and $\\frac{1}{2}N^{2}$ with the averages $\\overline{p_{\\perp}^{2}}$ and $\\overline{p_{\\parallel}^{2}}$ of the total electronic angular momentum perpendicular and parallel to the axis; since $N$ is constant, $\\overline{p_{\\parallel}^{2}}=p^{2}$. We have finally:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 668,
+      "bottomRightX": 642,
+      "bottomRightY": 707,
+      "content": "$$\\begin{array}{l} \\overline{\\Theta_{n}}=0 \\quad \\overline{\\Omega_{\\mu}}=p\\cos\\theta \\\\ \\overline{\\Theta_{n}^{2}}=\\overline{p_{\\perp}^{2}} \\quad \\overline{\\Omega^{2}}=\\overline{p_{\\perp}^{2}}\\sin^{2}\\theta+p^{2}\\cos^{2}\\theta. \\end{array} \\quad (93)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 715,
+      "bottomRightX": 624,
+      "bottomRightY": 731,
+      "content": "This result requires naturally a rigorous quantum mechanical verification; presumably $p^{2}$ is replaced by $p(p+1)$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 732,
+      "bottomRightX": 644,
+      "bottomRightY": 765,
+      "content": "In the eigenvalue problem (92), the quantity $\\frac{8\\pi^{2}m\\xi^{2}}{h^{2}\\mu}W^{(4)}$ is equal to a numerical function of the rotational quantum number $r$, say $g_{ns}(r)$; the rotational energy is thus:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 262,
+      "topLeftY": 772,
+      "bottomRightX": 642,
+      "bottomRightY": 805,
+      "content": "$$\\kappa^{4}W_{nsr}^{(4)}=\\frac{h^{2}\\mu\\kappa^{4}}{8\\pi^{2}m\\xi^{2}}g_{ns}(r)=\\frac{h^{2}}{8\\pi^{2}J}g_{ns}(r), \\quad (94)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 812,
+      "bottomRightX": 108,
+      "bottomRightY": 824,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 821,
+      "bottomRightX": 642,
+      "bottomRightY": 853,
+      "content": "$$J=\\frac{m}{\\mu\\kappa^{4}}\\xi^{2}=\\frac{M_{1}M_{2}}{M_{1}+M_{2}}\\xi^{2}, \\quad (95)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 872,
+      "bottomRightX": 195,
+      "bottomRightY": 887,
+      "content": "⁵Compare, for instance [9]",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 352,
+      "topLeftY": 895,
+      "bottomRightX": 366,
+      "bottomRightY": 906,
+      "content": "16",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

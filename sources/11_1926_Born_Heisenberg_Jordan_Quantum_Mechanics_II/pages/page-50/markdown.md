@@ -1,0 +1,13 @@
+606
+
+M. Born, W. Heisenberg und P. Jordan,
+
+müssen aber hervorheben, daß eine Reihe gewichtiger Gründe gegen die Möglichkeit einer Deutung der anomalen Zeemaneffekte auf dieser Grundlage sprechen. Vielmehr wird man vielleicht hoffen dürfen, daß die Uhlenbeck-Goudsmitsche Hypothese (vgl. S. 560) später eine quantitative Beschreibung der genannten Phänomene gestattet.
+
+§ 3. Gekoppelte harmonische Resonatoren. Statistik der Wellenfelder. Ein System gekoppelter harmonischer Oszillatoren, gegeben durch
+
+$$H = \frac{1}{2} \sum_{k=1}^f \frac{p_k^2}{m_k} + Q(q), \quad (35)$$
+
+mit einer quadratischen Form $Q(q)$ der Koordinaten (mit Zahlen als Koeffizienten) stellt das denkbar einfachste System von mehreren Freiheitsgraden dar. Wie in Kap. 2, § 1, festgestellt wurde, bleiben die Vertauschungsregeln invariant bei gleichzeitiger orthogonaler Transformation der Koordinaten und Impulse. Es kann deshalb das System (35), Kap. 4, wie in der klassischen Theorie in ein System ungekoppelter Oszillatoren übergeführt werden. Insbesondere sind die Schwingungen eines Kristallgitters wie in der klassischen Theorie nach Eigenschwingungen zu zerlegen. Jede einzelne Eigenschwingung ist in der früher ausführlich erörterten Weise als einfacher linearer Oszillator zu behandeln, und die Zusammenfassung sämtlicher ungekoppelter Oszillatoren zu einem einzigen System hat in der in Kap. 2, § 1, erläuterten Weise zu geschehen. Dasselbe wird auch dann gelten, wenn wir zum Grenzfall eines Systems von unendlich vielen Freiheitsgraden übergehen und etwa die Schwingungen eines zum Kontinuum idealisierten elastischen Körpers oder endlich eines elektromagnetischen Hohlraums betrachten.
+
+Auch in der bisherigen Quantentheorie sind die Schwingungen eines elektromagnetischen Hohlraums oft Gegenstand eingehender Untersuchungen gewesen. Denn einerseits handelt es sich hier eben um das denkbar einfachste, nach den bisherigen Methoden zu behandelnde Problem des harmonischen Oszillators, andererseits weist das bekannte Ergebnis, daß die Energie einer Eigenschwingung ein ganzzahliges Vielfaches von $h\nu$ sein sollte, eine formale Ähnlichkeit mit den Ansätzen der Lichtquantentheorie auf, und man hoffte deshalb durch die Behandlung der Hohlraumstrahlung Einblick in das Wesen der Lichtquanten zu bekommen. Allerdings ist es von vornherein klar, daß der eben geschilderte Angriff auf das Problem der Lichtquanten von der wesentlichsten Seite dieses Problems, nämlich von dem Phänomen der Kopplung entfernter Atome keineswegs Rechenschaft geben kann. Denn dieses Problem geht über-

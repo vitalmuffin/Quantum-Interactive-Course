@@ -1,0 +1,247 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 93,
+    "height": 791,
+    "width": 1023
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 106,
+      "topLeftY": 43,
+      "bottomRightX": 402,
+      "bottomRightY": 56,
+      "content": "SCATTERING OF X-RAYS BY LIGHT ELEMENTS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 440,
+      "topLeftY": 42,
+      "bottomRightX": 463,
+      "bottomRightY": 56,
+      "content": "487",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 72,
+      "bottomRightX": 82,
+      "bottomRightY": 85,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 86,
+      "bottomRightX": 463,
+      "bottomRightY": 103,
+      "content": "$$\\alpha = h\\nu_0/mc^2 = h/mc\\lambda_0. \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 114,
+      "bottomRightX": 328,
+      "bottomRightY": 129,
+      "content": "Or in terms of wave-length instead of frequency,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 176,
+      "topLeftY": 136,
+      "bottomRightX": 463,
+      "bottomRightY": 154,
+      "content": "$$\\lambda_\\theta = \\lambda_0 + (2h/mc) \\sin^2 \\frac{1}{2}\\theta. \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 161,
+      "bottomRightX": 464,
+      "bottomRightY": 195,
+      "content": "It follows from Eq. (2) that $1/(1 - \\beta^2) = \\{1 + \\alpha[1 - (\\nu_\\theta/\\nu_0)]\\}^2$, or solving explicitly for $\\beta$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 195,
+      "bottomRightX": 463,
+      "bottomRightY": 230,
+      "content": "$$\\beta = 2\\alpha \\sin \\frac{1}{2}\\theta \\frac{\\sqrt{1 + (2\\alpha + \\alpha^2) \\sin^2 \\frac{1}{2}\\theta}}{1 + 2(\\alpha + \\alpha^2) \\sin^2 \\frac{1}{2}\\theta}. \\tag{6}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 238,
+      "bottomRightX": 465,
+      "bottomRightY": 354,
+      "content": "Eq. (5) indicates an increase in wave-length due to the scattering process which varies from a few per cent in the case of ordinary X-rays to more than 200 per cent in the case of $\\gamma$-rays scattered backward. At the same time the velocity of the recoil of the scattering electron, as calculated from Eq. (6), varies from zero when the ray is scattered directly forward to about 80 per cent of the speed of light when a $\\gamma$-ray is scattered at a large angle.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 354,
+      "bottomRightX": 465,
+      "bottomRightY": 421,
+      "content": "It is of interest to notice that according to the classical theory, if an X-ray were scattered by an electron moving in the direction of propagation at a velocity $\\beta'c$, the frequency of the ray scattered at an angle $\\theta$ is given by the Doppler principle as",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 162,
+      "topLeftY": 428,
+      "bottomRightX": 464,
+      "bottomRightY": 462,
+      "content": "$$\\nu_\\theta = \\nu_0 / \\left(1 + \\frac{2\\beta'}{1 - \\beta'} \\sin^2 \\frac{1}{2}\\theta\\right). \\tag{7}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 470,
+      "bottomRightX": 466,
+      "bottomRightY": 571,
+      "content": "It will be seen that this is of exactly the same form as Eq. (3), derived on the hypothesis of the recoil of the scattering electron. Indeed, if $\\alpha = \\beta'/(1 - \\beta')$ or $\\beta' = \\alpha/(1 + \\alpha)$, the two expressions become identical. It is clear, therefore, that so far as the effect on the wave-length is concerned, we may replace the recoiling electron by a scattering electron moving in the direction of the incident beam at a velocity such that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 576,
+      "bottomRightX": 464,
+      "bottomRightY": 595,
+      "content": "$$\\bar{\\beta} = \\alpha/(1 + \\alpha). \\tag{8}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 603,
+      "bottomRightX": 436,
+      "bottomRightY": 618,
+      "content": "We shall call $\\bar{\\beta}c$ the \"effective velocity\" of the scattering electrons.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 619,
+      "bottomRightX": 466,
+      "bottomRightY": 750,
+      "content": "Energy distribution from a moving, isotropic radiator.—In preparation for the investigation of the spatial distribution of the energy scattered by a recoiling electron, let us study the energy radiated from a moving, isotropic body. If an observer moving with the radiating body draws a sphere about it, the condition of isotropy means that the probability is equal for all directions of emission of each energy quantum. That is, the probability that a quantum will traverse the sphere between the angles $\\theta'$ and $\\theta' + d\\theta'$ with the direction of motion is $\\frac{1}{2} \\sin \\theta' d\\theta'$. But",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 555,
+      "topLeftY": 39,
+      "bottomRightX": 579,
+      "bottomRightY": 52,
+      "content": "488",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 695,
+      "topLeftY": 38,
+      "bottomRightX": 835,
+      "bottomRightY": 51,
+      "content": "ARTHUR H. COMPTON",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 554,
+      "topLeftY": 64,
+      "bottomRightX": 977,
+      "bottomRightY": 82,
+      "content": "the surface which the moving observer considers a sphere (Fig. 2A) is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 624,
+      "topLeftY": 92,
+      "bottomRightX": 909,
+      "bottomRightY": 230,
+      "content": "![img-1.jpeg](img-1.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-2.jpeg"
+    },
+    {
+      "topLeftX": 751,
+      "topLeftY": 234,
+      "bottomRightX": 782,
+      "bottomRightY": 248,
+      "content": "Fig. 2",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 258,
+      "bottomRightX": 977,
+      "bottomRightY": 358,
+      "content": "considered by the stationary observer to be an oblate spheroid whose polar axis is reduced by the factor $\\sqrt{1 - \\beta^2}$. Consequently a quantum of radiation which traverses the sphere at the angle $\\theta'$, whose tangent is $y'/x'$ (Fig. 2A), appears to the stationary observer to traverse the spheroid at an angle $\\theta''$ whose tangent is $y''/x''$ (Fig. 2B). Since $x' = x''/\\sqrt{1 - \\beta^2}$ and $y' = y''$, we have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 614,
+      "topLeftY": 364,
+      "bottomRightX": 976,
+      "bottomRightY": 383,
+      "content": "$$\\tan \\theta' = y'/x' = \\sqrt{1 - \\beta^2} y''/x'' = \\sqrt{1 - \\beta^2} \\tan \\theta'', \\tag{9}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 555,
+      "topLeftY": 384,
+      "bottomRightX": 581,
+      "bottomRightY": 397,
+      "content": "and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 656,
+      "topLeftY": 397,
+      "bottomRightX": 976,
+      "bottomRightY": 435,
+      "content": "$$\\sin \\theta' = \\frac{\\sqrt{1 - \\beta^2} \\tan \\theta''}{\\sqrt{1 + (1 - \\beta^2) \\tan^2 \\theta''}}. \\tag{10}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 623,
+      "topLeftY": 441,
+      "bottomRightX": 907,
+      "bottomRightY": 721,
+      "content": "![img-2.jpeg](img-2.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-2.jpeg"
+    },
+    {
+      "topLeftX": 554,
+      "topLeftY": 725,
+      "bottomRightX": 976,
+      "bottomRightY": 753,
+      "content": "Fig. 3. The ray traversing the moving spheroid at $P'$ at an angle $\\theta''$ reaches the stationary spherical surface drawn about $O$, at the point $P$, at an angle $\\theta$.",
+      "confidenceScores": null,
+      "type": "caption"
+    }
+  ]
+}

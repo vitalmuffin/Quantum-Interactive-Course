@@ -1,0 +1,119 @@
+{
+  "index": 72,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 109,
+      "topLeftY": 33,
+      "bottomRightX": 445,
+      "bottomRightY": 51,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 508,
+      "topLeftY": 31,
+      "bottomRightX": 531,
+      "bottomRightY": 52,
+      "content": "93",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 23,
+      "topLeftY": 73,
+      "bottomRightX": 532,
+      "bottomRightY": 138,
+      "content": "direction d'incidence avec la direction de diffusion, l'énergie diffusée varie en fonction de $\\theta$ comme $\\frac{1 + \\cos^2 \\theta}{2}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 23,
+      "topLeftY": 144,
+      "bottomRightX": 532,
+      "bottomRightY": 192,
+      "content": "2° L'énergie totale diffusée par un électron en une seconde est à l'intensité incidente dans le rapport :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 201,
+      "bottomRightX": 334,
+      "bottomRightY": 246,
+      "content": "$$\\frac{I_\\alpha}{I} = \\frac{8\\pi}{3} \\frac{e^4}{m_0^2 c^4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 23,
+      "topLeftY": 260,
+      "bottomRightX": 532,
+      "bottomRightY": 306,
+      "content": "$e$ et $m_0$ étant les constantes de l'électron, $c$ la vitesse de la lumière.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 23,
+      "topLeftY": 310,
+      "bottomRightX": 534,
+      "bottomRightY": 536,
+      "content": "Un atome contient certainement plusieurs électrons ; aujourd'hui, on a de bonnes raisons de croire leur nombre $p$ égal au nombre atomique de l'élément. M. Thomson supposa « incohérentes » les ondes émises par les $p$ électrons d'un même atome et, par suite, considéra l'énergie diffusée par un atome comme égale à $p$ fois celle que diffuserait un seul électron. Au point de vue expérimental, la diffusion se traduit par un affaiblissement graduel de l'intensité du faisceau et cet affaiblissement obéit à une loi exponentielle",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 234,
+      "topLeftY": 545,
+      "bottomRightX": 322,
+      "bottomRightY": 566,
+      "content": "$$I_\\alpha = I_0 e^{-s.c.}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 23,
+      "topLeftY": 581,
+      "bottomRightX": 535,
+      "bottomRightY": 775,
+      "content": "$s$ est le coefficient d'affaiblissement par diffusion ou plus brièvement coefficient de diffusion. Le quotient $\\frac{s}{\\rho}$ de ce nombre par la densité du corps diffusant est le coefficient massique de diffusion. Si l'on appelle coefficient atomique de diffusion $\\sigma$ le rapport entre l'énergie diffusée dans un seul atome et l'intensité de la radiation incidente, on voit facilement qu'il est relié à $s$ par l'équation :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 788,
+      "bottomRightX": 328,
+      "bottomRightY": 826,
+      "content": "$$\\sigma = \\frac{s}{\\rho} A m_{\\Pi}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 23,
+      "topLeftY": 837,
+      "bottomRightX": 535,
+      "bottomRightY": 929,
+      "content": "A est ici le poids atomique du diffusant, $m_{\\Pi}$ la masse de l'atome d'hydrogène. Substituant les valeurs numériques dans le facteur $\\frac{8\\pi}{3} \\frac{e^4}{m_0^2 c^4}$, on trouve :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 939,
+      "bottomRightX": 348,
+      "bottomRightY": 960,
+      "content": "$$\\sigma = 0,54 \\cdot 10^{-24} p.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

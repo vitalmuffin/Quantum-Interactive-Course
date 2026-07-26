@@ -1,0 +1,191 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 136,
+      "bottomRightX": 643,
+      "bottomRightY": 183,
+      "content": "Is there a system of values of the relative nuclear coordinates $\\xi_i$ such that the eigenfunctions $\\psi_n$ of the energy operator (6), in so far as they depend on the $\\xi_i$, have values significantly different from zero only in a small neighbourhood of this set?",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 187,
+      "bottomRightX": 644,
+      "bottomRightY": 236,
+      "content": "This wave-mechanical requirement corresponds obviously to the classical condition that the nuclei undergo only small oscillations about the equilibrium configuration; the $|\\psi_n|^2$ is the probability of finding a certain configuration of given energy.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 239,
+      "bottomRightX": 644,
+      "bottomRightY": 305,
+      "content": "We consider, as the unperturbed system, the electronic motion for an arbitrary but henceforth fixed nuclear configuration, $\\xi_i$. We then develop all quantities with respect to small changes of the $\\xi_i$, which we designate by $\\kappa\\zeta_i$; we presume then that the “domain” of oscillation is such that $\\kappa$ is close to zero, an assumption which is only justified by its success.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 310,
+      "bottomRightX": 332,
+      "bottomRightY": 324,
+      "content": "We have then as in (18), part II, the development",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 334,
+      "bottomRightX": 643,
+      "bottomRightY": 363,
+      "content": "$$H_0(x, \\frac{\\partial}{\\partial x}; \\xi + \\kappa\\zeta, \\theta) = H_0^{(0)} + \\kappa H_0^{(1)} + \\kappa^2 H_0^{(2)} + \\dots, \\tag{27}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 371,
+      "bottomRightX": 109,
+      "bottomRightY": 383,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 398,
+      "bottomRightX": 411,
+      "bottomRightY": 418,
+      "content": "$$a) \\quad H_0^{(0)} = H_0(x, \\frac{\\partial}{\\partial x}; \\xi),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 433,
+      "bottomRightX": 642,
+      "bottomRightY": 460,
+      "content": "$$b) \\quad H_0^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_0}{\\partial \\xi_i}, \\tag{28}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 469,
+      "bottomRightX": 425,
+      "bottomRightY": 503,
+      "content": "$$c) \\quad H_0^{(2)} = \\frac{1}{2} \\sum_{ij} \\zeta_i \\zeta_j \\frac{\\partial^2 H_0}{\\partial \\xi_i \\partial \\xi_j},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 512,
+      "bottomRightX": 221,
+      "bottomRightY": 532,
+      "content": "and from (11) since $\\frac{\\partial}{\\partial \\xi} = \\frac{1}{\\kappa} \\frac{\\partial}{\\partial \\zeta}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 542,
+      "bottomRightX": 643,
+      "bottomRightY": 574,
+      "content": "$$\\kappa^4 H_1(X, \\frac{\\partial}{\\partial X}) = \\kappa^4 \\left( \\frac{1}{\\kappa^2} H_{\\zeta\\zeta} + \\frac{1}{\\kappa} H_{\\zeta\\theta} + H_{\\theta\\theta} \\right) \\tag{29}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 254,
+      "topLeftY": 576,
+      "bottomRightX": 538,
+      "bottomRightY": 597,
+      "content": "$$= \\kappa^2 H_{\\zeta\\zeta}^{(0)} + \\kappa^3 \\left( H_{\\zeta\\theta}^{(0)} + H_{\\zeta\\zeta}^{(1)} \\right) + \\kappa^4 \\left( H_{\\theta\\theta}^{(0)} + H_{\\zeta\\theta}^{(1)} + H_{\\zeta\\zeta}^{(2)} \\right) + \\dots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 609,
+      "bottomRightX": 109,
+      "bottomRightY": 622,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 298,
+      "topLeftY": 636,
+      "bottomRightX": 421,
+      "bottomRightY": 658,
+      "content": "$$a) \\quad H_{\\zeta\\zeta}^{(0)} = H_{\\zeta\\zeta}^{(0)}(\\xi, \\frac{\\partial^2}{\\partial \\zeta_i \\partial \\zeta_j})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 298,
+      "topLeftY": 667,
+      "bottomRightX": 642,
+      "bottomRightY": 711,
+      "content": "$$b) \\quad H_{\\zeta\\zeta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\zeta\\zeta}^{(0)}}{\\partial \\xi_i} \\tag{30}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 291,
+      "topLeftY": 721,
+      "bottomRightX": 427,
+      "bottomRightY": 743,
+      "content": "$$a) \\quad H_{\\zeta\\theta}^{(0)} = H_{\\zeta\\theta}^{(0)}(\\xi, \\theta, \\frac{\\partial}{\\partial \\zeta}, \\frac{\\partial}{\\partial \\theta})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 291,
+      "topLeftY": 753,
+      "bottomRightX": 642,
+      "bottomRightY": 796,
+      "content": "$$b) \\quad H_{\\zeta\\theta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\zeta\\theta}^{(0)}}{\\partial \\xi_i} \\tag{31}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 804,
+      "bottomRightX": 425,
+      "bottomRightY": 826,
+      "content": "$$a) \\quad H_{\\theta\\theta}^{(0)} = H_{\\theta\\theta}^{(0)}(\\xi, \\theta, \\frac{\\partial^2}{\\partial \\theta_i \\partial \\theta_j})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 837,
+      "bottomRightX": 642,
+      "bottomRightY": 878,
+      "content": "$$b) \\quad H_{\\theta\\theta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\theta\\theta}^{(0)}}{\\partial \\xi_i} \\tag{32}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 355,
+      "topLeftY": 896,
+      "bottomRightX": 363,
+      "bottomRightY": 906,
+      "content": "6",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

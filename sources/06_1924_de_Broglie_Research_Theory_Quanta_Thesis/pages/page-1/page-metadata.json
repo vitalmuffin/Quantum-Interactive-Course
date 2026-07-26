@@ -1,0 +1,65 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 30,
+    "height": 1009,
+    "width": 676
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 51,
+      "topLeftY": 64,
+      "bottomRightX": 247,
+      "bottomRightY": 163,
+      "content": "# ANNALES\nDE\nPHYSIQUE",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 213,
+      "bottomRightX": 203,
+      "bottomRightY": 234,
+      "content": "EXTRAIT",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 440,
+      "bottomRightX": 514,
+      "bottomRightY": 495,
+      "content": "# RECHERCHES SUR LA THÉORIE\nDES QUANTA",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 504,
+      "bottomRightX": 425,
+      "bottomRightY": 524,
+      "content": "Par M. Louis de BROGLIE",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 120,
+      "topLeftY": 552,
+      "bottomRightX": 548,
+      "bottomRightY": 578,
+      "content": "Annales de Physique — 10e Série — Tome III — Janvier-Février 1925",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 947,
+      "bottomRightX": 612,
+      "bottomRightY": 993,
+      "content": "MASSON & Cie, ÉDITEURS\n120, BOULEVARD ST-GERMAIN, PARIS (VIe)",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

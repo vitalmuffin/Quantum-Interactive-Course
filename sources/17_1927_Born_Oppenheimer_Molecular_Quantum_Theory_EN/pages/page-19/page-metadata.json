@@ -1,0 +1,209 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 136,
+      "bottomRightX": 270,
+      "bottomRightY": 150,
+      "content": "This is, however, the vibration equation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 246,
+      "topLeftY": 160,
+      "bottomRightX": 642,
+      "bottomRightY": 194,
+      "content": "$$\\left\\{ - \\frac { h ^ { 2 } \\mu } { 8 \\pi ^ { 2 } m } \\frac { \\partial ^ { 2 } } { \\partial \\zeta ^ { 2 } } + \\frac { 1 } { 2 } \\zeta ^ { 2 } ( V _ { n } ^ { \\prime \\prime } + R ^ { \\prime \\prime } ) - \\mathsf { E } _ { n } ^ { ( 2 ) } \\right\\} \\sigma _ { r n } = 0 . \\tag { 1 0 9 }$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 202,
+      "bottomRightX": 177,
+      "bottomRightY": 216,
+      "content": "Thus, as in Part VII:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 307,
+      "topLeftY": 215,
+      "bottomRightX": 642,
+      "bottomRightY": 247,
+      "content": "$$\\kappa ^ { 2 } \\mathsf { E } _ { r n s } ^ { ( 2 ) } = \\left( s + \\frac { 1 } { 2 } \\right) h \\nu _ { r } , \\tag { 1 1 0 }$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 252,
+      "bottomRightX": 179,
+      "bottomRightY": 266,
+      "content": "where the frequency,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 277,
+      "topLeftY": 265,
+      "bottomRightX": 642,
+      "bottomRightY": 303,
+      "content": "$$\\nu _ { r } = \\frac { 1 } { 4 \\pi } \\sqrt { \\left( \\frac { 1 } { M _ { 1 } } + \\frac { 1 } { M _ { 2 } } \\right) ( V _ { n } ^ { \\prime \\prime } + R ^ { \\prime \\prime } ) } \\tag { 1 1 1 }$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 309,
+      "bottomRightX": 374,
+      "bottomRightY": 323,
+      "content": "still depends on the rotational quantum number $r$, from the $R$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 326,
+      "bottomRightX": 205,
+      "bottomRightY": 339,
+      "content": "Further, as in Part VII,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 300,
+      "topLeftY": 341,
+      "bottomRightX": 642,
+      "bottomRightY": 360,
+      "content": "$$\\sigma _ { r n s } ^ { ( 0 ) } = \\exp ( - \\eta ^ { 2 } / 2 ) H _ { s } ( \\eta ) \\tag { 1 1 2 }$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 369,
+      "bottomRightX": 101,
+      "bottomRightY": 381,
+      "content": "with",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 379,
+      "bottomRightX": 445,
+      "bottomRightY": 410,
+      "content": "$$\\eta = \\zeta b ^ { 1 / 4 } , \\quad b = \\frac { 8 \\pi ^ { 2 } } { h ^ { 2 } } \\frac { m } { 2 \\mu } ( V _ { n } ^ { \\prime \\prime } + R ^ { \\prime \\prime } ) .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 416,
+      "bottomRightX": 644,
+      "bottomRightY": 483,
+      "content": "The procedure may be continued in the usual fashion. We find $\\mathsf { E } ^ { ( 3 ) } = 0$, while $\\mathsf { E } ^ { ( 4 ) }$, besides the deviation from the harmonic vibration law, contains a coupling with the electronic motion. A thorough consideration of the formulae would, however, be beyond the scope of this work, which demonstrates only the principle of the development; also the calculation of the higher approximations is meaningful only when the degeneracies are taken into account.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 490,
+      "bottomRightX": 306,
+      "bottomRightY": 502,
+      "content": "[1] M. Born and W. Heisenberg Ann. d. Phys. 74 1 (1924)",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 504,
+      "bottomRightX": 476,
+      "bottomRightY": 516,
+      "content": "[2] H. A. Kramers Zeitschr. f. Phys. 13 343 (1923); H. A. Kramers and W. Pauli jr. ibid. 13 351 (1923)",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 517,
+      "bottomRightX": 242,
+      "bottomRightY": 528,
+      "content": "[3] J. Franck Trans. Faraday. Soc. (1925)",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 530,
+      "bottomRightX": 369,
+      "bottomRightY": 542,
+      "content": "[4] E. Condon, Phys. Rev. 28 1182 (1926); Proc. Nat. Acad. 13 462 (1927)",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 544,
+      "bottomRightX": 285,
+      "bottomRightY": 556,
+      "content": "[5] M. Born and E. Hückel Phys. Ztschr. 24 1 (1923)",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 558,
+      "bottomRightX": 245,
+      "bottomRightY": 570,
+      "content": "[6] F. Hund Ztschr. f. Phys. 43 805 (1927)",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 572,
+      "bottomRightX": 239,
+      "bottomRightY": 583,
+      "content": "[7] W. Pauli Ann. d. Phys. 68 177 (1922)",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 585,
+      "bottomRightX": 290,
+      "bottomRightY": 597,
+      "content": "[8] S. E. Schrödinger Ann. d. Phys. 79 361, §3 (1926).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 599,
+      "bottomRightX": 317,
+      "bottomRightY": 611,
+      "content": "[9] F. Klein and A. Sommerfeld Theorie des Kreisels 1 p 108",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 354,
+      "topLeftY": 895,
+      "bottomRightX": 366,
+      "bottomRightY": 906,
+      "content": "19",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

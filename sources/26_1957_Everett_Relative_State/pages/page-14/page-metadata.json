@@ -1,0 +1,119 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 153,
+      "bottomRightX": 605,
+      "bottomRightY": 189,
+      "content": "We assume that the measurements are performed on the systems in the order $S_1, S_2, \\cdots S_n$. Then the total state after the first measurement is by Rule 1,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 235,
+      "topLeftY": 202,
+      "bottomRightX": 605,
+      "bottomRightY": 236,
+      "content": "$$\\psi_1^{S_1+S_2+\\cdots+S_n+0} = \\sum_i a_i \\phi_i^{S_1} \\psi^{S_2} \\cdots \\psi^{S_n} \\psi^0_{[\\cdots\\alpha_i^1]} \\tag{21}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 250,
+      "bottomRightX": 494,
+      "bottomRightY": 269,
+      "content": "(where $\\alpha_i^1$ refers to the first system, $S_1$).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 276,
+      "bottomRightX": 425,
+      "bottomRightY": 293,
+      "content": "After the second measurement it is, by Rule 2,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 211,
+      "topLeftY": 307,
+      "bottomRightX": 605,
+      "bottomRightY": 342,
+      "content": "$$\\psi_2^{S_1+S_2+\\cdots+S_n+0} = \\sum_{i,j} a_i a_j \\phi_i^{S_1} \\phi_j^{S_2} \\psi^{S_3} \\cdots \\psi^{S_n} \\psi^0_{[\\cdots\\alpha_i^1,\\alpha_j^2]} \\tag{22}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 356,
+      "bottomRightX": 605,
+      "bottomRightY": 388,
+      "content": "and in general, after $r$ measurements have taken place ($r \\le n$), Rule 2 gives the result:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 403,
+      "bottomRightX": 605,
+      "bottomRightY": 438,
+      "content": "$$\\psi_r = \\sum_{i,j,\\cdots k} a_i a_j \\cdots a_k \\phi_i^{S_1} \\phi_j^{S_2} \\cdots \\phi_k^{S_r} \\psi^{S_{r+1}} \\cdots \\psi^{S_n} \\psi^0_{[\\cdots\\alpha_i^1,\\alpha_j^2,\\cdots\\alpha_k^r]} \\tag{23}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 450,
+      "bottomRightX": 605,
+      "bottomRightY": 485,
+      "content": "We can give this state, $\\psi_r$, the following interpretation. It consists of a superposition of states:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 498,
+      "bottomRightX": 605,
+      "bottomRightY": 524,
+      "content": "$$\\psi'_{ij\\cdots k} = \\phi_i^{S_1} \\phi_j^{S_2} \\cdots \\phi_k^{S_r} \\times \\psi^{S_{r+1}} \\cdots \\psi^{S_n} \\psi^0_{[\\alpha_i^1,\\alpha_j^2,\\cdots\\alpha_k^r]} \\tag{24}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 534,
+      "bottomRightX": 605,
+      "bottomRightY": 606,
+      "content": "each of which describes the observer with a definite memory sequence $[\\alpha_i^1, \\alpha_j^2, \\cdots \\alpha_k^r]$. Relative to him the (observed) system states are the corresponding eigenfunctions $\\phi_i^{S_1}, \\phi_j^{S_2}, \\cdots, \\phi_k^{S_r}$, the remaining systems, $S_{r+1}, \\cdots, S_n$, being unaltered.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 607,
+      "bottomRightX": 606,
+      "bottomRightY": 816,
+      "content": "A typical element $\\psi'_{ij\\cdots k}$ of the final superposition describes a state of affairs wherein the observer has perceived an apparently random sequence of definite results for the observations. Furthermore the object systems have been left in the corresponding eigenstates of the observation. At this stage suppose that a redetermination of an earlier system observation ($S_l$) takes place. Then it follows that every element of the resulting final superposition will describe the observer with a memory configuration of the form $[\\alpha_i^1, \\cdots \\alpha_j^l, \\cdots \\alpha_k^r, \\alpha_j^l]$ in which the earlier memory coincides with the later—i.e., the memory states are correlated. It will thus appear to the observer, as described by a typical element of the superposition, that each initial observation on a system caused the system to “jump” into an eigenstate in a random fashion and thereafter remain there for subsequent measurements",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 837,
+      "bottomRightX": 377,
+      "bottomRightY": 849,
+      "content": "14",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

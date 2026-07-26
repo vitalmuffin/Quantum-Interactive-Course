@@ -1,0 +1,11 @@
+Quantisierung als Eigenwertproblem.
+
+373
+
+Periode oder Quasiperiode des Elektrons entfallen. Der Hauptunterschied ist, daß de Broglie an fortschreitende Wellen denkt, während wir, wenn wir unseren Formeln die Schwingungsvorstellung unterlegen, auf stehende Eigenschwingungen geführt werden. Ich habe kürzlich¹) gezeigt, daß man die Einsteinsche Gastheorie auf die Betrachtung solcher stehender Eigenschwingungen, für welche man das Dispersionsgesetz der de Broglieschen Phasenwellen ansetzt, gründen kann. Die obigen Betrachtungen für das Atom hätten sich als Verallgemeinerung jener Überlegungen am Gasmodell darstellen lassen.
+
+Faßt man die einzelnen Funktionen (18), multipliziert mit einer Kugelflächenfunktion der Ordnung $n$, als die Beschreibung von Eigenschwingungsvorgängen auf, dann muß die Größe $E$ etwas mit der Frequenz des betreffenden Vorganges zu tun haben. Nun ist man gewöhnt, daß bei Schwingungsproblemen der „Parameter“ (gewöhnlich $\lambda$ genannt) dem Quadrat der Frequenz proportional ist. Aber erstens würde ein solcher Ansatz im vorliegenden Fall gerade für die *negativen E*-Werte zu *imaginären* Frequenzen führen, zweitens sagt dem Quantentheoretiker sein Gefühl, daß die Energie der Frequenz selbst und nicht ihrem Quadrat proportional sein muß.
+
+Der Widerspruch löst sich folgendermaßen. Für den „Parameter“ $E$ der Variationsgleichung (5) ist ja vorläufig *kein natürliches Nullniveau* festgelegt, besonders da die unbekannte Funktion $\psi$ außer mit $E$ noch mit einer Funktion von $r$ multipliziert erscheint, die, unter entsprechender Änderung des Nullniveaus von $E$, um eine Konstante abgeändert werden kann. Folglich ist die „Erwartung des Schwingungstheoretikers“ dahin zu berichtigen, daß nicht $E$ selbst — das, was wir bisher so nannten und auch weiter so nennen wollen — sondern $E$ vermehrt um eine gewisse Konstante dem Quadrat der Frequenz proportional erwartet wird. Sei diese Konstante nun *sehr groß* im Vergleich zu den Beträgen aller vorkommenden negativen $E$-Werte [die ja durch (15) beschränkt sind]. Dann werden erstens die Frequenzen *reell*, zweitens aber werden unsere $E$-Werte, da sie nur relativ kleinen Frequenzunterschieden entsprechen, tatsächlich sehr angenähert diesen Frequenzunter-
+
+1) Erscheint demnächst in der Physik. Zeitschr.

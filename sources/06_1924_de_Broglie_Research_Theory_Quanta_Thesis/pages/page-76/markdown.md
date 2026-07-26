@@ -1,0 +1,15 @@
+96
+
+LOUIS DE BROGLIE
+
+maintenant satisfaire aux formules de Thomson car les phases des divers électrons deviennent tout à fait incohérentes, ce sont donc les énergies et non plus les amplitudes qui s'ajoutent.
+
+Le grand intérêt de la théorie de M. Debye est d'avoir expliqué la forte diffusion des rayons X mous et d'avoir montré comment doit s'effectuer, quand la fréquence s'élève, le passage de ce phénomène à celui de Thomson. Mais il est essentiel de noter que suivant les idées de Debye, plus la fréquence est élevée, plus la symétrie du rayonnement diffusé et la valeur 0,2 du coefficient $\frac{s}{\rho}$ doivent se trouver bien réalisées. Or, nous allons voir au paragraphe suivant qu'il n'en est aucunement ainsi.
+
+### III. — THÉORIE RÉCENTE DE MM. P. DEBYE ET A. H. COMPTON$^{(1)}$
+
+Les expériences dans le domaine des rayons X durs et des rayons $\gamma$ ont révélé des faits très différents de ceux que les théories précédentes peuvent prévoir. D'abord, plus la fréquence s'élève, plus la dissymétrie du rayonnement diffusé s'accuse ; d'autre part, l'énergie diffusée totale diminue, la valeur du coefficient massique $\frac{s}{\rho}$ tend à s'abaisser rapidement dès que la longueur d'onde tombe au-dessous de 0,3 ou 0,2 Å et devient très faible pour les rayons $\gamma$. Ainsi, là où la théorie de Thomson devrait s'appliquer de mieux en mieux, elle s'applique de moins en moins.
+
+Deux autres phénomènes ont été mis en lumière par de récentes recherches expérimentales au premier rang desquelles on doit placer celles de M. A. H. Compton. Celles-ci ont en effet montré que la diffusion paraît s'accompagner d'un abaissement de la fréquence variable d'ailleurs avec la
+
+$^{(1)}$ P. DEBYE, *Phys. Zeitschr.*, 24, 1923, 161-166 ; A. H. COMPTON, *Phys. Rev.*, 21, 1923, 207 ; 21, 1923, 483 ; *Phil. Mag.*, 46, 1923, 897.

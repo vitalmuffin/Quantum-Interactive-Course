@@ -1,0 +1,17 @@
+integration on all variables $x_i$ for $i > k$ can be performed on the first factor resulting in a function of $x_k$ (times the second factor). Next, the integration on all variables $x_i$, for $i < k$ can be performed on the second factor also, giving a function of $x_k$. Finally, the integration on $x_k$ can be performed. That is, $\varphi(R', R'')$ can be written as the integral over $x_k$ of the product of two factors. We will call these $\chi^*(x_k, t)$ and $\psi(x_k, t)$:
+
+$$\varphi(R', R'') = \int \chi^*(x, t) \psi(x, t) dx, \quad (14)$$
+
+where
+
+$$\psi(x_k, t) = \lim_{\epsilon \to 0} \int_{R'} \times \exp \left[ \frac{i}{\hbar} \sum_{i=-\infty}^{k-1} S(x_{i+1}, x_i) \right] \frac{dx_{k-1}}{A} \frac{dx_{k-2}}{A} \dots, \quad (15)$$
+
+and
+
+$$\chi^*(x_k, t) = \lim_{\epsilon \to 0} \int_{R''} \exp \left[ \frac{i}{\hbar} \sum_{i=k}^{\infty} S(x_{i+1}, x_i) \right] \cdot \frac{1}{A} \frac{dx_{k+1}}{A} \frac{dx_{k+2}}{A} \dots. \quad (16)$$
+
+The symbol $R'$ is placed on the integral for $\psi$ to indicate that the coordinates are integrated over the region $R'$, and, for $t_i$ between $t'$ and $t$, over all space. In like manner, the integral for $\chi^*$ is over $R''$ and over all space for those coordinates corresponding to times between $t$ and $t''$. The asterisk on $\chi^*$ denotes complex conjugate, as it will be found more convenient to define (16) as the complex conjugate of some quantity, $\chi$.
+
+The quantity $\psi$ depends only upon the region $R'$ previous to $t$, and is completely denned if that region is known. It does not depend, in any way, upon what will be done to the system after time $t$. This latter information is contained in $\chi$. Thus, with $\psi$ and $\chi$ we have separated the past history from the future experiences of the system. This permits us to speak of the relation of past and future in the conventional manner. Thus, if a particle has been in a region of space-time $R'$ it may at time $t$ be said to be in a certain condition, or state, determined only by its past and described by the so-called wave function $\psi(x, t)$. This function contains all that is needed to predict future probabilities. For, suppose, in another situation, the region $R'$ were different, say $r'$, and possibly the Lagrangian for times before $t$ were also altered. But, nevertheless, suppose the quantity from Eq. (15) turned out to be the same. Then, according to (14) the probability of ending in any region $R''$ is the same for $R'$ as for $r'$. Therefore, future measurements will not distinguish whether the system had occupied $R'$ or $r'$. Thus, the
+
+12

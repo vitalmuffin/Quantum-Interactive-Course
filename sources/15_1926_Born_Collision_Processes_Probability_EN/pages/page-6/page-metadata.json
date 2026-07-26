@@ -1,0 +1,137 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 272,
+      "topLeftY": 46,
+      "bottomRightX": 538,
+      "bottomRightY": 62,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 666,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "6",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 329,
+      "topLeftY": 95,
+      "bottomRightX": 675,
+      "bottomRightY": 132,
+      "content": "$$\\int_{-\\infty}^{+\\infty} |\\psi(x)|^2 dx = |\\vec{c}|^2 \\frac{\\Delta p}{h}. \\tag{9}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 152,
+      "bottomRightX": 677,
+      "bottomRightY": 243,
+      "content": "One then has the result that a cell of length $\\Delta x = 1$ and impulse extension $\\Delta p = h$ will have weight 1, in agreement with the Ansatz of Sackur and Tetrode $^{(1)}$, which has been confirmed many times by experiments, and that $|c(k)|^2$ is the frequency for a motion with the impulse $p = \\frac{h}{2\\pi}k$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 246,
+      "bottomRightX": 677,
+      "bottomRightY": 404,
+      "content": "We now go onto accelerated motion. Here, one can naturally define a certain distribution of processes in an analogous way. However, that is not a rational question to pose for collision processes. For those processes, any motion will have a rectilinear asymptote before and after the collision. The particle is then found to be in a practically free state for a very long time (in comparison to the actual duration of the collision) before and after the collision. In agreement with the experimental statement of the problem, one thus comes to the following viewpoint: Let the distribution function $|c(k)|^2$ for the asymptotic motion be known before the collision; can one calculate the distribution function after the collision from it?",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 407,
+      "bottomRightX": 677,
+      "bottomRightY": 530,
+      "content": "Naturally, we are speaking only of a stationary particle current here. Mathematically, the problem then comes down to the following one: The stationary vibration field $\\psi$ must be distributed into ingoing and outgoing waves; they are asymptotically plane waves. One then represents both of them by means of a Fourier integral of the form (4) and chooses the coefficient function $c(k)$ for the ingoing waves arbitrarily; it shall then shown that the $c(k)$ is determined completely for the outgoing waves. It yields the distribution into which a prescribed particle mixture will be converted after the collision.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 532,
+      "bottomRightX": 626,
+      "bottomRightY": 550,
+      "content": "In order to see the relationship clearly, we first treat the one-dimensional case.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 586,
+      "bottomRightX": 675,
+      "bottomRightY": 622,
+      "content": "§ 3. The asymptotic behavior of the eigenfunctions in a continuous spectrum with one degree of freedom. Schrödinger's differential equation reads:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 639,
+      "bottomRightX": 675,
+      "bottomRightY": 680,
+      "content": "$$\\frac{d^2\\psi}{dx^2} + \\frac{8\\pi^2\\mu}{h^2}(W - U(x))\\psi = 0, \\tag{1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 699,
+      "bottomRightX": 523,
+      "bottomRightY": 717,
+      "content": "in which $U(x)$ means the potential energy. To abbreviate, we set:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 235,
+      "topLeftY": 736,
+      "bottomRightX": 675,
+      "bottomRightY": 775,
+      "content": "$$\\frac{8\\pi^2\\mu}{h^2}W = k^2, \\quad \\frac{8\\pi^2\\mu}{h^2}U(x) = V(x); \\tag{2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 777,
+      "bottomRightX": 230,
+      "bottomRightY": 794,
+      "content": "we will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 798,
+      "bottomRightX": 675,
+      "bottomRightY": 838,
+      "content": "$$\\frac{d^2\\psi}{dx^2} + k^2\\psi = V\\psi. \\tag{3}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 898,
+      "bottomRightX": 675,
+      "bottomRightY": 931,
+      "content": "$^{(1)}$ A. Sackur, Ann. d. Phys. 36 (1911), 958; 40 (1913), 67; H. Tetrode, Phys. Zeit. 14 (1913), 212; Ann. d. Phys. 38 (1912), 434.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

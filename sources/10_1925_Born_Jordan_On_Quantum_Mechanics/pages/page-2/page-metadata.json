@@ -1,0 +1,74 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 210,
+      "topLeftY": 101,
+      "bottomRightX": 479,
+      "bottomRightY": 117,
+      "content": "M. Born und P. Jordan, Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 554,
+      "topLeftY": 101,
+      "bottomRightX": 583,
+      "bottomRightY": 117,
+      "content": "859",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 138,
+      "bottomRightX": 584,
+      "bottomRightY": 438,
+      "content": "mathematischen Theorie auf Systeme von beliebig vielen Freiheitsgraden sowie auf aperiodische Bewegungen wird uns in der Fortsetzung dieser Abhandlung beschäftigen. In wesentlicher Verallgemeinerung der Heisenbergschen Ansätze werden wir uns weder auf die Behandlung der nicht-relativistischen Mechanik, noch auf das Rechnen mit kartesischen Koordinaten beschränken. Die einzige Beschränkung, die wir uns hinsichtlich der Koordinaten auferlegen, liegt darin, daß sich unsere Betrachtungen auf Librationskoordinaten beziehen, die in der klassischen Theorie periodische Funktionen der Zeit sind. Allerdings scheint es in manchen Fällen naheliegend, andere Koordinaten zu benutzen, beispielsweise beim Rotator den Drehwinkel $\\varphi$, der eine lineare Funktion der Zeit wird. So ist auch Heisenberg bei seiner Behandlung des Rotators vorgegangen; es muß jedoch dahingestellt bleiben, ob das dabei angewandte Verfahren vom Standpunkt einer folgerichtigen Quantenmechanik aus gerechtfertigt werden kann.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 440,
+      "bottomRightX": 583,
+      "bottomRightY": 681,
+      "content": "Die mathematische Grundlage der Heisenbergschen Betrachtung ist das Multiplikationsgesetz der quantentheoretischen Größen, das er durch eine geistreiche Korrespondenzbetrachtung erschlossen hat. Die Ausgestaltung seines Formalismus, die wir hier geben, beruht auf der Bemerkung, daß diese Regel nichts ist, als das den Mathematikern wohlbekannte Gesetz der Multiplikation von Matrizen. Das nach zwei Seiten unendliche, quadratische Schema (mit diskreten oder kontinuierlich laufenden Indizes), die sogenannte Matrix, ist der Repräsentant einer physikalischen Größe, die in der klassischen Theorie als Funktion der Zeit angegeben wird. Die mathematische Methode der neuen Quantenmechanik ist daher gekennzeichnet durch Benutzung einer Matrizenanalysis an Stelle der gewöhnlichen Zahlenanalysis.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 682,
+      "bottomRightX": 583,
+      "bottomRightY": 921,
+      "content": "Mit dieser Methode haben wir hier die einfachsten Fragen der Mechanik und Elektrodynamik anzufassen versucht. Ein durch Korrespondenzbetrachtungen nahegelegtes Variationsprinzip liefert für die allgemeinste Hamiltonsche Funktion Bewegungsgleichungen in engster Analogie zu den klassischen kanonischen Gleichungen. Die Quantenbedingung zusammengefaßt mit einer aus den Bewegungsgleichungen fließenden Relation erlaubt eine einfache Matrizenschreibweise. Mit ihrer Hilfe gelingt der Beweis der Allgemeingültigkeit des Energiesatzes und der Bohrschen Frequenzbedingung in dem von Heisenberg vermuteten Sinne, ein Beweis, den er auch für die einfachen, von ihm behandelten Beispiele nicht vollständig führen konnte. Auf eines dieser Beispiele kommen wir dann ausführlicher",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 921,
+      "bottomRightX": 300,
+      "bottomRightY": 937,
+      "content": "Zeitschrift für Physik. Bd. XXXIV.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 496,
+      "topLeftY": 926,
+      "bottomRightX": 514,
+      "bottomRightY": 941,
+      "content": "57",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

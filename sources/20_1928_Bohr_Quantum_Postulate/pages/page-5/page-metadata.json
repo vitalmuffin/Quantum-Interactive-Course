@@ -1,0 +1,110 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 91,
+    "height": 1019,
+    "width": 776
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 117,
+      "topLeftY": 94,
+      "bottomRightX": 141,
+      "bottomRightY": 108,
+      "content": "584",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 92,
+      "bottomRightX": 523,
+      "bottomRightY": 110,
+      "content": "Supplement to \"Nature,\" April 14, 1928",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 119,
+      "bottomRightX": 379,
+      "bottomRightY": 182,
+      "content": "fixed in the ordinary way by means of solid bodies and unperturbable clocks. The experimental devices—opening and closing of apertures, etc.—are seen to permit only conclusions regarding the space-time extension of the associated wave-fields.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 182,
+      "bottomRightX": 380,
+      "bottomRightY": 549,
+      "content": "In tracing observations back to our sensations, once more regard has to be taken to the quantum postulate in connexion with the perception of the agency of observation, be it through its direct action upon the eye or by means of suitable auxiliaries such as photographic plates, Wilson clouds, etc. It is easily seen, however, that the resulting additional statistical element will not influence the uncertainty in the description of the object. It might even be conjectured that the arbitrariness in what is regarded as object and what as agency of observation would open up a possibility of avoiding this uncertainty altogether. In connexion with the measurement of the position of a particle, one might, for example, ask whether the momentum transmitted by the scattering could not be determined by means of the conservation theorem from a measurement of the change of momentum of the microscope—including light source and photographic plate—during the process of observation. A closer investigation shows, however, that such a measurement is impossible, if at the same time one wants to know the position of the microscope with sufficient accuracy. In fact, it follows from the experiences which have found expression in the wave theory of matter, that the position of the centre of gravity of a body and its total momentum can only be defined within the limits of reciprocal accuracy given by relation (2).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 550,
+      "bottomRightX": 382,
+      "bottomRightY": 919,
+      "content": "Strictly speaking, the idea of observation belongs to the causal space-time way of description. Due to the general character of relation (2), however, this idea can be consistently utilised also in the quantum theory, if only the uncertainty expressed through this relation is taken into account. As remarked by Heisenberg, one may even obtain an instructive illustration to the quantum theoretical description of atomic (microscopic) phenomena by comparing this uncertainty with the uncertainty, due to imperfect measurements, inherently contained in any observation as considered in the ordinary description of natural phenomena. He remarks on that occasion that even in the case of macroscopic phenomena we may say, in a certain sense, that they are created by repeated observations. It must not be forgotten, however, that in the classical theories any succeeding observation permits a prediction of future events with ever-increasing accuracy, because it improves our knowledge of the initial state of the system. According to the quantum theory, just the impossibility of neglecting the interaction with the agency of measurement means that every observation introduces a new uncontrollable element. Indeed, it follows from the above considerations that the measurement of the positional coordinates of a particle is accompanied not only by a finite change in the dynamical variables, but also the fixation of its position means a complete rupture",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 389,
+      "topLeftY": 119,
+      "bottomRightX": 671,
+      "bottomRightY": 245,
+      "content": "in the causal description of its dynamical behaviour, while the determination of its momentum always implies a gap in the knowledge of its spatial propagation. Just this situation brings out most strikingly the complementary character of the description of atomic phenomena which appears as an inevitable consequence of the contrast between the quantum postulate and the distinction between object and agency of measurement, inherent in our very idea of observation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 402,
+      "topLeftY": 250,
+      "bottomRightX": 659,
+      "bottomRightY": 275,
+      "content": "# 4. CORRESPONDENCE PRINCIPLE AND MATRIX THEORY.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 389,
+      "topLeftY": 277,
+      "bottomRightX": 671,
+      "bottomRightY": 524,
+      "content": "Hitherto we have only regarded certain general features of the quantum problem. The situation implies, however, that the main stress has to be laid on the formulation of the laws governing the interaction between the objects which we symbolise by the abstractions of isolated particles and radiation. Points of attack for this formulation are presented in the first place by the problem of atomic constitution. As is well known, it has been possible here, by means of an elementary use of classical concepts and in harmony with the quantum postulate, to throw light on essential aspects of experience. For example, the experiments regarding the excitation of spectra by electronic impacts and by radiation are adequately accounted for on the assumption of discrete stationary states and individual transition processes. This is primarily due to the circumstance that in these questions no closer description of the space-time behaviour of the processes is required.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 392,
+      "topLeftY": 524,
+      "bottomRightX": 673,
+      "bottomRightY": 721,
+      "content": "Here the contrast with the ordinary way of description appears strikingly in the circumstance that spectral lines, which on the classical view would be ascribed to the same state of the atom, will, according to the quantum postulate, correspond to separate transition processes, between which the excited atom has a choice. Notwithstanding this contrast, however, a formal connexion with the classical ideas could be obtained in the limit, where the relative difference in the properties of neighbouring stationary states vanishes asymptotically and where in statistical applications the discontinuities may be disregarded. Through this connexion it was possible to a large extent to interpret the regularities of spectra on the basis of our ideas about the structure of the atom.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 392,
+      "topLeftY": 721,
+      "bottomRightX": 674,
+      "bottomRightY": 919,
+      "content": "The aim of regarding the quantum theory as a rational generalisation of the classical theories led to the formulation of the so-called correspondence principle. The utilisation of this principle for the interpretation of spectroscopic results was based on a symbolical application of classical electrodynamics, in which the individual transition processes were each associated with a harmonic in the motion of the atomic particles to be expected according to ordinary mechanics. Except in the limit mentioned, where the relative difference between adjacent stationary states may be neglected, such a fragmentary application of the classical theories could only in certain cases lead to a strictly quantitative description of the phenomena. Especially the connexion developed by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 335,
+      "topLeftY": 953,
+      "bottomRightX": 475,
+      "bottomRightY": 965,
+      "content": "© 1928 Nature Publishing Group",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

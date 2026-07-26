@@ -1,0 +1,13 @@
+set of total measure which tends toward zero as the number of observations becomes unlimited. Hence all averages of functions over *any* memory sequence, including the special case of frequencies, can be computed from the probabilities $a_i^* a_i$, except for a set of memory sequences of measure zero. We have therefore shown that the statistical assertions of Process 1 will appear to be valid to the observer, *in almost all* elements of the superposition (24), in the limit as the number of observations goes to infinity.
+
+While we have so far considered only sequences of observations of the same quantity upon identical systems, the result is equally true for arbitrary sequences of observations, as may be verified by writing more general sequences of measurements, and applying Rules 1 and 2 in the same manner as presented here.
+
+We can therefore summarize the situation when the sequence of observations is arbitrary, when these observations are made upon the same or different systems in any order, and when the number of observations of each quantity in each system is very large, with the following result:
+
+Except for a set of memory sequences of measure nearly zero, the averages of any functions over a memory sequence can be calculated approximately by the use of the independent probabilities given by Process 1 for each initial observation, on a system, and by the use of the usual transition probabilities for succeeding observations upon the same system. In the limit, as the number of all types of observations goes to infinity the calculation is exact, and the exceptional set has measure zero.
+
+This prescription for the calculation of averages over memory sequences by probabilities assigned to individual elements is precisely that of the conventional “external observation” theory (Process 1). Moreover, these predictions hold for almost all memory sequences. Therefore all predictions of the usual theory will appear to be valid to the observer in almost [sic] all observer states.
+
+In particular, the uncertainty principle is never violated since the latest measurement upon a system supplies all possible information about the relative system state, so that there is no direct correlation between any earlier results of observation on the system, and the succeeding observation. Any observation of a quantity $B$, between two successive observations of quantity $A$ (all on the same system) will destroy the one-one correspondence between the earlier and later memory states for the result of $A$. Thus for alternating
+
+19

@@ -1,0 +1,146 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 158,
+      "bottomRightX": 589,
+      "bottomRightY": 208,
+      "content": "because of the almost complete cancelation of positive and negative contributions. Since only small $\\xi$ are effective, $\\psi(x - \\xi, t)$ may be expanded as a Taylor series. Hence,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 218,
+      "bottomRightX": 542,
+      "bottomRightY": 253,
+      "content": "$$\\psi(x, t + \\epsilon) = \\exp \\left( \\frac{-i\\epsilon V(x)}{\\hbar} \\right) \\times$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 255,
+      "bottomRightX": 586,
+      "bottomRightY": 290,
+      "content": "$$\\times \\int \\exp \\left( \\frac{im\\xi^2}{2\\hbar\\epsilon} \\right) \\left[ \\psi(x, t) - \\xi \\frac{\\partial \\psi(x, t)}{\\partial x} + \\frac{\\xi^2}{2} \\frac{\\partial^2 \\psi(x, t)}{\\partial x^2} - \\dots \\right] d\\xi / A. \\quad (25)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 301,
+      "bottomRightX": 179,
+      "bottomRightY": 314,
+      "content": "Now",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 313,
+      "bottomRightX": 448,
+      "bottomRightY": 346,
+      "content": "$$\\int_{-\\infty}^{\\infty} \\exp(im\\xi^2 / 2\\hbar\\epsilon) d\\xi = (2\\pi\\hbar\\epsilon i/m)^{1/2},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 363,
+      "bottomRightX": 586,
+      "bottomRightY": 395,
+      "content": "$$\\int_{-\\infty}^{\\infty} \\exp(im\\xi^2 / 2\\hbar\\epsilon) \\xi d\\xi = 0, \\quad (26)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 413,
+      "bottomRightX": 506,
+      "bottomRightY": 444,
+      "content": "$$\\int_{-\\infty}^{\\infty} \\exp(im\\xi^2 / 2\\hbar\\epsilon) \\xi^2 d\\xi = (\\hbar\\epsilon i/m)(2\\pi\\hbar\\epsilon i/m)^{1/2},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 453,
+      "bottomRightX": 589,
+      "bottomRightY": 519,
+      "content": "while the integral containing $\\xi^2$ is zero, for like the one with $\\xi$ it possesses an odd integrand, and the ones with $\\xi^4$ are of at least the order $\\epsilon$ smaller than the ones kept here.$^{13}$ If we expand the left-hand side to first order in $\\epsilon$ (25) becomes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 531,
+      "bottomRightX": 586,
+      "bottomRightY": 604,
+      "content": "$$\\psi(x, t) + \\epsilon \\frac{\\partial \\psi(x, t)}{\\partial t} = \\exp \\left( \\frac{-i\\epsilon V(x)}{\\hbar} \\right) \\frac{(2\\pi\\hbar\\epsilon i/m)^{1/2}}{A} \\times \\left[ \\psi(x, t) + \\frac{\\hbar\\epsilon i}{m} \\frac{\\partial^2 \\psi(x, t)}{\\partial x^2} + \\dots \\right]. \\quad (27)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 614,
+      "bottomRightX": 533,
+      "bottomRightY": 631,
+      "content": "In order that both sides may agree to zero order in $\\epsilon$, we must set",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 315,
+      "topLeftY": 643,
+      "bottomRightX": 586,
+      "bottomRightY": 660,
+      "content": "$$A = (2\\pi\\hbar\\epsilon i/m)^{1/2}. \\quad (28)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 674,
+      "bottomRightX": 482,
+      "bottomRightY": 691,
+      "content": "Then expanding the exponential containing $V(x)$, we get",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 702,
+      "bottomRightX": 586,
+      "bottomRightY": 738,
+      "content": "$$\\psi(x, t) + \\epsilon \\frac{\\partial \\psi}{\\partial t} = \\left( 1 - \\frac{i\\epsilon}{\\hbar} V(x) \\right) \\times \\left( \\psi(x, t) + \\frac{\\hbar\\epsilon i}{2m} \\frac{\\partial^2 \\psi}{\\partial x^2} \\right). \\quad (29)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 745,
+      "bottomRightX": 589,
+      "bottomRightY": 801,
+      "content": "$^{13}$Really, these integrals are oscillatory and not defined, but they may be defined by using a convergence factor. Such a factor is automatically provided by $\\psi(x - \\xi, t)$ in (24). If a more formal procedure is desired replace $\\hbar$ by $\\hbar(1 - i\\delta)$, for example, where $\\delta$ is a small positive number, and then let $\\delta \\to 0$.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 835,
+      "bottomRightX": 376,
+      "bottomRightY": 847,
+      "content": "16",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

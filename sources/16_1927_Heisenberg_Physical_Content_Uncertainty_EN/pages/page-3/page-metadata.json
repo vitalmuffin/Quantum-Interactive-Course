@@ -1,0 +1,65 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1017,
+    "width": 640
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 44,
+      "topLeftY": 54,
+      "bottomRightX": 61,
+      "bottomRightY": 68,
+      "content": "64",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 267,
+      "topLeftY": 55,
+      "bottomRightX": 343,
+      "bottomRightY": 68,
+      "content": "HEISENBERG",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 91,
+      "bottomRightX": 470,
+      "bottomRightY": 110,
+      "content": "# §1. CONCEPTS: POSITION, PATH, VELOCITY, ENERGY",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 120,
+      "bottomRightX": 564,
+      "bottomRightY": 275,
+      "content": "In order to be able to follow the quantum-mechanical behavior of any object one has to know the mass of this object and its interactions with any fields and other objects. Only then can the Hamiltonian function be written down for the quantum-mechanical system. (The following considerations ordinarily refer to nonrelativistic quantum mechanics, as the laws of quantum electrodynamics are still very incompletely known.)* About the \"Gestalt\" (construction) of the object any further assumption is unnecessary; one most usefully employs the word \"Gestalt\" to designate the totality of these interactions.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 276,
+      "bottomRightX": 564,
+      "bottomRightY": 824,
+      "content": "When one wants to be clear about what is to be understood by the words \"position of the object,\" for example of the electron (relative to a given frame of reference), then one must specify definite experiments with whose help one plans to measure the \"position of the electron\"; otherwise this word has no meaning. There is no shortage of such experiments, which in principle even allow one to determine the \"position of the electron\" with arbitrary accuracy. For example, let one illuminate the electron and observe it under a microscope. Then the highest attainable accuracy in the measurement of position is governed by the wavelength of the light. However, in principle one can build, say, a γ-ray microscope and with it carry out the determination of position with as much accuracy as one wants. In this measurement there is an important feature, the Compton effect. Every observation of scattered light coming from the electron presupposes a photoelectric effect (in the eye, on the photographic plate, in the photocell) and can therefore also be so interpreted that a light quantum hits the electron, is reflected or scattered, and then, once again bent by the lens of the microscope, produces the photoeffect. At the instant when position is determined—therefore, at the moment when the photon is scattered by the electron—the electron undergoes a discontinuous change in momentum. This change is the greater the smaller the wavelength of the light employed—that is, the more exact the determination of the position. At the instant at which the position of the electron is known, its momentum therefore can be known up to magnitudes which correspond to that discontinuous change. Thus, the more precisely the position is determined, the less precisely the momentum is known, and conversely. In this circumstance we see a direct physical interpretation of the equation pq - qp = -ih. Let q₁ be the precision with which the value q is known (q₁ is, say, the mean error of q), therefore here the wavelength of the light. Let p₁ be the precision with which the value p is determinable; that is, here, the discontinuous change of p in the Compton effect. Then, according to the elementary laws of the Compton effect p₁ and q₁ stand in the relation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 853,
+      "bottomRightX": 564,
+      "bottomRightY": 886,
+      "content": "* Quite recently, however, great advances in this domain have been made in the papers of P. Dirac [Proc. Roy. Soc. A114, 243 (1927) and papers to appear subsequently].",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

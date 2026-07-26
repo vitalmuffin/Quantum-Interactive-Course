@@ -1,0 +1,137 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 155,
+      "bottomRightX": 587,
+      "bottomRightY": 219,
+      "content": "Here, the chance of finding a particle going from $a$ to $c$ through several different routes (values of $b$) may, if no attempt is made to determine the route, be represented as the square of a sum of several complex quantities—one for each available route.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 221,
+      "bottomRightX": 587,
+      "bottomRightY": 318,
+      "content": "Probability can show the typical phenomena of interference, usually associated with waves, whose intensity is given by the square of the sum of contributions from different sources. The electron acts as a wave, (5), so to speak, as long as no attempt is made to verify that it is a particle; yet one can determine, if one wishes, by what route it travels just as though it were a particle; but when one does that, (4) applies and it does act like a particle.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 318,
+      "bottomRightX": 587,
+      "bottomRightY": 384,
+      "content": "These things are, of course, well known. They have already been explained many times.$^{9}$ However, it seems worth while to emphasize the fact that they are all simply direct consequences of Eq. (5), for it is essentially Eq. (5) that is fundamental in my formulation of quantum mechanics.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 384,
+      "bottomRightX": 587,
+      "bottomRightY": 433,
+      "content": "The generalization of Eqs. (4) and (5) to a large number of measurements, say $A, B, C, D, \\dots, K$, is, of course, that the probability of the sequence $a, b, c, d, \\dots, k$, is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 305,
+      "topLeftY": 440,
+      "bottomRightX": 428,
+      "bottomRightY": 458,
+      "content": "$$P_{abcd\\dots k} = |\\varphi_{abcd\\dots k}|^2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 465,
+      "bottomRightX": 587,
+      "bottomRightY": 497,
+      "content": "The probability of the result $a, c, k$, for example, if $b, d, \\dots$ are measured, is the classical formula:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 290,
+      "topLeftY": 502,
+      "bottomRightX": 587,
+      "bottomRightY": 535,
+      "content": "$$P_{ack} = \\sum_b \\sum_d \\dots P_{abcd\\dots k}, \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 541,
+      "bottomRightX": 587,
+      "bottomRightY": 574,
+      "content": "while the probability of the same sequence $a, c, k$ if no measurements are made between $A$ and $C$ and between $C$ and $K$ is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 578,
+      "bottomRightX": 587,
+      "bottomRightY": 611,
+      "content": "$$P_{ack}^q = |\\sum_b \\sum_d \\dots \\varphi_{abcd\\dots k}|^2. \\quad (7)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 617,
+      "bottomRightX": 587,
+      "bottomRightY": 667,
+      "content": "The quantity $\\varphi_{abcd\\dots k}$ we can call the probability amplitude for the condition $A = a$, $B = b$, $C = c$, $D = d, \\dots, K = k$. (It is, of course, expressible as a product $\\varphi_{ab}\\varphi_{bc}\\varphi_{cd}\\dots\\varphi_{jk}$.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 688,
+      "bottomRightX": 587,
+      "bottomRightY": 729,
+      "content": "### 3. The Probability Amplitude for a Space-Time Path",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 742,
+      "bottomRightX": 587,
+      "bottomRightY": 774,
+      "content": "The physical ideas of the last section may be readily extended to define a probability amplitude for a particular completely specified space-time",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 781,
+      "bottomRightX": 587,
+      "bottomRightY": 810,
+      "content": "$^{9}$See, for example, W. Heisenberg, *The Physical Principles of the Quantum Theory* (University of Chicago Press, Chicago, 1930), particularly Chapter IV.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 831,
+      "bottomRightX": 372,
+      "bottomRightY": 845,
+      "content": "6",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

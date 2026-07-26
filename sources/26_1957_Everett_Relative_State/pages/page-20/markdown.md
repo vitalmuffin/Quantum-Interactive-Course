@@ -1,0 +1,13 @@
+observations of different quantities there are fundamental limitations upon the correlations between memory states for the same observed quantity, these limitations expressing the content of the uncertainty principle.
+
+As a final step one may investigate the consequences of allowing several observer systems to interact with (observe) the same object system, as well as to interact with one another (communicate). The latter interaction can be treated simply as an interaction which correlates parts of the memory configuration of one observer with another. When these observer systems are investigated, in the same manner as we have already presented in this section using Rules 1 and 2, one finds that in *all elements* of the final superposition:
+
+1. When several observers have separately observed the same quantity in the object system and then communicated the results to one another they find that they are in agreement. This agreement persists even when an observer performs his observation *after* the result has been communicated to him by another observer who has performed the observation.
+
+2. Let one observer perform an observation of a quantity $A$ in the object system, then let a second perform an observation of a quantity $B$ in this object system which does not commute with $A$, and finally let the first observer repeat his observation of $A$. Then the memory system of the first observer will *not* in general show the same result for both observations. The intervening observation by the other observer of the non-commuting quantity $B$ prevents the possibility of any one to one correlation between the two observations of $A$.
+
+3. Consider the case where the states of two object systems are correlated, but where the two systems do not interact. Let one observer perform a specified observation on the first system, then let another observer perform an observation on the second system, and finally let the first observer repeat his observation. Then it is found that the first observer always gets the same result both times, and the observation by the second observer has no effect whatsoever on the outcome of the first’s observations. Fictitious paradoxes like that of Einstein, Podolsky, and Rosen$^{8}$ which are concerned with such correlated, noninteracting systems are easily investigated and clarified in the present scheme.
+
+---$^{8}$Einstein, Podolsky, and Rosen, Phys. Rev. **47**, 777 (1935). For a thorough discussion of the physics of observation, see the chapter by N. Bohr in *Albert Einstein, Philosopher-Scientist* (The Library of Living Philosophers, Inc., Evanston, 1949).
+
+20

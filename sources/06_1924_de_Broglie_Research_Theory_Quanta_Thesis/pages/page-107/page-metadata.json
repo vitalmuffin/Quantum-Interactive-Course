@@ -1,0 +1,65 @@
+{
+  "index": 106,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 111,
+      "topLeftY": 26,
+      "bottomRightX": 449,
+      "bottomRightY": 49,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 503,
+      "topLeftY": 32,
+      "bottomRightX": 534,
+      "bottomRightY": 51,
+      "content": "127",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 25,
+      "topLeftY": 66,
+      "bottomRightX": 536,
+      "bottomRightY": 146,
+      "content": "amorphes en insistant particulièrement sur la toute récente théorie de MM. P. Debye et A.-H. Compton qui rend, semble-t-il, presque tangible l'existence des quanta de lumière.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 23,
+      "topLeftY": 142,
+      "bottomRightX": 536,
+      "bottomRightY": 349,
+      "content": "Enfin, au chapitre VII, nous introduisons l'onde de phase dans la Mécanique statistique, nous retrouvons aussi la valeur de l'élément d'extension en phase que Planck a proposée et nous obtenons la loi du rayonnement noir comme la loi de Maxwell d'un gaz formé d'atomes de lumière à condition toutefois d'admettre une certaine cohérence entre les mouvements de certains atomes, cohérence dont l'étude des fluctuations de l'énergie paraît aussi montrer l'intérêt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 18,
+      "topLeftY": 345,
+      "bottomRightX": 535,
+      "bottomRightY": 905,
+      "content": "Bref, j'ai développé des idées nouvelles pouvant peut-être contribuer à hâter la synthèse nécessaire qui, de nouveau, unifiera la physique des radiations aujourd'hui si étrangement scindées en deux domaines où règnent respectivement deux conceptions opposées : la conception corpusculaire et celle des ondes. J'ai pressenti que les principes de la Dynamique du point matériel, si on savait les analyser correctement, se présenteraient sans doute comme exprimant des propagations et des concordances de phases et j'ai cherché, de mon mieux, à tirer de là, l'explication d'un certain nombre d'énigmes posées par la théorie des Quanta. En tentant cet effort je suis parvenu à quelques conclusions intéressantes qui permettent peut-être d'espérer arriver à des résultats plus complets en poursuivant dans la même voie. Mais il faudrait d'abord constituer une théorie électromagnétique nouvelle conforme naturellement au principe de Relativité, rendant compte de la structure discontinue de l'énergie radiante et de la nature physique des ondes de phase, laissant enfin à la théorie de Maxwell-Lorentz un caractère d'approximation statistique qui expliquerait la légitimité de son emploi et l'exactitude de ses prévisions dans un très grand nombre de cas.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 18,
+      "topLeftY": 901,
+      "bottomRightX": 529,
+      "bottomRightY": 957,
+      "content": "J'ai intentionnellement laissé assez vagues les définitions de l'onde de phase et du phénomène périodique dont elle",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

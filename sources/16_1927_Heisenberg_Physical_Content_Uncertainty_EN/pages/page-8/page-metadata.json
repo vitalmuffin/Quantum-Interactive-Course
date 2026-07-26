@@ -1,0 +1,191 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 106,
+    "height": 1019,
+    "width": 662
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 215,
+      "topLeftY": 22,
+      "bottomRightX": 420,
+      "bottomRightY": 38,
+      "content": "I.3 PRINCIPLE OF INDETERMINISM",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 556,
+      "topLeftY": 21,
+      "bottomRightX": 574,
+      "bottomRightY": 36,
+      "content": "69",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 58,
+      "bottomRightX": 575,
+      "bottomRightY": 192,
+      "content": "unknown (for example, electrodynamics), equation (1) makes a demand which may be useful for the discovery of the new laws. For quantum mechanics equation (1) can be derived from the Dirac-Jordan formulation by a slight generalization. If, for any definite state variable $\\eta$ we determine the position $q$ of the electron as $q'$ with an uncertainty $q_1$, then we can express this fact by a probability amplitude $S(\\eta, q)$ which differs appreciably from zero only in a region of spread $q_1$ near $q'$. For example, one can write",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 210,
+      "bottomRightX": 575,
+      "bottomRightY": 232,
+      "content": "$$S(\\eta, q) \\text{ proportional to } \\exp[-(q - q')^2/2q_1^2 - (ip'/\\hbar)(q - q')], \\tag{3a}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 250,
+      "bottomRightX": 153,
+      "bottomRightY": 266,
+      "content": "with therefore",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 275,
+      "bottomRightX": 575,
+      "bottomRightY": 298,
+      "content": "$$S\\bar{S}' \\text{ proportional to } \\exp[-(q - q')^2/q_1^2]. \\tag{3b}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 315,
+      "bottomRightX": 491,
+      "bottomRightY": 335,
+      "content": "Then for the probability amplitude for any given value of $p$ we have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 352,
+      "bottomRightX": 575,
+      "bottomRightY": 383,
+      "content": "$$S(\\eta, p) = \\int S(\\eta, q)S(q, p) \\, dq. \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 401,
+      "bottomRightX": 368,
+      "bottomRightY": 419,
+      "content": "For $S(q, p)$, according to Jordan, we can write",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 439,
+      "bottomRightX": 575,
+      "bottomRightY": 459,
+      "content": "$$S(q, p) = \\exp(ipq/\\hbar). \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 476,
+      "bottomRightX": 575,
+      "bottomRightY": 533,
+      "content": "Then, according to (4), $S(\\eta, p)$ differs appreciably from zero only for values of $p$ for which $(p - p')q_1/\\hbar$ is not significantly greater than 1. Specifically, employing (3), we find $S(\\eta, p)$ is proportional to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 552,
+      "bottomRightX": 447,
+      "bottomRightY": 581,
+      "content": "$$\\int \\exp[i(p - p')q/\\hbar - (q - q')^2/2q_1^2] \\, dq;$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 599,
+      "bottomRightX": 209,
+      "bottomRightY": 617,
+      "content": "that is, proportional to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 635,
+      "bottomRightX": 440,
+      "bottomRightY": 658,
+      "content": "$$\\exp[-(p - p')^2/2p_1^2 + iq'(p - p')/\\hbar];$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 666,
+      "bottomRightX": 120,
+      "bottomRightY": 682,
+      "content": "and thus",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 692,
+      "bottomRightX": 453,
+      "bottomRightY": 713,
+      "content": "$$S\\bar{S} \\text{ is proportional to } \\exp[-(p - p')^2/p_1^2],$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 722,
+      "bottomRightX": 103,
+      "bottomRightY": 737,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 284,
+      "topLeftY": 750,
+      "bottomRightX": 575,
+      "bottomRightY": 769,
+      "content": "$$p_1 q_1 = \\hbar. \\tag{6}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 787,
+      "bottomRightX": 575,
+      "bottomRightY": 844,
+      "content": "The assumption (3) for $S(\\eta, q)$ corresponds therefore to the experimental fact that the value $p'$ is measured for $p$ and the value $q'$ for $q$ [with the limit (6) on the precision].",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 845,
+      "bottomRightX": 574,
+      "bottomRightY": 864,
+      "content": "From the purely mathematical point of view it is characteristic of the Dirac-",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

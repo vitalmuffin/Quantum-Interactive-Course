@@ -1,0 +1,35 @@
+Second Series
+
+May, 1923
+
+Vol. 21, No. 5
+
+# THE
+
+# PHYSICAL REVIEW
+
+# A QUANTUM THEORY OF THE SCATTERING OF X-RAYS BY LIGHT ELEMENTS
+
+BY ARTHUR H. COMPTON
+
+# ABSTRACT
+
+A quantum theory of the scattering of X-rays and γ-rays by light elements.—The hypothesis is suggested that when an X-ray quantum is scattered it spends all of its energy and momentum upon some particular electron. This electron in turn scatters the ray in some definite direction. The change in momentum of the X-ray quantum due to the change in its direction of propagation results in a recoil of the scattering electron. The energy in the scattered quantum is thus less than the energy in the primary quantum by the kinetic energy of recoil of the scattering electron. The corresponding increase in the wave-length of the scattered beam is λθ - λ₀ = (2h/mc) sin² ½θ = 0.0484 sin² ½θ, where h is the Planck constant, m is the mass of the scattering electron, c is the velocity of light, and θ is the angle between the incident and the scattered ray. Hence the increase is independent of the wave-length. The distribution of the scattered radiation is found, by an indirect and not quite rigid method, to be concentrated in the forward direction according to a definite law (Eq. 27). The total energy removed from the primary beam comes out less than that given by the classical Thomson theory in the ratio 1/(1 + 2α), where α = h/mcλ₀ = 0.0242/λ₀. Of this energy a fraction (1 + α)/(1 + 2α) reappears as scattered radiation, while the remainder is truly absorbed and transformed into kinetic energy of recoil of the scattering electrons. Hence, if σ₀ is the scattering absorption coefficient according to the classical theory, the coefficient according to this theory is σ = σ₀/(1 + 2α) = σₛ + σₒ, where σₛ is the true scattering coefficient [(1 + α)σ/(1 + 2α)²], and σₒ is the coefficient of absorption due to scattering [ασ/(1 + 2α)²]. Unpublished experimental results are given which show that for graphite and the Mo-K radiation the scattered radiation is longer than the primary, the observed difference (λσ/2 - λ₀ = .022) being close to the computed value .024. In the case of scattered γ-rays, the wave-length has been found to vary with θ in agreement with the theory, increasing from .022 A (primary) to .068 A (θ = 135°). Also the velocity of secondary β-rays excited in light elements by γ-rays agrees with the suggestion that they are recoil electrons. As for the predicted variation of absorption with λ, Hewlett's results for carbon for wave-lengths below 0.5 A are in excellent agreement with this theory; also the predicted concentration in the forward direction is shown to be in agreement with the experimental results,
+
+484
+
+ARTHUR H. COMPTON
+
+both for X-rays and γ-rays. This remarkable agreement between experiment and theory indicates clearly that scattering is a quantum phenomenon and can be explained without introducing any new hypothesis as to the size of the electron or any new constants; also that a radiation quantum carries with it momentum as well as energy. The restriction to light elements is due to the assumption that the constraining forces acting on the scattering electrons are negligible, which is probably legitimate only for the lighter elements.
+
+Spectrum of K-rays from Mo scattered by graphite, as compared with the spectrum of the primary rays, is given in Fig. 4, showing the change of wave-length.
+
+Radiation from a moving isotropic radiator.—It is found that in a direction θ with the velocity, Iβ/I' = (1 - β)²/(1 - β cos θ)⁴ = (rβ/r')⁴. For the total radiation from a black body in motion to an observer at rest, I/I' = (T/T')⁴ = (rₘ/rₘ')⁴, where the primed quantities refer to the body at rest.
+
+J. J. Thomson's classical theory of the scattering of X-rays, though supported by the early experiments of Barkla and others, has been found incapable of explaining many of the more recent experiments. This theory, based upon the usual electrodynamics, leads to the result that the energy scattered by an electron traversed by an X-ray beam of unit intensity is the same whatever may be the wave-length of the incident rays. Moreover, when the X-rays traverse a thin layer of matter, the intensity of the scattered radiation on the two sides of the layer should be the same. Experiments on the scattering of X-rays by light elements have shown that these predictions are correct when X-rays of moderate hardness are employed; but when very hard X-rays or γ-rays are employed, the scattered energy is found to be decidedly less than Thomson's theoretical value, and to be strongly concentrated on the emergent side of the scattering plate.
+
+Several years ago the writer suggested that this reduced scattering of the very short wave-length X-rays might be the result of interference between the rays scattered by different parts of the electron, if the electron's diameter is comparable with the wave-length of the radiation. By assuming the proper radius for the electron, this hypothesis supplied a quantitative explanation of the scattering for any particular wave-length. But recent experiments have shown that the size of the electron which must thus be assumed increases with the wave-length of the X-rays employed,¹ and the conception of an electron whose size varies with the wave-length of the incident rays is difficult to defend.
+
+Recently an even more serious difficulty with the classical theory of X-ray scattering has appeared. It has long been known that secondary γ-rays are softer than the primary rays which excite them, and recent experiments have shown that this is also true of X-rays. By a spectroscopic examination of the secondary X-rays from graphite, I have, indeed,
+
+¹ A. H. Compton, Bull. Nat. Research Council, No. 20, p. 10 (Oct., 1922).

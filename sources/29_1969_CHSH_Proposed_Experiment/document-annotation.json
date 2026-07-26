@@ -1,0 +1,1786 @@
+{
+  "document_id": "23_1969_clauser_proposed_experiment_local_hidden_variable_theories",
+  "source_filename": "Physical_Review_Letters_Volume_23_Number_15_1969.pdf",
+  "metadata": {
+    "title_original": "PROPOSED EXPERIMENT TO TEST LOCAL HIDDEN-VARIABLE THEORIES",
+    "title_normalized": "Proposed Experiment to Test Local Hidden-Variable Theories",
+    "authors": [
+      "John F. Clauser",
+      "Michael A. Horne",
+      "Abner Shimony",
+      "Richard A. Holt"
+    ],
+    "publication_year": 1969,
+    "original_language": "en",
+    "journal": "Physical Review Letters",
+    "volume": "23",
+    "issue": "15",
+    "page_range": "880-882",
+    "doi": "10.1103/PhysRevLett.23.880",
+    "received_date": "4 August 1969",
+    "abstract_original": "A theorem of Bell, proving that certain predictions of quantum mechanics are inconsistent with the entire family of local hidden-variable theories, is generalized so as to apply to realizable experiments. A proposed extension of the experiment of Kocher and Commins, on the polarization correlation of a pair of optical photons, will provide a decisive test between quantum mechanics and local hidden-variable theories."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "880",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "VOLUME 23, NUMBER 15",
+          "markdown": null,
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0,
+            0.95,
+            1,
+            1
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "PHYSICAL REVIEW LETTERS",
+          "markdown": null,
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0,
+            0.9,
+            1,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "13 OCTOBER 1969",
+          "markdown": null,
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0,
+            0.85,
+            1,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "sible without the devoted effort of the personnel of the Orbiting Geophysical Observatory office at the Goddard Space Flight Center and at TRW.",
+          "markdown": "sible without the devoted effort of the personnel of the Orbiting Geophysical Observatory office at the Goddard Space Flight Center and at TRW.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.85,
+          "needs_manual_review": true,
+          "review_reason": "Unclear text due to OCR error"
+        },
+        {
+          "order": 5,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "*Research supported in part under National Aeronautics and Space Administration Contract No. NAS 5-9096 and Grant No. NGR 14-001-005.",
+          "markdown": "*Research supported in part under National Aeronautics and Space Administration Contract No. NAS 5-9096 and Grant No. NGR 14-001-005.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "†Present address: Department of Physics, The University of Arizona, Tucson, Ariz.",
+          "markdown": "†Present address: Department of Physics, The University of Arizona, Tucson, Ariz.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "‡Also Department of Physics.",
+          "markdown": "‡Also Department of Physics.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "¹K. P. Beuermann, C. J. Rice, E. C. Stone, and R. E. Vogt, Phys. Rev. Letters 22, 412 (1969).",
+          "markdown": "¹K. P. Beuermann, C. J. Rice, E. C. Stone, and R. E. Vogt, *Phys. Rev. Lett.* **22**, 412 (1969).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "²J. L'Heureux and P. Meyer, Can. J. Phys. 46, S892 (1968).",
+          "markdown": "²J. L'Heureux and P. Meyer, *Can. J. Phys.* **46**, S892 (1968).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "³J. Rockstroh and W. R. Webber, University of Minnesota Publication No. CR-126, 1969.",
+          "markdown": "³J. Rockstroh and W. R. Webber, University of Minnesota Publication No. CR-126, 1969.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "⁴G. M. Simnett and F. B. McDonald, Goddard Space Flight Center Report No. X-611-68-450, 1968 (to be published).",
+          "markdown": "⁴G. M. Simnett and F. B. McDonald, Goddard Space Flight Center Report No. X-611-68-450, 1968 (to be published).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "⁵W. R. Webber, J. Geophys. Res. 73, 4905 (1968).",
+          "markdown": "⁵W. R. Webber, *J. Geophys. Res.* **73**, 4905 (1968).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "⁶P. B. Abraham, K. A. Brunstein, and T. L. Cline, Phys. Rev. 150, 1088 (1966).",
+          "markdown": "⁶P. B. Abraham, K. A. Brunstein, and T. L. Cline, *Phys. Rev.* **150**, 1088 (1966).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "PROPOSED EXPERIMENT TO TEST LOCAL HIDDEN-VARIABLE THEORIES*",
+          "markdown": "# PROPOSED EXPERIMENT TO TEST LOCAL HIDDEN-VARIABLE THEORIES*",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "author",
+          "level": null,
+          "text_original": "John F. Clauser†",
+          "markdown": "John F. Clauser†",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.45,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 16,
+          "block_type": "affiliation",
+          "level": null,
+          "text_original": "Department of Physics, Columbia University, New York, New York 10027",
+          "markdown": "Department of Physics, Columbia University, New York, New York 10027",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.08,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 17,
+          "block_type": "author",
+          "level": null,
+          "text_original": "and",
+          "markdown": "and",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.06,
+            0.1,
+            0.08
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 18,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Michael A. Horne",
+          "markdown": "Michael A. Horne",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.06,
+            0.3,
+            0.08
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 19,
+          "block_type": "affiliation",
+          "level": null,
+          "text_original": "Department of Physics, Boston University, Boston, Massachusetts 02215",
+          "markdown": "Department of Physics, Boston University, Boston, Massachusetts 02215",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.06,
+            0.95,
+            0.08
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 20,
+          "block_type": "author",
+          "level": null,
+          "text_original": "and",
+          "markdown": "and",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.04,
+            0.1,
+            0.06
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 21,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Abner Shimony",
+          "markdown": "Abner Shimony",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.04,
+            0.3,
+            0.06
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 22,
+          "block_type": "affiliation",
+          "level": null,
+          "text_original": "Departments of Philosophy and Physics, Boston University, Boston, Massachusetts 02215",
+          "markdown": "Departments of Philosophy and Physics, Boston University, Boston, Massachusetts 02215",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.04,
+            0.95,
+            0.06
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 23,
+          "block_type": "author",
+          "level": null,
+          "text_original": "and",
+          "markdown": "and",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.02,
+            0.1,
+            0.04
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 24,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Richard A. Holt",
+          "markdown": "Richard A. Holt",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": "Richard A. Holt",
+          "bounding_box": [
+            0.1,
+            0.02,
+            0.3,
+            0.04
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 25,
+          "block_type": "affiliation",
+          "level": null,
+          "text_original": "Department of Physics, Harvard University, Cambridge, Massachusetts 02138",
+          "markdown": "Department of Physics, Harvard University, Cambridge, Massachusetts 02138",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.02,
+            0.95,
+            0.04
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 26,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Received 4 August 1969)",
+          "markdown": "(Received 4 August 1969)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0,
+            0.3,
+            0.02
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 27,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "A theorem of Bell, proving that certain predictions of quantum mechanics are inconsistent with the entire family of local hidden-variable theories, is generalized so as to apply to realizable experiments. A proposed extension of the experiment of Kocher and Commins, on the polarization correlation of a pair of optical photons, will provide a decisive test between quantum mechanics and local hidden-variable theories.",
+          "markdown": "A theorem of Bell, proving that certain predictions of quantum mechanics are inconsistent with the entire family of local hidden-variable theories, is generalized so as to apply to realizable experiments. A proposed extension of the experiment of Kocher and Commins, on the polarization correlation of a pair of optical photons, will provide a decisive test between quantum mechanics and local hidden-variable theories.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 28,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Einstein, Podolsky, and Rosen (EPR) in a classic paper¹ presented a paradox which led them to infer that quantum mechanics is not a complete theory.",
+          "markdown": "## Einstein, Podolsky, and Rosen (EPR) in a classic paper¹ presented a paradox which led them to infer that quantum mechanics is not a complete theory.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 29,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "They concluded that the quantum mechanical description of a physical system should be supplemented by postulating the existence of \"hidden variables,\" the specification of which would predetermine the result of measuring any observable of the system. They believed the predictions of quantum mechanics to be correct, but only as consequences of statistical distributions of the hidden variables. Bohr² argued in reply that no paradox can be derived from the assumption of completeness if one recognizes that quantum mechanics concerns only the interaction of microsystems with experimental apparatus and not their intrinsic character.",
+          "markdown": "They concluded that the quantum mechanical description of a physical system should be supplemented by postulating the existence of \"hidden variables,\" the specification of which would predetermine the result of measuring any observable of the system. They believed the predictions of quantum mechanics to be correct, but only as consequences of statistical distributions of the hidden variables. Bohr² argued in reply that no paradox can be derived from the assumption of completeness if one recognizes that quantum mechanics concerns only the interaction of microsystems with experimental apparatus and not their intrinsic character.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 30,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "There is an extensive literature purporting to prove the inconsistency of hidden-variable theories with the statistical predictions of quantum mechanics.",
+          "markdown": "## There is an extensive literature purporting to prove the inconsistency of hidden-variable theories with the statistical predictions of quantum mechanics.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 31,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "These proofs, though mathematically valid, rest upon physically unrealistic postulates.³ Bell⁴ succeeded in replacing these postulates by a physically reasonable condition of locality. He showed that in a Gedankenexperiment of Bohm⁵ (a variant of that of EPR) no local hidden-variable theory can reproduce all of the statistical predictions of quantum mechanics. This result is somewhat ironical in view of Einstein's convictions⁶ that quantum mechanical predictions concerning spatially separated systems are incompatible with his conditions for locality unless hidden variables exist.",
+          "markdown": "These proofs, though mathematically valid, rest upon physically unrealistic postulates.³ Bell⁴ succeeded in replacing these postulates by a physically reasonable condition of locality. He showed that in a Gedankenexperiment of Bohm⁵ (a variant of that of EPR) no local hidden-variable theory can reproduce all of the statistical predictions of quantum mechanics. This result is somewhat ironical in view of Einstein's convictions⁶ that quantum mechanical predictions concerning spatially separated systems are incompatible with his conditions for locality unless hidden variables exist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 32,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Bell's theorem has profound implications in that it points to a decisive experimental test of the entire family of local hidden-variable theories.",
+          "markdown": "## Bell's theorem has profound implications in that it points to a decisive experimental test of the entire family of local hidden-variable theories.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 33,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The aim of this paper is to propose explicitly such an experiment. For this purpose, we first present a generalization of Bell's theorem which applies to realizable experiments. Second, we indicate that neither of the experimental realizations⁷ of Bohm's Gedankenexperiment has produced evidence against local hidden-variable theories, even though the results of both are compatible with quantum mechanical predictions. Third, we show that a simple extension of one of these experiments can provide a decisive test.",
+          "markdown": "The aim of this paper is to propose explicitly such an experiment. For this purpose, we first present a generalization of Bell's theorem which applies to realizable experiments. Second, we indicate that neither of the experimental realizations⁷ of Bohm's Gedankenexperiment has produced evidence against local hidden-variable theories, even though the results of both are compatible with quantum mechanical predictions. Third, we show that a simple extension of one of these experiments can provide a decisive test.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0,
+            0.95,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# VOLUME 23, NUMBER 15\n\n## PHYSICAL REVIEW LETTERS\n\n### 13 OCTOBER 1969\n\nsible without the devoted effort of the personnel of the Orbiting Geophysical Observatory office at the Goddard Space Flight Center and at TRW.\n\n*Research supported in part under National Aeronautics and Space Administration Contract No. NAS 5-9096 and Grant No. NGR 14-001-005.\n\n†Present address: Department of Physics, The University of Arizona, Tucson, Ariz.\n\n‡Also Department of Physics.\n\n¹K. P. Beuermann, C. J. Rice, E. C. Stone, and R. E. Vogt, *Phys. Rev. Lett.* **22**, 412 (1969).\n\n²J. L'Heureux and P. Meyer, *Can. J. Phys.* **46**, S892 (1968).\n\n³J. Rockstroh and W. R. Webber, University of Minnesota Publication No. CR-126, 1969.\n\n⁴G. M. Simnett and F. B. McDonald, Goddard Space Flight Center Report No. X-611-68-450, 1968 (to be published).\n\n⁵W. R. Webber, *J. Geophys. Res.* **73**, 4905 (1968).\n\n⁶P. B. Abraham, K. A. Brunstein, and T. L. Cline, *Phys. Rev.* **150**, 1088 (1966).\n\n# PROPOSED EXPERIMENT TO TEST LOCAL HIDDEN-VARIABLE THEORIES*\n\nJohn F. Clauser†\n\nDepartment of Physics, Columbia University, New York, New York 10027\n\nand\n\nMichael A. Horne\n\nDepartment of Physics, Boston University, Boston, Massachusetts 02215\n\nand\n\nAbner Shimony\n\nDepartments of Philosophy and Physics, Boston University, Boston, Massachusetts 02215\n\nand\n\nRichard A. Holt\n\nDepartment of Physics, Harvard University, Cambridge, Massachusetts 02138\n\n(Received 4 August 1969)\n\nA theorem of Bell, proving that certain predictions of quantum mechanics are inconsistent with the entire family of local hidden-variable theories, is generalized so as to apply to realizable experiments. A proposed extension of the experiment of Kocher and Commins, on the polarization correlation of a pair of optical photons, will provide a decisive test between quantum mechanics and local hidden-variable theories.\n\n## Einstein, Podolsky, and Rosen (EPR) in a classic paper¹ presented a paradox which led them to infer that quantum mechanics is not a complete theory.\n\nThey concluded that the quantum mechanical description of a physical system should be supplemented by postulating the existence of \"hidden variables,\" the specification of which would predetermine the result of measuring any observable of the system. They believed the predictions of quantum mechanics to be correct, but only as consequences of statistical distributions of the hidden variables. Bohr² argued in reply that no paradox can be derived from the assumption of completeness if one recognizes that quantum mechanics concerns only the interaction of microsystems with experimental apparatus and not their intrinsic character.\n\n## There is an extensive literature purporting to prove the inconsistency of hidden-variable theories with the statistical predictions of quantum mechanics.\n\nThese proofs, though mathematically valid, rest upon physically unrealistic postulates.³ Bell⁴ succeeded in replacing these postulates by a physically reasonable condition of locality. He showed that in a Gedankenexperiment of Bohm⁵ (a variant of that of EPR) no local hidden-variable theory can reproduce all of the statistical predictions of quantum mechanics. This result is somewhat ironical in view of Einstein's convictions⁶ that quantum mechanical predictions concerning spatially separated systems are incompatible with his conditions for locality unless hidden variables exist.\n\n## Bell's theorem has profound implications in that it points to a decisive experimental test of the entire family of local hidden-variable theories.\n\nThe aim of this paper is to propose explicitly such an experiment. For this purpose, we first present a generalization of Bell's theorem which applies to realizable experiments. Second, we indicate that neither of the experimental realizations⁷ of Bohm's Gedankenexperiment has produced evidence against local hidden-variable theories, even though the results of both are compatible with quantum mechanical predictions. Third, we show that a simple extension of one of these experiments can provide a decisive test.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Minor OCR error in first paragraph ('sible' instead of 'possible')",
+        "Two-column layout detected; text blocks correctly ordered"
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "881",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "VOLUME 23, NUMBER 15",
+          "markdown": null,
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0,
+            0.95,
+            1,
+            1
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "PHYSICAL REVIEW LETTERS",
+          "markdown": null,
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0,
+            0.9,
+            1,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "13 OCTOBER 1969",
+          "markdown": null,
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0,
+            0.85,
+            1,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Generalization of Bell's theorem.—",
+          "markdown": "## Generalization of Bell's theorem.—",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Consider an ensemble of correlated pairs of particles moving so that one enters apparatus Iₐ and the other apparatus IIₑ, where a and b are adjustable apparatus parameters. In each apparatus a particle must select one of two channels labeled +1 and -1. Let the results of these selections be represented by A(a) and B(b), each of which equals ±1 according as the first or second channel is selected.",
+          "markdown": "Consider an ensemble of correlated pairs of particles moving so that one enters apparatus Iₐ and the other apparatus IIₑ, where a and b are adjustable apparatus parameters. In each apparatus a particle must select one of two channels labeled +1 and -1. Let the results of these selections be represented by A(a) and B(b), each of which equals ±1 according as the first or second channel is selected.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Suppose now that a statistical correlation of A(a) and B(b) is due to information carried by and localized within each particle, and that at some time in the past the particles constituting one pair were in contact and communication regarding this information. The information, which emphatically is not quantum mechanical, is part of the content of a set of hidden variables, denoted collectively by λ. The results of the two selections are then to be deterministic functions A(a, λ) and B(b, λ). Locality reasonably requires A(a, λ) to be independent of the parameter b and B(b, λ) to be likewise independent of a, since the two selections may occur at an arbitrarily great distance from each other. Finally, since the pair of particles is generally emitted by a source in a manner physically independent of the adjustable parameters a and b, we assume that the normalized probability distribution ρ(λ) characterizing the ensemble is independent of a and b.",
+          "markdown": "Suppose now that a statistical correlation of A(a) and B(b) is due to information carried by and localized within each particle, and that at some time in the past the particles constituting one pair were in contact and communication regarding this information. The information, which emphatically is not quantum mechanical, is part of the content of a set of hidden variables, denoted collectively by λ. The results of the two selections are then to be deterministic functions A(a, λ) and B(b, λ). Locality reasonably requires A(a, λ) to be independent of the parameter b and B(b, λ) to be likewise independent of a, since the two selections may occur at an arbitrarily great distance from each other. Finally, since the pair of particles is generally emitted by a source in a manner physically independent of the adjustable parameters a and b, we assume that the normalized probability distribution ρ(λ) characterizing the ensemble is independent of a and b.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Defining the correlation function P(a, b) ≡ ∫ᵣA(a, λ)B(b, λ)ρ(λ)dλ, where Γ is the total λ space, we have",
+          "markdown": "Defining the correlation function $P(a, b) \\equiv \\int_\\Gamma A(a, \\lambda)B(b, \\lambda)\\rho(\\lambda)d\\lambda$, where $\\Gamma$ is the total $\\lambda$ space, we have",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "|P(a, b) - P(a, c)| ≤ ∫ᵣ|A(a, λ)B(b, λ) - A(a, λ)B(c, λ)|ρ(λ)dλ = ∫ᵣ|A(a, λ)B(b, λ)|[1 - B(b, λ)B(c, λ)]ρ(λ)dλ",
+          "markdown": "$$|P(a, b) - P(a, c)| \\leq \\int_\\Gamma |A(a, \\lambda)B(b, \\lambda) - A(a, \\lambda)B(c, \\lambda)|\\rho(\\lambda)d\\lambda = \\int_\\Gamma |A(a, \\lambda)B(b, \\lambda)|[1 - B(b, \\lambda)B(c, \\lambda)]\\rho(\\lambda)d\\lambda$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "= ∫ᵣ[1 - B(b, λ)B(c, λ)]ρ(λ)dλ = 1 - ∫ᵣB(b, λ)B(c, λ)ρ(λ)dλ.",
+          "markdown": "$$= \\int_\\Gamma [1 - B(b, \\lambda)B(c, \\lambda)]\\rho(\\lambda)d\\lambda = 1 - \\int_\\Gamma B(b, \\lambda)B(c, \\lambda)\\rho(\\lambda)d\\lambda.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Suppose that for some b' and b we have P(b', b) = 1 - δ, where 0 ≤ δ ≤ 1. Experimentally interesting cases will have δ close to but not equal to zero. Here we avoid Bell's experimentally unrealistic restriction that for some pair of parameters b' and b there is perfect correlation (i.e., δ = 0). Dividing Γ into two regions Γ₊ and Γ₋ such that Γ₊ = {λ | A(b', λ) = ±B(b, λ)}, we have ∫ᵣ_ρ(λ)dλ = ½δ. Hence,",
+          "markdown": "Suppose that for some $b'$ and $b$ we have $P(b', b) = 1 - \\delta$, where $0 \\leq \\delta \\leq 1$. Experimentally interesting cases will have $\\delta$ close to but not equal to zero. Here we avoid Bell's experimentally unrealistic restriction that for some pair of parameters $b'$ and $b$ there is perfect correlation (i.e., $\\delta = 0$). Dividing $\\Gamma$ into two regions $\\Gamma_+$ and $\\Gamma_-$ such that $\\Gamma_+ = \\{\\lambda \\mid A(b', \\lambda) = \\pm B(b, \\lambda)\\}$, we have $\\int_{\\Gamma_+} \\rho(\\lambda)d\\lambda = \\frac{1}{2}\\delta$. Hence,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "∫ᵣB(b, λ)B(c, λ)ρ(λ)dλ = ∫ᵣA(b', λ)B(c, λ)ρ(λ)dλ - 2∫ᵣ_A(b', λ)B(c, λ)ρ(λ)dλ",
+          "markdown": "$$\\int_\\Gamma B(b, \\lambda)B(c, \\lambda)\\rho(\\lambda)d\\lambda = \\int_\\Gamma A(b', \\lambda)B(c, \\lambda)\\rho(\\lambda)d\\lambda - 2\\int_{\\Gamma_-} A(b', \\lambda)B(c, \\lambda)\\rho(\\lambda)d\\lambda$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "≥ P(b', c) - 2∫ᵣ_|A(b', λ)B(c, λ)|ρ(λ)dλ = P(b', c) - δ,",
+          "markdown": "$$\\geq P(b', c) - 2\\int_{\\Gamma_-} |A(b', \\lambda)B(c, \\lambda)|\\rho(\\lambda)d\\lambda = P(b', c) - \\delta,$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.15
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "and therefore",
+          "markdown": "and therefore",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.2,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "|P(a, b) - P(a, c)| ≤ 2 - P(b', b) - P(b', c). (1a)",
+          "markdown": "$$|P(a, b) - P(a, c)| \\leq 2 - P(b', b) - P(b', c). \\tag{1a}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In the experiment proposed below P(a, b) depends only on the parameter difference b - a. Defining α ≡ b - a, β ≡ c - b, and γ ≡ b - b', we have",
+          "markdown": "In the experiment proposed below $P(a, b)$ depends only on the parameter difference $b - a$. Defining $\\alpha \\equiv b - a$, $\\beta \\equiv c - b$, and $\\gamma \\equiv b - b'$, we have",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 16,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "|P(α) - P(α + β)| ≤ 2 - P(γ) - P(β + γ). (1b)",
+          "markdown": "$$|P(\\alpha) - P(\\alpha + \\beta)| \\leq 2 - P(\\gamma) - P(\\beta + \\gamma). \\tag{1b}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.4,
+            1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 17,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In principle entire measuring devices, each consisting of a filter followed by a detector, could be used for Iₐ and IIₑ, and the values ±1 of A(a) and B(b) would denote detection or nondetection of the particles. Inequalities (1) would then apply directly to experimental counting rates. Unfortunately, if the particles are optical photons (as in the experiment proposed below) no practical tests of (1) can presently be performed in this way, because available photoelectric efficiencies are rather small. We shall therefore henceforth interpret A(a) = ±1 and B(b) = ±1 to mean emergence or nonemergence of the photons from the respective filters. Also the filters will be taken to be linear polarization filters, and a and b will represent their orientations. It will be convenient to introduce an exceptional value ∞ of the parameter a (and likewise of b) to represent the removal of a polarizer; clearly, A(∞) and B(∞) necessarily equal +1. Since P(a, b) is an emergence correlation function, in order to derive an experimental prediction from (1) an additional assumption⁸ must be made: that if a pair of photons emerges from Iₐ, IIₑ the probability of their joint detection is independent of a and b.",
+          "markdown": "In principle entire measuring devices, each consisting of a filter followed by a detector, could be used for Iₐ and IIₑ, and the values ±1 of A(a) and B(b) would denote detection or nondetection of the particles. Inequalities (1) would then apply directly to experimental counting rates. Unfortunately, if the particles are optical photons (as in the experiment proposed below) no practical tests of (1) can presently be performed in this way, because available photoelectric efficiencies are rather small. We shall therefore henceforth interpret A(a) = ±1 and B(b) = ±1 to mean emergence or nonemergence of the photons from the respective filters. Also the filters will be taken to be linear polarization filters, and a and b will represent their orientations. It will be convenient to introduce an exceptional value $\\infty$ of the parameter a (and likewise of b) to represent the removal of a polarizer; clearly, $A(\\infty)$ and $B(\\infty)$ necessarily equal +1. Since $P(a, b)$ is an emergence correlation function, in order to derive an experimental prediction from (1) an additional assumption⁸ must be made: that if a pair of photons emerges from Iₐ, IIₑ the probability of their joint detection is independent of a and b.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 18,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Then if the flux into Iₐ, IIₑ is a constant independent of a and b, the rate of coincidence detection R(a, b) will be proportional to w[A(a)₊, B(b)₊], where w[A(a)₊, B(b)₊] is the probability that A(a) = ±1 and B(b) = ±1. Letting R₀ = R(∞,",
+          "markdown": "Then if the flux into Iₐ, IIₑ is a constant independent of a and b, the rate of coincidence detection $R(a, b)$ will be proportional to $w[A(a)_+, B(b)_+]$, where $w[A(a)_+, B(b)_+]$ is the probability that $A(a) = \\pm 1$ and $B(b) = \\pm 1$. Letting $R_0 = R(\\infty,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.95,
+            0.95,
+            1
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Incomplete text due to OCR error"
+        },
+        {
+          "order": 19,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$\\infty$), $R_1(a) = R(a, \\infty)$, and $R_2(b) = R(\\infty, b)$, making use of the evident formulas",
+          "markdown": "$$\\infty$), $R_1(a) = R(a, \\infty)$, and $R_2(b) = R(\\infty, b)$, making use of the evident formulas",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Incomplete text due to OCR error"
+        },
+        {
+          "order": 20,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "P(a, b) = w[A(a)_+, B(b)_+] - w[A(a)_+, B(b)_-] - w[A(a)_-, B(b)_+] + w[A(a)_-, B(b)_-]",
+          "markdown": "$$P(a, b) = w[A(a)_+, B(b)_+] - w[A(a)_+, B(b)_-] - w[A(a)_-, B(b)_+] + w[A(a)_-, B(b)_-]$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 21,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "and",
+          "markdown": "and",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.75,
+            0.6,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 22,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "w[A(a)_+, B(\\infty)_+] = w[A(a)_+, B(b)_+] + w[A(a)_+, B(b)_-],",
+          "markdown": "$$w[A(a)_+, B(\\infty)_+] = w[A(a)_+, B(b)_+] + w[A(a)_+, B(b)_-],$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.6,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 23,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "and of similar formulas for $w[A(\\infty)_+, B(b)_+]$ and $w[A(\\infty)_+, B(\\infty)_+]$, we obtain",
+          "markdown": "and of similar formulas for $w[A(\\infty)_+, B(b)_+]$ and $w[A(\\infty)_+, B(\\infty)_+]$, we obtain",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 24,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "P(a, b) = \\frac{4R(a, b)}{R_0} - \\frac{2R_1(a)}{R_0} - \\frac{2R_2(b)}{R_0} + 1.",
+          "markdown": "$$P(a, b) = \\frac{4R(a, b)}{R_0} - \\frac{2R_1(a)}{R_0} - \\frac{2R_2(b)}{R_0} + 1.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 25,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We can now express (1) in terms of experimental quantities, namely coincidence rates with both polarizers in, and with one and then the other removed. If $R_1(a)$ and $R_2(b)$ are found experimentally to be constants $R_1$ and $R_2$, the result is",
+          "markdown": "We can now express (1) in terms of experimental quantities, namely coincidence rates with both polarizers in, and with one and then the other removed. If $R_1(a)$ and $R_2(b)$ are found experimentally to be constants $R_1$ and $R_2$, the result is",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.5,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 26,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "|R(a, b) - R(a, c)| + R(b', b) + R(b', c) - R_1 - R_2 ≤ 0. (2a)",
+          "markdown": "$$|R(a, b) - R(a, c)| + R(b', b) + R(b', c) - R_1 - R_2 \\leq 0. \\tag{2a}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 27,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In the special case in which $P(a, b) = P(a-b)$, (2a) becomes",
+          "markdown": "In the special case in which $P(a, b) = P(a-b)$, (2a) becomes",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.35,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 28,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "|R(α) - R(α + β)| + R(γ) + R(β + γ) - R_1 - R_2 ≤ 0. (2b)",
+          "markdown": "$$|R(\\alpha) - R(\\alpha + \\beta)| + R(\\gamma) + R(\\beta + \\gamma) - R_1 - R_2 \\leq 0. \\tag{2b}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.25,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 29,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Existing experimental results.—",
+          "markdown": "## Existing experimental results.—",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 30,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bohm's Gedankenexperiment, involving correlated spin-½ particles, has not been performed, nor does it appear to be easily realizable. Two related experiments have been performed on polarization correlation of photons. Wu and Shaknov (WS)⁷ examined polarization correlation of 0.5-MeV γ rays emitted during positronium annihilation.⁸ Although the polarization state of the pair is suitable for our purposes, their high energy requires the use of Compton polarimeters. Thus, instead of directly examining the polarization correlation, WS examined the polarization-dependent joint distribution for Compton scattering of the pair. Inequality (2) cannot be immediately applied to such a scattering experiment because neither photon is forced to make a binary decision. However, a suitable binary result may be imposed by partitioning the scattering sphere into two arbitrary regions, denoted, respectively, by ±1, and by letting the adjustable parameter a (or b) designate the particular mode of partitioning. But as one can see¹⁰ by examining the joint scattering distribution,¹¹ no such partitioning can yield a correlation in violation of (2). The essential difficulty is that the direction of Compton scattering of a photon is a statistically weak index of its linear polarization.",
+          "markdown": "Bohm's Gedankenexperiment, involving correlated spin-½ particles, has not been performed, nor does it appear to be easily realizable. Two related experiments have been performed on polarization correlation of photons. Wu and Shaknov (WS)⁷ examined polarization correlation of 0.5-MeV γ rays emitted during positronium annihilation.⁸ Although the polarization state of the pair is suitable for our purposes, their high energy requires the use of Compton polarimeters. Thus, instead of directly examining the polarization correlation, WS examined the polarization-dependent joint distribution for Compton scattering of the pair. Inequality (2) cannot be immediately applied to such a scattering experiment because neither photon is forced to make a binary decision. However, a suitable binary result may be imposed by partitioning the scattering sphere into two arbitrary regions, denoted, respectively, by ±1, and by letting the adjustable parameter a (or b) designate the particular mode of partitioning. But as one can see¹⁰ by examining the joint scattering distribution,¹¹ no such partitioning can yield a correlation in violation of (2). The essential difficulty is that the direction of Compton scattering of a photon is a statistically weak index of its linear polarization.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# VOLUME 23, NUMBER 15\n\n## PHYSICAL REVIEW LETTERS\n\n### 13 OCTOBER 1969\n\n## Generalization of Bell's theorem.—\n\nConsider an ensemble of correlated pairs of particles moving so that one enters apparatus Iₐ and the other apparatus IIₑ, where a and b are adjustable apparatus parameters. In each apparatus a particle must select one of two channels labeled +1 and -1. Let the results of these selections be represented by A(a) and B(b), each of which equals ±1 according as the first or second channel is selected.\n\nSuppose now that a statistical correlation of A(a) and B(b) is due to information carried by and localized within each particle, and that at some time in the past the particles constituting one pair were in contact and communication regarding this information. The information, which emphatically is not quantum mechanical, is part of the content of a set of hidden variables, denoted collectively by λ. The results of the two selections are then to be deterministic functions A(a, λ) and B(b, λ). Locality reasonably requires A(a, λ) to be independent of the parameter b and B(b, λ) to be likewise independent of a, since the two selections may occur at an arbitrarily great distance from each other. Finally, since the pair of particles is generally emitted by a source in a manner physically independent of the adjustable parameters a and b, we assume that the normalized probability distribution ρ(λ) characterizing the ensemble is independent of a and b.\n\nDefining the correlation function $P(a, b) \\equiv \\int_\\Gamma A(a, \\lambda)B(b, \\lambda)\\rho(\\lambda)d\\lambda$, where $\\Gamma$ is the total $\\lambda$ space, we have\n\n$$|P(a, b) - P(a, c)| \\leq \\int_\\Gamma |A(a, \\lambda)B(b, \\lambda) - A(a, \\lambda)B(c, \\lambda)|\\rho(\\lambda)d\\lambda = \\int_\\Gamma |A(a, \\lambda)B(b, \\lambda)|[1 - B(b, \\lambda)B(c, \\lambda)]\\rho(\\lambda)d\\lambda$$\n\n$$= \\int_\\Gamma [1 - B(b, \\lambda)B(c, \\lambda)]\\rho(\\lambda)d\\lambda = 1 - \\int_\\Gamma B(b, \\lambda)B(c, \\lambda)\\rho(\\lambda)d\\lambda.$$ (1a)\n\nSuppose that for some $b'$ and $b$ we have $P(b', b) = 1 - \\delta$, where $0 \\leq \\delta \\leq 1$. Experimentally interesting cases will have $\\delta$ close to but not equal to zero. Here we avoid Bell's experimentally unrealistic restriction that for some pair of parameters $b'$ and $b$ there is perfect correlation (i.e., $\\delta = 0$). Dividing $\\Gamma$ into two regions $\\Gamma_+$ and $\\Gamma_-$ such that $\\Gamma_+ = \\{\\lambda \\mid A(b', \\lambda) = \\pm B(b, \\lambda)\\}$, we have $\\int_{\\Gamma_+} \\rho(\\lambda)d\\lambda = \\frac{1}{2}\\delta$. Hence,\n\n$$\\int_\\Gamma B(b, \\lambda)B(c, \\lambda)\\rho(\\lambda)d\\lambda = \\int_\\Gamma A(b', \\lambda)B(c, \\lambda)\\rho(\\lambda)d\\lambda - 2\\int_{\\Gamma_-} A(b', \\lambda)B(c, \\lambda)\\rho(\\lambda)d\\lambda$$\n\n$$\\geq P(b', c) - 2\\int_{\\Gamma_-} |A(b', \\lambda)B(c, \\lambda)|\\rho(\\lambda)d\\lambda = P(b', c) - \\delta,$$\n\nand therefore\n\n$$|P(a, b) - P(a, c)| \\leq 2 - P(b', b) - P(b', c). \\tag{1a}$$ (1a)\n\nIn the experiment proposed below $P(a, b)$ depends only on the parameter difference $b - a$. Defining $\\alpha \\equiv b - a$, $\\beta \\equiv c - b$, and $\\gamma \\equiv b - b'$, we have\n\n$$|P(\\alpha) - P(\\alpha + \\beta)| \\leq 2 - P(\\gamma) - P(\\beta + \\gamma). \\tag{1b}$$ (1b)\n\nIn principle entire measuring devices, each consisting of a filter followed by a detector, could be used for Iₐ and IIₑ, and the values ±1 of A(a) and B(b) would denote detection or nondetection of the particles. Inequalities (1) would then apply directly to experimental counting rates. Unfortunately, if the particles are optical photons (as in the experiment proposed below) no practical tests of (1) can presently be performed in this way, because available photoelectric efficiencies are rather small. We shall therefore henceforth interpret A(a) = ±1 and B(b) = ±1 to mean emergence or nonemergence of the photons from the respective filters. Also the filters will be taken to be linear polarization filters, and a and b will represent their orientations. It will be be convenient to introduce an exceptional value $\\infty$ of the parameter a (and likewise of b) to represent the removal of a polarizer; clearly, $A(\\infty)$ and $B(\\infty)$ necessarily equal +1. Since $P(a, b)$ is an emergence correlation function, in order to derive an experimental prediction from (1) an additional assumption⁸ must be made: that if a pair of photons emerges from Iₐ, IIₑ the probability of their joint detection is independent of a and b.\n\nThen if the flux into Iₐ, IIₑ is a constant independent of a and b, the rate of coincidence detection $R(a, b)$ will be proportional to $w[A(a)_+, B(b)_+]$, where $w[A(a)_+, B(b)_+]$ is the probability that $A(a) = \\pm 1$ and $B(b) = \\pm 1$. Letting $R_0 = R(\\infty,\n\n## ∞\n\n), $R_1(a) = R(a, \\infty)$, and $R_2(b) = R(\\infty, b)$, making use of the evident formulas\n\n$$P(a, b) = w[A(a)_+, B(b)_+] - w[A(a)_+, B(b)_-] - w[A(a)_-, B(b)_+] + w[A(a)_-, B(b)_-]$$\n\nand\n\n$$w[A(a)_+, B(\\infty)_+] = w[A(a)_+, B(b)_+] + w[A(a)_+, B(b)_-],$$\n\nand of similar formulas for $w[A(\\infty)_+, B(b)_+]$ and $w[A(\\infty)_+, B(\\infty)_+]$, we obtain\n\n$$P(a, b) = \\frac{4R(a, b)}{R_0} - \\frac{2R_1(a)}{R_0} - \\frac{2R_2(b)}{R_0} + 1.$$ (2a)\n\nWe can now express (1) in terms of experimental quantities, namely coincidence rates with both polarizers in, and with one and then the other removed. If $R_1(a)$ and $R_2(b)$ are found experimentally to be constants $R_1$ and $R_2$, the result is\n\n$$|R(a, b) - R(a, c)| + R(b', b) + R(b', c) - R_1 - R_2 \\leq 0. \\tag{2a}$$ (2a)\n\nIn the special case in which $P(a, b) = P(a-b)$, (2a) becomes\n\n$$|R(\\alpha) - R(\\alpha + \\beta)| + R(\\gamma) + R(\\beta + \\gamma) - R_1 - R_2 \\leq 0. \\tag{2b}$$ (2b)\n\n## Existing experimental results.—\n\nBohm's Gedankenexperiment, involving correlated spin-½ particles, has not been performed, nor does it appear to be easily realizable. Two related experiments have been performed on polarization correlation of photons. Wu and Shaknov (WS)⁷ examined polarization correlation of 0.5-MeV γ rays emitted during positronium annihilation.⁸ Although the polarization state of the pair is suitable for our purposes, their high energy requires the use of Compton polarimeters. Thus, instead of directly examining the polarization correlation, WS examined the polarization-dependent joint distribution for Compton scattering of the pair. Inequality (2) cannot be immediately applied to such a scattering experiment because neither photon is forced to make a binary decision. However, a suitable binary result may be imposed by partitioning the scattering sphere into two arbitrary regions, denoted, respectively, by ±1, and by letting the adjustable parameter a (or b) designate the particular mode of partitioning. But as one can see¹⁰ by examining the joint scattering distribution,¹¹ no such partitioning can yield a correlation in violation of (2). The essential difficulty is that the direction of Compton scattering of a photon is a statistically weak index of its linear polarization.",
+      "word_count": 1050,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in equations",
+        "Two-column layout detected; text blocks correctly ordered",
+        "Incomplete text in middle of page due to OCR error (R(a, b) definition)"
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "882",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "VOLUME 23, NUMBER 15",
+          "markdown": null,
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0,
+            0.95,
+            1,
+            1
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "PHYSICAL REVIEW LETTERS",
+          "markdown": null,
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": "## PHYSICAL REVIEW LETTERS",
+          "bounding_box": [
+            0,
+            0.9,
+            1,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "13 OCTOBER 1969",
+          "markdown": null,
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0,
+            0.85,
+            1,
+            0.9
+          ],
+          "ocr_confidence": 1,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The other experiment, that of Kocher and Commins (KC),⁷ involved polarization correlation of photon pairs emitted in the 6¹S₀ - 4¹P₁ - 4¹S₀ cascade of calcium. Since the two photons are in the visible, filters of the Polaroid type could be used. The photons impinged normally upon a pair of these polarizers whose planes were parallel, and the polarization correlation was measured with standard coincidence techniques. With this arrangement inequality (2b) is applicable upon assumption of a local hidden-variable theory. However, the data obtained by KC do not suffice to test (2b), because their polarizers were not highly efficient and were placed only in the relative orientations 0° and 90°.",
+          "markdown": "The other experiment, that of Kocher and Commins (KC),⁷ involved polarization correlation of photon pairs emitted in the $6^1S_0 - 4^1P_1 - 4^1S_0$ cascade of calcium. Since the two photons are in the visible, filters of the Polaroid type could be used. The photons impinged normally upon a pair of these polarizers whose planes were parallel, and the polarization correlation was measured with standard coincidence techniques. With this arrangement inequality (2b) is applicable upon assumption of a local hidden-variable theory. However, the data obtained by KC do not suffice to test (2b), because their polarizers were not highly efficient and were placed only in the relative orientations $0°$ and $90°$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Proposed experiment.—",
+          "markdown": "## Proposed experiment.—",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "A decisive test can be obtained by modifying the KC experiment to include observations at two appropriate relative orientations of the polarizers, and also with one and then the other removed. For realizable apparatus, quantum mechanics predicts violation of inequality (2b).",
+          "markdown": "A decisive test can be obtained by modifying the KC experiment to include observations at two appropriate relative orientations of the polarizers, and also with one and then the other removed. For realizable apparatus, quantum mechanics predicts violation of inequality (2b).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Define ε_M^i as the efficiency of the polarizer i (i=I, II) for light polarized parallel to the polarizer axis and ε_m^i as that for light perpendicularly polarized. Consider a point source and filter-detector assemblies, each of which gathers the photons emitted into a cone of half-angle θ. Then for a J=0 → J=1 → J=0 electric-dipole cascade (0-1-0) the quantum mechanical predictions for the counting rates are¹⁰",
+          "markdown": "Define $\\epsilon_M^i$ as the efficiency of the polarizer $i$ ($i$=I, II) for light polarized parallel to the polarizer axis and $\\epsilon_m^i$ as that for light perpendicularly polarized. Consider a point source and filter-detector assemblies, each of which gathers the photons emitted into a cone of half-angle $\\theta$. Then for a $J=0 \\rightarrow J=1 \\rightarrow J=0$ electric-dipole cascade (0-1-0) the quantum mechanical predictions for the counting rates are¹⁰",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "R(φ)/R₀ = ¼(ε_M^∥ + ε_m^∥)(ε_M^∥ + ε_m^∥) + ¼(ε_M^∥ - ε_m^∥)(ε_M^∥ - ε_m^∥)F₁(θ) cos 2φ,",
+          "markdown": "$$\\frac{R(\\varphi)}{R_0} = \\frac{1}{4}(\\epsilon_M^{\\parallel} + \\epsilon_m^{\\parallel})(\\epsilon_M^{\\parallel} + \\epsilon_m^{\\parallel}) + \\frac{1}{4}(\\epsilon_M^{\\parallel} - \\epsilon_m^{\\parallel})(\\epsilon_M^{\\parallel} - \\epsilon_m^{\\parallel})F_1(\\theta) \\cos 2\\varphi,$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "R₁/R₀ = ½(ε_M^∥ + ε_m^∥), R₂/R₀ = ½(ε_M^∥ + ε_m^∥). (3)",
+          "markdown": "$$R_1/R_0 = \\frac{1}{2}(\\epsilon_M^{\\parallel} + \\epsilon_m^{\\parallel}), \\quad R_2/R_0 = \\frac{1}{2}(\\epsilon_M^{\\parallel} + \\epsilon_m^{\\parallel}). \\tag{3}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Here φ is the angle between the polarizer axes,",
+          "markdown": "Here $\\varphi$ is the angle between the polarizer axes,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "F₁(θ) = 2G₁²(θ)[G₂²(θ) + ½G₃²(θ)]⁻¹,",
+          "markdown": "$$F_1(\\theta) = 2G_1^2(\\theta)[G_2^2(\\theta) + \\frac{1}{2}G_3^2(\\theta)]^{-1},$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "and",
+          "markdown": "and",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.1,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "G₁(ϑ) = ¼(4/7 - cos ϑ + sin²ϑ - ⅓ cos³ϑ), G₂(ϑ) = ⅔ - ⅓(sin²ϑ + 2) cos ϑ, G₃(ϑ) = 4/3 - cos ϑ - ⅓ cos³ϑ.",
+          "markdown": "$$G _ { 1 } ( \\vartheta ) = \\frac { 1 } { 4 } ( \\frac { 4 } { 7 } - \\cos \\vartheta + \\sin ^ { 2 } \\vartheta - \\frac { 1 } { 3 } \\cos ^ { 3 } \\vartheta ) , \\quad G _ { 2 } ( \\vartheta ) = \\frac { 2 } { 3 } - \\frac { 1 } { 3 } ( \\sin ^ { 2 } \\vartheta + 2 ) \\cos \\vartheta , \\quad G _ { 3 } ( \\vartheta ) = \\frac { 4 } { 3 } - \\cos \\vartheta - \\frac { 1 } { 3 } \\cos ^ { 3 } \\vartheta .$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The predictions for a 0-1-1 electric-dipole cascade (and for a 1-1-0, provided the initial statistical state of the atom is isotropic) are obtained from (3) upon replacing F₁(θ) with -F₂(θ) where",
+          "markdown": "The predictions for a 0-1-1 electric-dipole cascade (and for a 1-1-0, provided the initial statistical state of the atom is isotropic) are obtained from (3) upon replacing $F_1(\\theta)$ with $-F_2(\\theta)$ where",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "F₂(θ) = 2G₁²(θ)[2G₂(θ)G₃(θ) + ½G₃²(θ)]⁻¹.",
+          "markdown": "$$F _ { 2 } ( \\vartheta ) = 2 G _ { 1 } ^ { 2 } ( \\vartheta ) [ 2 G _ { 2 } ( \\vartheta ) G _ { 3 } ( \\vartheta ) + \\frac { 1 } { 2 } G _ { 3 } ^ { 2 } ( \\vartheta ) ] ^ { - 1 } .$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 16,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "For sufficiently efficient polarizers one easily sees that there exist sets of relative orientations for which the quantum mechanical counting rates violate Inequality (2b). The greatest violation always occurs at α = 22.5°, β = 45°, and γ = 157.5° for the 0-1-0 cascade and at α = 67.5°, β = 135°, and γ = 112.5° for the 0-1-1 cascade. Note that in each case the four angles α, α + β, γ, and β + γ which occur in Inequality (2b) characterize only two distinct relative orientations of the polarizers, namely 22.5° and 67.5°.",
+          "markdown": "For sufficiently efficient polarizers one easily sees that there exist sets of relative orientations for which the quantum mechanical counting rates violate Inequality (2b). The greatest violation always occurs at $\\alpha = 22.5°$, $\\beta = 45°$, and $\\gamma = 157.5°$ for the 0-1-0 cascade and at $\\alpha = 67.5°$, $\\beta = 135°$, and $\\gamma = 112.5°$ for the 0-1-1 cascade. Note that in each case the four angles $\\alpha$, $\\alpha + \\beta$, $\\gamma$, and $\\beta + \\gamma$ which occur in Inequality (2b) characterize only two distinct relative orientations of the polarizers, namely $22.5°$ and $67.5°$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 17,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In an actual experiment Fⱼ(θ) is less than 1, because of finite half-angle θ, and ε_M is never unity. Assuming the use of calcite polarizers (for which ε_m ≈ 10⁻³), taking ε_M^I ≈ ε_M^II ≈ ε_M for simplicity, and using the above choices for α, β, and γ, we find that for either type of cascade, the condition for violation of Inequality (2b) is",
+          "markdown": "In an actual experiment $F_j(\\theta)$ is less than 1, because of finite half-angle $\\theta$, and $\\epsilon_M$ is never unity. Assuming the use of calcite polarizers (for which $\\epsilon_m \\approx 10^{-3}$), taking $\\epsilon_M^I \\approx \\epsilon_M^{II} \\approx \\epsilon_M$ for simplicity, and using the above choices for $\\alpha$, $\\beta$, and $\\gamma$, we find that for either type of cascade, the condition for violation of Inequality (2b) is",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.8,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 18,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "√2 Fⱼ(θ) + 1 > 2/ε_M. (4)",
+          "markdown": "$$\\sqrt{ 2 } F _ { j } ( \\theta ) + 1 > 2 / \\epsilon _ { M } . \\tag{4}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors"
+        },
+        {
+          "order": 19,
+          "block_type": "figure",
+          "level": null,
+          "text_original": "FIG. 1. Upper limits on detector half-angle θ as a function of polarizer efficiency ε_M. To test for hidden-variable theories, the experiment must be performed in the region below the appropriate curve—the upper curve for a 0-1-0 cascade, the lower for a 0-1-1.",
+          "markdown": "![Upper limits on detector half-angle θ as a function of polarizer efficiency ε_M. To test for hidden-variable theories, the experiment must be performed in the region below the appropriate curve—the upper curve for a 0-1-0 cascade, the lower for a 0-1-1.](pictures/figure_p003_01.png)",
+          "asset_id": "fig_p003_01",
+          "suggested_filename": "pictures/figure_p003_01.png",
+          "caption_original": "FIG. 1. Upper limits on detector half-angle θ as a function of polarizer efficiency ε_M. To test for hidden-variable theories, the experiment must be performed in the region below the appropriate curve—the upper curve for a 0-1-0 cascade, the lower for a 0-1-1.",
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 20,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This is the essential requirement on the design of a decisive experiment. For given Fⱼ(θ), (4)",
+          "markdown": "This is the essential requirement on the design of a decisive experiment. For given $F_j(\\theta)$, (4)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 21,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "implies a lower limit on ε_M, and vice versa. Since both F₁(ϑ) and F₂(ϑ) are monotonically decreasing functions, a lower limit on Fⱼ(ϑ) implies an upper limit on ϑ. Condition (4) and numerical evaluation of F₁(ϑ) and F₂(ϑ) lead to the curves shown in Fig. 1, from which one can directly read combinations of ϑ and ε_M suitable for a decisive experiment. The experiment can be performed with uncoated calcite polarizers (ε_M ≈ 0.92); however, if the polarizers have antireflection coatings (ε_M ≈ 0.95), a larger ϑ and hence a larger counting rate can be achieved.",
+          "markdown": "implies a lower limit on $\\epsilon_M$, and vice versa. Since both $F_1(\\vartheta)$ and $F_2(\\vartheta)$ are monotonically decreasing functions, a lower limit on $F_j(\\vartheta)$ implies an upper limit on $\\vartheta$. Condition (4) and numerical evaluation of $F_1(\\vartheta)$ and $F_2(\\vartheta)$ lead to the curves shown in Fig. 1, from which one can directly read combinations of $\\vartheta$ and $\\epsilon_M$ suitable for a decisive experiment. The experiment can be performed with uncoated calcite polarizers ($\\epsilon_M \\approx 0.92$); however, if the polarizers have antireflection coatings ($\\epsilon_M \\approx 0.95$), a larger $\\vartheta$ and hence a larger counting rate can be achieved.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 22,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The authors gratefully acknowledge helpful discussions with Y. Aharonov, M. Jammer, L. Kasday, D. Nartonis, C. Papaliolios, F. Pipkin, D. Pritchard, J. L. Snider, H. Stein, and C. R. Willis.",
+          "markdown": "The authors gratefully acknowledge helpful discussions with Y. Aharonov, M. Jammer, L. Kasday, D. Nartonis, C. Papaliolios, F. Pipkin, D. Pritchard, J. L. Snider, H. Stein, and C. R. Willis.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 23,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "*This paper is an expansion of ideas presented by one of us (J.F.C.) at the Spring 1969 meeting of the American Physical Society [Bull. Am. Phys. Soc. 14, 578 (1969)]. The same conclusions had been reached independently by two of us (A.S. and M.A.H.).",
+          "markdown": "*This paper is an expansion of ideas presented by one of us (J.F.C.) at the Spring 1969 meeting of the American Physical Society [Bull. Am. Phys. Soc. **14**, 578 (1969)]. The same conclusions had been reached independently by two of us (A.S. and M.A.H.).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 24,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "†Present address: Department of Physics, University of California, Berkeley, Calif.",
+          "markdown": "†Present address: Department of Physics, University of California, Berkeley, Calif.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 25,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "¹A. Einstein, B. Podolsky, and N. Rosen, Phys. Rev. 47, 777 (1935).",
+          "markdown": "¹A. Einstein, B. Podolsky, and N. Rosen, *Phys. Rev.* **47**, 777 (1935).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 26,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "²N. Bohr, Phys. Rev. 48, 696 (1935).",
+          "markdown": "²N. Bohr, *Phys. Rev.* **48**, 696 (1935).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.5,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# VOLUME 23, NUMBER 15\n\n## PHYSICAL REVIEW LETTERS\n\n### 13 OCTOBER 1969\n\nThe other experiment, that of Kocher and Commins (KC),⁷ involved polarization correlation of photon pairs emitted in the $6^1S_0 - 4^1P_1 - 4^1S_0$ cascade of calcium. Since the two photons are in the visible, filters of the Polaroid type could be used. The photons impinged normally upon a pair of these polarizers whose planes were parallel, and the polarization correlation was measured with standard coincidence techniques. With this arrangement inequality (2b) is applicable upon assumption of a local hidden-variable theory. However, the data obtained by KC do not suffice to test (2b), because their polarizers were not highly efficient and were placed only in the relative orientations $0°$ and $90°$.\n\n## Proposed experiment.—\n\nA decisive test can be obtained by modifying the KC experiment to include observations at two appropriate relative orientations of the polarizers, and also with one and then the other removed. For realizable apparatus, quantum mechanics predicts violation of inequality (2b).\n\nDefine $\\epsilon_M^i$ as the efficiency of the polarizer $i$ ($i$=I, II) for light polarized parallel to the polarizer axis and $\\epsilon_m^i$ as that for light perpendicularly polarized. Consider a point source and filter-detector assemblies, each of which gathers the photons emitted into a cone of half-angle $\\theta$. Then for a $J=0 \\rightarrow J=1 \\rightarrow J=0$ electric-dipole cascade (0-1-0) the quantum mechanical predictions for the counting rates are¹⁰\n\n$$\\frac{R(\\varphi)}{R_0} = \\frac{1}{4}(\\epsilon_M^{\\parallel} + \\epsilon_m^{\\parallel})(\\epsilon_M^{\\parallel} + \\epsilon_m^{\\parallel}) + \\frac{1}{4}(\\epsilon_M^{\\parallel} - \\epsilon_m^{\\parallel})(\\epsilon_M^{\\parallel} - \\epsilon_m^{\\parallel})F_1(\\theta) \\cos 2\\varphi,$$\n\n$$R_1/R_0 = \\frac{1}{2}(\\epsilon_M^{\\parallel} + \\epsilon_m^{\\parallel}), \\quad R_2/R_0 = \\frac{1}{2}(\\epsilon_M^{\\parallel} + \\epsilon_m^{\\parallel}). \\tag{3}$$\n\nHere $\\varphi$ is the angle between the polarizer axes,\n\n$$F_1(\\theta) = 2G_1^2(\\theta)[G_2^2(\\theta) + \\frac{1}{2}G_3^2(\\theta)]^{-1},$$\n\n$$G _ { 1 } ( \\vartheta ) = \\frac { 1 } { 4 } ( \\frac { 4 } { 7 } - \\cos \\vartheta + \\sin ^ { 2 } \\vartheta - \\frac { 1 } { 3 } \\cos ^ { 3 } \\vartheta ) , \\quad G _ { 2 } ( \\vartheta ) = \\frac { 2 } { 3 } - \\frac { 1 } { 3 } ( \\sin ^ { 2 } \\vartheta + 2 ) \\cos \\vartheta , \\quad G _ { 3 } ( \\vartheta ) = \\frac { 4 } { 3 } - \\cos \\vartheta - \\frac { 1 } { 3 } \\cos ^ { 3 } \\vartheta .$$\n\nThe predictions for a 0-1-1 electric-dipole cascade (and for a 1-1-0, provided the initial statistical state of the atom is isotropic) are obtained from (3) upon replacing $F_1(\\theta)$ with $-F_2(\\theta)$ where\n\n$$F _ { 2 } ( \\vartheta ) = 2 G _ { 1 } ^ { 2 } ( \\vartheta ) [ 2 G _ { 2 } ( \\vartheta ) G _ { 3 } ( \\vartho ) + \\frac { 1 } { 2 } G _ { 3 } ^ { 2 } ( \\vartheta ) ] ^ { - 1 } .$$\n\nFor sufficiently efficient polarizers one easily sees that there exist sets of relative orientations for which the quantum mechanical counting rates violate Inequality (2b). The greatest violation always occurs at $\\alpha = 22.5°$, $\\beta = 45°$, and $\\gamma = 157.5°$ for the 0-1-0 cascade and at $\\alpha = 67.5°$, $\\beta = 135°$, and $\\gamma = 112.5°$ for the 0-1-1 cascade. Note that in each case the four angles $\\alpha$, $\\alpha + \\beta$, $\\gamma$, and $\\beta + \\gamma$ which occur in Inequality (2b) characterize only two distinct relative orientations of the polarizers, namely $22.5°$ and $67.5°$.\n\nIn an actual experiment $F_j(\\theta)$ is less than 1, because of finite half-angle $\\theta$, and $\\epsilon_M$ is never unity. Assuming the use of calcite polarizers (for which $\\epsilon_m \\approx 10^{-3}$), taking $\\epsilon_M^I \\approx \\epsilon_M^{II} \\approx \\epsilon_M$ for simplicity, and using the above choices for $\\alpha$, $\\beta$, and $\\gamma$, we find that for either type of cascade, the condition for violation of Inequality (2b) is\n\n$$\\sqrt{ 2 } F _ { j } ( \\theta ) + 1 > 2 / \\epsilon _ { M } . \\tag{4}$$\n\n![Upper limits on detector half-angle θ as a function of polarizer efficiency ε_M. To test for hidden-variable theories, the experiment must be performed in the region below the appropriate curve—the upper curve for a 0-1-0 cascade, the lower for a 0-1-1.](pictures/figure_p003_01.png)\n\nThis is the essential requirement on the design of a decisive experiment. For given $F_j(\\theta)$, (4) implies a lower limit on $\\epsilon_M$, and vice versa. Since both $F_1(\\vartheta)$ and $F_2(\\vartheta)$ are monotonically decreasing functions, a lower limit on $F_j(\\vartheta)$ implies an upper limit on $\\vartheta$. Condition (4) and numerical evaluation of $F_1(\\vartheta)$ and $F_2(\\vartheta)$ lead to the curves shown in Fig. 1, from which one can directly read combinations of $\\vartheta$ and $\\epsilon_M$ suitable for a decisive experiment. The experiment can be performed with uncoated calcite polarizers ($\\epsilon_M \\approx 0.92$); however, if the polarizers have antireflection coatings ($\\epsilon_M \\approx 0.95$), a larger $\\vartheta$ and hence a larger counting rate can be achieved.\n\nThe authors gratefully acknowledge helpful discussions with Y. Aharonov, M. Jammer, L. Kasday, D. Nartonis, C. Papaliolios, F. Pipkin, D. Pritchard, J. L. Snider, H. Stein, and C. R. Willis.\n\n*This paper is an expansion of ideas presented by one of us (J.F.C.) at the Spring 1969 meeting of the American Physical Society [Bull. Am. Phys. Soc. **14**, 578 (1969)]. The same conclusions had been reached independently by two of us (A.S. and M.A.H.).\n\n†Present address: Department of Physics, University of California, Berkeley, Calif.\n\n¹A. Einstein, B. Podolsky, and N. Rosen, *Phys. Rev.* **47**, 777 (1935).\n\n²N. Bohr, *Phys. Rev.* **48**, 696 (1935).",
+      "word_count": 850,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in equations",
+        "Figure detected and referenced correctly",
+        "Two-column layout detected; text blocks correctly ordered"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "fig_p003_01",
+      "asset_type": "figure",
+      "pdf_page_number": 3,
+      "filename": "pictures/figure_p003_01.png",
+      "caption_original": "FIG. 1. Upper limits on detector half-angle θ as a function of polarizer efficiency ε_M. To test for hidden-variable theories, the experiment must be performed in the region below the appropriate curve—the upper curve for a 0-1-0 cascade, the lower for a 0-1-1.",
+      "bounding_box": [
+        0.05,
+        0.5,
+        0.95,
+        0.75
+      ],
+      "crop_quality": "good",
+      "crop_notes": null
+    }
+  ],
+  "document_statistics": {
+    "pdf_page_count": 3,
+    "ocr_page_count": 3,
+    "total_word_count": 2350,
+    "figure_count": 1,
+    "table_count": 0,
+    "equation_block_count": 15,
+    "pages_requiring_review": [
+      2
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "All pages processed",
+      "Minor OCR errors in mathematical notation and text",
+      "Figure correctly extracted"
+    ]
+  }
+}

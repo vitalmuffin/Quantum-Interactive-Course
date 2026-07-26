@@ -1,0 +1,56 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 660
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 188,
+      "topLeftY": 53,
+      "bottomRightX": 455,
+      "bottomRightY": 75,
+      "content": "Quantisierung als Eigenwertproblem.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 528,
+      "topLeftY": 53,
+      "bottomRightX": 562,
+      "bottomRightY": 71,
+      "content": "375",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 90,
+      "bottomRightX": 563,
+      "bottomRightY": 151,
+      "content": "geklärt bzw. vermieden. Aber leider begegnet ihre einwandfreie Durchführung vorläufig noch gewissen, oben berührten Schwierigkeiten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 151,
+      "bottomRightX": 567,
+      "bottomRightY": 481,
+      "content": "Es ist kaum nötig, hervorzuheben, um wie vieles sympathischer die Vorstellung sein würde, daß bei einem Quantenübergang die Energie aus einer Schwingungsform in eine andere übergeht, als die Vorstellung von den springenden Elektronen. Die Änderung der Schwingungsform kann sich stetig in Raum und Zeit vollziehen, sie kann gern solange dauern, als erfahrungsgemäß (Kanalstrahlversuche von W. Wien) der Emissionsprozeß dauert: und gleichwohl werden, wenn während dieses Übergangs das Atom für verhältnismäßig kurze Zeit einem elektrischen Feld ausgesetzt wird, das die Eigenfrequenzen verstimmt, die Schwebungsfrequenzen sogleich mitverstimmt werden, und zwar gerade nur solange als das Feld einwirkt. Diese experimentell festgestellte Tatsache bereitet bekanntlich dem Verständnis bisher die größten Schwierigkeiten, man vergleiche etwa die Diskussion in dem bekannten Lösungsversuch von Bohr-Kramers-Slater.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 481,
+      "bottomRightX": 569,
+      "bottomRightY": 891,
+      "content": "Im übrigen darf man in der Freude über das menschliche Näherrücken all dieser Dinge doch nicht vergessen, daß die Vorstellung, das Atom schwinge, wenn es nicht strahlt, jeweilig in Form *einer* Eigenschwingung, daß, sage ich, diese Vorstellung, *wenn* sie festgehalten werden muß, sich doch immer noch sehr stark von dem *natürlichen* Bild eines schwingenden Systems entfernt. Denn ein makroskopisches System verhält sich ja bekanntlich nicht so, sondern liefert im allgemeinen ein Potpourri seiner Eigenschwingungen. Man darf aber seine Ansicht in diesem Punkt nicht voreilig festlegen. Auch ein Potpourri von Eigenschwingungen am einzelnen Atom würde nichts verschlagen, sofern dabei ja auch keine anderen Schwebungsfrequenzen auftreten als diejenigen, zu deren Emission das Atom erfahrungsgemäß *unter Umständen* befähigt ist. Auch die gleichzeitige wirkliche Aussendung vieler von diesen Spektrallinien durch dasselbe Atom widerspricht keiner Erfahrung. Man könnte sich also gut denken, daß bloß im Normalzustand (und näherungsweise in gewissen „metastabilen“ Zuständen) das Atom mit *einer* Eigenfrequenz schwingt und eben aus diesem Grunde *nicht* strahlt, weil nämlich keine Schwebungen auftreten.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

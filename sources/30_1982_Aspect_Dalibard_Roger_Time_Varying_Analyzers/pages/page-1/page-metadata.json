@@ -1,0 +1,228 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 71,
+      "topLeftY": 77,
+      "bottomRightX": 198,
+      "bottomRightY": 90,
+      "content": "VOLUME 49, NUMBER 25",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 76,
+      "bottomRightX": 502,
+      "bottomRightY": 90,
+      "content": "PHYSICAL REVIEW LETTERS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 588,
+      "topLeftY": 76,
+      "bottomRightX": 686,
+      "bottomRightY": 88,
+      "content": "20 DECEMBER 1982",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 67,
+      "topLeftY": 110,
+      "bottomRightX": 352,
+      "bottomRightY": 155,
+      "content": "for trapping as b decreases is reflective of the incorporation of periodic components into the sequence of numbers generated.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 68,
+      "topLeftY": 156,
+      "bottomRightX": 370,
+      "bottomRightY": 472,
+      "content": "To summarize the motivation and principal conclusion of this Letter, we restate¹ that for values of b where numerically generated sequences appear to be chaotic, it has not been settled whether those sequences \"are truly chaotic, or whether, in fact, they are really periodic, but with exceedingly large periods and very long transients required to settle down.\" On the one hand, Grossman and Thomae⁵,⁶ have suggested that (only) the parameter value b = 1 generates pure chaos [see the discussion following Eq. (31) of Ref. 5 and the correlations plotted in their Fig. 9]. On the other hand, for certain other values of b, numerical results of Lorenz (reported in Ref. 1) \"strongly suggest that the sequences are truly chaotic.\" The purpose of this communication was to use an independent and exact result from the statistical-mechanical theory of d = 1 random walks to test the randomness of the parabolic map for parameter values where the existence of \"true chaos\" is still an open question.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 388,
+      "topLeftY": 110,
+      "bottomRightX": 675,
+      "bottomRightY": 138,
+      "content": "Our results strongly support the conclusions of Grossmann and Thomae.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 388,
+      "topLeftY": 139,
+      "bottomRightX": 673,
+      "bottomRightY": 185,
+      "content": "This research was supported by the Office of Basic Energy Sciences of the U. S. Department of Energy.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 388,
+      "topLeftY": 231,
+      "bottomRightX": 681,
+      "bottomRightY": 258,
+      "content": "(a) Permanent address: Miles Laboratories, Elkhart, Ind. 46652.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 388,
+      "topLeftY": 258,
+      "bottomRightX": 648,
+      "bottomRightY": 285,
+      "content": "(b) Present address: Department of Chemistry, Stanford University, Stanford, Cal. 94305.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 400,
+      "topLeftY": 285,
+      "bottomRightX": 615,
+      "bottomRightY": 299,
+      "content": "¹ E. Ott, Rev. Mod. Phys. 53, 655 (1981).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 299,
+      "bottomRightX": 668,
+      "bottomRightY": 325,
+      "content": "² C. A. Walsh and J. J. Kozak, Phys. Rev. Lett. 47, 1500 (1981).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 388,
+      "topLeftY": 325,
+      "bottomRightX": 682,
+      "bottomRightY": 379,
+      "content": "³ E. W. Montroll, Proc. Symp. Appl. Math. Am. Math. Soc. 16, 193 (1964); E. W. Montroll and G. W. Weiss, J. Math. Phys. 6, 167 (1965); E. W. Montroll, J. Math. Phys. 10, 753 (1969).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 388,
+      "topLeftY": 379,
+      "bottomRightX": 673,
+      "bottomRightY": 418,
+      "content": "⁴ K. Tomita, in Pattern Formation by Dynamic Systems and Pattern Recognition, edited by H. Haken (Springer-Verlag, Heidelberg, 1979), pp. 90-97.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 418,
+      "bottomRightX": 659,
+      "bottomRightY": 443,
+      "content": "⁵ S. Thomae and S. Grossmann, J. Stat. Phys. 26, 485 (1981).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 445,
+      "bottomRightX": 677,
+      "bottomRightY": 471,
+      "content": "⁶ S. Grossmann and S. Thomae, Z. Naturforsch. 32a, 1353 (1977).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 147,
+      "topLeftY": 544,
+      "bottomRightX": 608,
+      "bottomRightY": 563,
+      "content": "### Experimental Test of Bell's Inequalities Using Time-Varying Analyzers",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 568,
+      "bottomRightX": 573,
+      "bottomRightY": 615,
+      "content": "Alain Aspect, Jean Dalibard,⁽ᵃ⁾ and Gérard Roger\nInstitut d'Optique Théorique et Appliquée, F-91406 Orsay Cédex, France\n(Received 27 September 1982)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 621,
+      "bottomRightX": 615,
+      "bottomRightY": 715,
+      "content": "Correlations of linear polarizations of pairs of photons have been measured with time-varying analyzers. The analyzer in each leg of the apparatus is an acousto-optical switch followed by two linear polarizers. The switches operate at incommensurate frequencies near 50 MHz. Each analyzer amounts to a polarizer which jumps between two orientations in a time short compared with the photon transit time. The results are in good agreement with quantum mechanical predictions but violate Bell's inequalities by 5 standard deviations.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 721,
+      "bottomRightX": 346,
+      "bottomRightY": 735,
+      "content": "PACS numbers: 03.65.Bz, 35.80.+s",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 68,
+      "topLeftY": 754,
+      "bottomRightX": 374,
+      "bottomRightY": 918,
+      "content": "Bell's inequalities apply to any correlated measurement on two correlated systems. For instance, in the optical version of the Einstein-Podolsky-Rosen-Bohm Gedankenexperiment,¹ a source emits pairs of photons (Fig. 1). Measurements of the correlations of linear polarizations are performed on two photons belonging to the same pair. For pairs emitted in suitable states, the correlations are strong. To account for these correlations, Bell² considered theories which invoke common properties of both members of the",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 397,
+      "topLeftY": 755,
+      "bottomRightX": 679,
+      "bottomRightY": 845,
+      "content": "![img-0.jpeg](img-0.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-0.jpeg"
+    },
+    {
+      "topLeftX": 388,
+      "topLeftY": 852,
+      "bottomRightX": 685,
+      "bottomRightY": 918,
+      "content": "FIG. 1. Optical version of the Einstein-Podolsky-Rosen-Bohm Gedankenexperiment. The pair of photons ν₁ and ν₂ is analyzed by linear polarizers I and II (in orientations ā and b̄) and photomultipliers. The coincidence rate is monitored.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 933,
+      "bottomRightX": 99,
+      "bottomRightY": 945,
+      "content": "1804",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 933,
+      "bottomRightX": 483,
+      "bottomRightY": 948,
+      "content": "© 1982 The American Physical Society",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

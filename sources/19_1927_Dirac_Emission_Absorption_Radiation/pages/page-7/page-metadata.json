@@ -1,0 +1,164 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 158,
+      "topLeftY": 169,
+      "bottomRightX": 628,
+      "bottomRightY": 204,
+      "content": "where the $V_{rs}$'s are the elements of the matrix representing $V$. The conjugate imaginary equation is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 306,
+      "topLeftY": 218,
+      "bottomRightX": 626,
+      "bottomRightY": 237,
+      "content": "$$-ih\\dot{a}_r^* = \\Sigma_s V_{rs}^* a_s^* = \\Sigma_s a_s^* V_{sr}. \\tag{4'}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 250,
+      "bottomRightX": 628,
+      "bottomRightY": 301,
+      "content": "If we regard $a_r$ and $ih\\dot{a}_r^*$ as canonical conjugates, equations (4) and (4') take the Hamiltonian form with the Hamiltonian function $F_1 = \\Sigma_{rs} a_r^* V_{rs} a_s$, namely,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 301,
+      "bottomRightX": 497,
+      "bottomRightY": 336,
+      "content": "$$\\frac{da_r}{dt} = \\frac{1}{ih} \\frac{\\partial F_1}{\\partial a_r^*}, \\quad ih \\frac{\\partial a_r^*}{dt} = -\\frac{\\partial F_1}{\\partial a_r}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 342,
+      "bottomRightX": 628,
+      "bottomRightY": 373,
+      "content": "We can transform to the canonical variables $N_r, \\phi_r$ by the contact transformation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 375,
+      "bottomRightX": 508,
+      "bottomRightY": 394,
+      "content": "$$a_r = N_r^{1/2} e^{-i\\phi_r/h}, \\quad a_r^* = N_r^{1/2} e^{i\\phi_r/h}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 402,
+      "bottomRightX": 628,
+      "bottomRightY": 470,
+      "content": "This transformation makes the new variables $N_r$ and $\\phi_r$ real, $N_r$ being equal to $a_r a_r^* = |a_r|^2$, the probable number of systems in the state $r$, and $\\phi_r/h$ being the phase of the eigenfunction that represents them. The Hamiltonian $F_1$ now becomes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 471,
+      "bottomRightX": 496,
+      "bottomRightY": 491,
+      "content": "$$F_1 = \\Sigma_{rs} V_{rs} N_r^{1/2} N_s^{1/2} e^{i(\\phi_r - \\phi_s)/h},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 498,
+      "bottomRightX": 628,
+      "bottomRightY": 528,
+      "content": "and the equations that determine the rate at which transitions occur have the canonical form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 314,
+      "topLeftY": 527,
+      "bottomRightX": 476,
+      "bottomRightY": 561,
+      "content": "$$N_r = -\\frac{\\partial F_1}{\\partial \\phi_r}, \\quad \\dot{\\phi}_r = \\frac{\\partial F_1}{\\partial N_r}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 566,
+      "bottomRightX": 628,
+      "bottomRightY": 602,
+      "content": "A more convenient way of putting the transition equations in the Hamiltonian form may be obtained with the help of the quantities",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 291,
+      "topLeftY": 614,
+      "bottomRightX": 498,
+      "bottomRightY": 635,
+      "content": "$$b_r = a_r e^{-iW_r t/h}, \\quad b_r^* = a_r^* e^{iW_r t/h},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 647,
+      "bottomRightX": 628,
+      "bottomRightY": 683,
+      "content": "$W_r$ being the energy of the state $r$. We have $|b_r|^2$ equal to $|a_r|^2$ the probable number of systems in the state $r$. For $b_r$ we find",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 695,
+      "bottomRightX": 506,
+      "bottomRightY": 750,
+      "content": "$$\\begin{array}{l} ih\\dot{b}_r = W_r b_r + ih\\dot{a}_r e^{-W_r t/h} \\\\ = W_r b_r + \\Sigma_s V_{rs} b_s e^{i(W_s - W_r)t/h} \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 765,
+      "bottomRightX": 628,
+      "bottomRightY": 802,
+      "content": "with the help of (4). If we put $V_{rs} = c_{rs} e^{i(W_r - W_s)t/h}$, so that $v_{rs}$ is a constant when $V$ does not involve the: time explicitly, this reduces to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 321,
+      "topLeftY": 814,
+      "bottomRightX": 626,
+      "bottomRightY": 849,
+      "content": "$$\\begin{array}{l} ih\\dot{b}_r = W_r b_r + \\Sigma_s v_{rs} b_s \\\\ = \\Sigma_s H_{rs} b_s, \\end{array} \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 892,
+      "bottomRightX": 398,
+      "bottomRightY": 904,
+      "content": "7",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

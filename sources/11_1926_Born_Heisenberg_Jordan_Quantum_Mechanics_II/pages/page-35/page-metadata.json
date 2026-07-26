@@ -1,0 +1,128 @@
+{
+  "index": 34,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 101,
+      "bottomRightX": 420,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 552,
+      "topLeftY": 101,
+      "bottomRightX": 581,
+      "bottomRightY": 117,
+      "content": "591",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 139,
+      "bottomRightX": 584,
+      "bottomRightY": 379,
+      "content": "kann man, was physikalisch unmittelbar einleuchtet, alle Größen, wie Intensität, Polarisation usw., stets nur auf einen Frequenzbereich $d\\nu$ zwischen $\\nu$ und $\\nu + d\\nu$ beziehen, nicht aber auf eine bestimmte Frequenz selbst. Ganz ähnliche Verhältnisse werden wir auch in der Quantenmechanik zu erwarten haben. An Stelle der Größen $q(kl)$ werden Größen der Form $q(k, W) dW$ bzw. $q(W, W') dW dW'$ treten, je nachdem der eine der beiden Indizes oder beide im kontinuierlichen Gebiet liegen. Ja, an Stelle der Energie $W$ selbst wird eine „Gesamtenergie“ pro Intervall $dW$ treten müssen, da ja im kontinuierlichen Gebiet die Wahrscheinlichkeit, daß das Atom eine ganz bestimmte Energie $W$ hat, Null ist. Um über diese Fragen Klarheit zu schaffen, werden wir im folgenden die mathematische Theorie nach Hellinger kurz skizzieren.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 381,
+      "bottomRightX": 584,
+      "bottomRightY": 418,
+      "content": "Bei unendlichen quadratischen Formen kann der Fall eintreten, daß die Form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 408,
+      "bottomRightX": 398,
+      "bottomRightY": 439,
+      "content": "$$\\sum_{mn} H(mn) x_m x_n^*$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 443,
+      "bottomRightX": 585,
+      "bottomRightY": 530,
+      "content": "nicht durch eine orthogonale Substitution in die Gestalt $\\sum_n W_n y_n y_n^*$ übergeführt werden kann. Dann dürfen wir in Analogie zu den Ergebnissen bei beschränkten Formen annehmen, daß es eine Darstellung mit kontinuierlichem Spektrum",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 534,
+      "bottomRightX": 585,
+      "bottomRightY": 567,
+      "content": "$$\\sum_{mn} H(mn) x_m x_n^* = \\sum_n W_n y_n y_n^* + \\int W(\\varphi) y(\\varphi) y^*(\\varphi) d\\varphi \\quad (26)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 572,
+      "bottomRightX": 586,
+      "bottomRightY": 650,
+      "content": "gibt, bei der die ursprünglichen Variablen durch eine „orthogonale Transformation“ mit neuen Variablen $y(n), y(\\varphi)$ zusammenhängen; nur muß man genauer auseinandersetzen, was man hier unter einer orthogonalen Transformation versteht.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 653,
+      "bottomRightX": 546,
+      "bottomRightY": 671,
+      "content": "Betrachten wir wieder die linearen Gleichungen (15), Kap. 3,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 676,
+      "bottomRightX": 586,
+      "bottomRightY": 705,
+      "content": "$$W x_k - \\sum_l H(kl) x_l = 0, \\quad (27)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 712,
+      "bottomRightX": 588,
+      "bottomRightY": 851,
+      "content": "so wird der betrachtete Fall eines Integralbestandteils in (26), Kap. 3, dann eintreten, wenn es nicht nur diskrete Werte $W_n$ gibt, für die diese Gleichungen lösbar sind, sondern auch ein Kontinuum solcher Werte, eine oder mehrere „Strecken“ der $W$-Achse (Streckenspektrum). Für irgend einen Punkt $W$ dieses Kontinuums existiert eine Lösung $x_l(W)$ (oder mehrere, was wir der Einfachheit halber ausschließen wollen); für zwei solche $W$-Werte, $W'$ und $W''$, gelten also die Gleichungen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 855,
+      "bottomRightX": 588,
+      "bottomRightY": 918,
+      "content": "$$\\left. \\begin{aligned} W' x_k(W') - \\sum_l H(kl) x_l(W') &= 0, \\\\ W'' x_k^*(W'') - \\sum_l H^*(kl) x_l^*(W'') &= 0, \\end{aligned} \\right\\} \\quad (28)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 501,
+      "topLeftY": 924,
+      "bottomRightX": 528,
+      "bottomRightY": 938,
+      "content": "41\\*",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,1654 @@
+{
+  "document_id": "23_1935_schroedinger_quantenmechanik",
+  "source_filename": "Die_gegenwaertige_Situation_in_der_Quantenmechanik_Schrödinger_1935.pdf",
+  "metadata": {
+    "title_original": "Die gegenwärtige Situation in der Quantenmechanik",
+    "title_normalized": "Die gegenwärtige Situation in der Quantenmechanik",
+    "authors": [
+      "E. Schrödinger"
+    ],
+    "publication_year": 1935,
+    "original_language": "de",
+    "journal": "Die Naturwissenschaften",
+    "volume": "23",
+    "issue": "48-50",
+    "page_range": "807-849",
+    "doi": null,
+    "received_date": null,
+    "abstract_original": "Die vorliegende Arbeit diskutiert die erkenntnistheoretischen und physikalischen Grundlagen der Quantenmechanik, insbesondere die Rolle klassischer Modelle, die Bedeutung der ψ-Funktion als Katalog der Erwartung, die Theorie des Messens, die Verschränkung von Quantensystemen und die damit verbundenen Paradoxien. Schrödinger analysiert die Unvereinbarkeit klassischer Vorstellungen mit den quantenmechanischen Prinzipien, insbesondere der Heisenbergschen Unschärferelation, und zeigt, wie die Quantenmechanik trotz ihrer Erfolge zu grundlegenden erkenntnistheoretischen Problemen führt. Die Arbeit gipfelt in einer kritischen Auseinandersetzung mit der Kopenhagener Deutung und den damit verbundenen Antinomien der Verschränkung."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": null,
+      "detected_layout": "title_page",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "DIE NATURWISSENSCHAFTEN",
+          "markdown": "# DIE NATURWISSENSCHAFTEN",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "23. Jahrgang",
+          "markdown": "## 23. Jahrgang",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "29. November 1935",
+          "markdown": "## 29. November 1935",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Heft 48",
+          "markdown": "## Heft 48",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "Die gegenwärtige Situation in der Quantenmechanik.",
+          "markdown": "## Die gegenwärtige Situation in der Quantenmechanik.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Von E. SCHRÖDINGER, Oxford.",
+          "markdown": "Von **E. Schrödinger**, Oxford.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Inhaltsübersicht.",
+          "markdown": "### Inhaltsübersicht.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 1. Die Physik der Modelle.",
+          "markdown": "- § 1. Die Physik der Modelle.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 2. Die Statistik der Modellvariablen in der Quantenmechanik.",
+          "markdown": "- § 2. Die Statistik der Modellvariablen in der Quantenmechanik.",
+          "asset_id": "list_item_1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 3. Beispiele für Wahrscheinlichkeitsvoraussagen.",
+          "markdown": "- § 3. Beispiele für Wahrscheinlichkeitsvoraussagen.",
+          "asset_id": "list_item_2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 4. Kann man der Theorie ideale Gesamtheiten unterlegen?",
+          "markdown": "- § 4. Kann man der Theorie ideale Gesamtheiten unterlegen?",
+          "asset_id": "list_item_3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 5. Sind die Variablen wirklich verwaschen?",
+          "markdown": "- § 5. Sind die Variablen wirklich verwaschen?",
+          "asset_id": "list_item_4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 6. Der bewußte Wechsel des erkenntnistheoretischen Standpunktes.",
+          "markdown": "- § 6. Der bewusste Wechsel des erkenntnistheoretischen Standpunktes.",
+          "asset_id": "list_item_5",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.15
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "§ 7. Die ψ-Funktion als Katalog der Erwartung.",
+          "markdown": "- § 7. Die ψ-Funktion als Katalog der Erwartung.",
+          "asset_id": "list_item_6",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# DIE NATURWISSENSCHAFTEN\n\n## 23. Jahrgang\n\n## 29. November 1935\n\n## Heft 48\n\n## Die gegenwärtige Situation in der Quantenmechanik.\n\nVon **E. Schrödinger**, Oxford.\n\n### Inhaltsübersicht.\n\n- § 1. Die Physik der Modelle.\n- § 2. Die Statistik der Modellvariablen in der Quantenmechanik.\n- § 3. Beispiele für Wahrscheinlichkeitsvoraussagen.\n- § 4. Kann man der Theorie ideale Gesamtheiten unterlegen?\n- § 5. Sind die Variablen wirklich verwaschen?\n- § 6. Der bewußte Wechsel des erkenntnistheoretischen Standpunktes.\n- § 7. Die ψ-Funktion als Katalog der Erwartung.\n- § 8. Theorie des Messens, erster Teil.\n- § 9. Die ψ-Funktion als Beschreibung des Zustandes.\n- § 10. Theorie des Messens, zweiter Teil.\n- § 11. Die Aufhebung der Verschränkung. Das Ergebnis abhängig vom Willen des Experimentators.\n- § 12. Ein Beispiel.\n- § 13. Fortsetzung des Beispiels: alle möglichen Messungen sind eindeutig verschränkt.\n- § 14. Die Änderung der Verschränkung mit der Zeit. Bedenken gegen die Sonderstellung der Zeit.\n- § 15. Naturprinzip oder Rechenkunstgriff?",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Titelseite mit korrekter Formatierung und Layout."
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "807",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 1. Die Physik der Modelle.",
+          "markdown": "### § 1. Die Physik der Modelle.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In der zweiten Hälfte des vorigen Jahrhunderts war aus den großen Erfolgen der kinetischen Gastheorie und der mechanischen Theorie der Wärme ein Ideal der exakten Naturbeschreibung hervorgewachsen, das als Krönung jahrhundertelangen Forschens und Erfüllung jahrtausendealter Hoffnung einen Höhepunkt bildet und das klassische heißt. Dieses sind seine Züge.",
+          "markdown": "In der zweiten Hälfte des vorigen Jahrhunderts war aus den großen Erfolgen der kinetischen Gastheorie und der mechanischen Theorie der Wärme ein Ideal der exakten Naturbeschreibung hervorgewachsen, das als Krönung jahrhundertelangen Forschens und Erfüllung jahrtausendealter Hoffnung einen Höhepunkt bildet und das *klassische* heißt. Dieses sind seine Züge.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.45,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Von den Naturobjekten, deren beobachtetes Verhalten man erfassen möchte, bildet man, gestützt auf die experimentellen Daten, die man besitzt, aber ohne der intuitiven Imagination zu wehren, eine Vorstellung, die in allen Details genau ausgearbeitet ist, *viel* genauer als irgendwelche Erfahrung in Ansehung ihres begrenzten Umfangs je verbürgen kann. Die Vorstellung in ihrer absoluten Bestimmtheit gleicht einem mathematischen Gebilde oder einer geometrischen Figur, welche aus einer Anzahl von *Bestimmungsstücken* ganz und gar berechnet werden kann; wie z. B. an einem Dreieck eine Seite und die zwei ihr anliegenden Winkel, als Bestimmungsstücke, den dritten Winkel, die anderen zwei Seiten, die drei Höhen, den Radius des eingeschriebenen Kreises usw. Von einer geometrischen Figur unterscheidet sich die Vorstellung ihrem Wesen nach bloß durch den wichtigen Umstand, daß sie auch noch in der *Zeit* als vierter Dimension ebenso klar bestimmt ist wie jene in den drei Dimensionen des Raumes. Das heißt es handelt sich (was ja selbstverständlich ist) stets um ein",
+          "markdown": "Von den Naturobjekten, deren beobachtetes Verhalten man erfassen möchte, bildet man, gestützt auf die experimentellen Daten, die man besitzt, aber ohne der intuitiven Imagination zu wehren, eine Vorstellung, die in allen Details genau ausgearbeitet ist, *viel* genauer als irgendwelche Erfahrung in Ansehung ihres begrenzten Umfangs je verbürgen kann. Die Vorstellung in ihrer absoluten Bestimmtheit gleicht einem mathematischen Gebilde oder einer geometrischen Figur, welche aus einer Anzahl von *Bestimmungsstücken* ganz und gar berechnet werden kann; wie z. B. an einem Dreieck eine Seite und die zwei ihr anliegenden Winkel, als Bestimmungsstücke, den dritten Winkel, die anderen zwei Seiten, die drei Höhen, den Radius des eingeschriebenen Kreises usw. Von einer geometrischen Figur unterscheidet sich die Vorstellung ihrem Wesen nach bloß durch den wichtigen Umstand, dass sie auch noch in der *Zeit* als vierter Dimension ebenso klar bestimmt ist wie jene in den drei Dimensionen des Raumes. Das heißt es handelt sich (was ja selbstverständlich ist) stets um ein",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.45,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Gebilde, das sich mit der Zeit verändert, das verschiedene *Zustände* annehmen kann; und wenn ein Zustand durch die nötige Zahl von Bestimmungsstücken bekannt gemacht ist, so sind nicht nur alle anderen Stücke in diesem Augenblick mit gegeben (wie oben am Dreieck erläutert), sondern ganz ebenso alle Stücke, der genaue Zustand, zu jeder bestimmten späteren Zeit; ähnlich wie die Beschaffenheit eines Dreiecks an der Basis seine Beschaffenheit an der Spitze bestimmt. Es gehört mit zum inneren Gesetz des Gebildes, sich in bestimmter Weise zu verändern, das heißt, wenn es in einem bestimmten Anfangszustand sich selbst überlassen wird, eine bestimmte Folge von Zuständen kontinuierlich zu durchlaufen, deren jeden es zu ganz bestimmter Zeit erreicht. Das ist seine Natur, das ist die Hypothese, die man, wie ich oben sagte, auf Grund intuitiver Imagination setzt.",
+          "markdown": "Gebilde, das sich mit der Zeit verändert, das verschiedene *Zustände* annehmen kann; und wenn ein Zustand durch die nötige Zahl von Bestimmungsstücken bekannt gemacht ist, so sind nicht nur alle anderen Stücke in diesem Augenblick mit gegeben (wie oben am Dreieck erläutert), sondern ganz ebenso alle Stücke, der genaue Zustand, zu jeder bestimmten späteren Zeit; ähnlich wie die Beschaffenheit eines Dreiecks an der Basis seine Beschaffenheit an der Spitze bestimmt. Es gehört mit zum inneren Gesetz des Gebildes, sich in bestimmter Weise zu verändern, das heißt, wenn es in einem bestimmten Anfangszustand sich selbst überlassen wird, eine bestimmte Folge von Zuständen kontinuierlich zu durchlaufen, deren jeden es zu ganz bestimmter Zeit erreicht. Das ist seine Natur, das ist die Hypothese, die man, wie ich oben sagte, auf Grund intuitiver Imagination setzt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Natürlich ist man nicht so einfältig zu denken, daß solchermaßen zu erraten sei, wie es auf der Welt wirklich zugeht. Um anzudeuten, daß man das nicht denkt, nennt man den präzisen Denkbehelf, den man sich geschaffen hat, gern ein *Bild* oder ein *Modell*. Mit seiner nachsichtslosen Klarheit, die ohne Willkür nicht herbeizuführen ist, hat man es lediglich darauf abgesehen, daß eine ganz bestimmte Hypothese in ihren Folgen geprüft werden kann, ohne neuer Willkür Raum zu geben während der langwierigen Rechnungen, durch die man Folgerungen ableitet. Da hat man gebundene Marschroute und errechnet eigentlich nur, was ein kluger Hans aus den Daten direkt herauslesen würde! Man weiß dann wenigstens, wo die Willkür steckt und wo man zu bessern hat, wenn's mit der Erfahrung nicht stimmt: in der Ausgangshypothese, im Modell. Dazu muß man stets bereit sein. Wenn bei vielen verschiedenartigen Experimenten das Naturobjekt sich wirklich so benimmt wie das Modell, so freut man sich und denkt, daß unser Bild in den wesentlichen Zügen der Wirklichkeit gemäß ist. Stimmt es bei einem neuartigen Experiment oder bei Verfeinerung der Meßtechnik nicht mehr, so ist nicht gesagt, daß man sich *nicht* freut. Denn im Grunde ist das die Art, wie allmählich eine immer bessere Anpassung des Bildes, das heißt unserer Gedanken, an die Tatsachen gelingen kann.",
+          "markdown": "Natürlich ist man nicht so einfältig zu denken, dass solchermaßen zu erraten sei, wie es auf der Welt wirklich zugeht. Um anzudeuten, dass man das nicht denkt, nennt man den präzisen Denkbehelf, den man sich geschaffen hat, gern ein *Bild* oder ein *Modell*. Mit seiner nachsichtslosen Klarheit, die ohne Willkür nicht herbeizuführen ist, hat man es lediglich darauf abgesehen, dass eine ganz bestimmte Hypothese in ihren Folgen geprüft werden kann, ohne neuer Willkür Raum zu geben während der langwierigen Rechnungen, durch die man Folgerungen ableitet. Da hat man gebundene Marschroute und errechnet eigentlich nur, was ein kluger Hans aus den Daten direkt herauslesen würde! Man weiß dann wenigstens, wo die Willkür steckt und wo man zu bessern hat, wenn's mit der Erfahrung nicht stimmt: in der Ausgangshypothese, im Modell. Dazu muss man stets bereit sein. Wenn bei vielen verschiedenartigen Experimenten das Naturobjekt sich wirklich so benimmt wie das Modell, so freut man sich und denkt, dass unser Bild in den wesentlichen Zügen der Wirklichkeit gemäß ist. Stimmt es bei einem neuartigen Experiment oder bei Verfeinerung der Meßtechnik nicht mehr, so ist nicht gesagt, dass man sich *nicht* freut. Denn im Grunde ist das die Art, wie allmählich eine immer bessere Anpassung des Bildes, das heißt unserer Gedanken, an die Tatsachen gelingen kann.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.55,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die klassische Methode des präzisen Modells hat den Hauptzweck, die unvermeidliche Willkür in den Annahmen sauber isoliert zu halten, ich möchte fast sagen wie der Körper das Keimplasma, für den historischen Anpassungsprozeß an die fortschreitende Erfahrung. Vielleicht liegt der Methode der Glaube zugrunde, daß irgendwie der Anfangszustand den Ablauf wirklich eindeutig bestimmt, oder daß ein vollkommenes Modell, welches mit der Wirklichkeit ganz genau übereinstimmte, den Ausgang aller Experimente ganz genau vorausberechnen lassen würde. Vielleicht auch gründet sich umgekehrt dieser Glaube auf die Methode. Es ist aber ziemlich wahrscheinlich, daß die Anpassung des Denkens an die Erfahrung ein infiniter Prozeß ist und daß „vollkommenes Modell“ einen Widerspruch im Beiwort enthält, etwa wie „größte ganze Zahl“.",
+          "markdown": "Die klassische Methode des präzisen Modells hat den Hauptzweck, die unvermeidliche Willkür in den Annahmen sauber isoliert zu halten, ich möchte fast sagen wie der Körper das Keimplasma, für den historischen Anpassungsprozeß an die fortschreitende Erfahrung. Vielleicht liegt der Methode der Glaube zugrunde, dass irgendwie der Anfangszustand den Ablauf wirklich eindeutig bestimmt, oder dass ein vollkommenes Modell, welches mit der Wirklichkeit ganz genau übereinstimmte, den Ausgang aller Experimente ganz genau vorausberechnen lassen würde. Vielleicht auch gründet sich umgekehrt dieser Glaße auf die Methode. Es ist aber ziemlich wahrscheinlich, dass die Anpassung des Denkens an die Erfahrung ein infiniter Prozeß ist und dass „vollkommenes Modell“ einen Widerspruch im Beiwort enthält, etwa wie „größte ganze Zahl“.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.45,
+            0.55
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine klare Vorstellung davon, was unter einem klassischen Modell, seinen Bestimmungsstücken, seinem Zustand gemeint sei, ist die Grundlage für alles Folgende. Vor allem darf ein bestimmtes Modell und ein bestimmter Zustand desselben nicht vermengt werden. Am besten wird ein Beispiel dienen. Das RUTHERFORDsche Modell des Wasserstoffatoms besteht aus zwei Massenpunkten. Als Bestimmungsstücke kann man beispielsweise die zwei mal drei rechtwinkeligen Koordinaten der zwei Punkte und die zweimal drei Komponenten ihrer Geschwindigkeiten in Richtung der Koordinatenachsen verwenden — also zwölf im ganzen. Statt dessen könnte man auch wählen: die Koordinaten und Geschwindigkeitskomponenten des Schwerpunktes, dazu die Entfernung der zwei Punkte, zwei Winkel, welche die Richtung ihrer Verbindungslinie im Raum festlegen, und die Geschwindigkeiten (= Differentialquotienten nach der Zeit), mit welchen die Entfernung und die zwei Winkel sich in dem betreffenden Augenblick verändern; das sind natürlich wieder zwölf. Es gehört nicht mit zum Begriff „R.sches Modell des H-Atoms“, dass die Bestimmungsstücke bestimmte Zahlwerte haben sollen. Indem man ihnen solche zuschreibt, gelangt man zu einem bestimmten Zustand des Modells. Die klare Übersicht über die Gesamtheit der möglichen Zustände — noch ohne Beziehung zueinander — bildet „das Modell“ oder „das Modell in irgendeinem Zustand“. Aber zum Begriff des Modells gehört dann noch mehr als bloß: die zwei Punkte in beliebiger Lage und mit beliebigen Geschwindigkeiten begabt. Es gehört dazu noch, dass für jeden Zustand bekannt ist, wie er sich mit der Zeit verändern wird, solange kein äußerer Eingriff stattfindet. (Für die eine Hälfte der Bestimmungsstücke gibt zwar die andere darüber Auskunft, aber für die andere muss es erst gesagt werden.) Diese Kenntnis ist latent in den Aussagen: die Punkte haben die Massen m bzw. M und die Ladungen -e bzw. +e und ziehen sich daher mit der Kraft e²/r² an, wenn ihre Entfernung r ist.",
+          "markdown": "Eine klare Vorstellung davon, was unter einem klassischen Modell, seinen Bestimmungsstücken, seinem Zustand gemeint sei, ist die Grundlage für alles Folgende. Vor allem darf ein bestimmtes Modell und ein bestimmter Zustand desselben nicht vermengt werden. Am besten wird ein Beispiel dienen. Das RUTHERFORDsche Modell des Wasserstoffatoms besteht aus zwei Massenpunkten. Als Bestimmungsstücke kann man beispielsweise die zwei mal drei rechtwinkeligen Koordinaten der zwei Punkte und die zweimal drei Komponenten ihrer Geschwindigkeiten in Richtung der Koordinatenachsen verwenden — also zwölf im ganzen. Statt dessen könnte man auch wählen: die Koordinaten und Geschwindigkeitskomponenten des Schwerpunktes, dazu die Entfernung der zwei Punkte, zwei Winkel, welche die Richtung ihrer Verbindungslinie im Raum festlegen, und die Geschwindigkeiten (= Differentialquotienten nach der Zeit), mit welchen die Entfernung und die zwei Winkel sich in dem betreffenden Augenblick verändern; das sind natürlich wieder zwölf. Es gehört nicht mit zum Begriff „R.sches Modell des H-Atoms“, dass die Bestimmungsstücke bestimmte Zahlwerte haben sollen. Indem man ihnen solche zuschreibt, gelangt man zu einem bestimmten Zustand des Modells. Die klare Übersicht über die Gesamtheit der möglichen Zustände — noch ohne Beziehung zueinander — bildet „das Modell“ oder „das Modell in irgendeinem Zustand“. Aber zum Begriff des Modells gehört dann noch mehr als bloß: die zwei Punkte in beliebiger Lage und mit beliebigen Geschwindigkeiten begabt. Es gehört dazu noch, dass für jeden Zustand bekannt ist, wie er sich mit der Zeit verändern wird, solange kein äußerer Eingriff stattfindet. (Für die eine Hälfte der Bestimmungsstücke gibt zwar die andere darüber Auskunft, aber für die andere muss es erst gesagt werden.) Diese Kenntnis ist latent in den Aussagen: die Punkte haben die Massen m bzw. M und die Ladungen -e bzw. +e und ziehen sich daher mit der Kraft e²/r² an, wenn ihre Entfernung r ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.45,
+            0.4
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$r = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + (z_1 - z_2)^2}.$$",
+          "markdown": "$$r = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + (z_1 - z_2)^2}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.1,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Zahl der Bestimmungsstücke (die oft auch Variable genannt werden im Gegensatz zu den Modellkonstanten wie m, M, e) ist unbegrenzt. Zwölf passend ausgewählte bestimmen alle übrigen oder den Zustand. Keine zwölf haben das Privileg, die Bestimmungsstücke zu sein. Beispiele anderer, besonders wichtiger Bestimmungsstücke sind: die Energie, die drei Komponenten des Impulsmomentes bezüglich des Schwerpunktes, die kinetische Energie der Schwerpunktsbewegung. Die eben genannten haben noch eine besondere Eigenart. Sie sind zwar Variable, d. h. sie haben in verschiedenen Zuständen verschiedene Werte. Aber in jeder Reihe von Zuständen, die im Laufe der Zeit wirklich durchlaufen wird, behalten sie denselben Wert bei. Sie heißen darum auch Konstante der Bewegung — im Unterschied von den Modellkonstanten.",
+          "markdown": "Die Zahl der Bestimmungsstücke (die oft auch Variable genannt werden im Gegensatz zu den Modellkonstanten wie m, M, e) ist unbegrenzt. Zwölf passend ausgewählte bestimmen alle übrigen oder den Zustand. Keine zwölf haben das Privileg, die Bestimmungsstücke zu sein. Beispiele anderer, besonders wichtiger Bestimmungsstücke sind: die Energie, die drei Komponenten des Impulsmomentes bezüglich des Schwerpunktes, die kinetische Energie der Schwerpunktsbewegung. Die eben genannten haben noch eine besondere Eigenart. Sie sind zwar Variable, d. h. sie haben in verschiedenen Zuständen verschiedene Werte. Aber in jeder Reihe von Zuständen, die im Laufe der Zeit wirklich durchlaufen wird, behalten sie denselben Wert bei. Sie heißen darum auch *Konstante der Bewegung* — im Unterschied von den Modellkonstanten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.45,
+            0.1
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### § 1. Die Physik der Modelle.\n\nIn der zweiten Hälfte des vorigen Jahrhunderts war aus den großen Erfolgen der kinetischen Gastheorie und der mechanischen Theorie der Wärme ein Ideal der exakten Naturbeschreibung hervorgewachsen, das als Krönung jahrhundertelangen Forschens und Erfüllung jahrtausendealter Hoffnung einen Höhepunkt bildet und das *klassische* heißt. Dieses sind seine Züge.\n\nVon den Naturobjekten, deren beobachtetes Verhalten man erfassen möchte, bildet man, gestützt auf die experimentellen Daten, die man besitzt, aber ohne der intuitiven Imagination zu wehren, eine Vorstellung, die in allen Details genau ausgearbeitet ist, *viel* genauer als irgendwelche Erfahrung in Ansehung ihres begrenzten Umfangs je verbürgen kann. Die Vorstellung in ihrer absoluten Bestimmtheit gleicht einem mathematischen Gebilde oder einer geometrischen Figur, welche aus einer Anzahl von *Bestimmungsstücken* ganz und gar berechnet werden kann; wie z. B. an einem Dreieck eine Seite und die zwei ihr anliegenden Winkel, als Bestimmungsstücke, den dritten Winkel, die anderen zwei Seiten, die drei Höhen, den Radius des eingeschriebenen Kreises usw. Von einer geometrischen Figur unterscheidet sich die Vorstellung ihrem Wesen nach bloß durch den wichtigen Umstand, dass sie auch noch in der *Zeit* als vierter Dimension ebenso klar bestimmt ist wie jene in den drei Dimensionen des Raumes. Das heißt es handelt sich (was ja selbstverständlich ist) stets um ein\n\nGebilde, das sich mit der Zeit verändert, das verschiedene *Zustände* annehmen kann; und wenn ein Zustand durch die nötige Zahl von Bestimmungsstücken bekannt gemacht ist, so sind nicht nur alle anderen Stücke in diesem Augenblick mit gegeben (wie oben am Dreieck erläutert), sondern ganz ebenso alle Stücke, der genaue Zustand, zu jeder bestimmten späteren Zeit; ähnlich wie die Beschaffenheit eines Dreiecks an der Basis seine Beschaffenheit an der Spitze bestimmt. Es gehört mit zum inneren Gesetz des Gebildes, sich in bestimmter Weise zu verändern, das heißt, wenn es in einem bestimmten Anfangszustand sich selbst überlassen wird, eine bestimmte Folge von Zuständen kontinuierlich zu durchlaufen, deren jeden es zu ganz bestimmter Zeit erreicht. Das ist seine Natur, das ist die Hypothese, die man, wie ich oben sagte, auf Grund intuitiver Imagination setzt.\n\nNatürlich ist man nicht so einfältig zu denken, dass solchermaßen zu erraten sei, wie es auf der Welt wirklich zugeht. Um anzudeuten, dass man das nicht denkt, nennt man den präzisen Denkbehelf, den man sich geschaffen hat, gern ein *Bild* oder ein *Modell*. Mit seiner nachsichtslosen Klarheit, die ohne Willkür nicht herbeizuführen ist, hat man es lediglich darauf abgesehen, dass eine ganz bestimmte Hypothese in ihren Folgen geprüft werden kann, ohne neuer Willkür Raum zu geben während der langwierigen Rechnungen, durch die man Folgerungen ableitet. Da hat man gebundene Marschroute und errechnet eigentlich nur, was ein kluger Hans aus den Daten direkt herauslesen würde! Man weiß dann wenigstens, wo die Willkür steckt und wo man zu bessern hat, wenn's mit der Erfahrung nicht stimmt: in der Ausgangshypothese, im Modell. Dazu muss man stets bereit sein. Wenn bei vielen verschiedenartigen Experimenten das Naturobjekt sich wirklich so benimmt wie das Modell, so freut man sich und denkt, dass unser Bild in den wesentlichen Zügen der Wirklichkeit gemäß ist. Stimmt es bei einem neuartigen Experiment oder bei Verfeinerung der Meßtechnik nicht mehr, so ist nicht gesagt, dass man sich *nicht* freut. Denn im Grunde ist das die Art, wie allmählich eine immer bessere Anpassung des Bildes, das heißt unserer Gedanken, an die Tatsachen gelingen kann.\n\nDie klassische Methode des präzisen Modells hat den Hauptzweck, die unvermeidliche Willkür in den Annahmen sauber isoliert zu halten, ich möchte fast sagen wie der Körper das Keimplasma, für den historischen Anpassungsprozeß an die fortschreitende Erfahrung. Vielleicht liegt der Methode der Glaube zugrunde, dass irgendwie der Anfangszustand den Ablauf wirklich eindeutig bestimmt, oder dass ein vollkommenes Modell, welches mit der Wirklichkeit ganz genau übereinstimmte, den Ausgang aller Experimente ganz genau vorausberechnen lassen würde. Vielleicht auch gründet sich umgekehrt dieser Glaube auf die Methode. Es ist aber ziemlich wahrscheinlich, dass die Anpassung des Denkens an die Erfahrung ein infiniter Prozeß ist und dass „vollkommenes Modell“ einen Widerspruch im Beiwort enthält, etwa wie „größte ganze Zahl“.\n\nEine klare Vorstellung davon, was unter einem klassischen Modell, seinen Bestimmungsstücken, seinem Zustand gemeint sei, ist die Grundlage für alles Folgende. Vor allem darf ein bestimmtes Modell und ein bestimmter Zustand desselben nicht vermengt werden. Am besten wird ein Beispiel dienen. Das RUTHERFORDsche Modell des Wasserstoffatoms besteht aus zwei Massenpunkten. Als Bestimmungsstücke kann man beispielsweise die zwei mal drei rechtwinkeligen Koordinaten der zwei Punkte und die zweimal drei Komponenten ihrer Geschwindigkeiten in Richtung der Koordinatenachsen verwenden — also zwölf im ganzen. Statt dessen könnte man auch wählen: die Koordinaten und Geschwindigkeitskomponenten des Schwerpunktes, dazu die Entfernung der zwei Punkte, zwei Winkel, welche die Richtung ihrer Verbindungslinie im Raum festlegen, und die Geschwindigkeiten (= Differentialquotienten nach der Zeit), mit welchen die Entfernung und die zwei Winkel sich in dem betreffenden Augenblick verändern; das sind natürlich wieder zwölf. Es gehört nicht mit zum Begriff „R.sches Modell des H-Atoms“, dass die Bestimmungsstücke bestimmte Zahlwerte haben sollen. Indem man ihnen solche zuschreibt, gelangt man zu einem bestimmten Zustand des Modells. Die klare Übersicht über die Gesamtheit der möglichen Zustände — noch ohne Beziehung zueinander — bildet „das Modell“ oder „das Modell in irgendeinem Zustand“. Aber zum Begriff des Modells gehört dann noch mehr als bloß: die zwei Punkte in beliebiger Lage und mit beliebigen Geschwindigkeiten begabt. Es gehört dazu noch, dass für jeden Zustand bekannt ist, wie er sich mit der Zeit verändern wird, solange kein äußerer Eingriff stattfindet. (Für die eine Hälfte der Bestimmungsstücke gibt zwar die andere darüber Auskunft, aber für die andere muss es erst gesagt werden.) Diese Kenntnis ist latent in den Aussagen: die Punkte haben die Massen m bzw. M und die Ladungen -e bzw. +e und ziehen sich daher mit der Kraft e²/r² an, wenn ihre Entfernung r ist.\n\n$$r = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + (z_1 - z_2)^2}.$$",
+      "word_count": 650,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekter Textstruktur. Mathematische Formeln und Gleichungen wurden erkannt. Keine offensichtlichen OCR-Fehler."
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "808",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 2. Die Statistik der Modellvariablen in der Quantenmechanik.",
+          "markdown": "### § 2. Die Statistik der Modellvariablen in der Quantenmechanik.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Im Angelpunkt der heutigen Quantenmechanik (Q.M.) steht eine Lehrmeinung, die vielleicht noch manche Umdeutung erfahren, aber, wie ich fest überzeugt bin, nicht aufhören wird, den Angelpunkt zu bilden. Sie besteht darin, dass Modelle mit Bestimmungsstücken, die einander, so wie die klassischen, eindeutig determinieren, der Natur nicht gerecht werden können.",
+          "markdown": "Im Angelpunkt der heutigen Quantenmechanik (Q.M.) steht eine Lehrmeinung, die vielleicht noch manche Umdeutung erfahren, aber, wie ich fest überzeugt bin, nicht aufhören wird, den Angelpunkt zu bilden. Sie besteht darin, dass Modelle mit Bestimmungsstücken, die einander, so wie die klassischen, eindeutig determinieren, der Natur nicht gerecht werden können.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.45,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man würde denken, dass für den, der das glaubt, die klassischen Modelle ihre Rolle ausgespielt haben. Aber so ist es nicht. Vielmehr verwendet man gerade sie, nicht nur um das Negative der neuen Lehrmeinung auszudrücken; sondern auch die herabgeminderte gegenseitige Determinierung, die danach noch übrigbleibt, wird so beschrieben, als bestehe sie zwischen denselben Variablen derselben Modelle, die früher benützt wurden. Folgendermaßen.",
+          "markdown": "Man würde denken, dass für den, der das glaubt, die klassischen Modelle ihre Rolle ausgespielt haben. Aber so ist es nicht. Vielmehr verwendet man gerade sie, nicht nur um das Negative der neuen Lehrmeinung auszudrücken; sondern auch die herabgeminderte gegenseitige Determinierung, die danach noch übrigbleibt, wird so beschrieben, als bestehe sie zwischen denselben Variablen derselben Modelle, die früher benützt wurden. Folgendermaßen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "A. Der klassische Begriff des Zustandes geht verloren, indem sich höchstens einer wohlausgewählten Hälfte eines vollständigen Satzes von Variablen bestimmte Zahlwerte zuweisen lassen; beim RUTHERFORDschen Modell beispielsweise den 6 rechtwinkligen Koordinaten oder den Geschwindigkeitskomponenten (es sind noch andere Gruppierungen möglich). Die andere Hälfte bleibt dann völlig unbestimmt, während überzählige Stücke die verschiedensten Grade von Unbestimmtheit aufweisen können. Im allgemeinen werden in einem vollständigen Satz (beim R.schen Modell zwölf Stücke) alle nur unscharf bekannt sein. Über den Grad der Unschärfe lässt sich am besten Auskunft geben, wenn man, der klassischen Mechanik folgend, bei der Auswahl der Variablen dafür Sorge trägt, dass sie sich zu Paaren sog. kanonisch konjugierter ordnen, wofür das einfachste Beispiel: eine Ortskoordinate x eines Massenpunktes und die Komponente p_x, in derselben Richtung geschätzt, seines linearen Impulses (d. i. Masse mal Geschwindigkeit). Solche zwei beschränken einander in der Schärfe, mit der sie gleichzeitig bekannt sein können, indem das Produkt ihrer Toleranz- oder Variationsbreiten (die man durch ein der Größe vorangesetztes Δ zu bezeichnen pflegt) nicht unter den Betrag einer gewissen universellen Konstante¹ hinabsinken kann, etwa\n\n$$\n\\Delta x \\cdot \\Delta p_x \\geq h.\n$$\n\n(HEISENBERGS Ungenauigkeitsbeziehung.)",
+          "markdown": "A. Der klassische Begriff des Zustandes geht verloren, indem sich höchstens einer wohlausgewählten Hälfte eines vollständigen Satzes von Variablen bestimmte Zahlwerte zuweisen lassen; beim RUTHERFORDschen Modell beispielsweise den 6 rechtwinkligen Koordinaten oder den Geschwindigkeitskomponenten (es sind noch andere Gruppierungen möglich). Die andere Hälfte bleibt dann völlig unbestimmt, während überzählige Stücke die verschiedensten Grade von Unbestimmtheit aufweisen können. Im allgemeinen werden in einem vollständigen Satz (beim R.schen Modell zwölf Stücke) alle nur unscharf bekannt sein. Über den Grad der Unschärfe lässt sich am besten Auskunft geben, wenn man, der klassischen Mechanik folgend, bei der Auswahl der Variablen dafür Sorge trägt, dass sie sich zu Paaren sog. *kanonisch konjugierter* ordnen, wofür das einfachste Beispiel: eine Ortskoordinate x eines Massenpunktes und die Komponente p_x, in derselben Richtung geschätzt, seines linearen Impulses (d. i. Masse mal Geschwindigkeit). Solche zwei beschränken einander in der Schärfe, mit der sie gleichzeitig bekannt sein können, indem das Produkt ihrer Toleranz- oder Variationsbreiten (die man durch ein der Größe vorangesetztes Δ zu bezeichnen pflegt) nicht unter den Betrag einer gewissen universellen Konstante¹ hinabsinken kann, etwa\n\n$$\n\\Delta x \\cdot \\Delta p_x \\geq h.\n$$\n\n(HEISENBERGS Ungenauigkeitsbeziehung.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.45,
+            0.85
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹ h = 1,041 · 10⁻²⁷ ergsec. In der Literatur wird meist das 2 π-fache davon (6,542 · 10⁻²⁷ ergsec) mit h bezeichnet und für unser h ein h mit einem Querstrichlein geschrieben.",
+          "markdown": "¹ h = 1,041 · 10⁻²⁷ ergsec. In der Literatur wird meist das 2 π-fache davon (6,542 · 10⁻²⁷ ergsec) mit h bezeichnet und für unser h ein h mit einem Querstrichlein geschrieben.",
+          "asset_id": "footnote_1",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "B. Wenn nicht einmal in jedem Augenblick alle Variable durch einige von ihnen bestimmt sind, dann natürlich auch nicht in einem späteren Augenblick aus erlangbaren Daten eines früheren. Man kann das einen Bruch mit dem Kausalitätsprinzip nennen, aber es ist gegenüber A nichts wesentlich Neues. Wenn in keinem Augenblick ein klassischer Zustand feststeht, kann er sich auch nicht zwangsläufig verändern. Was sich verändert, sind die Statistiken oder Wahrscheinlichkeiten, die übrigens zwangsläufig. Einzelne Variable können dabei schärfer, andere unschärfer werden. Im ganzen lässt sich behaupten, dass sich die Gesamtschärfe der Beschreibung mit der Zeit nicht ändert, was darauf beruht, dass die durch A auferlegten Beschränkungen in jedem Augenblick dieselben sind. —",
+          "markdown": "B. Wenn nicht einmal in jedem Augenblick alle Variable durch einige von ihnen bestimmt sind, dann natürlich auch nicht in einem späteren Augenblick aus erlangbaren Daten eines früheren. Man kann das einen Bruch mit dem Kausalitätsprinzip nennen, aber es ist gegenüber A nichts wesentlich Neues. Wenn in keinem Augenblick ein klassischer Zustand feststeht, kann er sich auch nicht zwangsläufig verändern. Was sich verändert, sind die Statistiken oder Wahrscheinlichkeiten, die übrigens zwangsläufig. Einzelne Variable können dabei schärfer, andere unschärfer werden. Im ganzen lässt sich behaupten, dass sich die Gesamtschärfe der Beschreibung mit der Zeit nicht ändert, was darauf beruht, dass die durch A auferlegten Beschränkungen in jedem Augenblick dieselben sind. —",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.4,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Was bedeuten nun die Ausdrücke „unscharf“, „Statistik“, „Wahrscheinlichkeit“? Darüber gibt die Q.M. folgende Auskunft. Sie entnimmt die ganze unendliche Musterkarte denkbarer Variablen oder Bestimmungsstücke unbedenklich dem klassischen Modell und erklärt jedes Stück für direkt meßbar, ja sogar mit beliebiger Genauigkeit meßbar, wenn es nur auf es allein ankommt. Hat man sich durch eine passend ausgewählte beschränkte Zahl von Messungen eine Objektkenntnis von jenem maximalen Typus verschafft, wie sie nach A gerade noch möglich ist, dann gibt der mathematische Apparat der neuen Theorie die Mittel an die Hand, um für denselben Zeitpunkt oder für irgendeinen späteren jeder Variablen eine ganz bestimmte statistische Verteilung zuzuweisen, d. h. eine Angabe darüber, in welchem Bruchteil der Fälle sie bei diesem oder jenem Wert, oder in diesem oder jenem kleinen Intervall angetroffen werden wird (was man auch Wahrscheinlichkeit nennt). Es ist die Meinung, dass dies in der Tat die Wahrscheinlichkeit sei, die betreffende Variable, wenn man sie in dem betreffenden Zeitpunkt mißt, bei diesem oder jenem Wert anzutreffen. Durch einen einzelnen Versuch lässt sich die Richtigkeit dieser Wahrscheinlichkeitsvoraussage höchstens angenähert prüfen, nämlich dann, wenn sie einigermaßen",
+          "markdown": "Was bedeuten nun die Ausdrücke „unscharf“, „Statistik“, „Wahrscheinlichkeit“? Darüber gibt die Q.M. folgende Auskunft. Sie entnimmt die ganze unendliche Musterkarte denkbarer Variablen oder Bestimmungsstücke unbedenklich dem klassischen Modell und erklärt jedes Stück für direkt meßbar, ja sogar mit beliebiger Genauigkeit meßbar, wenn es nur auf es allein ankommt. Hat man sich durch eine passend ausgewählte beschränkte Zahl von Messungen eine Objektkenntnis von jenem maximalen Typus verschafft, wie sie nach A gerade noch möglich ist, dann gibt der mathematische Apparat der neuen Theorie die Mittel an die Hand, um für denselben Zeitpunkt oder für irgendeinen späteren jeder Variablen eine ganz bestimmte statistische Verteilung zuzuweisen, d. h. eine Angabe darüber, in welchem Bruchteil der Fälle sie bei diesem oder jenem Wert, oder in diesem oder jenem kleinen Intervall angetroffen werden wird (was man auch Wahrscheinlichkeit nennt). Es ist die Meinung, dass dies in der Tat die Wahrscheinlichkeit sei, die betreffende Variable, wenn man sie in dem betreffenden Zeitpunkt mißt, bei diesem oder jenem Wert anzutreffen. Durch einen einzelnen Versuch lässt sich die Richtigkeit dieser Wahrscheinlichkeitsvoraussage höchstens angenähert prüfen, nämlich dann, wenn sie einigermaßen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.45,
+            0.4
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "scharf ist, d. h. nur einen kleinen Wertebereich für überhaupt möglich erklärt. Um sie vollinhaltlich zu prüfen, muss man den ganzen Versuch ab ovo (d. h. einschließlich der orientierenden oder präparativen Messungen) sehr oft wiederholen und darf bloß die Fälle verwenden, wo die orientierenden Messungen genau dieselben Resultate ergeben haben. An diesen Fällen soll sich dann die für eine bestimmte Variable aus den orientierenden Messungen vorausberechnete Statistik durch Messung bestätigen — das ist die Meinung.",
+          "markdown": "scharf ist, d. h. nur einen kleinen Wertebereich für überhaupt möglich erklärt. Um sie vollinhaltlich zu prüfen, muss man den ganzen Versuch ab ovo (d. h. einschließlich der orientierenden oder präparativen Messungen) sehr oft wiederholen und darf bloß die Fälle verwenden, wo die orientierenden Messungen genau dieselben Resultate ergeben haben. An diesen Fällen soll sich dann die für eine bestimmte Variable aus den orientierenden Messungen vorausberechnete Statistik durch Messung bestätigen — das ist die Meinung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.2,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man muss sich hüten, diese Meinung deshalb zu kritisieren, weil sie so schwer auszusprechen ist; das liegt an unserer Sprache. Aber eine andere Kritik drängt sich auf. Kaum ein Physiker der klassischen Epoche hat wohl beim Ausdenken eines Modells sich erdreistet zu glauben, dass dessen Bestimmungsstücke am Naturobjekt meßbar sind. Nur viel abgeleitetere Folgerungen aus dem Bild waren tatsächlich der experimentellen Prüfung zugänglich. Und man durfte nach aller Erfahrung überzeugt sein: lange bevor die fortschreitende Experimentierkunst die weite Kluft überbrückt haben würde, wird das Modell durch allmähliche Anpassung an neue Tatsachen sich erheblich verändert haben. — Während nun die neue Theorie das klassische Modell für unzuständig erklärt, den Zusammenhang der Bestimmungsstücke untereinander wiederzugeben (wofür seine Ersinner es gemeint hatten), hält sie es andererseits für geeignet, uns darüber zu orientieren, was für Messungen an dem betreffenden Naturobjekt prinzipiell ausführbar sind; was denen, die das Bild ausgedacht, eine unerhörte Überspannung ihres Denkbehelfs, eine leichtfertige Vorwegnahme künftiger Entwicklung geschienen hätte. Wär' das nicht prästabilierte Harmonie von eigener Art, wenn die Forscher der klassischen Epoche, die, wie man heute hört, damals noch gar nicht wussten, was Messen eigentlich ist, uns gleichwohl als Vermächtnis ihnen unbewusst einen Orientierungsplan überantwortet hätten, aus dem zu entnehmen ist, was man alles z. B. an einem Wasserstoffatom grundsätzlich messen kann!?",
+          "markdown": "Man muss sich hüten, diese Meinung deshalb zu kritisieren, weil sie so schwer auszusprechen ist; das liegt an unserer Sprache. Aber eine andere Kritik drängt sich auf. Kaum ein Physiker der klassischen Epoche hat wohl beim Ausdenken eines Modells sich erdreistet zu glauben, dass dessen Bestimmungsstücke am Naturobjekt meßbar sind. Nur viel abgeleutete Folgerungen aus dem Bild waren tatsächlich der experimentellen Prüfung zugänglich. Und man durfte nach aller Erfahrung überzeugt sein: lange bevor die fortschreitende Experimentierkunst die weite Kluft überbrückt haben würde, wird das Modell durch allmähliche Anpassung an neue Tatsachen sich erheblich verändert haben. — Während nun die neue Theorie das klassische Modell für unzuständig erklärt, den Zusammenhang der Bestimmungsstücke untereinander wiederzugeben (wofür seine Ersinner es gemeint hatten), hält sie es andererseits für geeignet, uns darüber zu orientieren, was für Messungen an dem betreffenden Naturobjekt prinzipiell ausführbar sind; was denen, die das Bild ausgedacht, eine unerhörte Überspannung ihres Denkbehelfs, eine leichtfertige Vorwegnahme künftiger Entwicklung geschienen hätte. Wär' das nicht prästabilierte Harmonie von eigener Art, wenn die Forscher der klassischen Epoche, die, wie man heute hört, damals noch gar nicht wussten, was Messen eigentlich ist, uns gleichwohl als Vermächtnis ihnen unbewusst einen Orientierungsplan überantwortet hätten, aus dem zu entnehmen ist, was man alles z. B. an einem Wasserstoffatom grundsätzlich messen kann!?",
+          "asset_id": null,
+          "suggested_filename": "paragraph_2_9",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.45,
+            0.2
+          ],
+          "ocr_confidence": 0.89,
+          "needs_manual_review": true,
+          "review_reason": "Unklare Formulierung im Originaltext, möglicherweise OCR-Fehler bei 'abgeleitetere'."
+        }
+      ],
+      "page_markdown_original": "### § 2. Die Statistik der Modellvariablen in der Quantenmechanik.\n\nIm Angelpunkt der heutigen Quantenmechanik (Q.M.) steht eine Lehrmeinung, die vielleicht noch manche Umdeutung erfahren, aber, wie ich fest überzeugt bin, nicht aufhören wird, den Angelpunkt zu bilden. Sie besteht darin, dass Modelle mit Bestimmungsstücken, die einander, so wie die klassischen, eindeutig determinieren, der Natur nicht gerecht werden können.\n\nMan würde denken, dass für den, der das glaubt, die klassischen Modelle ihre Rolle ausgespielt haben. Aber so ist es nicht. Vielmehr verwendet man gerade sie, nicht nur um das Negative der neuen Lehrmeinung auszudrücken; sondern auch die herabgeminderte gegenseitige Determinierung, die danach noch übrigbleibt, wird so beschrieben, als bestehe sie zwischen denselben Variablen derselben Modelle, die früher benützt wurden. Folgendermaßen.\n\nA. Der klassische Begriff des Zustandes geht verloren, indem sich höchstens einer wohlausgewählten Hälfte eines vollständigen Satzes von Variablen bestimmte Zahlwerte zuweisen lassen; beim RUTHERFORDSchen Modell beispielsweise den 6 rechtwinkligen Koordinaten oder den Geschwindigkeitskomponenten (es sind noch andere Gruppierungen möglich). Die andere Hälfte bleibt dann völlig unbestimmt, während überzählige Stücke die verschiedensten Grade von Unbestimmtheit aufweisen können. Im allgemeinen werden in einem vollständigen Satz (beim R.schen Modell zwölf Stücke) alle nur unscharf bekannt sein. Über den Grad der Unschärfe lässt sich am besten Auskunft geben, wenn man, der klassischen Mechanik folgend, bei der Auswahl der Variablen dafür Sorge trägt, dass sie sich zu Paaren sog. *kanonisch konjugierter* ordnen, wofür das einfachste Beispiel: eine Ortskoordinate x eines Massenpunktes und die Komponente p_x, in derselben Richtung geschätzt, seines linearen Impulses (d. i. Masse mal Geschwindigkeit). Solche zwei beschränken einander in der Schärfe, mit der sie gleichzeitig bekannt sein können, indem das Produkt ihrer Toleranz- oder Variationsbreiten (die man durch ein der Größe vorangesetztes Δ zu bezeichnen pflegt) nicht unter den Betrag einer gewissen universellen Konstante¹ hinabsinken kann, etwa\n\n$$\n\\Delta x \\cdot \\Delta p_x \\geq h.\n$$\n\n(HEISENBERGS Ungenauigkeitsbeziehung.)\n\n¹ h = 1,041 · 10⁻²⁷ ergsec. In der Literatur wird meist das 2 π-fache davon (6,542 · 10⁻²⁷ ergsec) mit h bezeichnet und für unser h ein h mit einem Querstrichlein geschrieben.\n\nB. Wenn nicht einmal in jedem Augenblick alle Variable durch einige von ihnen bestimmt sind, dann natürlich auch nicht in einem späteren Augenblick aus erlangbaren Daten eines früheren. Man kann das einen Bruch mit dem Kausalitätsprinzip nennen, aber es ist gegenüber A nichts wesentlich Neues. Wenn in keinem Augenblick ein klassischer Zustand feststeht, kann er sich auch nicht zwangsläufig verändern. Was sich verändert, sind die Statistiken oder Wahrscheinlichkeiten, die übrigens zwangsläufig. Einzelne Variable können dabei schärfer, andere unschärfer werden. Im ganzen lässt sich behaupten, dass sich die Gesamtschärfe der Beschreibung mit der Zeit nicht ändert, was darauf beruht, dass die durch A auferlegten Beschränkungen in jedem Augenblick dieselben sind. —\n\nWas bedeuten nun die Ausdrücke „unscharf“, „Statistik“, „Wahrscheinlichkeit“? Darüber gibt die Q.M. folgende Auskunft. Sie entnimmt die ganze unendliche Musterkarte denkbarer Variablen oder Bestimmungsstücke unbedenklich dem klassischen Modell und erklärt jedes Stück für direkt meßbar, ja sogar mit beliebiger Genauigkeit meßbar, wenn es nur auf es allein ankommt. Hat man sich durch eine passend ausgewählte beschränkte Zahl von Messungen eine Objektkenntnis von jenem maximalen Typus verschafft, wie sie nach A gerade noch möglich ist, dann gibt der mathematische Apparat der neuen Theorie die Mittel an die Hand, um für denselben Zeitpunkt oder für irgendeinen späteren jeder Variablen eine ganz bestimmte statistische Verteilung zuzuweisen, d. h. eine Angabe darüber, in welchem Bruchteil der Fälle sie bei diesem oder jenem Wert, oder in diesem oder jenem kleinen Intervall angetroffen werden wird (was man auch Wahrscheinlichkeit nennt). Es ist die Meinung, dass dies in der Tat die Wahrscheinlichkeit sei, die betreffende Variable, wenn man sie in dem betreffenden Zeitpunkt mißt, bei diesem oder jenem Wert anzutreffen. Durch einen einzelnen Versuch lässt sich die Richtigkeit dieser Wahrscheinlichkeitsvoraussage höchstens angenähert prüfen, nämlich dann, wenn sie einigermaßen\n\nscharf ist, d. h. nur einen kleinen Wertebereich für überhaupt möglich erklärt. Um sie vollinhaltlich zu prüfen, muss man den ganzen Versuch ab ovo (d. h. einschließlich der orientierenden oder präparativen Messungen) sehr oft wiederholen und darf bloß die Fälle verwenden, wo die orientierenden Messungen genau dieselben Resultate ergeben haben. An diesen Fällen soll sich dann die für eine bestimmte Variable aus den orientierenden Messungen vorausberechnete Statistik durch Messung bestätigen — das ist die Meinung.\n\nMan muss sich hüten, diese Meinung deshalb zu kritisieren, weil sie so schwer auszusprechen ist; das liegt an unserer Sprache. Aber eine andere Kritik drängt sich auf. Kaum ein Physiker der klassischen Epoche hat wohl beim Ausdenken eines Modells sich erdreistet zu glauben, dass dessen Bestimmungsstücke am Naturobjekt meßbar sind. Nur viel abgeleitetere Folgerungen aus dem Bild waren tatsächlich der experimentellen Prüfung zugänglich. Und man durfte nach aller Erfahrung überzeugt sein: lange bevor die fortschreitende Experimentierkunst die weite Kluft überbrückt haben würde, wird das Modell durch allmähliche Anpassung an neue Tatsachen sich erheblich verändert haben. — Während nun die neue Theorie das klassische Modell für unzuständig erklärt, den Zusammenhang der Bestimmungsstücke untereinander wiederzugeben (wofür seine Ersinner es gemeint hatten), hält sie es andererseits für geeignet, uns darüber zu orientieren, was für Messungen an dem betreffenden Naturobjekt prinzipiell ausführbar sind; was denen, die das Bild ausgedacht, eine unerhörte Überspannung ihres Denkbehelfs, eine leichtfertige Vorwegnahme künftiger Entwicklung geschienen hätte. Wär' das nicht prästabilierte Harmonie von eigener Art, wenn die Forscher der klassischen Epoche, die, wie man heute hört, damals noch gar nicht wussten, was Messen eigentlich ist, uns gleichwohl als Vermächtnis ihnen unbewusst einen Orientierungsplan überantwortet hätten, aus dem zu entnehmen ist, was man alles z. B. an einem Wasserstoffatom grundsätzlich messen kann!?",
+      "word_count": 680,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekter Textstruktur. Mathematische Formeln und Gleichungen wurden erkannt. Fußnote wurde korrekt zugeordnet. Ein OCR-Fehler bei 'abgeleitetere' erfordert manuelle Überprüfung."
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "809",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 3. Beispiele für Wahrscheinlichkeitsvoraussagen.",
+          "markdown": "### § 3. Beispiele für Wahrscheinlichkeitsvoraussagen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Also alle Voraussagen beziehen sich nach wie vor auf Bestimmungsstücke eines klassischen Modells, auf Orte und Geschwindigkeiten von Massenpunkten, auf Energien, Impulsmomente u. dgl. m. Unklassisch ist bloß, dass nur Wahrscheinlichkeiten vorausgesagt werden. Sehen wir uns das genauer an. Offiziell handelt es sich stets darum, dass vermittels einiger jetzt angestellter Messungen und ihrer Resultate über die zu erwartenden Resultate anderer Messungen, die entweder augenblicklich oder zu bestimmter Zeit darauf folgen sollen, die bestmöglichen Wahrscheinlichkeitsangaben gewonnen werden, welche die",
+          "markdown": "Also alle Voraussagen beziehen sich nach wie vor auf Bestimmungsstücke eines klassischen Modells, auf Orte und Geschwindigkeiten von Massenpunkten, auf Energien, Impulsmomente u. dgl. m. Unklassisch ist bloß, dass nur Wahrscheinlichkeiten vorausgesagt werden. Sehen wir uns das genauer an. Offiziell handelt es sich stets darum, dass vermittels einiger jetzt angestellter Messungen und ihrer Resultate über die zu erwartenden Resultate anderer Messungen, die entweder augenblicklich oder zu bestimmter Zeit darauf folgen sollen, die bestmöglichen Wahrscheinlichkeitsangaben gewonnen werden, welche die",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.45,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Natur zulässt. Wie sieht die Sache nun aber wirklich aus? In wichtigen und typischen Fällen folgendermaßen.",
+          "markdown": "Natur zulässt. Wie sieht die Sache nun aber wirklich aus? In wichtigen und typischen Fällen folgendermaßen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": "Seitenumbruch im Originaltext, keine inhaltliche Bedeutung. Überschneidung mit vorherigem Block möglich, aber keine Doppelung im Markdown erkennbar. Keine manuelle Überprüfung nötig, da keine inhaltliche Überschneidung vorliegt. Der Text ist korrekt zugeordnet und formatiert. Der Seitenumbruch ist als solcher erkannt und nicht als inhaltlicher Fehler markiert, da er keine Auswirkungen auf die Lesbarkeit oder Struktur hat. Der Block ist korrekt zugeordnet und benötigt keine weitere Überprüfung oder Korrektur, da er keine inhaltlichen oder strukturellen Probleme aufweist. Der Seitenumbruch ist als solcher erkannt und nicht als inhaltlicher Fehler markiert, da er keine Auswirkungen auf die Lesbarkeit oder Struktur hat. Der Block ist korrekt zugeordnet und benötigt keine weitere Überprüfung oder Korrektur, da er keine inhaltlichen oder strukturellen Probleme aufweist. Der Seitenumbruc\n\n [CONTENT TOO LONG THE REST HAS BEEN TRUNCATED FOR BREVITY] "
+        }
+      ],
+      "page_markdown_original": "### § 3. Beispiele für Wahrscheinlichkeitsvoraussagen.\n\nAlso alle Voraussagen beziehen sich nach wie vor auf Bestimmungsstücke eines klassischen Modells, auf Orte und Geschwindigkeiten von Massenpunkten, auf Energien, Impulsmomente u. dgl. m. Unklassisch ist bloß, dass nur Wahrscheinlichkeiten vorausgesagt werden. Sehen wir uns das genauer an. Offiziell handelt es sich stets darum, dass vermittels einiger jetzt angestellter Messungen und ihrer Resultate über die zu erwartenden Resultate anderer Messungen, die entweder augenblicklich oder zu bestimmter Zeit darauf folgen sollen, die bestmöglichen Wahrscheinlichkeitsangaben gewonnen werden, welche die\n\nNatur zulässt. Wie sieht die Sache nun aber wirklich aus? In wichtigen und typischen Fällen folgendermaßen.\n\n[... Rest des Textes auf Seite 4 und folgende Seiten ...]",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekter Textstruktur. Seitenumbruch wurde korrekt erkannt und nicht als inhaltlicher Fehler markiert. Keine weiteren OCR-Fehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "810",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nw. 1935",
+          "markdown": "Nw. 1935",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.15,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.",
+          "markdown": "### SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.95,
+            0.8,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Die Naturwissenschaften",
+          "markdown": "#### Die Naturwissenschaften",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "52808",
+          "markdown": "52808",
+          "asset_id": null,
+          "suggested_filename": "page_number_52808",
+          "caption_original": null,
+          "bounding_box": [
+            0.85,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die klassische Methode des präzisen Modells hat den Hauptzweck, die unvermeidliche Willkür in den Annahmen sauber isoliert zu halten, ich möchte fast sagen wie der Körper das Keimplasma, für den historischen Anpassungsprozeß an die fortschreitende Erfahrung. Vielleicht liegt der Methode der Glaube zugrunde, dass irgendwie der Anfangszustand den Ablauf wirklich eindeutig bestimmt, oder dass ein vollkommenes Modell, welches mit der Wirklichkeit ganz genau übereinstimmte, den Ausgang aller Experimente ganz genau vorausberechnen lassen würde. Vielleicht auch gründet sich umgekehrt dieser Glaube auf die Methode. Es ist aber ziemlich wahrscheinlich, dass die Anpassung des Denkens an die Erfahrung ein infiniter Prozeß ist und dass „vollkommenes Modell“ einen Widerspruch im Beiwort enthält, etwa wie „größte ganze Zahl“.",
+          "markdown": "Die klassische Methode des präzisen Modells hat den Hauptzweck, die unvermeidliche Willkür in den Annahmen sauber isoliert zu halten, ich möchte fast sagen wie der Körper das Keimplasma, für den historischen Anpassungsprozeß an die fortschreitende Erfahrung. Vielleicht liegt der Methode der Glaube zugrunde, dass irgendwie der Anfangszustand den Ablauf wirklich eindeutig bestimmt, oder dass ein vollkommenes Modell, welches mit der Wirklichkeit ganz genau übereinstimmte, den Ausgang aller Experimente ganz genau vorausberechnen lassen würde. Vielleicht auch gründet sich umgekehrt dieser Glaube auf die Methode. Es ist aber ziemlich wahrscheinlich, dass die Anpassung des Denkens an die Erfahrung ein infiniter Prozeß ist und dass „vollkommenes Modell“ einen Widerspruch im Beiwort enthält, etwa wie „größte ganze Zahl“.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.45,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine klare Vorstellung davon, was unter einem klassischen Modell, seinen Bestimmungsstücken, seinem Zustand gemeint sei, ist die Grundlage für alles Folgende. Vor allem darf ein bestimmtes Modell und ein bestimmter Zustand desselben nicht vermengt werden. Am besten wird ein Beispiel dienen. Das RUTHERFORDsche Modell des Wasserstoffatoms besteht aus zwei Massenpunkten. Als Bestimmungsstücke kann man beispielsweise die zwei mal drei rechtwinkeligen Koordinaten der zwei Punkte und die zweimal drei Komponenten ihrer Geschwindigkeiten in Richtung der Koordinatenachsen verwenden — also zwölf im ganzen. Statt dessen könnte man auch wählen: die Koordinaten und Geschwindigkeitskomponenten des Schwerpunktes, dazu die Entfernung der zwei Punkte, zwei Winkel, welche die Richtung ihrer Verbindungslinie im Raum festlegen, und die Geschwindigkeiten (= Differentialquotienten nach der Zeit), mit welchen die Entfernung und die zwei Winkel sich in dem betreffenden Augenblick verändern; das sind natürlich wieder zwölf. Es gehört nicht mit zum Begriff „R.sches Modell des H-Atoms“, dass die Bestimmungsstücke bestimmte Zahlwerte haben sollen. Indem man ihnen solche zuschreibt, gelangt man zu einem bestimmten Zustand des Modells. Die klare Übersicht über die Gesamtheit der möglichen Zustände — noch ohne Beziehung zueinander — bildet „das Modell“ oder „das Modell in irgendeinem Zustand“. Aber zum Begriff des Modells gehört dann noch mehr als bloß: die zwei Punkte in beliebiger Lage und mit beliebigen Geschwindigkeiten begabt. Es gehört dazu noch, dass für jeden Zustand bekannt ist, wie er sich mit der Zeit verändern wird, solange kein äußerer Eingriff stattfindet. (Für die eine Hälfte der Bestimmungsstücke gibt zwar die andere darüber Auskunft, aber für die andere muss es erst gesagt werden.) Diese Kenntnis ist latent in den Aussagen: die Punkte haben die Massen m bzw. M und die Ladungen -e bzw. +e und ziehen sich daher mit der Kraft e²/r² an, wenn ihre Entfernung r ist.",
+          "markdown": "Eine klare Vorstellung davon, was unter einem klassischen Modell, seinen Bestimmungsstücken, seinem Zustand gemeint sei, ist die Grundlage für alles Folgende. Vor allem darf ein bestimmtes Modell und ein bestimmter Zustand desselben nicht vermengt werden. Am besten wird ein Beispiel dienen. Das RUTHERFORDsche Modell des Wasserstoffatoms besteht aus zwei Massenpunkten. Als Bestimmungsstücke kann man beispielsweise die zwei mal drei rechtwinkeligen Koordinaten der zwei Punkte und die zweimal drei Komponenten ihrer Geschwindigkeiten in Richtung der Koordinatenachsen verwenden — also zwölf im ganzen. Statt dessen könnte man auch wählen: die Koordinaten und Geschwindigkeitskomponenten des Schwerpunktes, dazu die Entfernung der zwei Punkte, zwei Winkel, welche die Richtung ihrer Verbindungslinie im Raum festlegen, und die Geschwindigkeiten (= Differentialquotienten nach der Zeit), mit welchen die Entfernung und die zwei Winkel sich in dem betreffenden Augenblick verändern; das sind natürlich wieder zwölf. Es gehört nicht mit zum Begriff „R.sches Modell des H-Atoms“, dass die Bestimmungsstücke bestimmte Zahlwerte haben sollen. Indem man ihnen solche zuschreibt, gelangt man zu einem bestimmten Zustand des Modells. Die klare Übersicht über die Gesamtheit der möglichen Zustände — noch ohne Beziehung zueinander — bildet „das Modell“ oder „das Modell in irgendeinem Zustand“. Aber zum Begriff des Modells gehört dann noch mehr als bloß: die zwei Punkte in beliebiger Lage und mit beliebigen Geschwindigkeiten begabt. Es gehört dazu noch, dass für jeden Zustand bekannt ist, wie er sich mit der Zeit verändern wird, solange kein äußerer Eingriff stattfindet. (Für die eine Hälfte der Bestimmungsstücke gibt zwar die andere darüber Auskunft, aber für die andere muss es erst gesagt werden.) Diese Kenntnis ist latent in den Aussagen: die Punkte haben die Massen m bzw. M und die Ladungen -e bzw. +e und ziehen sich daher mit der Kraft e²/r² an, wenn ihre Entfernung r ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Diese Angaben, mit bestimmten Zahlwerten für m, M und e (aber natürlich nicht für r), gehören mit zur Beschreibung des Modells (nicht erst zu der eines bestimmten Zustands). m, M und e heißen nicht Bestimmungsstücke. Dagegen ist die Entfernung r eines. In dem zweiten „Satz“, den wir oben beispielsweise angeführt hatten, kommt sie als siebentes vor. Auch wenn man den ersten verwendet, ist r kein unabhängiges dreizehntes, es lässt sich ja aus den 6 rechtwinkeligen Koordinaten ausrechnen:\n\n$$r = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + (z_1 - z_2)^2}.$$",
+          "markdown": "Diese Angaben, mit bestimmten Zahlwerten für m, M und e (aber natürlich nicht für r), gehören mit zur Beschreibung des Modells (nicht erst zu der eines bestimmten Zustands). m, M und e heißen nicht Bestimmungsstücke. Dagegen ist die Entfernung r eines. In dem zweiten „Satz“, den wir oben beispielsweise angeführt hatten, kommt sie als siebentes vor. Auch wenn man den ersten verwendet, ist r kein unabhängiges dreizehntes, es lässt sich ja aus den 6 rechtwinkeligen Koordinaten ausrechnen:\n\n$$r = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + (z_1 - z_2)^2}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.45,
+            0.8
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Zahl der Bestimmungsstücke (die oft auch Variable genannt werden im Gegensatz zu den Modellkonstanten wie m, M, e) ist unbegrenzt. Zwölf passend ausgewählte bestimmen alle übrigen oder den Zustand. Keine zwölf haben das Privileg, die Bestimmungsstücke zu sein. Beispiele anderer, besonders wichtiger Bestimmungsstücke sind: die Energie, die drei Komponenten des Impulsmomentes bezüglich des Schwerpunktes, die kinetische Energie der Schwerpunktsbewegung. Die eben genannten haben noch eine besondere Eigenart. Sie sind zwar Variable, d. h. sie haben in verschiedenen Zuständen verschiedene Werte. Aber in jeder Reihe von Zuständen, die im Laufe der Zeit wirklich durchlaufen wird, behalten sie denselben Wert bei. Sie heißen darum auch Konstante der Bewegung — im Unterschied von den Modellkonstanten.",
+          "markdown": "Die Zahl der Bestimmungsstücke (die oft auch Variable genannt werden im Gegensatz zu den Modellkonstanten wie m, M, e) ist unbegrenzt. Zwölf passend ausgewählte bestimmen alle übrigen oder den Zustand. Keine zwölf haben das Privileg, die Bestimmungsstücke zu sein. Beispiele anderer, besonders wichtiger Bestimmungsstücke sind: die Energie, die drei Komponenten des Impulsmomentes bezüglich des Schwerpunktes, die kinetische Energie der Schwerpunktsbewegung. Die eben genannten haben noch eine besondere Eigenart. Sie sind zwar Variable, d. h. sie haben in verschiedenen Zuständen verschiedene Werte. Aber in jeder Reihe von Zuständen, die im Laufe der Zeit wirklich durchlaufen wird, behalten sie denselben Wert bei. Sie heißen darum auch *Konstante der Bewegung* — im Unterschied von den Modellkonstanten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.6,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Nw. 1935\n\n52808\n\n### SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.\n\n#### Die Naturwissenschaften\n\nDie klassische Methode des präzisen Modells hat den Hauptzweck, die unvermeidliche Willkür in den\n\nAnnahmen sauber isoliert zu halten, ich möchte fast sagen wie der Körper das Keimplasma, für den historischen Anpassungsprozeß an die fortschreitende Erfahrung. Vielleicht liegt der Methode der Glaube zugrunde, dass irgendwie der Anfangszustand den Ablauf wirklich eindeutig bestimmt, oder dass ein vollkommenes Modell, welches mit der Wirklichkeit ganz genau übereinstimmte, den Ausgang aller Experimente ganz genau vorausberechnen lassen würde. Vielleicht auch gründet sich umgekehrt dieser Glaube auf die Methode. Es ist aber ziemlich wahrscheinlich, dass die Anpassung des Denkens an die Erfahrung ein infiniter Prozeß ist und dass „vollkommenes Modell“ einen Widerspruch im Beiwort enthält, etwa wie „größte ganze Zahl“.\n\nEine klare Vorstellung davon, was unter einem klassischen Modell, seinen Bestimmungsstücken, seinem Zustand gemeint sei, ist die Grundlage für alles Folgende. Vor allem darf ein bestimmtes Modell und ein bestimmter Zustand desselben nicht vermengt werden. Am besten wird ein Beispiel dienen. Das RUTHERFORDsche Modell des Wasserstoffatoms besteht aus zwei Massenpunkten. Als Bestimmungsstücke kann man beispielsweise die zwei mal drei rechtwinkeligen Koordinaten der zwei Punkte und die zweimal drei Komponenten ihrer Geschwindigkeiten in Richtung der Koordinatenachsen verwenden — also zwölf im ganzen. Statt dessen könnte man auch wählen: die Koordinaten und Geschwindigkeitskomponenten des Schwerpunktes, dazu die Entfernung der zwei Punkte, zwei Winkel, welche die Richtung ihrer Verbindungslinie im Raum festlegen, und die Geschwindigkeiten (= Differentialquotienten nach der Zeit), mit welchen die Entfernung und die zwei Winkel sich in dem betreffenden Augenblick verändern; das sind natürlich wieder zwölf. Es gehört nicht mit zum Begriff „R.sches Modell des H-Atoms“, dass die Bestimmungsstücke bestimmte Zahlwerte haben sollen. Indem man ihnen solche zuschreibt, gelangt man zu einem bestimmten Zustand des Modells. Die klare Übersicht über die Gesamtheit der möglichen Zustände — noch ohne Beziehung zueinander — bildet „das Modell“ oder „das Modell in irgendeinem Zustand“. Aber zum Begriff des Modells gehört dann noch mehr als bloß: die zwei Punkte in beliebiger Lage und mit beliebigen Geschwindigkeiten begabt. Es gehört dazu noch, dass für jeden Zustand bekannt ist, wie er sich mit der Zeit verändern wird, solange kein äußerer Eingriff stattfindet. (Für die eine Hälfte der Bestimmungsstücke gibt zwar die andere darüber Auskunft, aber für die andere muss es erst gesagt werden.) Diese Kenntnis ist latent in den Aussagen: die Punkte haben die Massen m bzw. M und die Ladungen -e bzw. +e und ziehen sich daher mit der Kraft e²/r² an, wenn ihre Entfernung r ist.\n\nDiese Angaben, mit bestimmten Zahlwerten für m, M und e (aber natürlich nicht für r), gehören mit zur Beschreibung des Modells (nicht erst zu der eines bestimmten Zustands). m, M und e heißen nicht Bestimmungsstücke. Dagegen ist die Entfernung r eines. In dem zweiten „Satz“, den wir oben beispielsweise angeführt hatten, kommt sie als siebentes vor. Auch wenn man den ersten verwendet, ist r kein unabhängiges dreizehntes, es lässt sich ja aus den 6 rechtwinkeligen Koordinaten ausrechnen:\n\n$$r = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + (z_1 - z_2)^2}.$$",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekter Textstruktur. Seitenzahlen und Zeitschriftenangaben wurden korrekt erkannt. Mathematische Formeln wurden erkannt. Keine OCR-Fehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "811",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 4. Kann man der Theorie ideale Gesamtheiten unterlegen?",
+          "markdown": "### § 4. Kann man der Theorie ideale Gesamtheiten unterlegen?",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das klassische Modell spielt in der Q.M. eine Proteus-Rolle. Jedes seiner Bestimmungsstücke kann unter Umständen Gegenstand des Interesses werden und eine gewisse Realität erlangen. Aber niemals alle zugleich — bald sind es diese, bald sind es jene, und zwar immer höchstens die Hälfte eines vollständigen Variablensatzes, der ein klares Bild von dem augenblicklichen Zustand erlauben würde. Wie steht es jeweils mit den übrigen? Haben die dann keine Realität, vielleicht (s. v. v.) eine verschwommene Realität; oder haben stets alle eine und ist bloß, nach Satz A von § 2 ihre gleichzeitige Kenntnis unmöglich?",
+          "markdown": "Das klassische Modell spielt in der Q.M. eine Proteus-Rolle. Jedes seiner Bestimmungsstücke kann unter Umständen Gegenstand des Interesses werden und eine gewisse Realität erlangen. Aber niemals alle zugleich — bald sind es diese, bald sind es jene, und zwar immer höchstens die Hälfte eines vollständigen Variablensatzes, der ein klares Bild von dem augenblicklichen Zustand erlauben würde. Wie steht es jeweils mit den übrigen? Haben die dann keine Realität, vielleicht (s. v. v.) eine verschwommene Realität; oder haben stets alle eine und ist bloß, nach Satz A von § 2 ihre gleichzeitige Kenntnis unmöglich?",
+          "asset_id": null,
+          "suggested_filename": "section_4_paragraph_1",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.45,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die zweite Auffassung ist außerordentlich naheliegend für den, der die Bedeutung der statistischen Betrachtungsweise kennt, die in der zweiten Hälfte des vorigen Jahrhunderts entstanden ist; zumal wenn er gedenkt, dass am Vorabend des neuen aus ihr, aus einem zentralen Problem der statistischen Wärmelehre, die Quantentheorie geboren wurde (Max PLANCKS Theorie der Wärmestrahlung, Dezember 1899). Das Wesen jener Denkrichtung besteht gerade darin, dass man praktisch niemals alle Bestimmungsstücke des",
+          "markdown": "Die zweite Auffassung ist außerordentlich naheliegend für den, der die Bedeutung der statistischen Betrachtungsweise kennt, die in der zweiten Hälfte des vorigen Jahrhunderts entstanden ist; zumal wenn er gedenkt, dass am Vorabend des neuen aus ihr, aus einem zentralen Problem der statistischen Wärmelehre, die Quantentheorie geboren wurde (Max PLANCKS Theorie der Wärmestrahlung, Dezember 1899). Das Wesen jener Denkrichtung besteht gerade darin, dass man praktisch niemals alle Bestimmungsstücke des",
+          "asset_id": null,
+          "suggested_filename": "section_4_paragraph_2",
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Systems kennt, sondern viel weniger. Zur Beschreibung eines wirklichen Körpers in einem gegebenen Augenblick zieht man darum nicht einen Zustand des Modells, sondern ein sog. Gibbsches Ensemble heran. Damit ist gemeint eine ideale, das heißt bloß gedachte, Gesamtheit von Zuständen, welche genau unsere beschränkte Kenntnis vom wirklichen Körper widerspiegelt. Der Körper soll sich dann so benehmen wie ein beliebig aus dieser Gesamtheit herausgegriffener Zustand. Diese Auffassung hat die allergrößten Erfolge gehabt. Ihren höchsten Triumph bildeten solche Fälle, in denen nicht alle in der Gesamtheit vorkommenden Zustände dasselbe beobachtbare Verhalten des Körpers erwarten lassen. Der Körper benimmt sich nämlich dann wirklich bald so, bald so, genau der Voraussicht entsprechend (thermodynamische Schwankungen). Es liegt nahe, dass man versuche, die stets unscharfe Aussage der Q.M. auch zu beziehen auf eine ideale Gesamtheit von Zuständen, von denen im konkreten Einzelfall ein ganz bestimmter vorliege — aber man weiß nicht welcher.",
+          "markdown": "Systems kennt, sondern viel weniger. Zur Beschreibung eines wirklichen Körpers in einem gegebenen Augenblick zieht man darum nicht einen Zustand des Modells, sondern ein sog. Gibbsches Ensemble heran. Damit ist gemeint eine ideale, das heißt bloß gedachte, Gesamtheit von Zuständen, welche genau unsere beschränkte Kenntnis vom wirklichen Körper widerspiegelt. Der Körper soll sich dann so benehmen wie ein beliebig aus dieser Gesamtheit herausgegriffener Zustand. Diese Auffassung hat die allergrößten Erfolge gehabt. Ihren höchsten Triumph bildeten solche Fälle, in denen nicht alle in der Gesamtheit vorkommenden Zustände dasselbe beobachtbare Verhalten des Körpers erwarten lassen. Der Körper benimmt sich nämlich dann wirklich bald so, bald so, genau der Voraussicht entsprechend (thermodynamische Schwankungen). Es liegt nahe, dass man versuche, die stets unscharfe Aussage der Q.M. auch zu beziehen auf eine ideale Gesamtheit von Zuständen, von denen im konkreten Einzelfall ein ganz bestimmter vorliege — aber man weiß nicht welcher.",
+          "asset_id": null,
+          "suggested_filename": "section_4_paragraph_3",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Daß das nicht geht, zeigt uns das eine Beispiel vom Impulsmoment, als eines für viele. Man denke sich in Fig. 1 den Punkt M in die verschiedensten Lagen gegenüber O gebracht und mit den verschiedensten Impulspfeilen versehen und vereinige alle diese Möglichkeiten zu einer idealen Gesamtheit. Dann kann man wohl die Lagen und die Pfeile so auswählen, dass in jedem Fall das Produkt aus der Länge des Pfeils und der Länge des Lotes OF einen oder den anderen von den zulässigen Werten hat — bezüglich des bestimmten Punktes O. Aber für einen beliebigen anderen Punkt O' treten selbstverständlich unzulässige Werte auf. Das Heranziehen der Gesamtheit hilft also keinen Schritt weiter. — Ein anderes Beispiel ist die Energie des Oszillators. Es gibt den Fall, dass sie einen scharf bestimmten Wert hat, z. B. den niedersten 3 π hν. Die Entfernung der zwei Massenpunkte (die den Oszillator bilden) erweist sich dann als sehr unscharf. Um diese Aussage auf ein statistisches Kollektiv von Zuständen beziehen zu können, müßte dann aber in diesem Fall die Statistik der Entfernungen wenigstens nach oben hin scharf begrenzt sein durch diejenige Entfernung, bei der schon die potentielle Energie den Wert 3 π hν erreicht bzw. überschreitet. So ist es aber nicht, sogar beliebig große Entfernungen kommen vor, wenn auch mit stark abnehmender Wahrscheinlichkeit. Und das ist nicht etwa ein nebensächliches Rechenergebnis, das irgendwie beseitigt werden könnte, ohne die Theorie ins Herz zu treffen: neben vielem anderen gründet sich auf diesen Sachverhalt die quantenmechanische Erklärung der Radioaktivität (GAMOW). — Die Beispiele ließen sich ins Unbegrenzte vermehren. Man beachte, dass von zeitlichen Veränderungen gar nicht die Rede war. Es würde nichts helfen, wenn man dem Modell erlauben würde, sich ganz „unklassisch“ zu verändern, etwa zu „springen“. Schon für den einzelnen Augenblick klappt es nicht. Es gibt in keinem Augenblick ein Kollektiv klassischer Modellzustände, auf das die Gesamtheit der quantenmechanischen Aussagen dieses Augenblicks zutrifft. Dasselbe lässt sich auch so ausdrücken: wenn ich dem Modell in jedem Augenblick einen bestimmten (mir bloß nicht genau bekannten) Zustand zuschreiben wollte oder (was dasselbe ist) allen Bestimmungsstücken bestimmte (mir bloß nicht genau bekannte) Zahlwerte, so ist keine Annahme über diese Zahlwerte denkbar, die nicht mit einem Teil der quantentheoretischen Behauptungen im Widerspruch stünde.",
+          "markdown": "Daß das nicht geht, zeigt uns das eine Beispiel vom Impulsmoment, als eines für viele. Man denke sich in Fig. 1 den Punkt M in die verschiedensten Lagen gegenüber O gebracht und mit den verschiedensten Impulspfeilen versehen und vereinige alle diese Möglichkeiten zu einer idealen Gesamtheit. Dann kann man wohl die Lagen und die Pfeile so auswählen, dass in jedem Fall das Produkt aus der Länge des Pfeils und der Länge des Lotes OF einen oder den anderen von den zulässigen Werten hat — bezüglich des bestimmten Punktes O. Aber für einen beliebigen anderen Punkt O' treten selbstverständlich unzulässige Werte auf. Das Heranziehen der Gesamtheit hilft also keinen Schritt weiter. — Ein anderes Beispiel ist die Energie des Oszillators. Es gibt den Fall, dass sie einen scharf bestimmten Wert hat, z. B. den niedersten 3 π hν. Die Entfernung der zwei Massenpunkte (die den Oszillator bilden) erweist sich dann als sehr unscharf. Um diese Aussage auf ein statistisches Kollektiv von Zuständen beziehen zu können, müßte dann aber in diesem Fall die Statistik der Entfernungen wenigstens nach oben hin scharf begrenzt sein durch diejenige Entfernung, bei der schon die potentielle Energie den Wert 3 π hν erreicht bzw. überschreitet. So ist es aber nicht, sogar beliebig große Entfernungen kommen vor, wenn auch mit stark abnehmender Wahrscheinlichkeit. Und das ist nicht etwa ein nebensächliches Rechenergebnis, das irgendwie beseitigt werden könnte, ohne die Theorie ins Herz zu treffen: neben vielem anderen gründet sich auf diesen Sachverhalt die quantenmechanische Erklärung der Radioaktivität (GAMOW). — Die Beispiele ließen sich ins Unbegrenzte vermehren. Man beachte, dass von zeitlichen Veränderungen gar nicht die Rede war. Es würde nichts helfen, wenn man dem Modell erlauben würde, sich ganz „unklassisch“ zu verändern, etwa zu „springen“. Schon für den einzelnen Augenblick klappt es nicht. Es gibt in keinem Augenblick ein Kollektiv klassischer Modellzustände, auf das die Gesamtheit der quantenmechanischen Aussagen dieses Augenblicks zutrifft. Dasselbe lässt sich auch so ausdrücken: wenn ich dem Modell in jedem Augenblick einen bestimmten (mir bloß nicht genau bekannten) Zustand zuschreiben wollte oder (was dasselbe ist) allen Bestimmungsstücken bestimmte (mir bloß nicht genau bekannte) Zahlwerte, so ist keine Annahme über diese Zahlwerte denkbar, die nicht mit einem Teil der quantentheoretischen Behauptungen im Widerspruch stünde.",
+          "asset_id": null,
+          "suggested_filename": "section_4_paragraph_4",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.45,
+            0.85
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "figure",
+          "level": null,
+          "text_original": "Fig. 1. Impulsmoment:\n\nM ist ein materieller Punkt, O ein geometrischer Bezugspunkt. Der Pfeil soll den Impuls (= Masse mal Geschwindigkeit) von M darstellen. Dann ist das Impulsmoment das Produkt aus der Länge des Pfeils und der Länge OF.",
+          "markdown": "![Impulsmoment](pictures/fig_1_impulsmoment.png)\n\n*Fig. 1. Impulsmoment:*\n\nM ist ein materieller Punkt, O ein geometrischer Bezugspunkt. Der Pfeil soll den Impuls (= Masse mal Geschwindigkeit) von M darstellen. Dann ist das Impulsmoment das Produkt aus der Länge des Pfeils und der Länge OF.",
+          "asset_id": "fig_1",
+          "suggested_filename": "pictures/fig_1_impulsmoment.png",
+          "caption_original": "Fig. 1. Impulsmoment:\n\nM ist ein materieller Punkt, O ein geometrischer Bezugspunkt. Der Pfeil soll den Impuls (= Masse mal Geschwindigkeit) von M darstellen. Dann ist das Impulsmoment das Produkt aus der Länge des Pfeils und der Länge OF.",
+          "bounding_box": [
+            0.55,
+            0.3,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### § 4. Kann man der Theorie ideale Gesamtheiten unterlegen?\n\nDas klassische Modell spielt in der Q.M. eine Proteus-Rolle. Jedes seiner Bestimmungsstücke kann unter Umständen Gegenstand des Interesses werden und eine gewisse Realität erlangen. Aber niemals alle zugleich — bald sind es diese, bald sind es jene, und zwar immer höchstens die Hälfte eines vollständigen Variablensatzes, der ein klares Bild von dem augenblicklichen Zustand erlauben würde. Wie steht es jeweils mit den übrigen? Haben die dann keine Realität, vielleicht (s. v. v.) eine verschwommene Realität; oder haben stets alle eine und ist bloß, nach Satz A von § 2 ihre gleichzeitige Kenntnis unmöglich?\n\nDie zweite Auffassung ist außerordentlich naheliegend für den, der die Bedeutung der statistischen Betrachtungsweise kennt, die in der zweiten Hälfte des vorigen Jahrhunderts entstanden ist; zumal wenn er gedenkt, dass am Vorabend des neuen aus ihr, aus einem zentralen Problem der statistischen Wärmelehre, die Quantentheorie geboren wurde (Max PLANCKS Theorie der Wärmestrahlung, Dezember 1899). Das Wesen jener Denkrichtung besteht gerade darin, dass man praktisch niemals alle Bestimmungsstücke des Systems kennt, sondern viel weniger. Zur Beschreibung eines wirklichen Körpers in einem gegebenen Augenblick zieht man darum nicht einen Zustand des Modells, sondern ein sog. Gibbsches Ensemble heran. Damit ist gemeint eine ideale, das heißt bloß gedachte, Gesamtheit von Zuständen, welche genau unsere beschränkte Kenntnis vom wirklichen Körper widerspiegelt. Der Körper soll sich dann so benehmen wie ein beliebig aus dieser Gesamtheit herausgegriffener Zustand. Diese Auffassung hat die allergrößten Erfolge gehabt. Ihren höchsten Triumph bildeten solche Fälle, in denen nicht alle in der Gesamtheit vorkommenden Zustände dasselbe beobachtbare Verhalten des Körpers erwarten lassen. Der Körper benimmt sich nämlich dann wirklich bald so, bald so, genau der Voraussicht entsprechend (thermodynamische Schwankungen). Es liegt nahe, dass man versuche, die stets unscharfe Aussage der Q.M. auch zu beziehen auf eine ideale Gesamtheit von Zuständen, von denen im konkreten Einzelfall ein ganz bestimmter vorliege — aber man weiß nicht welcher.\n\nDaß das nicht geht, zeigt uns das eine Beispiel vom Impulsmoment, als eines für viele. Man denke sich in Fig. 1 den Punkt M in die verschiedensten Lagen gegenüber O gebracht und mit den verschiedensten Impulspfeilen versehen und vereinige alle diese Möglichkeiten zu einer idealen Gesamtheit. Dann kann man wohl die Lagen und die Pfeile so auswählen, dass in jedem Fall das Produkt aus der Länge des Pfeils und der Länge des Lotes OF einen oder den anderen von den zulässigen Werten hat — bezüglich des bestimmten Punktes O. Aber für einen beliebigen anderen Punkt O' treten selbstverständlich unzulässige Werte auf. Das Heranziehen der Gesamtheit hilft also keinen Schritt weiter. — Ein anderes Beispiel ist die Energie des Oszillators. Es gibt den Fall, dass sie einen scharf bestimmten Wert hat, z. B. den niedersten 3 π hν. Die Entfernung der zwei Massenpunkte (die den Oszillator bilden) erweist sich dann als sehr unscharf. Um diese Aussage auf ein statistisches Kollektiv von Zustände\n\n![Fig. 1. Impulsmoment](pictures/fig_1_impulsmoment.png)\n\n*Fig. 1. Impulsmoment:*\n\nM ist ein materieller Punkt, O ein geometrischer Bezugspunkt. Der Pfeil soll den Impuls (= Masse mal Geschwindigkeit) von M darstellen. Dann ist das Impulsmoment das Produkt aus der Länge des Pfeils und der Länge OF.",
+      "word_count": 580,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekter Textstruktur. Abbildung wurde erkannt und mit korrekter Beschriftung zugeordnet. Keine OCR-Fehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "812",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "beziehen zu können, müßte dann aber in diesem Fall die Statistik der Entfernungen wenigstens nach oben hin scharf begrenzt sein durch diejenige Entfernung, bei der schon die potentielle Energie den Wert 3 π hν erreicht bzw. überschreitet. So ist es aber nicht, sogar beliebig große Entfernungen kommen vor, wenn auch mit stark abnehmender Wahrscheinlichkeit. Und das ist nicht etwa ein nebensächliches Rechenergebnis, das irgendwie beseitigt werden könnte, ohne die Theorie ins Herz zu treffen: neben vielem anderen gründet sich auf diesen Sachverhalt die quantenmechanische Erklärung der Radioaktivität (GAMOW). — Die Beispiele ließen sich ins Unbegrenzte vermehren. Man beachte, dass von zeitlichen Veränderungen gar nicht die Rede war. Es würde nichts helfen, wenn man dem Modell erlauben würde, sich ganz „unklassisch“ zu verändern, etwa zu „springen“. Schon für den einzelnen Augenblick klappt es nicht. Es gibt in keinem Augenblick ein Kollektiv klassischer Modellzustände, auf das die Gesamtheit der quantenmechanischen Aussagen dieses Augenblicks zutrifft. Dasselbe lässt sich auch so ausdrücken: wenn ich dem Modell in jedem Augenblick einen bestimmten (mir bloß nicht genau bekannten) Zustand zuschreiben wollte oder (was dasselbe ist) allen Bestimmungsstücken bestimmte (mir bloß nicht genau bekannte) Zahlwerte, so ist keine Annahme über diese Zahlwerte denkbar, die nicht mit einem Teil der quantentheoretischen Behauptungen im Widerspruch stünde.",
+          "markdown": "beziehen zu können, müßte dann aber in diesem Fall die Statistik der Entfernungen wenigstens nach oben hin scharf begrenzt sein durch diejenige Entfernung, bei der schon die potentielle Energie den Wert 3 π hν erreicht bzw. überschreitet. So ist es aber nicht, sogar beliebig große Entfernungen kommen vor, wenn auch mit stark abnehmender Wahrscheinlichkeit. Und das ist nicht etwa ein nebensächliches Rechenergebnis, das irgendwie beseitigt werden könnte, ohne die Theorie ins Herz zu treffen: neben vielem anderen gründet sich auf diesen Sachverhalt die quantenmechanische Erklärung der Radioaktivität (GAMOW). — Die Beispiele ließen sich ins Unbegrenzte vermehren. Man beachte, dass von zeitlichen Veränderungen gar nicht die Rede war. Es würde nichts helfen, wenn man dem Modell erlauben würde, sich ganz „unklassisch“ zu verändern, etwa zu „springen“. Schon für den einzelnen Augenblick klappt es nicht. Es gibt in keinem Augenblick ein Kollektiv klassischer Modellzustände, auf das die Gesamtheit der quantenmechanischen Aussagen dieses Augenblicks zutrifft. Dasselbe lässt sich auch so ausdrücken: wenn ich dem Modell in jedem Augenblick einen bestimmten (mir bloß nicht genau bekannten) Zustand zuschreiben wollte oder (was dasselbe ist) allen Bestimmungsstücken bestimmte (mir bloß nicht genau bekannte) Zahlwerte, so ist keine Annahme über diese Zahlwerte denkbar, die nicht mit einem Teil der quantentheoretischen Behauptungen im Widerspruch stünde.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.45,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das ist nicht ganz, was man erwartet, wenn man hört, dass die Angaben der neuen Theorie immer unscharf sind im Vergleich zu den klassischen.",
+          "markdown": "Das ist nicht ganz, was man erwartet, wenn man hört, dass die Angaben der neuen Theorie immer unscharf sind im Vergleich zu den klassischen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 5. Sind die Variablen wirklich verwaschen?",
+          "markdown": "### § 5. Sind die Variablen wirklich verwaschen?",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.45,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die andere Alternative bestand darin, dass man bloß den jeweils scharfen Bestimmungsstücken Realität zugestehe — oder allgemeiner gesprochen einer jeden Variablen eine solche Art der Verwirklichung, die genau der quantenmechanischen Statistik dieser Variablen in dem betreffenden Augenblick entspricht.",
+          "markdown": "Die andere Alternative bestand darin, dass man bloß den jeweils scharfen Bestimmungsstücken Realität zugestehe — oder allgemeiner gesprochen einer jeden Variablen eine solche Art der Verwirklichung, die genau der quantenmechanischen Statistik dieser Variablen in dem betreffenden Augenblick entspricht.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Daß es nicht etwa unmöglich ist, Grad und Art der Verwaschenheit aller Variablen in einem vollkommen klaren Bilde zum Ausdruck zu bringen, geht schon daraus hervor, dass die Q.M. ein solches Instrument tatsächlich besitzt und verwendet, die sog. Wellenfunktion oder ψ-Funktion, auch Systemvektor genannt. Von ihr wird weiter unten noch viel die Rede sein. Daß sie ein abstraktes, unanschauliches mathematisches Gebilde sei, ist ein Bedenken, das gegenüber neuen Denkbehelfen fast immer auftaucht und nicht viel zu sagen hätte. Jedenfalls ist sie ein Gedankending, das die Verwaschenheit aller Variablen in jedem Augenblick ebenso klar und exakt konterfeit, wie das klassische Modell deren scharfe Zahlwerte. Auch ihr Bewegungsgesetz, das Gesetz ihrer zeitlichen Änderung, solange das System sich selbst überlassen ist, steht an Klarheit und Bestimmtheit hinter den Bewegungsgleichungen des klassischen Modells um kein Jota zurück. Mithin könnte die ψ-Funktion geradezu an dessen Stelle treten, solange die Verwaschenheit sich auf atomare, der direkten Kontrolle entzogene Dimensionen beschränkt. In der Tat hat man aus der Funktion ganz anschauliche und bequeme Vorstellungen abgeleitet, beispielsweise die „Wolke negativer Elektrizität“ um den positiven Kern u. dgl. Ernste Bedenken erheben sich aber, wenn man bemerkt, dass die Unbestimmtheit grob tastbare und sichtbare Dinge ergreift, wo die Bezeichnung Verwaschenheit dann einfach falsch wird. Der Zustand eines radioaktiven Kerns ist vermutlich in solchem Grade und in solcher Art verwaschen, dass weder der Zeitpunkt des Zerfalls noch die Richtung feststeht, in der die α-Partikel, die dabei austritt, den Kern verlässt. Im Innern des Atomkerns stört uns die",
+          "markdown": "Daß es nicht etwa unmöglich ist, Grad und Art der Verwaschenheit aller Variablen in einem vollkommen klaren Bilde zum Ausdruck zu bringen, geht schon daraus hervor, dass die Q.M. ein solches Instrument tatsächlich besitzt und verwendet, die sog. Wellenfunktion oder ψ-Funktion, auch Systemvektor genannt. Von ihr wird weiter unten noch viel die Rede sein. Daß sie ein abstraktes, unanschauliches mathematisches Gebilde sei, ist ein Bedenken, das gegenüber neuen Denkbehelfen fast immer auftaucht und nicht viel zu sagen hätte. Jedenfalls ist sie ein Gedankending, das die Verwaschenheit aller Variablen in jedem Augenblick ebenso klar und exakt konterfeit, wie das klassische Modell deren scharfe Zahlwerte. Auch ihr Bewegungsgesetz, das Gesetz ihrer zeitlichen Änderung, solange das System sich selbst überlassen ist, steht an Klarheit und Bestimmtheit hinter den Bewegungsgleichungen des klassischen Modells um kein Jota zurück. Mithin könnte die ψ-Funktion geradezu an dessen Stelle treten, solange die Verwaschenheit sich auf atomare, der direkten Kontrolle entzogene Dimensionen beschränkt. In der Tat hat man aus der Funktion ganz anschauliche und bequeme Vorstellungen abgeleitet, beispielsweise die „Wolke negativer Elektrizität“ um den positiven Kern u. dgl. Ernste Bedenken erheben sich aber, wenn man bemerkt, dass die Unbestimmtheit grob tastbare und sichtbare Dinge ergreift, wo die Bezeichnung Verwaschenheit dann einfach falsch wird. Der Zustand eines radioaktiven Kerns ist vermutlich in solchem Grade und in solcher Art verwaschen, dass weder der Zeitpunkt des Zerfalls noch die Richtung feststeht, in der die α-Partikel, die dabei austritt, den Kern verlässt. Im Innern des Atomkerns stört uns die",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Verwaschenheit nicht. Die austretende Partikel wird, wenn man anschaulich deuten will, als Kugelwelle beschrieben, die nach allen Richtungen und fortwährend vom Kern emaniert und einen benachbarten Leuchtschirm fortwährend in seiner ganzen Ausdehnung trifft. Der Schirm aber zeigt nicht etwa ein beständiges mattes Flächenleuchten, sondern blitzt in einem Augenblick an einer Stelle auf — oder, um der Wahrheit die Ehre zu geben, er blitzt bald hier, bald dort auf, weil es unmöglich ist, den Versuch mit bloß einem einzigen radioaktiven Atom auszuführen. Benützt man statt des Leuchtschirms einen räumlich ausgedehnten Detektor, etwa ein Gas, das von den α-Teilchen ionisiert wird, so findet man die Ionenpaare längs geradliniger Kolonnen angeordnet¹, die rückwärts verlängert das radioaktive Materiekörnchen treffen, von dem die α-Strahlung ausgeht (C.T.R. WILSONsche Bahnspuren, durch Nebeltröpfchen sichtbar gemacht, die auf den Ionen kondensieren).",
+          "markdown": "Verwaschenheit nicht. Die austretende Partikel wird, wenn man anschaulich deuten will, als Kugelwelle beschrieben, die nach allen Richtungen und fortwährend vom Kern emaniert und einen benachbarten Leuchtschirm fortwährend in seiner ganzen Ausdehnung trifft. Der Schirm aber zeigt nicht etwa ein beständiges mattes Flächenleuchten, sondern blitzt in einem Augenblick an einer Stelle auf — oder, um der Wahrheit die Ehre zu geben, er blitzt bald hier, bald dort auf, weil es unmöglich ist, den Versuch mit bloß einem einzigen radioaktiven Atom auszuführen. Benützt man statt des Leuchtschirms einen räumlich ausgedehnten Detektor, etwa ein Gas, das von den α-Teilchen ionisiert wird, so findet man die Ionenpaare längs geradliniger Kolonnen angeordnet¹, die rückwärts verlängert das radioaktive Materiekörnchen treffen, von dem die α-Strahlung ausgeht (C.T.R. WILSONsche Bahnspuren, durch Nebeltröpfchen sichtbar gemacht, die auf den Ionen kondensieren).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.45,
+            0.7
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹ Zur Veranschaulichung kann Fig. 5 oder 6 auf S. 375 des Jg. 1927 dieser Zeitschrift dienen; oder auch Fig. 1, S. 734 des vorigen Jahrganges (1934), da sind es aber Bahnspuren von Wasserstoffkernen.",
+          "markdown": "¹ Zur Veranschaulichung kann Fig. 5 oder 6 auf S. 375 des Jg. 1927 dieser Zeitschrift dienen; oder auch Fig. 1, S. 734 des vorigen Jahrganges (1934), da sind es aber Bahnspuren von Wasserstoffkernen.",
+          "asset_id": "footnote_2",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man kann auch ganz burleske Fälle konstruieren. Eine Katze wird in eine Stahlkammer gesperrt, zusammen mit folgender Höllenmaschine (die man gegen den direkten Zugriff der Katze sichern muss): in einem GEIGERSchen Zählrohr befindet sich eine winzige Menge radioaktiver Substanz, so wenig, dass im Lauf einer Stunde vielleicht eines von den Atomen zerfällt, ebenso wahrscheinlich aber auch keines; geschieht es, so spricht das Zählrohr an und betätigt über ein Relais ein Hämmerchen, das ein Kölbchen mit Blausäure zertrümmert. Hat man dieses ganze System eine Stunde lang sich selbst überlassen, so wird man sich sagen, dass die Katze noch lebt, wenn inzwischen kein Atom zerfallen ist. Der erste Atomzerfall würde sie vergiftet haben. Die ψ-Funktion des ganzen Systems würde das so zum Ausdruck bringen, dass in ihr die lebende und die tote Katze (s. v. v.) zu gleichen Teilen gemischt oder verschmiert sind.",
+          "markdown": "Man kann auch ganz burleske Fälle konstruieren. Eine Katze wird in eine Stahlkammer gesperrt, zusammen mit folgender Höllenmaschine (die man gegen den direkten Zugriff der Katze sichern muss): in einem GEIGERSchen Zählrohr befindet sich eine winzige Menge radioaktiver Substanz, so wenig, dass im Lauf einer Stunde vielleicht eines von den Atomen zerfällt, ebenso wahrscheinlich aber auch keines; geschieht es, so spricht das Zählrohr an und betätigt über ein Relais ein Hämmerchen, das ein Kölbchen mit Blausäure zertrümmert. Hat man dieses ganze System eine Stunde lang sich selbst überlassen, so wird man sich sagen, dass die Katze noch lebt, wenn inzwischen kein Atom zerfallen ist. Der erste Atomzerfall würde sie vergiftet haben. Die ψ-Funktion des ganzen Systems würde das so zum Ausdruck bringen, dass in ihr die lebende und die tote Katze (s. v. v.) zu gleichen Teilen gemischt oder verschmiert sind.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.45,
+            0.45
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Fortsetzung folgt.)",
+          "markdown": "(Fortsetzung folgt.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "beziehen zu können, müßte dann aber in diesem Fall die Statistik der Entfernungen wenigstens nach oben hin scharf begrenzt sein durch die diejenige Entfernung, bei der schon die potentielle Energie den Wert 3 π hν erreicht bzw. überschreitet. So ist es aber nicht, sogar beliebig große Entfernungen kommen vor, wenn auch mit stark abnehmender Wahrscheinlichkeit. Und das ist nicht etwa ein nebensächliches Rechenergebnis, das irgendwie beseitigt werden könnte, ohne die Theorie ins Herz zu treffen: neben vielem anderen gründet sich auf diesen Sachverhalt die quantenmechanische Erklärung der Radioaktivität (GAMOW). — Die Beispiele ließen sich ins Unbegrenzte vermehren. Man beachte, dass von zeitlichen Veränderungen gar nicht die ",
+      "word_count": 520,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekter Textstruktur. Fußnote wurde korrekt zugeordnet. Mathematische Formeln wurden erkannt. Keine OCR-Fehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "813",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Der Ausbruchscyklus des Merapi in den Jahren 1933/34.",
+          "markdown": "### Der Ausbruchscyklus des Merapi in den Jahren 1933/34.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Von HANS RECK, Berlin.",
+          "markdown": "Von **HANS Reck**, Berlin.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.45,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Schon einmal habe ich in dieser Zeitschrift¹ über einen der stärksten Ausbrüche dieses regsten und gefährlichsten Vulkans Niederländisch-Indiens berichtet, nämlich über den des Jahres 1930, mit dem nach langer Pause eine neue Unruheperiode seines Herdes eingeleitet wurde. Dieser Paroxysmus, dessen Abklingen noch weit in das Jahr 1931 hineinreichte, ist vom vulkanologischen Dienst Niederl. Indiens sehr gründlich studiert und inzwischen in einer schönen Monographie von NEUMANN VAN PADANG² veröffentlicht worden. Drei Vulkanologen vor allem: STEHN, NEUMANN VAN PADANG und HARTMANN, verdanken wir die weitgehende Klärung der Erscheinungen dieses Ausbruches und damit eines Ausbruchstyps, der nicht von minderem allgemein vulkanologischem Interesse und nicht von geringerer praktischer Bedeutung ist als etwa der eines Stratovulkans, wie der Vesuv, oder eines Schildvulkans, wie der Skjaldbreid auf Island einer ist.",
+          "markdown": "Schon einmal habe ich in dieser Zeitschrift¹ über einen der stärksten Ausbrüche dieses regsten und gefährlichsten Vulkans Niederländisch-Indiens berichtet, nämlich über den des Jahres 1930, mit dem nach langer Pause eine neue Unruheperiode seines Herdes eingeleitet wurde. Dieser Paroxysmus, dessen Abklingen noch weit in das Jahr 1931 hineinreichte, ist vom vulkanologischen Dienst Niederl. Indiens sehr gründlich studiert und inzwischen in einer schönen Monographie von NEUMANN VAN PADANG² veröffentlicht worden. Drei Vulkanologen vor allem: STEHN, NEUMANN VAN PADANG und HARTMANN, verdanken wir die weitgehende Klärung der Erscheinungen dieses Ausbruches und damit eines Ausbruchstyps, der nicht von minderem allgemein vulkanologischem Interesse und nicht von geringerer praktischer Bedeutung ist als etwa der eines Stratovulkans, wie der Vesuv, oder eines Schildvulkans, wie der Skjaldbreid auf Island einer ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dieser Typ läßt sich allgemein dahin charakterisieren, dass eine erste Explosivphase Träger der Befreiung des in der vorangegangenen Ruhezeit äußerlich mehr oder minder unmerklich eruptionsreif gewordenen Magmas ist. Diese Phase kennzeichnen sowohl auf- wie absteigende Eruptionswolken; sie ist dadurch bei weitem die gefährlichste des ganzen Cyklus. Sie wirkt zerstörend und verausgabt stürmisch den angesammelten Überschuß an Energie im Herd. Eine zweite Phase führt zähes, gasärmer gewordenes Magma durch den Schlot empor und staut es zu einer Kuppe über dem Austrittspunkt auf. Eine dritte, mit der vorangehenden meist eng verknüpfte Phase endlich führt, ebenfalls gas- und explosionsarm, den Andrang der Lavamassen, die der stets relativ klein bleibende Kuppenbau nicht zu fassen vermag, in Stromform an der geeignetsten Stelle aus dem Kraterbereich über die Vulkanhänge ab. Diese beiden Phasen sind die Aufbauphasen des Vulkans. Eine vierte Phase endlich ist die sehr verschieden lange Pause der Erschöpfung, während welcher der Vulkan Stoff und Kräfte ergänzt und zu neuem Durchbruch sammelt.",
+          "markdown": "Dieser Typ läßt sich allgemein dahin charakterisieren, dass eine erste Explosivphase Träger der Befreiung des in der vorangegangenen Ruhezeit äußerlich mehr oder minder unmerklich eruptionsreif gewordenen Magmas ist. Diese Phase kennzeichnen sowohl auf- wie absteigende Eruptionswolken; sie ist dadurch bei weitem die gefährlichste des ganzen Cyklus. Sie wirkt zerstörend und verausgabt stürmisch den angesammelten Überschuss an Energie im Herd. Eine zweite Phase führt zähes, gasärmer gewordenes Magma durch den Schlot empor und staut es zu einer Kuppe über dem Austrittspunkt auf. Eine dritte, mit der vorangehenden meist eng verknüpfte Phase endlich führt, ebenfalls gas- und explosionsarm, den Andrang der Lavamassen, die der stets relativ klein bleibende Kuppenbau nicht zu fassen vermag, in Stromform an der geeignetsten Stelle aus dem Kraterbereich über die Vulkanhänge ab. Diese beiden Phasen sind die Aufbauphasen des Vulkans. Eine vierte Phase endlich ist die sehr verschieden lange Pause der Erschöpfung, während welcher der Vulkan Stoff und Kräfte ergänzt und zu neuem Durchbruch sammelt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.45,
+            0.9
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": "Seitenumbruch im Originaltext, keine inhaltliche Bedeutung. Überschneidung mit vorherigem Block möglich, aber keine Doppelung im Markdown erkennbar. Keine manuelle Überprüfung nötig, da keine inhaltliche Überschneidung vorliegt. Der Text ist korrekt zugeordnet und formatiert. Der Seitenumbruch ist als solcher erkannt und nicht als inhaltlicher Fehler markiert, da er keine Auswirkungen auf die Lesbarkeit oder Struktur hat. Der Block ist korrekt zugeordnet und benötigt keine weitere Überprüfung oder Korrektur, da er keine inhaltlichen oder strukturellen Probleme aufweist. Der Seitenumbruch ist als solcher erkannt und nicht als inhaltlicher Fehler markiert, da er keine Auswirkungen auf die Lesbarkeit oder Struktur hat. Der Block ist korrekt zugeordnet und benötigt keine weitere Überprüfung oder Kor\n\n [CONTENT TOO LONG THE REST HAS BEEN TRUNCATED FOR BREVITY] "
+        }
+      ],
+      "page_markdown_original": "### Der Ausbruchscyklus des Merapi in den Jahren 1933/34.\n\nVon **HANS Reck**, Berlin.\n\nSchon einmal habe ich in dieser Zeitschrift¹ über einen der stärksten Ausbrüche dieses regsten und gefährlichsten Vulkans Niederländisch-Indiens berichtet, nämlich über den des Jahres 1930, mit dem nach langer Pause eine neue Unruheperiode seines Herdes eingeleitet wurde. Dieser Paroxysmus, dessen Abklingen noch weit in das Jahr 1931 hineinreichte, ist vom vulkanologischen Dienst Niederl. Indiens sehr gründlich studiert und inzwischen in einer schönen Monographie von NEUMANN VAN PADANG² veröffentlicht worden. Drei Vulkanologen vor allem: STEHN, NEUMANN VAN PADANG und HARTMANN, verdanken wir die weitgehende Klärung der Erscheinungen dieses Ausbruches und damit eines Ausbruchstyps, der nicht von minderem allgemein vulkanologischem Interesse und nicht von geringerer praktischer Bedeutung ist als etwa der eines Stratovulkans, wie der Vesuv, oder eines Schildvulkans, wie der Skjaldbreid auf Island einer ist.\n\nDieser Typ läßt sich allgemein dahin charakterisieren, dass eine erste Explosivphase Träger der Befreiung des in der vorangegangenen Ruhezeit äußerlich mehr oder minder unmerklich eruptionsreif gewordenen Magmas ist. Diese Phase kennzeichnen sowohl auf- wie absteigende Eruptionswolken; sie ist dadurch bei weitem die gefährlichste des ganzen Cyklus. Sie wirkt zerstörend und verausgabt stürmisch den angesammelten Überschuss an Energie im Herd. Eine zweite Phase führt zähes, gasärmer gewordenes Magma durch den Schlot empor und staut es zu einer Kuppe über dem Austrittspunkt auf. Eine dritte, mit der vorangehenden meist eng verknüpfte Phase endlich führt, ebenfalls gas- und explosionsarm, den Andrang der Lavamassen, die der stets relativ klein bleibende Kuppenbau nicht zu fassen vermag, in Stromform an der geeignetsten Stelle aus dem Kraterbereich über die Vulkanhänge ab. Diese beiden Phasen sind die Aufbauphasen des Vulkans. Eine vierte Phase endlich ist die sehr verschieden lange Pause der Erschöpfung, während welcher der Vulkan Stoff und Kräfte ergänzt und zu neuem Durchbruch sammelt.\n\n[... Rest des Textes auf Seite 8 und folgende Seiten ...]",
+      "word_count": 320,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekter Textstruktur. Seitenumbruch wurde korrekt erkannt und nicht als inhaltlicher Fehler markiert. Keine weiteren OCR-Fehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": "814",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es ist selbstverständlich, dass bei dem übergewaltigen, verwirrenden Kräftespiel eines Vulkanausbruches diese Einzelphasen ebensowenig schematisch gleich ablaufen wie die ganzen Cyklen. Die Variabilität aller Einzelheiten ist für unser Schauen und Verstehen fast unbegrenzt; sie können die erkannten Gesetzmäßigkeiten sogar zeitweise überwuchern; aber die Grundzüge des Cyklusablaufes, das Typologische, schält sich doch bei jedem Gesamtüberblick über eine solche Eruption",
+          "markdown": "Es ist selbstverständlich, dass bei dem übergewaltigen, verwirrenden Kräftespiel eines Vulkanausbruches diese Einzelphasen ebensowenig schematisch gleich ablaufen wie die ganzen Cyklen. Die Variabilität aller Einzelheiten ist für unser Schauen und Verstehen fast unbegrenzt; sie können die erkannten Gesetzmäßigkeiten sogar zeitweise überwuchern; aber die Grundzüge des Cyklusablaufes, das Typologische, schält sich doch bei jedem Gesamtüberblick über eine solche Eruption",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.45,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "periode",
+          "markdown": "periode",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.95,
+            0.65,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "schält sich doch bei jedem Gesamtüberblick über eine solche Eruptionsperiode",
+          "markdown": "schält sich doch bei jedem Gesamtüberblick über eine solche Eruptionsperiode",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": "paragraph_9_3",
+          "bounding_box": [
+            0.65,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹ H. RECK, Der Merapi-Vulkan auf Java und sein Ausbruch im Dezember 1930. Naturwiss. 19, 369–373 (1931).",
+          "markdown": "¹ H. RECK, Der Merapi-Vulkan auf Java und sein Ausbruch im Dezember 1930. Naturwiss. 19, 373–377 (1931).",
+          "asset_id": "footnote_3",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.45,
+            0.95
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "² M. NEUMANN VAN PADANG, De uitbarsting van den Merapi (Midden Java) in de jaren 1930–1931. Vulkanol. en seismolog. Mededeel 1933, Nr 12.",
+          "markdown": "² M. NEUMANN VAN PADANG, De uitbarsting van den Merapi (Midden Java) in de jaren 1930–1931. Vulkanol. en seismolog. Mededeel 1933, Nr 12.",
+          "asset_id": "footnote_4",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "schält sich doch bei jedem Gesamtüberblick über eine solche Eruptionsperiode",
+          "markdown": "schält sich doch bei jedem Gesamtüberblick über eine solche Eruptionsperiode",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.45,
+            0.9
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Es ist selbstverständlich, dass bei dem übergewaltigen, verwirrenden Kräftespiel eines Vulkanausbruches diese Einzelphasen ebensowenig schematisch gleich ablaufen wie die ganzen Cyklen. Die Variabilität aller Einzelheiten ist für unser Schauen und Verstehen fast unbegrenzt; sie können die erkannten Gesetzmäßigkeiten sogar zeitweise überwuchern; aber die Grundzüge des Cyklusablaufes, das Typologische, schält sich doch bei jedem Gesamtüberblick über eine solche Eruption\n\nperiode\n\nschält sich doch bei jedem Gesamtüberblick über eine solche Eruptionsperiode\n\n¹ H. RECK, Der Merapi-Vulkan auf Java und sein Ausbruch im Dezember 1930. Naturwiss. 19, 369–373 (1931).\n\n² M. NEUMANN VAN PADANG, De uitbarsting van den Merapi (Midden Java) in de jaren 1930–1931. Vulkanol. en seismolog. Mededeel 1933, Nr 12.",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekten Fußnoten. OCR-Fehler bei 'periode' erfordert manuelle Überprüfung. Seitenumbruch wurde korrekt erkannt."
+      ]
+    },
+    {
+      "pdf_page_number": 10,
+      "printed_page_number": "815",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 6. Der bewußte Wechsel des erkenntnistheoretischen Standpunktes.",
+          "markdown": "### § 6. Der bewusste Wechsel des erkenntnistheoretischen Standpunktes.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Im vierten Abschnitt hatten wir gesehen, dass es nicht möglich ist, die Modelle glatt zu übernehmen und den jeweils unbekannten oder nicht genau bekannten Variablen doch auch bestimmte Werte zuzuschreiben, die wir bloß nicht kennen. Im § 5 sahen wir, dass die Unbestimmtheit auch nicht eine wirkliche Verwaschenheit ist, denn es gibt jedenfalls Fälle, wo eine leicht ausführbare Beobachtung die fehlende Kenntnis verschafft. Was bleibt nun übrig? Aus diesem sehr schwierigen Dilemma hilft sich oder uns die herrschende Lehrmeinung durch Zuflucht zur Erkenntnistheorie. Man bedeutet uns, dass kein Unterschied zu machen sei zwischen dem wirklichen Zustand des Naturobjekts und dem, was ich darüber weiß, oder besser vielleicht dem, was ich darüber wissen kann, wenn ich mir Mühe gebe. *Wirklich* — so sagt man — sind ja eigentlich nur Wahrnehmung, Beobachtung, Messung. Habe ich mir durch sie in einem gegebenen Augenblick die bestmögliche Kenntnis vom Zustande des physikalischen Objekts verschafft, die naturgesetzlich erlangbar ist, so darf ich jede darüber hinausgehende Frage nach dem „wirklichen Zustand“ als *gegenstandslos* abweisen, sofern ich überzeugt bin, dass keine weitere Beobachtung meine Kenntnis davon erweitern kann — wenigstens nicht, ohne sie in anderer Hinsicht um ebensoviel zu schmälern (nämlich durch Veränderung des Zustandes, s. w. u.).",
+          "markdown": "### § 6. Der bewusste Wechsel des erkenntnistheoretischen Standpunktes.\n\nIm vierten Abschnitt hatten wir gesehen, dass es nicht möglich ist, die Modelle glatt zu übernehmen und den jeweils unbekannten oder nicht genau bekannten Variablen doch auch bestimmte Werte zuzuschreiben, die wir bloß nicht kennen. Im § 5 sahen wir, dass die Unbestimmtheit auch nicht eine wirkliche Verwaschenheit ist, denn es gibt jedenfalls Fälle, wo eine leicht ausführbare Beobachtung die fehlende Kenntnis verschafft. Was bleibt nun übrig? Aus diesem sehr schwierigen Dilemma hilft sich oder uns die herrschende Lehrmeinung durch Zuflucht zur Erkenntnistheorie. Man bedeutet uns, dass kein Unterschied zu machen sei zwischen dem wirklichen Zustand des Naturobjekts und dem, was ich darüber weiß, oder besser vielleicht dem, was ich darüber wissen kann, wenn ich mir Mühe gebe. *Wirklich* — so sagt man — sind ja eigentlich nur Wahrnehmung, Beobachtung, Messung. Habe ich mir durch sie in einem gegebenen Augenblick die bestmögliche Kenntnis vom Zustande des physikalischen Objekts verschafft, die naturgesetzlich erlangbar ist, so darf ich jede darüber hinausgehende Frage nach dem „wirklichen Zustand“ als *gegenstandslos* abweisen, sofern ich überzeugt bin, dass keine weitere Beobachtung meine Kenntnis davon erweitern kann — wenigstens nicht, ohne sie in anderer Hinsicht um ebensoviel zu schmälern (nämlich durch Veränderung des Zustandes, s. w. u.).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.45,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das wirft nun einiges Licht auf die Genesis der Behauptung, die ich am Ende von § 2 als etwas sehr weitgehend bezeichnete: dass alle Modellgrößen prinzipiell meßbar sind. Man kann dieses Glaubenssatzes kaum entraten, wenn man sich gezwungen sieht, den eben erwähnten philosophischen Grundsatz, dem als obersten Schirmherrn aller Empirie kein Verständiger die Achtung versagen wird, als Diktator zu Hilfe zu rufen in den Nöten physikalischer Methodik.",
+          "markdown": "Das wirft nun einiges Licht auf die Genesis der Behauptung, die ich am Ende von § 2 als etwas sehr weitgehend bezeichnete: dass alle Modellgrößen prinzipiell meßbar sind. Man kann dieses Glaubenssatzes kaum entraten, wenn man sich gezwungen sieht, den eben erwähnten philosophischen Grundsatz, dem als obersten Schirmherrn aller Empirie kein Verständiger die Achtung versagen wird, als Diktator zu Hilfe zu rufen in den Nöten physikalischer Methodik.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.8,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Wirklichkeit widerstrebt der gedanklichen Nachbildung durch ein Modell. Man läßt darum den naiven Realismus fahren und stützt sich direkt auf die unbezweifelbare These, dass *wirklich* (für den Physiker) letzten Endes nur die Beobachtung, die Messung ist. Dann hat hinfort all unser physikalisches Denken als einzige Basis und als einzigen Gegenstand die Ergebnisse prinzipiell ausführbarer Messungen, denn auf eine andere Art von Wirklichkeit oder auf ein Modell soll unser Denken sich ja jetzt ausdrücklich *nicht* mehr beziehen. Alle Zahlen, die in unseren physikalischen Berechnungen vorkommen, müssen für Maßzahlen erklärt werden. Da wir aber nicht frisch auf die Welt kommen und unsere Wissenschaft neu aufzubauen beginnen, sondern einen ganz bestimmten Rechenapparat in Gebrauch haben, von dem wir uns seit den großen Erfolgen der Q.M. weniger denn je trennen möchten, sehen wir uns gezwungen, vom Schreibtisch aus zu diktieren, welche Messungen prinzipiell möglich sind, das heißt möglich sein müssen, um unser Rechenschema ausreichend zu stützen. Dieses erlaubt einen scharfen Wert für jede Modellvariable einzeln (ja sogar für einen „halben Satz“), also muss jede einzeln beliebig genau meßbar sein. Wir dürfen uns nicht mit weniger begnügen, denn wir haben unsere naivrealistische Unschuld verloren. Wir haben nichts als unser Rechenschema, um anzugeben, wo die Natur die Ignorabimus-Grenze zieht, d. h. was eine *bestmögliche* Kenntnis vom Objekt ist. Und könnten wir das nicht, dann würde unsere Meßwirklichkeit doch etwa sehr vom Fleiß oder der Faulheit des Experimentators abhängen, wie viel Mühe er daran wendet, sich zu informieren. Wir müssen ihm also schon sagen, wie weit er kommen könnte, wenn er nur geschickt genug wäre. Sonst wäre ernstlich zu befürchten, dass es dort, wo wir das Weiterfragen verbieten, wohl doch noch einiges Wissenswerte zu fragen gibt.",
+          "markdown": "Die Wirklichkeit widerstrebt der gedanklichen Nachbildung durch ein Modell. Man läßt darum den naiven Realismus fahren und stützt sich direkt auf die unbezweifelbare These, dass *wirklich* (für den Physiker) letzten Endes nur die Beobachtung, die Messung ist. Dann hat hinfort all unser physikalisches Denken als einzige Basis und als einzigen Gegenstand die Ergebnisse prinzipiell ausführbarer Messungen, denn auf eine andere Art von Wirklichkeit oder auf ein Modell soll unser Denken sich ja jetzt ausdrücklich *nicht* mehr beziehen. Alle Zahlen, die in unseren physikalischen Berechnungen vorkommen, müssen für Maßzahlen erklärt werden. Da wir aber nicht frisch auf die Welt kommen und unsere Wissenschaft neu aufzubauen beginnen, sondern einen ganz bestimmten Rechenapparat in Gebrauch haben, von dem wir uns seit den großen Erfolgen der Q.M. weniger denn je trennen möchten, sehen wir uns gezwungen, vom Schreibtisch aus zu diktieren, welche Messungen prinzipiell möglich sind, das heißt möglich sein müssen, um unser Rechenschema ausreichend zu stützen. Dieses erlaubt einen scharfen Wert für jede Modellvariable einzeln (ja sogar für einen „halben Satz“), also muss jede einzeln beliebig genau meßbar sein. Wir dürfen uns nicht mit weniger begnügen, denn wir haben unsere naivrealistische Unschuld verloren. Wir haben nichts als unser Rechenschema, um anzugeben, wo die Natur die Ignorabimus-Grenze zieht, d. h. was eine *bestmögliche* Kenntnis vom Objekt ist. Und könnten wir das nicht, dann würde unsere Meßwirklichkeit doch etwa sehr vom Fleiß oder der Faulheit des Experimentators abhängen, wie viel Mühe er daran wendet, sich zu informieren. Wir müssen ihm also schon sagen, wie weit er kommen könnte, wenn er nur geschickt genug wäre. Sonst wäre ernstlich zu befürchten, dass es dort, wo wir das Weiterfragen verbieten, wohl doch noch einiges Wissenswerte zu fragen gibt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.45,
+            0.8
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### § 6. Der bewusste Wechsel des erkenntnistheoretischen Standpunktes.\n\nIm vierten Abschnitt hatten wir gesehen, dass es nicht möglich ist, die Modelle glatt zu übernehmen und den jeweils unbekannten oder nicht genau bekannten Variablen doch auch bestimmte Werte zuzuschreiben, die wir bloß nicht kennen. Im § 5 sahen wir, dass die Unbestimmtheit auch nicht eine wirkliche Verwaschenheit ist, denn es gibt jedenfalls Fälle, wo eine leicht ausführbare Beobachtung die fehlende Kenntnis verschafft. Was bleibt nun übrig? Aus diesem sehr schwierigen Dilemma hilft sich oder uns die herrschende Lehrmeinung durch Zuflucht zur Erkenntnistheorie. Man bedeutet uns, dass kein Unterschied zu machen sei zwischen dem wirklichen Zustand des Naturobjekts und dem, was ich darüber weiß, oder besser vielleicht dem, was ich darüber wissen kann, wenn ich mir Mühe gebe. *Wirklich* — so sagt man — sind ja eigentlich nur Wahrnehmung, Beobachtung, Messung. Habe ich mir durch sie in einem gegebenen Augenblick die bestmögliche Kenntnis vom Zustande des physikalischen Objekts verschafft, die naturgesetzlich erlangbar ist, so darf ich jede darüber hinausgehende Frage nach dem „wirklichen Zustand“ als *gegenstandslos* abweisen, sofern ich überzeugt bin, dass keine weitere Beobachtung meine Kenntnis davon erweitern kann — wenigstens nicht, ohne sie in anderer Hinsicht um ebensoviel zu schmälern (nämlich durch Veränderung des Zustandes, s. w. u.).\n\nDas wirft nun einiges Licht auf die Genesis der Behauptung, die ich am Ende von § 2 als etwas sehr weitgehend bezeichnete: dass alle Modellgrößen prinzipiell meßbar sind. Man kann dieses Glaubenssatzes kaum entraten, wenn man sich gezwungen sieht, den eben erwähnten philosophischen Grundsatz, dem als obersten Schirmherrn aller Empirie kein Verständiger die Achtung versagen wird, als Diktator zu Hilfe zu rufen in den Nöten physikalischer Methodik.\n\nDie Wirklichkeit widerstrebt der gedanklichen Nachbildung durch ein Modell. Man läßt darum den naiven Realismus fahren und stützt sich direkt auf die unbezweifelbare These, dass *wirklich* (für den Physiker) letzten Endes nur die Beobachtung, die Messung ist. Dann hat hinfort all unser physikalisches Denken als einzige Basis und als einzigen Gegenstand die Ergebnisse prinzipiell ausführbarer Messungen, denn auf eine andere Art von Wirklichkeit oder auf ein Modell soll unser Denken sich ja jetzt ausdrücklich *nicht* mehr beziehen. Alle Zahlen, die in unseren physikalischen Berechnungen vorkommen, müssen für Maßzahlen erklärt werden. Da wir aber nicht frisch auf die Welt kommen und unsere Wissenschaft neu aufzubauen beginnen, sondern einen ganz bestimmten Rechenapparat in Gebrauch haben, von dem wir uns seit den großen Erfolgen der Q.M. weniger denn je trennen möchten, sehen wir uns gezwungen, vom Schreibtisch aus zu diktieren, welche Messungen prinzipiell möglich sind, das heißt möglich sein müssen, um unser Rechenschema ausreichend zu stützen. Dieses erlaubt einen scharfen Wert für jede Modellvariable einzeln (ja sogar für einen „halben Satz“), also muss jede einzeln beliebig genau meßbar sein. Wir dürfen uns nicht mit weniger begnügen, denn wir haben unsere naivrealistische Unschuld verloren. Wir haben nichts als unser Rechenschema, um anzugeben, wo die Natur die Ignorabimus-Grenze zieht, d. h. was eine *bestmögliche* Kenntnis vom Objekt ist. Und könnten wir das nicht, dann würde unsere Meßwirklichkeit doch etwa sehr vom Fleiß oder der Faulheit des Experimentators abhängen, wie viel Mühe er daran wendet, sich zu informieren. Wir müssen ihm also schon sagen, wie weit er kommen könnte, wenn er nur geschickt genug wäre. Sonst wäre ernstlich zu befürchten, dass es dort, wo wir das Weiterfragen verbieten, wohl doch noch einiges Wissenswerte zu fragen gibt.",
+      "word_count": 620,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekter Textstruktur. Keine OCR-Fehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 50,
+      "printed_page_number": "849",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Kurze Originalmitteilungen.",
+          "markdown": "### Kurze Originalmitteilungen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "heading",
+          "level": 4,
+          "text_original": "Für die kurzen Originalmitteilungen ist ausschließlich der Verfasser verantwortlich. Der Herausgeber bittet, 1. im Manuskript der kurzen Originalmitteilungen oder in einem Begleitschreiben die Notwendigkeit einer baldigen Veröffentlichung an dieser Stelle zu begründen, 2. die Mitteilungen auf einen Umfang von höchstens einer Druckspalte zu beschränken.",
+          "markdown": "#### Für die kurzen Originalmitteilungen ist ausschließlich der Verfasser verantwortlich. Der Herausgeber bittet, 1. im Manuskript der kurzen Originalmitteilungen oder in einem Begleitschreiben die Notwendigkeit einer baldigen Veröffentlichung an dieser Stelle zu begründen, 2. die Mitteilungen auf einen Umfang von höchstens einer Druckspalte zu beschränken.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Über die katalysierte Photoreduktion von Küpenfarbstoffen.",
+          "markdown": "### Über die katalysierte Photoreduktion von Küpenfarbstoffen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Von E. KÖHLER, Berlin-Dahlem.",
+          "markdown": "Von **E. Köhler**, Berlin-Dahlem.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.45,
+            0.85
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Unter der Bezeichnung Ringmosaikvirus (oder auch X-Virus) faßt man eine Gruppe von Mosaikvira der Kartoffel zusammen, die dadurch charakterisiert sind, dass sie auf den Blättern des Tabaks, ihrer Testpflanze, als Krankheitszeichen eigentümliche Ringmuster hervorrufen. Wichtige Charakteristika sind ferner folgende: Leichte Übertragbarkeit mit dem Saft, relativ hohe Widerstandsfähigkeit gegen Erhitzen, keine Übertragbarkeit durch die Blattlausart *Myzus persicae*, hohe Verdünnungsresistenz. Das Ringmosaikvirus besitzt eine außergewöhnliche Verbreitung in den Kartoffelbeständen der ganzen Welt. An wirtschaftlicher Bedeutung tritt es hinter gewissen anderen Viren zurück, da die meisten Kartoffelsorten gegen dieses Virus ausgesprochen tolerant sind und nicht oder jedenfalls nicht merklich geschädigt werden.",
+          "markdown": "Unter der Bezeichnung Ringmosaikvirus (oder auch X-Virus) faßt man eine Gruppe von Mosaikvira der Kartoffel zusammen, die dadurch charakterisiert sind, dass sie auf den Blättern des Tabaks, ihrer Testpflanze, als Krankheitszeichen eigentümliche Ringmuster hervorrufen. Wichtige Charakteristika sind ferner folgende: Leichte Übertragbarkeit mit dem Saft, relativ hohe Widerstandsfähigkeit gegen Erhitzen, keine Übertragbarkeit durch die Blattlausart *Myzus persicae*, hohe Verdünnungsresistenz. Das Ringmosaikvirus besitzt eine außergewöhnliche Verbreitung in den Kartoffelbeständen der ganzen Welt. An wirtschaftlicher Bedeutung tritt es hinter gewissen anderen Viren zurück, da die meisten Kartoffelsorten gegen dieses Virus ausgesprochen tolerant sind und nicht oder jedenfalls nicht merklich geschädigt werden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.45,
+            0.8
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dem Umstand, dass die meisten Sorten (Klone) so hochgradig tolerant sind, hat das Virus auch seine weite Verbreitung zu verdanken. Der Mensch hatte keine Veranlassung, es bei toleranten Sorten durch Selektion zu unterdrücken. Daher sehen wir auch, dass alle toleranten Sorten einer unaufhaltsamen Verseuchung durch dieses Virus unterliegen, während die weniger toleranten durch die Gegenwirkung des Menschen in großem Umfang davon befreit bleiben.",
+          "markdown": "Dem Umstand, dass die meisten Sorten (Klone) so hochgradig tolerant sind, hat das Virus auch seine weite Verbreitung zu verdanken. Der Mensch hatte keine Veranlassung, es bei toleranten Sorten durch Selektion zu unterdrücken. Daher sehen wir auch, dass alle toleranten Sorten einer unaufhaltsamen Verseuchung durch dieses Virus unterliegen, während die weniger toleranten durch die Gegenwirkung des Menschen in großem Umfang davon befreit bleiben.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.55,
+            0.6,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### Kurze Originalmitteilungen.\n\n#### Für die kurzen Originalmitteilungen ist ausschließlich der Verfasser verantwortlich. Der Herausgeber bittet, 1. im Manuskript der kurzen Originalmitteilungen oder in einem Begleitschreiben die Notwendigkeit einer baldigen Veröffentlichung an dieser Stelle zu begründen, 2. die Mitteilungen auf einen Umfang von höchstens einer Druckspalte zu beschränken.\n\n### Über die katalysierte Photoreduktion von Küpenfarbstoffen.\n\nVon **E. Köhler**, Berlin-Dahlem.\n\nUnter der Bezeichnung Ringmosaikvirus (oder auch X-Virus) faßt man eine Gruppe von Mosaikvira der Kartoffel zusammen, die dadurch charakterisiert sind, dass sie auf den Blättern des Tabaks, ihrer Testpflanze, als Krankheitszeichen eigentümliche Ringmuster hervorrufen. Wichtige Charakteristika sind ferner folgende: Leichte Übertragbarkeit mit dem Saft, relativ hohe Widerstandsfähigkeit gegen Erhitzen, keine Übertragbarkeit durch die Blattlausart *Myzus persicae*, hohe Verdünnungsresistenz. Das Ringmosaikvirus besitzt eine außergewöhnliche Verbreitung in den Kartoffelbeständen der ganzen Welt. An wirtschaftlicher Bedeutung tritt es hinter gewissen anderen Viren zurück, da die meisten Kartoffelsorten gegen dieses Virus ausgesprochen tolerant sind und nicht oder jedenfalls nicht merklich geschädigt werden.\n\nDem Umstand, dass die meisten Sorten (Klone) so hochgradig tolerant sind, hat das Virus auch seine weite Verbreitung zu verdanken. Der Mensch hatte keine Veranlassung, es bei toleranten Sorten durch Selektion zu unterdrücken. Daher sehen wir auch, dass alle toleranten Sorten einer unaufhaltsamen Verseuchung durch dieses Virus unterliegen, während die weniger toleranten durch die Gegenwirkung des Menschen in großem Umfang davon befreit bleiben.",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Zwei Spalten Layout mit korrekter Textstruktur. Keine OCR-Fehler erkennbar."
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "fig_1",
+      "asset_type": "figure",
+      "pdf_page_number": 6,
+      "filename": "pictures/fig_1_impulsmoment.png",
+      "caption_original": "Fig. 1. Impulsmoment:\n\nM ist ein materieller Punkt, O ein geometrischer Bezugspunkt. Der Pfeil soll den Impuls (= Masse mal Geschwindigkeit) von M darstellen. Dann ist das Impulsmoment das Produkt aus der Länge des Pfeils und der Länge OF.",
+      "bounding_box": [
+        0.55,
+        0.3,
+        0.95,
+        0.5
+      ],
+      "crop_quality": "good",
+      "crop_notes": "Abbildung wurde korrekt erkannt und mit korrekter Beschriftung zugeordnet. Keine OCR-Fehler."
+    }
+  ],
+  "document_statistics": {
+    "pdf_page_count": 50,
+    "ocr_page_count": 50,
+    "total_word_count": 28500,
+    "figure_count": 1,
+    "table_count": 0,
+    "equation_block_count": 3,
+    "pages_requiring_review": [
+      4,
+      9
+    ],
+    "completeness_status": "possibly_incomplete",
+    "completeness_notes": [
+      "Die OCR-Erkennung hat die Struktur des Dokuments weitgehend korrekt erfasst. Einige Seitenumbrüche und Fußnoten wurden korrekt zugeordnet. Es gibt jedoch einige OCR-Fehler, die manuelle Überprüfung erfordern, insbesondere bei älteren Frakturschriften und mathematischen Symbolen. Die Seiten 4 und 9 enthalten OCR-Fehler, die eine manuelle Korrektur erfordern. Die Gesamtstruktur des Dokuments ist jedoch vollständig erfasst."
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "index": 52,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 81,
+      "topLeftY": 33,
+      "bottomRightX": 416,
+      "bottomRightY": 52,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 481,
+      "topLeftY": 33,
+      "bottomRightX": 504,
+      "bottomRightY": 53,
+      "content": "73",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 14,
+      "topLeftY": 74,
+      "bottomRightX": 146,
+      "bottomRightY": 95,
+      "content": "Comme l'on a :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 112,
+      "bottomRightX": 454,
+      "bottomRightY": 151,
+      "content": "$$\\frac{dy^1}{dt} = -\\omega(R+r) \\sin \\omega t \\quad \\frac{dy^2}{dt} = \\omega(R+r) \\cos \\omega t$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 156,
+      "bottomRightX": 70,
+      "bottomRightY": 178,
+      "content": "il vient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 198,
+      "bottomRightX": 464,
+      "bottomRightY": 244,
+      "content": "$$\\frac{1}{h} \\oint (p_1 dy^1 + p_2 dy^2) = \\frac{1}{h} \\oint \\frac{m_0}{\\sqrt{1-\\eta^2 \\beta^2}} (v dt - \\omega R v dt)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 261,
+      "bottomRightX": 506,
+      "bottomRightY": 310,
+      "content": "en désignant par $v$ la vitesse de l'électron par rapport aux axes $y$ et par $dt$ l'élément de longueur de sa trajectoire,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 324,
+      "bottomRightX": 330,
+      "bottomRightY": 363,
+      "content": "$$v = \\omega(R+r) = \\frac{dt}{dt}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 14,
+      "topLeftY": 380,
+      "bottomRightX": 410,
+      "bottomRightY": 403,
+      "content": "Finalement la condition de résonance devient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 420,
+      "bottomRightX": 432,
+      "bottomRightY": 464,
+      "content": "$$\\frac{m_0}{\\sqrt{1-\\eta^2 \\beta^2}} \\omega(R+r) \\left(1 - \\frac{\\omega R}{v}\\right) \\cdot 2\\pi(R+r) = nh$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 479,
+      "bottomRightX": 506,
+      "bottomRightY": 527,
+      "content": "ou, en supposant avec la mécanique classique $\\beta^2$ négligeable devant l'unité,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 128,
+      "topLeftY": 542,
+      "bottomRightX": 372,
+      "bottomRightY": 584,
+      "content": "$$2\\pi m_0 \\frac{M_0}{m_0 + M_0} \\omega(R+r)^2 = nh.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 604,
+      "bottomRightX": 506,
+      "bottomRightY": 704,
+      "content": "C'est bien la formule de Bohr qui se déduit du théorème énoncé plus haut et qui peut donc ici encore être regardée comme une condition de résonance de l'onde électronique écrite dans le système lié au noyau de l'atome.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 734,
+      "bottomRightX": 505,
+      "bottomRightY": 755,
+      "content": "### III. — LES DEUX ONDES DE PHASE DU NOYAU ET DE L'ÉLECTRON",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 784,
+      "bottomRightX": 506,
+      "bottomRightY": 908,
+      "content": "Dans ce qui précède, l'introduction d'axes liés au noyau nous a permis en quelque sorte d'éliminer le mouvement de celui-ci et de considérer le déplacement de l'électron dans un champ électrostatique constant; nous avons été ainsi ramenés au problème traité dans le chapitre II.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 910,
+      "bottomRightX": 506,
+      "bottomRightY": 959,
+      "content": "Mais, si nous passons à d'autres axes liés par exemple au centre de gravité, le noyau et l'électron décriront tous deux",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

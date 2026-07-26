@@ -1,0 +1,192 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 78,
+      "topLeftY": 91,
+      "bottomRightX": 96,
+      "bottomRightY": 106,
+      "content": "68",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 92,
+      "bottomRightX": 400,
+      "bottomRightY": 106,
+      "content": "S. KOCHEN & E. P. SPECKER",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 123,
+      "bottomRightX": 552,
+      "bottomRightY": 173,
+      "content": "induces a map $h^* : T \\to \\{0, 1\\}$ from a subset $T$ of the unit sphere $S$ into $\\{0, 1\\}$ such that for any three mutually orthogonal points in $T$ exactly one is mapped by $h^*$ into 1.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 174,
+      "bottomRightX": 553,
+      "bottomRightY": 260,
+      "content": "It will be convenient in what follows to represent points on $S$ by the vertices of a graph. Two vertices which are joined by an edge in the graph represent orthogonal points on $S$. When we say that a graph $\\Gamma$ is realizable on $S$ we mean that there is an assignment of points of $S$ to the vertices of $\\Gamma$, distinct points for distinct vertices, with the orthogonality relations as indicated in $\\Gamma$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 268,
+      "bottomRightX": 409,
+      "bottomRightY": 285,
+      "content": "Lemma 1. The following graph $\\Gamma_1$ is realizable on $S$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 223,
+      "topLeftY": 295,
+      "bottomRightX": 409,
+      "bottomRightY": 452,
+      "content": "![img-0.jpeg](img-0.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-0.jpeg"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 465,
+      "bottomRightX": 552,
+      "bottomRightY": 518,
+      "content": "In fact, if $p$ and $q$ are points on $S$ such that $0 \\leq \\sin \\theta \\leq \\frac{1}{2}$ where $\\theta$ is the angle subtended by $p$ and $q$ at the center of $S$, then there exists a map $u : \\Gamma_1 \\to S$ such that $u(a_0) = p$ and $u(a_q) = q$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 524,
+      "bottomRightX": 553,
+      "bottomRightY": 593,
+      "content": "Proof. Since $u(a_8)$ is orthogonal to $u(a_0) \\cup u(a_9)$ and $u(a_7)$ is orthogonal to $u(a_8)$, $u(a_7)$ lies in the plane $u(a_0) \\cup u(a_9)$. Also since $u(a_7)$ is orthogonal to $u(a_8)$, we have that $\\varphi = \\pi/2 - \\theta$, where $\\varphi$ is the angle subtended at the center of $S$ by $u(a_0)$ and $u(a_7)$. Let $u(a_3) = \\bar{\\imath}$ and $u(a_8) = \\bar{k}$. Then we may take",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 600,
+      "bottomRightX": 509,
+      "bottomRightY": 619,
+      "content": "$$u(a_1) = (\\bar{j} + x\\bar{k})(1 + x^2)^{-1/2} \\quad \\text{and} \\quad u(a_2) = (\\bar{\\imath} + y\\bar{j})(1 + y^2)^{-1/2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 625,
+      "bottomRightX": 319,
+      "bottomRightY": 642,
+      "content": "The orthogonality conditions then force",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 649,
+      "bottomRightX": 406,
+      "bottomRightY": 670,
+      "content": "$$u(a_3) = (x\\bar{j} - \\bar{k})(1 + x^2)^{-1/2},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 671,
+      "bottomRightX": 404,
+      "bottomRightY": 693,
+      "content": "$$u(a_4) = (y\\bar{\\imath} - \\bar{j})(1 + y^2)^{-1/2},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 690,
+      "bottomRightX": 144,
+      "bottomRightY": 706,
+      "content": "and hence,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 705,
+      "bottomRightX": 448,
+      "bottomRightY": 728,
+      "content": "$$u(a_0) = (xy\\bar{\\imath} - x\\bar{j} + \\bar{k})(1 + x^2 + x^2y^2)^{-1/2},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 730,
+      "bottomRightX": 448,
+      "bottomRightY": 752,
+      "content": "$$u(a_7) = (\\bar{\\imath} + y\\bar{j} + xy\\bar{k})(1 + y^2 + x^2y^2)^{-1/2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 749,
+      "bottomRightX": 112,
+      "bottomRightY": 765,
+      "content": "Thus",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 772,
+      "bottomRightX": 448,
+      "bottomRightY": 805,
+      "content": "$$\\cos \\varphi = \\frac{xy}{((1 + x^2 + x^2y^2)(1 + y^2 + x^2y^2))^{1/2}}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 810,
+      "bottomRightX": 550,
+      "bottomRightY": 846,
+      "content": "By elementary calculus the maximum value of this expression is $\\frac{1}{2}$. Hence $\\Gamma_1$ is realizable if $0 \\leq \\cos \\varphi \\leq \\frac{1}{2}$, i.e., $0 \\leq \\sin \\theta \\leq \\frac{1}{2}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 853,
+      "bottomRightX": 407,
+      "bottomRightY": 870,
+      "content": "Lemma 2. The following graph $\\Gamma_2$ is realizable on $S$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 202,
+      "topLeftY": 947,
+      "bottomRightX": 421,
+      "bottomRightY": 982,
+      "content": "This content downloaded from 140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC All use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

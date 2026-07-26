@@ -1,0 +1,110 @@
+{
+  "index": 26,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 102,
+      "bottomRightX": 133,
+      "bottomRightY": 119,
+      "content": "884",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 102,
+      "bottomRightX": 413,
+      "bottomRightY": 117,
+      "content": "M. Born und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 583,
+      "bottomRightY": 195,
+      "content": "auftretenden Fragen soll später gegeben werden, wobei vor allem das Verhältnis der dargelegten Theorie zur Theorie der Lichtquanten erörtert werden wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 197,
+      "bottomRightX": 583,
+      "bottomRightY": 538,
+      "content": "Wir wollen hier nur solche Punkte zur Sprache bringen, die ohne Eingehen auf die exakte Form der Quantenbedingung für Systeme von mehreren Freiheitsgraden gewonnen werden können. Daß man dabei in der Elektrodynamik bereits ziemlich weit kommt, kann man durch folgende Überlegung einsehen. Der elektromagnetisch schwingende Hohlraum stellt ein System von unendlich vielen Freiheitsgraden dar. Trotzdem reichen die in den vorangehenden Kapiteln entwickelten Grundsätze, die sich ja nur auf Systeme von einem Freiheitsgrad beziehen, zu seiner Behandlung aus, weil er, nach Eigenschwingungen analysiert, in ein System ungekoppelter Oszillatoren übergeht. Es ist kaum ein Zweifel möglich, wie man dieses System zu behandeln hat. Dabei erweist sich der Umstand, daß die elektromagnetischen Grundgleichungen linear sind (Superpositionsprinzip), von besonderer Bedeutung; denn daraus folgt, daß die Ersatz-Oszillatoren harmonisch sind, und gerade beim harmonischen Oszillator besteht — im Gegensatz zum Verhalten anderer Systeme — die Gültigkeit des Energiesatzes unabhängig von der Quantenbedingung: Aus",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 529,
+      "bottomRightX": 412,
+      "bottomRightY": 549,
+      "content": "$$H = \\frac{1}{2}(p^2 + \\omega_0^2 q^2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 547,
+      "bottomRightX": 137,
+      "bottomRightY": 565,
+      "content": "folgt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 558,
+      "bottomRightX": 473,
+      "bottomRightY": 619,
+      "content": "$$\\begin{aligned} \\dot{H} &= \\frac{1}{2}(\\dot{p}p + p\\dot{p} + \\omega_0^2 \\dot{q}q + \\omega_0^2 q\\dot{q}) \\\\ &= \\frac{1}{2}\\omega_0^2(-qp - pq + pq + qp) \\\\ &= 0. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 626,
+      "bottomRightX": 583,
+      "bottomRightY": 746,
+      "content": "Man wird daher erwarten, daß in entsprechender Weise die Integralsätze der Elektrodynamik des Vakuums (Energie- und Impulssatz) ganz allgemein aus den matrizenmäßig umgedeuteten Maxwellschen Gleichungen allein ohne Eingehen auf die Quantenbedingung zu gewinnen sind. Indem wir dies zeigen, gewinnen wir zugleich das Mittel, die Heisenbergsche Behauptung von der Bedeutung der $|q(nm)|^2$ zu begründen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 749,
+      "bottomRightX": 583,
+      "bottomRightY": 846,
+      "content": "§ 7. Maxwellsche Gleichungen, Energie- und Impulssatz. Wir wollen verabreden, daß Vektoren; wie üblich, stets durch deutsche Buchstaben bezeichnet werden, während die Unterscheidung von Zahlen und Matrizen durch Schwach- und Fettdruck beibehalten wird. Die Maßeinheiten wählen wir im Anschluß an das Lehrbuch von Abraham¹).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 848,
+      "bottomRightX": 583,
+      "bottomRightY": 886,
+      "content": "Die elektromagnetischen Vorgänge im Vakuum wird man darstellen können als Superposition ebener Wellen. In einer solchen ebenen Welle",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 901,
+      "bottomRightX": 499,
+      "bottomRightY": 917,
+      "content": "¹) M. Abraham, Theorie der Elektrizität, II. Leipzig 1914.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

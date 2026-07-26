@@ -1,0 +1,74 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 143,
+      "bottomRightX": 605,
+      "bottomRightY": 221,
+      "content": "on the same system, therefore—disregarding for the moment quantitative questions of relative frequencies—the probabilistic assertions of Process 1 *appear* to be valid to the observer described by a typical element of the final superposition.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 221,
+      "bottomRightX": 605,
+      "bottomRightY": 412,
+      "content": "We thus arrive at the following picture: Throughout all of a sequence of observation processes there is only one physical system representing the observer, yet there is no single unique *state* of the observer (which follows from the representations of interacting systems). Nevertheless, there is a representation in terms of a *superposition*, each element of which contains a definite observer state and a corresponding system state. Thus with each succeeding observation (or interaction), the observer state “branches” into a number of different states. Each branch represents a different outcome of the measurement and the *corresponding* eigenstate for the object-system state. All branches exist simultaneously in the superposition after any given sequence of observations.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 412,
+      "bottomRightX": 605,
+      "bottomRightY": 482,
+      "content": "The “trajectory” of the memory configuration of an observer performing a sequence of measurements is thus not a linear sequence of memory configurations, but a branching tree, with all possible outcomes existing simultaneously in a final superposition with various coefficients in the mathematical",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 491,
+      "bottomRightX": 605,
+      "bottomRightY": 565,
+      "content": "¹ *Note added in proof.*—In reply to a preprint of this article some correspondents have raised the question of the “transition from possible to actual,” arguing that in “reality” there is—as our experience testifies—no such splitting of observer states, so that only one branch can ever actually exist. Since this point may occur to other readers the following is offered in explanation.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 565,
+      "bottomRightX": 605,
+      "bottomRightY": 695,
+      "content": "The whole issue of the transition from “possible” to “actual” is taken care of in the theory in a very simple way—there is no such transition, nor is such a transition necessary for the theory to be in accord with our experience. From the viewpoint of the theory *all* elements of a superposition (all “branches”) are “actual,” none any more “real” than the rest. This is unnecessary to suppose that all but one are somehow destroyed, since all the separate elements of a superposition individually obey the wave equation with complete indifference to the presence or absence (“actuality” or not) of any other elements. This total lack of effect of one branch is another also implies that no observer will ever be aware of any “splitting” process.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 695,
+      "bottomRightX": 605,
+      "bottomRightY": 811,
+      "content": "Arguments that the world picture presented by this theory is contradicted by experience, because we are unaware of any branching process, are like the criticism of the Copernican theory that the mobility of the earth as a real physical fact is incompatible with the common sense interpretation of nature because we feel no such motion. In both cases the argument fails when it is shown that the theory itself predicts that our experience will be what it in fact is. (The Copernican case the addition of Newtonian physics was required to be able to show that the earth’s inhabitants would be unaware of any motion of the earth.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 359,
+      "topLeftY": 833,
+      "bottomRightX": 376,
+      "bottomRightY": 848,
+      "content": "15",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

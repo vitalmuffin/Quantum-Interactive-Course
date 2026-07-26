@@ -1,0 +1,156 @@
+{
+  "index": 16,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 115,
+      "topLeftY": 87,
+      "bottomRightX": 580,
+      "bottomRightY": 104,
+      "content": "Über den Zusammenhang des Abschlusses der Elektronengruppen usw. 781",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 124,
+      "bottomRightX": 475,
+      "bottomRightY": 143,
+      "content": "Daher ergibt sich bei Abwesenheit des Magnetfeldes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 147,
+      "bottomRightX": 413,
+      "bottomRightY": 185,
+      "content": "$$\\begin{aligned} & \\text { ein Term mit } j=2 \\\\ & \\text { und ein Term mit } j=0 . \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 193,
+      "bottomRightX": 579,
+      "bottomRightY": 253,
+      "content": "Wir erhalten daher im ganzen bei der Viererschale fünf verschiedene $p$-Terme mit maximaler Hauptquantenzahl, davon zwei mit $j=2$, einen mit $j=1$ und zwei mit $j=0$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 257,
+      "bottomRightX": 579,
+      "bottomRightY": 335,
+      "content": "Über die Gruppierung dieser Terme hinsichtlich ihrer Größe und die Intervallverhältnisse können wir nichts aussagen. Dagegen können wir über die zu erwartenden Zeemanaufspaltungen dieser Terme bestimmte Angaben machen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 337,
+      "bottomRightX": 579,
+      "bottomRightY": 454,
+      "content": "Durch Einsetzen der zu den angegebenen $m_1$-Werten der einzelnen Elektronen gehörigen $m_2$-Werte (die aus den Zeemantermen der Alkalien bei starken Feldern zu entnehmen sind), ergeben sich zunächst gemäß der Vorschrift (1) die durch die folgende Tabelle wiedergegebenen Zeemanaufspaltungen der fünf $p$-Terme der Viererschale in starken Feldern.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 466,
+      "bottomRightX": 574,
+      "bottomRightY": 530,
+      "content": "|  $\\bar{m}_1$ | $-2$ | $-1$ | $0$ | $1$ | $2$  |\n| --- | --- | --- | --- | --- | --- |\n|  $\\bar{m}_2$ | $-3, -2$ | $-2, -1, -1$ | $0, 0, 0, 0, 0$ | $1, 1, 2$ | $2, 3$  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 543,
+      "bottomRightX": 579,
+      "bottomRightY": 641,
+      "content": "Mittels der Summenregel, die von Landé auch auf Multipletts höherer Stufe angewendet wurde$^{1)}$, erhält man hieraus zur Bestimmung der Summe der $g$-Werte für die beiden Terme mit $j=2$ (mit $\\sum g_2$ bezeichnet) und des $g$-Wertes für den Term mit $j=1$ in schwachen Feldern (mit $g_1$ bezeichnet) die Gleichungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 646,
+      "bottomRightX": 531,
+      "bottomRightY": 669,
+      "content": "$$2 \\sum g_2 = 2 + 3 = 5, \\quad \\sum g_2 + g_1 = 1 + 1 + 2 = 4.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 673,
+      "bottomRightX": 185,
+      "bottomRightY": 691,
+      "content": "Hieraus folgt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 253,
+      "topLeftY": 690,
+      "bottomRightX": 421,
+      "bottomRightY": 712,
+      "content": "$$\\sum g_2 = 5/2, \\quad g_1 = 3/2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 720,
+      "bottomRightX": 579,
+      "bottomRightY": 839,
+      "content": "Eine Prüfung dieser theoretischen Ergebnisse für die Viererschale ist am ehesten bei Pb möglich. Hier sind vier $p$-Terme aus den Beobachtungen sicher ermittelt worden, während die Existenz eines fünften $p$-Termes noch zweifelhaft ist$^{2)}$. Bisher noch nicht veröffentlichte Messungen des Zeemangefektes einiger Bleilinien von E. Back machen es ferner sehr wahrscheinlich, daß den erstgenannten vier $p$-Termen die",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 857,
+      "bottomRightX": 365,
+      "bottomRightY": 874,
+      "content": "$^{1)}$ A. Landé, Ann. d. Phys. 1925, l. c.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 871,
+      "bottomRightX": 578,
+      "bottomRightY": 903,
+      "content": "$^{2)}$ V. Thorsen, Naturwissenschaften 11, 78, 1923; W. Grotrian, ZS. f. Phys. 18, 169, 1923.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 905,
+      "bottomRightX": 286,
+      "bottomRightY": 919,
+      "content": "Zeitschrift für Physik. Bd. XXXI.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 492,
+      "topLeftY": 908,
+      "bottomRightX": 510,
+      "bottomRightY": 922,
+      "content": "52",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 224,
+      "topLeftY": 131,
+      "bottomRightX": 493,
+      "bottomRightY": 151,
+      "content": "# On the Quantum Theory of Molecules",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 170,
+      "bottomRightX": 432,
+      "bottomRightY": 185,
+      "content": "M. Bornᵃ, J.R. Oppenheimerᵇ",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 197,
+      "bottomRightX": 445,
+      "bottomRightY": 208,
+      "content": "ᵃInstitute of Theoretical Physics, Göttingen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 208,
+      "bottomRightX": 444,
+      "bottomRightY": 220,
+      "content": "ᵇInstitute of Theoretical Physics, Göttingen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 274,
+      "bottomRightX": 124,
+      "bottomRightY": 287,
+      "content": "# Abstract",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 298,
+      "bottomRightX": 643,
+      "bottomRightY": 400,
+      "content": "It will be shown that the familiar components of the terms of a molecule; the energy of electronic motion, of the nuclear vibration and of the rotation, correspond systematically to the terms of a power series in the fourth root of the ratio of electron mass to (average) nuclear mass. The treatment yields among other things an equation for the rotation, which represents a generalization of the treatment of Kramers and Pauli (top with built-in fly-wheel). Furthermore, there appears a justification of the considerations of Franck and Condon on the intensity of band lines. The relationships are illustrated for the diatomic molecule.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 442,
+      "bottomRightX": 144,
+      "bottomRightY": 456,
+      "content": "# Introduction",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 470,
+      "bottomRightX": 643,
+      "bottomRightY": 606,
+      "content": "The terms of molecular spectra are usually made up of parts of various orders of magnitude; the largest contribution comes from the electronic motion about the nuclei, then follows the contribution of the nuclear vibration, and finally that from the nuclear rotation. The basis for the possibility of such a classification obviously rests in the comparative magnitudes of nuclear and electronic masses. From the standpoint of the old quantum theory, which computed stationary states with the aid of classical mechanics, this is the concept applied by Born and Heisenberg [1]; it was shown that the energy terms appear as the terms of increasing order with respect to the ratio $\\sqrt{m/M}$, where m is the electronic mass and M an average nuclear mass. Thereby, however, nuclear rotation and vibration both appear in the second order, which contradicts empirical findings (for small rotational quantum numbers).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 609,
+      "bottomRightX": 644,
+      "bottomRightY": 815,
+      "content": "Here the problem will be approached anew from the standpoint of quantum mechanics.¹ It then becomes necessary to make our development with respect to $(m/M)^{1/4}$ rather than with respect to $\\sqrt{m/M}$, so as to obtain the natural order of energy terms. The considerations also become much simpler and more transparent than in the old theory. The nuclear vibrations correspond to terms of second order and the rotations to fourth order in the energy, while the first and third order terms vanish. The absence of the first order terms is related to the existence of an equilibrium position of the nuclei, in which the electronic energy for stationary nuclei is at a minimum. The fourth order terms for the rotational motion illustrate the generalization of the treatment of Kramers and Pauli [2] in which the the behaviour of a molecule is compared to that of a top with a built-in fly-wheel. In order to determine the eigenfunctions and thereby the transition probabilities only to the zeroth approximation, the energy calculation must be carried out to terms of fourth order (rotations). One obtains expressions for the probabilities of simultaneous jumps of electronic, vibrational and rotational quantum number through which the representations developed by Franck [3] and elaborated by Condon [4] may be given precise interpretation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 841,
+      "bottomRightX": 342,
+      "bottomRightY": 854,
+      "content": "Published originally as Annalen der Physik, 84, 457-484 (1927)",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 854,
+      "bottomRightX": 411,
+      "bottomRightY": 866,
+      "content": "Translated by S M Blinder with emendations by Brian Sutcliffe and Wolf Geppert",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 866,
+      "bottomRightX": 641,
+      "bottomRightY": 877,
+      "content": "¹Through the discussion of the basis of this work with us, Dr. P. Jordan has helped us with valuable comments, for which we express our thanks.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

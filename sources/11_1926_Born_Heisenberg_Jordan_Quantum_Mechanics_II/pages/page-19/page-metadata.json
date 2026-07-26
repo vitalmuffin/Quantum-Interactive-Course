@@ -1,0 +1,200 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 263,
+      "topLeftY": 101,
+      "bottomRightX": 417,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 549,
+      "topLeftY": 102,
+      "bottomRightX": 579,
+      "bottomRightY": 118,
+      "content": "575",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 139,
+      "bottomRightX": 580,
+      "bottomRightY": 277,
+      "content": "Die Gleichungen (3), Kap. 2, zusammen mit (2), Kap. 2, würden offenbar viel zu viel Forderungen an die $\\pmb{p}_k, \\pmb{q}_k$ stellen, wenn alle diese Gleichungen voneinander unabhängig wären. Es muß als eine interessante mathematische Aufgabe angesehen werden, die Gleichungen (3) aus einem Minimum unabhängiger und widerspruchsfreier Voraussetzungen abzuleiten; doch soll auf diese Frage hier nicht eingegangen werden. Wir begnügen uns mit der Bemerkung, daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 246,
+      "topLeftY": 283,
+      "bottomRightX": 434,
+      "bottomRightY": 320,
+      "content": "$$\\frac{d}{dt} \\sum_k (\\pmb{p}_k \\pmb{q}_k - \\pmb{q}_k \\pmb{p}_k) = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 329,
+      "bottomRightX": 581,
+      "bottomRightY": 428,
+      "content": "aus den Bewegungsgleichungen (1), Kap. 2, allgemein zu folgern ist. Dagegen soll allgemein gezeigt werden, daß die Gleichungen (3), Kap. 2, zusammen mit den Bewegungsgleichungen (2), Kap. 2, bzw. der gleichwertigen Forderung (7), Kap. 2, erfüllbar sind (natürlich von singulären Ausnahmefällen abgesehen).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 433,
+      "bottomRightX": 581,
+      "bottomRightY": 493,
+      "content": "Dieser Beweis ist zu liefern im Zusammenhang mit der Verallgemeinerung der Störungstheorie von Kap. 1, § 4, für beliebig viele Freiheitsgrade. Wir denken uns die Energiefunktion $\\pmb{H}(\\pmb{p}\\pmb{q})$ derart als",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 178,
+      "topLeftY": 498,
+      "bottomRightX": 581,
+      "bottomRightY": 521,
+      "content": "$$\\pmb{H} = \\pmb{H}_0(\\pmb{p}\\pmb{q}) + \\lambda \\pmb{H}_1(\\pmb{p}\\pmb{q}) + \\lambda^2 \\pmb{H}_2(\\pmb{p}\\pmb{q}) + \\dots \\quad (8)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 527,
+      "bottomRightX": 212,
+      "bottomRightY": 544,
+      "content": "geschrieben, daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 534,
+      "bottomRightX": 438,
+      "bottomRightY": 575,
+      "content": "$$\\pmb{H}_0(\\pmb{p}\\pmb{q}) = \\sum_{k=1}^f \\pmb{H}^{(k)}(\\pmb{p}_k \\pmb{q}_k)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 582,
+      "bottomRightX": 581,
+      "bottomRightY": 621,
+      "content": "wird. Für $\\lambda = 0$ haben wir also $f$ ungekoppelte Systeme von je einem Freiheitsgrad; die $f$ Probleme",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 629,
+      "bottomRightX": 404,
+      "bottomRightY": 650,
+      "content": "$$\\pmb{H} = \\pmb{H}^{(k)}(\\pmb{p}_k \\pmb{q}_k)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 647,
+      "bottomRightX": 225,
+      "bottomRightY": 664,
+      "content": "seien gelöst durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 664,
+      "bottomRightX": 414,
+      "bottomRightY": 683,
+      "content": "$$\\pmb{q}_k = \\pmb{q}_k^0, \\quad \\pmb{p}_k = \\pmb{p}_k^0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 690,
+      "bottomRightX": 413,
+      "bottomRightY": 709,
+      "content": "mit $\\pmb{q}_k^0, \\pmb{p}_k^0$ als zweidimensionalen Matrizen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 716,
+      "bottomRightX": 582,
+      "bottomRightY": 739,
+      "content": "$$\\pmb{q}_k^0 : (q_k^0(n\\, m)); \\quad \\pmb{p}_k^0 : (p_k^0(n\\, m)). \\quad (10)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 743,
+      "bottomRightX": 583,
+      "bottomRightY": 799,
+      "content": "Wenn wir diese $f$ ungekoppelten Systeme formal als ein einziges System von $f$ Freiheitsgraden betrachten, so sind die $\\pmb{q}_k^0, \\pmb{p}_k^0$ als 2 $f$-dimensionale Matrizen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 800,
+      "bottomRightX": 582,
+      "bottomRightY": 844,
+      "content": "$$\\left. \\begin{aligned} \\pmb{q}_k^0 &= (q_k^0(n_1 \\dots n_f; \\quad m_1 \\dots m_f)), \\\\ \\pmb{p}_k^0 &= (p_k^0(n_1 \\dots n_f; \\quad m_1 \\dots m_f)) \\end{aligned} \\right\\} \\quad (11)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 849,
+      "bottomRightX": 297,
+      "bottomRightY": 868,
+      "content": "darzustellen, für welche gilt:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 876,
+      "bottomRightX": 477,
+      "bottomRightY": 897,
+      "content": "$$q_k^0(n_1 \\dots n_f; \\quad m_1 \\dots m_f) = \\delta_k q_k^0(n_k m_k),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 899,
+      "bottomRightX": 477,
+      "bottomRightY": 920,
+      "content": "$$p_k^0(n_1 \\dots n_f; \\quad m_1 \\dots m_f) = \\delta_k p_k^0(n_k m_k),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 497,
+      "topLeftY": 924,
+      "bottomRightX": 523,
+      "bottomRightY": 939,
+      "content": "40\\*",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

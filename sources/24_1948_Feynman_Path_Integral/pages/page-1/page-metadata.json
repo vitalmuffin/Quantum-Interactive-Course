@@ -1,0 +1,101 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 168,
+      "topLeftY": 155,
+      "bottomRightX": 434,
+      "bottomRightY": 170,
+      "content": "R. P. Feynman, Rev. of Mod. Phys., 20, 367",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 549,
+      "topLeftY": 155,
+      "bottomRightX": 587,
+      "bottomRightY": 170,
+      "content": "1948",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 263,
+      "bottomRightX": 548,
+      "bottomRightY": 299,
+      "content": "# Space-Time Approach to Non-Relativistic Quantum Mechanics",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 311,
+      "topLeftY": 335,
+      "bottomRightX": 422,
+      "bottomRightY": 384,
+      "content": "R.P. Feynman  \nCornell University,  \nIthaca, New York",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 414,
+      "bottomRightX": 560,
+      "bottomRightY": 460,
+      "content": "Reprinted in “Quantum Electrodynamics”, edited by Julian Schwinger",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 339,
+      "topLeftY": 488,
+      "bottomRightX": 395,
+      "bottomRightY": 501,
+      "content": "## Abstract",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 506,
+      "bottomRightX": 553,
+      "bottomRightY": 722,
+      "content": "Non-relativistic quantum mechanics is formulated here in a different way. It is, however, mathematically equivalent to the familiar formulation. In quantum mechanics the probability of an event which can happen in several different ways is the absolute square of a sum of complex contributions, one from each alternative way. The probability that a particle will be found to have a path $x(t)$ lying somewhere within a region of space time is the square of a sum of contributions, one from each path in the region. The contribution from a single path is postulated to be an exponential whose (imaginary) phase is the classical action (in units of $\\hbar$) for the path in question. The total contribution from all paths reaching $x, t$ from the past is the wave function $\\psi(x, t)$. This is shown to satisfy Schroedinger’s equation. The relation to matrix and operator algebra is discussed. Applications are indicated, in particular to eliminate the coordinates of the field oscillators from the equations of quantum electrodynamics.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 745,
+      "bottomRightX": 284,
+      "bottomRightY": 763,
+      "content": "## 1. Introduction",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 778,
+      "bottomRightX": 587,
+      "bottomRightY": 810,
+      "content": "It is a curious historical fact that modern quantum mechanics began with two quite different mathematical formulations: the differential equation of",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 831,
+      "bottomRightX": 372,
+      "bottomRightY": 845,
+      "content": "1",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "index": 63,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 92,
+      "topLeftY": 17,
+      "bottomRightX": 116,
+      "bottomRightY": 37,
+      "content": "84",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 19,
+      "bottomRightX": 431,
+      "bottomRightY": 36,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 60,
+      "bottomRightX": 617,
+      "bottomRightY": 110,
+      "content": "Il serait facile de traiter le problème en supposant une incidence oblique.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 112,
+      "bottomRightX": 618,
+      "bottomRightY": 216,
+      "content": "Désignons par $n$ le nombre des corpuscules réfléchis par le miroir pendant un temps donné. L'énergie totale des $n$ corpuscules après réflexion $E'_2$ est à leur énergie totale avant réflexion $E'_1$ dans le rapport :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 296,
+      "topLeftY": 228,
+      "bottomRightX": 408,
+      "bottomRightY": 271,
+      "content": "$$\\frac{nh\\nu'_2}{nh\\nu'_1} = \\frac{\\nu'_2}{\\nu'_1}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 287,
+      "bottomRightX": 617,
+      "bottomRightY": 336,
+      "content": "La théorie électromagnétique donne aussi cette relation, mais ici elle est tout à fait évidente.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 339,
+      "bottomRightX": 618,
+      "bottomRightY": 487,
+      "content": "Si les $n$ corpuscules occupaient avant réflexion un volume $V_1$, ils occuperont après réflexion un volume $V_2 = V_1 \\frac{1-\\beta}{1+\\beta}$, comme le montre un raisonnement géométrique très simple. Les intensités $I'_1$ et $I'_2$ avant et après la réflexion sont donc dans le rapport :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 218,
+      "topLeftY": 501,
+      "bottomRightX": 486,
+      "bottomRightY": 546,
+      "content": "$$\\frac{I'_2}{I'_1} = \\frac{nh\\nu'_2}{nh\\nu'_1} \\cdot \\frac{1+\\beta}{1-\\beta} = \\left(\\frac{\\nu'_2}{\\nu'_1}\\right)^2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 561,
+      "bottomRightX": 617,
+      "bottomRightY": 612,
+      "content": "Tous ces résultats sont démontrés du point de vue ondulatoire par Laue, page 124.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 613,
+      "bottomRightX": 524,
+      "bottomRightY": 638,
+      "content": "c) Pression de radiation du rayonnement noir :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 640,
+      "bottomRightX": 618,
+      "bottomRightY": 871,
+      "content": "Soit une enceinte remplie de rayonnement noir à la température $T$. Quelle est la pression supportée par les parois de l'enceinte ? Pour nous le rayonnement noir sera un gaz d'atomes de lumière et nous y supposerons la répartition des vitesses isotrope. Soit $u$ l'énergie totale (ou, ce qui ici revient au même, l'énergie cinétique totale) des atomes contenus dans l'unité de volume. Soit $ds$ un élément de surface de la paroi, $dv$ un élément de volume, $r$ leur distance, $\\theta$ l'angle de la droite qui les joint avec la normale à l'élément de surface.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 873,
+      "bottomRightX": 617,
+      "bottomRightY": 922,
+      "content": "L'angle solide sous lequel l'élément $ds$ est vu du point $O$, centre de $dv$, est :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 927,
+      "bottomRightX": 420,
+      "bottomRightY": 967,
+      "content": "$$d\\Omega = \\frac{ds \\cos \\theta}{r^2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 181,
+      "topLeftY": 8,
+      "bottomRightX": 541,
+      "bottomRightY": 32,
+      "content": "Erzeugung und Verwandlung des Lichtes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 609,
+      "topLeftY": 9,
+      "bottomRightX": 644,
+      "bottomRightY": 28,
+      "content": "133",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 48,
+      "bottomRightX": 644,
+      "bottomRightY": 145,
+      "content": "Experiment wohl denkbar, daß die mit kontinuierlichen Raumfunktionen operierende Theorie des Lichtes zu Widersprüchen mit der Erfahrung führt, wenn man sie auf die Erscheinungen der Lichterzeugung und Lichtverwandlung anwendet.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 145,
+      "bottomRightX": 646,
+      "bottomRightY": 479,
+      "content": "Es scheint mir nun in der Tat, daß die Beobachtungen über die „schwarze Strahlung“, Photolumineszenz, die Erzeugung von Kathodenstrahlen durch ultraviolettes Licht und andere die Erzeugung bez. Verwandlung des Lichtes betreffende Erscheinungsgruppen besser verständlich erscheinen unter der Annahme, daß die Energie des Lichtes diskontinuierlich im Raume verteilt sei. Nach der hier ins Auge zu fassenden Annahme ist bei Ausbreitung eines von einem Punkte ausgehenden Lichtstrahles die Energie nicht kontinuierlich auf größer und größer werdende Räume verteilt, sondern es besteht dieselbe aus einer endlichen Zahl von in Raumpunkten lokalisierten Energiequanten, welche sich bewegen, ohne sich zu teilen und nur als Ganze absorbiert und erzeugt werden können.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 481,
+      "bottomRightX": 644,
+      "bottomRightY": 601,
+      "content": "Im folgenden will ich den Gedankengang mitteilen und die Tatsachen anführen, welche mich auf diesen Weg geführt haben, in der Hoffnung, daß der darzulegende Gesichtspunkt sich einigen Forschern bei ihren Untersuchungen als brauchbar erweisen möge.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 619,
+      "bottomRightX": 642,
+      "bottomRightY": 660,
+      "content": "### § 1. Über eine die Theorie der „schwarzen Strahlung“ betreffende Schwierigkeit.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 664,
+      "bottomRightX": 642,
+      "bottomRightY": 859,
+      "content": "Wir stellen uns zunächst auf den Standpunkt der Maxwellschen Theorie und Elektronentheorie und betrachten folgenden Fall. In einem von vollkommen reflektierenden Wänden eingeschlossenen Raumes befinde sich eine Anzahl Gasmoleküle und Elektronen, welche freibeweglich sind und aufeinander konservative Kräfte ausüben, wenn sie einander sehr nahe kommen, d. h. miteinander wie Gasmoleküle nach der kinetischen Gastheorie zusammenstoßen können.¹⁾ Eine Anzahl",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 868,
+      "bottomRightX": 642,
+      "bottomRightY": 988,
+      "content": "¹⁾ Diese Annahme ist gleichbedeutend mit der Voraussetzung, daß die mittleren kinetischen Energien von Gasmolekülen und Elektronen bei Temperaturgleichgewicht einander gleich seien. Mit Hilfe letzterer Voraussetzung hat Hr. Drude bekanntlich das Verhältnis von thermischem und elektrischem Leitungsvermögen der Metalle auf theoretischem Wege abgeleitet.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

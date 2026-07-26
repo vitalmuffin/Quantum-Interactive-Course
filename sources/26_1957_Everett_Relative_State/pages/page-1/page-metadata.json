@@ -1,0 +1,101 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 159,
+      "topLeftY": 203,
+      "bottomRightX": 580,
+      "bottomRightY": 259,
+      "content": "# “Relative State” Formulation of Quantum Mechanics*",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 301,
+      "topLeftY": 280,
+      "bottomRightX": 440,
+      "bottomRightY": 302,
+      "content": "Hugh Everett, III†",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 335,
+      "bottomRightX": 599,
+      "bottomRightY": 354,
+      "content": "Palmer Physical Laboratory, Princeton University, Princeton, New Jersey",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 132,
+      "topLeftY": 380,
+      "bottomRightX": 304,
+      "bottomRightY": 400,
+      "content": "## 1. Introduction",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 416,
+      "bottomRightX": 605,
+      "bottomRightY": 521,
+      "content": "The task of quantizing general relativity raises serious questions about the meaning of the present formulation and interpretation of quantum mechanics when applied to so fundamental a structure as the space-time geometry itself. This paper seeks to clarify the foundations of quantum mechanics. It presents a reformulation of quantum theory in a form believed suitable for application to general relativity.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 522,
+      "bottomRightX": 605,
+      "bottomRightY": 590,
+      "content": "The aim is not to deny or contradict the conventional formulation of quantum theory, which has demonstrated its usefulness in an overwhelming variety of problems, but rather to supply a new, more general and complete formulation, from which the conventional interpretation can be deduced.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 591,
+      "bottomRightX": 605,
+      "bottomRightY": 660,
+      "content": "The relationship of this new formulation to the older formulation is therefore that of a metatheory to a theory, that is, it is an underlying theory in which the nature and consistency, as well as the realm of applicability, of the older theory can be investigated and clarified.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 669,
+      "bottomRightX": 605,
+      "bottomRightY": 786,
+      "content": "*Thesis submitted to Princeton University March 1, 1957 in partial fulfillment of the requirements for the Ph.D. degree. An earlier draft dated January, 1956 was circulated to several physicists whose comments were helpful. Professor Niels Bohr, Dr. H. J. Groenewald, Dr. Aage Peterson, Dr. A. Stern, and Professor L. Rosenfeld are free of any responsibility, but they are warmly thanked for the useful objections that they raised. Most particular thanks are due to Professor John A. Wheeler for his continued guidance and encouragement. Appreciation is also expressed to the National Science Foundation for fellowship support.",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 786,
+      "bottomRightX": 603,
+      "bottomRightY": 815,
+      "content": "†Present address: Weapons Systems Evaluation Group, The Pentagon, Washington, D. C.",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 364,
+      "topLeftY": 837,
+      "bottomRightX": 372,
+      "bottomRightY": 849,
+      "content": "1",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

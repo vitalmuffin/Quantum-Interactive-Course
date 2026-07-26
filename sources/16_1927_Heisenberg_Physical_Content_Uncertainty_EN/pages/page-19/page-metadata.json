@@ -1,0 +1,101 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1020,
+    "width": 645
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 81,
+      "topLeftY": 50,
+      "bottomRightX": 99,
+      "bottomRightY": 65,
+      "content": "80",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 303,
+      "topLeftY": 51,
+      "bottomRightX": 382,
+      "bottomRightY": 65,
+      "content": "HEISENBERG",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 86,
+      "bottomRightX": 605,
+      "bottomRightY": 163,
+      "content": "over Q—that is, through (20). However, the eigenfunction (21) will change by a calculable amount in a magnetic field and, on account of the different deviation of atoms in the upper and lower state, will have changed beyond the magnetic field into",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 182,
+      "bottomRightX": 604,
+      "bottomRightY": 204,
+      "content": "$$S(Q, q, t) = c_2 S_2(Q, t) \\psi_2(E_2, q) e^{-i(E_2 t + \\beta)/\\hbar} + (1 - c_2^2)^{1/2} S_1(Q, t) \\psi_1(E_1, q) e^{-iE_1 t/\\hbar}. \\tag{22}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 222,
+      "bottomRightX": 604,
+      "bottomRightY": 300,
+      "content": "Here $S_1(Q, t)$ and $S_2(Q, t)$ will be functions in Q-space which differ from zero only in the small neighborhood of a point; but this point is different for $S_1$ and $S_2$. The product $S_1 S_2$ is therefore zero everywhere. The probability of a relative amplitude $q$ and a definite value $Q$ is therefore",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 317,
+      "bottomRightX": 604,
+      "bottomRightY": 341,
+      "content": "$$S(Q, q, t) \\bar{S}(Q, q, t) = c_2^2 S_2 \\bar{S}_2 \\psi_2 \\bar{\\psi}_2 + (1 - c_2^2) S_1 \\bar{S}_1 \\psi_1 \\bar{\\psi}_1. \\tag{23}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 357,
+      "bottomRightX": 604,
+      "bottomRightY": 454,
+      "content": "The periodic term of (20) has disappeared and with it the possibility of measuring a phase relation. The statistical result of position determinations will always be the same, whatever the phase of the incident radiation. We may assume that experiments with radiation, the theory of which has not yet been developed, will give the same results about phase relations between atoms and incident radiation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 455,
+      "bottomRightX": 604,
+      "bottomRightY": 845,
+      "content": "Finally let us examine the connection* of equation (2), $E_1 t_1 \\sim h$, with a complex of problems which Ehrenfest and other investigators have discussed on the basis of Bohr's correspondence principle in two important papers.† Ehrenfest and Tolman speak of \"weak quantization\" when the quantized periodic motion is interrupted through quantum jumps or rather perturbations in intervals of time which can be regarded as not very long compared to the periods of the system. These cases should reveal not only the exact quantum energy values but also energy values which do not differ too much from the quantum values, and these with a smaller and qualitatively predictable a priori probability. In quantum mechanics this behavior is to be interpreted in these terms. As the energy is really changed by external perturbations or quantum jumps, every energy measurement, insofar as it is to be unique, must be done in the time between two perturbations. In this way an upper bound is specified for $t_1$ in the sense of §1. Therefore we measure the energy value $E_0$ of a quantized state also only within a spread $E_1 \\sim h/t_1$. Here the question is meaningless even in principle whether the system \"really\" takes on with the correspondingly lower statistical weight such energy values $E$ as deviate from $E_0$, or whether their experimental realization is to be attributed only to the inaccuracy of the measurement. If $t_1$ is smaller than the period of the system then it is no longer meaningful to speak of discrete stationary states or discrete energy values.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 856,
+      "bottomRightX": 348,
+      "bottomRightY": 870,
+      "content": "* W. Pauli drew my attention to this connection.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 871,
+      "bottomRightX": 605,
+      "bottomRightY": 903,
+      "content": "† P. Ehrenfest and G. Breit (Zeits. f. Physik, 9, 207 [1922]) and P. Ehrenfest and R. C. Tolman (Phys. Rev., 24, 287 [1924]). See also the discussion in N. Bohr, Grundpostulate der Quantentheorie, l.c.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

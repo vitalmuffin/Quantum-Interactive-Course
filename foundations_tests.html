@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+
+<html data-theme="dark" lang="de">
+<head>
+<style>body>header:not(.course-shell){display:none!important}</style>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="dark light" name="color-scheme"/>
+<title>Grundlagenstreit und Tests · Quantum – Das Kleinste verstehen</title>
+<meta content="Bilingual interactive laboratories from EPR to Aspect, contextuality, and decoherence." name="description"/>
+<link href="https://cdn.jsdelivr.net/npm/temml@0.13.3/dist/Temml-Local.css" rel="stylesheet"/>
+<script defer="" src="https://cdn.jsdelivr.net/npm/temml@0.13.3/dist/temml.min.js"></script>
+<script charset="utf-8" defer="" src="vendor/plotly-3.3.1.min.js"></script>
+<style>
+    :root{
+      --bg:#06120f;--bg2:#0a1b1a;--panel:#0d211e;--panel2:#102925;
+      --text:#effcf8;--muted:#9abbb2;--faint:#678b81;--border:#23473f;
+      --accent:#61e4c2;--blue:#78a9ff;--gold:#f2c46f;--pink:#ff91b0;
+      --danger:#ff858d;--good:#79dfa1;--violet:#bd91ff;
+      --shadow:0 24px 80px rgba(0,0,0,.34);--radius:26px;--max:1480px;
+    }
+    html[data-theme="light"]{
+      --bg:#f2f8f6;--bg2:#e8f1ee;--panel:#ffffff;--panel2:#f4faf8;
+      --text:#142622;--muted:#4f6c65;--faint:#78918b;--border:#c9ddd7;
+      --accent:#087d68;--blue:#3c68c4;--gold:#ad6900;--pink:#b73568;
+      --danger:#b52c3c;--good:#147b45;--violet:#7251b8;
+      --shadow:0 22px 60px rgba(30,70,60,.14);
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{
+      margin:0;color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,
+      BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh;
+      background:
+        radial-gradient(circle at 5% -5%,rgba(97,228,194,.18),transparent 35rem),
+        radial-gradient(circle at 95% 8%,rgba(120,169,255,.13),transparent 34rem),
+        linear-gradient(180deg,var(--bg),var(--bg2));
+    }
+    body:before{
+      content:"";position:fixed;inset:0;pointer-events:none;opacity:.17;
+      background-image:linear-gradient(rgba(255,255,255,.025) 1px,transparent 1px),
+      linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);
+      background-size:44px 44px;mask-image:linear-gradient(to bottom,black,transparent 88%)
+    }
+    a{color:inherit}.shell{width:min(var(--max),calc(100% - 30px));margin:auto;position:relative}
+    button,input,select{font:inherit}button{cursor:pointer}
+    .topbar{
+      position:sticky;top:0;z-index:50;backdrop-filter:blur(20px);
+      background:color-mix(in srgb,var(--bg) 80%,transparent);border-bottom:1px solid var(--border)
+    }
+    .topbar-inner{min-height:70px;display:flex;align-items:center;gap:20px}
+    .brand{text-decoration:none;display:flex;align-items:center;gap:12px;min-width:max-content}
+    .mark{width:34px;height:34px;border:1px solid var(--border);border-radius:50%;display:grid;place-items:center}
+    .mark:after{content:"";width:10px;height:10px;border-radius:50%;background:var(--accent);box-shadow:0 0 22px var(--accent)}
+    .brand strong{display:block}.brand small{color:var(--muted)}
+    nav{display:flex;gap:8px;flex:1;justify-content:center;flex-wrap:wrap}
+    nav a,.tool-btn,.seg button{
+      text-decoration:none;border:1px solid transparent;border-radius:999px;padding:9px 13px;
+      color:var(--muted);background:transparent
+    }
+    nav a:hover,.tool-btn:hover,.seg button:hover{border-color:var(--border);color:var(--text)}
+    .tools{display:flex;align-items:center;gap:8px}.seg{display:flex;border:1px solid var(--border);border-radius:999px;padding:3px}
+    .seg button{padding:6px 10px}.seg button.active{background:var(--accent);color:#03231c}
+    .tool-btn{border-color:var(--border);color:var(--text)}
+    .hero{padding:90px 0 52px}.eyebrow{font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);font-weight:800}
+    h1{font-size:clamp(3rem,8vw,7.4rem);line-height:.91;letter-spacing:-.065em;max-width:1150px;margin:18px 0 28px}
+    .gradient{background:linear-gradient(110deg,var(--text),var(--accent),var(--blue));-webkit-background-clip:text;background-clip:text;color:transparent}
+    .hero-grid{display:grid;grid-template-columns:1.35fr .65fr;gap:40px;align-items:end}
+    .lead{font-size:clamp(1.1rem,2vw,1.55rem);line-height:1.55;color:var(--muted);max-width:900px}
+    .metric-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+    .metric{border:1px solid var(--border);background:var(--panel);padding:18px;border-radius:20px}
+    .metric b{display:block;font-size:2rem}.metric span{color:var(--muted)}
+    .section{padding:54px 0}.section-head{display:grid;grid-template-columns:1fr .7fr;gap:35px;align-items:end;margin-bottom:28px}
+    h2{font-size:clamp(2.2rem,5vw,4.8rem);line-height:.98;letter-spacing:-.045em;margin:10px 0}
+    h3{font-size:clamp(1.6rem,3vw,2.8rem);letter-spacing:-.03em;margin:0}
+    .section-head p,.intro{color:var(--muted);line-height:1.65;font-size:1.05rem}
+    .epistemic-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+    .epistemic{
+      border:1px solid var(--border);border-radius:22px;padding:20px;background:var(--panel)
+    }
+    .epistemic i{display:block;width:11px;height:11px;border-radius:50%;margin-bottom:16px}
+    .epistemic b{display:block;margin-bottom:8px}.epistemic p{margin:0;color:var(--muted);line-height:1.5}
+    .lab-section{padding:60px 0}
+    .lab-heading{display:grid;grid-template-columns:1fr .72fr;gap:32px;align-items:end;margin-bottom:22px}
+    .lab-num{color:var(--accent);font-size:.77rem;letter-spacing:.18em;text-transform:uppercase;font-weight:800}
+    .lab-heading p{color:var(--muted);line-height:1.62}
+    .lab-card{
+      display:grid;grid-template-columns:minmax(300px,390px) 1fr;border:1px solid var(--border);
+      border-radius:var(--radius);overflow:hidden;background:color-mix(in srgb,var(--panel) 92%,transparent);
+      box-shadow:var(--shadow)
+    }
+    .controls{padding:26px;border-right:1px solid var(--border);background:color-mix(in srgb,var(--panel2) 86%,transparent)}
+    .visual{padding:26px;min-width:0}
+    .control-title{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;margin-bottom:20px}
+    .control-title small{color:var(--muted);text-align:right}
+    label.control{display:block;margin:19px 0}
+    label.control>span{display:flex;justify-content:space-between;gap:14px;margin-bottom:9px}
+    output{color:var(--accent);font-variant-numeric:tabular-nums}
+    input[type=range]{width:100%;accent-color:var(--accent)}
+    select{
+      width:100%;border:1px solid var(--border);border-radius:12px;padding:10px 12px;
+      background:var(--panel);color:var(--text)
+    }
+    .formula-card,.explain-card,.source-card,.result-card{
+      border:1px solid var(--border);border-radius:18px;padding:17px;background:var(--panel);margin-top:16px
+    }
+    .formula-card p,.explain-card p,.source-card p{color:var(--muted);line-height:1.55;margin:.7rem 0 0}
+    .math-scroll{overflow-x:auto;padding:5px 0}.math{font-size:1.08rem;min-width:max-content}
+    .plot{height:440px;min-height:360px}
+    canvas.sim{width:100%;height:440px;display:block;border:1px solid var(--border);border-radius:18px;background:#081814}
+    html[data-theme="light"] canvas.sim{background:#f6fbf9}
+    .result-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:15px}
+    .result-card small{color:var(--muted);display:block;margin-bottom:8px}.result-card b{font-size:1.28rem}
+    .system-strip{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:0 0 20px}
+    .system-strip div{border:1px solid var(--border);padding:12px;border-radius:14px;background:var(--panel)}
+    .system-strip small{color:var(--muted);display:block;margin-bottom:5px}.system-strip b{font-size:.93rem}
+    .statement{border-left:3px solid var(--gold);padding:12px 14px;background:color-mix(in srgb,var(--gold) 8%,transparent);border-radius:0 14px 14px 0;margin-top:16px;line-height:1.55}
+    .source-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+    .source-links a{border:1px solid var(--border);border-radius:999px;padding:8px 11px;text-decoration:none;color:var(--muted)}
+    .source-links a:hover{color:var(--text);border-color:var(--accent)}
+    .source-image{max-width:100%;max-height:380px;display:block;margin:16px auto 0;border-radius:14px;border:1px solid var(--border)}
+    .toggle-row{display:grid;grid-template-columns:1fr;gap:8px;margin:15px 0}
+    .check{display:flex;align-items:center;gap:10px;padding:11px;border:1px solid var(--border);border-radius:13px}
+    .check input{accent-color:var(--accent)}
+    .assumption-result{font-size:1.15rem;line-height:1.5;padding:14px;border-radius:14px;background:var(--panel);border:1px solid var(--border)}
+    .branch-tree{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:center}
+    .node{border:1px solid var(--border);border-radius:16px;padding:16px;background:var(--panel);text-align:center}
+    .arrow{color:var(--accent);font-size:1.8rem}
+    .context-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+    .context-cell{border:1px solid var(--border);border-radius:14px;padding:15px;text-align:center;background:var(--panel);cursor:pointer}
+    .context-cell[data-value="1"]{background:color-mix(in srgb,var(--accent) 18%,var(--panel));border-color:var(--accent)}
+    .context-cell[data-value="-1"]{background:color-mix(in srgb,var(--pink) 16%,var(--panel));border-color:var(--pink)}
+    .footer{padding:50px 0 80px;color:var(--muted)}
+    .next-stage{border:1px solid var(--border);border-radius:24px;background:var(--panel);padding:24px}
+    @media(max-width:1000px){
+      .hero-grid,.section-head,.lab-heading{grid-template-columns:1fr}
+      .lab-card{grid-template-columns:1fr}.controls{border-right:0;border-bottom:1px solid var(--border)}
+      .epistemic-grid{grid-template-columns:repeat(2,1fr)}nav{display:none}
+    }
+    @media(max-width:620px){
+      .shell{width:min(100% - 18px,var(--max))}.topbar-inner{gap:10px}.brand small{display:none}
+      .metric-grid,.epistemic-grid,.result-grid,.system-strip{grid-template-columns:1fr}
+      .hero{padding-top:62px}.controls,.visual{padding:17px}.plot,canvas.sim{height:340px}
+      h1{font-size:3.2rem}.tools{margin-left:auto}
+    }
+  </style>
+<link href="vendor/recall-progress.css" rel="stylesheet"/><style id="v08-accessibility">
+.skip-link{position:fixed;left:12px;top:8px;z-index:9999;transform:translateY(-160%);padding:10px 14px;border-radius:10px;background:#fff;color:#111;text-decoration:none;font-weight:700}
+.skip-link:focus{transform:translateY(0)}
+:focus-visible{outline:3px solid var(--accent,#36b89a)!important;outline-offset:3px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*::before,*::after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}
+</style><link href="vendor/course-shell.css" rel="stylesheet"/></head>
+<body data-course-page="foundations_tests.html"><header class="course-shell course-shell-static"><div class="course-shell-inner"><a class="course-brand" href="index.html"><span class="course-brand-mark"></span><span data-brand>Quantum<small>Das Kleinste verstehen · v0.10</small></span></a><nav class="course-journey" aria-label="Geführte Kursreise"><a href="index.html" class=""><span class="course-step-no">1</span><span>Überblick</span></a><a href="primer.html" class=""><span class="course-step-no">2</span><span>Grundlagen & Primer</span></a><a href="prehistory.html" class=""><span class="course-step-no">3</span><span>Klassische Grenzen</span></a><a href="historical_core.html#planck" class=""><span class="course-step-no">4</span><span>Energiequanten & Photonen</span></a><a href="historical_core.html#matterwave" class=""><span class="course-step-no">5</span><span>Materiewellen & Statistik</span></a><a href="historical_core.html#matrix" class=""><span class="course-step-no">6</span><span>Operatoren & Wellenmechanik</span></a><a href="historical_core.html#born" class=""><span class="course-step-no">7</span><span>Wahrscheinlichkeit, Bindung & Felder</span></a><a href="foundations_tests.html" class="active"><span class="course-step-no">8</span><span>Deutung & Tests</span></a><a href="quantum_information.html" class=""><span class="course-step-no">9</span><span>Quanteninformation</span></a><a href="source_reader.html" class=""><span class="course-step-no">10</span><span>Quellen</span></a></nav><button class="course-tool course-mobile-menu" data-role="menu">Etappen</button><div class="course-tools"><button class="course-tool labelled" data-role="progress">Fortschritt</button><div class="course-lang-seg"><button class="active" data-lang="de">DE</button><button data-lang="en">EN</button></div><button class="course-tool" data-role="theme" aria-label="Farbschema">◐</button></div></div><div class="qm-stage-progress"><i></i></div></header><a class="skip-link" href="#main-content">Zum Inhalt / Skip to content</a>
+<header class="topbar">
+<div class="shell topbar-inner">
+<a class="brand" href="index.html">
+<span class="mark"></span>
+<span><strong data-de="Quantum – Das Kleinste verstehen" data-en="Quantum — Understanding the Smallest">Quantum – Das Kleinste verstehen</strong><small>v0.10 · 1935–1982</small></span>
+</a>
+<nav>
+<a data-de="Systemkarte" data-en="System map" href="index.html">Systemkarte</a>
+<a href="primer.html">Primer</a>
+<a data-de="1900–1928" data-en="1900–1928" href="historical_core.html">1900–1928</a>
+<a href="#epr">EPR</a><a href="#chsh">CHSH</a><a href="#aspect">Aspect</a>
+</nav>
+<div class="tools">
+<div class="seg"><button class="active" id="deBtn">DE</button><button id="enBtn">EN</button></div>
+<button class="tool-btn" id="themeBtn" type="button">◐</button>
+</div>
+</div>
+</header>
+<main id="main-content">
+<section class="hero">
+<div class="shell">
+<span class="eyebrow" data-de="Etappe v0.10 · Grundlagenstreit und Tests" data-en="Stage v0.10 · Foundations and tests">Etappe v0.10 · Grundlagenstreit und Tests</span>
+<h1><span data-de="Von der Frage" data-en="From the question">Von der Frage</span><br/><span class="gradient" data-de="„Ist die Theorie vollständig?“" data-en="“Is the theory complete?”">„Ist die Theorie vollständig?“</span><br/><span data-de="zum messbaren Test." data-en="to a measurable test.">zum messbaren Test.</span></h1>
+<div class="hero-grid">
+<p class="lead" data-de="1935 begann eine präzise Debatte über Realität, Messung und Vollständigkeit. Bell verwandelte einen Teil dieser Debatte 1964 in eine mathematische Schranke. CHSH machte sie experimentell handhabbar. Aspect testete die Korrelationen mit schnell wechselnden Analysatoren. Diese Seite trennt jederzeit: mathematischen Satz, Beobachtung, ausgeschlossene Modellklasse und philosophische Deutung." data-en="In 1935 a precise debate began about reality, measurement, and completeness. Bell turned part of that debate into a mathematical bound in 1964. CHSH made it experimentally practical. Aspect tested the correlations with rapidly changing analyzers. This page always separates mathematical theorem, observation, excluded model class, and philosophical interpretation.">
+        1935 begann eine präzise Debatte über Realität, Messung und Vollständigkeit. Bell verwandelte einen Teil dieser Debatte 1964 in eine mathematische Schranke. CHSH machte sie experimentell handhabbar. Aspect testete die Korrelationen mit schnell wechselnden Analysatoren.
+      </p>
+<div class="metric-grid">
+<div class="metric"><b>9</b><span data-de="interaktive Labore" data-en="interactive labs">interaktive Labore</span></div>
+<div class="metric"><b>8</b><span data-de="Primärarbeiten" data-en="primary papers">Primärarbeiten</span></div>
+<div class="metric"><b>47</b><span data-de="Jahre Debatte und Test" data-en="years of debate and testing">Jahre Debatte und Test</span></div>
+<div class="metric"><b>4</b><span data-de="Erkenntnisebenen" data-en="epistemic levels">Erkenntnisebenen</span></div>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="shell">
+<div class="section-head">
+<div><span class="eyebrow" data-de="Erkenntniskompass" data-en="Epistemic compass">Erkenntniskompass</span><h2 data-de="Nicht alles ist auf dieselbe Weise „bewiesen“." data-en="Not everything is “proved” in the same way.">Nicht alles ist auf dieselbe Weise „bewiesen“.</h2></div>
+<p data-de="Ein mathematischer Satz folgt aus Annahmen. Ein Experiment liefert Häufigkeiten mit Unsicherheit. Daraus kann eine Klasse von Modellen ausgeschlossen werden. Eine Interpretation ordnet dem Formalismus Bedeutung zu, ist aber nicht automatisch eine zusätzliche Messvorhersage." data-en="A mathematical theorem follows from assumptions. An experiment yields frequencies with uncertainty. This can exclude a class of models. An interpretation assigns meaning to the formalism but does not automatically add a new measurable prediction.">
+        Ein mathematischer Satz folgt aus Annahmen. Ein Experiment liefert Häufigkeiten mit Unsicherheit. Daraus kann eine Klasse von Modellen ausgeschlossen werden.
+      </p>
+</div>
+<div class="epistemic-grid">
+<article class="epistemic"><i style="background:var(--blue)"></i><b data-de="Mathematischer Satz" data-en="Mathematical theorem">Mathematischer Satz</b><p data-de="Gilt, wenn die angegebenen Annahmen gelten." data-en="Valid if the stated assumptions hold.">Gilt, wenn die angegebenen Annahmen gelten.</p></article>
+<article class="epistemic"><i style="background:var(--accent)"></i><b data-de="Experimentelle Beobachtung" data-en="Experimental observation">Experimentelle Beobachtung</b><p data-de="Zählraten, Korrelationen und Unsicherheiten." data-en="Count rates, correlations, and uncertainties.">Zählraten, Korrelationen und Unsicherheiten.</p></article>
+<article class="epistemic"><i style="background:var(--danger)"></i><b data-de="Ausgeschlossene Modellklasse" data-en="Excluded model class">Ausgeschlossene Modellklasse</b><p data-de="Nur das konkrete Annahmenpaket wird ausgeschlossen." data-en="Only the specific package of assumptions is excluded.">Nur das konkrete Annahmenpaket wird ausgeschlossen.</p></article>
+<article class="epistemic"><i style="background:var(--gold)"></i><b data-de="Philosophische Deutung" data-en="Philosophical interpretation">Philosophische Deutung</b><p data-de="Erklärt, was der Formalismus bedeuten soll." data-en="States what the formalism is taken to mean.">Erklärt, was der Formalismus bedeuten soll.</p></article>
+</div>
+</div>
+</section>
+<section class="lab-section" id="epr"><div class="shell">
+<div class="lab-heading"><div><span class="lab-num">01 · 1935 · EPR</span><h2 data-de="Korrelation ist nicht dasselbe wie ein Signal." data-en="Correlation is not the same as a signal.">Korrelation ist nicht dasselbe wie ein Signal.</h2></div><div class="primer-refbar"><span data-de="Benötigte Grundlagen:" data-en="Required foundations:">Benötigte Grundlagen:</span><a data-de="Zustand &amp; Basis" data-en="State &amp; basis" href="primer.html?return=foundations_tests.html%23epr#basis">Zustand &amp; Basis</a><a data-de="Wahrscheinlichkeit &amp; Integral" data-en="Probability &amp; integral" href="primer.html?return=foundations_tests.html%23epr#probability">Wahrscheinlichkeit &amp; Integral</a><a data-de="Operator &amp; Eigenzustand" data-en="Operator &amp; eigenstate" href="primer.html?return=foundations_tests.html%23epr#eigen">Operator &amp; Eigenzustand</a></div><p data-de="EPR fragte nicht, ob die Quantenmechanik falsche Zahlen liefert, sondern ob ihre Zustandsbeschreibung vollständig ist. Das Labor nutzt eine moderne Polarisations-Analogie; das Originalpaper diskutiert kontinuierliche Größen wie Ort und Impuls." data-en="EPR did not ask whether quantum mechanics gives wrong numbers, but whether its state description is complete. This lab uses a modern polarization analogue; the original paper discusses continuous quantities such as position and momentum.">EPR fragte nach Vollständigkeit. Das Labor nutzt eine moderne Polarisations-Analogie.</p></div>
+<div class="system-strip">
+<div><small data-de="Frage" data-en="Question">Frage</small><b data-de="Sind entfernte Resultate vorab festgelegt?" data-en="Are distant results predetermined?">Sind entfernte Resultate vorab festgelegt?</b></div>
+<div><small data-de="Vorhersage" data-en="Prediction">Vorhersage</small><b data-de="Gemeinsame Resultate sind stark korreliert." data-en="Joint outcomes are strongly correlated.">Gemeinsame Resultate sind stark korreliert.</b></div>
+<div><small data-de="Beobachtung" data-en="Observation">Beobachtung</small><b data-de="Einzelne lokale Resultate bleiben zufällig." data-en="Individual local outcomes remain random.">Einzelne lokale Resultate bleiben zufällig.</b></div>
+<div><small data-de="Offen 1935" data-en="Open in 1935">Offen 1935</small><b data-de="Welche Annahmen sind testbar?" data-en="Which assumptions are testable?">Welche Annahmen sind testbar?</b></div>
+</div>
+<article class="lab-card">
+<aside class="controls">
+<div class="control-title"><b data-de="Korrelation einstellen" data-en="Set the correlation">Korrelation einstellen</b><small data-de="Moderne Polarisations-Analogie" data-en="Modern polarization analogue">Moderne Polarisations-Analogie</small></div>
+<label class="control"><span><span data-de="Verschränkungs-/Sichtbarkeitsfaktor η" data-en="Entanglement/visibility factor η">Verschränkungs-/Sichtbarkeitsfaktor η</span><output aria-live="polite" id="eprEtaOut">1,00</output></span><input aria-label="Verschränkungs-/Sichtbarkeitsfaktor η 1,00" id="eprEta" max="1" min="0" step="0.01" type="range" value="1"/></label>
+<label class="control"><span><span data-de="Analysator A" data-en="Analyzer A">Analysator A</span><output aria-live="polite" id="eprAOut">0°</output></span><input aria-label="Analysator A 0°" id="eprA" max="180" min="0" step="1" type="range" value="0"/></label>
+<label class="control"><span><span data-de="Analysator B" data-en="Analyzer B">Analysator B</span><output aria-live="polite" id="eprBOut">45°</output></span><input aria-label="Analysator B 45°" id="eprB" max="180" min="0" step="1" type="range" value="45"/></label>
+<div class="source-card"><b data-de="Primärquelle" data-en="Primary source">Primärquelle</b><div class="source-links"><a href="assets/pdfs/22_1935_Einstein_Podolsky_Rosen_EPR.pdf" target="_blank">PDF</a><a href="summaries/22_1935_Einstein_Podolsky_Rosen_EPR/summary_german.md" target="_blank">Summary DE</a><a href="summaries/22_1935_Einstein_Podolsky_Rosen_EPR/summary_english.md" target="_blank">Summary EN</a></div></div>
+</aside>
+<div class="visual"><div aria-label="Interaktives Diagramm / interactive plot" class="plot" id="eprPlot" role="img"></div><div class="result-grid"><div class="result-card"><small>E(a,b)</small><b id="eprCorr">—</b></div><div class="result-card"><small data-de="P(gleich)" data-en="P(same)">P(gleich)</small><b id="eprSame">—</b></div><div class="result-card"><small data-de="lokales Ergebnis +" data-en="local result +">lokales Ergebnis +</small><b>50 %</b></div></div><div class="statement" data-de="Wichtig: Aus der Korrelation allein folgt noch keine experimentelle Widerlegung lokaler verborgener Variablen. Dafür braucht man mehrere Einstellungen und eine Bell-Ungleichung." data-en="Important: the correlation alone does not experimentally refute local hidden variables. Multiple settings and a Bell inequality are required.">Aus der Korrelation allein folgt noch keine Bell-Widerlegung.</div></div>
+<div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{E(a,b)}=-{\eta}\cos\!\left(2{(a-b)}\right)" data-tex-en="{E(a,b)}=-{\eta}\cos\!\left(2{(a-b)}\right)"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="E(a,b)" data-tex-en="E(a,b)"></b><span data-de="Korrelation" data-en="correlation">Korrelation</span></div><div class="symbol-row"><b class="math" data-tex-de="\eta" data-tex-en="\eta"></b><span data-de="Sichtbarkeit" data-en="visibility">Sichtbarkeit</span></div><div class="symbol-row"><b class="math" data-tex-de="(a-b)" data-tex-en="(a-b)"></b><span data-de="Winkeldifferenz" data-en="angle difference">Winkeldifferenz</span></div></div><p data-de="Die Formelzeichen und ihre Rollen stehen direkt unter der Gleichung." data-en="The symbols and their roles are listed directly below the equation.">Die Formelzeichen und ihre Rollen stehen direkt unter der Gleichung.</p></div><div class="source-inline-card"><p data-de="Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft." data-en="The claims and model assumptions in this field are linked to the primary source or a clearly marked preparation.">Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft.</p><div class="source-inline-actions"><a class="evidence-link" data-de="Paper-Ausschnitt" data-en="Paper excerpt" href="source_reader.html?paper=22_1935_Einstein_Podolsky_Rosen_EPR&amp;view=excerpt&amp;page=3">Paper-Ausschnitt</a><a class="evidence-link" data-de="Aufbereitung" data-en="Preparation" href="source_reader.html?paper=22_1935_Einstein_Podolsky_Rosen_EPR&amp;view=summary">Aufbereitung</a></div></div></article>
+</div></section>
+<section class="lab-section" id="cat"><div class="shell">
+<div class="lab-heading"><div><span class="lab-num">02 · 1935 · Schrödinger</span><h2 data-de="Das Katzenbild zeigt ein Skalierungsproblem." data-en="The cat image exposes a scaling problem.">Das Katzenbild zeigt ein Skalierungsproblem.</h2></div><div class="primer-refbar"><span data-de="Benötigte Grundlagen:" data-en="Required foundations:">Benötigte Grundlagen:</span><a data-de="Überlagerung &amp; Summe" data-en="Superposition &amp; sum" href="primer.html?return=foundations_tests.html%23cat#superposition">Überlagerung &amp; Summe</a><a data-de="Wahrscheinlichkeit &amp; Integral" data-en="Probability &amp; integral" href="primer.html?return=foundations_tests.html%23cat#probability">Wahrscheinlichkeit &amp; Integral</a></div><p data-de="Schrödinger prägte „Verschränkung“ und machte sichtbar, wie eine mikroskopische Überlagerung durch eine Messkette auf ein makroskopisches Objekt übertragen wird." data-en="Schrödinger coined “entanglement” and showed how a microscopic superposition can be carried through a measurement chain to a macroscopic object.">Eine Messkette koppelt System, Detektor und makroskopische Anzeige.</p></div>
+<article class="lab-card">
+<aside class="controls">
+<div class="control-title"><b data-de="Messkette" data-en="Measurement chain">Messkette</b><small data-de="Kohärenz sichtbar machen" data-en="Make coherence visible">Kohärenz sichtbar machen</small></div>
+<label class="control"><span><span data-de="Gewicht des zweiten Zweigs |β|²" data-en="Weight of second branch |β|²">Gewicht des zweiten Zweigs |β|²</span><output aria-live="polite" id="catBetaOut">50 %</output></span><input aria-label="Gewicht des zweiten Zweigs |β|² 50 %" id="catBeta" max="1" min="0" step="0.01" type="range" value="0.5"/></label>
+<label class="control"><span><span data-de="Umweltkopplung Γt" data-en="Environmental coupling Γt">Umweltkopplung Γt</span><output aria-live="polite" id="catGammaOut">0,00</output></span><input aria-label="Umweltkopplung Γt 0,00" id="catGamma" max="6" min="0" step="0.05" type="range" value="0"/></label>
+<div class="explain-card"><b data-de="Was bedeutet Kohärenz?" data-en="What is coherence?">Was bedeutet Kohärenz?</b><p data-de="Die Nebendiagonale der Dichtematrix speichert die Fähigkeit der Zweige, später wieder zu interferieren. Umweltkopplung verkleinert diese Terme." data-en="The off-diagonal terms of the density matrix encode the ability of the branches to interfere later. Environmental coupling suppresses these terms.">Die Nebendiagonale speichert mögliche Interferenz zwischen Zweigen.</p></div>
+<div class="source-card"><div class="source-links"><a href="assets/pdfs/23_1935_Schrodinger_Present_Situation_QM_DE.pdf" target="_blank">PDF</a><a href="summaries/23_1935_Schrodinger_Present_Situation_QM_DE/summary_german.md" target="_blank">Summary DE</a><a href="summaries/23_1935_Schrodinger_Present_Situation_QM_DE/summary_english.md" target="_blank">Summary EN</a></div><img alt="Image extracted from Schrödinger's primary source" class="source-image" src="assets/source-images/23_1935_Schrodinger_Present_Situation_QM_DE/pages/page-4/img-0.jpeg"/></div>
+</aside>
+<div class="visual"><div aria-label="Interaktives Diagramm / interactive plot" class="plot" id="catPlot" role="img"></div><div class="result-grid"><div class="result-card"><small>|α|²</small><b id="catA">—</b></div><div class="result-card"><small>|β|²</small><b id="catB">—</b></div><div class="result-card"><small data-de="relative Kohärenz" data-en="relative coherence">relative Kohärenz</small><b id="catC">—</b></div></div><div class="statement" data-de="Dekohärenz erklärt, warum Interferenz zwischen makroskopischen Alternativen praktisch verschwindet. Sie wählt allein noch kein einzelnes Ergebnis aus." data-en="Decoherence explains why interference between macroscopic alternatives becomes practically unavailable. By itself it does not select one unique outcome.">Dekohärenz ist nicht identisch mit einer Auswahl genau eines Ergebnisses.</div></div>
+<div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{|\Psi\rangle}={\alpha}|0,\mathrm{bereit},\mathrm{lebend}\rangle+{\beta}|1,\mathrm{ausgelöst},\mathrm{tot}\rangle" data-tex-en="{|\Psi\rangle}={\alpha}|0,\mathrm{ready},\mathrm{alive}\rangle+{\beta}|1,\mathrm{triggered},\mathrm{dead}\rangle"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="|\Psi\rangle" data-tex-en="|\Psi\rangle"></b><span data-de="Gesamtzustand" data-en="joint state">Gesamtzustand</span></div><div class="symbol-row"><b class="math" data-tex-de="\alpha" data-tex-en="\alpha"></b><span data-de="Amplitude 1" data-en="amplitude 1">Amplitude 1</span></div><div class="symbol-row"><b class="math" data-tex-de="\beta" data-tex-en="\beta"></b><span data-de="Amplitude 2" data-en="amplitude 2">Amplitude 2</span></div></div></div><div class="source-inline-card"><p data-de="Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft." data-en="The claims and model assumptions in this field are linked to the primary source or a clearly marked preparation.">Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft.</p><div class="source-inline-actions"><a class="evidence-link" data-de="Paper-Ausschnitt" data-en="Paper excerpt" href="source_reader.html?paper=23_1935_Schrodinger_Present_Situation_QM_DE&amp;view=excerpt&amp;page=3">Paper-Ausschnitt</a><a class="evidence-link" data-de="Aufbereitung" data-en="Preparation" href="source_reader.html?paper=23_1935_Schrodinger_Present_Situation_QM_DE&amp;view=summary">Aufbereitung</a></div></div></article>
+</div></section>
+<section class="lab-section" id="bohm"><div class="shell">
+<div class="lab-heading"><div><span class="lab-num">03 · 1952 · Bohm</span><h2 data-de="Eine alternative Dynamik kann dieselbe Statistik erzeugen." data-en="An alternative dynamics can reproduce the same statistics.">Eine alternative Dynamik kann dieselbe Statistik erzeugen.</h2></div><div class="primer-refbar"><span data-de="Benötigte Grundlagen:" data-en="Required foundations:">Benötigte Grundlagen:</span><a data-de="Welle &amp; Funktion" data-en="Wave &amp; function" href="primer.html?return=foundations_tests.html%23bohm#wave">Welle &amp; Funktion</a><a data-de="Ableitung &amp; Integral" data-en="Derivative &amp; integral" href="primer.html?return=foundations_tests.html%23bohm#calculus">Ableitung &amp; Integral</a><a data-de="Wahrscheinlichkeit &amp; Integral" data-en="Probability &amp; integral" href="primer.html?return=foundations_tests.html%23bohm#probability">Wahrscheinlichkeit &amp; Integral</a></div><p data-de="Bohms Theorie ergänzt die Wellenfunktion durch tatsächliche Konfigurationen und eine Führungsgleichung. Sie ist deterministisch, aber im Mehrteilchenfall ausdrücklich nichtlokal." data-en="Bohm's theory supplements the wave function with actual configurations and a guidance equation. It is deterministic, but explicitly nonlocal for many particles.">Bohms Theorie ergänzt den Zustand um geführte Teilchenkonfigurationen.</p></div>
+<article class="lab-card">
+<aside class="controls">
+<label class="control"><span><span data-de="Spaltabstand" data-en="Slit separation">Spaltabstand</span><output aria-live="polite" id="bohmSepOut">90 px</output></span><input aria-label="Spaltabstand 90 px" id="bohmSep" max="150" min="35" step="1" type="range" value="90"/></label>
+<label class="control"><span><span data-de="Relative Phase" data-en="Relative phase">Relative Phase</span><output aria-live="polite" id="bohmPhaseOut">0°</output></span><input aria-label="Relative Phase 0°" id="bohmPhase" max="360" min="0" step="1" type="range" value="0"/></label>
+<label class="control"><span><span data-de="Anzahl Bahnen" data-en="Number of trajectories">Anzahl Bahnen</span><output aria-live="polite" id="bohmNOut">28</output></span><input aria-label="Anzahl Bahnen 28" id="bohmN" max="70" min="8" step="1" type="range" value="28"/></label>
+<div class="source-card"><div class="source-links"><a href="assets/pdfs/25_1952_Bohm_Hidden_Variables_Parts_I_II.pdf" target="_blank">PDF</a><a href="summaries/25_1952_Bohm_Hidden_Variables_Parts_I_II/summary_german.md" target="_blank">Summary DE</a><a href="summaries/25_1952_Bohm_Hidden_Variables_Parts_I_II/summary_english.md" target="_blank">Summary EN</a></div></div>
+</aside>
+<div class="visual"><canvas aria-label="Interaktive physikalische Visualisierung / interactive physics visualization" class="sim" id="bohmCanvas" role="img"></canvas><div class="statement" data-de="Bell-Experimente schließen Bohms Theorie nicht aus: Sie ist gerade ein Beispiel dafür, dass eine Theorie die Quantenstatistik reproduzieren kann, wenn sie Nichtlokalität akzeptiert." data-en="Bell experiments do not exclude Bohm's theory: it is an example of a theory that reproduces quantum statistics by accepting nonlocality.">Bohms Theorie zeigt: Determinismus allein ist nicht die von Bell ausgeschlossene Annahme.</div></div>
+<div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{\psi}={R}e^{i{S}/\hbar},\qquad {\mathbf v}=\frac{\nabla S}{{m}}" data-tex-en="{\psi}={R}e^{i{S}/\hbar},\qquad {\mathbf v}=\frac{\nabla S}{{m}}"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="\psi" data-tex-en="\psi"></b><span data-de="Wellenfunktion" data-en="wave function">Wellenfunktion</span></div><div class="symbol-row"><b class="math" data-tex-de="R" data-tex-en="R"></b><span data-de="Amplitude" data-en="amplitude">Amplitude</span></div><div class="symbol-row"><b class="math" data-tex-de="S" data-tex-en="S"></b><span data-de="Phase" data-en="phase">Phase</span></div><div class="symbol-row"><b class="math" data-tex-de="\mathbf v" data-tex-en="\mathbf v"></b><span data-de="Führungsgeschwindigkeit" data-en="guidance velocity">Führungsgeschwindigkeit</span></div><div class="symbol-row"><b class="math" data-tex-de="m" data-tex-en="m"></b><span data-de="Masse" data-en="mass">Masse</span></div></div><p data-de="Die Formelzeichen und ihre Rollen stehen direkt unter der Gleichung." data-en="The symbols and their roles are listed directly below the equation.">Die Formelzeichen und ihre Rollen stehen direkt unter der Gleichung.</p></div><div class="source-inline-card"><p data-de="Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft." data-en="The claims and model assumptions in this field are linked to the primary source or a clearly marked preparation.">Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft.</p><div class="source-inline-actions"><a class="evidence-link" data-de="Paper-Ausschnitt" data-en="Paper excerpt" href="source_reader.html?paper=25_1952_Bohm_Hidden_Variables_Parts_I_II&amp;view=excerpt&amp;page=4">Paper-Ausschnitt</a><a class="evidence-link" data-de="Aufbereitung" data-en="Preparation" href="source_reader.html?paper=25_1952_Bohm_Hidden_Variables_Parts_I_II&amp;view=summary">Aufbereitung</a></div></div></article>
+</div></section>
+<section class="lab-section" id="everett"><div class="shell">
+<div class="lab-heading"><div><span class="lab-num">04 · 1957 · Everett</span><h2 data-de="Messung als gewöhnliche unitäre Wechselwirkung." data-en="Measurement as ordinary unitary interaction.">Messung als gewöhnliche unitäre Wechselwirkung.</h2></div><div class="primer-refbar"><span data-de="Benötigte Grundlagen:" data-en="Required foundations:">Benötigte Grundlagen:</span><a data-de="Überlagerung &amp; Summe" data-en="Superposition &amp; sum" href="primer.html?return=foundations_tests.html%23everett#superposition">Überlagerung &amp; Summe</a><a data-de="Zustand &amp; Basis" data-en="State &amp; basis" href="primer.html?return=foundations_tests.html%23everett#basis">Zustand &amp; Basis</a><a data-de="Wahrscheinlichkeit &amp; Integral" data-en="Probability &amp; integral" href="primer.html?return=foundations_tests.html%23everett#probability">Wahrscheinlichkeit &amp; Integral</a></div><p data-de="Everett entfernt den separaten Kollapspostulat-Schritt. Beobachterzustände werden mit den Messergebnissen korreliert. Die Zweige sind relative Zustände innerhalb eines Gesamtzustands." data-en="Everett removes a separate collapse postulate. Observer states become correlated with outcomes. Branches are relative states within a joint state.">Beobachter und System werden gemeinsam beschrieben.</p></div>
+<article class="lab-card">
+<aside class="controls">
+<label class="control"><span><span data-de="Wahrscheinlichkeit Zweig 0" data-en="Weight of branch 0">Wahrscheinlichkeit Zweig 0</span><output aria-live="polite" id="evPOut">65 %</output></span><input aria-label="Wahrscheinlichkeit Zweig 0 65 %" id="evP" max="1" min="0" step="0.01" type="range" value="0.65"/></label>
+<label class="control"><span><span data-de="Messbasis-Rotation" data-en="Measurement-basis rotation">Messbasis-Rotation</span><output aria-live="polite" id="evAngleOut">0°</output></span><input aria-label="Messbasis-Rotation 0°" id="evAngle" max="180" min="0" step="1" type="range" value="0"/></label>
+<div class="explain-card"><b data-de="Testbarkeit" data-en="Testability">Testbarkeit</b><p data-de="In der üblichen nichtrelativistischen Quantenmechanik liefert diese Deutung dieselben Laborwahrscheinlichkeiten wie die Kollapsdeutung. Der Unterschied liegt primär in der ontologischen Lesart." data-en="In ordinary nonrelativistic quantum mechanics this interpretation gives the same laboratory probabilities as collapse interpretations. The main difference is ontological.">Die Deutung ist nicht dasselbe wie ein neuer Bell-Test.</p></div>
+<div class="source-card"><div class="source-links"><a href="assets/pdfs/26_1957_Everett_Relative_State.pdf" target="_blank">PDF</a><a href="summaries/26_1957_Everett_Relative_State/summary_german.md" target="_blank">Summary DE</a><a href="summaries/26_1957_Everett_Relative_State/summary_english.md" target="_blank">Summary EN</a></div></div>
+</aside>
+<div class="visual"><div class="branch-tree" id="everettTree"></div><div class="result-grid"><div class="result-card"><small data-de="Gewicht Zweig 0" data-en="branch 0 weight">Gewicht Zweig 0</small><b id="evW0">—</b></div><div class="result-card"><small data-de="Gewicht Zweig 1" data-en="branch 1 weight">Gewicht Zweig 1</small><b id="evW1">—</b></div><div class="result-card"><small data-de="Normsumme" data-en="normalization">Normsumme</small><b>1,000</b></div></div></div>
+<div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{\left(\alpha|0\rangle+\beta|1\rangle\right)|A_\mathrm{bereit}\rangle}\xrightarrow{\;U\;}{\alpha|0\rangle|A_0\rangle+\beta|1\rangle|A_1\rangle}" data-tex-en="{\left(\alpha|0\rangle+\beta|1\rangle\right)|A_\mathrm{ready}\rangle}\xrightarrow{\;U\;}{\alpha|0\rangle|A_0\rangle+\beta|1\rangle|A_1\rangle}"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="\left(\alpha|0\rangle+\beta|1\rangle\right)|A_\mathrm{bereit}\rangle" data-tex-en="\left(\alpha|0\rangle+\beta|1\rangle\right)|A_\mathrm{bereit}\rangle"></b><span data-de="vor der Messung" data-en="before measurement">vor der Messung</span></div><div class="symbol-row"><b class="math" data-tex-de="\alpha|0\rangle|A_0\rangle+\beta|1\rangle|A_1\rangle" data-tex-en="\alpha|0\rangle|A_0\rangle+\beta|1\rangle|A_1\rangle"></b><span data-de="korrelierter Gesamtzustand" data-en="correlated joint state">korrelierter Gesamtzustand</span></div></div></div><div class="source-inline-card"><p data-de="Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft." data-en="The claims and model assumptions in this field are linked to the primary source or a clearly marked preparation.">Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft.</p><div class="source-inline-actions"><a class="evidence-link" data-de="Paper-Ausschnitt" data-en="Paper excerpt" href="source_reader.html?paper=26_1957_Everett_Relative_State&amp;view=excerpt&amp;page=6">Paper-Ausschnitt</a><a class="evidence-link" data-de="Aufbereitung" data-en="Preparation" href="source_reader.html?paper=26_1957_Everett_Relative_State&amp;view=summary">Aufbereitung</a></div></div></article>
+</div></section>
+<section class="lab-section" id="bell"><div class="shell">
+<div class="lab-heading"><div><span class="lab-num">05 · 1964 · Bell</span><h2 data-de="Ein philosophisches Annahmenpaket bekommt eine Zahlengrenze." data-en="A philosophical package of assumptions gets a numerical bound.">Ein philosophisches Annahmenpaket bekommt eine Zahlengrenze.</h2></div><div class="primer-refbar"><span data-de="Benötigte Grundlagen:" data-en="Required foundations:">Benötigte Grundlagen:</span><a data-de="Wahrscheinlichkeit &amp; Integral" data-en="Probability &amp; integral" href="primer.html?return=foundations_tests.html%23bell#probability">Wahrscheinlichkeit &amp; Integral</a><a data-de="Zustand &amp; Basis" data-en="State &amp; basis" href="primer.html?return=foundations_tests.html%23bell#basis">Zustand &amp; Basis</a></div><p data-de="Bell zeigte: Bestimmte lokale Modelle mit vorgegebenen Ergebnissen können nicht alle Quantenkorrelationen reproduzieren. Entscheidend ist das gesamte Annahmenpaket, nicht ein einzelnes Schlagwort." data-en="Bell showed that certain local models with predetermined outcomes cannot reproduce all quantum correlations. The whole assumption package matters, not a single slogan.">Wähle die Annahmen und sieh, wann eine Bell-Schranke folgt.</p></div>
+<article class="lab-card">
+<aside class="controls">
+<div class="toggle-row">
+<label class="check"><input checked="" id="bellLocal" type="checkbox"/><span data-de="Lokalität: A hängt nicht von der entfernten Einstellung b ab" data-en="Locality: A does not depend on distant setting b">Lokalität</span></label>
+<label class="check"><input checked="" id="bellPred" type="checkbox"/><span data-de="Lokale Faktorisierbarkeit; eine deterministische Form kann ohne Verlust in λ aufgenommen werden" data-en="Local factorization; a deterministic form can be absorbed into λ without loss">Lokale Faktorisierbarkeit</span></label>
+<label class="check"><input checked="" id="bellFree" type="checkbox"/><span data-de="Messsettings statistisch unabhängig von λ" data-en="Measurement settings statistically independent of λ">Messunabhängigkeit</span></label>
+<label class="check"><input checked="" id="bellFair" type="checkbox"/><span data-de="Die gezählte Stichprobe repräsentiert die erzeugten Paare" data-en="The counted sample represents the emitted pairs">Repräsentative Stichprobe</span></label>
+</div>
+<div class="source-card"><div class="source-links"><a href="assets/pdfs/27_1964_Bell_EPR_Paradox.pdf" target="_blank">PDF</a><a href="summaries/27_1964_Bell_EPR_Paradox/summary_german.md" target="_blank">Summary DE</a><a href="summaries/27_1964_Bell_EPR_Paradox/summary_english.md" target="_blank">Summary EN</a></div></div>
+</aside>
+<div class="visual"><div class="assumption-result" id="bellResult"></div><canvas aria-label="Interaktive physikalische Visualisierung / interactive physics visualization" class="sim" id="bellCanvas" role="img"></canvas><div class="statement" data-de="Experimentell verletzt wird nicht „Realismus“ als einzelner, eindeutig definierter Begriff. Ausgeschlossen werden Modelle, die das konkret formulierte Bell/CHSH-Annahmenpaket erfüllen und die beobachteten Daten erklären sollen." data-en="Experiments do not violate “realism” as one uniquely defined standalone concept. They exclude models satisfying the specified Bell/CHSH assumption package while reproducing the observed data.">Bell-Tests prüfen ein Annahmenpaket.</div></div>
+<div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{|S|}\leq{2}\quad\text{unter dem angegebenen Annahmenpaket}" data-tex-en="{|S|}\leq{2}\quad\text{under the stated assumption package}"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="|S|" data-tex-en="|S|"></b><span data-de="CHSH-Kombination" data-en="CHSH combination">CHSH-Kombination</span></div><div class="symbol-row"><b class="math" data-tex-de="2" data-tex-en="2"></b><span data-de="lokale Schranke" data-en="local bound">lokale Schranke</span></div></div></div><div class="source-inline-card"><p data-de="Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft." data-en="The claims and model assumptions in this field are linked to the primary source or a clearly marked preparation.">Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft.</p><div class="source-inline-actions"><a class="evidence-link" data-de="Paper-Ausschnitt" data-en="Paper excerpt" href="source_reader.html?paper=27_1964_Bell_EPR_Paradox&amp;view=excerpt&amp;page=2">Paper-Ausschnitt</a><a class="evidence-link" data-de="Aufbereitung" data-en="Preparation" href="source_reader.html?paper=27_1964_Bell_EPR_Paradox&amp;view=summary">Aufbereitung</a></div></div></article>
+</div></section>
+<section class="lab-section" id="chsh"><div class="shell">
+<div class="lab-heading"><div><span class="lab-num">06 · 1969 · CHSH</span><h2 data-de="Vier Einstellungen machen die Grenze messbar." data-en="Four settings make the bound measurable.">Vier Einstellungen machen die Grenze messbar.</h2></div><div class="primer-refbar"><span data-de="Benötigte Grundlagen:" data-en="Required foundations:">Benötigte Grundlagen:</span><a data-de="Wahrscheinlichkeit &amp; Integral" data-en="Probability &amp; integral" href="primer.html?return=foundations_tests.html%23chsh#probability">Wahrscheinlichkeit &amp; Integral</a><a data-de="Zustand &amp; Basis" data-en="State &amp; basis" href="primer.html?return=foundations_tests.html%23chsh#basis">Zustand &amp; Basis</a></div><p data-de="CHSH formuliert aus vier Korrelationen eine einzige Größe S. Mit endlichen Zählraten schwankt der Messwert. Verändere Winkel, Sichtbarkeit und Stichprobengröße." data-en="CHSH combines four correlations into one quantity S. With finite counts the measured value fluctuates. Change angles, visibility, and sample size.">S entsteht aus vier getrennten Messkonfigurationen.</p></div>
+<article class="lab-card">
+<aside class="controls">
+<label class="control"><span><span>a</span><output aria-live="polite" id="caOut">0°</output></span><input aria-label="a 0°" id="ca" max="180" min="0" step="1" type="range" value="0"/></label>
+<label class="control"><span><span>a′</span><output aria-live="polite" id="capOut">45°</output></span><input aria-label="a′ 45°" id="cap" max="180" min="0" step="1" type="range" value="45"/></label>
+<label class="control"><span><span>b</span><output aria-live="polite" id="cbOut">22,5°</output></span><input aria-label="b 22,5°" id="cb" max="180" min="0" step="0.5" type="range" value="22.5"/></label>
+<label class="control"><span><span>b′</span><output aria-live="polite" id="cbpOut">67,5°</output></span><input aria-label="b′ 67,5°" id="cbp" max="180" min="0" step="0.5" type="range" value="67.5"/></label>
+<label class="control"><span><span data-de="Sichtbarkeit V" data-en="Visibility V">Sichtbarkeit V</span><output aria-live="polite" id="cvOut">98 %</output></span><input aria-label="Sichtbarkeit V 98 %" id="cv" max="1" min="0" step="0.01" type="range" value="0.98"/></label>
+<label class="control"><span><span data-de="Paare je Einstellung" data-en="Pairs per setting">Paare je Einstellung</span><output aria-live="polite" id="cnOut">2000</output></span><input aria-label="Paare je Einstellung 2000" id="cn" max="20000" min="100" step="100" type="range" value="2000"/></label>
+<label class="control"><span><span data-de="Modell" data-en="Model">Modell</span></span><select id="cmodel"><option data-de="Quantenkorrelation" data-en="Quantum correlation" value="quantum">Quantenkorrelation</option><option data-de="lokales Spielzeugmodell" data-en="local toy model" value="local">lokales Spielzeugmodell</option></select></label>
+<button class="tool-btn" data-de="Neue Stichprobe" data-en="New sample" id="chshRun" type="button">Neue Stichprobe</button>
+<div class="source-card"><div class="source-links"><a href="assets/pdfs/29_1969_CHSH_Proposed_Experiment.pdf" target="_blank">PDF</a><a href="summaries/29_1969_CHSH_Proposed_Experiment/summary_german.md" target="_blank">Summary DE</a><a href="summaries/29_1969_CHSH_Proposed_Experiment/summary_english.md" target="_blank">Summary EN</a></div><img alt="CHSH primary-source figure" class="source-image" src="assets/source-images/29_1969_CHSH_Proposed_Experiment/pages/page-4/img-0.jpeg"/></div>
+</aside>
+<div class="visual"><div aria-label="Interaktives Diagramm / interactive plot" class="plot" id="chshPlot" role="img"></div><div class="result-grid"><div class="result-card"><small data-de="theoretisches S" data-en="theoretical S">theoretisches S</small><b id="chshTheory">—</b></div><div class="result-card"><small data-de="Stichproben-S" data-en="sample S">Stichproben-S</small><b id="chshSample">—</b></div><div class="result-card"><small data-de="geschätzte Standardunsicherheit" data-en="estimated standard uncertainty">Standardunsicherheit</small><b id="chshErr">—</b></div></div><div class="statement" id="chshVerdict"></div></div>
+<div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{S}={E(a,b)}-{E(a,b')}+{E(a',b)}+{E(a',b')}" data-tex-en="{S}={E(a,b)}-{E(a,b')}+{E(a',b)}+{E(a',b')}"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="S" data-tex-en="S"></b><span data-de="Testgröße" data-en="test statistic">Testgröße</span></div><div class="symbol-row"><b class="math" data-tex-de="E(a,b)" data-tex-en="E(a,b)"></b><span data-de="Korrelation 1" data-en="correlation 1">Korrelation 1</span></div><div class="symbol-row"><b class="math" data-tex-de="E(a,b')" data-tex-en="E(a,b')"></b><span data-de="Korrelation 2" data-en="correlation 2">Korrelation 2</span></div><div class="symbol-row"><b class="math" data-tex-de="E(a',b)" data-tex-en="E(a',b)"></b><span data-de="Korrelation 3" data-en="correlation 3">Korrelation 3</span></div><div class="symbol-row"><b class="math" data-tex-de="E(a',b')" data-tex-en="E(a',b')"></b><span data-de="Korrelation 4" data-en="correlation 4">Korrelation 4</span></div></div></div><div class="source-inline-card"><p data-de="Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft." data-en="The claims and model assumptions in this field are linked to the primary source or a clearly marked preparation.">Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft.</p><div class="source-inline-actions"><a class="evidence-link" data-de="Paper-Ausschnitt" data-en="Paper excerpt" href="source_reader.html?paper=29_1969_CHSH_Proposed_Experiment&amp;view=excerpt&amp;page=3">Paper-Ausschnitt</a><a class="evidence-link" data-de="Aufbereitung" data-en="Preparation" href="source_reader.html?paper=29_1969_CHSH_Proposed_Experiment&amp;view=summary">Aufbereitung</a></div></div></article>
+</div></section>
+<section class="lab-section" id="ks"><div class="shell">
+<div class="lab-heading"><div><span class="lab-num">07 · 1967 · Kochen–Specker</span><h2 data-de="Der Wert kann nicht unabhängig vom Messkontext vorliegen." data-en="The value cannot be assigned independently of context.">Der Wert kann nicht unabhängig vom Messkontext vorliegen.</h2></div><div class="primer-refbar"><span data-de="Benötigte Grundlagen:" data-en="Required foundations:">Benötigte Grundlagen:</span><a data-de="Zustand &amp; Basis" data-en="State &amp; basis" href="primer.html?return=foundations_tests.html%23ks#basis">Zustand &amp; Basis</a><a data-de="Operator &amp; Eigenzustand" data-en="Operator &amp; eigenstate" href="primer.html?return=foundations_tests.html%23ks#eigen">Operator &amp; Eigenzustand</a></div><p data-de="Das Original beweist die Unmöglichkeit einer globalen nichtkontextuellen 0/1-Belegung für geeignete Richtungen in mindestens drei Dimensionen. Das kleine Raster ist das spätere Mermin–Peres-Paritätspuzzle als didaktische Brücke. Es ist nicht der originale Kochen–Specker-Beweis mit Richtungen im dreidimensionalen Raum." data-en="The original proves the impossibility of a global noncontextual 0/1 assignment for suitable directions in at least three dimensions. The small grid is the later Mermin–Peres parity puzzle used as a pedagogical bridge. It is not the original Kochen–Specker construction with directions in three-dimensional space.">Klicke die Werte an und versuche, alle Zeilen- und Spaltenbedingungen zugleich zu erfüllen.</p></div>
+<article class="lab-card">
+<aside class="controls">
+<button class="tool-btn" data-de="Belegung zurücksetzen" data-en="Reset assignment" id="ksReset" type="button">Belegung zurücksetzen</button>
+<div class="source-card"><div class="source-links"><a href="assets/pdfs/28_1967_Kochen_Specker_Hidden_Variables.pdf" target="_blank">PDF</a><a href="summaries/28_1967_Kochen_Specker_Hidden_Variables/summary_german.md" target="_blank">Summary DE</a><a href="summaries/28_1967_Kochen_Specker_Hidden_Variables/summary_english.md" target="_blank">Summary EN</a></div><img alt="Kochen-Specker primary-source vector construction" class="source-image" src="assets/source-images/28_1967_Kochen_Specker_Hidden_Variables/pages/page-13/img-2.jpeg"/></div>
+</aside>
+<div class="visual"><div class="context-grid" id="ksGrid"></div><div class="statement" id="ksResult"></div></div>
+<div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{v(A)}\in\{-1,+1\},\qquad {v(ABC)}=v(A)v(B)v(C)" data-tex-en="{v(A)}\in\{-1,+1\},\qquad {v(ABC)}=v(A)v(B)v(C)"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="v(A)" data-tex-en="v(A)"></b><span data-de="nichtkontextueller Wert" data-en="noncontextual value">nichtkontextueller Wert</span></div><div class="symbol-row"><b class="math" data-tex-de="v(ABC)" data-tex-en="v(ABC)"></b><span data-de="gemeinsamer Kontext" data-en="joint context">gemeinsamer Kontext</span></div></div><p data-de="Die Formelzeichen und ihre Rollen stehen direkt unter der Gleichung." data-en="The symbols and their roles are listed directly below the equation.">Die Formelzeichen und ihre Rollen stehen direkt unter der Gleichung.</p></div><div class="source-inline-card"><p data-de="Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft." data-en="The claims and model assumptions in this field are linked to the primary source or a clearly marked preparation.">Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft.</p><div class="source-inline-actions"><a class="evidence-link" data-de="Paper-Ausschnitt" data-en="Paper excerpt" href="source_reader.html?paper=28_1967_Kochen_Specker_Hidden_Variables&amp;view=excerpt&amp;page=4">Paper-Ausschnitt</a><a class="evidence-link" data-de="Aufbereitung" data-en="Preparation" href="source_reader.html?paper=28_1967_Kochen_Specker_Hidden_Variables&amp;view=summary">Aufbereitung</a></div></div></article>
+</div></section>
+<section class="lab-section" id="aspect"><div class="shell">
+<div class="lab-heading"><div><span class="lab-num">08 · 1982 · Aspect, Dalibard, Roger</span><h2 data-de="Die Einstellungen wechseln, während die Photonen fliegen." data-en="The settings change while the photons are in flight.">Die Einstellungen wechseln, während die Photonen fliegen.</h2></div><div class="primer-refbar"><span data-de="Benötigte Grundlagen:" data-en="Required foundations:">Benötigte Grundlagen:</span><a data-de="Wahrscheinlichkeit &amp; Integral" data-en="Probability &amp; integral" href="primer.html?return=foundations_tests.html%23aspect#probability">Wahrscheinlichkeit &amp; Integral</a><a data-de="Zustand &amp; Basis" data-en="State &amp; basis" href="primer.html?return=foundations_tests.html%23aspect#basis">Zustand &amp; Basis</a></div><p data-de="Der zeitabhängige Analysator adressiert die Möglichkeit, dass die Geräte während des Fluges der Photonen ihre Einstellungen wechselseitig austauschen. Moderne Experimente schließen weitere Schlupflöcher strenger." data-en="Time-varying analyzers address the possibility that the devices exchange their settings while the photons are in flight. Modern experiments close additional loopholes more stringently.">Vergleiche Schaltzeit und Lichtlaufzeit. Die Regler bilden das Kausalitätsprinzip ab; sie rekonstruieren nicht jedes technische Detail des historischen Apparats.</p></div>
+<article class="lab-card">
+<aside class="controls">
+<label class="control"><span><span data-de="Analysatorabstand L" data-en="Analyzer separation L">Analysatorabstand L</span><output aria-live="polite" id="asLOut">13,0 m</output></span><input aria-label="Analysatorabstand L 13,0 m" id="asL" max="1000" min="1" step="1" type="range" value="13"/></label>
+<label class="control"><span><span data-de="Schaltintervall τ" data-en="Switch interval τ">Schaltintervall τ</span><output aria-live="polite" id="asTauOut">10,0 ns</output></span><input aria-label="Schaltintervall τ 10,0 ns" id="asTau" max="500" min="1" step="1" type="range" value="10"/></label>
+<label class="control"><span><span data-de="Sichtbarkeit" data-en="Visibility">Sichtbarkeit</span><output aria-live="polite" id="asVOut">97 %</output></span><input aria-label="Sichtbarkeit 97 %" id="asV" max="1" min="0.5" step="0.01" type="range" value="0.97"/></label>
+<label class="control"><span><span data-de="Paarzahl" data-en="Pair count">Paarzahl</span><output aria-live="polite" id="asNOut">5000</output></span><input aria-label="Paarzahl 5000" id="asN" max="30000" min="200" step="100" type="range" value="5000"/></label>
+<div class="source-card"><div class="source-links"><a href="assets/pdfs/30_1982_Aspect_Dalibard_Roger_Time_Varying_Analyzers.pdf" target="_blank">PDF</a><a href="summaries/30_1982_Aspect_Dalibard_Roger_Time_Varying_Analyzers/summary_german.md" target="_blank">Summary DE</a><a href="summaries/30_1982_Aspect_Dalibard_Roger_Time_Varying_Analyzers/summary_english.md" target="_blank">Summary EN</a></div><img alt="Aspect experiment primary-source apparatus" class="source-image" src="assets/source-images/30_1982_Aspect_Dalibard_Roger_Time_Varying_Analyzers/pages/page-2/img-1.jpeg"/></div>
+</aside>
+<div class="visual"><canvas aria-label="Interaktive physikalische Visualisierung / interactive physics visualization" class="sim" id="aspectCanvas" role="img"></canvas><div class="result-grid"><div class="result-card"><small data-de="Lichtlaufzeit" data-en="light travel time">Lichtlaufzeit</small><b id="asLight">—</b></div><div class="result-card"><small data-de="Schaltzeit / Laufzeit" data-en="switch / travel ratio">Schaltzeit / Laufzeit</small><b id="asRatio">—</b></div><div class="result-card"><small data-de="erwartetes |S|" data-en="expected |S|">erwartetes |S|</small><b id="asS">—</b></div></div><div class="statement" id="asVerdict"></div></div>
+<div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{t_\mathrm{Licht}}=\frac{{L}}{{c}}" data-tex-en="{t_\mathrm{light}}=\frac{{L}}{{c}}"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="t_\mathrm{Licht}" data-tex-en="t_\mathrm{Licht}"></b><span data-de="Signal-Laufzeit" data-en="signal travel time">Signal-Laufzeit</span></div><div class="symbol-row"><b class="math" data-tex-de="L" data-tex-en="L"></b><span data-de="Abstand" data-en="distance">Abstand</span></div><div class="symbol-row"><b class="math" data-tex-de="c" data-tex-en="c"></b><span data-de="Lichtgeschwindigkeit" data-en="speed of light">Lichtgeschwindigkeit</span></div></div><p data-de="Die Formelzeichen und ihre Rollen stehen direkt unter der Gleichung." data-en="The symbols and their roles are listed directly below the equation.">Die Formelzeichen und ihre Rollen stehen direkt unter der Gleichung.</p></div><div class="source-inline-card"><p data-de="Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft." data-en="The claims and model assumptions in this field are linked to the primary source or a clearly marked preparation.">Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft.</p><div class="source-inline-actions"><a class="evidence-link" data-de="Paper-Ausschnitt" data-en="Paper excerpt" href="source_reader.html?paper=30_1982_Aspect_Dalibard_Roger_Time_Varying_Analyzers&amp;view=excerpt&amp;page=2">Paper-Ausschnitt</a><a class="evidence-link" data-de="Aufbereitung" data-en="Preparation" href="source_reader.html?paper=30_1982_Aspect_Dalibard_Roger_Time_Varying_Analyzers&amp;view=summary">Aufbereitung</a></div></div></article>
+</div></section>
+<section class="lab-section" id="decoherence"><div class="shell">
+<div class="lab-heading"><div><span class="lab-num">09 · Systemischer Abschluss</span><h2 data-de="Klassisches Aussehen entsteht durch verlorene Zugänglichkeit zur Phase." data-en="Classical appearance emerges when phase information becomes inaccessible.">Klassisches Aussehen entsteht durch verlorene Zugänglichkeit zur Phase.</h2></div><div class="primer-refbar"><span data-de="Benötigte Grundlagen:" data-en="Required foundations:">Benötigte Grundlagen:</span><a data-de="Komplexe Phase" data-en="Complex phase" href="primer.html?return=foundations_tests.html%23decoherence#complex">Komplexe Phase</a><a data-de="Wahrscheinlichkeit &amp; Integral" data-en="Probability &amp; integral" href="primer.html?return=foundations_tests.html%23decoherence#probability">Wahrscheinlichkeit &amp; Integral</a><a data-de="Zustand &amp; Basis" data-en="State &amp; basis" href="primer.html?return=foundations_tests.html%23decoherence#basis">Zustand &amp; Basis</a></div><p data-de="Dekohärenz verbindet mikroskopische Superposition mit der praktisch klassischen Welt. Die Umgebung trägt Information darüber, welcher Zweig vorliegt. Dadurch sinkt der Interferenzkontrast." data-en="Decoherence connects microscopic superposition with the practically classical world. The environment carries information about the branch, reducing interference visibility.">Verändere Umweltkopplung, Zeit und Objektgröße.</p></div>
+<article class="lab-card">
+<aside class="controls">
+<label class="control"><span><span data-de="Kopplungsrate Γ" data-en="Coupling rate Γ">Kopplungsrate Γ</span><output aria-live="polite" id="decGOut">0,40</output></span><input aria-label="Kopplungsrate Γ 0,40" id="decG" max="3" min="0" step="0.02" type="range" value="0.4"/></label>
+<label class="control"><span><span data-de="Zeit t" data-en="Time t">Zeit t</span><output aria-live="polite" id="decTOut">2,00</output></span><input aria-label="Zeit t 2,00" id="decT" max="8" min="0" step="0.05" type="range" value="2"/></label>
+<label class="control"><span><span data-de="Objekt-/Umweltfaktor N" data-en="Object/environment factor N">Objekt-/Umweltfaktor N</span><output aria-live="polite" id="decNOut">1,0</output></span><input aria-label="Objekt-/Umweltfaktor N 1,0" id="decN" max="15" min="0.2" step="0.1" type="range" value="1"/></label>
+<div class="explain-card"><b data-de="Systemdenken" data-en="Systems view">Systemdenken</b><p data-de="Das betrachtete Objekt allein ist kein geschlossenes System. System + Umgebung entwickeln sich weiterhin quantenmechanisch; nur die reduzierte Beschreibung des Objekts verliert sichtbare Interferenz." data-en="The object alone is not a closed system. System plus environment continue to evolve quantum mechanically; only the reduced description of the object loses visible interference.">Die Grenze zwischen „System“ und „Umgebung“ ist Teil des Modells.</p></div>
+</aside>
+<div class="visual"><canvas aria-label="Interaktive physikalische Visualisierung / interactive physics visualization" class="sim" id="decCanvas" role="img"></canvas><div class="result-grid"><div class="result-card"><small data-de="Interferenzsichtbarkeit" data-en="interference visibility">Interferenzsichtbarkeit</small><b id="decVis">—</b></div><div class="result-card"><small data-de="Welche-Weg-Information" data-en="which-path information">Welche-Weg-Information</small><b id="decWhich">—</b></div><div class="result-card"><small data-de="klassische Erscheinung" data-en="classical appearance">klassische Erscheinung</small><b id="decClass">—</b></div></div><div class="statement" data-de="Dekohärenz erklärt die stabile Auswahl einer bevorzugten, praktisch klassischen Basis und den Verlust beobachtbarer Interferenz. Das konzeptionelle Problem eines einzelnen tatsächlich erlebten Ergebnisses hängt von der Interpretation ab." data-en="Decoherence explains the stable emergence of a preferred, practically classical basis and the loss of observable interference. The conceptual problem of one actually experienced outcome depends on interpretation.">Dekohärenz löst nicht automatisch jede Form des Messproblems.</div></div>
+<div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{\rho_{01}(t)}={\rho_{01}(0)}e^{-{N\Gamma t}}" data-tex-en="{\rho_{01}(t)}={\rho_{01}(0)}e^{-{N\Gamma t}}"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="\rho_{01}(t)" data-tex-en="\rho_{01}(t)"></b><span data-de="Interferenzterm" data-en="interference term">Interferenzterm</span></div><div class="symbol-row"><b class="math" data-tex-de="\rho_{01}(0)" data-tex-en="\rho_{01}(0)"></b><span data-de="anfängliche Kohärenz" data-en="initial coherence">anfängliche Kohärenz</span></div><div class="symbol-row"><b class="math" data-tex-de="N\Gamma t" data-tex-en="N\Gamma t"></b><span data-de="Umweltinformation" data-en="environmental information">Umweltinformation</span></div></div></div><div class="source-inline-card"><p data-de="Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft." data-en="The claims and model assumptions in this field are linked to the primary source or a clearly marked preparation.">Die Aussagen und Modellannahmen dieses Feldes sind mit der Primärquelle oder einer gekennzeichneten Aufbereitung verknüpft.</p><div class="source-inline-actions"><a class="evidence-link" data-de="Aufbereitung &amp; Paper" data-en="Preparation &amp; paper" href="evidence_notes.html#decoherence">Aufbereitung &amp; Paper</a></div></div></article>
+</div></section>
+<section class="section"><div class="shell"><div class="next-stage"><span class="eyebrow" data-de="Nächste Etappe" data-en="Next stage">Nächste Etappe</span><h3 data-de="v0.10 · Quanteninformation und Quantenrechnung" data-en="v0.10 · Quantum information and computation">v0.10 · Quanteninformation und Quantenrechnung</h3><p class="intro" data-de="Feynmans Quantensimulation, Qubits, Gatter, No-Cloning, Teleportation, BB84 und Shors Periodensuche werden als zusammenhängendes System aufgebaut." data-en="Feynman's quantum simulation, qubits, gates, no-cloning, teleportation, BB84, and Shor's period finding will be built as one connected system.">Feynmans Quantensimulation, Qubits, Gatter, No-Cloning, Teleportation, BB84 und Shors Periodensuche.</p></div></div></section>
+</main>
+<footer class="footer"><div class="shell">v0.10 · <span data-de="Grundlagenstreit und Tests · lokale Primärquellen" data-en="Foundations and tests · local primary sources">Grundlagenstreit und Tests · lokale Primärquellen</span></div></footer>
+<script>
+const $=id=>document.getElementById(id);
+const C={accent:'#61e4c2',blue:'#78a9ff',gold:'#f2c46f',pink:'#ff91b0',danger:'#ff858d',violet:'#bd91ff'};
+let lang='de';
+function tr(de,en){return lang==='de'?de:en}
+function num(x,d=2){return Number(x).toLocaleString(lang==='de'?'de-DE':'en-US',{minimumFractionDigits:d,maximumFractionDigits:d})}
+function pct(x,d=1){return (100*x).toLocaleString(lang==='de'?'de-DE':'en-US',{minimumFractionDigits:d,maximumFractionDigits:d})+' %'}
+function set(id,v){$(id).textContent=v}
+function themeVars(){
+  const s=getComputedStyle(document.documentElement);
+  return {text:s.getPropertyValue('--text').trim(),muted:s.getPropertyValue('--muted').trim(),border:s.getPropertyValue('--border').trim(),panel:s.getPropertyValue('--panel').trim()}
+}
+function layout(title,x,y){
+  const v=themeVars();
+  return {title:{text:title,font:{size:17,color:v.text}},paper_bgcolor:'rgba(0,0,0,0)',plot_bgcolor:'rgba(0,0,0,0)',
+    font:{color:v.text},margin:{l:58,r:20,t:55,b:55},xaxis:{title:x,gridcolor:v.border,zerolinecolor:v.border},
+    yaxis:{title:y,gridcolor:v.border,zerolinecolor:v.border},legend:{orientation:'h',y:1.12},autosize:true}
+}
+function renderMath(){
+  document.querySelectorAll('.math').forEach(el=>{
+    const tex=lang==='de'?el.dataset.texDe:el.dataset.texEn;
+    try{if(window.temml)temml.render(tex,el,{displayMode:true,throwOnError:false})}
+    catch(e){el.textContent=tex}
+  })
+}
+function applyLanguage(next){
+  lang=next;document.documentElement.lang=next;
+  $('deBtn').classList.toggle('active',next==='de');$('enBtn').classList.toggle('active',next==='en');
+  document.querySelectorAll('[data-de]').forEach(el=>el.textContent=next==='de'?el.dataset.de:el.dataset.en);
+  renderMath();renderAll();
+}
+function clearCanvas(c){
+  const r=c.getBoundingClientRect(),d=Math.min(devicePixelRatio||1,2);
+  c.width=Math.max(1,Math.round(r.width*d));c.height=Math.max(1,Math.round(r.height*d));
+  const x=c.getContext('2d');x.setTransform(1,0,0,1,0,0);x.globalAlpha=1;x.globalCompositeOperation='source-over';
+  x.setLineDash([]);x.clearRect(0,0,c.width,c.height);x.setTransform(d,0,0,d,0,0);
+  x.lineCap='round';x.lineJoin='round';return{x,w:r.width,h:r.height}
+}
+function bind(ids,fn){ids.forEach(id=>$(id).addEventListener('input',fn))}
+function renderEPR(){
+  const eta=+$('eprEta').value,a=+$('eprA').value,b=+$('eprB').value;
+  set('eprEtaOut',num(eta,2));set('eprAOut',num(a,0)+'°');set('eprBOut',num(b,0)+'°');
+  const E=-eta*Math.cos(2*(a-b)*Math.PI/180),same=(1+E)/2,opp=1-same;
+  Plotly.react('eprPlot',[{x:[tr('gleich','same'),tr('entgegengesetzt','opposite')],y:[same,opp],type:'bar',
+    marker:{color:[C.blue,C.accent]},text:[pct(same),pct(opp)],textposition:'auto'}],
+    layout(tr('Gemeinsame Resultate','Joint outcomes'),'','probability'),{responsive:true,displayModeBar:false});
+  set('eprCorr',num(E,3));set('eprSame',pct(same));
+}
+function renderCat(){
+  const p=+$('catBeta').value,g=+$('catGamma').value,a=1-p,coh=Math.sqrt(a*p)*Math.exp(-g);
+  set('catBetaOut',pct(p,0));set('catGammaOut',num(g,2));set('catA',pct(a));set('catB',pct(p));
+  set('catC',pct(Math.exp(-g)));
+  Plotly.react('catPlot',[{z:[[a,coh],[coh,p]],x:[tr('Zweig 0','branch 0'),tr('Zweig 1','branch 1')],
+    y:[tr('Zweig 0','branch 0'),tr('Zweig 1','branch 1')],type:'heatmap',zmin:0,zmax:1,colorscale:[[0,'#081814'],[.5,C.blue],[1,C.accent]],showscale:true,
+    text:[[num(a),num(coh)],[num(coh),num(p)]],texttemplate:'%{text}'}],
+    {...layout(tr('Reduzierte Dichtematrix','Reduced density matrix'),'',''),margin:{l:80,r:30,t:55,b:70}},{responsive:true,displayModeBar:false});
+}
+function renderBohm(){
+  const sep=+$('bohmSep').value,phase=+$('bohmPhase').value*Math.PI/180,N=+$('bohmN').value;
+  set('bohmSepOut',num(sep,0)+' px');set('bohmPhaseOut',num(phase*180/Math.PI,0)+'°');set('bohmNOut',N);
+  const {x,w,h}=clearCanvas($('bohmCanvas'));const mid=h/2,sl1=mid-sep/2,sl2=mid+sep/2;
+  x.strokeStyle='rgba(150,200,190,.35)';x.lineWidth=8;x.beginPath();x.moveTo(w*.18,15);x.lineTo(w*.18,sl1-20);
+  x.moveTo(w*.18,sl1+20);x.lineTo(w*.18,sl2-20);x.moveTo(w*.18,sl2+20);x.lineTo(w*.18,h-15);x.stroke();
+  x.fillStyle=C.gold;x.fillRect(w*.18-5,sl1-16,10,32);x.fillRect(w*.18-5,sl2-16,10,32);
+  for(let i=0;i<N;i++){
+    const y0=30+(h-60)*(i+.5)/N;let y=y0;
+    x.strokeStyle=i%2?C.accent:C.blue;x.globalAlpha=.55;x.lineWidth=1.4;x.beginPath();x.moveTo(10,y);
+    for(let xx=10;xx<w-10;xx+=4){
+      const t=(xx-w*.18)/(w*.82);if(xx<w*.18){y+=(mid-y)*.0008}else{
+        const k=0.055,inter=Math.sin(k*(y-sl1)+phase)-Math.sin(k*(y-sl2));
+        const envelope=Math.exp(-Math.pow((y-mid)/(h*.45),2));
+        y+=.055*inter*envelope+0.0015*(mid-y);
+      }
+      x.lineTo(xx,y)
+    }x.stroke()
+  }
+  x.globalAlpha=1;x.fillStyle=getComputedStyle(document.documentElement).getPropertyValue('--muted');
+  x.font='14px system-ui';x.fillText(tr('Quelle','source'),15,24);x.fillText(tr('Schirm','screen'),w-62,24)
+}
+function renderEverett(){
+  const p=+$('evP').value,ang=+$('evAngle').value*Math.PI/180;
+  const q=p*Math.cos(ang/2)**2+(1-p)*Math.sin(ang/2)**2;
+  set('evPOut',pct(p,0));set('evAngleOut',num(ang*180/Math.PI,0)+'°');set('evW0',pct(q));set('evW1',pct(1-q));
+  $('everettTree').innerHTML=`<div class="node"><b>${tr('vor Messung','before measurement')}</b><p>|ψ⟩ ⊗ |Aᵣ⟩</p></div><div class="arrow">→</div>
+  <div><div class="node" style="border-color:${C.accent}"><b>${tr('relativer Zweig 0','relative branch 0')}</b><p>${pct(q)}</p></div>
+  <div style="height:10px"></div><div class="node" style="border-color:${C.blue}"><b>${tr('relativer Zweig 1','relative branch 1')}</b><p>${pct(1-q)}</p></div></div>`
+}
+function renderBell(){
+  const local=$('bellLocal').checked,pred=$('bellPred').checked,free=$('bellFree').checked,fair=$('bellFair').checked;
+  const all=local&&pred&&free&&fair;
+  $('bellResult').innerHTML=all?`<b>${tr('Die CHSH-Schranke folgt: |S| ≤ 2.','The CHSH bound follows: |S| ≤ 2.')}</b><br>${tr('Eine Verletzung schließt dieses gesamte Annahmenpaket aus.','A violation excludes this entire assumption package.')}`:
+  `<b>${tr('Die Standard-CHSH-Ableitung ist unterbrochen.','The standard CHSH derivation is interrupted.')}</b><br>${tr('Mindestens eine benötigte Annahme wurde entfernt. Daraus folgt nicht, dass jedes beliebige Alternativmodell funktioniert.','At least one required assumption was removed. This does not imply that every alternative model works.')}`;
+  const {x,w,h}=clearCanvas($('bellCanvas'));const nodes=[
+    [w*.13,h*.28,tr('Quelle λ','source λ'),C.gold],[w*.36,h*.15,tr('Einstellung a','setting a'),C.blue],
+    [w*.36,h*.65,tr('Resultat A','outcome A'),C.accent],[w*.64,h*.15,tr('Einstellung b','setting b'),C.blue],
+    [w*.64,h*.65,tr('Resultat B','outcome B'),C.accent],[w*.87,h*.28,tr('Vergleich','comparison'),C.pink]
+  ];
+  function edge(i,j,on=true,dash=false){x.strokeStyle=on?'rgba(150,220,205,.65)':'rgba(255,133,141,.28)';x.lineWidth=2;x.setLineDash(dash?[7,7]:[]);
+    x.beginPath();x.moveTo(nodes[i][0],nodes[i][1]);x.lineTo(nodes[j][0],nodes[j][1]);x.stroke();x.setLineDash([])}
+  edge(0,2,true);edge(0,4,true);edge(1,2,true);edge(3,4,true);edge(2,5,true);edge(4,5,true);
+  if(!local){edge(1,4,true,true);edge(3,2,true,true)}
+  nodes.forEach(([px,py,label,col])=>{x.fillStyle=col;x.beginPath();x.arc(px,py,8,0,Math.PI*2);x.fill();x.fillStyle=themeVars().text;x.textAlign='center';x.font='14px system-ui';x.fillText(label,px,py+28)})
+}
+let chshSeed=1;
+function rand(){chshSeed=(1664525*chshSeed+1013904223)>>>0;return chshSeed/4294967296}
+function binomialCorr(E,N){let sum=0;for(let i=0;i<N;i++)sum+=(rand()<(1+E)/2)?1:-1;return sum/N}
+function corr(angle1,angle2,V,model){
+  const d=(angle1-angle2)*Math.PI/180;
+  if(model==='quantum')return -V*Math.cos(2*d);
+  return -(2/Math.PI)*Math.asin(Math.cos(2*d))*Math.min(1,V);
+}
+function renderCHSH(newSample=false){
+  const a=+$('ca').value,ap=+$('cap').value,b=+$('cb').value,bp=+$('cbp').value,V=+$('cv').value,N=+$('cn').value,m=$('cmodel').value;
+  if(newSample)chshSeed=(Date.now()>>>0);
+  [['caOut',a],['capOut',ap],['cbOut',b],['cbpOut',bp]].forEach(([id,v])=>set(id,num(v,1)+'°'));
+  set('cvOut',pct(V,0));set('cnOut',N);
+  const labels=['E(a,b)','E(a,b′)','E(a′,b)','E(a′,b′)'];
+  const th=[corr(a,b,V,m),corr(a,bp,V,m),corr(ap,b,V,m),corr(ap,bp,V,m)];
+  const sm=th.map(e=>binomialCorr(e,N));
+  const Sth=th[0]-th[1]+th[2]+th[3],Ss=sm[0]-sm[1]+sm[2]+sm[3];
+  const err=Math.sqrt(th.reduce((s,e)=>s+(1-e*e)/N,0));
+  Plotly.react('chshPlot',[{x:labels,y:th,name:tr('Theorie','theory'),type:'bar',marker:{color:C.blue}},
+    {x:labels,y:sm,name:tr('Stichprobe','sample'),type:'bar',marker:{color:C.accent}}],
+    {...layout(tr('Vier Korrelationen','Four correlations'),'','E'),barmode:'group',yaxis:{...layout('','','').yaxis,range:[-1.1,1.1]}},
+    {responsive:true,displayModeBar:false});
+  set('chshTheory',num(Sth,3));set('chshSample',num(Ss,3));set('chshErr','± '+num(err,3));
+  const sig=(Math.abs(Ss)-2)/Math.max(err,1e-9);
+  $('chshVerdict').textContent=Math.abs(Ss)>2?tr(`Diese Stichprobe liegt ${num(sig,1)} Standardunsicherheiten über der lokalen Grenze. Das ist nur innerhalb des simulierten Modells zu lesen.`,
+  `This sample lies ${num(sig,1)} standard uncertainties above the local bound. Interpret this only within the simulated model.`):
+  tr('Diese einzelne endliche Stichprobe verletzt die Grenze nicht eindeutig. Mehr Paare reduzieren die statistische Streuung.',
+  'This finite sample does not clearly violate the bound. More pairs reduce statistical fluctuation.')
+}
+const ksSigns=[1,1,1,1,1,1,1,1,1];
+function renderKS(){
+  const grid=$('ksGrid');grid.innerHTML='';
+  ksSigns.forEach((v,i)=>{const d=document.createElement('button');d.className='context-cell';d.dataset.value=v;d.textContent=(v===1?'+1':'−1');
+    d.addEventListener('click',()=>{ksSigns[i]*=-1;renderKS()});grid.appendChild(d)});
+  const rows=[0,1,2].map(r=>ksSigns[r*3]*ksSigns[r*3+1]*ksSigns[r*3+2]);
+  const cols=[0,1,2].map(c=>ksSigns[c]*ksSigns[c+3]*ksSigns[c+6]);
+  const targetRows=[1,1,1],targetCols=[1,1,-1];
+  const bad=[];rows.forEach((v,i)=>{if(v!==targetRows[i])bad.push(tr(`Zeile ${i+1}`,`row ${i+1}`))});
+  cols.forEach((v,i)=>{if(v!==targetCols[i])bad.push(tr(`Spalte ${i+1}`,`column ${i+1}`))});
+  $('ksResult').innerHTML=bad.length?`<b>${tr('Noch widersprüchlich:','Still inconsistent:')}</b> ${bad.join(', ')}.<br>${tr('Die Paritätsbedingungen können nicht alle gleichzeitig erfüllt werden.','The parity constraints cannot all be satisfied simultaneously.')}`:
+  tr('Alle Bedingungen erfüllt — dies sollte in diesem Paritätspuzzle unmöglich sein. Prüfe die Implementierung.','All conditions satisfied — this should be impossible in this parity puzzle. Check the implementation.')
+}
+function renderAspect(){
+  const L=+$('asL').value,tau=+$('asTau').value,V=+$('asV').value,N=+$('asN').value;
+  set('asLOut',num(L,1)+' m');set('asTauOut',num(tau,1)+' ns');set('asVOut',pct(V,0));set('asNOut',N);
+  const tlight=L/299792458*1e9,ratio=tau/tlight,S=2*Math.sqrt(2)*V;
+  set('asLight',num(tlight,2)+' ns');set('asRatio',num(ratio,3));set('asS',num(S,3));
+  const {x,w,h}=clearCanvas($('aspectCanvas'));const cy=h*.52,left=w*.17,right=w*.83,src=w*.5;
+  x.strokeStyle='rgba(160,220,205,.32)';x.lineWidth=2;x.beginPath();x.moveTo(src,cy);x.lineTo(left,cy);x.moveTo(src,cy);x.lineTo(right,cy);x.stroke();
+  x.fillStyle=C.gold;x.beginPath();x.arc(src,cy,13,0,Math.PI*2);x.fill();
+  [left,right].forEach((px,i)=>{x.strokeStyle=i?C.blue:C.accent;x.lineWidth=8;x.beginPath();x.moveTo(px,cy-55);x.lineTo(px,cy+55);x.stroke();
+    const phase=(performance.now()/350+(i?1:0))%(Math.PI*2);x.strokeStyle=C.pink;x.lineWidth=3;x.beginPath();x.arc(px,cy,34,phase,phase+Math.PI*.7);x.stroke()});
+  x.fillStyle=themeVars().text;x.textAlign='center';x.font='14px system-ui';x.fillText(tr('Quelle','source'),src,cy+40);
+  x.fillText(tr('Analysator A','analyzer A'),left,cy+83);x.fillText(tr('Analysator B','analyzer B'),right,cy+83);
+  const photons=(performance.now()/15)%(src-left);x.fillStyle=C.accent;x.beginPath();x.arc(src-photons,cy,5,0,Math.PI*2);x.fill();
+  x.fillStyle=C.blue;x.beginPath();x.arc(src+photons,cy,5,0,Math.PI*2);x.fill();
+  $('asVerdict').textContent=ratio<1?tr('Während einer Lichtlaufzeit findet mindestens ein Einstellungswechsel statt. Ein lichtschnelles Signal kann die aktuelle entfernte Einstellung nicht rechtzeitig übertragen.',
+  'At least one setting change occurs within a light-travel time. A lightspeed signal cannot transmit the current distant setting in time.'):
+  tr('Die Schaltzeit ist länger als die Lichtlaufzeit. Dieses Timing allein adressiert das Lokalitäts-Schlupfloch nicht.',
+  'The switching time is longer than the light-travel time. This timing alone does not address the locality loophole.')
+}
+function renderDec(){
+  const G=+$('decG').value,t=+$('decT').value,N=+$('decN').value,V=Math.exp(-N*G*t),which=Math.sqrt(Math.max(0,1-V*V));
+  set('decGOut',num(G,2));set('decTOut',num(t,2));set('decNOut',num(N,1));set('decVis',pct(V));set('decWhich',pct(which));
+  set('decClass',V<.05?tr('praktisch klassisch','practically classical'):V<.5?tr('teilweise dekohärent','partly decohered'):tr('klar quanteninterferierend','clearly quantum-interfering'));
+  const {x,w,h}=clearCanvas($('decCanvas'));const mid=h*.5,period=42,sigma=h*.25;
+  for(let px=0;px<w;px++){
+    const yy=(px-w/2)/(w*.36),env=Math.exp(-yy*yy),intensity=env*(1+V*Math.cos(2*Math.PI*px/period));
+    const height=intensity*h*.32;x.fillStyle=`rgba(97,228,194,${0.12+0.72*intensity/2})`;x.fillRect(px,mid-height/2,1,height)
+  }
+  x.strokeStyle=C.gold;x.lineWidth=2;x.beginPath();for(let px=0;px<w;px++){const yy=(px-w/2)/(w*.36),env=Math.exp(-yy*yy),val=env*(1+V*Math.cos(2*Math.PI*px/period));const py=h*.85-val*h*.28;if(px===0)x.moveTo(px,py);else x.lineTo(px,py)}x.stroke();
+  x.fillStyle=themeVars().muted;x.font='14px system-ui';x.fillText(tr('Interferenzmuster auf dem Schirm','interference pattern on the screen'),18,25)
+}
+function renderAll(){renderEPR();renderCat();renderBohm();renderEverett();renderBell();renderCHSH(false);renderKS();renderAspect();renderDec()}
+bind(['eprEta','eprA','eprB'],renderEPR);bind(['catBeta','catGamma'],renderCat);bind(['bohmSep','bohmPhase','bohmN'],renderBohm);
+bind(['evP','evAngle'],renderEverett);['bellLocal','bellPred','bellFree','bellFair'].forEach(id=>$(id).addEventListener('change',renderBell));
+bind(['ca','cap','cb','cbp','cv','cn'],()=>renderCHSH(true));$('cmodel').addEventListener('change',()=>renderCHSH(true));$('chshRun').addEventListener('click',()=>renderCHSH(true));
+$('ksReset').addEventListener('click',()=>{ksSigns.fill(1);renderKS()});bind(['asL','asTau','asV','asN'],renderAspect);bind(['decG','decT','decN'],renderDec);
+$('deBtn').addEventListener('click',()=>applyLanguage('de'));$('enBtn').addEventListener('click',()=>applyLanguage('en'));
+$('themeBtn').addEventListener('click',()=>{document.documentElement.dataset.theme=document.documentElement.dataset.theme==='dark'?'light':'dark';renderAll()});
+window.addEventListener('resize',()=>{renderBohm();renderBell();renderAspect();renderDec()});
+function animate(){renderAspect();requestAnimationFrame(animate)}
+window.addEventListener('load',()=>{renderMath();renderAll();requestAnimationFrame(animate)});
+</script>
+<script src="vendor/recall.js"></script><script src="vendor/progress.js"></script><script defer="True" src="vendor/course-shell.js"></script></body>
+</html>

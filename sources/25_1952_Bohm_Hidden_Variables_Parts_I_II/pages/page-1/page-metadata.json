@@ -1,0 +1,209 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 88,
+      "topLeftY": 94,
+      "bottomRightX": 216,
+      "bottomRightY": 106,
+      "content": "PHYSICAL REVIEW",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 310,
+      "topLeftY": 94,
+      "bottomRightX": 471,
+      "bottomRightY": 106,
+      "content": "VOLUME 85, NUMBER 2",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 563,
+      "topLeftY": 94,
+      "bottomRightX": 686,
+      "bottomRightY": 106,
+      "content": "JANUARY 15, 1952",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 122,
+      "bottomRightX": 682,
+      "bottomRightY": 140,
+      "content": "# A Suggested Interpretation of the Quantum Theory in Terms of \"Hidden\" Variables. I",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 352,
+      "topLeftY": 148,
+      "bottomRightX": 420,
+      "bottomRightY": 160,
+      "content": "DAVID BOHM*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 160,
+      "bottomRightX": 546,
+      "bottomRightY": 172,
+      "content": "Palmer Physical Laboratory, Princeton University, Princeton, New Jersey",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 333,
+      "topLeftY": 174,
+      "bottomRightX": 439,
+      "bottomRightY": 187,
+      "content": "(Received July 5, 1951)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 200,
+      "bottomRightX": 382,
+      "bottomRightY": 373,
+      "content": "The usual interpretation of the quantum theory is self-consistent, but it involves an assumption that cannot be tested experimentally, viz., that the most complete possible specification of an individual system is in terms of a wave function that determines only probable results of actual measurement processes. The only way of investigating the truth of this assumption is by trying to find some other interpretation of the quantum theory in terms of at present \"hidden\" variables, which in principle determine the precise behavior of an individual system, but which are in practice averaged over in measurements of the types that can now be carried out. In this paper and in a subsequent paper, an interpretation of the quantum theory in terms of just such \"hidden\" variables is suggested. It is shown that as long as the mathematical theory retains its present general form, this suggested interpretation leads to precisely the same results for all",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 200,
+      "bottomRightX": 688,
+      "bottomRightY": 373,
+      "content": "physical processes as does the usual interpretation. Nevertheless, the suggested interpretation provides a broader conceptual framework than the usual interpretation, because it makes possible a precise and continuous description of all processes, even at the quantum level. This broader conceptual framework allows more general mathematical formulations of the theory than those allowed by the usual interpretation. Now, the usual mathematical formulation seems to lead to insoluble difficulties when it is extrapolated into the domain of distances of the order of 10⁻¹³ cm or less. It is therefore entirely possible that the interpretation suggested here may be needed for the resolution of these difficulties. In any case, the mere possibility of such an interpretation proves that it is not necessary for us to give up a precise, rational, and objective description of individual systems at a quantum level of accuracy.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 403,
+      "bottomRightX": 287,
+      "bottomRightY": 416,
+      "content": "# 1. INTRODUCTION",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 422,
+      "bottomRightX": 382,
+      "bottomRightY": 673,
+      "content": "THE usual interpretation of the quantum theory is based on an assumption having very far-reaching implications, viz., that the physical state of an individual system is completely specified by a wave function that determines only the probabilities of actual results that can be obtained in a statistical ensemble of similar experiments. This assumption has been the object of severe criticisms, notably on the part of Einstein, who has always believed that, even at the quantum level, there must exist precisely definable elements or dynamical variables determining (as in classical physics) the actual behavior of each individual system, and not merely its probable behavior. Since these elements or variables are not now included in the quantum theory and have not yet been detected experimentally, Einstein has always regarded the present form of the quantum theory as incomplete, although he admits its internal consistency.¹⁻⁵",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 674,
+      "bottomRightX": 382,
+      "bottomRightY": 772,
+      "content": "Most physicists have felt that objections such as those raised by Einstein are not relevant, first, because the present form of the quantum theory with its usual probability interpretation is in excellent agreement with an extremely wide range of experiments, at least in the domain of distances⁶ larger than 10⁻¹³ cm, and, secondly, because no consistent alternative interpreta-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 404,
+      "bottomRightX": 688,
+      "bottomRightY": 825,
+      "content": "tions have as yet been suggested. The purpose of this paper (and of a subsequent paper hereafter denoted by II) is, however, to suggest just such an alternative interpretation. In contrast to the usual interpretation, this alternative interpretation permits us to conceive of each individual system as being in a precisely definable state, whose changes with time are determined by definite laws, analogous to (but not identical with) the classical equations of motion. Quantum-mechanical probabilities are regarded (like their counterparts in classical statistical mechanics) as only a practical necessity and not as a manifestation of an inherent lack of complete determination in the properties of matter at the quantum level. As long as the present general form of Schroedinger's equation is retained, the physical results obtained with our suggested alternative interpretation are precisely the same as those obtained with the usual interpretation. We shall see, however, that our alternative interpretation permits modifications of the mathematical formulation which could not even be described in terms of the usual interpretation. Moreover, the modifications can quite easily be formulated in such a way that their effects are insignificant in the atomic domain, where the present quantum theory is in such good agreement with experiment, but of crucial importance in the domain of dimensions of the order of 10⁻¹³ cm, where, as we have seen, the present theory is totally inadequate. It is thus entirely possible that some of the modifications describable in terms of our suggested alternative interpretation, but",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 776,
+      "bottomRightX": 382,
+      "bottomRightY": 799,
+      "content": "* Now at Universidade de São Paulo, Faculdade de Filosofia, Ciencias, e Letras, São Paulo, Brasil.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 799,
+      "bottomRightX": 372,
+      "bottomRightY": 809,
+      "content": "¹ Einstein, Podolsky, and Rosen, Phys. Rev. 47, 777 (1933).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 809,
+      "bottomRightX": 382,
+      "bottomRightY": 829,
+      "content": "² D. Bohm, Quantum Theory (Prentice-Hall, Inc., New York, 1951), see p. 611.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 829,
+      "bottomRightX": 268,
+      "bottomRightY": 840,
+      "content": "³ N. Bohr, Phys. Rev. 48, 696 (1935).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 840,
+      "bottomRightX": 295,
+      "bottomRightY": 850,
+      "content": "⁴ W. Furry, Phys. Rev. 49, 393, 476 (1936).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 850,
+      "bottomRightX": 382,
+      "bottomRightY": 890,
+      "content": "⁵ Paul Arthur Schilp, editor, Albert Einstein, Philosopher-Scientist (Library of Living Philosophers, Evanston, Illinois, 1949). This book contains a thorough summary of the entire controversy.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 890,
+      "bottomRightX": 382,
+      "bottomRightY": 932,
+      "content": "⁶ At distances of the order of 10⁻¹³ cm or smaller and for times of the order of this distance divided by the velocity of light or smaller, present theories become so inadequate that it is generally believed that they are probably not applicable, except perhaps",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 392,
+      "topLeftY": 837,
+      "bottomRightX": 689,
+      "bottomRightY": 932,
+      "content": "in a very crude sense. Thus, it is generally expected that in connection with phenomena associated with this so-called \"fundamental length,\" a totally new theory will probably be needed. It is hoped that this theory could not only deal precisely with such processes as meson production and scattering of elementary particles, but that it would also systematically predict the masses, charges, spins, etc., of the large number of so-called \"elementary\" particles that have already been found, as well as those of new particles which might be found in the future.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 378,
+      "topLeftY": 935,
+      "bottomRightX": 400,
+      "bottomRightY": 947,
+      "content": "166",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

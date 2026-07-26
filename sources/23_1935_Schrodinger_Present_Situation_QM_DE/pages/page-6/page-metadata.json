@@ -1,0 +1,164 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 95,
+    "height": 1016,
+    "width": 737
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 83,
+      "topLeftY": 89,
+      "bottomRightX": 106,
+      "bottomRightY": 103,
+      "content": "812",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 89,
+      "bottomRightX": 533,
+      "bottomRightY": 105,
+      "content": "RECK: Der Ausbruchscyklus des Merapi in den Jahren 1933/34.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 584,
+      "topLeftY": 89,
+      "bottomRightX": 646,
+      "bottomRightY": 110,
+      "content": "Die Natur-\nwissenschaften",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 118,
+      "bottomRightX": 360,
+      "bottomRightY": 378,
+      "content": "Verwaschenheit nicht. Die austretende Partikel wird, wenn man anschaulich deuten will, als Kugelwelle beschrieben, die nach allen Richtungen und fortwährend vom Kern emaniert und einen benachbarten Leuchtschirm fortwährend in seiner ganzen Ausdehnung trifft. Der Schirm aber zeigt nicht etwa ein beständiges mattes Flächenleuchten, sondern blitzt in einem Augenblick an einer Stelle auf — oder, um der Wahrheit die Ehre zu geben, er blitzt bald hier, bald dort auf, weil es unmöglich ist, den Versuch mit bloß einem einzigen radioaktiven Atom auszuführen. Benützt man statt des Leuchtschirms einen räumlich ausgedehnten Detektor, etwa ein Gas, das von den α-Teilchen ionisiert wird, so findet man die Ionenpaare längs geradliniger Kolonnen angeordnet¹, die rückwärts verlängert das radioaktive Materiekörnchen treffen, von dem die α-Strahlung ausgeht (C.T.R. WILSONsche Bahnspuren, durch Nebeltröpfchen sichtbar gemacht, die auf den Ionen kondensieren).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 377,
+      "bottomRightX": 361,
+      "bottomRightY": 430,
+      "content": "Man kann auch ganz burleske Fälle konstruieren. Eine Katze wird in eine Stahlkammer gesperrt, zusammen mit folgender Höllenmaschine (die man gegen den direkten Zugriff der Katze",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 433,
+      "bottomRightX": 361,
+      "bottomRightY": 482,
+      "content": "¹ Zur Veranschaulichung kann Fig. 5 oder 6 auf S. 375 des Jg. 1927 dieser Zeitschrift dienen; oder auch Fig. 1, S. 734 des vorigen Jahrganges (1934), da sind es aber Bahnspuren von Wasserstoffkernen.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 118,
+      "bottomRightX": 648,
+      "bottomRightY": 325,
+      "content": "sichern muß): in einem GEIGERSchen Zählrohr befindet sich eine winzige Menge radioaktiver Substanz, so wenig, daß im Lauf einer Stunde vielleicht eines von den Atomen zerfällt, ebenso wahrscheinlich aber auch keines; geschieht es, so spricht das Zählrohr an und betätigt über ein Relais ein Hämmerchen, das ein Kölbchen mit Blausäure zertrümmert. Hat man dieses ganze System eine Stunde lang sich selbst überlassen, so wird man sich sagen, daß die Katze noch lebt, wenn inzwischen kein Atom zerfallen ist. Der erste Atomzerfall würde sie vergiftet haben. Die ψ-Funktion des ganzen Systems würde das so zum Ausdruck bringen, daß in ihr die lebende und die tote Katze (s. v. v.) zu gleichen Teilen gemischt oder verschmiert sind.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 324,
+      "bottomRightX": 649,
+      "bottomRightY": 482,
+      "content": "Das Typische an diesen Fällen ist, daß eine ursprünglich auf den Atombereich beschränkte Unbestimmtheit sich in grobsinnliche Unbestimmtheit umsetzt, die sich dann durch direkte Beobachtung entscheiden läßt. Das hindert uns, in so naiver Weise ein „verwaschenes Modell“ als Abbild der Wirklichkeit gelten zu lassen. An sich enthielte es nichts Unklares oder Widerspruchsvolles. Es ist ein Unterschied zwischen einer verwackelten oder unscharf eingestellten Photographie und einer Aufnahme von Wolken und Nebelschwaden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 472,
+      "bottomRightX": 632,
+      "bottomRightY": 483,
+      "content": "(Fortsetzung folgt.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 491,
+      "bottomRightX": 560,
+      "bottomRightY": 511,
+      "content": "## Der Ausbruchscyklus des Merapi in den Jahren 1933/34.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 296,
+      "topLeftY": 512,
+      "bottomRightX": 439,
+      "bottomRightY": 526,
+      "content": "Von HANS RECK, Berlin.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 530,
+      "bottomRightX": 362,
+      "bottomRightY": 789,
+      "content": "Schon einmal habe ich in dieser Zeitschrift¹ über einen der stärksten Ausbrüche dieses regsten und gefährlichsten Vulkans Niederländisch-Indiens berichtet, nämlich über den des Jahres 1930, mit dem nach langer Pause eine neue Unruheperiode seines Herdes eingeleitet wurde. Dieser Paroxysmus, dessen Abklingen noch weit in das Jahr 1931 hineinreichte, ist vom vulkanologischen Dienst Niederl. Indiens sehr gründlich studiert und inzwischen in einer schönen Monographie von NEUMANN VAN PADANG² veröffentlicht worden. Drei Vulkanologen vor allem: STEHN, NEUMANN VAN PADANG und HARTMANN, verdanken wir die weitgehende Klärung der Erscheinungen dieses Ausbruches und damit eines Ausbruchstyps, der nicht von minderem allgemein vulkanologischem Interesse und nicht von geringerer praktischer Bedeutung ist als etwa der eines Stratovulkans, wie der Vesuv, oder eines Schildvulkans, wie der Skjaldbreid auf Island einer ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 788,
+      "bottomRightX": 362,
+      "bottomRightY": 840,
+      "content": "Dieser Typ läßt sich allgemein dahin charakterisieren, daß eine erste Explosivphase Träger der Befreiung des in der vorangegangenen Ruhezeit äußerlich mehr oder minder unmerklich eruptions-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 530,
+      "bottomRightX": 651,
+      "bottomRightY": 789,
+      "content": "reif gewordenen Magmas ist. Diese Phase kennzeichnen sowohl auf- wie absteigende Eruptionswolken; sie ist dadurch bei weitem die gefährlichste des ganzen Cyklus. Sie wirkt zerstörend und verausgabt stürmisch den angesammelten Überschuß an Energie im Herd. Eine zweite Phase führt zähes, gasärmer gewordenes Magma durch den Schlot empor und staut es zu einer Kuppe über dem Austrittspunkt auf. Eine dritte, mit der vorangehenden meist eng verknüpfte Phase endlich führt, ebenfalls gas- und explosionsarm, den Andrang der Lavamassen, die der stets relativ klein bleibende Kuppenbau nicht zu fassen vermag, in Stromform an der geeignetsten Stelle aus dem Kraterbereich über die Vulkanhänge ab. Diese beiden Phasen sind die Aufbauphasen des Vulkans. Eine vierte Phase endlich ist die sehr verschieden lange Pause der Erschöpfung, während welcher der Vulkan Stoff und Kräfte ergänzt und zu neuem Durchbruch sammelt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 788,
+      "bottomRightX": 652,
+      "bottomRightY": 916,
+      "content": "Es ist selbstverständlich, daß bei dem übergewaltigen, verwirrenden Kräftespiel eines Vulkanausbruches diese Einzelphasen ebensowenig schematisch gleich ablaufen wie die ganzen Cyklen. Die Variabilität aller Einzelheiten ist für unser Schauen und Verstehen fast unbegrenzt; sie können die erkannten Gesetzmäßigkeiten sogar zeitweise überwuchern; aber die Grundzüge des Cyklusablaufes, das Typologische, schält sich doch bei jedem Gesamtüberblick über eine solche Eruptionsperiode",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 846,
+      "bottomRightX": 362,
+      "bottomRightY": 884,
+      "content": "¹ H. RECK, Der Merapi-Vulkan auf Java und sein Ausbruch im Dezember 1930. Naturwiss. 19, 369–373 (1931).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 881,
+      "bottomRightX": 362,
+      "bottomRightY": 917,
+      "content": "² M. NEUMANN VAN PADANG, De uitbarsting van den Merapi (Midden Java) in de jaren 1930–1931. Vulkanol. en seismolog. Mededeel 1933, Nr 12.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

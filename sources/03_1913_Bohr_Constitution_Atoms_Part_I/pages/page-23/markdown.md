@@ -1,0 +1,13 @@
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+22
+
+Dr. N. Bohr*on the Constitution*
+
+formation of the system the electrons at any moment are situated at equal angular intervals on the circumference of a circle with the nucleus in the centre, from analogy with the considerations on p. 5 we are here led to assume the existence of a series of stationary configurations in which the kinetic energy per electron is equal to $\tau h \frac{\omega}{2}$, where $\tau$ is an entire number, $h$ Planck's constant, and $\omega$ the frequency of revolution. The configuration in which the greatest amount of energy is emitted is, as before, the one in which $\tau=1$. This configuration we shall assume to be the permanent state of the system if the electrons in this state are arranged in a single ring. As for the case of a single electron we get that the angular momentum of each of the electrons is equal to $\frac{h}{2\pi}$. It may be remarked that instead of considering the single electrons we might have considered the ring as an entity. This would, however, lead to the same result, for in this case the frequency of revolution $\omega$ will be replaced by the frequency $n\omega$ of the radiation from the whole ring calculated from the ordinary electrodynamics, and T by the total kinetic energy $nT$.
+
+There may be many other stationary states corresponding to other ways of forming the system. The assumption of the existence of such states seems necessary in order to account for the line-spectra of systems containing more than one electron (p. 11); it is also suggested by the theory of Nicholson mentioned on p. 6, to which we shall return in a moment. The consideration of the spectra, however, gives, as far as I can see, no indication of the existence of stationary states in which all the electrons are arranged in a ring and which correspond to greater values for the total energy emitted than the one we above have assumed to be the permanent state.
+
+Further, there may be stationary configurations of a system of $n$ electrons and a nucleus of charge E in which all the electrons are not arranged in a single ring. The question, however, of the existence of such stationary configurations is not essential for our determination of the permanent state, as long as we assume that the electrons in this state of the system are arranged in a single ring. Systems corresponding to more complicated configurations will be discussed on p. 24.
+
+Using the relation $T=h\frac{\omega}{2}$ we get, by help of the above expressions for T and $\omega$, values for $a$ and $\omega$ corresponding to

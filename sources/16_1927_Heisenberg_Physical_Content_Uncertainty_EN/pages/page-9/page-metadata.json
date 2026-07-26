@@ -1,0 +1,47 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1017,
+    "width": 640
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 93,
+      "topLeftY": 53,
+      "bottomRightX": 110,
+      "bottomRightY": 67,
+      "content": "70",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 315,
+      "topLeftY": 55,
+      "bottomRightX": 392,
+      "bottomRightY": 67,
+      "content": "HEISENBERG",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 90,
+      "bottomRightX": 615,
+      "bottomRightY": 868,
+      "content": "Jordan formulation of quantum mechanics that the relations between p, q, E, etc. can be described as equations connecting very general matrices in such a way that any predetermined quantum-theoretic quantity appears as a diagonal matrix. The possibility of writing things in such a way is evident when one pictures the matrices as tensors (for example, moment-of-inertia tensors) in a multidimensional space between which there are mathematical connections. One can always pick the axis of the coordinate system in which one expresses these relations along the principal axes of one of these tensors. Finally, one also can always characterize the mathematical relation between two tensors A and B through the transformation equations which take a coordinate system oriented along the principal axes of A over into another oriented along the principal axes of B. This latter formulation corresponds to the Schrödinger theory. In contrast, one will view Dirac's q-number formulation as the formulation of quantum mechanics that is really \"invariant\" and independent of all coordinate systems. When we want to derive physical results from that mathematical framework, then we have to associate numbers with the quantum-theoretical magnitudes—that is, with the matrices (or \"tensors\" in multidimensional space). This task is to be understood in these terms: In that multidimensional space a definite direction is arbitrarily prescribed (by the nature of the experimental setup); and it is asked what is the \"value\" of the matrix (for example, in that picture, what is the value of the moment of inertia) in this given direction. This question only has a well-defined meaning when the given direction coincides with the direction of one of the principal axes of that matrix. In this case there is an exact answer for the question. But also when the prescribed direction differs only little from one of the principal axes of the matrix one can still speak of the \"value\" of the matrix in the prescribed direction up to a definite uncertainty determined by the angle between the two directions. One can therefore say that associated with every quantum-theoretical quantity or matrix is a number which gives its \"value\" within a certain definite statistical error. The statistical error depends on the coordinate system. For every quantum-theoretical quantity there exists a coordinate system in which the statistical error for this quantity is zero. Therefore a definite experiment can never give exact information on all quantum-theoretical quantities. Rather, it divides physical quantities into \"known\" and \"unknown\" (or more and less accurately known quantities) in a way characteristic of the experiment in question. The results of two experiments can be derived exactly one from the other only then when the two experiments divide the physical quantities in the same way into \"known\" and \"unknown\" (that is, when the tensors in that multidimensional space frequently invoked—for ease of visualization—are \"looked at\" in both experiments from the same direction). When two experiments use different divisions into \"known\" and \"unknown,\" then their results can be related only statistically.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 870,
+      "bottomRightX": 615,
+      "bottomRightY": 909,
+      "content": "For a more detailed discussion of this statistical connection let a gedanken-experiment be considered. Let a Stern-Gerlach atomic beam be sent first through",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

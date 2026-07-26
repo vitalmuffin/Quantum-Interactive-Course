@@ -1,0 +1,110 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 95,
+    "height": 1016,
+    "width": 737
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 83,
+      "topLeftY": 92,
+      "bottomRightX": 107,
+      "bottomRightY": 106,
+      "content": "824",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 92,
+      "bottomRightX": 542,
+      "bottomRightY": 106,
+      "content": "SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 584,
+      "topLeftY": 92,
+      "bottomRightX": 648,
+      "bottomRightY": 111,
+      "content": "[ Die Natur-\nwissenschaften",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 120,
+      "bottomRightX": 361,
+      "bottomRightY": 574,
+      "content": "passend ausgewählter Messungen am Objekt, halb\nsoviele als in der klassischen Theorie nötig waren.\nSo wird der Katalog der Erwartungen erstmalig\nangelegt. Von da verändert er sich mit der Zeit,\ngenau wie der Zustand des Modells in der klassi-\nschen Theorie, zwangläufig und eindeutig („kausal“)\n— das Abrollen der ψ-Funktion wird beherrscht\ndurch eine partielle Differentialgleichung (erster\nOrdnung in der Zeit und aufgelöst nach ℓψ/ℓℓ). Das entspricht der ungestörten Bewegung des\nModells in der klassischen Theorie. Aber das geht\nnur so lange, bis man wieder irgendeine Messung\nvornimmt. Bei jeder Messung ist man genötigt,\nder ψ-Funktion (= dem Voraussagenkatalog) eine\neigenartige, etwas plötzliche Veränderung zu-\nzuschreiben, die von der gefundenen Maßzahl ab-\nhängt und sich darum nicht vorhersehen läßt;\nworaus allein schon deutlich ist, daß diese zweite\nArt von Veränderung der ψ-Funktion mit ihrem\nregelmäßigen Abrollen zwischen zwei Messungen\nnicht das mindeste zu tun hat. Die abrupte Ver-\nänderung durch die Messung hängt eng mit den\nim § 5 besprochenen Dingen zusammen und wird\nuns noch eingehend beschäftigen, sie ist der inter-\nessanteste Punkt der ganzen Theorie. Es ist genau\nder Punkt, der den Bruch mit dem naiven Realis-\nmus verlangt. Aus diesem Grund kann man die\nψ-Funktion nicht direkt an die Stelle des Modells\noder des Realdings setzen. Und zwar nicht etwa\nweil man einem Realding oder einem Modell nicht\nabrupte unvorhergesehene Änderungen zumuten\ndürfte, sondern weil vom realistischen Standpunkt\ndie Beobachtung ein Naturvorgang ist wie jeder\nandere und nicht per se eine Unterbrechung des\nregelmäßigen Naturlaufs hervorrufen darf.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 582,
+      "bottomRightX": 326,
+      "bottomRightY": 598,
+      "content": "§ 8. Theorie des Messens, erster Teil.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 598,
+      "bottomRightX": 361,
+      "bottomRightY": 920,
+      "content": "Die Ablehnung des Realismus hat logische\nKonsequenzen. Eine Variable hat im allgemeinen\nkeinen bestimmten Wert, bevor ich ihn messe:\ndann heißt, ihn messen, nicht, den Wert ermitteln,\nden sie hat. Was heißt es aber dann? Es muß doch\nein Kriterium dafür geben, ob eine Messung richtig\noder falsch, eine Methode gut oder schlecht, genau\noder ungenau ist — ob sie überhaupt den Namen\nMeßverfahren verdient. Jedes Herumspielen mit\neinem Zeigerinstrument in der Nähe eines anderen\nKörpers, wobei man dann irgendeinmal eine Ab-\nlesung macht, kann doch nicht eine Messung an\ndiesem Körper genannt werden. Nun, es ist ziem-\nlich klar; wenn nicht die Wirklichkeit den Meßwert,\nso muß wenigstens der Meßwert die Wirklichkeit\nbestimmen, er muß nach der Messung wirklich\nvorhanden sein in dem Sinne, der allein noch an-\nerkannt wird. Das heißt, das verlangte Kriterium\nkann bloß dieses sein: bei Wiederholung der\nMessung muß wieder dasselbe herauskommen.\nDurch öftere Wiederholung kann ich die Genauig-\nkeit des Verfahrens prüfen und zeigen, daß ich nicht\nbloß spiele. Es ist sympathisch, daß sich diese\nAnweisung genau mit dem Vorgehen des Experi-\nmentators deckt, dem der „wahre Wert“ ja auch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 120,
+      "bottomRightX": 648,
+      "bottomRightY": 147,
+      "content": "nicht von vornherein bekannt ist. Wir formulieren\ndas Wesentliche folgendermaßen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 146,
+      "bottomRightX": 648,
+      "bottomRightY": 263,
+      "content": "Die planmäßig herbeigeführte Wechselwirkung\nzweier Systeme (Meßobjekt und Meßinstrument)\nheißt eine Messung an dem ersten System, wenn sich\nein direkt sinnenfälliges variables Merkmal des\nzweiten (Zeigerstellung) bei sofortiger Wiederholung\ndes Vorganges (an demselben Meßobjekt, das in-\nzwischen keinen anderweitigen Einflüssen ausgesetzt\nworden sein darf) stets innerhalb gewisser Fehler-\ngrenzen reproduziert.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 262,
+      "bottomRightX": 648,
+      "bottomRightY": 315,
+      "content": "Dieser Erklärung wird noch manches hinzu-\nzufügen sein, sie ist keine tadellose Definition.\nEmpirie ist komplizierter als Mathematik und läßt\nsich nicht so leicht in glatte Sätze einfangen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 314,
+      "bottomRightX": 648,
+      "bottomRightY": 664,
+      "content": "Vor der ersten Messung kann für sie eine be-\nliebige quantentheoretische Voraussage bestanden\nhaben. Nach ihr lautet die Voraussage jedenfalls:\ninnerhalb der Fehlergrenzen wieder derselbe Wert.\nDer Voraussagenkatalog (= die ψ-Funktion) wird\nalso durch die Messung verändert in bezug auf die\nVariable, die wir messen. Wenn das Meßverfahren\nschon von früher her als verläßlich bekannt ist,\ndann reduziert gleich die erste Messung die theo-\nretische Erwartung innerhalb der Fehlergrenzen\nauf den gefundenen Wert selbst, welche Erwartung\nauch immer vorher bestanden haben mag. Das ist\ndie typische abrupte Veränderung der ψ-Funktion\nbei der Messung, wovon oben die Rede war. Aber\nnicht nur für die gemessene Variable selbst ändert\nsich im allgemeinen der Erwartungskatalog in\nunvorhergesehener Weise, sondern auch für andere,\ninsbesondere für ihre „kanonisch konjugierte“.\nWenn etwa vorher eine ziemlich scharfe Vorher-\nsage für den Impuls eines Teilchens vorlag und\nman mißt jetzt seinen Ort genauer als damit, nach\nSatz A von § 2, verträglich ist, so muß das die\nImpulsvorhersage modifizieren. Der quanten-\nmechanische Rechenapparat besorgt das übrigens\nganz von selbst: es gibt gar keine ψ-Funktion, die,\nwenn man vereinbarungsgemäß die Erwartungen\nan ihr abliest, dem Satz A widersprechen würde.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 663,
+      "bottomRightX": 648,
+      "bottomRightY": 920,
+      "content": "Da sich der Erwartungskatalog bei der Messung\nradikal verändert, ist das Objekt dann nicht mehr\ngeeignet, um die statistischen Voraussagen, die\nvorher gemacht waren, in ihrer ganzen Ausdeh-\nnung zu prüfen; am allerwenigsten für die ge-\nmessene Variable selbst, denn für die wird ja jetzt\nimmer wieder (nahezu) derselbe Wert kommen.\nDas ist der Grund für die Vorschrift, die schon in\n§ 2 gegeben wurde: man kann die Wahrscheinlich-\nkeitsvorhersage zwar schon vollinhaltlich prüfen,\naber man muß dazu den ganzen Versuch ab ovo\nwiederholen. Man muß das Meßobjekt (oder ein\nihm gleiches) wieder genau so vorbehandeln, wie\ndas erstmal, damit wieder derselbe Erwartungs-\nkatalog (= ψ-Funktion) gelte wie vor der ersten\nMessung. Dann „wiederholt“ man sie. (Dieses\nWiederholen bedeutet also jetzt ganz etwas an-\nderes als früher!) Alles das muß man nicht zwei-\nmal, sondern sehr oft tun. Dann wird sich die voraus-\ngesagte Statistik einstellen — das ist die Meinung.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

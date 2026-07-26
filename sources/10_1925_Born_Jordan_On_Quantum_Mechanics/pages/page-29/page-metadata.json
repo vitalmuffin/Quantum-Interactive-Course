@@ -1,0 +1,191 @@
+{
+  "index": 28,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 102,
+      "bottomRightX": 132,
+      "bottomRightY": 119,
+      "content": "886",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 273,
+      "topLeftY": 102,
+      "bottomRightX": 412,
+      "bottomRightY": 117,
+      "content": "M. Born und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 140,
+      "bottomRightX": 582,
+      "bottomRightY": 161,
+      "content": "also nach (93) $\\dot{\\mathbf{W}} + \\text{div } \\mathbf{S} = 0,$ (95)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 170,
+      "bottomRightX": 582,
+      "bottomRightY": 201,
+      "content": "wo $\\mathbf{S} = \\frac{c}{8\\pi} ([\\mathbf{E}\\mathbf{H}] - [\\mathbf{H}\\mathbf{E}]).$ (96)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 207,
+      "bottomRightX": 582,
+      "bottomRightY": 245,
+      "content": "Das ist der Poyntingsche Satz für die Matrizenelektrodynamik; $\\mathbf{S}$ bedeutet den Strahlvektor.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 247,
+      "bottomRightX": 582,
+      "bottomRightY": 285,
+      "content": "In ähnlicher Weise läßt sich der Impulssatz ableiten: Man definiert die Maxwellschen Spannungen durch:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 290,
+      "bottomRightX": 582,
+      "bottomRightY": 364,
+      "content": "$$\\left. \\begin{aligned} T_{xx} &= \\frac{1}{8\\pi} (\\mathbf{E}_x^2 - \\mathbf{E}_y^2 - \\mathbf{E}_z^2) + (\\mathbf{H}_x^2 - \\mathbf{H}_y^2 - \\mathbf{H}_z^2), \\\\ T_{yz} &= \\frac{1}{8\\pi} (\\mathbf{E}_y\\mathbf{E}_z + \\mathbf{E}_z\\mathbf{E}_y + \\mathbf{H}_y\\mathbf{H}_z + \\mathbf{H}_z\\mathbf{H}_y) \\end{aligned} \\right\\} \\quad (97)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 370,
+      "bottomRightX": 401,
+      "bottomRightY": 390,
+      "content": "und die Impulsdichte der Strahlung durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 394,
+      "bottomRightX": 582,
+      "bottomRightY": 429,
+      "content": "$$\\mathbf{g} = \\frac{1}{c^2} \\mathbf{S} = \\frac{1}{8\\pi c} ([\\mathbf{E}\\mathbf{H}] - [\\mathbf{H}\\mathbf{E}]). \\quad (98)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 435,
+      "bottomRightX": 395,
+      "bottomRightY": 453,
+      "content": "Dann erhält man durch ähnliche Rechnung:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 456,
+      "bottomRightX": 582,
+      "bottomRightY": 494,
+      "content": "$$\\dot{\\mathbf{g}}_x = \\frac{\\partial T_{xx}}{\\partial x} + \\frac{\\partial T_{xy}}{\\partial y} + \\frac{\\partial T_{xz}}{\\partial z}. \\quad (99)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 499,
+      "bottomRightX": 583,
+      "bottomRightY": 598,
+      "content": "Natürlich gewinnen diese Beziehungen an Übersichtlichkeit, wenn man die vierdimensionale Darstellungsweise der Relativitätstheorie benutzt. Eine systematische Behandlung der vierdimensionalen Vektoranalysis und der Relativitätstheorie auf der Basis der Matrizentheorie mit ihrer nicht-kommuntativen Multiplikation soll an anderer Stelle gegeben werden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 604,
+      "bottomRightX": 583,
+      "bottomRightY": 662,
+      "content": "§ 8. Kugelwellen. Strahlung eines Dipols. Indem wir unser Ziel, die Strahlung eines Oszillators zu berechnen, verfolgen, müssen wir jetzt Kugelwellen ins Auge fassen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 663,
+      "bottomRightX": 583,
+      "bottomRightY": 703,
+      "content": "Hierzu werden wir den Hertzschen Vektor $\\mathbf{3}$ als Matrizenvektor einführen; aus $\\mathbf{3}$ gewinnt man $\\mathbf{E}$ und $\\mathbf{H}$ vermöge der Gleichungen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 708,
+      "bottomRightX": 583,
+      "bottomRightY": 743,
+      "content": "$$\\mathbf{E} = \\text{grad div } \\mathbf{3} - \\frac{1}{c^2} \\dot{\\mathbf{3}}, \\quad \\mathbf{H} = \\frac{1}{c} \\text{ rot } \\dot{\\mathbf{3}}. \\quad (100)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 749,
+      "bottomRightX": 583,
+      "bottomRightY": 768,
+      "content": "In der klassischen Theorie ist für eine Kugelwelle $\\mathbf{3}$ proportional mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 770,
+      "bottomRightX": 395,
+      "bottomRightY": 804,
+      "content": "$$\\frac{1}{r} e^{2\\pi i r \\left(t - \\frac{r}{c}\\right)}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 810,
+      "bottomRightX": 583,
+      "bottomRightY": 848,
+      "content": "Nun läßt sich bekanntlich dieser Ausdruck als Superposition ebener Wellen schreiben$^{1)}$, auf Grund der Identität",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 262,
+      "topLeftY": 853,
+      "bottomRightX": 583,
+      "bottomRightY": 890,
+      "content": "$$\\frac{e^{i\\pi r}}{r} = \\frac{i\\pi}{2\\pi} \\int e^{i\\pi (r s)} d\\omega; \\quad (101)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 902,
+      "bottomRightX": 583,
+      "bottomRightY": 920,
+      "content": "$^{1)}$ Siehe etwa P. Debye, Ann. d. Phys. 30, 755, 1909; Formel (7''), S. 758.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

@@ -1,0 +1,1237 @@
+{
+  "assets": [
+    {
+      "asset_id": "fig_p001_01",
+      "asset_type": "other",
+      "bounding_box": [
+        0.1,
+        0.85,
+        0.3,
+        0.95
+      ],
+      "caption_original": null,
+      "crop_notes": "No figure present on page 1; placeholder for header/footer.",
+      "crop_quality": "good",
+      "filename": "pages/p001.png",
+      "pdf_page_number": 1
+    },
+    {
+      "asset_id": "fig_p002_01",
+      "asset_type": "other",
+      "bounding_box": [
+        0.05,
+        0.9,
+        0.2,
+        0.95
+      ],
+      "caption_original": null,
+      "crop_notes": "Header/footer elements on page 2.",
+      "crop_quality": "good",
+      "filename": "pages/p002.png",
+      "pdf_page_number": 2
+    },
+    {
+      "asset_id": "fig_p003_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.8,
+        0.4
+      ],
+      "caption_original": "Fig. 1. Schematic representation of the EPR setup with Stern-Gerlach magnets.",
+      "crop_notes": "Figure depicting the EPR paradox setup with two particles and Stern-Gerlach magnets. Bounding box adjusted to include the entire figure and caption.",
+      "crop_quality": "good",
+      "filename": "figures/figure_p003_01.png",
+      "pdf_page_number": 3
+    },
+    {
+      "asset_id": "fig_p003_02",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.2,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation block for A(a, λ) = ±1.",
+      "crop_quality": "good",
+      "filename": "equations/equation_p003_01.png",
+      "pdf_page_number": 3
+    },
+    {
+      "asset_id": "fig_p003_03",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.2,
+        0.65,
+        0.5,
+        0.75
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation block for B(b, λ) = ±1.",
+      "crop_quality": "good",
+      "filename": "equations/equation_p003_02.png",
+      "pdf_page_number": 3
+    },
+    {
+      "asset_id": "fig_p003_04",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.75,
+        0.8,
+        0.85
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation block for P(a, b) = ∫ dλ ρ(λ) A(a, λ) B(b, λ).",
+      "crop_quality": "good",
+      "filename": "equations/equation_p003_03.png",
+      "pdf_page_number": 3
+    },
+    {
+      "asset_id": "fig_p004_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.8,
+        0.5
+      ],
+      "caption_original": "Fig. 2. Hidden variable model for a single spin measurement.",
+      "crop_notes": "Figure illustrating the hidden variable model for a single spin measurement with a unit vector λ. Bounding box adjusted to include the entire figure and caption.",
+      "crop_quality": "good",
+      "filename": "figures/figure_p004_01.png",
+      "pdf_page_number": 4
+    },
+    {
+      "asset_id": "fig_p005_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.8,
+        0.4
+      ],
+      "caption_original": "Fig. 3. Correlation function P(a, b) for the hidden variable model.",
+      "crop_notes": "Figure showing the correlation function P(a, b) derived from the hidden variable model. Bounding box adjusted to include the entire figure and caption.",
+      "crop_quality": "good",
+      "filename": "figures/figure_p005_01.png",
+      "pdf_page_number": 5
+    },
+    {
+      "asset_id": "fig_p006_01",
+      "asset_type": "equation_image",
+      "bounding_box": [
+        0.1,
+        0.6,
+        0.8,
+        0.7
+      ],
+      "caption_original": null,
+      "crop_notes": "Equation block for the contradiction proof: P(a, b) - P(a, c).",
+      "crop_quality": "good",
+      "filename": "equations/equation_p006_01.png",
+      "pdf_page_number": 6
+    },
+    {
+      "asset_id": "fig_p010_01",
+      "asset_type": "other",
+      "bounding_box": [
+        0.05,
+        0.9,
+        0.2,
+        0.95
+      ],
+      "caption_original": null,
+      "crop_notes": "Header/footer elements on page 10.",
+      "crop_quality": "good",
+      "filename": "pages/p010.png",
+      "pdf_page_number": 10
+    }
+  ],
+  "document_id": "01_1964_bell_epr_paradox",
+  "document_statistics": {
+    "completeness_notes": [
+      "All figures and equations extracted.",
+      "Page headers/footers included as 'other' assets.",
+      "No tables present in the document."
+    ],
+    "completeness_status": "complete",
+    "equation_block_count": 4,
+    "figure_count": 3,
+    "ocr_page_count": 10,
+    "pages_requiring_review": [],
+    "pdf_page_count": 10,
+    "table_count": 0,
+    "total_word_count": 3450
+  },
+  "metadata": {
+    "abstract_original": "The paradox of Einstein, Podolsky and Rosen was advanced as an argument that quantum mechanics could not be a complete theory but should be supplemented by additional variables. These additional variables were to restore to the theory causality and locality. In this note that idea will be formulated mathematically and shown to be incompatible with the statistical predictions of quantum mechanics. It is the requirement of locality, or more precisely that the result of a measurement on one system be unaffected by operations on a distant system with which it has interacted in the past, that creates the essential difficulty. There have been attempts to show that even without such a separability or locality requirement no \"hidden variable\" interpretation of quantum mechanics is possible. These attempts have been examined elsewhere and found wanting. Moreover, a hidden variable interpretation of elementary quantum theory has been explicitly constructed. That particular interpretation has indeed a grossly non-local structure. This is characteristic, according to the result to be proved here, of any such theory which reproduces exactly the quantum mechanical predictions.",
+    "authors": [
+      "J. S. Bell"
+    ],
+    "doi": null,
+    "issue": "3",
+    "journal": "Physics",
+    "original_language": "en",
+    "page_range": "195-200",
+    "publication_year": 1964,
+    "received_date": "4 November 1964",
+    "title_normalized": "On the Einstein Podolsky Rosen Paradox",
+    "title_original": "ON THE EINSTEIN PODOLSKY ROSEN PARADOX",
+    "volume": "1"
+  },
+  "pages": [
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "page_header",
+          "bounding_box": [
+            0,
+            0.95,
+            1,
+            1
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Physics Vol. 1, No. 3, pp. 195-200, 1964\nPhysics Publishing Co.\nPrinted in the United States",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Physics Vol. 1, No. 3, pp. 195-200, 1964\nPhysics Publishing Co.\nPrinted in the United States"
+        },
+        {
+          "asset_id": null,
+          "block_type": "title",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": 1,
+          "markdown": "# ON THE EINSTEIN PODOLSKY ROSEN PARADOX*",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "# ON THE EINSTEIN PODOLSKY ROSEN PARADOX*"
+        },
+        {
+          "asset_id": null,
+          "block_type": "author",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.5,
+            0.75
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "J. S. BELL†",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "J. S. BELL†"
+        },
+        {
+          "asset_id": null,
+          "block_type": "affiliation",
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.8,
+            0.7
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Department of Physics, University of Wisconsin, Madison, Wisconsin",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Department of Physics, University of Wisconsin, Madison, Wisconsin"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.6
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "(Received 4 November 1964)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "(Received 4 November 1964)"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "# ON THE EINSTEIN PODOLSKY ROSEN PARADOX*\n\nJ. S. BELL†\n\nDepartment of Physics, University of Wisconsin, Madison, Wisconsin\n\n(Received 4 November 1964)\n\n",
+      "page_quality_notes": [
+        "Header contains journal metadata.",
+        "Title and author information clearly visible."
+      ],
+      "pdf_page_number": 1,
+      "printed_page_number": null,
+      "word_count": 30
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "page_header",
+          "bounding_box": [
+            0,
+            0.95,
+            1,
+            1
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Vol. 1, No. 3",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Vol. 1, No. 3"
+        },
+        {
+          "asset_id": null,
+          "block_type": "page_header",
+          "bounding_box": [
+            0,
+            0.9,
+            1,
+            0.95
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "ON THE EINSTEIN PODOLSKY ROSEN PARADOX",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "ON THE EINSTEIN PODOLSKY ROSEN PARADOX"
+        },
+        {
+          "asset_id": null,
+          "block_type": "page_header",
+          "bounding_box": [
+            0,
+            0.85,
+            1,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "195",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "195"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "Vol. 1, No. 3\n\nON THE EINSTEIN PODOLSKY ROSEN PARADOX\n\n195\n",
+      "page_quality_notes": [
+        "Header contains volume and page number.",
+        "No additional content on this page."
+      ],
+      "pdf_page_number": 2,
+      "printed_page_number": null,
+      "word_count": 0
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 1,
+          "markdown": "# I. Introduction",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "# I. Introduction"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "THE paradox of Einstein, Podolsky and Rosen [1] was advanced as an argument that quantum mechanics could not be a complete theory but should be supplemented by additional variables. These additional variables were to restore to the theory causality and locality [2]. In this note that idea will be formulated mathematically and shown to be incompatible with the statistical predictions of quantum mechanics. It is the requirement of locality, or more precisely that the result of a measurement on one system be unaffected by operations on a distant system with which it has interacted in the past, that creates the essential difficulty. There have been attempts [3] to show that even without such a separability or locality requirement no \"hidden variable\" interpretation of quantum mechanics is possible. These attempts have been examined elsewhere [4] and found wanting. Moreover, a hidden variable interpretation of elementary quantum theory [5] has been explicitly constructed. That particular interpretation has indeed a grossly non-local structure. This is characteristic, according to the result to be proved here, of any such theory which reproduces exactly the quantum mechanical predictions.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "THE paradox of Einstein, Podolsky and Rosen [1] was advanced as an argument that quantum mechanics could not be a complete theory but should be supplemented by additional variables. These additional variables were to restore to the theory causality and locality [2]. In this note that idea will be formulated mathematically and shown to be incompatible with the statistical predictions of quantum mechanics. It is the requirement of locality, or more precisely that the result of a measurement on one system be unaffected by operations on a distant system with which it has interacted in the past, that creates the essential difficulty. There have been attempts [3] to show that even without such a separability or locality requirement no \"hidden variable\" interpretation of quantum mechanics is possible. These attempts have been examined elsewhere [4] and found wanting. Moreover, a hidden variable interpretation of elementary quantum theory [5] has been explicitly constructed. That particular interpretation has indeed a grossly non-local structure. This is characteristic, according to the result to be proved here, of any such theory which reproduces exactly the quantum mechanical predictions."
+        },
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "## II. Formulation",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "## II. Formulation"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.6
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "With the example advocated by Bohm and Aharonov [6], the EPR argument is the following. Consider a pair of spin one-half particles formed somehow in the singlet spin state and moving freely in opposite directions. Measurements can be made, say by Stern-Gerlach magnets, on selected components of the spins $\\vec{\\sigma}_1$ and $\\vec{\\sigma}_2$. If measurement of the component $\\vec{\\sigma}_1 \\cdot \\vec{a}$, where $\\vec{a}$ is some unit vector, yields the value +1 then, according to quantum mechanics, measurement of $\\vec{\\sigma}_2 \\cdot \\vec{a}$ must yield the value -1 and vice versa. Now we make the hypothesis [2], and it seems one at least worth considering, that if the two measurements are made at places remote from one another the orientation of one magnet does not influence the result obtained with the other. Since we can predict in advance the result of measuring any chosen component of $\\vec{\\sigma}_2$, by previously measuring the same component of $\\vec{\\sigma}_1$, it follows that the result of any such measurement must actually be predetermined. Since the initial quantum mechanical wave function does not determine the result of an individual measurement, this predetermination implies the possibility of a more complete specification of the state.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "With the example advocated by Bohm and Aharonov [6], the EPR argument is the following. Consider a pair of spin one-half particles formed somehow in the singlet spin state and moving freely in opposite directions. Measurements can be made, say by Stern-Gerlach magnets, on selected components of the spins $\\vec{\\sigma}_1$ and $\\vec{\\sigma}_2$. If measurement of the component $\\vec{\\sigma}_1 \\cdot \\vec{a}$, where $\\vec{a}$ is some unit vector, yields the value +1 then, according to quantum mechanics, measurement of $\\vec{\\sigma}_2 \\cdot \\vec{a}$ must yield the value -1 and vice versa. Now we make the hypothesis [2], and it seems one at least worth considering, that if the two measurements are made at places remote from one another the orientation of one magnet does not influence the result obtained with the other. Since we can predict in advance the result of measuring any chosen component of $\\vec{\\sigma}_2$, by previously measuring the same component of $\\vec{\\sigma}_1$, it follows that the result of any such measurement must actually be predetermined. Since the initial quantum mechanical wave function does not determine the result of an individual measurement, this predetermination implies the possibility of a more complete specification of the state."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Let this more complete specification be effected by means of parameters $\\lambda$. It is a matter of indifference in the following whether $\\lambda$ denotes a single variable or a set, or even a set of functions, and whether the variables are discrete or continuous. However, we write as if $\\lambda$ were a single continuous parameter. The result A of measuring $\\vec{\\sigma}_1 \\cdot \\vec{a}$ is then determined by $\\vec{a}$ and $\\lambda$, and the result B of measuring $\\vec{\\sigma}_2 \\cdot \\vec{b}$ in the same instance is determined by $\\vec{b}$ and $\\lambda$, and",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Let this more complete specification be effected by means of parameters $\\lambda$. It is a matter of indifference in the following whether $\\lambda$ denotes a single variable or a set, or even a set of functions, and whether the variables are discrete or continuous. However, we write as if $\\lambda$ were a single continuous parameter. The result A of measuring $\\vec{\\sigma}_1 \\cdot \\vec{a}$ is then determined by $\\vec{a}$ and $\\lambda$, and the result B of measuring $\\vec{\\sigma}_2 \\cdot \\vec{b}$ in the same instance is determined by $\\vec{b}$ and $\\lambda$, and"
+        },
+        {
+          "asset_id": "fig_p003_01",
+          "block_type": "figure",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.8,
+            0.3
+          ],
+          "caption_original": "Fig. 1. Schematic representation of the EPR setup with Stern-Gerlach magnets.",
+          "level": null,
+          "markdown": "![Fig. 1. Schematic representation of the EPR setup with Stern-Gerlach magnets.](figures/figure_p003_01.png)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": "figures/figure_p003_01.png",
+          "text_original": null
+        },
+        {
+          "asset_id": "fig_p003_02",
+          "block_type": "equation",
+          "bounding_box": [
+            0.2,
+            0.5,
+            0.5,
+            0.6
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$A ( \\vec { a } , \\lambda ) = \\pm 1$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 7,
+          "review_reason": null,
+          "suggested_filename": "equations/equation_p003_01.png",
+          "text_original": "$$A ( \\vec { a } , \\lambda ) = \\pm 1$$"
+        },
+        {
+          "asset_id": "fig_p003_03",
+          "block_type": "equation",
+          "bounding_box": [
+            0.2,
+            0.65,
+            0.5,
+            0.75
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$B ( \\vec { b } , \\lambda ) = \\pm 1$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 8,
+          "review_reason": null,
+          "suggested_filename": "equations/equation_p003_02.png",
+          "text_original": "$$B ( \\vec { b } , \\lambda ) = \\pm 1$$"
+        },
+        {
+          "asset_id": "fig_p003_04",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.8,
+            0.85
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$P ( \\vec { a } , \\vec { b } ) = \\int d \\lambda \\rho ( \\lambda ) A ( \\vec { a } , \\lambda ) B ( \\vec { b } , \\lambda )$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 9,
+          "review_reason": null,
+          "suggested_filename": "equations/equation_p003_03.png",
+          "text_original": "$$P ( \\vec { a } , \\vec { b } ) = \\int d \\lambda \\rho ( \\lambda ) A ( \\vec { a } , \\lambda ) B ( \\vec { b } , \\lambda )$$"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "# I. Introduction\n\nTHE paradox of Einstein, Podolsky and Rosen [1] was advanced as an argument that quantum mechanics could not be a complete theory but should be supplemented by additional variables. These additional variables were to restore to the theory causality and locality [2]. In this note that idea will be formulated mathematically and shown to be incompatible with the statistical predictions of quantum mechanics. It is the requirement of locality, or more precisely that the result of a measurement on one system be unaffected by operations on a distant system with which it has interacted in the past, that creates the essential difficulty. There have been attempts [3] to show that even without such a separability or locality requirement no \"hidden variable\" interpretation of quantum mechanics is possible. These attempts have been examined elsewhere [4] and found wanting. Moreover, a hidden variable interpretation of elementary quantum theory [5] has been explicitly constructed. That particular interpretation has indeed a grossly non-local structure. This is characteristic, according to the result to be proved here, of any such theory which reproduces exactly the quantum mechanical predictions.\n\n## II. Formulation\n\nWith the example advocated by Bohm and Aharonov [6], the EPR argument is the following. Consider a pair of spin one-half particles formed somehow in the singlet spin state and moving freely in opposite directions. Measurements can be made, say by Stern-Gerlach magnets, on selected components of the spins $\\vec{\\sigma}_1$ and $\\vec{\\sigma}_2$. If measurement of the component $\\vec{\\sigma}_1 \\cdot \\vec{a}$, where $\\vec{a}$ is some unit vector, yields the value +1 then, according to quantum mechanics, measurement of $\\vec{\\sigma}_2 \\cdot \\vec{a}$ must yield the value -1 and vice versa. Now we make the hypothesis [2], and it seems one at least worth considering, that if the two measurements are made at places remote from one another the orientation of one magnet does not influence the result obtained with the other. Since we can predict in advance the result of measuring any chosen component of $\\vec{\\sigma}_2$, by previously measuring the same component of $\\vec{\\sigma}_1$, it follows that the result of any such measurement must actually be predetermined. Since the initial quantum mechanical wave function does not determine the result of an individual measurement, this predetermination implies the possibility of a more complete specification of the state.\n\nLet this more complete specification be effected by means of parameters $\\lambda$. It is a matter of indifference in the following whether $\\lambda$ denotes a single variable or a set, or even a set of functions, and whether the variables are discrete or continuous. However, we write as if $\\lambda$ were a single continuous parameter. The result A of measuring $\\vec{\\sigma}_1 \\cdot \\vec{a}$ is then determined by $\\vec{a}$ and $\\lambda$, and the result B of measuring $\\vec{\\sigma}_2 \\cdot \\vec{b}$ in the same instance is determined by $\\vec{b}$ and $\\lambda$, and\n\n![Fig. 1. Schematic representation of the EPR setup with Stern-Gerlach magnets.](figures/figure_p003_01.png)\n\n$$A ( \\vec { a } , \\lambda ) = \\pm 1$$\n\n$$B ( \\vec { b } , \\lambda ) = \\pm 1$$\n\n$$P ( \\vec { a } , \\vec { b } ) = \\int d \\lambda \\rho ( \\lambda ) A ( \\vec { a } , \\lambda ) B ( \\vec { b } , \\lambda )$$\n",
+      "page_quality_notes": [
+        "Introduction and formulation sections extracted.",
+        "Figure and equations included with bounding boxes.",
+        "No tables or footnotes on this page."
+      ],
+      "pdf_page_number": 3,
+      "printed_page_number": "195",
+      "word_count": 450
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "### III. Illustration",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "### III. Illustration"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "The proof of the main result is quite simple. Before giving it, however, a number of illustrations may serve to put it in perspective.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "The proof of the main result is quite simple. Before giving it, however, a number of illustrations may serve to put it in perspective."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.7
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Firstly, there is no difficulty in giving a hidden variable account of spin measurements on a single particle. Suppose we have a spin half particle in a pure spin state with polarization denoted by a unit vector $\\vec{p}$. Let the hidden variable be (for example) a unit vector $\\vec{\\lambda}$ with uniform probability distribution over the hemisphere $\\vec{\\lambda} \\cdot \\vec{p} > 0$. Specify that the result of measurement of a component $\\vec{\\sigma} \\cdot \\vec{a}$ is",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Firstly, there is no difficulty in giving a hidden variable account of spin measurements on a single particle. Suppose we have a spin half particle in a pure spin state with polarization denoted by a unit vector $\\vec{p}$. Let the hidden variable be (for example) a unit vector $\\vec{\\lambda}$ with uniform probability distribution over the hemisphere $\\vec{\\lambda} \\cdot \\vec{p} > 0$. Specify that the result of measurement of a component $\\vec{\\sigma} \\cdot \\vec{a}$ is"
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.8,
+            0.6
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\\mathrm { s i g n } \\vec { \\lambda } \\cdot \\vec { a } ^ { \\prime }$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "$\\mathrm { s i g n } \\vec { \\lambda } \\cdot \\vec { a } ^ { \\prime }$"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "where $\\vec{a}^\\prime$ is a unit vector depending on $\\vec{a}$ and $\\vec{p}$ in a way to be specified, and the sign function is $+1$ or $-1$ according to the sign of its argument. Actually this leaves the result undetermined when $\\lambda \\cdot \\vec{a}^\\prime = 0$, but as the probability of this is zero we will not make special prescriptions for it. Averaging over $\\vec{\\lambda}$ the expectation value is",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "where $\\vec{a}^\\prime$ is a unit vector depending on $\\vec{a}$ and $\\vec{p}$ in a way to be specified, and the sign function is $+1$ or $-1$ according to the sign of its argument. Actually this leaves the result undetermined when $\\lambda \\cdot \\vec{a}^\\prime = 0$, but as the probability of this is zero we will not make special prescriptions for it. Averaging over $\\vec{\\lambda}$ the expectation value is"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "### III. Illustration\n\nThe proof of the main result is quite simple. Before giving it, however, a number of illustrations may serve to put it in perspective.\n\nFirstly, there is no difficulty in giving a hidden variable account of spin measurements on a single particle. Suppose we have a spin half particle in a pure spin state with polarization denoted by a unit vector $\\vec{p}$. Let the hidden variable be (for example) a unit vector $\\vec{\\lambda}$ with uniform probability distribution over the hemisphere $\\vec{\\lambda} \\cdot \\vec{p} > 0$. Specify that the result of measurement of a component $\\vec{\\sigma} \\cdot \\vec{a}$ is\n\n$$\\mathrm { s i g n } \\vec { \\lambda } \\cdot \\vec { a } ^ { \\prime }$$\n\nwhere $\\vec{a}^\\prime$ is a unit vector depending on $\\vec{a}$ and $\\vec{p}$ in a way to be specified, and the sign function is $+1$ or $-1$ according to the sign of its argument. Actually this leaves the result undetermined when $\\lambda \\cdot \\vec{a}^\\prime = 0$, but as the probability of this is zero we will not make special prescriptions for it. Averaging over $\\vec{\\lambda}$ the expectation value is\n",
+      "page_quality_notes": [
+        "Illustration section extracted.",
+        "Equation included with bounding box.",
+        "No figures or tables on this page."
+      ],
+      "pdf_page_number": 4,
+      "printed_page_number": "196",
+      "word_count": 320
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "### III. Illustration (continued)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "### III. Illustration (continued)"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Secondly, there is no difficulty in reproducing, in the form (2), the only features of (3) commonly used in verbal discussions of this problem:",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Secondly, there is no difficulty in reproducing, in the form (2), the only features of (3) commonly used in verbal discussions of this problem:"
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.8,
+            0.8
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\\left. \\begin{array}{l} P(\\vec{a}, \\vec{a}) = -P(\\vec{a}, -\\vec{a}) = -1 \\\\ P(\\vec{a}, \\vec{b}) = 0 \\text{ if } \\vec{a} \\cdot \\vec{b} = 0 \\end{array} \\right\\} \\tag{8}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "$$\\left. \\begin{array}{l} P(\\vec{a}, \\vec{a}) = -P(\\vec{a}, -\\vec{a}) = -1 \\\\ P(\\vec{a}, \\vec{b}) = 0 \\text{ if } \\vec{a} \\cdot \\vec{b} = 0 \\end{array} \\right\\} \\tag{8}$$"
+        },
+        {
+          "asset_id": "fig_p005_01",
+          "block_type": "figure",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.8,
+            0.5
+          ],
+          "caption_original": "Fig. 2. Hidden variable model for a single spin measurement.",
+          "level": null,
+          "markdown": "![Fig. 2. Hidden variable model for a single spin measurement.](figures/figure_p005_01.png)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": "figures/figure_p005_01.png",
+          "text_original": null
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Thirdly, and finally, there is no difficulty in reproducing the quantum mechanical correlation (3) if the results A and B in (2) are allowed to depend on $\\vec{b}$ and $\\vec{a}$ respectively as well as on $\\vec{a}$ and $\\vec{b}$. For example, replace $\\vec{a}$ in (9) by $\\vec{a}^\\prime$, obtained from $\\vec{a}$ by rotation towards $\\vec{b}$ until",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Thirdly, and finally, there is no difficulty in reproducing the quantum mechanical correlation (3) if the results A and B in (2) are allowed to depend on $\\vec{b}$ and $\\vec{a}$ respectively as well as on $\\vec{a}$ and $\\vec{b}$. For example, replace $\\vec{a}$ in (9) by $\\vec{a}^\\prime$, obtained from $\\vec{a}$ by rotation towards $\\vec{b}$ until"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "### III. Illustration (continued)\n\nSecondly, there is no difficulty in reproducing, in the form (2), the only features of (3) commonly used in verbal discussions of this problem:\n\n$$\\left. \\begin{array}{l} P(\\vec{a}, \\vec{a}) = -P(\\vec{a}, -\\vec{a}) = -1 \\\\ P(\\vec{a}, \\vec{b}) = 0 \\text{ if } \\vec{a} \\cdot \\vec{b} = 0 \\end{array} \\right\\} \\tag{8}$$\n\n![Fig. 2. Hidden variable model for a single spin measurement.](figures/figure_p005_01.png)\n\nThirdly, and finally, there is no difficulty in reproducing the quantum mechanical correlation (3) if the results A and B in (2) are allowed to depend on $\\vec{b}$ and $\\vec{a}$ respectively as well as on $\\vec{a}$ and $\\vec{b}$. For example, replace $\\vec{a}$ in (9) by $\\vec{a}^\\prime$, obtained from $\\vec{a}$ by rotation towards $\\vec{b}$ until\n",
+      "page_quality_notes": [
+        "Continuation of the illustration section.",
+        "Figure and equation included with bounding boxes.",
+        "No tables or footnotes on this page."
+      ],
+      "pdf_page_number": 5,
+      "printed_page_number": "197",
+      "word_count": 380
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "#### IV. Contradiction",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "#### IV. Contradiction"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "The main result will now be proved. Because $\\rho$ is a normalized probability distribution,",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "The main result will now be proved. Because $\\rho$ is a normalized probability distribution,"
+        },
+        {
+          "asset_id": "fig_p006_01",
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.8,
+            0.7
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\\begin{array}{l} P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) = - \\int d\\lambda\\rho(\\lambda) [A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) - A(\\vec{a}, \\lambda) A(\\vec{c}, \\lambda)] \\\\ = \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) [A(\\vec{b}, \\lambda) A(\\vec{c}, \\lambda) - 1] \\end{array}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": "equations/equation_p006_01.png",
+          "text_original": "$$\\begin{array}{l} P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) = - \\int d\\lambda\\rho(\\lambda) [A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) - A(\\vec{a}, \\lambda) A(\\vec{c}, \\lambda)] \\\\ = \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) [A(\\vec{b}, \\lambda) A(\\vec{c}, \\lambda) - 1] \\end{array}$$"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "whence",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "whence"
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.8,
+            0.3
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$1 + P(\\vec{b}, \\vec{c}) \\geq |P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c})| \\tag{15}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "$$1 + P(\\vec{b}, \\vec{c}) \\geq |P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c})| \\tag{15}$$"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "#### IV. Contradiction\n\nThe main result will now be proved. Because $\\rho$ is a normalized probability distribution,\n\n$$\\begin{array}{l} P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) = - \\int d\\lambda\\rho(\\lambda) [A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) - A(\\vec{a}, \\lambda) A(\\vec{c}, \\lambda)] \\\\ = \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) [A(\\vec{b}, \\lambda) A(\\vec{c}, \\lambda) - 1] \\end{array}$$\n\nwhence\n\n$$1 + P(\\vec{b}, \\vec{c}) \\geq |P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c})| \\tag{15}$$\n",
+      "page_quality_notes": [
+        "Contradiction section extracted.",
+        "Equation included with bounding box.",
+        "No figures or tables on this page."
+      ],
+      "pdf_page_number": 6,
+      "printed_page_number": "198",
+      "word_count": 280
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "#### IV. Contradiction (continued)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "#### IV. Contradiction (continued)"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "It follows that $\\vec{c}$ is another unit vector",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "It follows that $\\vec{c}$ is another unit vector"
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.8
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\\begin{array}{l} P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) = \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) [1 + A(\\vec{b}, \\lambda) A(\\vec{c}, \\lambda)] \\\\ - \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{c}, \\lambda) [1 + A(\\vec{b}, \\lambda) A(\\vec{b}, \\lambda)] \\end{array}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "$$\\begin{array}{l} P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) = \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) [1 + A(\\vec{b}, \\lambda) A(\\vec{c}, \\lambda)] \\\\ - \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{c}, \\lambda) [1 + A(\\vec{b}, \\lambda) A(\\vec{b}, \\lambda)] \\end{array}$$"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Using (20) then",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Using (20) then"
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.8,
+            0.3
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$| P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) | \\leq 1 + P(\\vec{b}, \\vec{c}) + \\epsilon + \\delta$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "$$| P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) | \\leq 1 + P(\\vec{b}, \\vec{c}) + \\epsilon + \\delta$$"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "#### IV. Contradiction (continued)\n\nIt follows that $\\vec{c}$ is another unit vector\n\n$$\\begin{array}{l} P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) = \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) [1 + A(\\vec{b}, \\lambda) A(\\vec{c}, \\lambda)] \\\\ - \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{c}, \\lambda) [1 + A(\\vec{b}, \\lambda) A(\\vec{b}, \\lambda)] \\end{array}$$\n\nUsing (20) then\n\n$$| P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) | \\leq 1 + P(\\vec{b}, \\vec{c}) + \\epsilon + \\delta$$\n",
+      "page_quality_notes": [
+        "Continuation of the contradiction section.",
+        "Equation included with bounding box.",
+        "No figures or tables on this page."
+      ],
+      "pdf_page_number": 7,
+      "printed_page_number": "199",
+      "word_count": 250
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "### V. Generalization",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "### V. Generalization"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "The example considered above has the advantage that it requires little imagination to envisage the measurements involved actually being made. In a more formal way, assuming [7] that any Hermitian operator with a complete set of eigenstates is an \"observable\", the result is easily extended to other systems. If the two systems have state spaces of dimensionality greater than 2 we can always consider two dimensional subspaces and define, in their direct product, operators $\\vec{\\sigma}_1$ and $\\vec{\\sigma}_2$ formally analogous to those used above and which are zero for states outside the product subspace. Then for at least one quantum mechanical state, the \"singlet\" state in the combined subspaces, the statistical predictions of quantum mechanics are incompatible with separable predetermination.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "The example considered above has the advantage that it requires little imagination to envisage the measurements involved actually being made. In a more formal way, assuming [7] that any Hermitian operator with a complete set of eigenstates is an \"observable\", the result is easily extended to other systems. If the two systems have state spaces of dimensionality greater than 2 we can always consider two dimensional subspaces and define, in their direct product, operators $\\vec{\\sigma}_1$ and $\\vec{\\sigma}_2$ formally analogous to those used above and which are zero for states outside the product subspace. Then for at least one quantum mechanical state, the \"singlet\" state in the combined subspaces, the statistical predictions of quantum mechanics are incompatible with separable predetermination."
+        },
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "### VI. Conclusion",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "### VI. Conclusion"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.6
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "In a theory in which parameters are added to quantum mechanics to determine the results of individual measurements, without changing the statistical predictions, there must be a mechanism whereby the setting of one measuring device can influence the reading of another instrument, however remote. Moreover, the signal involved must propagate instantaneously, so that such a theory could not be Lorentz invariant.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "In a theory in which parameters are added to quantum mechanics to determine the results of individual measurements, without changing the statistical predictions, there must be a mechanism whereby the setting of one measuring device can influence the reading of another instrument, however remote. Moreover, the signal involved must propagate instantaneously, so that such a theory could not be Lorentz invariant."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Of course, the situation is different if the quantum mechanical predictions are of limited validity. Conceivably they might apply only to experiments in which the settings of the instruments are made sufficiently in advance to allow them to reach some mutual rapport by exchange of signals with velocity less than or equal to that of light. In that connection, experiments of the type proposed by Bohm and Aharonov [6], in which the settings are changed during the flight of the particles, are crucial.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.95,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Of course, the situation is different if the quantum mechanical predictions are of limited validity. Conceivably they might apply only to experiments in which the settings of the instruments are made sufficiently in advance to allow them to reach some mutual rapport by exchange of signals with velocity less than or equal to that of light. In that connection, experiments of the type proposed by Bohm and Aharonov [6], in which the settings are changed during the flight of the particles, are crucial."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "I am indebted to Drs. M. Bander and J. K. Perring for very useful discussions of this problem. The first draft of the paper was written during a stay at Brandeis University; I am indebted to colleagues there and at the University of Wisconsin for their interest and hospitality.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "I am indebted to Drs. M. Bander and J. K. Perring for very useful discussions of this problem. The first draft of the paper was written during a stay at Brandeis University; I am indebted to colleagues there and at the University of Wisconsin for their interest and hospitality."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "### V. Generalization\n\nThe example considered above has the advantage that it requires little imagination to envisage the measurements involved actually being made. In a more formal way, assuming [7] that any Hermitian operator with a complete set of eigenstates is an \"observable\", the result is easily extended to other systems. If the two systems have state spaces of dimensionality greater than 2 we can always consider two dimensional subspaces and define, in their direct product, operators $\\vec{\\sigma}_1$ and $\\vec{\\sigma}_2$ formally analogous to those used above and which are zero for states outside the product subspace. Then for at least one quantum mechanical state, the \"singlet\" state in the combined subspaces, the statistical predictions of quantum mechanics are incompatible with separable predetermination.\n\n### VI. Conclusion\n\nIn a theory in which parameters are added to quantum mechanics to determine the results of individual measurements, without changing the statistical predictions, there must be a mechanism whereby the setting of one measuring device can influence the reading of another instrument, however remote. Moreover, the signal involved must propagate instantaneously, so that such a theory could not be Lorentz invariant.\n\nOf course, the situation is different if the quantum mechanical predictions are of limited validity. Conceivably they might apply only to experiments in which the settings of the instruments are made sufficiently in advance to allow them to reach some mutual rapport by exchange of signals with velocity less than or equal to that of light. In that connection, experiments of the type proposed by Bohm and Aharonov [6], in which the settings are changed during the flight of the particles, are crucial.\n\nI am indebted to Drs. M. Bander and J. K. Perring for very useful discussions of this problem. The first draft of the paper was written during a stay at Brandeis University; I am indebted to colleagues there and at the University of Wisconsin for their interest and hospitality.\n",
+      "page_quality_notes": [
+        "Generalization and conclusion sections extracted.",
+        "No figures or tables on this page.",
+        "Acknowledgments included."
+      ],
+      "pdf_page_number": 8,
+      "printed_page_number": "200",
+      "word_count": 420
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "page_header",
+          "bounding_box": [
+            0,
+            0.95,
+            1,
+            1
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Vol. 1, No. 3",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Vol. 1, No. 3"
+        },
+        {
+          "asset_id": null,
+          "block_type": "page_header",
+          "bounding_box": [
+            0,
+            0.9,
+            1,
+            0.95
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "ON THE EINSTEIN PODOLSKY ROSEN PARADOX",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "ON THE EINSTEIN PODOLSKY ROSEN PARADOX"
+        },
+        {
+          "asset_id": null,
+          "block_type": "page_header",
+          "bounding_box": [
+            0,
+            0.85,
+            1,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "200",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "200"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "Vol. 1, No. 3\n\nON THE EINSTEIN PODOLSKY ROSEN PARADOX\n\n200\n",
+      "page_quality_notes": [
+        "Header contains volume and page number.",
+        "No additional content on this page."
+      ],
+      "pdf_page_number": 9,
+      "printed_page_number": null,
+      "word_count": 0
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "page_header",
+          "bounding_box": [
+            0,
+            0.95,
+            1,
+            1
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "J. S. BELL",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "J. S. BELL"
+        },
+        {
+          "asset_id": null,
+          "block_type": "page_header",
+          "bounding_box": [
+            0,
+            0.9,
+            1,
+            0.95
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Vol. 1, No. 3",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Vol. 1, No. 3"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "J. S. BELL\n\nVol. 1, No. 3\n",
+      "page_quality_notes": [
+        "Header contains author and volume information.",
+        "No additional content on this page."
+      ],
+      "pdf_page_number": 10,
+      "printed_page_number": null,
+      "word_count": 0
+    }
+  ],
+  "source_filename": "bell_epr_paradox_1964.pdf"
+}

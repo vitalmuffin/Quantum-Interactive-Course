@@ -1,0 +1,74 @@
+{
+  "index": 74,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 109,
+      "topLeftY": 32,
+      "bottomRightX": 448,
+      "bottomRightY": 52,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 508,
+      "topLeftY": 32,
+      "bottomRightX": 532,
+      "bottomRightY": 53,
+      "content": "95",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 22,
+      "topLeftY": 72,
+      "bottomRightX": 533,
+      "bottomRightY": 173,
+      "content": "être presque en phase et, dans l'onde totale, les amplitudes rayonnées par chacun d'eux s'ajouteront. L'énergie diffusée sera alors proportionnel à $p^2$ et non plus à $p$ de sorte que le coefficient $\\sigma$ s'écrira :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 189,
+      "bottomRightX": 345,
+      "bottomRightY": 231,
+      "content": "$$\\sigma = \\frac{8\\pi}{3} \\frac{e^4}{m_0^2 c^4} p^2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 22,
+      "topLeftY": 251,
+      "bottomRightX": 533,
+      "bottomRightY": 301,
+      "content": "Quant à la répartition dans l'espace, elle sera identique à celle qu'avait prévu M. Thomson.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 20,
+      "topLeftY": 301,
+      "bottomRightX": 533,
+      "bottomRightY": 886,
+      "content": "Pour des ondes de longueurs d'onde progressivement décroissantes, la répartition dans l'espace deviendra dissymétrique, l'énergie diffusée dans le sens d'où vient la radiation étant bien plus faible que dans le sens opposé. En voici la raison : on ne peut plus regarder les vibrations des divers électrons comme en phase quand la longueur d'onde devient comparable aux distances mutuelles. Les amplitudes rayonnées dans les diverses directions ne s'ajouteront plus parce qu'elles sont déphasées et l'énergie diffusée sera moindre. Cependant, dans un cône de petite ouverture entourant le prolongement de la direction d'incidence, il y aura toujours accord de phase et les amplitudes s'ajouteront ; donc pour les directions contenues dans ce cône la diffusion sera beaucoup plus grande que pour les autres. M. Debye a d'ailleurs prévu un curieux phénomène : lorsqu'on s'écarte progressivement de l'axe du cône ci-dessus défini, l'intensité diffusée ne décroît pas tout de suite régulièrement, mais subit d'abord des variations périodiques ; on devrait donc sur un écran placé perpendiculairement au faisceau transmis observer des anneaux clairs et obscurs centrés sur la direction du faisceau. Bien que M. Debye ait cru d'abord reconnaître ce phénomène dans certains résultats expérimentaux de M. Friedrich, il ne semble pas avoir été constaté clairement jusqu'ici.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 20,
+      "topLeftY": 884,
+      "bottomRightX": 529,
+      "bottomRightY": 962,
+      "content": "Pour les courtes longueurs d'onde, les phénomènes doivent se simplifier. Le cône de forte diffusion se rétrécit de plus en plus, la répartition redevient symétrique et doit",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 174,
+      "topLeftY": 19,
+      "bottomRightX": 528,
+      "bottomRightY": 42,
+      "content": "Erzeugung und Verwandlung des Lichtes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 594,
+      "topLeftY": 19,
+      "bottomRightX": 630,
+      "bottomRightY": 37,
+      "content": "147",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 59,
+      "bottomRightX": 632,
+      "bottomRightY": 293,
+      "content": "Mit den von Hrn. Lenard beobachteten Eigenschaften der lichtelektrischen Wirkung steht unsere Auffassung, soweit ich sehe, nicht im Widerspruch. Wenn jedes Energiequant des erregenden Lichtes unabhängig von allen übrigen seine Energie an Elektronen abgibt, so wird die Geschwindigkeitsverteilung der Elektronen, d. h. die Qualität der erzeugten Kathodenstrahlung von der Intensität des erregenden Lichtes unabhängig sein; andererseits wird die Anzahl der den Körper verlassenden Elektronen der Intensität des erregenden Lichtes unter sonst gleichen Umständen proportional sein.¹)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 292,
+      "bottomRightX": 632,
+      "bottomRightY": 387,
+      "content": "Über die mutmaßlichen Gültigkeitsgrenzen der erwähnten Gesetzmäßigkeiten wären ähnliche Bemerkungen zu machen wie bezüglich der mutmaßlichen Abweichungen von der Stokeschen Regel.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 387,
+      "bottomRightX": 632,
+      "bottomRightY": 505,
+      "content": "Im vorstehenden ist angenommen, daß die Energie wenigstens eines Teiles der Energiequanten des erzeugenden Lichtes je an ein einziges Elektron vollständig abgegeben werde. Macht man diese naheliegende Voraussetzung nicht, so erhält man statt obiger Gleichung die folgende:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 270,
+      "topLeftY": 513,
+      "bottomRightX": 434,
+      "bottomRightY": 535,
+      "content": "$$\\Pi E + P' \\leq R \\beta v.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 544,
+      "bottomRightX": 632,
+      "bottomRightY": 618,
+      "content": "Für die Kathodenlumineszenz, welche den inversen Vorgang zu dem eben betrachteten bildet, erhält man durch eine der durchgeführten analoge Betrachtung:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 267,
+      "topLeftY": 624,
+      "bottomRightX": 436,
+      "bottomRightY": 647,
+      "content": "$$\\Pi E + P' \\geq R \\beta v.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 654,
+      "bottomRightX": 633,
+      "bottomRightY": 822,
+      "content": "Bei den von Hrn. Lenard untersuchten Substanzen ist $PE$ stets bedeutend größer als $R \\beta v$, da die Spannung, welche die Kathodenstrahlen durchlaufen haben müssen, um eben sichtbares Licht erzeugen zu können, in einigen Fällen einige Hundert, in anderen Tausende von Volts beträgt.²) Es ist also anzunehmen, daß die kinetische Energie eines Elektrons zur Erzeugung vieler Lichtenergiequanten verwendet wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 839,
+      "bottomRightX": 632,
+      "bottomRightY": 864,
+      "content": "§ 9. Über die Ionisierung der Gase durch ultraviolettes Licht.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 868,
+      "bottomRightX": 632,
+      "bottomRightY": 916,
+      "content": "Wir werden anzunehmen haben, daß bei der Ionisierung eines Gases durch ultraviolettes Licht je ein absorbiertes Licht-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 936,
+      "bottomRightX": 461,
+      "bottomRightY": 958,
+      "content": "1) P. Lenard, l. c. p. 150 und p. 166—168.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 956,
+      "bottomRightX": 487,
+      "bottomRightY": 978,
+      "content": "2) P. Lenard, Ann. d. Phys. 12. p. 469. 1903.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 500,
+      "topLeftY": 976,
+      "bottomRightX": 530,
+      "bottomRightY": 993,
+      "content": "10\\*",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

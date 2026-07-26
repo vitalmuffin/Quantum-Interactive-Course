@@ -1,0 +1,245 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 274,
+      "topLeftY": 102,
+      "bottomRightX": 407,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 102,
+      "bottomRightX": 583,
+      "bottomRightY": 117,
+      "content": "867",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 583,
+      "bottomRightY": 178,
+      "content": "Ist $\\boldsymbol{q}$ eine kartesische Koordinate, so ist die Größe (25) maßgebend für die Wahrscheinlichkeiten$^{1)}$ der Übergänge $n \\rightleftarrows m$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 180,
+      "bottomRightX": 347,
+      "bottomRightY": 197,
+      "content": "Wir wollen weiter fordern, daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 203,
+      "bottomRightX": 583,
+      "bottomRightY": 221,
+      "content": "$$v(jk) + v(kl) + v(lj) = 0 \\quad (27)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 226,
+      "bottomRightX": 584,
+      "bottomRightY": 265,
+      "content": "ist. Mit (26) zusammen kann das so ausgedrückt werden: Es gibt Größen $W_n$, so daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 270,
+      "bottomRightX": 583,
+      "bottomRightY": 287,
+      "content": "$$h v(nm) = W_n - W_m \\quad (28)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 291,
+      "bottomRightX": 141,
+      "bottomRightY": 306,
+      "content": "wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 310,
+      "bottomRightX": 584,
+      "bottomRightY": 347,
+      "content": "Daraus folgt, mit (2), (3), daß eine Funktion $\\boldsymbol{g}(\\boldsymbol{p}\\boldsymbol{q})$ stets wieder die Form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 347,
+      "bottomRightX": 583,
+      "bottomRightY": 366,
+      "content": "$$\\boldsymbol{g} = (g(nm) e^{2\\pi i v(nm)t}) \\quad (29)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 369,
+      "bottomRightX": 584,
+      "bottomRightY": 448,
+      "content": "erhält, und zwar geht dabei die Matrix $(g(nm))$ durch eben denselben Prozeß aus den Matrizen $(q(nm))$, $(p(nm))$ hervor, durch den $\\boldsymbol{g}$ aus $\\boldsymbol{q}$, $\\boldsymbol{p}$ erhalten wurde. Wir können deshalb statt der von nun an aufzugebenden Darstellung (24) die kürzere Schreibweise",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 453,
+      "bottomRightX": 583,
+      "bottomRightY": 473,
+      "content": "$$\\boldsymbol{q} = (q(nm)), \\boldsymbol{p} = (p(nm)) \\quad (30)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 478,
+      "bottomRightX": 156,
+      "bottomRightY": 493,
+      "content": "wählen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 497,
+      "bottomRightX": 588,
+      "bottomRightY": 536,
+      "content": "Als zeitliche Ableitung der Matrix $\\boldsymbol{g} = (g(nm))$ erhalten wir, indem wir uns noch einmal an (24) bzw. (29) erinnern, die Matrix",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 539,
+      "bottomRightX": 583,
+      "bottomRightY": 560,
+      "content": "$$\\dot{\\boldsymbol{g}} = 2\\pi i (v(nm)g(nm)). \\quad (31)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 565,
+      "bottomRightX": 584,
+      "bottomRightY": 605,
+      "content": "Wenn, wie wir annehmen wollen, $v(nm) \\neq 0$ für $n \\neq m$ ist, so bedeutet $\\dot{\\boldsymbol{g}} = 0$, daß $\\boldsymbol{g}$ eine Diagonalmatrix mit $g(nm) = \\delta_{nm}g(nn)$ ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 605,
+      "bottomRightX": 584,
+      "bottomRightY": 682,
+      "content": "Eine Differentialgleichung $\\dot{\\boldsymbol{g}} = \\boldsymbol{a}$ ist invariant gegen den Prozeß, bei dem Zeilen und Kolonnen aller Matrizen sowie die Zahlen $W_n$ derselben Permutation unterworfen werden. Um dies einzusehen, betrachten wir die Diagonalmatrix",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 682,
+      "bottomRightX": 399,
+      "bottomRightY": 701,
+      "content": "$$\\boldsymbol{W} = (\\delta_{nm}W_n);$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 700,
+      "bottomRightX": 161,
+      "bottomRightY": 715,
+      "content": "dann ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 719,
+      "bottomRightX": 486,
+      "bottomRightY": 749,
+      "content": "$$\\boldsymbol{W}\\boldsymbol{g} = (\\sum_k \\delta_{nk} W_n g(km)) = (W_n g(nm)),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 752,
+      "bottomRightX": 488,
+      "bottomRightY": 783,
+      "content": "$$\\boldsymbol{g}\\boldsymbol{W} = (\\sum_k g(nk) \\delta_{km} W_k) = (W_m g(nm)),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 783,
+      "bottomRightX": 201,
+      "bottomRightY": 799,
+      "content": "also nach (31)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 803,
+      "bottomRightX": 526,
+      "bottomRightY": 837,
+      "content": "$$\\dot{\\boldsymbol{g}} = \\frac{2\\pi i}{h} ((W_n - W_m)g(nm)) = \\frac{2\\pi i}{h} (\\boldsymbol{W}\\boldsymbol{g} - \\boldsymbol{g}\\boldsymbol{W}).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 845,
+      "bottomRightX": 539,
+      "bottomRightY": 863,
+      "content": "Ist nun $p$ eine Permutationsmatrix, so ist die Transformierte",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 869,
+      "bottomRightX": 447,
+      "bottomRightY": 890,
+      "content": "$$\\boldsymbol{W}' = \\boldsymbol{p}\\boldsymbol{W}\\boldsymbol{p}^{-1} = (\\delta_{n_k m} W_{n_k})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 904,
+      "bottomRightX": 248,
+      "bottomRightY": 920,
+      "content": "$^{1)}$ Siehe hierzu § 8.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+RECHERCHES SUR LA THÉORIE DES QUANTA
+
+29
+
+des physiciens. Tandis que MM. Lorentz, Jeans et d'autres lui faisaient de redoutables objections. M. Einstein ripostait en montrant comment l'étude des fluctuations dans le rayonnement noir conduisait aussi à la conception d'une discontinuité de l'énergie radiante. Le congrès international de physique tenu à Bruxelles en 1911 sous les auspices de M. Solvay se consacra entièrement à la question des quanta et c'est à la suite de ce congrès qu'Henri Poincaré publia peu de temps avant sa mort une série d'articles sur les quanta, montrant la nécessité d'accepter les idées de Planck.
+
+En 1913, parut la théorie de l'atome de M. Niels Bohr. Il admit avec MM. Rutherford et Van Den Broek que l'atome est formé d'un noyau positif entouré d'un nuage d'électrons, le noyau portant N charges élémentaires positives $4,77 \cdot 10^{-10}$ u. e. s., et le nombre des électrons étant N de sorte que l'ensemble est neutre. N est le nombre atomique égal au numéro d'ordre de l'élément dans la série périodique de Mendeléeff. Pour être en mesure de prévoir les fréquences optiques en particulier pour l'hydrogène dont l'atome à un seul électron est spécialement simple, Bohr fait deux hypothèses :
+
+1° Parmi l'infinité des trajectoires qu'un électron tournant autour du noyau peut décrire, certaines seulement sont stables et la condition de stabilité fait intervenir la constante de Planck. Nous préciserons au chapitre III la nature de ces conditions ; 2° Quand un électron intraatomique passe d'une trajectoire stable à une autre, il y a émission ou absorption d'un quantum d'énergie de fréquence $\nu$. La fréquence émise ou absorbée $\nu$ est donc reliée à la variation $\delta\varepsilon$ de l'énergie totale de l'atome par la relation $|\delta\varepsilon| = h\nu$.
+
+On sait quelle a été la magnifique fortune de la théorie de Bohr depuis dix ans. Elle a tout de suite permis la prévision des séries spectrales de l'hydrogène et de l'hélium ionisé : l'étude des spectres des rayons X et la fameuse loi de Moseley qui relie le nombre atomique aux repères spectraux du domaine Röntgen ont étendu considérablement le champ

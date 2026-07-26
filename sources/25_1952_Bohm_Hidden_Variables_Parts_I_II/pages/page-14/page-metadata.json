@@ -1,0 +1,155 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 139,
+      "topLeftY": 111,
+      "bottomRightX": 635,
+      "bottomRightY": 125,
+      "content": "QUANTUM THEORY IN TERMS OF \"HIDDEN\" VARIABLES. I",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 664,
+      "topLeftY": 112,
+      "bottomRightX": 685,
+      "bottomRightY": 124,
+      "content": "179",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 138,
+      "bottomRightX": 381,
+      "bottomRightY": 360,
+      "content": "assume that $\\psi$ satisfies Schroedinger's equation, that $\\mathbf{v}=\\nabla S(\\mathbf{x})/m$, and that we have a statistical ensemble with a probability density equal to $|\\psi(\\mathbf{x})|^2$, our interpretation of the quantum theory leads to physical results that are identical with those obtained from the usual interpretation. Evidence indicating the need for adopting our interpretation instead of the usual one could therefore come only from experiments, such as those involving phenomena associated with distances of the order of $10^{-13}$ cm or less, which are not now adequately understood in terms of the existing theory. In this paper we shall not, however, actually suggest any specific experimental methods of distinguishing between our interpretation and the usual one, but shall confine ourselves to demonstrating that such experiments are conceivable.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 363,
+      "bottomRightX": 381,
+      "bottomRightY": 557,
+      "content": "Now, there are an infinite number of ways of modifying the mathematical form of the theory that are consistent with our interpretation and not with the usual interpretation. We shall confine ourselves here, however, to suggesting two such modifications, which have already been indicated in Sec. 4, namely, to give up the assumption that $\\mathbf{v}$ is necessarily equal to $\\nabla S(\\mathbf{x})/m$, and to give up the assumption that $\\psi$ must necessarily satisfy a homogeneous linear equation of the general type suggested by Schroedinger. As we shall see, giving up either of those first two assumptions will in general also require us to give up the assumption of a statistical ensemble of particles, with a probability density equal to $|\\psi(\\mathbf{x})|^2$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 558,
+      "bottomRightX": 381,
+      "bottomRightY": 669,
+      "content": "We begin by noting that it is consistent with our interpretation to modify the equations of motion of a particle (8a) by adding any conceivable force term to the right-hand side. Let us, for the sake of illustration, consider a force that tends to make the difference, $\\mathbf{p}-\\nabla S(\\mathbf{x})$, decay rapidly with time, with a mean decay time of the order of $\\tau=10^{-13}/c$ seconds, where $c$ is the velocity of light. To achieve this result, we write",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 679,
+      "bottomRightX": 380,
+      "bottomRightY": 714,
+      "content": "$$m \\frac{d^2\\mathbf{x}}{dt^2} = -\\nabla \\left\\{ V(\\mathbf{x}) - \\frac{\\hbar^2}{2m} \\frac{\\nabla^2 R}{R} \\right\\} + \\mathbf{f}(\\mathbf{p} - \\nabla S(\\mathbf{x})), \\tag{31}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 724,
+      "bottomRightX": 381,
+      "bottomRightY": 823,
+      "content": "where $\\mathbf{f}(\\mathbf{p}-\\nabla S(\\mathbf{x}))$ is assumed to be a function which vanishes when $\\mathbf{p}=\\nabla S(\\mathbf{x})$ and more generally takes such a form that it implies a force tending to make $\\mathbf{p}-\\nabla S(\\mathbf{x})$ decrease rapidly with the passage of time. It is clear, moreover, that $f$ can be so chosen that it is large only in processes involving very short distances (where $\\nabla S(\\mathbf{x})$ should be large).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 823,
+      "bottomRightX": 381,
+      "bottomRightY": 893,
+      "content": "If the correct equations of motion resembled Eq. (31), then the usual interpretation would be applicable only over times much longer than $\\tau$, for only after such times have elapsed will the relation $\\mathbf{p}=\\nabla S(\\mathbf{x})$ be a good approximation. Moreover, it is clear that such modifica-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 139,
+      "bottomRightX": 686,
+      "bottomRightY": 196,
+      "content": "tions of the theory cannot even be described in the usual interpretation, because they involve the precisely definable particle variables which are not postulated in the usual interpretation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 197,
+      "bottomRightX": 686,
+      "bottomRightY": 237,
+      "content": "Let us now consider a modification that makes the equation governing $\\psi$ inhomogeneous. Such a modification is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 466,
+      "topLeftY": 241,
+      "bottomRightX": 685,
+      "bottomRightY": 256,
+      "content": "$$i\\hbar\\psi/\\partial t = H\\psi + \\xi(\\mathbf{p} - \\nabla S(\\mathbf{x}_i)). \\tag{32}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 263,
+      "bottomRightX": 686,
+      "bottomRightY": 444,
+      "content": "Here, $H$ is the usual Hamiltonian operator, $\\mathbf{x}_i$, represents the actual location of the particle, and $\\xi$ is a function that vanishes when $\\mathbf{p}=\\nabla S(\\mathbf{x}_i)$. Now, if the particle equations are chosen, as in Eq. (31), to make $\\mathbf{p}-\\nabla S(\\mathbf{x}_i)$ decay rapidly with time, it follows that in atomic processes, the inhomogeneous term in Eq. (32) will become negligibly small, so that Schroedinger's equation is a good approximation. Nevertheless, in processes involving very short distances and very short times, the inhomogeneities would be important, and the $\\psi$-field would, as in the case of the electromagnetic field, depend to some extent on the actual location of the particle.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 445,
+      "bottomRightX": 686,
+      "bottomRightY": 640,
+      "content": "It is clear that Eq. (32) is inconsistent with the usual interpretation of the theory. Moreover, we can contemplate further generalizations of Eq. (32), in the direction of introducing nonlinear terms that are large only for processes involving small distances. Since the usual interpretation is based on the hypothesis of linear superposition of \"state vectors\" in a Hilbert space, it follows that the usual interpretation could not be made consistent with such a nonlinear equation for a one-particle theory. In a many-particle theory, operators can be introduced, satisfying a nonlinear generalization of Schroedinger's equation; but these must ultimately operate on wave functions that satisfy a linear homogeneous Schroedinger equation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 641,
+      "bottomRightX": 686,
+      "bottomRightY": 830,
+      "content": "Finally, we repeat a point already made in Sec. 4, namely, that if the theory is generalized in any of the ways indicated here, the probability density of particles will cease to equal $|\\psi(\\mathbf{x})|^2$. Thus, experiments would become conceivable that distinguish between $|\\psi(\\mathbf{x})|^2$ and this probability; and in this way we could obtain an experimental proof that the usual interpretation, which gives $|\\psi(\\mathbf{x})|^2$ only a probability interpretation, must be inadequate. Moreover, we shall show in Paper II that modifications like those suggested here would permit the particle position and momentum to be measured simultaneously, so that the uncertainty principle could be violated.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 481,
+      "topLeftY": 844,
+      "bottomRightX": 599,
+      "bottomRightY": 857,
+      "content": "# ACKNOWLEDGMENT",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 864,
+      "bottomRightX": 686,
+      "bottomRightY": 893,
+      "content": "The author wishes to thank Dr. Einstein for several interesting and stimulating discussions.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

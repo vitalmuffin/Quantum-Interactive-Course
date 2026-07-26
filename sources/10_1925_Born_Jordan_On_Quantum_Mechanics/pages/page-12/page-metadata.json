@@ -1,0 +1,182 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 276,
+      "topLeftY": 103,
+      "bottomRightX": 407,
+      "bottomRightY": 118,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 555,
+      "topLeftY": 103,
+      "bottomRightX": 583,
+      "bottomRightY": 118,
+      "content": "869",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 139,
+      "bottomRightX": 585,
+      "bottomRightY": 238,
+      "content": "Denken wir uns darin die Fourierentwicklung von $L$ eingesetzt und nehmen wir den Zeitabschnitt $t_1 - t_0$ hinreichend groß, so wird nur das konstante Glied von $L$ einen Beitrag zum Integral liefern. Die Form, welche das Wirkungsprinzip damit erhält, legt folgende Übertragung in die Quantenmechanik nahe:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 238,
+      "bottomRightX": 585,
+      "bottomRightY": 290,
+      "content": "Die Diagonalsumme $D(L) = \\sum_k L(kk)$ soll zum Extremum gemacht werden:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 205,
+      "topLeftY": 294,
+      "bottomRightX": 585,
+      "bottomRightY": 314,
+      "content": "$$D(L) = D(\\boldsymbol{p}\\dot{\\boldsymbol{q}} - \\boldsymbol{H}(\\boldsymbol{p}\\boldsymbol{q})) = \\text{Extremum}, \\quad (34)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 317,
+      "bottomRightX": 585,
+      "bottomRightY": 356,
+      "content": "und zwar durch geeignete Wahl von $\\boldsymbol{p}$ und $\\boldsymbol{q}$ bei festgehaltenen $\\boldsymbol{v}(nm)$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 358,
+      "bottomRightX": 586,
+      "bottomRightY": 398,
+      "content": "Man erhält also, indem man die Ableitungen von $D(L)$ nach den Elementen von $\\boldsymbol{p}$ und $\\boldsymbol{q}$ gleich Null setzt, die Bewegungsgleichungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 402,
+      "bottomRightX": 450,
+      "bottomRightY": 480,
+      "content": "$$\\begin{aligned} 2\\pi i \\boldsymbol{v}(nm) q(nm) &= \\frac{\\partial D(\\boldsymbol{H})}{\\partial p(mn)}, \\\\ 2\\pi i \\boldsymbol{v}(mn) p(mn) &= \\frac{\\partial D(\\boldsymbol{H})}{\\partial q(mn)}. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 486,
+      "bottomRightX": 586,
+      "bottomRightY": 524,
+      "content": "Nach (26), (31) und (16) erkennt man, daß diese Bewegungsgleichungen allgemein in der kanonischen Gestalt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 302,
+      "topLeftY": 529,
+      "bottomRightX": 586,
+      "bottomRightY": 609,
+      "content": "$$\\left. \\begin{aligned} \\dot{\\boldsymbol{q}} &= \\frac{\\partial \\boldsymbol{H}}{\\partial \\boldsymbol{p}}, \\\\ \\dot{\\boldsymbol{p}} &= -\\frac{\\partial \\boldsymbol{H}}{\\partial \\boldsymbol{q}} \\end{aligned} \\right\\} \\quad (35)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 611,
+      "bottomRightX": 291,
+      "bottomRightY": 627,
+      "content": "geschrieben werden können.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 629,
+      "bottomRightX": 588,
+      "bottomRightY": 668,
+      "content": "Als Quantenbedingung verwendet Heisenberg eine von Thomas$^{1)}$ und Kuhn$^{2)}$ aufgestellte Beziehung. Die Gleichung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 674,
+      "bottomRightX": 432,
+      "bottomRightY": 731,
+      "content": "$$J = \\oint p \\, dq = \\int_0^{1/r} p \\, \\dot{q} \\, dt$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 738,
+      "bottomRightX": 589,
+      "bottomRightY": 775,
+      "content": "der „klassischen“ Quantentheorie kann, wenn man die Fourierentwicklung von $p$ und $q$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 776,
+      "bottomRightX": 487,
+      "bottomRightY": 815,
+      "content": "$$p = \\sum_{\\tau=-\\infty}^{\\infty} p_\\tau e^{2\\pi i \\nu \\tau t}, \\quad q = \\sum_{\\tau=-\\infty}^{\\infty} q_\\tau e^{2\\pi i \\nu \\tau t},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 819,
+      "bottomRightX": 326,
+      "bottomRightY": 837,
+      "content": "heranzieht, umgeformt werden in",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 258,
+      "topLeftY": 837,
+      "bottomRightX": 589,
+      "bottomRightY": 877,
+      "content": "$$1 = 2\\pi i \\sum_{\\tau=-\\infty}^{\\infty} \\tau \\frac{\\partial}{\\partial J} (q_\\tau p_{-\\tau}). \\quad (36)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 142,
+      "topLeftY": 892,
+      "bottomRightX": 379,
+      "bottomRightY": 908,
+      "content": "$^{1)}$ W. Thomas, Naturw. **13**, 627, 1925.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 142,
+      "topLeftY": 907,
+      "bottomRightX": 383,
+      "bottomRightY": 923,
+      "content": "$^{2)}$ W. Kuhn, ZS. f. Phys. **33**, 408, 1925.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

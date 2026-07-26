@@ -1,0 +1,209 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 99,
+    "height": 1018,
+    "width": 679
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 19,
+      "topLeftY": 14,
+      "bottomRightX": 46,
+      "bottomRightY": 30,
+      "content": "128",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 14,
+      "bottomRightX": 663,
+      "bottomRightY": 34,
+      "content": "Wolfke, Über Schwärzungsparabeln der Kanalstrahlen. Physik. Zeitschr. XVIII, 1917.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 17,
+      "topLeftY": 55,
+      "bottomRightX": 334,
+      "bottomRightY": 152,
+      "content": "daß sie uns dem Anschluß an die Undulations-theorie nicht näher bringt, andererseits darin, daß sie Zeit und Richtung der Elementarprozesse dem „Zufall“ überläßt; trotzdem hege ich das volle Vertrauen in die Zuverlässigkeit des eingeschlagenen Weges.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 151,
+      "bottomRightX": 334,
+      "bottomRightY": 522,
+      "content": "Noch eine allgemeine Bemerkung soll hier Platz finden. Fast alle Theorien der Temperaturstrahlung beruhen auf der Betrachtung der Wechselwirkungen zwischen Strahlung und Molekülen. Aber im allgemeinen begnügt man sich mit der Betrachtung des Energie-Austausches, ohne den Impuls-Austausch zu berücksichtigen. Man fühlt sich dazu leicht berechtigt, weil die Kleinheit der durch die Strahlung übertragenen Impulse es mit sich bringt, daß letztere gegenüber anderen bewegungserzeugenden Ursachen in der Wirklichkeit fast stets zurücktreten. Aber für die theoretische Betrachtung sind jene kleinen Wirkungen neben den ins Auge fallenden der Energieübertragung durch Strahlung als durchaus gleichwertig anzusehen, indem Energie und Impuls aufs engste miteinander verknüpft sind; es kann deshalb eine Theorie erst dann als berechtigt angesehen werden, wenn gezeigt ist, daß die nach ihr von der Strahlung auf die Materie übertragenen Impulse zu solchen Bewegungen führen, wie sie die Wärmetheorie verlangt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 154,
+      "topLeftY": 521,
+      "bottomRightX": 316,
+      "bottomRightY": 537,
+      "content": "(Eingegangen 3. März 1917.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 578,
+      "bottomRightX": 328,
+      "bottomRightY": 612,
+      "content": "## Über Schwärzungsparabeln der Kanalstrahlen auf Trockenplatten.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 620,
+      "bottomRightX": 231,
+      "bottomRightY": 637,
+      "content": "Von M. Wolfke.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 645,
+      "bottomRightX": 208,
+      "bottomRightY": 660,
+      "content": "(Mit Tafel I.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 667,
+      "bottomRightX": 328,
+      "bottomRightY": 750,
+      "content": "Bekanntlich gibt es zwei verschiedene photographische Wirkungen der Kanalstrahlen. Bei kurzer Exposition entstehen an den von Kanalstrahlen getroffenen Stellen Schwärzungen, bei längerer Exposition — eine Art Solarisation¹).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 749,
+      "bottomRightX": 328,
+      "bottomRightY": 878,
+      "content": "Zwecks Anwendung der Kanalstrahlen auf einige neue Forschungsgebiete habe ich mir vor allem die Aufgabe gestellt, mit möglichst kurzen Expositionen scharfe Parabeln zu erhalten. Hierzu ist die Solarisationsmethode nicht geeignet, da sie eine längere Expositionszeit erfordert, so daß ich auf die Schwärzungsmethode allein angewiesen war.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 877,
+      "bottomRightX": 328,
+      "bottomRightY": 927,
+      "content": "J. Koenigsberger und J. Kutschewski²), die wohl die ersten gewesen sind, welche die photographische Methode auf die Kanalstrahlen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 941,
+      "bottomRightX": 328,
+      "bottomRightY": 969,
+      "content": "1) Vgl. Bericht von T. Retschinsky, Jahrb. d. Rad. u. Elektr. 13, 75, 1916.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 967,
+      "bottomRightX": 328,
+      "bottomRightY": 995,
+      "content": "2) J. Koenigsberger und J. Kutschewski, diese Zeitschr. II, 666, 1910; Verh. d. D. Phys. G. 13, 133, 1911.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 55,
+      "bottomRightX": 665,
+      "bottomRightY": 540,
+      "content": "anwandten, suchten vergebens scharfe Schwärzungsparabeln auf Trockenplatten zu erhalten. Sie untersuchten mehrere Sorten von Trockenplatten mit negativem Resultat; auch nach mehreren Minuten der Exposition erhielten sie nur allgemeine Schwärzungen der Platten, ohne daß die Parabeln der Kanalstrahlen zu sehen waren. Nur auf einer nichtabgeschliffenen Lippmannplatte war nach 4' Expositionszeit der neutrale Fleck ohne die abgelenkten Strahlen schwach sichtbar. Bessere Resultate erhielten Koenigsberger und Kutschewski mit Chlorbromsilberpapier. Auch die Schwärzungsbilder von T. Retschinsky¹), wie aus seinen Reproduktionen zu ersehen ist²), sind nur diffuse Flecke, nicht nur zur quantitativen, sondern auch zur qualitativen Untersuchung vollkommen unbrauchbar. T. Retschinsky arbeitete deshalb ausschließlich mit der Solarisationsmethode³), die er zu einer großen Vollkommenheit ausgebildet hat. Im Gegensatz zu diesen negativen Resultaten stehen die schönen, äußerst scharfen Aufnahmen von J. J. Thomson⁴). Allerdings läßt sich aus seinen Publikationen nicht ersehen, ob die Bilder Schwärzungsparabeln oder Solarisationsbilder sind, und T. Retschinsky, gestützt auf eigene Erfahrung und das Aussehen der Thomsonschen Reproduktionen, vermutet, daß auch die Thomsonschen Aufnahmen keine Schwärzungsbilder, sondern Solarisationsbilder sind⁵).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 539,
+      "bottomRightX": 663,
+      "bottomRightY": 669,
+      "content": "Nach einigen Wochen Vorversuchen in dieser Richtung ist es mir gelungen, scharfe, zu quantitativen Messungen gut geeignete, Schwärzungsparabeln auf Trockenplatten zu erhalten. In Anbetracht des oben Gesagten ist wohl nicht ohne Interesse die näheren Versuchsbedingungen anzugeben, die die Aufnahme von scharfen Schwärzungsparabeln ermöglichen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 667,
+      "bottomRightX": 663,
+      "bottomRightY": 847,
+      "content": "Die Anordnung des Aufbaues war im Prinzip mit einigen technischen Veränderungen und Verbesserungen die gleiche wie sie in Würzburg bei W. Wien ausgearbeitet worden ist und die auch T. Retschinsky⁶) vor zwei Jahren bei seinen Versuchen in Zürich benutzte. Sei es mir gestattet, Herrn Dr. T. Retschinsky auch an dieser Stelle meinen Dank auszusprechen für seine Liebenswürdigkeit, mit der er mich seinerzeit in die Einzelheiten seiner Anordnung und die Kanalstrahltechnik eingeweiht hat.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 867,
+      "bottomRightX": 660,
+      "bottomRightY": 896,
+      "content": "1) T. Retschinsky, Ann. d. Phys. (4), 47, 525, 1915.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 894,
+      "bottomRightX": 660,
+      "bottomRightY": 909,
+      "content": "2) Vgl. l. c. Taf. VI. Fig. 1 u. 2.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 908,
+      "bottomRightX": 660,
+      "bottomRightY": 932,
+      "content": "3) T. Retschinsky, Ann. d. Phys. (4), 48, 546, 1915.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 931,
+      "bottomRightX": 660,
+      "bottomRightY": 947,
+      "content": "4) J. J. Thomson, Phil. Mag. (6), 24, 244, 1912.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 946,
+      "bottomRightX": 660,
+      "bottomRightY": 960,
+      "content": "5) T. Retschinsky, Ann. d. Phys. (4), 47, 540, 1915.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 959,
+      "bottomRightX": 660,
+      "bottomRightY": 974,
+      "content": "6) T. Retschinsky, Ann. d. Phys. (4), 47, 525, 1915.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

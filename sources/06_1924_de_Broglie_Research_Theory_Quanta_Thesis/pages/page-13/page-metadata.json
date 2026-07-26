@@ -1,0 +1,101 @@
+{
+  "index": 12,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 176,
+      "topLeftY": 24,
+      "bottomRightX": 513,
+      "bottomRightY": 50,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 574,
+      "topLeftY": 28,
+      "bottomRightX": 600,
+      "bottomRightY": 49,
+      "content": "33",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 63,
+      "bottomRightX": 600,
+      "bottomRightY": 172,
+      "content": "des quanta soit l'impossibilité d'envisager une quantité isolée d'énergie sans y associer une certaine fréquence. Cette liaison s'exprime par ce que j'appellerai la relation du quantum :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 180,
+      "bottomRightX": 443,
+      "bottomRightY": 206,
+      "content": "$$\\text{énergie} = h \\times \\text{fréquence}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 215,
+      "bottomRightX": 280,
+      "bottomRightY": 241,
+      "content": "$h$ constante de Planck.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 241,
+      "bottomRightX": 597,
+      "bottomRightY": 577,
+      "content": "Le développement progressif de la théorie des quanta a mis plusieurs fois en vedette l'action mécanique et on a cherché bien des fois à donner de la relation du quantum un énoncé faisant intervenir l'action au lieu de l'énergie. Assurément, la constante $h$ a les dimensions d'une action savoir $ML^2T^{-1}$ et cela n'est pas dû au hasard puisque la théorie de Relativité nous apprend à classer l'action parmi les principaux « invariants » de la Physique. Mais l'action est une grandeur d'un caractère très abstrait et, à la suite de nombreuses méditations sur les quanta de lumière et l'effet photoélectrique, nous avons été ramenés à prendre pour base l'énoncé énergétique, quitte ensuite à chercher pourquoi l'action joue un si grand rôle dans nombre de questions.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 568,
+      "bottomRightX": 592,
+      "bottomRightY": 754,
+      "content": "La relation du quantum n'aurait sans doute pas beaucoup de sens si l'énergie pouvait être distribuée d'une façon continue dans l'espace, mais nous venons de voir qu'il n'en est sans doute pas ainsi. On peut donc concevoir que par suite d'une grande loi de la Nature, à chaque morceau d'énergie de masse propre $m_0$ soit lié un phénomène périodique de fréquence $\\nu_0$ telle que l'on ait :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 287,
+      "topLeftY": 761,
+      "bottomRightX": 377,
+      "bottomRightY": 784,
+      "content": "$$h\\nu_0 = m_0c^2$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 793,
+      "bottomRightX": 589,
+      "bottomRightY": 901,
+      "content": "$\\nu_0$ étant mesurée, bien entendu, dans le système lié au morceau d'énergie. Cette hypothèse est la base de notre système : elle vaut, comme toutes les hypothèses, ce que valent les conséquences qu'on en peut déduire.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 892,
+      "bottomRightX": 587,
+      "bottomRightY": 973,
+      "content": "Devons-nous supposer le phénomène périodique localisé à l'intérieur du morceau d'énergie? Cela n'est nullement *Ann. de Phys.*, 10$^{e}$ série, t. III (Janvier-Février 1925) 3",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

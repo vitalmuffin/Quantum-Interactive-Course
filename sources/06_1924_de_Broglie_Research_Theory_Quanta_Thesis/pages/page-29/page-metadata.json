@@ -1,0 +1,137 @@
+{
+  "index": 28,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 153,
+      "topLeftY": 33,
+      "bottomRightX": 491,
+      "bottomRightY": 56,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 37,
+      "bottomRightX": 577,
+      "bottomRightY": 59,
+      "content": "49",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 72,
+      "bottomRightX": 576,
+      "bottomRightY": 130,
+      "content": "donnée $ct$ sera $x^4$. L'invariant fondamental « élément de longueur » est défini par :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 160,
+      "topLeftY": 139,
+      "bottomRightX": 480,
+      "bottomRightY": 169,
+      "content": "$$ds = \\sqrt{(dx^4)^2 - (dx^3)^2 - (dx^2)^2 - (dx^3)^2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 181,
+      "bottomRightX": 575,
+      "bottomRightY": 236,
+      "content": "Dans ce paragraphe et dans le suivant, nous emploierons constamment certaines notations du calcul tensoriel.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 61,
+      "topLeftY": 231,
+      "bottomRightX": 576,
+      "bottomRightY": 338,
+      "content": "Une ligne d'Univers a en chaque point une tangente définie en direction par le vecteur « vitesse d'Univers » de longueur unité dont les composantes contrevariantes sont données par la relation :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 345,
+      "bottomRightX": 465,
+      "bottomRightY": 388,
+      "content": "$$u^i = \\frac{dx^i}{ds} \\quad (i = 1, 2, 3, 4).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 61,
+      "topLeftY": 401,
+      "bottomRightX": 405,
+      "bottomRightY": 429,
+      "content": "On vérifie de suite que l'on a : $u^i u_i = 1$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 426,
+      "bottomRightX": 574,
+      "bottomRightY": 532,
+      "content": "Soit un mobile décrivant la ligne d'Univers ; quand il passe au point considéré, il possède une vitesse $v = \\beta c$ de composantes $v_x v_y v_z$. Les composantes de la vitesse d'Univers sont :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 545,
+      "bottomRightX": 530,
+      "bottomRightY": 643,
+      "content": "$$\\begin{aligned} u_1 &= -u^1 = -\\frac{v_x}{c\\sqrt{1-\\beta^2}} & u_2 &= -u^2 = -\\frac{v_y}{c\\sqrt{1-\\beta^2}} \\\\ u_3 &= -u^3 = -\\frac{v_z}{c\\sqrt{1-\\beta^2}} & u_4 &= u^4 = \\frac{1}{\\sqrt{1-\\beta^2}} \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 652,
+      "bottomRightX": 573,
+      "bottomRightY": 770,
+      "content": "Pour définir un champ électromagnétique, nous devons introduire un second vecteur d'Univers dont les composantes s'expriment en fonction du potentiel vecteur $\\vec{a}$ et du potentiel scalaire $\\Psi$ par les relations :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 774,
+      "bottomRightX": 550,
+      "bottomRightY": 843,
+      "content": "$$\\begin{aligned} \\gamma_1 &= -\\gamma^1 = -a_x; \\quad \\gamma_2 = -\\gamma^2 = -a_y; \\quad \\gamma_3 = -\\gamma^3 = -a_z \\\\ \\gamma_4 &= \\gamma^4 = \\frac{1}{c}\\Psi. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 852,
+      "bottomRightX": 571,
+      "bottomRightY": 980,
+      "content": "Considérons maintenant deux points P et Q de l'espace temps correspondant à des valeurs données des coordonnées d'espace et du temps. Nous pouvons envisager une intégrale curviligne prise le long d'une ligne d'Univers allant de P à Q ; *Ann. de Phys.*, 10$^{e}$ série, t. III (Janvier-Février 1925)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 539,
+      "topLeftY": 961,
+      "bottomRightX": 551,
+      "bottomRightY": 980,
+      "content": "4",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

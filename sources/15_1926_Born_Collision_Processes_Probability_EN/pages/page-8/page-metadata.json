@@ -1,0 +1,182 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 272,
+      "topLeftY": 47,
+      "bottomRightX": 537,
+      "bottomRightY": 62,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 666,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "8",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 94,
+      "bottomRightX": 676,
+      "bottomRightY": 146,
+      "content": "converges uniformly for every finite interval; it can then be differentiated term-wise arbitrarily often, and is then, as is easy to see, the desired solution to our differential equation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 148,
+      "bottomRightX": 676,
+      "bottomRightY": 183,
+      "content": "However, since all $u_1, u_2, \\dots$ vanish as $x \\to +\\infty$, the function $\\psi$ will be asymptotic to $u_0 = e^{ikx}$ at positive infinity.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 184,
+      "bottomRightX": 676,
+      "bottomRightY": 238,
+      "content": "In precisely the same way, one shows that there is a solution that is asymptotic to $e^{-ikx}$ as $x \\to +\\infty$. Since the general solution has only two constants, it must asymptotically have the form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 328,
+      "topLeftY": 239,
+      "bottomRightX": 676,
+      "bottomRightY": 259,
+      "content": "$$\\psi^+(x) = a e^{ikx} + b e^{-ikx} \\tag{7}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 278,
+      "bottomRightX": 676,
+      "bottomRightY": 314,
+      "content": "as $x \\to +\\infty$. Here, the degeneracy of the system makes its appearance; every energy value $W$ is associated with two values $k, -k$ and two linearly-independent solutions.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 315,
+      "bottomRightX": 676,
+      "bottomRightY": 349,
+      "content": "In an entirely similar way, it follows that the general solution must have the same form as $x \\to -\\infty$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 328,
+      "topLeftY": 350,
+      "bottomRightX": 676,
+      "bottomRightY": 372,
+      "content": "$$\\psi^-(x) = A e^{ikx} + B e^{-ikx}. \\tag{8}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 388,
+      "bottomRightX": 500,
+      "bottomRightY": 404,
+      "content": "In this, the amplitudes $A, B$ are well-defined functions of $a, b$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 407,
+      "bottomRightX": 676,
+      "bottomRightY": 466,
+      "content": "We now decompose the solution into incoming and outgoing waves; for that, we add the time factor $e^{ik\\upsilon} \\left( k\\upsilon = 2\\pi\\nu = \\frac{2\\pi}{h}W \\right)$ and set:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 485,
+      "bottomRightX": 676,
+      "bottomRightY": 532,
+      "content": "$$\\left. \\begin{array}{l} a = c_e e^{i\\varphi_e t}, \\quad A = C_a e^{i\\Phi_a t}, \\\\ b = c_a e^{-i\\varphi_a t}, \\quad B = C_e e^{-i\\Phi_e t}. \\end{array} \\right\\} \\tag{9}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 535,
+      "bottomRightX": 238,
+      "bottomRightY": 550,
+      "content": "One will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 552,
+      "bottomRightX": 676,
+      "bottomRightY": 600,
+      "content": "$$\\left. \\begin{array}{l} \\psi^+(x) = c_e e^{ik(x+\\upsilon t+\\varphi_e)} + c_a e^{-ik(x-\\upsilon t+\\varphi_a)}, \\\\ \\psi^-(x) = C_a e^{ik(x+\\upsilon t+\\Phi_a)} + C_e e^{-ik(x-\\upsilon t+\\Phi_a)}. \\end{array} \\right\\} \\tag{10}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 620,
+      "bottomRightX": 676,
+      "bottomRightY": 654,
+      "content": "The real parts of the terms that are denoted with the index $e$ represent the incoming waves, while the terms that are denoted with an $a$ represent the outgoing waves.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 656,
+      "bottomRightX": 676,
+      "bottomRightY": 694,
+      "content": "We are interested in the case in which only one wave is incoming at $x = +\\infty$. One will then have $C_e = 0$, and one can arbitrarily set $\\varphi_e = 0$, moreover. One will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 711,
+      "bottomRightX": 676,
+      "bottomRightY": 758,
+      "content": "$$\\left. \\begin{array}{l} \\psi^+(x) = c_e e^{ik(x+\\upsilon t)} + c_a e^{-ik(x-\\upsilon t+\\varphi_a)}, \\\\ \\psi^-(x) = C_a e^{ik(x+\\upsilon t+\\Phi_a)}. \\end{array} \\right\\} \\tag{11}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 778,
+      "bottomRightX": 676,
+      "bottomRightY": 832,
+      "content": "We have shown that $\\psi^-(x)$ is determined in terms of $\\psi^+(x)$ by integration; i.e., $A, B$ are well-defined functions of $a, b$. In our case $C_e = 0$, so we will have $B = 0$, and one thus has two equations of the form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 833,
+      "bottomRightX": 676,
+      "bottomRightY": 878,
+      "content": "$$\\left. \\begin{array}{l} A = A(a,b), \\\\ 0 = B(a,b). \\end{array} \\right\\} \\tag{12}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

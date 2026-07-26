@@ -1,0 +1,182 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 106,
+    "height": 1015,
+    "width": 668
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 146,
+      "topLeftY": 90,
+      "bottomRightX": 583,
+      "bottomRightY": 112,
+      "content": "*Fundamental Equations of Quantum Mechanics.* 651",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 127,
+      "bottomRightX": 586,
+      "bottomRightY": 229,
+      "content": "These equations will be true on the quantum theory for systems for which the orders of the factors of products occurring in the equations of motion are unimportant. They may be taken to be true for systems for which these orders are important if one can decide upon the orders of the factors in H. From laws IA and IIA it follows that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 297,
+      "topLeftY": 240,
+      "bottomRightX": 586,
+      "bottomRightY": 259,
+      "content": "$$\\dot{x} = [x, H] \\quad (14)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 268,
+      "bottomRightX": 298,
+      "bottomRightY": 287,
+      "content": "on the quantum theory for any $x$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 289,
+      "bottomRightX": 586,
+      "bottomRightY": 326,
+      "content": "If A is an integral of the equations of motion on the quantum theory, then",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 326,
+      "bottomRightX": 372,
+      "bottomRightY": 344,
+      "content": "$$[A, H] = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 356,
+      "bottomRightX": 588,
+      "bottomRightY": 395,
+      "content": "The action variables $J_r$ must, of course, satisfy this condition. If $A_1$ and $A_2$ are two such integrals, then, by a simple application of (13), it follows that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 406,
+      "bottomRightX": 390,
+      "bottomRightY": 425,
+      "content": "$$[A_1, A_2] = \\text{const.}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 432,
+      "bottomRightX": 248,
+      "bottomRightY": 449,
+      "content": "as on the classical theory.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 451,
+      "bottomRightX": 588,
+      "bottomRightY": 490,
+      "content": "The conditions on the classical theory that a set of variables $P_r, Q_r$ shall be canonical are",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 235,
+      "topLeftY": 489,
+      "bottomRightX": 423,
+      "bottomRightY": 508,
+      "content": "$$[Q_r, Q_s] = 0 \\quad [P_r, P_s] = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 519,
+      "bottomRightX": 375,
+      "bottomRightY": 537,
+      "content": "$$[Q_r, P_s] = \\delta_{rs}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 549,
+      "bottomRightX": 589,
+      "bottomRightY": 588,
+      "content": "These equations may be taken over into the quantum theory as the conditions for the quantum variables $P_r, Q_r$ to be canonical.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 589,
+      "bottomRightX": 589,
+      "bottomRightY": 630,
+      "content": "On the classical theory we can introduce the set of canonical variables $\\xi_r, \\eta_r$ related to the uniformising variables $J_r, w_r$, by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 129,
+      "topLeftY": 639,
+      "bottomRightX": 530,
+      "bottomRightY": 659,
+      "content": "$$\\xi_r = (2\\pi)^{-\\frac{1}{2}} J_r^{\\frac{1}{2}} \\exp. 2\\pi i w_r, \\quad \\eta_r = -i (2\\pi)^{-\\frac{1}{2}} J_r^{\\frac{1}{2}} \\exp. -2\\pi i w_r.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 670,
+      "bottomRightX": 590,
+      "bottomRightY": 814,
+      "content": "Presumably there will be a corresponding set of canonical variables on the quantum theory, each containing only one kind of component, so that $\\xi_r(nm) = 0$ except when $m_r = n_r - 1$ and $m_s = n_s (s \\neq r)$, and $\\eta_r(nm) = 0$ except when $m_r = n_r + 1$ and $m_s = n_s (s \\neq r)$. One may consider the existence of such variables as the condition for the system to be multiply periodic on the quantum theory. The components of the Heisenberg products of $\\xi_r$ and $\\eta_r$ satisfy the relation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 144,
+      "topLeftY": 823,
+      "bottomRightX": 590,
+      "bottomRightY": 843,
+      "content": "$$\\xi_r \\eta_r(nn) = \\xi_r(nm) \\eta_r(mn) = \\eta_r(mn) \\xi_r(nm) = \\eta_r \\xi_r(mm) \\quad (15)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 853,
+      "bottomRightX": 590,
+      "bottomRightY": 873,
+      "content": "where the $m$'s are related to the $n$'s by the formulae $m_r = n_r - 1$, $m_s = n_s (s \\neq r)$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 873,
+      "bottomRightX": 590,
+      "bottomRightY": 913,
+      "content": "The classical $\\xi$'s and $\\eta$'s satisfy $\\xi_r \\eta_r = -i/2\\pi \\cdot J_r$. This relation does not necessarily hold between the quantum $\\xi$'s and $\\eta$'s. The quantum relation",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

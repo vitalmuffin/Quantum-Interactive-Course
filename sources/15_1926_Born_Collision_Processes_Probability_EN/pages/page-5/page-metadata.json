@@ -1,0 +1,146 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 272,
+      "topLeftY": 46,
+      "bottomRightX": 538,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 666,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "5",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 96,
+      "bottomRightX": 666,
+      "bottomRightY": 132,
+      "content": "and expect that $|c(k)|^2$ will then be the measure of the frequency for the interval $\\frac{1}{2\\pi} dk$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 133,
+      "bottomRightX": 675,
+      "bottomRightY": 170,
+      "content": "For a mixture of atoms for which the eigenfunctions appear in the distribution that is given by $c(k)$, let the number that is analogous to § 1, (4) be represented by the integral:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 235,
+      "topLeftY": 187,
+      "bottomRightX": 675,
+      "bottomRightY": 227,
+      "content": "$$\\int_{-\\infty}^{+\\infty} |\\psi(x)|^2 dx = \\frac{1}{(2\\pi)^2} \\int_{-\\infty}^{+\\infty} dx \\left| \\int_{-\\infty}^{+\\infty} c(k) e^{ikx} dk \\right|^2. \\tag{6}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 249,
+      "bottomRightX": 610,
+      "bottomRightY": 268,
+      "content": "If we take the case in which only the small interval $k_1 \\le k \\le k_2$ is occupied then:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 287,
+      "bottomRightX": 545,
+      "bottomRightY": 325,
+      "content": "$$\\int_{-\\infty}^{+\\infty} c(k) e^{ikx} dk = \\bar{c} \\int_{k_1}^{k_2} e^{ikx} dk = \\frac{\\bar{c}}{ix} (e^{ik_2 x} - e^{ik_1 x}),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 343,
+      "bottomRightX": 423,
+      "bottomRightY": 360,
+      "content": "in which $\\bar{c}$ is a mean value. One will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 380,
+      "bottomRightX": 535,
+      "bottomRightY": 483,
+      "content": "$$\\begin{aligned} \\int_{-\\infty}^{+\\infty} |\\psi(x)|^2 dx &= \\frac{|\\bar{c}|^2}{4\\pi^2} \\int_{-\\infty}^{+\\infty} \\frac{dx}{x^2} (e^{ik_2 x} - e^{ik_1 x})(e^{-ik_2 x} - e^{-ik_1 x}) \\\\ &= \\frac{|\\bar{c}|^2}{4\\pi^2} 4 \\int_{-\\infty}^{+\\infty} \\frac{dx}{x^2} \\sin^2 \\frac{k_2 - k_1}{2} = \\frac{1}{2\\pi} |\\bar{c}|^2 (k_2 - k_1). \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 500,
+      "bottomRightX": 675,
+      "bottomRightY": 537,
+      "content": "Now, according to de Broglie, the impulse of the translatory motion that belongs to the eigenfunction (8) is equal to:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 325,
+      "topLeftY": 538,
+      "bottomRightX": 675,
+      "bottomRightY": 574,
+      "content": "$$p = \\frac{h}{\\lambda} = \\frac{h}{2\\pi} k. \\tag{7}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 594,
+      "bottomRightX": 675,
+      "bottomRightY": 646,
+      "content": "It is, perhaps, not superfluous to remark that one can also formulate this as a “matrix”; one must then define the matrices in the continuous spectrum here, not by integrals, but by mean values:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 233,
+      "topLeftY": 647,
+      "bottomRightX": 528,
+      "bottomRightY": 745,
+      "content": "$$\\begin{aligned} p(k, k') &= \\frac{h}{2\\pi i} \\lim_{a \\to \\infty} \\frac{1}{2a} \\int_{-a}^{+a} \\psi'(k, x) \\frac{\\partial \\psi(k', x)}{\\partial x} dx \\\\ &= \\frac{h}{2\\pi i} \\lim_{a \\to \\infty} \\frac{1}{2a} \\int_{-a}^{+a} e^{-ikx} ik' e^{ik'x} dx. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 233,
+      "topLeftY": 764,
+      "bottomRightX": 675,
+      "bottomRightY": 827,
+      "content": "$$p(k, k') = \\begin{cases} \\frac{h}{2\\pi} k & \\text{ for } k = k', \\\\ 0 & \\text{ \" } k \\neq k'. \\end{cases} \\tag{8}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 850,
+      "bottomRightX": 558,
+      "bottomRightY": 886,
+      "content": "If one now replaces $\\Delta k = k_2 - k_1$ with $\\frac{2\\pi}{h} \\Delta p$ then one will finally have:",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

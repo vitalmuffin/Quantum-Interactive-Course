@@ -1,0 +1,254 @@
+{
+  "index": 16,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 136,
+      "bottomRightX": 319,
+      "bottomRightY": 150,
+      "content": "the moment of inertia of the nuclei at equilibrium.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 153,
+      "bottomRightX": 643,
+      "bottomRightY": 183,
+      "content": "A discussion of the higher approximation is meaningless unless we consider the degeneracies; we will not attempt this here.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 186,
+      "bottomRightX": 644,
+      "bottomRightY": 236,
+      "content": "We will now show briefly that one can treat the diatomic by a completely different perturbation procedure; the classical analogue of this treatment was carried out by Born and Hückel [5]. The motion of the electronic system is considered to be unperturbed not for stationary nuclei but rather for uniform rotation of the nuclei.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 260,
+      "bottomRightX": 390,
+      "bottomRightY": 275,
+      "content": "### Part VIII. Independent Treatment of the Diatomic Molecule.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 287,
+      "bottomRightX": 382,
+      "bottomRightY": 303,
+      "content": "We go back to equation (12), and rewrite, substituting (11):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 313,
+      "bottomRightX": 457,
+      "bottomRightY": 334,
+      "content": "$$\\left\\{H_{0}+\\kappa^{4}\\left(H_{\\xi\\xi}+H_{\\xi\\theta}+H_{\\theta\\theta}\\right)-W\\right\\}\\psi=0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 344,
+      "bottomRightX": 643,
+      "bottomRightY": 377,
+      "content": "Diatomic molecules have the peculiarity that $H_{\\xi\\theta}$ is generally independent of the $\\theta$. In this case, the method enables separation from the translations and rotations. From (81), dropping the translational terms:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 385,
+      "bottomRightX": 643,
+      "bottomRightY": 420,
+      "content": "$$\\left\\{H_{0}-\\frac{h^{2}\\mu}{8\\pi^{2}m}\\kappa^{4}\\left(\\frac{\\partial^{2}}{\\partial\\xi^{2}}+\\frac{2}{\\xi}\\frac{\\partial}{\\partial\\xi}+\\frac{1}{\\xi^{2}}\\Delta_{\\theta}\\right)-W\\right\\}\\psi=0. \\tag{96}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 428,
+      "bottomRightX": 112,
+      "bottomRightY": 441,
+      "content": "We set",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 305,
+      "topLeftY": 446,
+      "bottomRightX": 643,
+      "bottomRightY": 462,
+      "content": "$$\\psi=Y_{r}(\\theta,\\omega)\\Psi_{r}(x;\\xi), \\tag{97}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 471,
+      "bottomRightX": 429,
+      "bottomRightY": 485,
+      "content": "where $Y_{r}$ is a spherical function of $r$th order which satisfies the equation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 302,
+      "topLeftY": 498,
+      "bottomRightX": 414,
+      "bottomRightY": 514,
+      "content": "$$\\Delta_{\\theta}Y_{r}+r(r+1)Y_{r}=0;$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 528,
+      "bottomRightX": 237,
+      "bottomRightY": 541,
+      "content": "thus we find for $\\Psi_{r}$ the condition",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 222,
+      "topLeftY": 550,
+      "bottomRightX": 643,
+      "bottomRightY": 585,
+      "content": "$$\\left\\{H_{0}-\\frac{h^{2}\\mu}{8\\pi^{2}m}\\kappa^{4}\\left(\\frac{\\partial^{2}}{\\partial\\xi^{2}}+\\frac{2}{\\xi}\\frac{\\partial}{\\partial\\xi}-\\frac{r(r+1)}{\\xi^{2}}\\right)-W\\right\\}\\Psi_{r}=0. \\tag{98}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 594,
+      "bottomRightX": 642,
+      "bottomRightY": 624,
+      "content": "We again substitute $\\xi+\\kappa\\zeta$ for $\\xi$; thus considering vibrations about the state of uniform rotation. Denoting the energy of this state as:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 270,
+      "topLeftY": 621,
+      "bottomRightX": 643,
+      "bottomRightY": 653,
+      "content": "$$R=\\frac{h^{2}\\mu\\kappa^{2}}{8\\pi^{2}m}\\frac{r(r+1)}{\\xi^{2}}=\\frac{h^{2}}{8\\pi^{2}J}r(r+1) \\tag{99}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 658,
+      "bottomRightX": 132,
+      "bottomRightY": 673,
+      "content": "and setting",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 328,
+      "topLeftY": 675,
+      "bottomRightX": 642,
+      "bottomRightY": 689,
+      "content": "$$W=E+R, \\tag{100}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 699,
+      "bottomRightX": 154,
+      "bottomRightY": 712,
+      "content": "we find for (98)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 262,
+      "topLeftY": 713,
+      "bottomRightX": 643,
+      "bottomRightY": 734,
+      "content": "$$\\left(\\mathsf{H}^{(0)}+\\kappa\\mathsf{H}^{(1)}+\\kappa^{2}\\mathsf{H}^{(2)}+\\cdots-\\mathsf{E}\\right)\\Psi_{r}=0 \\tag{101}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 741,
+      "bottomRightX": 109,
+      "bottomRightY": 753,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 262,
+      "topLeftY": 765,
+      "bottomRightX": 338,
+      "bottomRightY": 785,
+      "content": "$$\\mathsf{H}^{(0)}=H_{0}^{(0)}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 787,
+      "bottomRightX": 367,
+      "bottomRightY": 805,
+      "content": "$$\\mathsf{H}^{(1)}=H_{0}^{(1)}+\\zeta R'$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 808,
+      "bottomRightX": 642,
+      "bottomRightY": 840,
+      "content": "$$\\mathsf{H}^{(2)}=H_{0}^{(2)}+\\frac{1}{2}\\zeta^{2}R''-\\frac{h^{2}\\mu}{8\\pi^{2}m}\\frac{\\partial^{2}}{\\partial\\zeta^{2}} \\tag{102}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 843,
+      "bottomRightX": 453,
+      "bottomRightY": 873,
+      "content": "$$\\mathsf{H}^{(3)}=H_{0}^{(3)}+\\frac{1}{6}\\zeta^{3}R'''-\\frac{h^{2}\\mu}{8\\pi^{2}m}\\frac{2}{\\zeta}\\frac{\\partial}{\\partial\\zeta}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 265,
+      "topLeftY": 875,
+      "bottomRightX": 286,
+      "bottomRightY": 886,
+      "content": "$$\\cdots;$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 352,
+      "topLeftY": 895,
+      "bottomRightX": 366,
+      "bottomRightY": 906,
+      "content": "17",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

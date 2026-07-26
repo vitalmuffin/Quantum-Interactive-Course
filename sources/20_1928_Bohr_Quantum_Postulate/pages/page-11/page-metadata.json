@@ -1,0 +1,92 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 91,
+    "height": 1022,
+    "width": 779
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 125,
+      "topLeftY": 98,
+      "bottomRightX": 149,
+      "bottomRightY": 113,
+      "content": "590",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 96,
+      "bottomRightX": 526,
+      "bottomRightY": 115,
+      "content": "Supplement to \"Nature,\" April 14, 1928",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 124,
+      "bottomRightX": 385,
+      "bottomRightY": 295,
+      "content": "representation of electromagnetism and gravitation proposed by Kaluza. In fact, the conservation of electricity appears in this theory as an analogue to the conservation theorems for energy and momentum. Just as these concepts are complementary to the space-time description, the appropriateness of the ordinary four-dimensional description as well as its symbolical utilisation in the quantum theory would, as Klein emphasises, seem to depend essentially on the circumstance that in this description electricity always appears in well-defined units, the conjugated fifth dimension being as a consequence not open to observation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 295,
+      "bottomRightX": 384,
+      "bottomRightY": 738,
+      "content": "Quite apart from these unsolved deep-going problems, the classical electron theory up to the present time has been the guide for a further development of the correspondence description in connexion with the idea first advanced by Compton that the ultimate electrical particles, besides their mass and charge, are endowed with a magnetic moment due to an angular momentum determined by the quantum of action. This assumption, introduced with striking success by Goudsmit and Uhlenbeck into the discussion of the origin of the anomalous Zeeman effect, has proved most fruitful in connexion with the new methods, as shown especially by Heisenberg and Jordan. One might say, indeed, that the hypothesis of the magnetic electron, together with the resonance problem elucidated by Heisenberg (Zeits. f. Phys., 41, 239; 1927), which occurs in the quantum-theoretical description of the behaviour of atoms with several electrons, have brought the correspondence interpretation of the spectral laws and the periodic system to a certain degree of completion. The principles underlying this attack have even made it possible to draw conclusions regarding the properties of atomic nuclei. Thus Dennison (Proc. Roy. Soc., A, vol. 115, 483; 1927), in connexion with ideas of Heisenberg and Hund, has succeeded recently in a very interesting way in showing how the explanation of the specific heat of hydrogen, hitherto beset with difficulties, can be harmonised with the assumption that the proton is endowed with a moment of momentum of the same magnitude as that of the electron. Due to its larger mass, however, a magnetic moment much smaller than that of the electron must be associated with the proton.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 738,
+      "bottomRightX": 381,
+      "bottomRightY": 801,
+      "content": "The insufficiency of the methods hitherto developed as concerns the problem of the elementary particles appears in the questions just mentioned from the fact that they do not allow of an unambiguous explanation of the difference in the",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 123,
+      "bottomRightX": 674,
+      "bottomRightY": 503,
+      "content": "behaviour of the electric elementary particles and the 'individuals' symbolised through the conception of light quanta expressed in the so-called exclusion principle formulated by Pauli. In fact, we meet in this principle, so important for the problem of atomic structure as well as for the recent development of statistical theories, with one among several possibilities, each of which fulfils the correspondence requirement. Moreover, the difficulty of satisfying the relativity requirement in quantum theory appears in a particularly striking light in connexion with the problem of the magnetic electron. Indeed, it seemed not possible to bring the promising attempts made by Darwin and Pauli in generalising the new methods to cover this problem naturally, in connexion with the relativity kinematical consideration of Thomas so fundamental for the interpretation of experimental results. Quite recently, however, Dirac (Proc. of the Roy. Soc., A, 117, 610; 1928) has been able successfully to attack the problem of the magnetic electron through a new ingenious extension of the symbolical method and so to satisfy the relativity requirement without abandoning the agreement with spectral evidence. In this attack not only the imaginary complex quantities appearing in the earlier procedures are involved, but his fundamental equations themselves contain quantities of a still higher degree of complexity, that are represented by matrices.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 391,
+      "topLeftY": 503,
+      "bottomRightX": 673,
+      "bottomRightY": 801,
+      "content": "Already the formulation of the relativity argument implies essentially the union of the space-time co-ordination and the demand of causality characterising the classical theories. In the adaptation of the relativity requirement to the quantum postulate we must therefore be prepared to meet with a renunciation as to visualisation in the ordinary sense going still further than in the formulation of the quantum laws considered here. Indeed, we find ourselves here on the very path taken by Einstein of adapting our modes of perception borrowed from the sensations to the gradually deepening knowledge of the laws of Nature. The hindrances met with on this path originate above all in the fact that, so to say, every word in the language refers to our ordinary perception. In the quantum theory we meet this difficulty at once in the question of the inevitability of the feature of irrationality characterising the quantum postulate. I hope, however, that the idea of complementarity is suited to characterise the situation, which bears a deep-going analogy to the general difficulty in the formation of human ideas, inherent in the distinction between subject and object.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 891,
+      "bottomRightX": 508,
+      "bottomRightY": 903,
+      "content": "Printed in Great Britain by R. & R. CLARK, LIMITED, Edinburgh.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 338,
+      "topLeftY": 957,
+      "bottomRightX": 479,
+      "bottomRightY": 969,
+      "content": "© 1928 Nature Publishing Group",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

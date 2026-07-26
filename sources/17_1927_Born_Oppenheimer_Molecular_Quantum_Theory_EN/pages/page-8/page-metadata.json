@@ -1,0 +1,227 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 132,
+      "bottomRightX": 644,
+      "bottomRightY": 186,
+      "content": "where $\\left(H_{0}^{(1)}\\right)_{nn}$ is the diagonal matrix element of the operator $H_{0}^{(1)}$ relative to the $x_{i}$, thus by (28b) a homogeneous linear function of $\\zeta_{i}$. This must however, by (38), be constant, since $\\chi_{n}^{(0)}(\\zeta,\\theta)$ cannot vanish identically without the same being true for $\\psi_{n}^{(0)}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 189,
+      "bottomRightX": 192,
+      "bottomRightY": 202,
+      "content": "Thus it follows that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 290,
+      "topLeftY": 202,
+      "bottomRightX": 643,
+      "bottomRightY": 224,
+      "content": "$$W^{(1)} = 0, \\quad \\left(H_{0}^{(1)}\\right)_{nn} = 0. \\tag{39}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 228,
+      "bottomRightX": 264,
+      "bottomRightY": 243,
+      "content": "From (26a) and (17) we have however",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 240,
+      "bottomRightX": 430,
+      "bottomRightY": 274,
+      "content": "$$\\left(H_{0}^{(1)}\\right)_{nn} = V_{n}^{(1)} = \\sum_{i} \\zeta_{i} \\frac{\\partial V_{n}}{\\partial \\xi_{i}}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 278,
+      "bottomRightX": 107,
+      "bottomRightY": 291,
+      "content": "Thus:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 335,
+      "topLeftY": 287,
+      "bottomRightX": 643,
+      "bottomRightY": 318,
+      "content": "$$\\frac{\\partial V_{n}}{\\partial \\xi_{i}} = 0. \\tag{40}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 321,
+      "bottomRightX": 644,
+      "bottomRightY": 387,
+      "content": "The validity of continuing our approximation procedure requires that the relative nuclear coordinates $\\xi_{i}$ must not be arbitrarily chosen, but must correspond to an extremum of the electronic energy $V_{n}(\\xi)$. The existence of this is therefore the condition for the existence of the molecule, a law which is usually assumed to be self-evident. We will show later that it must necessarily be a minimum as well.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 388,
+      "bottomRightX": 643,
+      "bottomRightY": 424,
+      "content": "The function $\\chi_{n}^{(0)}(\\zeta,\\theta)$ remains, as yet, undetermined. Setting in (37) $W_{n}^{(0)} = V_{n}(\\xi)$, $W_{n}^{(1)} = 0$ and $\\psi_{n}^{(0)} = \\chi_{n}^{(0)}\\phi_{n}^{(0)}$ we find the equation which determines $\\phi_{n}^{(1)}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 276,
+      "topLeftY": 431,
+      "bottomRightX": 643,
+      "bottomRightY": 452,
+      "content": "$$\\left(H_{0}^{(0)} - V_{n}^{(0)}\\right)\\psi_{n}^{(1)} = -H_{0}^{(1)}\\phi_{n}^{(0)}\\chi_{n}^{(0)}. \\tag{41}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 459,
+      "bottomRightX": 644,
+      "bottomRightY": 494,
+      "content": "A solution of this by (25a) is $\\psi_{n}^{(1)} = \\chi_{n}^{(0)}\\phi_{n}^{(1)}$ where $\\phi_{n}^{(1)}$ is the function (19a) defined by (18). The general solution is obtained by adding a solution $\\phi_{n}^{(0)}$ of the homogeneous equation with the yet undetermined factor $\\chi_{n}^{(1)}(\\xi,\\theta)$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 297,
+      "topLeftY": 503,
+      "bottomRightX": 643,
+      "bottomRightY": 523,
+      "content": "$$\\psi_{n}^{(1)} = \\chi_{n}^{(0)}\\phi_{n}^{(1)} + \\chi_{n}^{(1)}\\phi_{n}^{(0)}. \\tag{42}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 542,
+      "bottomRightX": 554,
+      "bottomRightY": 557,
+      "content": "### Part V. Solution of the Approximate Equations of second and third Order:Nuclear Vibration",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 570,
+      "bottomRightX": 644,
+      "bottomRightY": 601,
+      "content": "We now reach the approximation equation (35c), which after substitution of the solutions for the lower order approximations is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 233,
+      "topLeftY": 609,
+      "bottomRightX": 643,
+      "bottomRightY": 654,
+      "content": "$$\\begin{array}{l} \\left(H_{0}^{(0)} - V_{n}^{(0)}\\right)\\psi_{n}^{(2)} = \\left(W_{n}^{(2)} - H_{0}^{(2)} - H_{\\zeta\\zeta}^{(0)}\\right)\\chi_{n}^{(0)}\\phi_{n}^{(0)} \\\\ \\quad - H_{0}^{(1)}\\left(\\chi_{n}^{(0)}\\phi_{n}^{(1)} + \\chi_{n}^{(1)}\\phi_{n}^{(0)}\\right). \\tag{43} \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 661,
+      "bottomRightX": 643,
+      "bottomRightY": 694,
+      "content": "In order for this to be solvable, the right-hand side must again be orthogonal to $\\phi_{n}^{(0)}$; using the notation of part II this yields, because of (39):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 694,
+      "bottomRightX": 463,
+      "bottomRightY": 717,
+      "content": "$$\\left\\{\\left(H_{0}^{(2)} + H_{\\zeta\\zeta}^{(0)}\\right)_{nn} + \\left(H_{0}^{(1)}\\right)_{nn} - W_{n}^{(2)}\\right\\}\\chi_{n}^{(0)} = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 719,
+      "bottomRightX": 269,
+      "bottomRightY": 736,
+      "content": "It follows from (26b) with $V_{n}^{(1)} = 0$ that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 734,
+      "bottomRightX": 643,
+      "bottomRightY": 758,
+      "content": "$$\\left(H_{0}^{(2)}\\right)_{nn} + \\left(H_{0}^{(1)}\\right)_{nn}^{(1)} = V_{n}^{(2)}. \\tag{44}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 761,
+      "bottomRightX": 384,
+      "bottomRightY": 782,
+      "content": "Since $H_{\\zeta\\zeta}^{(0)}$ by (30a) is seen to be independent of the $x_{k}$ we find:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 287,
+      "topLeftY": 789,
+      "bottomRightX": 643,
+      "bottomRightY": 810,
+      "content": "$$\\left\\{H_{\\xi\\xi}^{(0)} + V_{n}^{(2)} - W_{n}^{(2)}\\right\\}\\chi_{n}^{(0)} = 0. \\tag{45}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 817,
+      "bottomRightX": 643,
+      "bottomRightY": 848,
+      "content": "Noting the meanings of $H_{\\zeta\\zeta}^{(0)}$ and $V_{n}^{(2)}$ given by (17c) and (30a) we see that (45) represents the equation for harmonic nuclear vibration:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 847,
+      "bottomRightX": 643,
+      "bottomRightY": 890,
+      "content": "$$\\left\\{H_{\\zeta\\zeta}^{(0)}\\left(\\xi_{i}\\frac{\\partial^{2}}{\\partial\\zeta_{i}\\partial\\zeta_{j}}\\right) + \\frac{1}{2}\\sum_{ij}\\zeta_{i}\\zeta_{j}\\frac{\\partial^{2}V_{n}}{\\partial\\xi_{i}\\partial\\xi_{j}} - W_{n}^{(2)}\\right\\}\\chi_{n}^{(0)} = 0. \\tag{46}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 355,
+      "topLeftY": 895,
+      "bottomRightX": 363,
+      "bottomRightY": 906,
+      "content": "8",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

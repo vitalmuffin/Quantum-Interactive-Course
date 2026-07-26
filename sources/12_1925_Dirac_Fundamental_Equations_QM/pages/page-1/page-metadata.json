@@ -1,0 +1,138 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 56,
+      "topLeftY": 93,
+      "bottomRightX": 335,
+      "bottomRightY": 157,
+      "content": "Royal Society Publishing\nInforming the science\nof the future",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 214,
+      "bottomRightX": 392,
+      "bottomRightY": 230,
+      "content": "# The Fundamental Equations of Quantum Mechanics",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 229,
+      "bottomRightX": 220,
+      "bottomRightY": 245,
+      "content": "Author(s): P. A. M. Dirac",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 245,
+      "bottomRightX": 618,
+      "bottomRightY": 274,
+      "content": "Source: Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, Vol. 109, No. 752 (Dec. 1, 1925), pp. 642-653",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 274,
+      "bottomRightX": 252,
+      "bottomRightY": 288,
+      "content": "Published by: The Royal Society",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 287,
+      "bottomRightX": 319,
+      "bottomRightY": 303,
+      "content": "Stable URL: http://www.jstor.org/stable/94441",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 305,
+      "bottomRightX": 235,
+      "bottomRightY": 319,
+      "content": "Accessed: 03/02/2011 04:27",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 344,
+      "bottomRightX": 666,
+      "bottomRightY": 403,
+      "content": "Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in the JSTOR archive only for your personal, non-commercial use.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 417,
+      "bottomRightX": 627,
+      "bottomRightY": 446,
+      "content": "Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at http://www.jstor.org/action/showPublisher?publisherCode=rs1.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 461,
+      "bottomRightX": 663,
+      "bottomRightY": 489,
+      "content": "Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed page of such transmission.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 503,
+      "bottomRightX": 669,
+      "bottomRightY": 548,
+      "content": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 875,
+      "bottomRightX": 130,
+      "bottomRightY": 955,
+      "content": "![img-0.jpeg](img-0.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-0.jpeg"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 875,
+      "bottomRightX": 663,
+      "bottomRightY": 901,
+      "content": "The Royal Society is collaborating with JSTOR to digitize, preserve and extend access to Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 955,
+      "bottomRightX": 159,
+      "bottomRightY": 969,
+      "content": "http://www.jstor.org",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

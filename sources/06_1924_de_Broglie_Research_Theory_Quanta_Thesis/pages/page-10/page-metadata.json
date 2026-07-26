@@ -1,0 +1,56 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 638
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 58,
+      "topLeftY": 38,
+      "bottomRightX": 82,
+      "bottomRightY": 59,
+      "content": "30",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 35,
+      "bottomRightX": 388,
+      "bottomRightY": 56,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 71,
+      "bottomRightX": 586,
+      "bottomRightY": 714,
+      "content": "de son application. MM. Sommerfeld, Epstein, Schwarzschild, Bohr lui-même et d'autres ont perfectionné la théorie, énoncé des conditions de quantification plus générales, expliqué les effets Stark et Zeemann, interprété les spectres optiques dans leurs détails, etc. Mais la signification profonde des quanta est restée inconnue. L'étude de l'effet photoélectrique des rayons X par M. Maurice de Broglie, celle de l'effet photoélectrique des rayons $\\gamma$ due à MM. Rutherford et Ellis ont de plus en plus accentué le caractère corpusculaire de ces radiations, le quantum d'énergie $h\\nu$ semblant chaque jour davantage constituer un véritable atome de lumière. Mais les objections anciennes contre cette vue subsistaient et, même dans le domaine des rayons X, la théorie des ondulations remportait de beaux succès : prévision des phénomènes d'interférence de Laue et des phénomènes de diffusion (travaux de Debye, de W.-L. Bragg, etc.). Cependant, tout récemment, la diffusion à son tour a été soumise au point de vue corpusculaire par M. H.-A. Compton : ses travaux théoriques et expérimentaux ont montré qu'un électron diffusant une radiation doit subir une certaine impulsion comme dans un choc ; naturellement l'énergie du quantum de radiation s'en trouve diminuée et, par suite, la radiation diffusée présente une fréquence variable suivant la direction de diffusion et plus faible que la fréquence de la radiation incidente.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 707,
+      "bottomRightX": 591,
+      "bottomRightY": 918,
+      "content": "Bref, le moment semblait venu de tenter un effort dans le but d'unifier les points de vue corpusculaire et ondulatoire et d'approfondir un peu le sens véritable des quanta. C'est ce que nous avons fait récemment et la présente thèse a pour principal objet de présenter un exposé plus complet des idées nouvelles que nous avons proposées, des succès auxquels elles nous ont conduit et aussi des très nombreuses lacunes qu'elles contiennent (¹).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 927,
+      "bottomRightX": 591,
+      "bottomRightY": 979,
+      "content": "(¹) Citons ici quelques ouvrages où sont traitées des questions relatives aux quanta :",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

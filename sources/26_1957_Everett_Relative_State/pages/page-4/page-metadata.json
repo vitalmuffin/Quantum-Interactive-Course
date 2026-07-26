@@ -1,0 +1,92 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 150,
+      "bottomRightX": 604,
+      "bottomRightY": 202,
+      "content": "the volume, it ultimately disappears into nothingness. Attempts to define the total energy for a closed space collapse to the vacuous statement, zero equals zero.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 204,
+      "bottomRightX": 604,
+      "bottomRightY": 272,
+      "content": "How are a quantum description of a closed universe, of approximate measurements, and of a system that contains an observer to be made? These three questions have one feature in common, that they all inquire about the *quantum mechanics* that is *internal to an isolated system*.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 273,
+      "bottomRightX": 604,
+      "bottomRightY": 412,
+      "content": "No way is evident to apply the conventional formulation of quantum mechanics to a system that is not subject to *external* observation. The whole interpretive scheme of that formalism rests upon the notion of external observation. The probabilities of the various possible outcomes of the observation are prescribed exclusively by Process 1. Without that part of the formalism there is no means whatever to ascribe a physical interpretation to the conventional machinery. But Process 1 is out of the question for systems not subject to external observation.$^{5}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 438,
+      "bottomRightX": 603,
+      "bottomRightY": 487,
+      "content": "### 3. Quantum Mechanics Internal to an Isolated System",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 500,
+      "bottomRightX": 604,
+      "bottomRightY": 606,
+      "content": "This paper proposes to regard pure wave mechanics (Process 2 only) as a complete theory. It postulates that a wave function that obeys a linear wave equation everywhere and at all times supplies a complete mathematical model for every isolated physical system without exception. It further postulates that every system that is subject to external observation can be regarded as part of a larger isolated system.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 606,
+      "bottomRightX": 604,
+      "bottomRightY": 675,
+      "content": "The wave function is taken as the basic physical entity with *no a priori* interpretation. Interpretation only comes *after* an investigation of the logical structure of the theory. Here as always the theory itself sets the framework for its interpretation.$^{6}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 676,
+      "bottomRightX": 604,
+      "bottomRightY": 763,
+      "content": "For any interpretation it is necessary to put the mathematical model of the theory into correspondence with experience. For this purpose it is necessary to formulate abstract models for observers that can be treated within the theory itself as physical systems, to consider isolated systems containing such model observers in interaction with other subsystems, to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 773,
+      "bottomRightX": 604,
+      "bottomRightY": 803,
+      "content": "$^{5}$See in particular the discussion of this point by N. Bohr and L. Rosenfeld, Kgl. Danske Videnskab. Selskab, Mat.-fys. Medd. **12**, No. 8 (1933).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 833,
+      "bottomRightX": 373,
+      "bottomRightY": 848,
+      "content": "4",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

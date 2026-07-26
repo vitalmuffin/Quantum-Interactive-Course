@@ -1,0 +1,218 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 101,
+      "bottomRightX": 419,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 551,
+      "topLeftY": 101,
+      "bottomRightX": 581,
+      "bottomRightY": 117,
+      "content": "567",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 138,
+      "bottomRightX": 581,
+      "bottomRightY": 197,
+      "content": "Die Bedeutung der Gleichung (8), Kap. 1, beruht darauf, daß aus ihr der Hermitesche Charakter der Matrizen $\\pmb{p}$, $\\pmb{q}$ folgt; denn nach (22), Kap. 1, wird ¹)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 190,
+      "bottomRightX": 484,
+      "bottomRightY": 212,
+      "content": "$$\\pmb{q}^* = \\pmb{S}^* \\pmb{q}_0^* \\pmb{S}^{*-1} = \\hat{\\pmb{S}}^{-1} \\hat{\\pmb{q}}_0 \\hat{\\pmb{S}} = \\hat{\\pmb{q}},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 212,
+      "bottomRightX": 222,
+      "bottomRightY": 229,
+      "content": "und analog für $\\pmb{p}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 231,
+      "bottomRightX": 581,
+      "bottomRightY": 268,
+      "content": "In erster Näherung folgt aus (26), Kap. 1, wie in der klassischen Theorie:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 301,
+      "topLeftY": 266,
+      "bottomRightX": 581,
+      "bottomRightY": 286,
+      "content": "$$\\pmb{W}_1 = \\overline{\\pmb{H}}_1; \\quad (29)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 286,
+      "bottomRightX": 151,
+      "bottomRightY": 303,
+      "content": "sodann",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 300,
+      "bottomRightX": 581,
+      "bottomRightY": 338,
+      "content": "$$S_1(mn) = \\frac{H_1(mn)}{h v_0(mn)} (1 - \\delta_{mn}). \\quad (30)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 344,
+      "bottomRightX": 582,
+      "bottomRightY": 403,
+      "content": "Dieser Ausdruck erfüllt in der Tat die Bedingung (28), Kap. 1, wegen der Voraussetzung, daß $H_1$ eine Hermitesche Form ist. Nunmehr kann man die Energie in zweiter Näherung berechnen und findet:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 222,
+      "topLeftY": 408,
+      "bottomRightX": 581,
+      "bottomRightY": 446,
+      "content": "$$W_2 = \\overline{H}_2 + \\frac{1}{h} \\sum_l' \\frac{H_1(nl) H_1(ln)}{v_0(nl)}, \\quad (31)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 451,
+      "bottomRightX": 582,
+      "bottomRightY": 490,
+      "content": "wo der Akzent am Summenzeichen bedeutet, daß die Glieder mit verschwindendem Nenner ($l = n$) fortzulassen sind.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 491,
+      "bottomRightX": 582,
+      "bottomRightY": 550,
+      "content": "In dieser Weise kann man fortfahren und sukzessive alle Glieder der Reihen $\\pmb{W}$ und $\\pmb{S}$ bestimmen. Setzt man die Reihe für $\\pmb{S}$ in (22), Kap. 1, ein, so erhält man die Entwicklungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 556,
+      "bottomRightX": 446,
+      "bottomRightY": 575,
+      "content": "$$\\pmb{q} = \\pmb{q}_0 + \\lambda \\pmb{q}_1 + \\lambda^2 \\pmb{q}_2 + \\cdots,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 575,
+      "bottomRightX": 441,
+      "bottomRightY": 595,
+      "content": "$$\\pmb{p} = \\pmb{p}_0 + \\lambda \\pmb{p}_1 + \\lambda^2 \\pmb{p}_2 + \\cdots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 601,
+      "bottomRightX": 535,
+      "bottomRightY": 619,
+      "content": "mit bekannten Koeffizienten. So lautet z. B. die erste Näherung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 623,
+      "bottomRightX": 415,
+      "bottomRightY": 643,
+      "content": "$$\\pmb{q}_1 = \\pmb{S}_1 \\pmb{q}_0 - \\pmb{q}_0 \\pmb{S}_1,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 643,
+      "bottomRightX": 415,
+      "bottomRightY": 664,
+      "content": "$$\\pmb{p}_1 = \\pmb{S}_1 \\pmb{p}_0 - \\pmb{p}_0 \\pmb{S}_1;$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 662,
+      "bottomRightX": 217,
+      "bottomRightY": 679,
+      "content": "oder ausführlich:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 154,
+      "topLeftY": 678,
+      "bottomRightX": 582,
+      "bottomRightY": 760,
+      "content": "$$\\left. \\begin{aligned} q_1(mn) &= \\frac{1}{h} \\sum_k' \\left( \\frac{H_1(mk) q_0(kn)}{v_0(mk)} - \\frac{q_0(mk) H_1(kn)}{v_0(kn)} \\right) \\\\ p_1(mn) &= \\frac{1}{h} \\sum_k' \\left( \\frac{H_1(mk) q_0(kn)}{v_0(mk)} - \\frac{q_0(mk) H_1(kn)}{v_0(kn)} \\right) \\end{aligned} \\right\\}. \\quad (32)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 765,
+      "bottomRightX": 584,
+      "bottomRightY": 843,
+      "content": "Die Formeln (32), Kap. 1, bedeuten die Ergebnisse der Kramersschen Dispersionstheorie ²) im Grenzfall unendlich kleiner Frequenz des äußeren Feldes; diese Möglichkeit einer einfachen Ableitung der sonst auf Grund von Korrespondenzbetrachtungen gewonnenen Formeln scheint uns sehr",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 854,
+      "bottomRightX": 407,
+      "bottomRightY": 875,
+      "content": "¹) Man beachte die Rechenregel $(\\tilde{\\pmb{a}}\\tilde{\\pmb{b}}) = \\tilde{\\pmb{b}}\\tilde{\\pmb{a}}$.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 872,
+      "bottomRightX": 584,
+      "bottomRightY": 919,
+      "content": "²) H. A. Kramers, Nature 113, 673, 1924; 114, 310, 1924. Vgl. auch R. Ladenburg, ZS. f. Phys. 4, 451, 1921; R. Ladenburg und F. Reiche, Naturwiss. 11, 584, 1923.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

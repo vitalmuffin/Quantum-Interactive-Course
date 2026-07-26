@@ -1,0 +1,56 @@
+{
+  "index": 20,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 173,
+      "topLeftY": 25,
+      "bottomRightX": 512,
+      "bottomRightY": 45,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 573,
+      "topLeftY": 25,
+      "bottomRightX": 596,
+      "bottomRightY": 45,
+      "content": "41",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 65,
+      "bottomRightX": 599,
+      "bottomRightY": 243,
+      "content": "représenterons sur notre papier le plan *otx* contenant l'axe du temps et la dite trajectoire. Dans ces conditions, la ligne d'Univers du mobile est figurée par une droite inclinée de moins de 45° sur l'axe du temps; cette ligne est d'ailleurs l'axe du temps pour l'observateur lié au mobile. Nous représentons sur notre figure les 2 axes du temps se coupant à l'origine, ce qui ne restreint pas la généralité.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 245,
+      "bottomRightX": 598,
+      "bottomRightY": 630,
+      "content": "Si la vitesse du mobile pour l'observateur fixe est $\\beta c$, la pente de $Ot'$ a pour valeur $\\frac{1}{\\beta}$. La droite $ox'$, trace sur le plan $tox$ de l'espace de l'observateur entraîné au temps $O$, est symétrique de $Ot'$ par rapport à la bissectrice $OD$; il est facile de le démontrer analytiquement au moyen de la transformation de Lorentz, mais cela résulte immédiatement du fait que la vitesse-limite de l'énergie $c$ a la même valeur pour tous les systèmes de référence. La pente de $Ox'$ est donc $\\beta$. Si l'espace entourant le mobile est le siège d'un phénomène périodique, l'état de l'espace redeviendra le même pour l'observateur entraîné chaque fois que se sera écoulé un temps $\\frac{1}{c} \\overline{OA} = \\frac{1}{c} \\overline{AB}$ égal à la période propre $T_0 = \\frac{1}{\\nu_0} = \\frac{h}{m_0 c^2}$ du phénomène.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 634,
+      "bottomRightX": 596,
+      "bottomRightY": 938,
+      "content": "Les droites parallèles à $ox'$ sont donc les traces de ces « espaces équiphases » de l'observateur entraîné sur le plan $xot$. Les points... $a'$, $o$, $a$... représentent en projection leurs intersections avec l'espace de l'observateur fixe à l'instant $O$; ces intersections de 2 espaces à 3 dimensions sont des surfaces à 2 dimensions et même des plans parce que tous les espaces ici considérés sont euclidiens. Lorsque le temps s'écoule pour l'observateur fixe, la section de l'espace-temps qui, pour lui, est l'espace, est représentée par une droite parallèle à $ox$ se déplaçant d'un mouvement uniforme vers les $t$ croissants. On voit facilement que les plans équiphases... $a'$, $o$, $a$... se déplacent dans l'espace de l'observateur",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

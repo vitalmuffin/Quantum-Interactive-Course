@@ -1,0 +1,200 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 135,
+      "bottomRightX": 644,
+      "bottomRightY": 237,
+      "content": "This equation shows that the function $V_n(\\xi)$ plays the role of a potential energy for the nuclei, up to terms of 2nd order. For the existence of a stable molecule there is a further condition that the extremum of $V_n(\\xi)$ determined by (40) must be a minimum; then the quadratic form $V_n^{(2)}$ must be positive definite, thereby all degrees of freedom $\\zeta_i$ stable and oscillating about the equilibrium configuration are possible. It is known that the equation for the vibration (46) is separable through a linear transformation of the $\\zeta_i$ to normal coordinates $\\eta_i$. If $\\sigma_{ns}^{(0)}(\\zeta)$ be the normalized eigensolution of (46) belonging to the eigenvalue $W_{ns}^{(2)}$, the general solution is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 265,
+      "topLeftY": 247,
+      "bottomRightX": 642,
+      "bottomRightY": 282,
+      "content": "$$\\begin{array}{l} a) \\quad W^{(2)} = W_{ns}^{(2)}, \\quad \\chi_n^{(0)} = \\chi_{ns}^{(0)}, \\text{ where} \\\\ b) \\quad \\chi_{ns}^{(0)} = \\rho_{ns}^{(0)}(\\theta)\\sigma_{ns}^{(0)}(\\zeta). \\end{array} \\tag{47}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 296,
+      "bottomRightX": 641,
+      "bottomRightY": 328,
+      "content": "The index $s$ thus represents the set of vibrational quantum numbers. $\\rho_{ns}^{(0)}$ is an, as yet, undetermined function of the $\\theta_i$, the introduction of which is necessary for the continuation of the procedure.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 331,
+      "bottomRightX": 644,
+      "bottomRightY": 415,
+      "content": "It is known that $\\sigma_{ns}^{(0)}(\\zeta)$ is a linear combination of products of orthogonal Hermite functions for the individual normal coordinates $\\eta_i$; these functions have the property that they approach zero very rapidly (exponentially) outside the limit of classical vibration. So our substitution of $(\\xi + \\kappa\\zeta)$ is justified since it indeed leads to a solution, with regard to the $\\xi$-oscillation within the limit, which vanish with $\\kappa$. We apply the further property of the orthogonal Hermite functions that they are either even or odd functions of their argument.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 418,
+      "bottomRightX": 484,
+      "bottomRightY": 432,
+      "content": "Let $\\Phi$ be any operator on the $\\zeta_i$. We can then construct the corresponding matrix",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 300,
+      "topLeftY": 442,
+      "bottomRightX": 642,
+      "bottomRightY": 473,
+      "content": "$$\\Phi_{nn'}_{ss'} = \\int \\overline{\\sigma_{n's'}^{(0)}}\\Phi\\sigma_{ns}^{(0)}\\mathrm{d}\\zeta \\tag{48}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 481,
+      "bottomRightX": 336,
+      "bottomRightY": 496,
+      "content": "where $\\mathrm{d}\\zeta$ is the volume element in the space of the $\\zeta_i$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 499,
+      "bottomRightX": 476,
+      "bottomRightY": 515,
+      "content": "In order to solve equation (43) we substitute on the right-hand side, using (45),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 525,
+      "bottomRightX": 430,
+      "bottomRightY": 546,
+      "content": "$$\\left(W_{ns}^{(2)} - H_{\\zeta\\zeta}^{(0)}\\right)\\chi_{ns}^{(0)} = V_n^{(2)}\\chi_{ns}^{(0)};$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 557,
+      "bottomRightX": 171,
+      "bottomRightY": 571,
+      "content": "(43) then becomes:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 572,
+      "bottomRightX": 642,
+      "bottomRightY": 593,
+      "content": "$$\\left(H_0^{(0)} - V_n^{(0)}\\right)\\psi_n^{(2)} = \\left(V_n^{(2)} - H_0^{(2)}\\right)\\chi_{ns}^{(0)}\\phi_n^{(0)} - H_0^{(1)}\\left(\\chi_{ns}^{(0)}\\phi_n^{(1)} + \\chi_{ns}^{(1)}\\phi_n^{(0)}\\right). \\tag{49}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 599,
+      "bottomRightX": 188,
+      "bottomRightY": 613,
+      "content": "The general solution is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 614,
+      "bottomRightX": 642,
+      "bottomRightY": 634,
+      "content": "$$\\psi_n^{(2)} = \\chi_{ns}^{(0)}\\phi_n^{(2)} + \\chi_{ns}^{(1)}\\phi_n^{(1)} + \\chi_{ns}^{(2)}\\phi_n^{(0)}, \\tag{50}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 640,
+      "bottomRightX": 595,
+      "bottomRightY": 656,
+      "content": "where $\\chi_{ns}^{(2)}$ denotes a new, undetermined function of the $\\zeta_i, \\theta_i$; this is easily verified using the identities (25).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 659,
+      "bottomRightX": 644,
+      "bottomRightY": 691,
+      "content": "We now consider the approximation equation of 3rd order (35d); after substitution of the already determined quantities, this becomes:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 205,
+      "topLeftY": 702,
+      "bottomRightX": 642,
+      "bottomRightY": 768,
+      "content": "$$\\begin{array}{l} \\left(H_0^{(0)} - V_n^{(0)}\\right)\\psi_n^{(3)} = \\left(W^{(3)} - H_0^{(3)} - H_{\\zeta\\theta}^{(0)} - H_{\\zeta\\zeta}^{(1)}\\right)\\chi_{ns}^{(0)}\\phi_n^{(0)} \\\\ + \\quad \\left(W_{ns}^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)}\\right)\\left(\\chi_{ns}^{(0)}\\phi_n^{(1)} + \\chi_{ns}^{(1)}\\phi_n^{(0)}\\right) \\\\ - \\quad H_0^{(1)}\\left(\\chi_{ns}^{(0)}\\phi_n^{(2)} + \\chi_{ns}^{(1)}\\phi_n^{(1)} + \\chi_{ns}^{(2)}\\phi_n^{(0)}\\right). \\end{array} \\tag{51}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 779,
+      "bottomRightX": 440,
+      "bottomRightY": 795,
+      "content": "We may consider the right-hand side as a development in the $\\phi_n^{(0)}$; we write",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 805,
+      "bottomRightX": 642,
+      "bottomRightY": 835,
+      "content": "$$\\left(H_0^{(0)} - V_n^{(0)}\\right)\\psi_n^{(3)} = W^{(3)}\\chi_{ns}^{(0)}\\phi_n^{(0)} - \\sum_{n'} F_{nn'}^{(3)}\\phi_{n'}^{(0)}, \\tag{52}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 846,
+      "bottomRightX": 108,
+      "bottomRightY": 858,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 261,
+      "topLeftY": 859,
+      "bottomRightX": 642,
+      "bottomRightY": 879,
+      "content": "$$F_{nn'}^{(3)} = F_{nn'}^{(3,1)}\\chi_{ns}^{(2)} + F_{nn'}^{(3,2)}\\chi_{ns}^{(1)} + F_{nn'}^{(3,3)}\\chi_{ns}^{(0)}; \\tag{53}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 355,
+      "topLeftY": 895,
+      "bottomRightX": 363,
+      "bottomRightY": 906,
+      "content": "9",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

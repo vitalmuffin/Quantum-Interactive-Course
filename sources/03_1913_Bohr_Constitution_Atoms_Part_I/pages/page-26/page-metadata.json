@@ -1,0 +1,137 @@
+{
+  "index": 25,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 600
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 153,
+      "topLeftY": 85,
+      "bottomRightX": 448,
+      "bottomRightY": 106,
+      "content": "Formation of Molecules of the Elements.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 501,
+      "topLeftY": 87,
+      "bottomRightX": 523,
+      "bottomRightY": 104,
+      "content": "25",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 111,
+      "bottomRightX": 525,
+      "bottomRightY": 176,
+      "content": "of every electron round the centre of its orbit will in the permanent state of the system be equal to $\\frac{h}{2\\pi}$, where $h$ is Planck's constant\\*\\*.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 174,
+      "bottomRightX": 525,
+      "bottomRightY": 262,
+      "content": "In analogy with the considerations on p. 23, we shall assume that a configuration satisfying this condition is stable if the total energy of the system is less than in any neighbouring configuration satisfying the same condition of the angular momentum of the electrons.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 260,
+      "bottomRightX": 525,
+      "bottomRightY": 350,
+      "content": "As mentioned in the introduction, the above hypothesis will be used in a following communication as a basis for a theory of the constitution of atoms and molecules. It will be shown that it leads to results which seem to be in conformity with experiments on a number of different phenomena.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 348,
+      "bottomRightX": 525,
+      "bottomRightY": 437,
+      "content": "The foundation of the hypothesis has been sought entirely in its relation with Planck's theory of radiation; by help of considerations given later it will be attempted to throw some further light on the foundation of it from another point of view.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 439,
+      "bottomRightX": 177,
+      "bottomRightY": 456,
+      "content": "April 5, 1913.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 489,
+      "bottomRightX": 525,
+      "bottomRightY": 561,
+      "content": "II. *On the Formation of the Molecules of the Elements and their Compounds, with Atoms as constituted on the Corpuscular-Ring Theory.* By ALBERT C. CREHORE, *Ph.D.*†",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 564,
+      "bottomRightX": 354,
+      "bottomRightY": 581,
+      "content": "[Plates I. & II.]",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 266,
+      "topLeftY": 586,
+      "bottomRightX": 330,
+      "bottomRightY": 604,
+      "content": "### PART I.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 609,
+      "bottomRightX": 525,
+      "bottomRightY": 839,
+      "content": "**R**EASONS have been given that make it seem very probable that the atoms are constituted, as suggested by Sir J. J. Thomson, of masses of positive electrification within which negative electrons are revolving. The electrons take positions of dynamical equilibrium due to their mutual action upon each other, and upon the positive electricity. The present investigation aims, first, to obtain more exact information concerning these atoms themselves, and, second, to examine the manner in which two or more such atoms, either of the same or of different kinds, must act upon each other when brought within molecular range. To anticipate the results which are later described it is found that such atoms come to definite positions of stable equilibrium",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 843,
+      "bottomRightX": 525,
+      "bottomRightY": 902,
+      "content": "\\* In the considerations leading to this hypothesis we have assumed that the velocity of the electrons is small compared with the velocity of light. The limits of the validity of this assumption will be discussed in Part II.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 902,
+      "bottomRightX": 294,
+      "bottomRightY": 918,
+      "content": "† Communicated by the Author.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 288,
+      "bottomRightX": 12,
+      "bottomRightY": 724,
+      "content": "Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

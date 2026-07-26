@@ -1,0 +1,83 @@
+{
+  "index": 30,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 155,
+      "bottomRightX": 587,
+      "bottomRightY": 186,
+      "content": "Since $\\psi_\\Delta(x, t)$ is equal to $\\psi(x - \\Delta, t)$, the close connection between $p_k$ and the $x$-derivative of the wave function is established.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 190,
+      "bottomRightX": 587,
+      "bottomRightY": 219,
+      "content": "Angular momentum operators are related in an analogous way to rotations.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 221,
+      "bottomRightX": 587,
+      "bottomRightY": 384,
+      "content": "The derivative with respect to $t_{i+1}$ of $S(x_{i+1}, t_{i+1}; x_i, t_i)$ appears in the definition of $H_i$. The derivative with respect to $t_{i+1}$ defines $p_i$. But the derivative with respect to $t_{i+1}$ of $S(x_{i+1}, t_{i+1}; x_i, t_i)$ is related to the derivative with respect to $x_{i+1}$, for the function $S(x_{i+1}, t_{i+1}; x_i, t_i)$ defined by (55) satisfies the Hamilton-Jacobi equation. Thus, the Hamilton-Jacobi equation is an equation expressing $H_i$, in terms of the $p_i$. In other words, it expresses the fact that time displacements of states are related to space displacements of the same states. This idea leads directly to a derivation of the Schroedinger equation which is far more elegant than the one exhibited in deriving Eq. (30).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 406,
+      "bottomRightX": 461,
+      "bottomRightY": 425,
+      "content": "## 11. Inadequacies of the Formulation",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 439,
+      "bottomRightX": 587,
+      "bottomRightY": 570,
+      "content": "The formulation given here suffers from a serious drawback. The mathematical concepts needed are new. At present, it requires an unnatural and cumbersome subdivision of the time interval to make the meaning of the equations clear. Considerable improvement can be made through the use of the notation and concepts of the mathematics of functionals. However, it was thought best to avoid this in a first presentation. One needs, in addition, an appropriate measure for the space of the argument functions $x(t)$ of the functionals.$^{22}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 571,
+      "bottomRightX": 587,
+      "bottomRightY": 701,
+      "content": "It is also incomplete from the physical standpoint. One of the most important characteristics of quantum mechanics is its invariance under unitary transformations. These correspond to the canonical transformations of classical mechanics. Of course, the present formulation, being equivalent to ordinary formulations, can be mathematically demonstrated to be invariant under these transformations. However, it has not been formulated in such a way that it is *physically* obvious that it is invariant. This incompleteness shows itself in a definite way. No direct procedure has been outlined to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 709,
+      "bottomRightX": 587,
+      "bottomRightY": 804,
+      "content": "$^{22}$There are very interesting mathematical problems involved in the attempt to avoid the subdivision and limiting processes. Some sort of complex measure is being associated with the space of functions $x(t)$. Finite results can be obtained under unexpected circumstances because the measure is not positive everywhere, but the contributions from most of the paths largely cancel out. These curious mathematical problems are sidestepped by the subdivision process. However, one feels as Cavalieri must have felt calculating the volume of a pyramid before the invention of calculus.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "31",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

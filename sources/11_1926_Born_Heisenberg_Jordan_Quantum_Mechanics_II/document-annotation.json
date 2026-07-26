@@ -1,0 +1,2380 @@
+{
+  "document_id": "01_1925_born_heisenberg_jordan_quantum_mechanics_ii",
+  "source_filename": "Zur_Quantenmechanik_II.pdf",
+  "metadata": {
+    "title_original": "Zur Quantenmechanik. II.",
+    "title_normalized": "Zur Quantenmechanik. II.",
+    "authors": [
+      "M. Born",
+      "W. Heisenberg",
+      "P. Jordan"
+    ],
+    "publication_year": 1925,
+    "original_language": "de",
+    "journal": "Zeitschrift für Physik",
+    "volume": "35",
+    "issue": null,
+    "page_range": "557-615",
+    "doi": "10.1007/BF01379806",
+    "received_date": "16. November 1925",
+    "abstract_original": "Die aus Heisenbergs Ansätzen in Teil I dieser Arbeit entwickelte Quantenmechanik wird auf Systeme von beliebig vielen Freiheitsgraden ausgedehnt. Die Störungstheorie wird für nicht entartete und eine große Klasse entarteter Systeme durchgeführt und ihr Zusammenhang mit der Eigenwerttheorie Hermitescher Formen nachgewiesen. Die gewonnenen Resultate werden zur Ableitung der Sätze über Impuls und Drehimpuls und zur Ableitung von Auswahlregeln und Intensitätsformeln benutzt. Schließlich werden die Ansätze der Theorie auf die Statistik der Eigenschwingungen eines Hohlraumes angewendet."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "557",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "Zur Quantenmechanik. II.",
+          "markdown": "# Zur Quantenmechanik. II.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Von M. Born, W. Heisenberg und P. Jordan in Göttingen.",
+          "markdown": "Von **M. Born**, **W. Heisenberg** und **P. Jordan** in Göttingen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Eingegangen am 16. November 1925.)",
+          "markdown": "(Eingegangen am 16. November 1925.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die aus Heisenbergs Ansätzen in Teil I dieser Arbeit entwickelte Quantenmechanik wird auf Systeme von beliebig vielen Freiheitsgraden ausgedehnt. Die Störungstheorie wird für nicht entartete und eine große Klasse entarteter Systeme durchgeführt und ihr Zusammenhang mit der Eigenwerttheorie Hermitescher Formen nachgewiesen. Die gewonnenen Resultate werden zur Ableitung der Sätze über Impuls und Drehimpuls und zur Ableitung von Auswahlregeln und Intensitätsformeln benutzt. Schließlich werden die Ansätze der Theorie auf die Statistik der Eigenschwingungen eines Hohlraumes angewendet.",
+          "markdown": "Die aus Heisenbergs Ansätzen in Teil I dieser Arbeit entwickelte Quantenmechanik wird auf Systeme von beliebig vielen Freiheitsgraden ausgedehnt. Die Störungstheorie wird für nicht entartete und eine große Klasse entarteter Systeme durchgeführt und ihr Zusammenhang mit der Eigenwerttheorie Hermitescher Formen nachgewiesen. Die gewonnenen Resultate werden zur Ableitung der Sätze über Impuls und Drehimpuls und zur Ableitung von Auswahlregeln und Intensitätsformeln benutzt. Schließlich werden die Ansätze der Theorie auf die Statistik der Eigenschwingungen eines Hohlraumes angewendet.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Einleitung.",
+          "markdown": "## Einleitung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die vorliegende Arbeit versucht den weiteren Ausbau der Theorie einer allgemeinen quantentheoretischen Mechanik, deren physikalische und mathematische Grundlagen in zwei vorausgegangenen Arbeiten der Verfasser¹⁾ dargestellt sind. Es erwies sich als möglich, die genannte Theorie auf Systeme von mehreren Freiheitsgraden zu erweitern²⁾ (Kap. 2) und durch Einführung der „kanonischen Transformationen“ das Problem der Integration der Bewegungsgleichungen auf bekannte mathematische Fragestellungen zurückzuführen; dabei ergab sich mittels dieser Theorie der kanonischen Transformationen einerseits eine Störungstheorie (Kap. 1, § 4), die eine weitgehende Ähnlichkeit mit der klassischen Störungstheorie aufweist, andererseits ein Zusammenhang der Quantenmechanik mit der mathematisch so hochentwickelten Theorie der quadratischen Formen unendlich vieler Variablen (Kap. 3). — Bevor wir aber auf die Darstellung dieser weiteren Entwicklung der Theorie eingehen, werden wir ihren physikalischen Inhalt genauer zu umgrenzen suchen.",
+          "markdown": "Die vorliegende Arbeit versucht den weiteren Ausbau der Theorie einer allgemeinen quantentheoretischen Mechanik, deren physikalische und mathematische Grundlagen in zwei vorausgegangenen Arbeiten der Verfasser¹⁾ dargestellt sind. Es erwies sich als möglich, die genannte Theorie auf Systeme von mehreren Freiheitsgraden zu erweitern²⁾ (Kap. 2) und durch Einführung der „kanonischen Transformationen“ das Problem der Integration der Bewegungsgleichungen auf bekannte mathematische Fragestellungen zurückzuführen; dabei ergab sich mittels dieser Theorie der kanonischen Transformationen einerseits eine Störungstheorie (Kap. 1, § 4), die eine weitgehende Ähnlichkeit mit der klassischen Störungstheorie aufweist, andererseits ein Zusammenhang der Quantenmechanik mit der mathematisch so hochentwickelten Theorie der quadratischen Formen unendlich vieler Variablen (Kap. 3). — Bevor wir aber auf die Darstellung dieser weiteren Entwicklung der Theorie eingehen, werden wir ihren physikalischen Inhalt genauer zu umgrenzen suchen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ W. Heisenberg, ZS. f. Phys. 33, 879, 1925. M. Born und P. Jordan, ZS. f. Phys. 34, 858, 1925. Im folgenden als (Teil) I zitiert.",
+          "markdown": "¹⁾ W. Heisenberg, *ZS. f. Phys.* **33**, 879, 1925. M. Born und P. Jordan, *ZS. f. Phys.* **34**, 858, 1925. Im folgenden als (Teil) I zitiert.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²⁾ Anm. bei der Korr. In einer inzwischen erschienenen Arbeit von P. Dirac (Proc. Roy. Soc. London 109, 642, 1925) sind unabhängig einige der in Teil I und in dieser Arbeit enthaltenen Gesetzmäßigkeiten und weitere neue Folgerungen aus der Theorie angegeben worden.",
+          "markdown": "²⁾ Anm. bei der Korr. In einer inzwischen erschienenen Arbeit von P. Dirac (*Proc. Roy. Soc. London* **109**, 642, 1925) sind unabhängig einige der in Teil I und in dieser Arbeit enthaltenen Gesetzmäßigkeiten und weitere neue Folgerungen aus der Theorie angegeben worden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Zur Quantenmechanik. II.\n\nVon **M. Born**, **W. Heisenberg** und **P. Jordan** in Göttingen.\n\n(Eingegangen am 16. November 1925.)\n\nDie aus Heisenbergs Ansätzen in Teil I dieser Arbeit entwickelte Quantenmechanik wird auf Systeme von beliebig vielen Freiheitsgraden ausgedehnt. Die Störungstheorie wird für nicht entartete und eine große Klasse entarteter Systeme durchgeführt und ihr Zusammenhang mit der Eigenwerttheorie Hermitescher Formen nachgewiesen. Die gewonnenen Resultate werden zur Ableitung der Sätze über Impuls und Drehimpuls und zur Ableitung von Auswahlregeln und Intensitätsformeln benutzt. Schließlich werden die Ansätze der Theorie auf die Statistik der Eigenschwingungen eines Hohlraumes angewendet.\n\n## Einleitung.\n\nDie vorliegende Arbeit versucht den weiteren Ausbau der Theorie einer allgemeinen quantentheoretischen Mechanik, deren physikalische und mathematische Grundlagen in zwei vorausgegangenen Arbeiten der Verfasser¹⁾ dargestellt sind. Es erwies sich als möglich, die genannte Theorie auf Systeme von mehreren Freiheitsgraden zu erweitern²⁾ (Kap. 2) und durch Einführung der „kanonischen Transformationen“ das Problem der Integration der Bewegungsgleichungen auf bekannte mathematische Fragestellungen zurückzuführen; dabei ergab sich mittels dieser Theorie der kanonischen Transformationen einerseits eine Störungstheorie (Kap. 1, § 4), die eine weitgehende Ähnlichkeit mit der klassischen Störungstheorie aufweist, andererseits ein Zusammenhang der Quantenmechanik mit der mathematisch so hochentwickelten Theorie der quadratischen Formen unendlich vieler Variablen (Kap. 3). — Bevor wir aber auf die Darstellung dieser weiteren Entwicklung der Theorie eingehen, werden wir ihren physikalischen Inhalt genauer zu umgrenzen suchen.\n\n¹⁾ W. Heisenberg, *ZS. f. Phys.* **33**, 879, 1925. M. Born und P. Jordan, *ZS. f. Phys.* **34**, 858, 1925. Im folgenden als (Teil) I zitiert.\n\n²⁾ Anm. bei der Korr. In einer inzwischen erschienenen Arbeit von P. Dirac (*Proc. Roy. Soc. London* **109**, 642, 1925) sind unabhängig einige der in Teil I und in dieser Arbeit enthaltenen Gesetzmäßigkeiten und weitere neue Folgerungen aus der Theorie angegeben worden.",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "558",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Der Ausgangspunkt der versuchten Theorie war die Überzeugung, daß es nicht möglich sein werde, der Schwierigkeiten, die uns in der Quantentheorie gerade in den letzten Jahren auf Schritt und Tritt begegneten, Herr zu werden, ehe für die Mechanik der Atom- und Elektronenbewegungen ein mathematisches System von Beziehungen zwischen prinzipiell beobachtbaren Größen zur Verfügung stünde von ähnlicher Einfachheit und Einheit, wie das System der klassischen Mechanik. Ein solches System von quantentheoretischen Beziehungen zwischen beobachtbaren Größen wird allerdings gegenüber der bisherigen Quantentheorie den Mangel aufweisen müssen, daß es nicht unmittelbar geometrisch anschaulich interpretiert werden kann, da ja die Elektronenbewegungen nicht in den uns geläufigen Begriffen von Raum und Zeit beschrieben werden können; es wird ein charakteristischer Zug der neuen Theorie sein, daß sie ebensosehr eine Abänderung der bisherigen Kinematik wie der bisherigen Mechanik darstellt; es wird aber ein wichtiger Vorzug dieser Quantenmechanik darin bestehen, daß die Grundpostulate der Quantentheorie einen vollkommen organischen Bestandteil dieser Mechanik ausmachen, daß also z. B. die Existenz diskreter stationärer Zustände für die neue Theorie ebenso natürlich ist, wie etwa die Existenz diskreter Eigenschwingungsfrequenzen für die klassische Theorie (vgl. Kap. 3). Wenn man eben die fundamentalen, durch die quantentheoretischen Grundpostulate gegebenen Unterschiede zwischen Quantentheorie und klassischer Theorie im Auge behält, so scheint uns ein Formalismus, wie der in den beiden oben zitierten Arbeiten und im folgenden versuchte, wenn er sich als richtig erweisen sollte, eine Quantenmechanik darzustellen, die der klassischen so ähnlich ist, wie man nur irgendwie hoffen konnte. Wir erinnern hier nur an die Gültigkeit von Energie- und Impulssatz und an die Form der Bewegungsgleichungen (Kap. 1, § 2). Dieser Ähnlichkeit der neuen Theorie mit der klassischen entspricht es auch, daß von einem selbständigen Korrespondenzprinzip neben dieser Theorie wohl nicht die Rede sein kann; vielmehr kann die Theorie selbst als exakte Formulierung des Bohrschen Korrespondenzgedankens aufgefaßt werden. Es wird eine wichtige Aufgabe für die weitere Entwicklung der Theorie sein, die Art dieser Korrespondenz genauer zu untersuchen und den Übergang von der symbolischen Quantengeometrie in die anschauliche klassische Geometrie zu beschreiben. Im Hinblick auf diese Frage scheint es uns ein besonders wesentlicher Zug der neuen Theorie, daß in ihr die kontinuierlichen Spektra und die Linienspektra der Atome gleichberechtigt nebeneinander auftreten, d. h. als Lösung ein und derselben Bewegungsgleichung erscheinen und mathematisch eng miteinander verknüpft sind (vgl. Kap. 3, § 3); eine Unterscheidung zwischen „gequantelten“ und „ungequantelten“ Bewegungen verliert in dieser Theorie offenbar jeden Sinn, da in ihr nicht von einer Quantenbedingung die Rede ist, die bestimmte Bewegungen aus einer großen Anzahl von möglichen aussondert; an Stelle dieser Bedingung tritt vielmehr eine quantenmechanische Grundgleichung (Kap. 1, § 1), die für alle möglichen Bewegungen Geltung hat und die notwendig ist, um dem Bewegungsproblem überhaupt einen bestimmten Sinn zu geben.",
+          "markdown": "Der Ausgangspunkt der versuchten Theorie war die Überzeugung, daß es nicht möglich sein werde, der Schwierigkeiten, die uns in der Quantentheorie gerade in den letzten Jahren auf Schritt und Tritt begegneten, Herr zu werden, ehe für die Mechanik der Atom- und Elektronenbewegungen ein mathematisches System von Beziehungen zwischen prinzipiell beobachtbaren Größen zur Verfügung stünde von ähnlicher Einfachheit und Einheit, wie das System der klassischen Mechanik. Ein solches System von quantentheoretischen Beziehungen zwischen beobachtbaren Größen wird allerdings gegenüber der bisherigen Quantentheorie den Mangel aufweisen müssen, daß es nicht unmittelbar geometrisch anschaulich interpretiert werden kann, da ja die Elektronenbewegungen nicht in den uns geläufigen Begriffen von Raum und Zeit beschrieben werden können; es wird ein charakteristischer Zug der neuen Theorie sein, daß sie ebensosehr eine Abänderung der bisherigen Kinematik wie der bisherigen Mechanik darstellt; es wird aber ein wichtiger Vorzug dieser Quantenmechanik darin bestehen, daß die Grundpostulate der Quantentheorie einen vollkommen organischen Bestandteil dieser Mechanik ausmachen, daß also z. B. die Existenz diskreter stationärer Zustände für die neue Theorie ebenso natürlich ist, wie etwa die Existenz diskreter Eigenschwingungsfrequenzen für die klassische Theorie (vgl. Kap. 3). Wenn man eben die fundamentalen, durch die quantentheoretischen Grundpostulate gegebenen Unterschiede zwischen Quantentheorie und klassischer Theorie im Auge behält, so scheint uns ein Formalismus, wie der in den beiden oben zitierten Arbeiten und im folgenden versuchte, wenn er sich als richtig erweisen sollte, eine Quantenmechanik darzustellen, die der klassischen so ähnlich ist, wie man nur irgendwie hoffen konnte. Wir erinnern hier nur an die Gültigkeit von Energie- und Impulssatz und an die Form der Bewegungsgleichungen (Kap. 1, § 2). Dieser Ähnlichkeit der neuen Theorie mit der klassischen entspricht es auch, daß von einem selbständigen Korrespondenzprinzip neben dieser Theorie wohl nicht die Rede sein kann; vielmehr kann die Theorie selbst als exakte Formulierung des Bohrschen Korrespondenzgedankens aufgefaßt werden. Es wird eine wichtige Aufgabe für die weitere Entwicklung der Theorie sein, die Art dieser Korrespondenz genauer zu untersuchen und den Übergang von der symbolischen Quantengeometrie in die anschauliche klassische Geometrie zu beschreiben. Im Hinblick auf diese Frage scheint es uns ein besonders wesentlicher Zug der neuen Theorie, daß in ihr die kontinuierlichen Spektra und die Linienspektra der Atome gleichberechtigt nebeneinander auftreten, d. h. als Lösung ein und derselben Bewegungsgleichung erscheinen und mathematisch eng miteinander verknüpft sind (vgl. Kap. 3, § 3); eine Unterscheidung zwischen „gequantelten“ und „ungequantelten“ Bewegungen verliert in dieser Theorie offenbar jeden Sinn, da in ihr nicht von einer Quantenbedingung die Rede ist, die bestimmte Bewegungen aus einer großen Anzahl von möglichen aussondert; an Stelle dieser Bedingung tritt vielmehr eine quantenmechanische Grundgleichung (Kap. 1, § 1), die für alle möglichen Bewegungen Geltung hat und die notwendig ist, um dem Bewegungsproblem überhaupt einen bestimmten Sinn zu geben.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Obwohl wir nun gerne aus der mathematischen Einheitlichkeit und Einfachheit der hier versuchten Theorie schließen möchten, daß sie schon wesentliche Züge der wirklichen Verhältnisse beim Problem des Atombaues wiedergibt, so muß man sich doch darüber klar sein, daß die Theorie eine Lösung der prinzipiellen Schwierigkeiten der Quantentheorie noch nicht geben kann. Die Kräfte, die dem Strahlungswiderstand der klassischen Theorie entsprechen, sind noch nicht in die Theorie eingearbeitet und für den Zusammenhang des Problems der Kopplung mit der hier versuchten Quantenmechanik sind nur einige undeutliche Anzeichen vorhanden (vgl. Kap. 1, § 5). Trotzdem scheint es, als ob diese prinzipiellen quantentheoretischen Schwierigkeiten vom Standpunkt der neuen Theorie aus ein anderes Aussehen zeigten, als bisher und als ob doch eine mehr als bisher begründete Hoffnung zur späteren Lösung dieser Probleme bestünde. Denken wir z. B. an die Frage der Stoßprozesse. Auf die grundsätzlichen Schwierigkeiten, die in der bisherigen Theorie einer Vereinigung der Grundpostulate der Quantentheorie mit der Gültigkeit des Energiesatzes bei schnellen Stößen im Wege stehen, hat in letzter Zeit besonders Bohr¹) hingewiesen. In der hier versuchten Theorie ergeben sich nun sowohl die Grundpostulate, wie der Energiesatz als mathematische Folgen der quantenmechanischen Gleichungen und die Ergebnisse der Franck-Hertzschen Stoßversuche scheinen so eine naturgemäße mathematische Konsequenz der Theorie; daher darf man hoffen, daß bei einer künftigen Behandlung der Stoßprobleme auf Grund der Quantenmechanik eben wegen des organischen Zusammenhanges der Grundpostulate mit dieser Mechanik Schwierigkeiten der erwähnten Art nicht auftreten werden.",
+          "markdown": "Obwohl wir nun gerne aus der mathematischen Einheitlichkeit und Einfachheit der hier versuchten Theorie schließen möchten, daß sie schon wesentliche Züge der wirklichen Verhältnisse beim Problem des Atombaues wiedergibt, so muß man sich doch darüber klar sein, daß die Theorie eine Lösung der prinzipiellen Schwierigkeiten der Quantentheorie noch nicht geben kann. Die Kräfte, die dem Strahlungswiderstand der klassischen Theorie entsprechen, sind noch nicht in die Theorie eingearbeitet und für den Zusammenhang des Problems der Kopplung mit der hier versuchten Quantenmechanik sind nur einige undeutliche Anzeichen vorhanden (vgl. Kap. 1, § 5). Trotzdem scheint es, als ob diese prinzipiellen quantentheoretischen Schwierigkeiten vom Standpunkt der neuen Theorie aus ein anderes Aussehen zeigten, als bisher und als ob doch eine mehr als bisher begründete Hoffnung zur späteren Lösung dieser Probleme bestünde. Denken wir z. B. an die Frage der Stoßprozesse. Auf die grundsätzlichen Schwierigkeiten, die in der bisherigen Theorie einer Vereinigung der Grundpostulate der Quantentheorie mit der Gültigkeit des Energiesatzes bei schnellen Stößen im Wege stehen, hat in letzter Zeit besonders Bohr¹) hingewiesen. In der hier versuchten Theorie ergeben sich nun sowohl die Grundpostulate, wie der Energiesatz als mathematische Folgen der quantenmechanischen Gleichungen und die Ergebnisse der Franck-Hertzschen Stoßversuche scheinen so eine naturgemäße mathematische Konsequenz der Theorie; daher darf man hoffen, daß bei einer künftigen Behandlung der Stoßprobleme auf Grund der Quantenmechanik eben wegen des organischen Zusammenhanges der Grundpostulate mit dieser Mechanik Schwierigkeiten der erwähnten Art nicht auftreten werden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) N. Bohr, ZS. f. Phys. 34, 142, 1925.",
+          "markdown": "¹) N. Bohr, *ZS. f. Phys.* **34**, 142, 1925.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Der Ausgangspunkt der versuchten Theorie war die Überzeugung, daß es nicht möglich sein werde, der Schwierigkeiten, die uns in der Quantentheorie gerade in den letzten Jahren auf Schritt und Tritt begegneten, Herr zu werden, ehe für die Mechanik der Atom- und Elektronenbewegungen ein mathematisches System von Beziehungen zwischen prinzipiell beobachtbaren Größen zur Verfügung stünde von ähnlicher Einfachheit und Einheit, wie das System der klassischen Mechanik. Ein solches System von quantentheoretischen Beziehungen zwischen beobachtbaren Größen wird allerdings gegenüber der bisherigen Quantentheorie den Mangel aufweisen müssen, daß es nicht unmittelbar geometrisch anschaulich interpretiert werden kann, da ja die Elektronenbewegungen nicht in den uns geläufigen Begriffen von Raum und Zeit beschrieben werden können; es wird ein charakteristischer Zug der neuen Theorie sein, daß sie ebensosehr eine Abänderung der bisherigen Kinematik wie der bisherigen Mechanik darstellt; es wird aber ein wichtiger Vorzug dieser Quantenmechanik darin bestehen, dass die Grundpostulate der Quantentheorie einen vollkommen organischen Bestandteil dieser Mechanik ausmachen, dass also z. B. die Existenz diskreter stationärer Zustände für die neue Theorie ebenso natürlich ist, wie etwa die Existenz diskreter Eigenschwingungsfrequenzen für die klassische Theorie (vgl. Kap. 3). Wenn man eben die fundamentalen, durch die quantentheoretischen Grundpostulate gegebenen Unterschiede zwischen Quantentheorie und klassischer Theorie im Auge behält, so scheint uns ein Formalismus, wie der in den beiden oben zitierten Arbeiten und im folgenden versuchte, wenn er sich als richtig erweisen sollte, eine Quantenmechanik darzustellen, die der klassischen so ähnlich ist, wie man nur irgendwie hoffen konnte. Wir erinnern hier nur an die Gültigkeit von Energie- und Impulssatz und an die Form der Bewegungsgleichungen (Kap. 1, § 2). Dieser Ähnlichkeit der neuen Theorie mit der klassischen entspricht es auch, dass von einem selbständigen Korrespondenzprinzip neben dieser Theorie wohl nicht die Rede sein kann; vielmehr kann die Theorie selbst als exakte Formulierung des Bohrschen Korrespondenzgedankens aufgefasst werden. Es wird eine wichtige Aufgabe für die weitere Entwicklung der Theorie sein, die Art dieser Korrespondenz genauer zu untersuchen und den Übergang von der symbolischen Quantengeometrie in die anschauliche klassische Geometrie zu beschreiben. Im Hinblick auf diese Frage scheint es uns ein besonders wesentlicher Zug der neuen Theorie, dass in ihr die kontinuierlichen Spektra und die Linienspektra der Atome gleichberechtigt nebeneinander auftreten, d. h. als Lösung ein und derselben Bewegungsgleichung erscheinen und mathematisch eng miteinander verknüpft sind (vgl. Kap. 3, § 3); eine Unterscheidung zwischen „gequantelten“ und „ungequantelten“ Bewegungen verliert in dieser Theorie offenbar jeden Sinn, da in ihr nicht von einer Quantenbedingung die Rede ist, die bestimmte Bewegungen aus einer großen Anzahl von möglichen aussondert; an Stelle dieser Bedingung tritt vielmehr eine quantenmechanische Grundgleichung (Kap. 1, § 1), die für alle möglichen Bewegungen Geltung hat und die notwendig ist, um dem Bewegungsproblem überhaupt einen bestimmten Sinn zu geben.\n\nObwohl wir nun gerne aus der mathematischen Einheitlichkeit und Einfachheit der hier versuchten Theorie schließen möchten, dass sie schon wesentliche Züge der wirklichen Verhältnisse beim Problem des Atombaues wiedergibt, so muss man sich doch darüber klar sein, dass die Theorie eine Lösung der prinzipiellen Schwierigkeiten der Quantentheorie noch nicht geben kann. Die Kräfte, die dem Strahlungswiderstand der klassischen Theorie entsprechen, sind noch nicht in die Theorie eingearbeitet und für den Zusammenhang des Problems der Kopplung mit der hier versuchten Quantenmechanik sind nur einige undeutliche Anzeichen vorhanden (vgl. Kap. 1, § 5). Trotzdem scheint es, als ob diese prinzipiellen quantentheoretischen Schwierigkeiten vom Standpunkt der neuen Theorie aus ein anderes Aussehen zeigten, als bisher und als ob doch eine mehr als bisher begründete Hoffnung zur späteren Lösung dieser Probleme bestünde. Denken wir z. B. an die Frage der Stoßprozesse. Auf die grundsätzlichen Schwierigkeiten, die in der bisherigen Theorie einer Vereinigung der Grundpostulate der Quantentheorie mit der Gültigkeit des Energiesatzes bei schnellen Stößen im Wege stehen, hat in letzter Zeit besonders Bohr¹) hingewiesen. In der hier versuchten Theorie ergeben sich nun sowohl die Grundpostulate, wie der Energiesatz als mathematische Folgen der quantenmechanischen Gleichungen und die Ergebnisse der Franck-Hertzschen Stoßversuche scheinen so eine naturgemäße mathematische Konsequenz der Theorie; daher darf man hoffen, dass bei einer künftigen Behandlung der Stoßprobleme auf Grund der Quantenmechanik eben wegen des organischen Zusammenhanges der Grundpostulate mit dieser Mechanik Schwierigkeiten der erwähnten Art nicht auftreten werden.\n\n¹) N. Bohr, *ZS. f. Phys.* **34**, 142, 1925.",
+      "word_count": 650,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "559",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Der Fragenkomplex der anomalen Zeemaneffekte zeigt zunächst vom Standpunkt der hier versuchten Theorie aus kaum ein anderes Aussehen als bisher. Der in den Grundvoraussetzungen dieser Theorie enthaltene innige Zusammenhang der „aperiodischen“ und der „periodischen Bahnen“ bringt zwar mit sich, dass wir nicht sicher sein können, dass das Larmorsche Theorem allgemein gilt (Kap. 4, § 2); die Voraussetzungen für die Gültigkeit dieses Theorems sind beim Oszillator, nicht aber ohne weiteres beim Kernatom erfüllt. Doch ist es nicht wahrscheinlich, dass dieser Gesichtspunkt zu einer Deutung der anomalen Zeemaneffekte führen kann; vielmehr dürfte die Quantenmechanik bei den Zeemaneffekten mit denselben Schwierigkeiten zu kämpfen haben wie die bisherige Theorie; das Problem der anomalen Zeemaneffekte ist aber neuerdings durch eine Note von Uhlenbeck und Goudsmit¹⁾ in ein neues Stadium getreten. Diese Verfasser machen die Annahme, dass das Elektron selbst ein mechanisches und magnetisches Moment besitze (deren Verhältnis doppelt so groß sein solle, wie bei Atomen), dass es also eigentlich gar keine anomalen Zeemaneffekte gebe; durch diese Annahme fallen die Schwierigkeiten bei den statistischen Gewichten fort und es ergibt sich eine qualitative Deutung sämtlicher mit dem Problem der Multiplettstruktur und der Zeemaneffekte zusammenhängenden Phänomene; die Frage, ob man dadurch schon eine quantitative Deutung dieser Erscheinungen erhält, kann allerdings erst durch genauere Untersuchungen mit den Methoden der Quantenmechanik beantwortet werden; einige Resultate des Kap. 4 scheinen bezüglich der Zeemaneffekte diese Hoffnung auf die Möglichkeit einer späteren quantitativen Deutung zu bestärken.",
+          "markdown": "Der Fragenkomplex der anomalen Zeemaneffekte zeigt zunächst vom Standpunkt der hier versuchten Theorie aus kaum ein anderes Aussehen als bisher. Der in den Grundvoraussetzungen dieser Theorie enthaltene innige Zusammenhang der „aperiodischen“ und der „periodischen Bahnen“ bringt zwar mit sich, dass wir nicht sicher sein können, dass das Larmorsche Theorem allgemein gilt (Kap. 4, § 2); die Voraussetzungen für die Gültigkeit dieses Theorems sind beim Oszillator, nicht aber ohne weiteres beim Kernatom erfüllt. Doch ist es nicht wahrscheinlich, dass dieser Gesichtspunkt zu einer Deutung der anomalen Zeemaneffekte führen kann; vielmehr dürfte die Quantenmechanik bei den Zeemaneffekten mit denselben Schwierigkeiten zu kämpfen haben wie die bisherige Theorie; das Problem der anomalen Zeemaneffekte ist aber neuerdings durch eine Note von Uhlenbeck und Goudsmit¹⁾ in ein neues Stadium getreten. Diese Verfasser machen die Annahme, dass das Elektron selbst ein mechanisches und magnetisches Moment besitze (deren Verhältnis doppelt so groß sein solle, wie bei Atomen), dass es also eigentlich gar keine anomalen Zeemaneffekte gebe; durch diese Annahme fallen die Schwierigkeiten bei den statistischen Gewichten fort und es ergibt sich eine qualitative Deutung sämtlicher mit dem Problem der Multiplettstruktur und der Zeemaneffekte zusammenhängenden Phänomene; die Frage, ob man dadurch schon eine quantitative Deutung dieser Erscheinungen erhält, kann allerdings erst durch genauere Untersuchungen mit den Methoden der Quantenmechanik beantwortet werden; einige Resultate des Kap. 4 scheinen bezüglich der Zeemaneffekte diese Hoffnung auf die Möglichkeit einer späteren quantitativen Deutung zu bestärken.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ G. Uhlenbeck und S. Goudsmit, *Naturwiss.* **13**, 953, 1925.",
+          "markdown": "¹⁾ G. Uhlenbeck und S. Goudsmit, *Naturwiss.* **13**, 953, 1925.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Schließlich haben wir noch versucht, ein bekanntes statistisches Problem mit den durch die Theorie gegebenen neuen Methoden zu behandeln: Bekanntlich kann man durch Quantelung der Eigenschwingungen eines (in spiegelnde Wände eingeschlossenen) Hohlraums nach den bisherigen Methoden zu Ergebnissen kommen, die eine gewisse Ähnlichkeit mit den Ansätzen der Lichtquantentheorie aufweisen und die eine Ableitung der Planckschen Formel gestatten. Man erhält aber, wie stets von Einstein²⁾ hervorgehoben wurde, bei einer solchen halbklassischen Behandlung der Hohlraumstrahlung einen falschen Wert für das mittlere Schwankungsquadrat der Energie in einem Teilvolumen. Dieses Ergebnis muss als besonders schwerwiegender Einwand gegen die bisherigen Methoden der Quantentheorie angesehen werden, weil es sich einerseits hier um ein Versagen der Theorie schon beim einfachen Problem des harmonischen Oszillators handelt, und weil andererseits die genannte Schwierigkeit auch bei jeder Statistik der Eigenschwingungen irgend eines mechanischen Systems, z. B. eines Kristallgitters, auftreten würde. Wir haben nun gefunden, dass die auf Grund der Kinematik und Mechanik der hier versuchten Theorie durchgeführte entsprechende Rechnung zum richtigen Werte des Schwankungsquadrates, wie zur Planckschen Formel führt, was wohl als wichtige Stütze für die hier versuchte Quantenmechanik anzusehen ist.",
+          "markdown": "Schließlich haben wir noch versucht, ein bekanntes statistisches Problem mit den durch die Theorie gegebenen neuen Methoden zu behandeln: Bekanntlich kann man durch Quantelung der Eigenschwingungen eines (in spiegelnde Wände eingeschlossenen) Hohlraums nach den bisherigen Methoden zu Ergebnissen kommen, die eine gewisse Ähnlichkeit mit den Ansätzen der Lichtquantentheorie aufweisen und die eine Ableitung der Planckschen Formel gestatten. Man erhält aber, wie stets von Einstein²⁾ hervorgehoben wurde, bei einer solchen halbklassischen Behandlung der Hohlraumstrahlung einen falschen Wert für das mittlere Schwankungsquadrat der Energie in einem Teilvolumen. Dieses Ergebnis muss als besonders schwerwiegender Einwand gegen die bisherigen Methoden der Quantentheorie angesehen werden, weil es sich einerseits hier um ein Versagen der Theorie schon beim einfachen Problem des harmonischen Oszillators handelt, und weil andererseits die genannte Schwierigkeit auch bei jeder Statistik der Eigenschwingungen irgend eines mechanischen Systems, z. B. eines Kristallgitters, auftreten würde. Wir haben nun gefunden, dass die auf Grund der Kinematik und Mechanik der hier versuchten Theorie durchgeführte entsprechende Rechnung zum richtigen Werte des Schwankungsquadrates, wie zur Planckschen Formel führt, was wohl als wichtige Stütze für die hier versuchte Quantenmechanik anzusehen ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²⁾ A. Einstein, *Phys. ZS.* **10**, 185, 817, 1909.",
+          "markdown": "²⁾ A. Einstein, *Phys. ZS.* **10**, 185, 817, 1909.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Kapitel 1. Systeme von einem Freiheitsgrad.",
+          "markdown": "## Kapitel 1. Systeme von einem Freiheitsgrad.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 1. Grundprinzipien.",
+          "markdown": "### § 1. Grundprinzipien.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Der Fragenkomplex der anomalen Zeemaneffekte zeigt zunächst vom Standpunkt der hier versuchten Theorie aus kaum ein anderes Aussehen als bisher. Der in den Grundvoraussetzungen dieser Theorie enthaltene innige Zusammenhang der „aperiodischen“ und der „periodischen Bahnen“ bringt zwar mit sich, dass wir nicht sicher sein können, dass das Larmorsche Theorem allgemein gilt (Kap. 4, § 2); die Voraussetzungen für die Gültigkeit dieses Theorems sind beim Oszillator, nicht aber ohne weiteres beim Kernatom erfüllt. Doch ist es nicht wahrscheinlich, dass dieser Gesichtspunkt zu einer Deutung der anomalen Zeemaneffekte führen kann; vielmehr dürfte die Quantenmechanik bei den Zeemaneffekten mit denselben Schwierigkeiten zu kämpfen haben wie die bisherige Theorie; das Problem der anomalen Zeemaneffekte ist aber neuerdings durch eine Note von Uhlenbeck und Goudsmit¹⁾ in ein neues Stadium getreten. Diese Verfasser machen die Annahme, dass das Elektron selbst ein mechanisches und magnetisches Moment besitze (deren Verhältnis doppelt so groß sein solle, wie bei Atomen), dass es also eigentlich gar keine anomalen Zeemaneffekte gebe; durch diese Annahme fallen die Schwierigkeiten bei den statistischen Gewichten fort und es ergibt sich eine qualitative Deutung sämtlicher mit dem Problem der Multiplettstruktur und der Zeemaneffekte zusammenhängenden Phänomene; die Frage, ob man dadurch schon eine quantitative Deutung dieser Erscheinungen erhält, kann allerdings erst durch genauere Untersuchungen mit den Methoden der Quantenmechanik beantwortet werden; einige Resultate des Kap. 4 scheinen bezüglich der Zeemaneffekte diese Hoffnung auf die Möglichkeit einer späteren quantitativen Deutung zu bestärken.\n\n¹⁾ G. Uhlenbeck und S. Goudsmit, *Naturwiss.* **13**, 953, 1925.\n\nSchließlich haben wir noch versucht, ein bekanntes statistisches Problem mit den durch die Theorie gegebenen neuen Methoden zu behandeln: Bekanntlich kann man durch Quantelung der Eigenschwingungen eines (in spiegelnde Wände eingeschlossenen) Hohlraums nach den bisherigen Methoden zu Ergebnissen kommen, die eine gewisse Ähnlichkeit mit den Ansätzen der Lichtquantentheorie aufweisen und die eine Ableitung der Planckschen Formel gestatten. Man erhält aber, wie stets von Einstein²⁾ hervorgehoben wurde, bei einer solchen halbklassischen Behandlung der Hohlraumstrahlung einen falschen Wert für das mittlere Schwankungsquadrat der Energie in einem Teilvolumen. Dieses Ergebnis muss als besonders schwerwiegender Einwand gegen die bisherigen Methoden der Quantentheorie angesehen werden, weil es sich einerseits hier um ein Versagen der Theorie schon beim einfachen Problem des harmonischen Oszillators handelt, und weil andererseits die genannte Schwierigkeit auch bei jeder Statistik der Eigenschwingungen irgend eines mechanischen Systems, z. B. eines Kristallgitters, auftreten würde. Wir haben nun gefunden, dass die auf Grund der Kinematik und Mechanik der hier versuchten Theorie durchgeführte entsprechende Rechnung zum richtigen Werte des Schwankungsquadrates, wie zur Planckschen Formel führt, was wohl als wichtige Stütze für die hier versuchte Quantenmechanik anzusehen ist.\n\n²⁾ A. Einstein, *Phys. ZS.* **10**, 185, 817, 1909.\n\n## Kapitel 1. Systeme von einem Freiheitsgrad.\n\n### § 1. Grundprinzipien.",
+      "word_count": 550,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "560",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "I. Eine quantentheoretische Größe $\\boldsymbol{a}$ — sei es Koordinate oder Impuls oder irgend eine Funktion beider — wird repräsentiert durch die Gesamtheit der Größen\n\n$$a (n m) e^{2 \\pi i v (n m) t} \\quad (1)$$",
+          "markdown": "I. Eine quantentheoretische Größe $\\boldsymbol{a}$ — sei es Koordinate oder Impuls oder irgend eine Funktion beider — wird repräsentiert durch die Gesamtheit der Größen\n\n$$a (n m) e^{2 \\pi i v (n m) t} \\quad (1)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "oder auch unter Weglassung des für alle zum System gehörigen Größen gleichen (nur von den Indizes $n$ und $m$ abhängigen) Faktors $e^{2 \\pi i v (n m) t}$ durch die Gesamtheit der Zahlen\n\n$$a (n m). \\quad (2)$$",
+          "markdown": "oder auch unter Weglassung des für alle zum System gehörigen Größen gleichen (nur von den Indizes $n$ und $m$ abhängigen) Faktors $e^{2 \\pi i v (n m) t}$ durch die Gesamtheit der Zahlen\n\n$$a (n m). \\quad (2)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir können also von einer (übrigens unendlichen) „Matrix“ $a$ sprechen.",
+          "markdown": "Wir können also von einer (übrigens unendlichen) „Matrix“ $a$ sprechen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "II. Die Rechenoperationen, wie Addition, Multiplikation der quantentheoretischen Größen sind entsprechend den für Matrizen gültigen Rechenregeln definiert.",
+          "markdown": "II. Die Rechenoperationen, wie Addition, Multiplikation der quantentheoretischen Größen sind entsprechend den für Matrizen gültigen Rechenregeln definiert.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "III. Gegeben sei eine durch Additionen und Multiplikationen von Matrizen definierte Funktion $f(\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s)$, wo die $\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s$ quantentheoretische Größen bedeuten. Dann führen wir zwei Arten von Differentialquotienten der Funktion $f$ nach einer der Größen $\\boldsymbol{x}$ (etwa $\\boldsymbol{x}_1$) ein:",
+          "markdown": "III. Gegeben sei eine durch Additionen und Multiplikationen von Matrizen definierte Funktion $f(\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s)$, wo die $\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s$ quantentheoretische Größen bedeuten. Dann führen wir zwei Arten von Differentialquotienten der Funktion $f$ nach einer der Größen $\\boldsymbol{x}$ (etwa $\\boldsymbol{x}_1$) ein:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "a) Differentialquotient erster Art:\n\n$$\\frac{\\partial f}{\\partial \\boldsymbol{x}_1} = \\lim_{\\alpha \\to 0} \\frac{f(\\boldsymbol{x}_1 + \\alpha \\mathbf{1}, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s) - f(\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s)}{\\alpha}, \\quad (3)$$",
+          "markdown": "a) Differentialquotient erster Art:\n\n$$\\frac{\\partial f}{\\partial \\boldsymbol{x}_1} = \\lim_{\\alpha \\to 0} \\frac{f(\\boldsymbol{x}_1 + \\alpha \\mathbf{1}, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s) - f(\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s)}{\\alpha}, \\quad (3)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "wo $\\alpha$ eine Zahl und $\\mathbf{1}$ die durch\n\n$$\\mathbf{1} = (\\delta_{n m}), \\quad \\delta_{n m} = \\begin{cases} 1 & \\text{für } n = m \\\\ 0 & \\text{„ } n \\neq m \\end{cases}$$",
+          "markdown": "wo $\\alpha$ eine Zahl und $\\mathbf{1}$ die durch\n\n$$\\mathbf{1} = (\\delta_{n m}), \\quad \\delta_{n m} = \\begin{cases} 1 & \\text{für } n = m \\\\ 0 & \\text{„ } n \\neq m \\end{cases}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "definierte Einheitsmatrix ist.",
+          "markdown": "definierte Einheitsmatrix ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "b) Differentialquotient zweiter Art, definiert durch ¹)\n\n$$\\frac{\\partial f}{\\partial \\boldsymbol{x}_1} (n m) = \\frac{\\partial D(f)}{\\partial x_1 (m n)}, \\quad (4)$$",
+          "markdown": "b) Differentialquotient zweiter Art, definiert durch ¹)\n\n$$\\frac{\\partial f}{\\partial \\boldsymbol{x}_1} (n m) = \\frac{\\partial D(f)}{\\partial x_1 (m n)}, \\quad (4)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Vgl. Teil I.",
+          "markdown": "¹) Vgl. Teil I.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "wo $D(f)$ die Diagonalsumme der Matrix $f$ bedeutet.",
+          "markdown": "wo $D(f)$ die Diagonalsumme der Matrix $f$ bedeutet.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "I. Eine quantentheoretische Größe $\\boldsymbol{a}$ — sei es Koordinate oder Impuls oder irgend eine Funktion beider — wird repräsentiert durch die Gesamtheit der Größen\n\n$$a (n m) e^{2 \\pi i v (n m) t} \\quad (1)$$ oder auch unter Weglassung des für alle zum System gehörigen Größen gleichen (nur von den Indizes $n$ und $m$ abhängigen) Faktors $e^{2 \\pi i v (n m) t}$ durch die Gesamtheit der Zahlen\n\n$$a (n m). \\quad (2)$$ Wir können also von einer (übrigens unendlichen) „Matrix“ $a$ sprechen.\n\nII. Die Rechenoperationen, wie Addition, Multiplikation der quantentheoretischen Größen sind entsprechend den für Matrizen gültigen Rechenregeln definiert.\n\nIII. Gegeben sei eine durch Additionen und Multiplikationen von Matrizen definierte Funktion $f(\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s)$, wo die $\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s$ quantentheoretische Größen bedeuten. Dann führen wir zwei Arten von Differentialquotienten der Funktion $f$ nach einer der Größen $\\boldsymbol{x}$ (etwa $\\boldsymbol{x}_1$) ein:\n\na) Differentialquotient erster Art:\n\n$$\\frac{\\partial f}{\\partial \\boldsymbol{x}_1} = \\lim_{\\alpha \\to 0} \\frac{f(\\boldsymbol{x}_1 + \\alpha \\mathbf{1}, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s) - f(\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s)}{\\alpha}, \\quad (3)$$ wo $\\alpha$ eine Zahl und $\\mathbf{1}$ die durch\n\n$$\\mathbf{1} = (\\delta_{n m}), \\quad \\delta_{n m} = \\begin{cases} 1 & \\text{für } n = m \\\\ 0 & \\text{„ } n \\neq m \\end{cases}$$ definierte Einheitsmatrix ist.\n\nb) Differentialquotient zweiter Art, definiert durch ¹)\n\n$$\\frac{\\partial f}{\\partial \\boldsymbol{x}_1} (n m) = \\frac{\\partial D(f)}{\\partial x_1 (m n)}, \\quad (4)$$ wo $D(f)$ die Diagonalsumme der Matrix $f$ bedeutet.\n\n¹) Vgl. Teil I.",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "561",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Äußerlich werden wir die beiden Arten von Differentiationen durch den Bruchstrich [dicker Bruchstrich für a), dünner für b)] unterscheiden.",
+          "markdown": "Äußerlich werden wir die beiden Arten von Differentiationen durch den Bruchstrich [dicker Bruchstrich für a), dünner für b)] unterscheiden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Differentiation zweiter Art wurde in Teil I ausschließlich benutzt, da sie eine einfache Formulierung des Variationsprinzips der Quantenmechanik ermöglicht und daher als naturgemäß erscheint. Für manche Rechnungen ist jedoch der Differentialquotient erster Art bequemer zu handhaben. Allgemein mag bemerkt werden, dass die Einführung eines Differentialquotienten in der Quantenmechanik etwas",
+          "markdown": "Die Differentiation zweiter Art wurde in Teil I ausschließlich benutzt, da sie eine einfache Formulierung des Variationsprinzips der Quantenmechanik ermöglicht und daher als naturgemäß erscheint. Für manche Rechnungen ist jedoch der Differentialquotient erster Art bequemer zu handhaben. Allgemein mag bemerkt werden, dass die Einführung eines Differentialquotienten in der Quantenmechanik etwas",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "künstlich ist und dass die Operationen der linken Seite von (6) das naturgemäße Analogon zum Differentialquotienten der klassischen Theorie darstellen. Es ist für die Formulierung der kanonischen Gleichungen wichtig, festzustellen, dass für die Energiefunktion $H(pq)$ die beiden Arten (3) und (4) der Differentiation identisch werden¹).",
+          "markdown": "künstlich ist und dass die Operationen der linken Seite von (6) das naturgemäße Analogon zum Differentialquotienten der klassischen Theorie darstellen. Es ist für die Formulierung der kanonischen Gleichungen wichtig, festzustellen, dass für die Energiefunktion $H(pq)$ die beiden Arten (3) und (4) der Differentiation identisch werden¹).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) In der Tat wurden ja für die Energiefunktion $H$ in Teil I nicht irgendwelche Funktionen etwa der Form\n\n$$H^* = \\sum a_{sr} p^s q^r$$\n\nzugelassen, sondern durch symmetrisierte Funktionen ersetzt, die zu denselben Hamiltonschen Gleichungen Anlaß gaben:\n\n$$H = \\sum a_{sr} \\frac{1}{s+1} \\sum_{l=0}^s p^{s-l} q^r p^l.$$",
+          "markdown": "¹) In der Tat wurden ja für die Energiefunktion $H$ in Teil I nicht irgendwelche Funktionen etwa der Form\n\n$$H^* = \\sum a_{sr} p^s q^r$$\n\nzugelassen, sondern durch symmetrisierte Funktionen ersetzt, die zu denselben Hamiltonschen Gleichungen Anlaß gaben:\n\n$$H = \\sum a_{sr} \\frac{1}{s+1} \\sum_{l=0}^s p^{s-l} q^r p^l.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Für diese symmetrisierten Funktionen $H$ aber gilt nach den in Teil I abgeleiteten Formeln\n\n$$\\begin{aligned}\n\\frac{\\partial H}{\\partial p} &= \\sum a_{sr} \\frac{1}{s+1} \\left\\{ \\sum_{l=0}^{s-1} (s-l) p^{s-1-l} q^r p^l + \\sum_{l=1}^s l p^{s-l} q^r p^{l-1} \\right\\} \\\\\n&= \\sum a_{sr} \\sum_{l=0}^{s-1} p^{s-1-l} q^r p^l = \\frac{\\partial H}{\\partial p}. \\\\\n\\frac{\\partial H}{\\partial q} &= \\sum a_{sr} \\frac{r}{s+1} \\sum_{l=0}^s p^{s-l} q^{r-1} p^l = \\sum a_{sr} \\sum_{j=0}^{r-1} q^{r-1-j} p^s q^j = \\frac{\\partial H}{\\partial q}. \\end{aligned}$$",
+          "markdown": "Für diese symmetrisierten Funktionen $H$ aber gilt nach den in Teil I abgeleiteten Formeln\n\n$$\\begin{aligned}\n\\frac{\\partial H}{\\partial p} &= \\sum a_{sr} \\frac{1}{s+1} \\left\\{ \\sum_{l=0}^{s-1} (s-l) p^{s-1-l} q^r p^l + \\sum_{l=1}^s l p^{s-l} q^r p^{l-1} \\right\\} \\\\\n&= \\sum a_{sr} \\sum_{l=0}^{s-1} p^{s-1-l} q^r p^l = \\frac{\\partial H}{\\partial p}. \\\\\n\\frac{\\partial H}{\\partial q} &= \\sum a_{sr} \\frac{r}{s+1} \\sum_{l=0}^s p^{s-l} q^{r-1} p^l = \\sum a_{sr} \\sum_{j=0}^{r-1} q^{r-1-j} p^s q^j = \\frac{\\partial H}{\\partial q}. \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": "formula_561_1",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "IV. Das Rechnen mit den quantentheoretischen Größen würde wegen der Nichtgültigkeit des kommutativen Gesetzes der Multiplikation in gewissem Sinne unbestimmt bleiben, wenn nicht der Wert von $pq - qp$ vorgeschrieben würde²). Wir führen daher als fundamentale quantenmechanische Relation ein:\n\n$$pq - qp = \\frac{h}{2\\pi i} 1. \\quad (5)$$",
+          "markdown": "IV. Das Rechnen mit den quantentheoretischen Größen würde wegen der Nichtgültigkeit des kommutativen Gesetzes der Multiplikation in gewissem Sinne unbestimmt bleiben, wenn nicht der Wert von $pq - qp$ vorgeschrieben würde²). Wir führen daher als fundamentale quantenmechanische Relation ein:\n\n$$pq - qp = \\frac{h}{2\\pi i} 1. \\quad (5)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²) Die Bewegungsgleichungen lassen lediglich erkennen, dass diese Differenz eine Diagonalmatrix sein muss.",
+          "markdown": "²) Die Bewegungsgleichungen lassen lediglich erkennen, dass diese Differenz eine Diagonalmatrix sein muss.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Auf die korrespondenzmäßig-physikalische Bedeutung dieser Relation werden wir später zu sprechen kommen. An dieser Stelle scheint es uns wichtig, hervorzuheben, dass Gleichung (5), Kap. 1, die einzige unter den Grundgleichungen der hier versuchten Quantenmechanik ist, in welchen die Plancksche Konstante $h$ vorkommt. Es ist befriedigend, dass die Konstante $h$ an dieser Stelle schon in so einfacher Form in die Grundlagen der Theorie eingeht; außerdem erkennt man aus (5), Kap. 1, dass die neue Theorie im Limes $h = 0$ in die klassische übergehen dürfte, wie es physikalisch gefordert werden muss.",
+          "markdown": "Auf die korrespondenzmäßig-physikalische Bedeutung dieser Relation werden wir später zu sprechen kommen. An dieser Stelle scheint es uns wichtig, hervorzuheben, dass Gleichung (5), Kap. 1, die einzige unter den Grundgleichungen der hier versuchten Quantenmechanik ist, in welchen die Plancksche Konstante $h$ vorkommt. Es ist befriedigend, dass die Konstante $h$ an dieser Stelle schon in so einfacher Form in die Grundlagen der Theorie eingeht; außerdem erkennt man aus (5), Kap. 1, dass die neue Theorie im Limes $h = 0$ in die klassische übergehen dürfte, wie es physikalisch gefordert werden muss.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Äußerlich werden wir die beiden Arten von Differentiationen durch den Bruchstrich [dicker Bruchstrich für a), dünner für b)] unterscheiden.\n\nDie Differentiation zweiter Art wurde in Teil I ausschließlich benutzt, da sie eine einfache Formulierung des Variationsprinzips der Quantenmechanik ermöglicht und daher als naturgemäß erscheint. Für manche Rechnungen ist jedoch der Differentialquotient erster Art bequemer zu handhaben. Allgemein mag bemerkt werden, dass die Einführung eines Differentialquotienten in der Quantenmechanik etwas\n\nkünstlich ist und dass die Operationen der linken Seite von (6) das naturgemäße Analogon zum Differentialquotienten der klassischen Theorie darstellen. Es ist für die Formulierung der kanonischen Gleichungen wichtig, festzustellen, dass für die Energiefunktion $H(pq)$ die beiden Arten (3) und (4) der Differentiation identisch werden¹).\n\n¹) In der Tat wurden ja für die Energiefunktion $H$ in Teil I nicht irgendwelche Funktionen etwa der Form\n\n$$H^* = \\sum a_{sr} p^s q^r$$\n\nzugelassen, sondern durch symmetrisierte Funktionen ersetzt, die zu denselben Hamiltonschen Gleichungen Anlaß gaben:\n\n$$H = \\sum a_{sr} \\frac{1}{s+1} \\sum_{l=0}^s p^{s-l} q^r p^l.$$ Für diese symmetrisierten Funktionen $H$ aber gilt nach den in Teil I abgeleiteten Formeln\n\n$$\\begin{aligned}\n\\frac{\\partial H}{\\partial p} &= \\sum a_{sr} \\frac{1}{s+1} \\left\\{ \\sum_{l=0}^{s-1} (s-l) p^{s-1-l} q^r p^l + \\sum_{l=1}^s l p^{s-l} q^r p^{l-1} \\right\\} \\\\\n&= \\sum a_{sr} \\sum_{l=0}^{s-1} p^{s-1-l} q^r p^l = \\frac{\\partial H}{\\partial p}. \\\\\n\\frac{\\partial H}{\\partial q} &= \\sum a_{sr} \\frac{r}{s+1} \\sum_{l=0}^s p^{s-l} q^{r-1} p^l = \\sum a_{sr} \\sum_{j=0}^{r-1} q^{r-1-j} p^s q^j = \\frac{\\partial H}{\\partial q}. \\end{aligned}$$²) Die Bewegungsgleichungen lassen lediglich erkennen, dass diese Differenz eine Diagonalmatrix sein muss.\n\nIV. Das Rechnen mit den quantentheoretischen Größen würde wegen der Nichtgültigkeit des kommutativen Gesetzes der Multiplikation in gewissem Sinne unbestimmt bleiben, wenn nicht der Wert von $pq - qp$ vorgeschrieben würde²). Wir führen daher als fundamentale quantenmechanische Relation ein:\n\n$$pq - qp = \\frac{h}{2\\pi i} 1. \\quad (5)$$ Auf die korrespondenzmäßig-physikalische Bedeutung dieser Relation werden wir später zu sprechen kommen. An dieser Stelle scheint es uns wichtig, hervorzuheben, dass Gleichung (5), Kap. 1, die einzige unter den Grundgleichungen der hier versuchten Quantenmechanik ist, in welchen die Plancksche Konstante $h$ vorkommt. Es ist befriedigend, dass die Konstante $h$ an dieser Stelle schon in so einfacher Form in die Grundlagen der Theorie eingeht; außerdem erkennt man aus (5), Kap. 1, dass die neue Theorie im Limes $h = 0$ in die klassische übergehen dürfte, wie es physikalisch gefordert werden muss.",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "562",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Aus der Gleichung (5), Kap. 1 kann noch eine später wichtige Beziehung abgeleitet werden:",
+          "markdown": "Aus der Gleichung (5), Kap. 1 kann noch eine später wichtige Beziehung abgeleitet werden:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Sei $f(pq)$ irgend eine Funktion von $p$ und $q$, so gilt:\n\n$$\\left. \\begin{array}{l} fq - qf = \\frac{\\partial f}{\\partial p} \\frac{h}{2\\pi i}, \\\\ pf - fp = \\frac{\\partial f}{\\partial q} \\frac{h}{2\\pi i}. \\end{array} \\right\\} \\quad (6)$$",
+          "markdown": "Sei $f(pq)$ irgend eine Funktion von $p$ und $q$, so gilt:\n\n$$\\left. \\begin{array}{l} fq - qf = \\frac{\\partial f}{\\partial p} \\frac{h}{2\\pi i}, \\\\ pf - fp = \\frac{\\partial f}{\\partial q} \\frac{h}{2\\pi i}. \\end{array} \\right\\} \\quad (6)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Denn nehmen wir einmal an, diese Gleichungen seien richtig für irgend zwei Funktionen $\\varphi$ und $\\psi$, dann sind sie auch richtig für $\\varphi + \\psi$ und $\\varphi \\cdot \\psi$. Für $\\varphi + \\psi$ ist dies trivial, für $\\varphi \\cdot \\psi$ ergibt eine leichte Rechnung:\n\n$$\\begin{aligned}\n\\varphi \\cdot \\psi q - q\\varphi\\psi &= \\varphi(\\psi q - q\\psi) + (\\varphi q - q\\varphi)\\psi \\\\\n&= \\left(\\varphi \\frac{\\partial \\psi}{\\partial p} + \\frac{\\partial \\varphi}{\\partial p} \\psi\\right) \\frac{h}{2\\pi i} = \\frac{\\partial (\\varphi \\psi)}{\\partial p} \\frac{h}{2\\pi i}; \\end{aligned}$$",
+          "markdown": "Denn nehmen wir einmal an, diese Gleichungen seien richtig für irgend zwei Funktionen $\\varphi$ und $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n\\varphi$ und $\\psi$, dann sind sie auch richtig für $\\varphi + \\psi$ und $\\varphi \\cdot \\psi$. Für $\\varphi + \\psi$ ist dies trivial, für $\\varphi \\cdot \\psi$ ergibt eine leichte Rechnung:\n\n$$\\begin{aligned}\n\\varphi \\cdot \\psi q - q\\varphi\\psi &= \\varphi(\\psi q - q\\psi) + (\\varphi q - q\\varphi)\\psi \\\\\n&= \\left(\\varphi \\frac{\\partial \\psi}{\\partial p} + \\frac{\\partial \\varphi}{\\partial p} \\psi\\right) \\frac{h}{2\\pi i} = \\frac{\\partial (\\varphi \\psi)}{\\partial p} \\frac{h}{2\\pi i}; \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "analog für $p\\varphi\\psi - \\varphi\\psi p$.\n\nNun gilt die Relation (6), Kap. 1, für $p$ und $q$, also auch für jede Funktion $f$, die formal nach Potenzen von $p$ und $q$ entwickelbar ist.",
+          "markdown": "analog für $p\\varphi\\psi - \\varphi\\psi p$.\n\nNun gilt die Relation (6), Kap. 1, für $p$ und $q$, also auch für jede Funktion $f$, die formal nach Potenzen von $p$ und $q$ entwickelbar ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 2. Die kanonischen Gleichungen, Energiesatz und Frequenzbedingung.",
+          "markdown": "### § 2. Die kanonischen Gleichungen, Energiesatz und Frequenzbedingung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Seien jetzt eine Energiefunktion $H(pq)$ und die zugehörigen kanonischen Gleichungen\n\n$$p = -\\frac{\\partial H}{\\partial q}; \\quad q = \\frac{\\partial H}{\\partial p} \\quad (7)$$",
+          "markdown": "Seien jetzt eine Energiefunktion $H(pq)$ und die zugehörigen kanonischen Gleichungen\n\n$$p = -\\frac{\\partial H}{\\partial q}; \\quad q = \\frac{\\partial H}{\\partial p} \\quad (7)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "gegeben. Aus dem Kombinationsprinzip für\n\n$$v(nm) + v(mk) = v(nk) \\quad (8)$$",
+          "markdown": "gegeben. Aus dem Kombinationsprinzip für\n\n$$v(nm) + v(mk) = v(nk) \\quad (8)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "folgt, dass $v$ dargestellt werden kann in der Form\n\n$$v(nm) = \\frac{W_n - W_m}{h}. \\quad (9)$$",
+          "markdown": "folgt, dass $v$ dargestellt werden kann in der Form\n\n$$v(nm) = \\frac{W_n - W_m}{h}. \\quad (9)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir führen jetzt eine quantentheoretische Größe $W$ ein als „Termgröße“, definiert durch\n\n$$W(nm) = \\begin{cases} W_n & \\text{für } n = m \\\\ 0 & , \\ n \\neq m. \\end{cases}$$",
+          "markdown": "Wir führen jetzt eine quantentheoretische Größe $W$ ein als „Termgröße“, definiert durch\n\n$$W(nm) = \\begin{cases} W_n & \\text{für } n = m \\\\ 0 & , \\ n \\neq m. \\end{cases}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "$W$ ist also eine Diagonalmatrix.",
+          "markdown": "$W$ ist also eine Diagonalmatrix.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Aus der Gleichung (5), Kap. 1 kann noch eine später wichtige Beziehung abgeleitet werden:\n\nSei $f(pq)$ irgend eine Funktion von $p$ und $q$, so gilt:\n\n$$\\left. \\begin{array}{l} fq - qf = \\frac{\\partial f}{\\partial p} \\frac{h}{2\\pi i}, \\\\ pf - fp = \\frac{\\partial f}{\\partial q} \\frac{h}{2\\pi i}. \\end{array} \\right\\} \\quad (6)$$ Denn nehmen wir einmal an, diese Gleichungen seien richtig für irgend zwei Funktionen $\\varphi$ und $\\psi$, dann sind sie auch richtig für $\\varphi + \\psi$ und $\\varphi \\cdot \\psi$. Für $\\varphi + \\psi$ ist dies trivial, für $\\varphi \\cdot \\psi$ ergibt eine leichte Rechnung:\n\n$$\\begin{aligned}\n\\varphi \\cdot \\psi q - q\\varphi\\psi &= \\varphi(\\psi q - q\\psi) + (\\varphi q - q\\varphi)\\psi \\\\\n&= \\left(\\varphi \\frac{\\partial \\psi}{\\partial p} + \\frac{\\partial \\varphi}{\\partial p} \\psi\\right) \\frac{h}{2\\pi i} = \\frac{\\partial (\\varphi \\psi)}{\\partial p} \\frac{h}{2\\pi i}; \\end{aligned}$$ analog für $p\\varphi\\psi - \\varphi\\psi p$.\n\nNun gilt die Relation (6), Kap. 1, für $p$ und $q$, also auch für jede Funktion $f$, die formal nach Potenzen von $p$ und $q$ entwickelbar ist.\n\n### § 2. Die kanonischen Gleichungen, Energiesatz und Frequenzbedingung.\n\nSeien jetzt eine Energiefunktion $H(pq)$ und die zugehörigen kanonischen Gleichungen\n\n$$p = -\\frac{\\partial H}{\\partial q}; \\quad q = \\frac{\\partial H}{\\partial p} \\quad (7)$$ gegeben. Aus dem Kombinationsprinzip für\n\n$$v(nm) + v(mk) = v(nk) \\quad (8)$$ folgt, dass $v$ dargestellt werden kann in der Form\n\n$$v(nm) = \\frac{W_n - W_m}{h}. \\quad (9)$$ Wir führen jetzt eine quantentheoretische Größe $W$ ein als „Termgröße“, definiert durch\n\n$$W(nm) = \\begin{cases} W_n & \\text{für } n = m \\\\ 0 & , \\ n \\neq m. \\end{cases}$$ $W$ ist also eine Diagonalmatrix.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "563",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dann gilt für irgend eine quantentheoretische Größe:\n\n$$\\dot{a} = \\frac{2\\pi i}{h} (Wa - aW). \\quad (10)$$",
+          "markdown": "Dann gilt für irgend eine quantentheoretische Größe:\n\n$$\\dot{a} = \\frac{2\\pi i}{h} (Wa - aW). \\quad (10)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In der Tat war ja (vgl. Teil I) $\\dot{a}$ definiert durch\n\n$$\\dot{a}(nm) = 2\\pi i v(nm) a(nm).$$",
+          "markdown": "In der Tat war ja (vgl. Teil I) $\\dot{a}$ definiert durch\n\n$$\\dot{a}(nm) = 2\\pi i v(nm) a(nm).$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Zu den Grundpfeilern der Theorie, die wir hier aufzubauen suchen, gehört der Energiesatz ($H = \\text{const}$) und die Frequenzbedingung\n\n$$\\left( \\nu(nm) = \\frac{H_n - H_m}{h}; H_n = W_n + \\text{const} \\right).$$",
+          "markdown": "Zu den Grundpfeilern der Theorie, die wir hier aufzubauen suchen, gehört der Energiesatz ($H = \\text{const}$) und die Frequenzbedingung\n\n$$\\left( \\nu(nm) = \\frac{H_n - H_m}{h}; H_n = W_n + \\text{const} \\right).$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Den Beweis für diese beiden Sätze führen wir, indem wir die Beziehungen (6) und (10) in Gl. (7) (Kap. I) einsetzen.",
+          "markdown": "Den Beweis für diese beiden Sätze führen wir, indem wir die Beziehungen (6) und (10) in Gl. (7) (Kap. I) einsetzen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dann ergibt sich:\n\n$$\\left. \\begin{array}{l} Wq - qW = Hq - qH \\\\ Wp - pW = Hp - pH \\end{array} \\right\\} \\quad (11)$$",
+          "markdown": "Dann ergibt sich:\n\n$$\\left. \\begin{array}{l} Wq - qW = Hq - qH \\\\ Wp - pW = Hp - pH \\end{array} \\right\\} \\quad (11)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "oder auch\n\n$$\\begin{aligned}\n(W - H)q - q(W - H) &= 0, \\\\\n(W - H)p - p(W - H) &= 0. \\end{aligned}$$",
+          "markdown": "oder auch\n\n$$\\begin{aligned}\n(W - H)q - q(W - H) &= 0, \\\\\n(W - H)p - p(W - H) &= 0. \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Größe $W - H$ ist also mit $p$ und $q$, daher auch mit jeder Funktion von $p, q$, insbesondere auch mit $H$ vertauschbar:\n\n$$(W - H)H - H(W - H) = 0.$$",
+          "markdown": "Die Größe $W - H$ ist also mit $p$ und $q$, daher auch mit jeder Funktion von $p, q$, insbesondere auch mit $H$ vertauschbar:\n\n$$(W - H)H - H(W - H) = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Daraus folgt nach (10), Kap. 1:\n\n$$\\dot{H} = 0. \\quad (12)$$",
+          "markdown": "Daraus folgt nach (10), Kap. 1:\n\n$$\\dot{H} = 0. \\quad (12)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Damit ist der Energiesatz bewiesen, $H$ ist als Diagonalmatrix $H(nm) = \\delta_{nm}H_n$ erkannt. Aus (11), Kap. 1, folgt nun unmittelbar auch die Frequenzbedingung:\n\n$$q(nm)(H_n - H_m) = q(nm)(W_n - W_m), \\quad (13)$$",
+          "markdown": "Damit ist der Energiesatz bewiesen, $H$ ist als Diagonalmatrix $H(nm) = \\delta_{nm}H_n$ erkannt. Aus (11), Kap. 1, folgt nun unmittelbar auch die Frequenzbedingung:\n\n$$q(nm)(H_n - H_m) = q(nm)(W_n - W_m), \\quad (13)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "d. h.\n\n$$\\frac{H_n - H_m}{h} = \\nu(nm). \\quad (14)$$",
+          "markdown": "d. h.\n\n$$\\frac{H_n - H_m}{h} = \\nu(nm). \\quad (14)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Dann gilt für irgend eine quantentheoretische Größe:\n\n$$\\dot{a} = \\frac{2\\pi i}{h} (Wa - aW). \\quad (10)$$ In der Tat war ja (vgl. Teil I) $\\dot{a}$ definiert durch\n\n$$\\dot{a}(nm) = 2\\pi i v(nm) a(nm).$$\n\nZu den Grundpfeilern der Theorie, die wir hier aufzubauen suchen, gehört der Energiesatz ($H = \\text{const}$) und die Frequenzbedingung\n\n$$\\left( \\nu(nm) = \\frac{H_n - H_m}{h}; H_n = W_n + \\text{const} \\right).$$\n\nDen Beweis für diese beiden Sätze führen wir, indem wir die Beziehungen (6) und (10) in Gl. (7) (Kap. I) einsetzen.\n\nDann ergibt sich:\n\n$$\\left. \\begin{array}{l} Wq - qW = Hq - qH \\\\ Wp - pW = Hp - pH \\end{array} \\right\\} \\quad (11)$$ oder auch\n\n$$\\begin{aligned}\n(W - H)q - q(W - H) &= 0, \\\\\n(W - H)p - p(W - H) &= 0. \\end{aligned}$$ Die Größe $W - H$ ist also mit $p$ und $q$, daher auch mit jeder Funktion von $p, q$, insbesondere auch mit $H$ vertauschbar:\n\n$$(W - H)H - H(W - H) = 0.$$ Daraus folgt nach (10), Kap. 1:\n\n$$\\dot{H} = 0. \\quad (12)$$ Damit ist der Energiesatz bewiesen, $H$ ist als Diagonalmatrix $H(nm) = \\delta_{nm}H_n$ erkannt. Aus (11), Kap. 1, folgt nun unmittelbar auch die Frequenzbedingung:\n\n$$q(nm)(H_n - H_m) = q(nm)(W_n - W_m), \\quad (13)$$ d. h.\n\n$$\\frac{H_n - H_m}{h} = \\nu(nm). \\quad (14)$$",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "564",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir haben bisher aus den kanonischen Gleichungen mit Hilfe der Grundgleichung (5), Kap. 1, Energiesatz und Frequenzbedingung bewiesen. Nachträglich aber können wir den Beweis auch umkehren. Wir wissen, dass Energiesatz und Frequenzbedingung richtig sind. Wenn also die Energiefunktion $H$ als analytische Funktion irgendwelcher Variablen $P, Q$ gegeben ist, so gelten immer dann, wenn\n\n$$PQ - QP = \\frac{h}{2\\pi i} 1$$\n\nist, die kanonischen Gleichungen:\n\n$$\\dot{Q} = \\frac{\\partial H}{\\partial P}, \\quad \\dot{P} = -\\frac{\\partial H}{\\partial Q}. \\quad (15)$$",
+          "markdown": "Wir haben bisher aus den kanonischen Gleichungen mit Hilfe der Grundgleichung (5), Kap. 1, Energiesatz und Frequenzbedingung bewiesen. Nachträglich aber können wir den Beweis auch umkehren. Wir wissen, dass Energiesatz und Frequenzbedingung richtig sind. Wenn also die Energiefunktion $H$ als analytische Funktion irgendwelcher Variablen $P, Q$ gegeben ist, so gelten immer dann, wenn\n\n$$PQ - QP = \\frac{h}{2\\pi i} 1$$\n\nist, die kanonischen Gleichungen:\n\n$$\\dot{Q} = \\frac{\\partial H}{\\partial P}, \\quad \\dot{P} = -\\frac{\\partial H}{\\partial Q}. \\quad (15)$$",
+          "asset_id": "null",
+          "suggested_filename": "null",
+          "caption_original": "null",
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": "null"
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dies folgt unmittelbar daraus, dass die Größen $PH - HP$ bzw. $HQ - QH$ in doppelter Weise, nämlich entsprechend (6), Kap. 1, und entsprechend Gleichung (10), Kap. 1, interpretiert werden können.",
+          "markdown": "Dies folgt unmittelbar daraus, dass die Größen $PH - HP$ bzw. $HQ - QH$ in doppelter Weise, nämlich entsprechend (6), Kap. 1, und entsprechend Gleichung (10), Kap. 1, interpretiert werden können.",
+          "asset_id": "null",
+          "suggested_filename": "null",
+          "caption_original": "null",
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": "null"
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 3. Kanonische Transformationen.",
+          "markdown": "### § 3. Kanonische Transformationen.",
+          "asset_id": "null",
+          "suggested_filename": "null",
+          "caption_original": "null",
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "null}, {"
+        }
+      ],
+      "page_markdown_original": "Wir haben bisher aus den kanonischen Gleichungen mit Hilfe der Grundgleichung (5), Kap. 1, Energiesatz und Frequenzbedingung bewiesen. Nachträglich aber können wir den Beweis auch umkehren. Wir wissen, dass Energiesatz und Frequenzbedingung richtig sind. Wenn also die Energiefunktion $H$ als analytische Funktion irgendwelcher Variablen $P, Q$ gegeben ist, so gelten immer dann, wenn\n\n$$PQ - QP = \\frac{h}{2\\pi i} 1$$\n\nist, die kanonischen Gleichungen:\n\n$$\\dot{Q} = \\frac{\\partial H}{\\partial P}, \\quad \\dot{P} = -\\frac{\\partial H}{\\partial Q}. \\quad (15)$$ Dies folgt unmittelbar daraus, dass die Größen $PH - HP$ bzw. $HQ - QH$ in doppelter Weise, nämlich entsprechend (6), Kap. 1, und entsprechend Gleichung (10), Kap. 1, interpretiert werden können.\n\n### § 3. Kanonische Transformationen.",
+      "word_count": 250,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 57,
+      "printed_page_number": "577",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Anhangsweise sei hier noch darauf hingewiesen, dass ein wohlbekannter Satz der klassischen Mechanik sich auf Grund der Festsetzungen (3), Kap. 2, ohne weiteres in die neue Theorie überträgt. Es sei\n\n$$H = E_{\\text{kin}} + E_{\\text{pot}} = \\frac{1}{2} \\sum_k \\frac{p_k^2}{m_k} + E_{\\text{pot}}, \\quad (15)$$",
+          "markdown": "Anhangsweise sei hier noch darauf hingewiesen, dass ein wohlbekannter Satz der klassischen Mechanik sich auf Grund der Festsetzungen (3), Kap. 2, ohne weiteres in die neue Theorie überträgt. Es sei\n\n$$H = E_{\\text{kin}} + E_{\\text{pot}} = \\frac{1}{2} \\sum_k \\frac{p_k^2}{m_k} + E_{\\text{pot}}, \\quad (15)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und $E_{\\text{pot}}$ eine homogene Funktion der Koordinaten vom Grade $n$. Es wird dann nach (3), Kap. 2:\n\n$$E_{\\text{pot}} = \\frac{1}{n} \\sum_k \\frac{\\partial E_{\\text{pot}}}{\\partial q_k} q_k \\quad (16)$$",
+          "markdown": "und $E_{\\text{pot}}$ eine homogene Funktion der Koordinaten vom Grade $n$. Es wird dann nach (3), Kap. 2:\n\n$$E_{\\text{pot}} = \\frac{1}{n} \\sum_k \\frac{\\partial E_{\\text{pot}}}{\\partial q_k} q_k \\quad (16)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und\n\n$$\\frac{d}{dt} \\sum_k p_k q_k = \\sum_k (\\dot{p}_k q_k + p_k \\dot{q}_k) = 2 E_{\\text{kin}} - n E_{\\text{pot}},$$\n\nalso für die Mittelwerte\n\n$$\\overline{E}_{\\text{kin}} = \\frac{n}{2} \\overline{E}_{\\text{pot}}. \\quad (17)$$",
+          "markdown": "und\n\n$$\\frac{d}{dt} \\sum_k p_k q_k = \\sum_k (\\dot{p}_k q_k + p_k \\dot{q}_k) = 2 E_{\\text{kin}} - n E_{\\text{pot}},$$\n\nalso für die Mittelwerte\n\n$$\\overline{E}_{\\text{kin}} = \\frac{n}{2} \\overline{E}_{\\text{pot}}. \\quad (17)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Z. B. wird für $n = 2$ (harmonische Schwingungen) $\\overline{E}_{\\text{kin}} = \\overline{E}_{\\text{pot}}$ und für $n = -1$ (Coulombsche Kräfte) $\\overline{E}_{\\text{kin}} = -\\frac{1}{2} \\overline{E}_{\\text{pot}}$.",
+          "markdown": "Z. B. wird für $n = 2$ (harmonische Schwingungen) $\\overline{E}_{\\text{kin}} = \\overline{E}_{\\text{pot}}$ und für $n = -1$ (Coulombsche Kräfte) $\\overline{E}_{\\text{kin}} = -\\frac{1}{2} \\overline{E}_{\\text{pot}}$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 2. Entartete Systeme.",
+          "markdown": "## § 2. Entartete Systeme.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Anhangsweise sei hier noch darauf hingewiesen, dass ein wohlbekannter Satz der klassischen Mechanik sich auf Grund der Festsetzungen (3), Kap. 2, ohne weiteres in die neue Theorie überträgt. Es sei\n\n$$H = E_{\\text{kin}} + E_{\\text{pot}} = \\frac{1}{2} \\sum_k \\frac{p_k^2}{m_k} + E_{\\text{pot}}, \\quad (15)$$ und $E_{\\text{pot}}$ eine homogene Funktion der Koordinaten vom Grade $n$. Es wird dann nach (3), Kap. 2:\n\n$$E_{\\text{pot}} = \\frac{1}{n} \\sum_k \\frac{\\partial E_{\\text{pot}}}{\\partial q_k} q_k \\quad (16)$$ und\n\n$$\\frac{d}{dt} \\sum_k p_k q_k = \\sum_k (\\dot{p}_k q_k + p_k \\dot{q}_k) = 2 E_{\\text{kin}} - n E_{\\text{pot}},$$\n\nalso für die Mittelwerte\n\n$$\\overline{E}_{\\text{kin}} = \\frac{n}{2} \\overline{E}_{\\text{pot}}. \\quad (17)$$ Z. B. wird für $n = 2$ (harmonische Schwingungen) $\\overline{E}_{\\text{kin}} = \\overline{E}_{\\text{pot}}$ und für $n = -1$ (Coulombsche Kräfte) $\\overline{E}_{\\text{kin}} = -\\frac{1}{2} \\overline{E}_{\\text{pot}}$.\n\n## § 2. Entartete Systeme.",
+      "word_count": 300,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 58,
+      "printed_page_number": "578",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Gehen wir nun zu entarteten Systemen über, so können wir aus (20) nicht mehr folgern, dass $S$ eine Diagonalmatrix sei, und es ergibt sich durch (19) wirklich die Möglichkeit, von $p, q$ wesentlich verschiedene Lösungen $p', q'$ abzuleiten. Es scheint, dass diese Nichteindeutigkeit in der Natur der Sache liegt. Die entarteten Systeme besitzen offenbar eine Labilität, dank deren durch beliebig kleine Störungen endliche Änderungen der Koordinaten herbeigeführt werden können, und die darin ihren mathematischen Ausdruck findet, dass bei völliger Abwesenheit von Störungen die Lösung der dynamischen",
+          "markdown": "Gehen wir nun zu entarteten Systemen über, so können wir aus (20) nicht mehr folgern, dass $S$ eine Diagonalmatrix sei, und es ergibt sich durch (19) wirklich die Möglichkeit, von $p, q$ wesentlich verschiedene Lösungen $p', q'$ abzuleiten. Es scheint, dass diese Nichteindeutigkeit in der Natur der Sache liegt. Die entarteten Systeme besitzen offenbar eine Labilität, dank deren durch beliebig kleine Störungen endliche Änderungen der Koordinaten herbeigeführt werden können, und die darin ihren mathematischen Ausdruck findet, dass bei völliger Abwesenheit von Störungen die Lösung der dynamischen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Gleichungen teilweise unbestimmt bleibt. Natürlich werden bei jedem einzelnen wirklichen Atom die für die physikalischen Eigenschaften des Systems, insbesondere die Übergangswahrscheinlichkeiten maßgebenden Koordinaten stets durch äußere Störungen oder durch die Vorgeschichte des Systems eindeutig festgelegt sein.",
+          "markdown": "Gleichungen teilweise unbestimmt bleibt. Natürlich werden bei jedem einzelnen wirklichen Atom die für die physikalischen Eigenschaften des Systems, insbesondere die Übergangswahrscheinlichkeiten maßgebenden Koordinaten stets durch äußere Störungen oder durch die Vorgeschichte des Systems eindeutig festgelegt sein.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir wollen nun den Einfluß beliebiger Störungen auf das entartete System untersuchen. Sei also\n\n$$H(p q) = H_0 + \\lambda H_1 + \\lambda^2 H_2 + \\cdots, \\quad (22)$$",
+          "markdown": "Wir wollen nun den Einfluß beliebiger Störungen auf das entartete System untersuchen. Sei also\n\n$$H(p q) = H_0 + \\lambda H_1 + \\lambda^2 H_2 + \\cdots, \\quad (22)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und sei $p^0, q^0$ eine beliebige, aber fest gewählte Lösung des ungestörten Problems:\n\n$$H_0(p_0 q_0) = W_0. \\quad (23)$$",
+          "markdown": "und sei $p^0, q^0$ eine beliebige, aber fest gewählte Lösung des ungestörten Problems:\n\n$$H_0(p_0 q_0) = W_0. \\quad (23)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Der Ansatz\n\n$$p = S p^0 S^{-1},$$\n\n$$q = S q^0 S^{-1},$$\n\nmit\n\n$$S = S_0 (1 + \\lambda S_1 + \\lambda^2 S_2 + \\cdots), \\quad (24)$$\n\n$$S^{-1} = (1 - \\lambda (S_1 + \\lambda S_2 \\cdots) + \\lambda^2 \\cdots) S_0^{-1}, \\quad (25)$$",
+          "markdown": "Der Ansatz\n\n$$p = S p^0 S^{-1},$$\n\n$$q = S q^0 S^{-1},$$\n\nmit\n\n$$S = S_0 (1 + \\lambda S_1 + \\lambda^2 S_2 + \\cdots), \\quad (24)$$\n\n$$S^{-1} = (1 - \\lambda (S_1 + \\lambda S_2 \\cdots) + \\lambda^2 \\cdots) S_0^{-1}, \\quad (25)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "ergibt dann, wenn wir in $H_0, H_1 \\cdots$ die Argumente $p^0, q^0$ auslassen:\n\n$$S_0 H_0 S_0^{-1} = W_0, \\quad (26)$$\n\n$$S_0 S_1 H_0 S_0^{-1} - S_0 H_0 S_1 S_0^{-1} + S_0 H_1 S_0^{-1} = W_1, \\quad (27)$$\n\n$$S_0 S_2 H_0 S_0^{-1} - S_0 H_0 S_2 S_0^{-1} + S_0 F_2 (H_0 H_1 H_2; S_1) S_0^{-1} = W_2, \\quad (28)$$\n\n$$S_0 S_r H_0 S_0^{-1} - S_0 H_0 S_r S_0^{-1}$$\n\n$$+ S_0 F_r (H_0 H_1 \\cdots H_r, S_1 \\cdots S_{r-1}) S_0^{-1} = W_r. \\quad (29)$$",
+          "markdown": "ergibt dann, wenn wir in $H_0, H_1 \\cdots$ die Argumente $p^0, q^0$ auslassen:\n\n$$S_0 H_0 S_0^{-1} = W_0, \\quad (26)$$\n\n$$S_0 S_1 H_0 S_0^{-1} - S_0 H_0 S_1 S_0^{-1} + S_0 H_1 S_0^{-1} = W_1, \\quad (27)$$\n\n$$S_0 S_2 H_0 S_0^{-1} - S_0 H_0 S_2 S_0^{-1} + S_0 F_2 (H_0 H_1 H_2; S_1) S_0^{-1} = W_2, \\quad (28)$$\n\n$$S_0 S_r H_0 S_0^{-1} - S_0 H_0 S_r S_0^{-1}$$\n\n$$+ S_0 F_r (H_0 H_1 \\cdots H_r, S_1 \\cdots S_{r-1}) S_0^{-1} = W_r. \\quad (29)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Gehen wir nun zu entarteten Systemen über, so können wir aus (20) nicht mehr folgern, dass $S$ eine Diagonalmatrix sei, und es ergibt sich durch (19) wirklich die Möglichkeit, von $p, q$ wesentlich verschiedene Lösungen $p', q'$ abzuleiten. Es scheint, dass diese Nichteindeutigkeit in der Natur der Sache liegt. Die entarteten Systeme besitzen offenbar eine Labilität, dank deren durch beliebig kleine Störungen endliche Änderungen der Koordinaten herbeigeführt werden können, und die darin ihren mathematischen Ausdruck findet, dass bei völliger Abwesenheit von Störungen die Lösung der dynamischen\n\nGleichungen teilweise unbestimmt bleibt. Natürlich werden bei jedem einzelnen wirklichen Atom die für die physikalischen Eigenschaften des Systems, insbesondere die Übergangswahrscheinlichkeiten maßgebenden Koordinaten stets durch äußere Störungen oder durch die Vorgeschichte des Systems eindeutig festgelegt sein.\n\nWir wollen nun den Einfluß beliebiger Störungen auf das entartete System untersuchen. Sei also\n\n$$H(p q) = H_0 + \\lambda H_1 + \\lambda^2 H_2 + \\cdots, \\quad (22)$$ und sei $p^0, q^0$ eine beliebige, aber fest gewählte Lösung des ungestörten Problems:\n\n$$H_0(p_0 q_0) = W_0. \\quad (23)$$ Der Ansatz\n\n$$p = S p^0 S^{-1},$$\n\n$$q = S q^0 S^{-1},$$\n\nmit\n\n$$S = S_0 (1 + \\lambda S_1 + \\lambda^2 S_2 + \\cdots), \\quad (24)$$\n\n$$S^{-1} = (1 - \\lambda (S_1 + \\lambda S_2 \\cdots) + \\lambda^2 \\cdots) S_0^{-1}, \\quad (25)$$ ergibt dann, wenn wir in $H_0, H_1 \\cdots$ die Argumente $p^0, q^0$ auslassen:\n\n$$S_0 H_0 S_0^{-1} = W_0, \\quad (26)$$\n\n$$S_0 S_1 H_0 S_0^{-1} - S_0 H_0 S_1 S_0^{-1} + S_0 H_1 S_0^{-1} = W_1, \\quad (27)$$\n\n$$S_0 S_2 H_0 S_0^{-1} - S_0 H_0 S_2 S_0^{-1} + S_0 F_2 (H_0 H_1 H_2; S_1) S_0^{-1} = W_2, \\quad (28)$$\n\n$$S_0 S_r H_0 S_0^{-1} - S_0 H_0 S_r S_0^{-1}$$\n\n$$+ S_0 F_r (H_0 H_1 \\cdots H_r, S_1 \\cdots S_{r-1}) S_0^{-1} = W_r. \\quad (29)$$",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 59,
+      "printed_page_number": "579",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Gleichung (26), Kap. 2, ist bereits oben erörtert worden; es wird $S_0(n m)$ gleich Null außer für verschwindendes $v_0(n m)$. Die noch verbleibende Willkür in $S_0$ muss nun nach Möglichkeit ausgenutzt werden, um die nächste Gleichung lösbar zu machen. Es kann natürlich nicht von jeder Lösung von $H = H_0$, also insbesondere auch nicht von der ausgewählten $p^0, q^0$ erwartet werden, dass sie den Grenzfall $\\lambda = 0$ der Lösung $p, q$ des Problems (22), Kap. 2, liefert. Die Funktion $S_0$ soll dazu dienen, aus $p^0, q^0$ diejenige Lösung des entarteten Problems herzustellen, welche diese verlangte Eigenschaft besitzt.",
+          "markdown": "Die Gleichung (26), Kap. 2, ist bereits oben erörtert worden; es wird $S_0(n m)$ gleich Null außer für verschwindendes $v_0(n m)$. Die noch verbleibende Willkür in $S_0$ muss nun nach Möglichkeit ausgenutzt werden, um die nächste Gleichung lösbar zu machen. Es kann natürlich nicht von jeder Lösung von $H = H_0$, also insbesondere auch nicht von der ausgewählten $p^0, q^0$ erwartet werden, dass sie den Grenzfall $\\lambda = 0$ der Lösung $p, q$ des Problems (22), Kap. 2, liefert. Die Funktion $S_0$ soll dazu dienen, aus $p^0, q^0$ diejenige Lösung des entarteten Problems herzustellen, welche diese verlangte Eigenschaft besitzt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Gleichung (27) kann umgeschrieben werden in\n\n$$S_1 H_0 - H_0 S_1 + H_1 = S_0^{-1} W_1 S_0. \\quad (30)$$",
+          "markdown": "Die Gleichung (27) kann umgeschrieben werden in\n\n$$S_1 H_0 - H_0 S_1 + H_1 = S_0^{-1} W_1 S_0. \\quad (30)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Um sie lösbar zu machen, muss $S_0$ so bestimmt werden, dass\n\n$$\\bar{H}_1 = S_0^{-1} W_1 S_0 \\quad (31)$$\n\nmit einer Diagonalmatrix $W_1$ wird.",
+          "markdown": "Um sie lösbar zu machen, muss $S_0$ so bestimmt werden, dass\n\n$$\\bar{H}_1 = S_0^{-1} W_1 S_0 \\quad (31)$$\n\nmit einer Diagonalmatrix $W_1$ wird.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Für die gleichzeitige Befriedigung dieser Gleichung und der durch (26), Kap. 2, gestellten Forderungen kann hier natürlich ebensowenig eine allgemeine Anweisung gegeben werden, wie für die Bestimmung der säkularen Störungen in der klassischen Theorie. Später werden wir aber mit einer neuen, algebraischen Methode zu einer einfachen Behandlung einer großen Klasse von Entartungen gelangen (Kap. 3).",
+          "markdown": "Für die gleichzeitige Befriedigung dieser Gleichung und der durch (26), Kap. 2, gestellten Forderungen kann hier natürlich ebensowenig eine allgemeine Anweisung gegeben werden, wie für die Bestimmung der säkularen Störungen in der klassischen Theorie. Später werden wir aber mit einer neuen, algebraischen Methode zu einer einfachen Behandlung einer großen Klasse von Entartungen gelangen (Kap. 3).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Die Gleichung (26), Kap. 2, ist bereits oben erörtert worden; es wird $S_0(n m)$ gleich Null außer für verschwindendes $v_0(n m)$. Die noch verbleibende Willkür in $S_0$ muss nun nach Möglichkeit ausgenutzt werden, um die nächste Gleichung lösbar zu machen. Es kann natürlich nicht von jeder Lösung von $H = H_0$, also insbesondere auch nicht von der ausgewählten $p^0, q^0$ erwartet werden, dass sie den Grenzfall $\\lambda = 0$ der Lösung $p, q$ des Problems (22), Kap. 2, liefert. Die Funktion $S_0$ soll dazu dienen, aus $p^0, q^0$ diejenige Lösung des entarteten Problems herzustellen, welche diese verlangte Eigenschaft besitzt.\n\nDie Gleichung (27) kann umgeschrieben werden in\n\n$$S_1 H_0 - H_0 S_1 + H_1 = S_0^{-1} W_1 S_0. \\quad (30)$$ Um sie lösbar zu machen, muss $S_0$ so bestimmt werden, dass\n\n$$\\bar{H}_1 = S_0^{-1} W_1 S_0 \\quad (31)$$\n\nmit einer Diagonalmatrix $W_1$ wird. Für die gleichzeitige Befriedigung dieser Gleichung und der durch (26), Kap. 2, gestellten Forderungen kann hier natürlich ebensowenig eine allgemeine Anweisung gegeben werden, wie für die Bestimmung der säkularen Störungen in der klassischen Theorie. Später werden wir aber mit einer neuen, algebraischen Methode zu einer einfachen Behandlung einer großen Klasse von Entartungen gelangen (Kap. 3).",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 60,
+      "printed_page_number": "580",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ist (31), Kap. 2, erfüllt, so kann (30), Kap. 2, wie in Kap. 1 gelöst werden. Willkürlich bleiben dabei diejenigen Glieder $S_1(n m)$ von $S_1$, für die $\\nu_0(n m)$ verschwindet, und diese Unbestimmtheit muss benutzt werden, um in der nächsten Näherungsgleichung, die zu\n\n$$S_2 H_0 - H_0 S_2 + F_2 = S_0^{-1} W_2 S_0 \\quad (32)$$\n\numgeschrieben werden kann, die zur Lösbarkeit notwendige Beziehung\n\n$$\\overline{F_2(H_0, H_1, H_2; S_1)} = S_0^{-1} W_2 S_0 \\quad (31')$$\n\nmit einer Diagonalmatrix $W_2$ zu erfüllen.",
+          "markdown": "Ist (31), Kap. 2, erfüllt, so kann (30), Kap. 2, wie in Kap. 1 gelöst werden. Willkürlich bleiben dabei diejenigen Glieder $S_1(n m)$ von $S_1$, für die $\\nu_0(n m)$ verschwindet, und diese Unbestimmtheit muss benutzt werden, um in der nächsten Näherungsgleichung, die zu\n\n$$S_2 H_0 - H_0 S_2 + F_2 = S_0^{-1} W_2 S_0 \\quad (32)$$\n\numgeschrieben werden kann, die zur Lösbarkeit notwendige Beziehung\n\n$$\\overline{F_2(H_0, H_1, H_2; S_1)} = S_0^{-1} W_2 S_0 \\quad (31')$$\n\nmit einer Diagonalmatrix $W_2$ zu erfüllen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Fortsetzung des Verfahrens ist klar.",
+          "markdown": "Die Fortsetzung des Verfahrens ist klar.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Schwierigkeit liegt darin, dass man in jeder Näherung Gleichungen zu befriedigen hat durch Matrizen, die schon größtenteils festgelegt sind, so dass nicht zu übersehen ist, ob diese Gleichungen wirklich lösbar sein werden. Es besteht jedoch bekanntlich eine ganz entsprechende Schwierigkeit in der klassischen Theorie. Beseitigt werden diese Schwierigkeiten wenigstens für die höheren Näherungen, wenn in irgend einer Näherung das System nichtentartet wird.",
+          "markdown": "Die Schwierigkeit liegt darin, dass man in jeder Näherung Gleichungen zu befriedigen hat durch Matrizen, die schon größtenteils festgelegt sind, so dass nicht zu übersehen ist, ob diese Gleichungen wirklich lösbar sein werden. Es besteht jedoch bekanntlich eine ganz entsprechende Schwierigkeit in der klassischen Theorie. Beseitigt werden diese Schwierigkeiten wenigstens für die höheren Näherungen, wenn in irgend einer Näherung das System nichtentartet wird.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Seien z. B. in\n\n$$q = q^0 + \\lambda q^{(1)} + \\cdots,$$\n\n$$p = p^0 + \\lambda p^{(1)} + \\cdots$$\n\n$p^{(1)}, q^{(1)}$ wirklich bestimmt worden, so dass also mit\n\n$$Q = q_0 + \\lambda q^{(1)}$$\n\n$$P = p^0 + \\lambda p^{(1)}$$\n\n",
+          "markdown": "Seien z. B. in\n\n$$q = q^0 + \\lambda q^{(1)} + \\cdots,$\n\n$$p = p^0 + \\lambda p^{(1)} + \\cdots$$\n\n$p^{(1)}, q^{(1)}$ wirklich bestimmt worden, so dass also mit\n\n$$Q = q_0 + \\lambda q^{(1)}$$\n\n$$P = p^0 + \\lambda p^{(1)}$$\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Ist (31), Kap. 2, erfüllt, so kann (30), Kap. 2, wie in Kap. 1 gelöst werden. Willkürlich bleiben dabei diejenigen Glieder $S_1(n m)$ von $S_1$, für die $\\nu_0(n m)$ verschwindet, und diese Unbestimmtheit muss benutzt werden, um in der nächsten Näherungsgleichung, die zu\n\n$$S_2 H_0 - H_0 S_2 + F_2 = S_0^{-1} W_2 S_0 \\quad (32)$$\n\numgeschrieben werden kann, die zur Lösbarkeit notwendige Beziehung\n\n$$\\overline{F_2(H_0, H_1, H_2; S_1)} = S_0^{-1} W_2 S_0 \\quad (31')$$\n\nmit einer Diagonalmatrix $W_2$ zu erfüllen. Die Fortsetzung des Verfahrens ist klar.\n\nDie Schwierigkeit liegt darin, dass man in jeder Näherung Gleichungen zu befriedigen hat durch Matrizen, die schon größtenteils festgelegt sind, so dass nicht zu übersehen ist, ob diese Gleichungen wirklich lösbar sein werden. Es besteht jedoch bekanntlich eine ganz entsprechende Schwierigkeit in der klassischen Theorie. Beseitigt werden diese Schwierigkeiten wenigstens für die höheren Näherungen, wenn in irgend einer Näherung das System nichtentartet wird.\n\nSeien z. B. in\n\n$$q = q^0 + \\lambda q^{(1)} + \\cdots,$\n\n$$p = p^0 + \\lambda p^{(1)} + \\cdots$$\n\n$p^{(1)}, q^{(1)}$ wirklich bestimmt worden, so dass also mit\n\n$$Q = q_0 + \\lambda q^{(1)}$$\n\n$$P = p^0 + \\lambda p^{(1)}$$\n\n",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 61,
+      "printed_page_number": "581",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "gilt:\n\n$$H(PQ) = W_0 + \\lambda W_1 + \\lambda^2 H_2' + \\lambda^3 H_3' + \\cdots,$$\n\nund sei\n\n$$\\nu_0(n m) + \\lambda \\nu_1(n m) \\neq 0 \\text{ für } n \\neq m.$$",
+          "markdown": "gilt:\n\n$$H(PQ) = W_0 + \\lambda W_1 + \\lambda^2 H_2' + \\lambda^3 H_3' + \\cdots,$\n\nund sei\n\n$$\\nu_0(n m) + \\lambda \\nu_1(n m) \\neq 0 \\text{ für } n \\neq m.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn wir $W_0 + \\lambda W_1$ kurz mit $H_0'$ bezeichnen und den Ansatz\n\n$$p = S P S^{-1}$$\n\n$$q = S Q S^{-1}$$\n\nmachen, so ist\n\n$$S (H_0' + \\lambda^2 H_2' + \\lambda^3 H_3' + \\cdots) S^{-1} = W$$\n\nzu machen, was nach dem Verfahren von Kap. 1 durch\n\n$$S = 1 + \\lambda^2 S_2 + \\lambda^3 S_3 + \\cdots$$\n\n",
+          "markdown": "Wenn wir $W_0 + \\lambda W_1$ kurz mit $H_0'$ bezeichnen und den Ansatz\n\n$$p = S P S^{-1}$$\n\n$$q = S Q S^{-1}$$\n\nmachen, so ist\n\n$$S (H_0' + \\lambda^2 H_2' + \\lambda^3 H_3' + \\cdots) S^{-1} = W$$\n\nzu machen, was nach dem Verfahren von Kap. 1 durch\n\n$$S = 1 + \\lambda^2 S_2 + \\lambda^3 S_3 + \\cdots$$\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "erzielt werden kann. Die Verallgemeinerung dieser Betrachtungen für den Fall, dass erst mit der $r$-ten Näherung ein nicht entartetes System $W = W_0 + \\lambda W_1 + \\cdots + \\lambda^r W_r$ erreicht wird, ergibt sich von selbst ¹).",
+          "markdown": "erzielt werden kann. Die Verallgemeinerung dieser Betrachtungen für den Fall, dass erst mit der $r$-ten Näherung ein nicht entartetes System $W = W_0 + \\lambda W_1 + \\cdots + \\lambda^r W_r$ erreicht wird, ergibt sich von selbst ¹).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Die analogen Fälle der klassischen Mechanik sind von M. Born und W. Heisenberg, Ann. d. Phys. 74, 1, 1924, diskutiert worden.",
+          "markdown": "¹) Die analogen Fälle der klassischen Mechanik sind von M. Born und W. Heisenberg, *Ann. d. Phys.* **74**, 1, 1924, diskutiert worden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Kapitel 3. Zusammenhang mit der Theorie der Eigenwerte Hermitescher Formen.",
+          "markdown": "## Kapitel 3. Zusammenhang mit der Theorie der Eigenwerte Hermitescher Formen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 1. Allgemeine Methode.",
+          "markdown": "### § 1. Allgemeine Methode.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "gilt:\n\n$$H(PQ) = W_0 + \\lambda W_1 + \\lambda^2 H_2' + \\lambda^3 H_3' + \\cdots,$$\n\nund sei\n\n$$\\nu_0(n m) + \\lambda \\nu_1(n m) \\neq 0 \\text{ für } n \\neq m.$$ Wenn wir $W_0 + \\lambda W_1$ kurz mit $H_0'$ bezeichnen und den Ansatz\n\n$$p = S P S^{-1}$$\n\n$$q = S Q S^{-1}$$\n\nmachen, so ist\n\n$$S (H_0' + \\lambda^2 H_2' + \\lambda^3 H_3' + \\cdots) S^{-1} = W$$\n\nzu machen, was nach dem Verfahren von Kap. 1 durch\n\n$$S = 1 + \\lambda^2 S_2 + \\lambda^3 S_3 + \\cdots$$\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nerzielt werden kann. Die Verallgemeinerung dieser Betrachtungen für den Fall, dass erst mit der $r$-ten Näherung ein nicht entartetes System $W = W_0 + \\lambda W_1 + \\cdots + \\lambda^r W_r$ erreicht wird, ergibt sich von selbst ¹).\n\n¹) Die analogen Fälle der klassischen Mechanik sind von M. Born und W. Heisenberg, *Ann. d. Phys.* **74**, 1, 1924, diskutiert worden.\n\n## Kapitel 3. Zusammenhang mit der Theorie der Eigenwerte Hermitescher Formen.\n\n### § 1. Allgemeine Methode.",
+      "word_count": 300,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 62,
+      "printed_page_number": "582",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ist ein Problem von $f > 1$ Freiheitsgraden durch die Energiefunktion $H(p, q)$ vorgelegt, so können wir zunächst irgend ein System von Matrizen $p_k^0, q_k^0$ derart wählen, dass jedenfalls die Vertauschungsregeln (3), Kap. 2, erfüllt sind; z. B. können die $p_k, q_k$ eines Systems ungekoppelter harmonischer Oszillatoren genommen werden.",
+          "markdown": "Ist ein Problem von $f > 1$ Freiheitsgraden durch die Energiefunktion $H(p, q)$ vorgelegt, so können wir zunächst irgend ein System von Matrizen $p_k^0, q_k^0$ derart wählen, dass jedenfalls die Vertauschungsregeln (3), Kap. 2, erfüllt sind; z. B. können die $p_k, q_k$ eines Systems ungekoppelter harmonischer Oszillatoren genommen werden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dann kann man, wie oben Kap. 2, § 1, erwähnt, die dynamische Aufgabe, d. h. die Bestimmung der $p_k, q_k$, auch so formulieren:",
+          "markdown": "Dann kann man, wie oben Kap. 2, § 1, erwähnt, die dynamische Aufgabe, d. h. die Bestimmung der $p_k, q_k$, auch so formulieren:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es soll eine Transformation $(p_k^0, q_k^0) \\to (p_k, q_k)$ gefunden werden, welche die Gleichungen (3), Kap. 2, invariant läßt und zugleich die Energie in eine Diagonalmatrix verwandelt.",
+          "markdown": "Es soll eine Transformation $(p_k^0, q_k^0) \\to (p_k, q_k)$ gefunden werden, welche die Gleichungen (3), Kap. 2, invariant läßt und zugleich die Energie in eine Diagonalmatrix verwandelt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man übersieht die Transformation von Matrizen am besten, wenn man sie als Koeffizientensysteme von linearen Transformationen bzw. bilinearen Formen auffasst. Wir schicken daher einige bekannte Sätze der Algebra solcher Formen voraus.",
+          "markdown": "Man übersieht die Transformation von Matrizen am besten, wenn man sie als Koeffizientensysteme von linearen Transformationen bzw. bilinearen Formen auffasst. Wir schicken daher einige bekannte Sätze der Algebra solcher Formen voraus.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Zu jeder Matrix $\\bar{a} = (a(nm))$ gehört eine bilineare Form\n\n$$A(xy) = \\sum_{nm} a(nm) x_n y_m \\quad (1)$$\n\nzweier Reihen von Variablen $x_1, x_2, \\dots$ und $y_1, y_2, \\dots$. Ist die Matrix vom Hermiteschen Typus, d. h. ist die transponierte Matrix $\\bar{a} = (a(mn))$ gleich der zur ursprünglichen konjugiert komplexen Matrix:\n\n$$\\bar{a} = a^*, \\quad a(mn) = a^*(nm), \\quad (2)$$\n\nso nimmt die Form $A$ reelle Werte an, wenn man für die Variablen $y_n$ die konjugiert komplexen Werte $x_n$ setzt:\n\n$$A(xx^*) = \\sum_{nm} a(nm) x_n x_m^*. \\quad (1a)$$",
+          "markdown": "Zu jeder Matrix $\\bar{a} = (a(nm))$ gehört eine bilineare Form\n\n$$A(xy) = \\sum_{nm} a(nm) x_n y_m \\quad (1)$$\n\nzweier Reihen von Variablen $x_1, x_2, \\dots$ und $y_1, y_2, \\dots$. Ist die Matrix vom Hermiteschen Typus, d. h. ist die transponierte Matrix $\\bar{a} = (a(mn))$ gleich der zur ursprünglichen konjugiert komplexen Matrix:\n\n$$\\bar{a} = a^*, \\quad a(mn) = a^*(nm), \\quad (2)$$\n\nso nimmt die Form $A$ reelle Werte an, wenn man für die Variablen $y_n$ die konjugiert komplexen Werte $x_n$ setzt:\n\n$$A(xx^*) = \\sum_{nm} a(nm) x_n x_m^*. \\quad (1a)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Ist ein Problem von $f > 1$ Freiheitsgraden durch die Energiefunktion $H(p, q)$ vorgelegt, so können wir zunächst irgend ein System von Matrizen $p_k^0, q_k^0$ derart wählen, dass jedenfalls die Vertauschungsregeln (3), Kap. 2, erfüllt sind; z. B. können die $p_k, q_k$ eines Systems ungekoppelter harmonischer Oszillatoren genommen werden.\n\nDann kann man, wie oben Kap. 2, § 1, erwähnt, die dynamische Aufgabe, d. h. die Bestimmung der $p_k, q_k$, auch so formulieren:\n\nEs soll eine Transformation $(p_k^0, q_k^0) \\to (p_k, q_k)$ gefunden werden, welche die Gleichungen (3), Kap. 2, invariant läßt und zugleich die Energie in eine Diagonalmatrix verwandelt.\n\nMan übersieht die Transformation von Matrizen am besten, wenn man sie als Koeffizientensysteme von linearen Transformationen bzw. bilinearen Formen auffasst. Wir schicken daher einige bekannte Sätze der Algebra solcher Formen voraus.\n\nZu jeder Matrix $\\bar{a} = (a(nm))$ gehört eine bilineare Form\n\n$$A(xy) = \\sum_{nm} a(nm) x_n y_m \\quad (1)$$\n\nzweier Reihen von Variablen $x_1, x_2, \\dots$ und $y_1, y_2, \\dots$. Ist die Matrix vom Hermiteschen Typus, d. h. ist die transponierte Matrix $\\bar{a} = (a(mn))$ gleich der zur ursprünglichen konjugiert komplexen Matrix:\n\n$$\\bar{a} = a^*, \\quad a(mn) = a^*(nm), \\quad (2)$$\n\nso nimmt die Form $A$ reelle Werte an, wenn man für die Variablen $y_n$ die konjugiert komplexen Werte $x_n$ setzt:\n\n$$A(xx^*) = \\sum_{nm} a(nm) x_n x_m^*. \\quad (1a)$$",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Keine besonderen Scanfeuer erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 63,
+      "printed_page_number": "583",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es sei an die leicht zu beweisende Rechenregel erinnert:\n\n$$(\\tilde{a}\\tilde{b}) = \\tilde{b}\\tilde{a}. \\quad (3)$$",
+          "markdown": "Es sei an die leicht zu beweisende Rechenregel erinnert:\n\n$$(\\tilde{a}\\tilde{b}) = \\tilde{b}\\tilde{a}. \\quad (3)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir unterwerfen nun die $x_n$ einer linearen Transformation\n\n$$x_n = \\sum_l v(ln) y_l \\quad (4)$$\n\nmit der (komplexen) Matrix $\\nu = (v(ln))$.",
+          "markdown": "Wir unterwerfen nun die $x_n$ einer linearen Transformation\n\n$$x_n = \\sum_l v(ln) y_l \\quad (4)$$\n\nmit der (komplexen) Matrix $\\nu = (v(ln))$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dann geht die Form $A$ über in:\n\n$$A(xx^*) = B(yy^*) = \\sum_{nm} b(nm) y_n y_m^* \\quad (5)$$\n\nmit\n\n$$b(nm) = \\sum_{kl} v(nk) a(kl) v^*(ml),$$\n\noder in Matrizenschreibweise:\n\n$$\\boldsymbol{b} = \\boldsymbol{v} \\boldsymbol{a} \\tilde{\\boldsymbol{v}}^*. \\quad (6)$$",
+          "markdown": "Dann geht die Form $A$ über in:\n\n$$A(xx^*) = B(yy^*) = \\sum_{nm} b(nm) y_n y_m^* \\quad (5)$\n\nmit\n\n$$b(nm) = \\sum_{kl} v(nk) a(kl) v^*(ml),$$\n\noder in Matrizenschreibweise:\n\n$$\\boldsymbol{b} = \\boldsymbol{v} \\boldsymbol{a} \\tilde{\\boldsymbol{v}}^*. \\quad (6)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man sagt, die Matrix $\\boldsymbol{b}$ gehe durch die Transformation $\\boldsymbol{v}$ aus $\\boldsymbol{a}$ hervor.",
+          "markdown": "Man sagt, die Matrix $\\boldsymbol{b}$ gehe durch die Transformation $\\boldsymbol{v}$ aus $\\boldsymbol{a}$ hervor.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": "null",
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Matrix $\\boldsymbol{v}$ heißt orthogonal, wenn die zugehörige Transformation die Hermitesche Einheitsform\n\n$$E(x x^*) = \\sum_n x_n x_n^*$$\n\ninvariant läßt; nach dem soeben gewonnenen Resultat ist das dann und nur dann der Fall, wenn\n\n$$\\boldsymbol{v} \\tilde{\\boldsymbol{v}}^* = \\mathbf{1}, \\quad \\text{oder} \\quad \\tilde{\\boldsymbol{v}}^* = \\boldsymbol{v}^{-1}. \\quad (8)$$",
+          "markdown": "Die Matrix $\\boldsymbol{v}$ heißt orthogonal, wenn die zugehörige Transformation die Hermitesche Einheitsform\n\n$$E(x x^*) = \\sum_n x_n x_n^*$$\n\ninvariant läßt; nach dem soeben gewonnenen Resultat ist das dann und nur dann der Fall, wenn\n\n$$\\boldsymbol{v} \\tilde{\\boldsymbol{v}}^* = \\mathbf{1}, \\quad \\text{oder} \\quad \\tilde{\\boldsymbol{v}}^* = \\boldsymbol{v}^{-1}. \\quad (8)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "So sind z. B. die in I, § 2, erwähnten Permutationsmatrizen reelle orthogonale Matrizen.",
+          "markdown": "So sind z. B. die in I, § 2, erwähnten Permutationsmatrizen reelle orthogonale Matrizen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Es sei an die leicht zu beweisende Rechenregel erinnert:\n\n$$(\\tilde{a}\\tilde{b}) = \\tilde{b}\\tilde{a}. \\quad (3)$$ Wir unterwerfen nun die $x_n$ einer linearen Transformation\n\n$$x_n = \\sum_l v(ln) y_l \\quad (4)$$\n\nmit der (komplexen) Matrix $\\nu = (v(ln))$.\n\nDann geht die Form $A$ über in:\n\n$$A(xx^*) = B(yy^*) = \\sum_{nm} b(nm) y_n y_m^* \\quad (5)$\n\nmit\n\n$$b(nm) = \\sum_{kl} v(nk) a(kl) v^*(ml),$$\n\noder in Matrizenschreibweise:\n\n$$\\boldsymbol{b} = \\boldsymbol{v} \\boldsymbol{a} \\tilde{\\boldsymbol{v}}^*. \\quad (6)$$ Man sagt, die Matrix $\\boldsymbol{b}$ gehe durch die Transformation $\\boldsymbol{v}$ aus $\\boldsymbol{a}$ hervor.\n\nDie Matrix $\\boldsymbol{v}$ heißt orthogonal, wenn die zugehörige Transformation die Hermitesche Einheitsform\n\n$$E(x x^*) = \\sum_n x_n x_n^*$$\n\ninvariant läßt; nach dem soeben gewonnenen Resultat ist das dann und nur dann der Fall, wenn\n\n$$\\boldsymbol{v} \\tilde{\\boldsymbol{v}}^* = \\mathbf{1}, \\quad \\text{oder} \\quad \\tilde{\\boldsymbol{v}}^* = \\boldsymbol{v}^{-1}. \\quad (8)$$ So sind z. B. die in I, § 2, erwähnten Permutationsmatrizen reelle orthogonale Matrizen.",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 64,
+      "printed_page_number": "584",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bei endlicher Variablenzahl ist es bekanntlich immer möglich, eine Form orthogonal auf eine Summe von Quadraten zu transformieren [Hauptachsen-Transformation]¹):\n\n$$A(x x^*) = \\sum_n W_n y_n y_n^*. \\quad (9)$$",
+          "markdown": "Bei endlicher Variablenzahl ist es bekanntlich immer möglich, eine Form orthogonal auf eine Summe von Quadraten zu transformieren [Hauptachsen-Transformation]¹):\n\n$$A(x x^*) = \\sum_n W_n y_n y_n^*. \\quad (9)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Wir nennen die Koeffizienten der transformierten Form $W_n$, weil sie in der Quantendynamik die Bedeutung der „Energie“ haben.",
+          "markdown": "¹) Wir nennen die Koeffizienten der transformierten Form $W_n$, weil sie in der Quantendynamik die Bedeutung der „Energie“ haben.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Für die Matrizen bedeutet das: Es gibt eine Matrix, für die\n\n$$\\boldsymbol{v} \\tilde{\\boldsymbol{v}}^* = \\mathbf{1} \\quad \\text{und} \\quad \\boldsymbol{v} \\boldsymbol{a} \\tilde{\\boldsymbol{v}}^* = \\boldsymbol{v} \\boldsymbol{a} \\boldsymbol{v}^{-1} = \\boldsymbol{W}, \\quad (10)$$\n\nwo $\\boldsymbol{W} = (W_n \\delta_{nm})$ eine Diagonalmatrix ist.",
+          "markdown": "Für die Matrizen bedeutet das: Es gibt eine Matrix, für die\n\n$$\\boldsymbol{v} \\tilde{\\boldsymbol{v}}^* = \\mathbf{1} \\quad \\text{und} \\quad \\boldsymbol{v} \\boldsymbol{a} \\tilde{\\boldsymbol{v}}^* = \\boldsymbol{v} \\boldsymbol{a} \\boldsymbol{v}^{-1} = \\boldsymbol{W}, \\quad (10)$$\n\nwo $\\boldsymbol{W} = (W_n \\delta_{nm})$ eine Diagonalmatrix ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bei unendlichen Matrizen gilt in allen bisher untersuchten Fällen ein analoger Satz; nur kann es vorkommen, dass rechter Hand der Index $n$ außer einer Reihe diskreter Zahlen auch einen kontinuierlichen Wertebereich durchläuft, dem in (9) und in der Transformation (4) ein Integralbestandteil entspricht²).",
+          "markdown": "Bei unendlichen Matrizen gilt in allen bisher untersuchten Fällen ein analoger Satz; nur kann es vorkommen, dass rechter Hand der Index $n$ außer einer Reihe diskreter Zahlen auch einen kontinuierlichen Wertebereich durchläuft, dem in (9) und in der Transformation (4) ein Integralbestandteil entspricht²).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": "null"
+        },
+        {
+          "order": 5,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²) Die Theorie der quadratischen (bzw. Hermiteschen) Formen von unendlich vielen Variablen ist bisher hauptsächlich nur für eine besondere Klasse („beschränkte“ Formen) durchgeführt worden (D. Hilbert, Grundzüge einer allgemeinen Theorie der linearen Integralgleichungen; E. Hellinger, Crelles Journ. 136, 1, 1910). Hier handelt es sich aber gerade um nicht beschränkte Formen. Trotzdem dürfen wir wohl annehmen, dass die Sätze in der Hauptsache ebenso lauten.",
+          "markdown": "²) Die Theorie der quadratischen (bzw. Hermiteschen) Formen von unendlich vielen Variablen ist bisher hauptsächlich nur für eine besondere Klasse („beschränkte“ Formen) durchgeführt worden (D. Hilbert, *Grundzüge einer allgemeinen Theorie der linearen Integralgleichungen*; E. Hellinger, *Crelles Journ.* **136**, 1, 1910). Hier handelt es sich aber gerade um nicht beschränkte Formen. Trotzdem dürfen wir wohl annehmen, dass die Sätze in der Hauptsache ebenso lauten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Größen $W_n$ heißen „Eigenwerte“, ihre Gesamtheit ist das „mathematische“ Spektrum der Form, bestehend aus „Punkt“- und „Strecken“-Spektrum. Dieses ist, wie wir sehen werden, mit dem „Term-spektrum“ der Physik identisch, während das „Frequenzspektrum“ durch Differenzbildung daraus entsteht.",
+          "markdown": "Die Größen $W_n$ heißen „Eigenwerte“, ihre Gesamtheit ist das „mathematische“ Spektrum der Form, bestehend aus „Punkt“- und „Strecken“-Spektrum. Dieses ist, wie wir sehen werden, mit dem „Term-spektrum“ der Physik identisch, während das „Frequenzspektrum“ durch Differenzbildung daraus entsteht.",
+          "asset_id": null,
+          "suggested_filename": "null",
+          "caption_original": "null",
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Bei endlicher Variablenzahl ist es bekanntlich immer möglich, eine Form orthogonal auf eine Summe von Quadraten zu transformieren [Hauptachsen-Transformation]¹):\n\n$$A(x x^*) = \\sum_n W_n y_n y_n^*. \\quad (9)$$ Für die Matrizen bedeutet das: Es gibt eine Matrix, für die\n\n$$\\boldsymbol{v} \\tilde{\\boldsymbol{v}}^* = \\mathbf{1} \\quad \\text{und} \\quad \\boldsymbol{v} \\boldsymbol{a} \\tilde{\\boldsymbol{v}}^* = \\boldsymbol{v} \\boldsymbol{a} \\boldsymbol{v}^{-1} = \\boldsymbol{W}, \\quad (10)$$\n\nwo $\\boldsymbol{W} = (W_n \\delta_{nm})$ eine Diagonalmatrix ist.\n\nBei unendlichen Matrizen gilt in allen bisher untersuchten Fällen ein analoger Satz; nur kann es vorkommen, dass rechter Hand der Index $n$ außer einer Reihe diskreter Zahlen auch einen kontinuierlichen Wertebereich durchläuft, dem in (9) und in der Transformation (4) ein Integralbestandteil entspricht²).\n\n¹) Wir nennen die Koeffizienten der transformierten Form $W_n$, weil sie in der Quantendynamik die Bedeutung der „Energie“ haben.\n\n²) Die Theorie der quadratischen (bzw. Hermiteschen) Formen von unendlich vielen Variablen ist bisher hauptsächlich nur für eine besondere Klasse („beschränkte“ Formen) durchgeführt worden (D. Hilbert, *Grundzüge einer allgemeinen Theorie der linearen Integralgleichungen*; E. Hellinger, *Crelles Journ.* **136**, 1, 1910). Hier handelt es sich aber gerade um nicht beschränkte Formen. Trotzdem dürfen wir wohl annehmen, dass die Sätze in der Hauptsache ebenso lauten.\n\nDie Größen $W_n$ heißen „Eigenwerte“, ihre Gesamtheit ist das „mathematische“ Spektrum der Form, bestehend aus „Punkt“- und „Strecken“-Spektrum. Dieses ist, wie wir sehen werden, mit dem „Term-spektrum“ der Physik identisch, während das „Frequenzspektrum“ durch Differenzbildung daraus entsteht.",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 65,
+      "printed_page_number": "585",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Diese Hauptachsen-Transformation liefert uns nun unmittelbar die Lösung unseres dynamischen Problems: es sollte eine solche Transformation $(p_k^0, q_k^0) \\to (p_k, q_k)$ gefunden werden, welche die Gleichungen (3), Kap. 2, invariant läßt und zugleich die Energie in eine Diagonalmatrix überführt.",
+          "markdown": "Diese Hauptachsen-Transformation liefert uns nun unmittelbar die Lösung unseres dynamischen Problems: es sollte eine solche Transformation $(p_k^0, q_k^0) \\to (p_k, q_k)$ gefunden werden, welche die Gleichungen (3), Kap. 2, invariant läßt und zugleich die Energie in eine Diagonalmatrix überführt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Denn nach dem obigen Satze der Algebra gibt es eine orthogonale Matrix $S$, für die also\n\n$$S \\tilde{S}^* = 1, \\quad \\tilde{S}^* S = 1 \\quad (11)$$\n\nist, von der Art, dass durch die Transformation\n\n$$\\left. \\begin{aligned} p_k &= S p_k^0 \\tilde{S}^* = S p_k^0 S^{-1}, \\\\ q_k &= S q_k^0 \\tilde{S}^* = S q_k^0 S^{-1} \\end{aligned} \\right\\} \\quad (12)$$\n\n1. der Hermitesche Charakter von $p_k^0, q_k^0$ auch für die $p_k, q_k$ erhalten bleibt, 2. die Gleichungen (3), Kap. 2, invariant sind, 3. die Energie in eine Diagonalmatrix\n\n$$H(pq) = SH(p^0 q^0) S^{-1} = W \\quad (13)$$\n\nübergeführt wird.",
+          "markdown": "Denn nach dem obigen Satze der Algebra gibt es eine orthogonale Matrix $S$, für die also\n\n$$S \\tilde{S}^* = 1, \\quad \\tilde{S}^* S = 1 \\quad (11)$$\n\nist, von der Art, dass durch die Transformation\n\n$$\\left. \\begin{aligned} p_k &= S p_k^0 \\tilde{S}^* = S p_k^0 S^{-1}, \\\\ q_k &= S q_k^0 \\tilde{S}^* = S q_k^0 S^{-1} \\end{aligned} \\right\\} \\quad (12)$$\n\n1. der Hermitesche Charakter von $p_k^0, q_k^0$ auch für die $p_k, q_k$ erhalten bleibt, 2. die Gleichungen (3), Kap. 2, invariant sind, 3. die Energie in eine Diagonalmatrix\n\n$$H(pq) = SH(p^0 q^0) S^{-1} = W \\quad (13)$$\n\nübergeführt wird.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir wollen die Frage der Eindeutigkeit dieser Lösung diskutieren, vor allem, ob nicht durch eine andere orthogonale Transformation $T$ andere Energiewerte erzeugt werden können. Angenommen, es wäre\n\n$$TH(p^0 q^0) T^{-1} = W'$$\n\neine von $W$ verschiedene Diagonalmatrix. Dann hätte man\n\n$$TS^{-1} SH S^{-1} ST^{-1} = TS^{-1} W (TS^{-1})^{-1},$$\n\nund unsere Frage bedeutet, ob es möglich ist, aus einer Diagonalmatrix $W$ eine andere $W'$ durch\n\n$$W' = MWM^{-1}, \\quad M\\tilde{M}^* = 1 \\quad (14)$$\n\nzu bilden, derart, dass $W'$ nicht durch Permutation der Diagonalglieder aus $W$ zu erhalten ist.",
+          "markdown": "Wir wollen die Frage der Eindeutigkeit dieser Lösung diskutieren, vor allem, ob nicht durch eine andere orthogonale Transformation $T$ andere Energiewerte erzeugt werden können. Angenommen, es wäre\n\n$$TH(p^0 q^0) T^{-1} = W'$$\n\neine von $W$ verschiedene Diagonalmatrix. Dann hätte man\n\n$$TS^{-1} SH S^{-1} ST^{-1} = TS^{-1} W (TS^{-1})^{-1},$$\n\nund unsere Frage bedeutet, ob es möglich ist, aus einer Diagonalmatrix $W$ eine andere $W'$ durch\n\n$$W' = MWM^{-1}, \\quad M\\tilde{M}^* = 1 \\quad (14)$$\n\nzu bilden, derart, dass $W'$ nicht durch Permutation der Diagonalglieder aus $W$ zu erhalten ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Diese Hauptachsen-Transformation liefert uns nun unmittelbar die Lösung unseres dynamischen Problems: es sollte eine solche Transformation $(p_k^0, q_k^0) \\to (p_k, q_k)$ gefunden werden, welche die Gleichungen (3), Kap. 2, invariant läßt und zugleich die Energie in eine Diagonalmatrix überführt.\n\nDenn nach dem obigen Satze der Algebra gibt es eine orthogonale Matrix $S$, für die also\n\n$$S \\tilde{S}^* = 1, \\quad \\tilde{S}^* S = 1 \\quad (11)$$\n\nist, von der Art, dass durch die Transformation\n\n$$\\left. \\begin{aligned} p_k &= S p_k^0 \\tilde{S}^* = S p_k^0 S^{-1}, \\\\ q_k &= S q_k^0 \\tilde{S}^* = S q_k^0 S^{-1} \\end{aligned} \\right\\} \\quad (12)$$\n\n1. der Hermitesche Charakter von $p_k^0, q_k^0$ auch für die $p_k, q_k$ erhalten bleibt, 2. die Gleichungen (3), Kap. 2, invariant sind, 3. die Energie in eine Diagonalmatrix\n\n$$H(pq) = SH(p^0 q^0) S^{-1} = W \\quad (13)$$\n\nübergeführt wird.\n\nWir wollen die Frage der Eindeutigkeit dieser Lösung diskutieren, vor allem, ob nicht durch eine andere orthogonale Transformation $T$ andere Energiewerte erzeugt werden können. Angenommen, es wäre\n\n$$TH(p^0 q^0) T^{-1} = W'$$\n\neine von $W$ verschiedene Diagonalmatrix. Dann hätte man\n\n$$TS^{-1} SH S^{-1} ST^{-1} = TS^{-1} W (TS^{-1})^{-1},$$\n\nund unsere Frage bedeutet, ob es möglich ist, aus einer Diagonalmatrix $W$ eine andere $W'$ durch\n\n$$W' = MWM^{-1}, \\quad M\\tilde{M}^* = 1 \\quad (14)$$\n\nzu bilden, derart, dass $W'$ nicht durch Permutation der Diagonalglieder aus $W$ zu erhalten ist.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 66,
+      "printed_page_number": "586",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Gleichung (14), Kap. 3, aber lässt sich schreiben\n\n$$W'M - MW = 0,$$\n\nund bedeutet daher\n\n$$M(nm) (W'_n - W_m) = 0. \\quad (14a)$$",
+          "markdown": "Die Gleichung (14), Kap. 3, aber lässt sich schreiben\n\n$$W'M - MW = 0,$$\n\nund bedeutet daher\n\n$$M(nm) (W'_n - W_m) = 0. \\quad (14a)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Aus der Orthogonalität von $M$ folgt für $m = n$ insbesondere\n\n$$\\sum_k |M(nk)|^2 = 1, \\quad \\sum_k |M(kn)|^2 = 1;$$\n\nfolglich können bei festem $n$ weder alle $M(nk)$ noch alle $M(kn)$ verschwinden. Dann ergibt aber (14a), Kap. 3, dass es zu jedem $n$ sicherlich ein $m$ gibt, für das $W_n' = W_m$ ist, d. h. alle $W_n'$ kommen unter den $W_m$ vor. Und ebenso folgt auch das Umgekehrte.",
+          "markdown": "Aus der Orthogonalität von $M$ folgt für $m = n$ insbesondere\n\n$$\\sum_k |M(nk)|^2 = 1, \\quad \\sum_k |M(kn)|^2 = 1;$$\n\nfolglich können bei festem $n$ weder alle $M(nk)$ noch alle $M(kn)$ verschwinden. Dann ergibt aber (14a), Kap. 3, dass es zu jedem $n$ sicherlich ein $m$ gibt, für das $W_n' = W_m$ ist, d. h. alle $W_n'$ kommen unter den $W_m$ vor. Und ebenso folgt auch das Umgekehrte.",
+          "asset_id": null,
+          "suggested_filename": "null",
+          "caption_original": "null",
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Daher führen alle aus dem Ansatz (12), Kap. 3, (bei bestimmten $\\pmb{p}_k^0, \\pmb{q}_k^0$) ableitbaren Lösungen auf dieselben Werte für die Energien der stationären Zustände im Einklang mit der in Kap. 2 ausgesprochenen Vermutung, dass die vorkommenden Energien durch die dynamischen Grundgleichungen stets eindeutig bestimmt sind.",
+          "markdown": "Daher führen alle aus dem Ansatz (12), Kap. 3, (bei bestimmten $\\pmb{p}_k^0, \\pmb{q}_k^0$) ableitbaren Lösungen auf dieselben Werte für die Energien der stationären Zustände im Einklang mit der in Kap. 2 ausgesprochenen Vermutung, dass die vorkommenden Energien durch die dynamischen Grundgleichungen stets eindeutig bestimmt sind.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Entartete Systeme werden dadurch charakterisiert sein, dass mehrfache Eigenwerte vorkommen. Die Mehrfachheit des Eigenwertes $W_n$, d. h. die Anzahl der linear unabhängigen Lösungen $v(ln)$ der Gleichung (4), Kap. 3, wird das statistische Gewicht des betreffenden Zustandes angeben.",
+          "markdown": "Entartete Systeme werden dadurch charakterisiert sein, dass mehrfache Eigenwerte vorkommen. Die Mehrfachheit des Eigenwertes $W_n$, d. h. die Anzahl der linear unabhängigen Lösungen $v(ln)$ der Gleichung (4), Kap. 3, wird das statistische Gewicht des betreffenden Zustandes angeben.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Wichtigkeit der Gleichung (9), Kap. 3, für unsere physikalische Theorie beruht darauf, dass es in der Algebra endlicher oder beschränkter unendlicher Formen verschiedene Methoden$^{1)}$ gibt, die Eigenwerte einer Form zu bestimmen, ohne die Transformation wirklich durchzuführen. Man kann hoffen, dass solche Methoden bei der späteren Behandlung bestimmter physikalischer Systeme gute Dienste leisten werden.",
+          "markdown": "Die Wichtigkeit der Gleichung (9), Kap. 3, für unsere physikalische Theorie beruht darauf, dass es in der Algebra endlicher oder beschränkter unendlicher Formen verschiedene Methoden$^{1)}$ gibt, die Eigenwerte einer Form zu bestimmen, ohne die Transformation wirklich durchzuführen. Man kann hoffen, dass solche Methoden bei der späteren Behandlung bestimmter physikalischen Systeme gute Dienste leisten werden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Bei endlichen Formen sind die Eigenwerte die Wurzeln einer algebraischen Gleichung. Hier und auch bei beschränkten unendlichen Matrizen kann man sie z. B. nach dem Verfahren von Graeffe und Bernoulli bestimmen; siehe etwa C. Courant und D. Hilbert, Methoden der mathematischen Physik I, § 3, S. 14, 15. Berlin, Springer, 1924.",
+          "markdown": "¹) Bei endlichen Formen sind die Eigenwerte die Wurzeln einer algebraischen Gleichung. Hier und auch bei beschränkten unendlichen Matrizen kann man sie z. B. nach dem Verfahren von Graeffe und Bernoulli bestimmen; siehe etwa C. Courant und D. Hilbert, *Methoden der mathematischen Physik I*, § 3, S. 14, 15. Berlin, Springer, 1924.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Die Gleichung (14), Kap. 3, aber lässt sich schreiben\n\n$$W'M - MW = 0,$$\n\nund bedeutet daher\n\n$$M(nm) (W'_n - W_m) = 0. \\quad (14a)$$ Aus der Orthogonalität von $M$ folgt für $m = n$ insbesondere\n\n$$\\sum_k |M(nk)|^2 = 1, \\quad \\sum_k |M(kn)|^2 = 1;$$\n\nfolglich können bei festem $n$ weder alle $M(nk)$ noch alle $M(kn)$ verschwinden. Dann ergibt aber (14a), Kap. 3, dass es zu jedem $n$ sicherlich ein $m$ gibt, für das $W_n' = W_m$ ist, d. h. alle $W_n'$ kommen unter den $W_m$ vor. Und ebenso folgt auch das Umgekehrte.\n\nDaher führen alle aus dem Ansatz (12), Kap. 3, (bei bestimmten $\\pmb{p}_k^0, \\pmb{q}_k^0$) ableitbaren Lösungen auf dieselben Werte für die Energien der stationären Zustände im Einklang mit der in Kap. 2 ausgesprochenen Vermutung, dass die vorkommenden Energien durch die dynamischen Grundgleichungen stets eindeutig bestimmt sind.\n\nEntartete Systeme werden dadurch charakterisiert sein, dass mehrfache Eigenwerte vorkommen. Die Mehrfachheit des Eigenwertes $W_n$, d. h. die Anzahl der linear unabhängigen Lösungen $v(ln)$ der Gleichung (4), Kap. 3, wird das statistische Gewicht des betreffenden Zustandes angeben.\n\nDie Wichtigkeit der Gleichung (9), Kap. 3, für unsere physikalische Theorie beruht darauf, dass es in der Algebra endlicher oder beschränkter unendlicher Formen verschiedene Methoden$^{1)}$ gibt, die Eigenwerte einer Form zu bestimmen, ohne die Transformation wirklich durchzuführen. Man kann hoffen, dass solche Methoden bei der späteren Behandlung bestimmter physikalischen Systeme gute Dienste leisten werden.\n\n¹) Bei endlichen Formen sind die Eigenwerte die Wurzeln einer algebraischen Gleichung. Hier und auch bei beschränkten unendlichen Matrizen kann man sie z. B. nach dem Verfahren von Graeffe und Bernoulli bestimmen; siehe etwa C. Courant und D. Hilbert, *Methoden der mathematischen Physik I*, § 3, S. 14, 15. Berlin, Springer, 1924.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 67,
+      "printed_page_number": "587",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Im folgenden wollen wir zeigen, dass die hier dargelegte algebraische Auffassung des dynamischen Problems nicht nur zu genau den Formeln führt, die früher Kap. 1, § 4, im Anschluß an die Störungstheorie der klassischen Mechanik abgeleitet worden sind, sondern dass sie bei der Behandlung entarteter Systeme der bisherigen Theorie noch erheblich überlegen ist.",
+          "markdown": "Im folgenden wollen wir zeigen, dass die hier dargelegte algebraische Auffassung des dynamischen Problems nicht nur zu genau den Formeln führt, die früher Kap. 1, § 4, im Anschluß an die Störungstheorie der klassischen Mechanik abgeleitet worden sind, sondern dass sie bei der Behandlung entarteter Systeme der bisherigen Theorie noch erheblich überlegen ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 2. Anwendung auf die Störungstheorie.",
+          "markdown": "### § 2. Anwendung auf die Störungstheorie.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Im folgenden wollen wir zeigen, dass die hier dargelegte algebraische Auffassung des dynamischen Problems nicht nur zu genau den Formeln führt, die früher Kap. 1, § 4, im Anschluß an die Störungstheorie der klassischen Mechanik abgeleitet worden sind, sondern dass sie bei der Behandlung entarteter Systeme der bisherigen Theorie noch erheblich überlegen ist.\n\n### § 2. Anwendung auf die Störungstheorie.",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Keine besonderen Scanfehler erkennbar."
+      ]
+    },
+    {
+      "pdf_page_number": 615,
+      "printed_page_number": "615",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn sich die hier versuchte Quantenmechanik als schon in wesentlichen Zügen richtig erweisen sollte, so wäre wohl ganz allgemein als der wichtigste Fortschritt gegenüber der bisherigen Theorie eben dies zu bezeichnen: dass in dieser Theorie Kinematik und Mechanik wieder in eine so enge Verbindung gebracht sind, wie etwa Kinematik und Mechanik in der klassischen Theorie, und dass die fundamentalen neuen Gesichtspunkte, welche aus den Grundpostulaten der Quantentheorie für die mechanischen Begriffe und die Begriffe von Raum und Zeit folgen, in der Kinematik ebenso wie in der Mechanik und in der Verbindung von Kinematik und Mechanik einen adäquaten Ausdruck finden.",
+          "markdown": "Wenn sich die hier versuchte Quantenmechanik als schon in wesentlichen Zügen richtig erweisen sollte, so wäre wohl ganz allgemein als der wichtigste Fortschritt gegenüber der bisherigen Theorie eben dies zu bezeichnen: dass in dieser Theorie Kinematik und Mechanik wieder in eine so enge Verbindung gebracht sind, wie etwa Kinematik und Mechanik in der klassischen Theorie, und dass die fundamentalen neuen Gesichtspunkte, welche aus den Grundpostulaten der Quantentheorie für die mechanischen Begriffe und die Begriffe von Raum und Zeit folgen, in der Kinematik ebenso wie in der Mechanik und in der Verbindung von Kinematik und Mechanik einen adäquaten Ausdruck finden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Wenn sich die hier versuchte Quantenmechanik als schon in wesentlichen Zügen richtig erweisen sollte, so wäre wohl ganz allgemein als der wichtigste Fortschritt gegenüber der bisherigen Theorie eben dies zu bezeichnen: dass in dieser Theorie Kinematik und Mechanik wieder in eine so enge Verbindung gebracht sind, wie etwa Kinematik und Mechanik in der klassischen Theorie, und dass die fundamentalen neuen Gesichtspunkte, welche aus den Grundpostulaten der Quantentheorie für die mechanischen Begriffe und die Begriffe von Raum und Zeit folgen, in der Kinematik ebenso wie in der Mechanik und in der Verbindung von Kinematik und Mechanik einen adäquaten Ausdruck finden.",
+      "word_count": 200,
+      "page_quality_notes": [
+        "Letzte Seite des Dokuments."
+      ]
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 59,
+    "ocr_page_count": 59,
+    "total_word_count": 35000,
+    "figure_count": 1,
+    "table_count": 0,
+    "equation_block_count": 45,
+    "pages_requiring_review": [],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "Alle Seiten wurden erfolgreich verarbeitet. Keine fehlenden oder unvollständigen Blöcke."
+    ]
+  }
+}

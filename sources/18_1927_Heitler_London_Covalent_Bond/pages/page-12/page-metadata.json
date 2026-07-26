@@ -1,0 +1,93 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 99,
+      "topLeftY": 94,
+      "bottomRightX": 128,
+      "bottomRightY": 110,
+      "content": "466",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 94,
+      "bottomRightX": 415,
+      "bottomRightY": 110,
+      "content": "W. Heitler und F. London,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 131,
+      "bottomRightX": 577,
+      "bottomRightY": 229,
+      "content": "keit, das Pauliprinzip, welches sich bei der Diskussion der Elektronenkonfigurationen der Einzelatome so bewährt hat, in einem erweiterten Sinne auf das System zweier in Wechselwirkung stehender Atome anzuwenden, um eine engere Auswahl der quantentheoretisch erlaubten Verhaltensweisen zweier Atome zu erzielen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 231,
+      "bottomRightX": 577,
+      "bottomRightY": 366,
+      "content": "Folgende Formulierung dieser Vorschrift ist für unsere Zwecke ausreichend$^{1}$: Die auserwählten Eigenfunktionen des Systems sollen bei Vertauschung zweier Elektronen ihr Vorzeichen $\\frac{\\text{wechseln}}{\\text{beibehalten}}$, wenn die beiden Elektronen $\\frac{\\text{gleichen}}{\\text{verschiedenen}}$ Drall haben. (Eine sogenannte „Eigenfunktion des Dralles“ ist hierbei nicht zu berücksichtigen.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 370,
+      "bottomRightX": 578,
+      "bottomRightY": 490,
+      "content": "2. Wir wenden diese Vorschrift auf die Lösungen des § 1 und 3 an. Für Wasserstoff behält das symmetrische $\\alpha$ bei Vertauschung von 1 und 2 sein Vorzeichen bei, $\\beta$ wechselt es. Bei $\\alpha$ müssen also die beiden Elektronen verschiedenen, bei $\\beta$ gleichen Drall haben. Da jedoch über den Drall getrennter Atome keine Einschränkung besteht, können beide Lösungen vorkommen — je nach Zufall.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 492,
+      "bottomRightX": 579,
+      "bottomRightY": 693,
+      "content": "Für die Lösungen (20) des 2-He-Problems aber wissen wir, daß 1 und 3 sowie 2 und 4 je gleichen Drall hatten, 1 und 2, sowie 3 und 4 dagegen verschiedenen. Der Vertauschbarkeit der Elektronen sind dadurch von vornherein Grenzen gesetzt. Soll das einzelne He-Atom existenzfähig bleiben (Pauliprinzip, angewandt auf das einzelne He-Atom), so darf man nur die Elektronen 1 mit 3 sowie 2 mit 4 vertauschen. Gegenüber jeder dieser Vertauschungen müssen die auserwählten Eigenfunktionen antisymmetrisch sein. Bei Vertauschung beider Paare muß sie sich wieder (ohne Vorzeichenwechsel) reproduzieren. Die Eigenfunktionen $\\alpha, \\beta, \\gamma, \\delta$ gehen nun bei den genannten Vertauschungen über in",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 702,
+      "bottomRightX": 496,
+      "bottomRightY": 806,
+      "content": "|   | 1 mit 3 | 2 mit 4 | 1 mit 3 und 2 mit 4  |\n| --- | --- | --- | --- |\n|  $\\alpha \\rightarrow$ | $+\\alpha$ | $+\\alpha$ | $+\\alpha'$  |\n|  $\\beta \\rightarrow$ | $-\\beta$ | $-\\beta$ | $+\\beta$  |\n|  $\\gamma \\rightarrow$ | $-\\delta$ | $+\\delta$ | $-\\gamma$  |\n|  $\\delta \\rightarrow$ | $-\\gamma$ | $+\\gamma$ | $-\\delta$  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 820,
+      "bottomRightX": 579,
+      "bottomRightY": 852,
+      "content": "mit einem Elektron, bei dem Lösungen von der Form $\\varphi + \\psi$ und $\\varphi - \\psi$ auftreten, welche miteinander kombinieren.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 850,
+      "bottomRightX": 580,
+      "bottomRightY": 912,
+      "content": "$^{1}$ Diese Formulierung des Pauliprinzips ist nicht ganz richtig. Aber eine wirklich allgemeine Fassung desselben ist bis jetzt nicht bekannt. Wir verweisen auf die Arbeit von W. Heisenberg, ZS. f. Phys. 41, 239, 1927, sowie besonders auf bald erscheinende Überlegungen von F. Hund.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

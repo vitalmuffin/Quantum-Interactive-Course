@@ -1,0 +1,119 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 118,
+      "topLeftY": 103,
+      "bottomRightX": 388,
+      "bottomRightY": 132,
+      "content": "22. S. Lloyd, \"Envisioning a quantum supercomputer,\" Science, Vol. 263, p. 695 (1994).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 132,
+      "bottomRightX": 388,
+      "bottomRightY": 160,
+      "content": "23. G. L. Miller, \"Riemann's hypothesis and tests for primality,\" J. Comp. Sys. Sci. Vol. 13, pp. 300-317 (1976).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 160,
+      "bottomRightX": 388,
+      "bottomRightY": 215,
+      "content": "24. S. Pohlig and M. Hellman, \"An improved algorithm for computing discrete logarithms over GF(p) and its cryptographic significance,\" IEEE Trans. Information Theory, Vol. 24, pp. 106-110 (1978).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 215,
+      "bottomRightX": 388,
+      "bottomRightY": 269,
+      "content": "25. C. Pomerance, \"Fast, rigorous factorization and discrete logarithm algorithms,\" in Discrete Algorithms and Complexity (Proc. Japan-US Joint Seminar), pp. 119-143, Academic Press (1986).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 269,
+      "bottomRightX": 388,
+      "bottomRightY": 325,
+      "content": "26. R. L. Rivest, A. Shamir, and L. Adleman \"A method of obtaining digital signatures and public-key cryptosystems,\" Communications ACM, Vol. 21, No. 2, pp. 120-126 (1978).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 325,
+      "bottomRightX": 388,
+      "bottomRightY": 366,
+      "content": "27. A. Shamir, \"IP = PSPACE,\" in Proc. 31th Ann. Symp. Foundations of Computer Science, pp. 11-15, IEEE Press (1990).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 411,
+      "topLeftY": 102,
+      "bottomRightX": 682,
+      "bottomRightY": 144,
+      "content": "28. D. Simon, \"On the power of quantum computation,\" in Proc. 35th Ann. Symp. Foundations of Computer Science, IEEE Press (1994).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 411,
+      "topLeftY": 144,
+      "bottomRightX": 682,
+      "bottomRightY": 200,
+      "content": "29. W. G. Teich, K. Obermayer, and G. Mahler, \"Structural basis of multistationary quantum systems II: Effective few-particle dynamics,\" Phys. Rev. B, Vol. 37, pp. 8111-8121 (1988).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 411,
+      "topLeftY": 200,
+      "bottomRightX": 682,
+      "bottomRightY": 268,
+      "content": "30. T. Toffoli, \"Reversible computing,\" in Automata, Languages and Programming, Seventh Colloq., Lecture Notes in Computer Science No. 84 (J. W. De Bakker and J. van Leeuwen, eds.) pp. 632-644, Springer-Verlag (1980).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 411,
+      "topLeftY": 268,
+      "bottomRightX": 682,
+      "bottomRightY": 295,
+      "content": "31. W. G. Unruh, \"Maintaining coherence in quantum computers,\" manuscript (1994).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 411,
+      "topLeftY": 295,
+      "bottomRightX": 682,
+      "bottomRightY": 338,
+      "content": "32. A. Yao, \"Quantum circuit complexity,\" in Proc. 34th Ann. Symp. Foundations of Computer Science, pp. 352-361, IEEE Press (1993).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 392,
+      "topLeftY": 872,
+      "bottomRightX": 408,
+      "bottomRightY": 883,
+      "content": "134",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

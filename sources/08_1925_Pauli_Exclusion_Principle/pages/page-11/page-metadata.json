@@ -1,0 +1,56 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 145,
+      "topLeftY": 87,
+      "bottomRightX": 580,
+      "bottomRightY": 104,
+      "content": "den Zusammenhang des Abschlusses der Elektronengruppen usw. 775",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 124,
+      "bottomRightX": 578,
+      "bottomRightY": 181,
+      "content": "geschlossenen Zustand der betreffenden Untergruppe annehmen, um mit den empirisch bekannten Elektronenzahlen der Edelgasatome im Einklang zu bleiben.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 188,
+      "bottomRightX": 580,
+      "bottomRightY": 509,
+      "content": "Stoner bemerkte nun weiter, daß diese Anzahlen von Elektronen mit der Anzahl der stationären Zustände der Alkaliatome in einem äußeren Felde bei gegebenem Werte von $k$ übereinstimmen. Er führt daher die Analogie zu den stationären Zuständen der Alkalispektren noch weiter durch, indem er eine der Komplexstruktur dieser Spektren (und der Röntgenspektren) entsprechende weitere Unterteilung der Untergruppen in zwei durch die beiden Zahlen $k_1, k_2$ gekennzeichnete Teil-Untergruppen annimmt, für welche $k_1$ mit der Bohrschen Zahl $k$ übereinstimmt und $k_2 = k_1 - 1$ bzw. $k_2 = k_1$ zu setzen ist (jedoch für $k_1 = 1$, gemäß der Einfachheit des $s$-Termes, nur $k_2 = 1$). Entsprechend der Anzahl $2k_2$ der stationären Zustände, in die ein stationärer Zustand der Alkaliatome mit bestimmten Werten der Quantenzahlen $k_1$ und $k_2$ im äußeren Felde zerfällt, nimmt Stoner in der abgeschlossenen, zu den Quantenzahlen $n, k_1, k_2$ gehörenden Teil-Untergruppe $2k_2$ Elektronen an. Das Schema für den Atombau der Edelgase, zu dem Stoner auf diese Weise gelangt, ist in der Tabelle 2 dargestellt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 513,
+      "bottomRightX": 582,
+      "bottomRightY": 813,
+      "content": "Wir können nun diese Vorstellung von Stoner präzisieren und verallgemeinern, wenn wir die im vorigen Paragraphen besprochene Auffassung der Komplexstruktur der Spektren und des anomalen Zeeman-effektes auf den Fall des Vorhandenseins von äquivalenten Elektronen im Atom anwenden. Wir sind dort, auf die Möglichkeit der Aufrechterhaltung der Permanenz der Quantenzahlen gestützt, dazu gelangt, jedes Elektron im Atom außer durch die Hauptquantenzahl $n$ durch die beiden Nebenquantenzahlen $k_1$ und $k_2$ zu charakterisieren. In starken Magnetfeldern kam noch eine Impulsquantenzahl $m_1$ für jedes Elektron hinzu und es kann überdies neben $k_1$ und $m_1$ statt $k_2$ auch eine Quantenzahl $m_2$ des magnetischen Momentes verwendet werden. Zunächst sehen wir, daß die Verwendung der beiden Quantenzahlen $k_1$ und $k_2$ für jedes Elektron mit der Stonerschen Unterteilung der Bohrschen Untergruppen im besten Einklang ist$^{1)}$. Sodann können wir durch Betrachtung des Falles starker Magnetfelder das Ergebnis von Stoner, wonach die Anzahl der Elektronen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 829,
+      "bottomRightX": 583,
+      "bottomRightY": 908,
+      "content": "$^{1)}$ Daß diese Unterteilung und die Frage nach der Anzahl der Elektronen in den Teil-Untergruppen auch für abgeschlossene Elektronengruppen Sinn hat, geht direkt aus dem Millikan-Landeschen Befund über die Relativitätsdubletts der Röntgenspektren hervor. Diese Anzahlen gehen nämlich offenbar in den Ausdruck für die Energie der ganzen Gruppe als Funktion der Ordnungszahl als Faktoren der",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

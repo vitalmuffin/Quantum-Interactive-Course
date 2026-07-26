@@ -1,0 +1,3057 @@
+{
+  "document_id": "06_1905_einstein_light_quantum",
+  "source_filename": "1905_einstein_ueber_lichtquanten.pdf",
+  "metadata": {
+    "title_original": "*Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt; von A. Einstein.*",
+    "title_normalized": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+    "authors": [
+      "A. Einstein"
+    ],
+    "publication_year": 1905,
+    "original_language": "de",
+    "journal": "Annalen der Physik",
+    "volume": "17",
+    "issue": null,
+    "page_range": "132-148",
+    "doi": "10.1002/andp.19053220607",
+    "received_date": "17. März 1905",
+    "abstract_original": "Zwischen den theoretischen Vorstellungen der Physiker über die Gase und andere ponderable Körper und der Maxwellschen Theorie der elektromagnetischen Prozesse im leeren Raum besteht ein tiefgreifender formaler Unterschied. Während die Energie eines ponderabeln Körpers als Summe über Atome und Elektronen aufgefasst wird, ist die Energie des Lichtes nach der Maxwellschen Theorie eine kontinuierliche Raumfunktion. Die optischen Beobachtungen beziehen sich jedoch auf zeitliche Mittelwerte, nicht auf Momentanwerte. Die Theorie des Lichtes als kontinuierliche Raumfunktion führt zu Widersprüchen mit der Erfahrung bei der Anwendung auf Lichterzeugung und Lichtverwandlung. Die Beobachtungen über schwarze Strahlung, Photolumineszenz, Erzeugung von Kathodenstrahlen durch ultraviolettes Licht und andere Erscheinungen lassen sich besser verstehen, wenn man annimmt, dass die Energie des Lichtes diskontinuierlich im Raume verteilt ist. Die Energie besteht aus einer endlichen Zahl von in Raumpunkten lokalisierten Energiequanten, die sich bewegen, ohne sich zu teilen und nur als Ganze absorbiert und erzeugt werden können. Die Arbeit entwickelt diesen Gesichtspunkt und zeigt, wie er zur Erklärung der genannten Phänomene beiträgt."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "132",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "*Über einen  \ndie Erzeugung und Verwandlung des Lichtes  \nbetreffenden heuristischen Gesichtspunkt;  \nvon A. Einstein.*",
+          "markdown": "# Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt\n\n*von A. Einstein.*",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Zwischen den theoretischen Vorstellungen, welche sich die Physiker über die Gase und andere ponderable Körper gebildet haben, und der Maxwellschen Theorie der elektromagnetischen Prozesse im sogenannten leeren Raume besteht ein tiefgreifender formaler Unterschied. Während wir uns nämlich den Zustand eines Körpers durch die Lagen und Geschwindigkeiten einer zwar sehr großen, jedoch endlichen Anzahl von Atomen und Elektronen für vollkommen bestimmt ansehen, bedienen wir uns zur Bestimmung des elektromagnetischen Zustandes eines Raumes kontinuierlicher räumlicher Funktionen, so daß also eine endliche Anzahl von Größen nicht als genügend anzusehen ist zur vollständigen Festlegung des elektromagnetischen Zustandes eines Raumes. Nach der Maxwellschen Theorie ist bei allen rein elektromagnetischen Erscheinungen, also auch beim Licht, die Energie als kontinuierliche Raumfunktion aufzufassen, während die Energie eines ponderabeln Körpers nach der gegenwärtigen Auffassung der Physiker als eine über die Atome und Elektronen erstreckte Summe darzustellen ist. Die Energie eines ponderabeln Körpers kann nicht in beliebig viele, beliebig kleine Teile zerfallen, während sich die Energie eines von einer punktförmigen Lichtquelle ausgesandten Lichtstrahles nach der Maxwellschen Theorie (oder allgemeiner nach jeder Undulationstheorie) des Lichtes auf ein stets wachsendes Volumen sich kontinuierlich verteilt.",
+          "markdown": "Zwischen den theoretischen Vorstellungen, welche sich die Physiker über die Gase und andere ponderable Körper gebildet haben, und der Maxwellschen Theorie der elektromagnetischen Prozesse im sogenannten leeren Raume besteht ein tiefgreifender formaler Unterschied. Während wir uns nämlich den Zustand eines Körpers durch die Lagen und Geschwindigkeiten einer zwar sehr großen, jedoch endlichen Anzahl von Atomen und Elektronen für vollkommen bestimmt ansehen, bedienen wir uns zur Bestimmung des elektromagnetischen Zustandes eines Raumes kontinuierlicher räumlicher Funktionen, so dass also eine endliche Anzahl von Größen nicht als genügend anzusehen ist zur vollständigen Festlegung des elektromagnetischen Zustandes eines Raumes. Nach der Maxwellschen Theorie ist bei allen rein elektromagnetischen Erscheinungen, also auch beim Licht, die Energie als kontinuierliche Raumfunktion aufzufassen, während die Energie eines ponderabeln Körpers nach der gegenwärtigen Auffassung der Physiker als eine über die Atome und Elektronen erstreckte Summe darzustellen ist. Die Energie eines ponderabeln Körpers kann nicht in beliebig viele, beliebig kleine Teile zerfallen, während sich die Energie eines von einer punktförmigen Lichtquelle ausgesandten Lichtstrahles nach der Maxwellschen Theorie (oder allgemeiner nach jeder Undulationstheorie) des Lichtes auf ein stets wachsendes Volumen sich kontinuierlich verteilt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die mit kontinuierlichen Raumfunktionen operierende Undulationstheorie des Lichtes hat sich zur Darstellung der rein optischen Phänomene vortrefflich bewährt und wird wohl nie durch eine andere Theorie ersetzt werden. Es ist jedoch im Auge zu behalten, dass sich die optischen Beobachtungen auf zeitliche Mittelwerte, nicht aber auf Momentanwerte beziehen, und es ist trotz der vollständigen Bestätigung der Theorie der Beugung, Reflexion, Brechung, Dispersion etc. durch das Experiment wohl denkbar, dass die mit kontinuierlichen Raumfunktionen operierende Theorie des Lichtes zu Widersprüchen mit der Erfahrung führt, wenn man sie auf die Erscheinungen der Lichterzeugung und Lichtverwandlung anwendet.",
+          "markdown": "Die mit kontinuierlichen Raumfunktionen operierende Undulationstheorie des Lichtes hat sich zur Darstellung der rein optischen Phänomene vortrefflich bewährt und wird wohl nie durch eine andere Theorie ersetzt werden. Es ist jedoch im Auge zu behalten, dass sich die optischen Beobachtungen auf zeitliche Mittelwerte, nicht aber auf Momentanwerte beziehen, und es ist trotz der vollständigen Bestätigung der Theorie der Beugung, Reflexion, Brechung, Dispersion etc. durch das Experiment wohl denkbar, dass die mit kontinuierlichen Raumfunktionen operierende Theorie des Lichtes zu Widersprüchen mit der Erfahrung führt, wenn man sie auf die Erscheinungen der Lichterzeugung und Lichtverwandlung anwendet.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es scheint mir nun in der Tat, dass die Beobachtungen über die „schwarze Strahlung“, Photolumineszenz, die Erzeugung von Kathodenstrahlen durch ultraviolettes Licht und andere die Erzeugung bez. Verwandlung des Lichtes betreffende Erscheinungsgruppen besser verständlich erscheinen unter der Annahme, dass die Energie des Lichtes diskontinuierlich im Raume verteilt sei. Nach der hier ins Auge zu fassenden Annahme ist bei Ausbreitung eines von einem Punkte ausgehenden Lichtstrahles die Energie nicht kontinuierlich auf größer und größer werdende Räume verteilt, sondern es besteht dieselbe aus einer endlichen Zahl von in Raumpunkten lokalisierten Energiequanten, welche sich bewegen, ohne sich zu teilen und nur als Ganze absorbiert und erzeugt werden können.",
+          "markdown": "Es scheint mir nun in der Tat, dass die Beobachtungen über die „schwarze Strahlung“, Photolumineszenz, die Erzeugung von Kathodenstrahlen durch ultraviolettes Licht und andere die Erzeugung bzw. Verwandlung des Lichtes betreffende Erscheinungsgruppen besser verständlich erscheinen unter der Annahme, dass die Energie des Lichtes diskontinuierlich im Raume verteilt sei. Nach der hier ins Auge zu fassenden Annahme ist bei Ausbreitung eines von einem Punkte ausgehenden Lichtstrahles die Energie nicht kontinuierlich auf größer und größer werdende Räume verteilt, sondern es besteht dieselbe aus einer endlichen Zahl von in Raumpunkten lokalisierten Energiequanten, welche sich bewegen, ohne sich zu teilen und nur als Ganze absorbiert und erzeugt werden können.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Im folgenden will ich den Gedankengang mitteilen und die Tatsachen anführen, welche mich auf diesen Weg geführt haben, in der Hoffnung, dass der darzulegende Gesichtspunkt sich einigen Forschern bei ihren Untersuchungen als brauchbar erweisen möge.",
+          "markdown": "Im folgenden will ich den Gedankengang mitteilen und die Tatsachen anführen, welche mich auf diesen Weg geführt haben, in der Hoffnung, dass der darzulegende Gesichtspunkt sich einigen Forschern bei ihren Untersuchungen als brauchbar erweisen möge.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt\n\n*von A. Einstein.*\n\nZwischen den theoretischen Vorstellungen, welche sich die Physiker über die Gase und andere ponderable Körper gebildet haben, und der Maxwellschen Theorie der elektromagnetischen Prozesse im sogenannten leeren Raume besteht ein tiefgreifender formaler Unterschied. Während wir uns nämlich den Zustand eines Körpers durch die Lagen und Geschwindigkeiten einer zwar sehr großen, jedoch endlichen Anzahl von Atomen und Elektronen für vollkommen bestimmt ansehen, bedienen wir uns zur Bestimmung des elektromagnetischen Zustandes eines Raumes kontinuierlicher räumlicher Funktionen, so dass also eine endliche Anzahl von Größen nicht als genügend anzusehen ist zur vollständigen Festlegung des elektromagnetischen Zustandes eines Raumes. Nach der Maxwellschen Theorie ist bei allen rein elektromagnetischen Erscheinungen, also auch beim Licht, die Energie als kontinuierliche Raumfunktion aufzufassen, während die Energie eines ponderabeln Körpers nach der gegenwärtigen Auffassung der Physiker als eine über die Atome und Elektronen erstreckte Summe darzustellen ist. Die Energie eines ponderabeln Körpers kann nicht in beliebig viele, beliebig kleine Teile zerfallen, während sich die Energie eines von einer punktförmigen Lichtquelle ausgesandten Lichtstrahles nach der Maxwellschen Theorie (oder allgemeiner nach jeder Undulationstheorie) des Lichtes auf ein stets wachsendes Volumen sich kontinuierlich verteilt.\n\nDie mit kontinuierlichen Raumfunktionen operierende Undulationstheorie des Lichtes hat sich zur Darstellung der rein optischen Phänomene vortrefflich bewährt und wird wohl nie durch eine andere Theorie ersetzt werden. Es ist jedoch im Auge zu behalten, dass sich die optischen Beobachtungen auf zeitliche Mittelwerte, nicht aber auf Momentanwerte beziehen, und es ist trotz der vollständigen Bestätigung der Theorie der Beugung, Reflexion, Brechung, Dispersion etc. durch das Experiment wohl denkbar, dass die mit kontinuierlichen Raumfunktionen operierende Theorie des Lichtes zu Widersprüchen mit der Erfahrung führt, wenn man sie auf die Erscheinungen der Lichterzeugung und Lichtverwandlung anwendet.\n\nEs scheint mir nun in der Tat, dass die Beobachtungen über die „schwarze Strahlung“, Photolumineszenz, die Erzeugung von Kathodenstrahlen durch ultraviolettes Licht und andere die Erzeugung bzw. Verwandlung des Lichtes betreffende Erscheinungsgruppen besser verständlich erscheinen unter der Annahme, dass die Energie des Lichtes diskontinuierlich im Raume verteilt sei. Nach der hier ins Auge zu fassenden Annahme ist bei Ausbreitung eines von einem Punkte ausgehenden Lichtstrahles die Energie nicht kontinuierlich auf größer und größer werdende Räume verteilt, sondern es besteht dieselbe aus einer endlichen Zahl von in Raumpunkten lokalisierten Energiequanten, welche sich bewegen, ohne sich zu teilen und nur als Ganze absorbiert und erzeugt werden können.\n\nIm folgenden will ich den Gedankengang mitteilen und die Tatsachen anführen, welche mich auf diesen Weg geführt haben, in der Hoffnung, dass der darzulegende Gesichtspunkt sich einigen Forschern bei ihren Untersuchungen als brauchbar erweisen möge.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Keine erkennbaren Scanfehler oder OCR-Probleme auf dieser Seite."
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "133",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "### § 1. Über eine die Theorie der „schwarzen Strahlung“ betreffende Schwierigkeit.",
+          "markdown": "### § 1. Über eine die Theorie der „schwarzen Strahlung“ betreffende Schwierigkeit.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir stellen uns zunächst auf den Standpunkt der Maxwellschen Theorie und Elektronentheorie und betrachten folgenden Fall. In einem von vollkommen reflektierenden Wänden eingeschlossenen Raumes befinde sich eine Anzahl Gasmoleküle und Elektronen, welche freibeweglich sind und aufeinander konservative Kräfte ausüben, wenn sie einander sehr nahe kommen, d. h. miteinander wie Gasmoleküle nach der kinetischen Gastheorie zusammenstoßen können.¹⁾ Eine Anzahl",
+          "markdown": "Wir stellen uns zunächst auf den Standpunkt der Maxwellschen Theorie und Elektronentheorie und betrachten folgenden Fall. In einem von vollkommen reflektierenden Wänden eingeschlossenen Raumes befinde sich eine Anzahl Gasmoleküle und Elektronen, welche freibeweglich sind und aufeinander konservative Kräfte ausüben, wenn sie einander sehr nahe kommen, d. h. miteinander wie Gasmoleküle nach der kinetischen Gastheorie zusammenstoßen können.¹⁾ Eine Anzahl",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ Diese Annahme ist gleichbedeutend mit der Voraussetzung, dass die mittleren kinetischen Energien von Gasmolekülen und Elektronen bei Temperaturgleichgewicht einander gleich seien. Mit Hilfe letzterer Voraussetzung hat Hr. Drude bekanntlich das Verhältnis von thermischem und elektrischem Leitungsvermögen der Metalle auf theoretischem Wege abgeleitet.134",
+          "markdown": "¹⁾ Diese Annahme ist gleichbedeutend mit der Voraussetzung, dass die mittleren kinetischen Energien von Gasmolekülen und Elektronen bei Temperaturgleichgewicht einander gleich seien. Mit Hilfe letzterer Voraussetzung hat Hr. Drude bekanntlich das Verhältnis von thermischem und elektrischem Leitungsvermögen der Metalle auf theoretischem Wege abgeleitet.[^134]\n\n[^134]: 134",
+          "asset_id": "fn_133_01",
+          "suggested_filename": "footnotes/fn_133_01.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Fußnote mit Referenzmarker; Formatierung und Positionierung prüfen."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Elektronen sei ferner an voneinander weit entfernte Punkte des Raumes gekettet durch nach diesen Punkten gerichtete, den Elongationen proportionale Kräfte. Auch diese Elektronen sollen mit den freien Molekülen und Elektronen in konservative Wechselwirkung treten, wenn ihnen letztere sehr nahe kommen. Wir nennen die an Raumpunkte geketteten Elektronen „Resonatoren“; sie senden elektromagnetische Wellen bestimmter Periode aus und absorbieren solche.",
+          "markdown": "Elektronen sei ferner an voneinander weit entfernte Punkte des Raumes gekettet durch nach diesen Punkten gerichtete, den Elongationen proportionale Kräfte. Auch diese Elektronen sollen mit den freien Molekülen und Elektronen in konservative Wechselwirkung treten, wenn ihnen letztere sehr nahe kommen. Wir nennen die an Raumpunkte geketteten Elektronen „Resonatoren“; sie senden elektromagnetische Wellen bestimmter Periode aus und absorbieren solche.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nach der gegenwärtigen Ansicht über die Entstehung des Lichtes müßte die Strahlung im betrachteten Raume, welche unter Zugrundelegung der Maxwellschen Theorie für den Fall des dynamischen Gleichgewichtes gefunden wird, mit der „schwarzen Strahlung“ identisch sein — wenigstens wenn Resonatoren aller in Betracht zu ziehenden Frequenzen als vorhanden angesehen werden.",
+          "markdown": "Nach der gegenwärtigen Ansicht über die Entstehung des Lichtes müsste die Strahlung im betrachteten Raume, welche unter Zugrundelegung der Maxwellschen Theorie für den Fall des dynamischen Gleichgewichtes gefunden wird, mit der „schwarzen Strahlung“ identisch sein — wenigstens wenn Resonatoren aller in Betracht zu ziehenden Frequenzen als vorhanden angesehen werden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir sehen vorläufig von der von den Resonatoren emittierten und absorbierten Strahlung ab und fragen nach der der Wechselwirkung (den Zusammenstößen) von Molekülen und Elektronen entsprechenden Bedingung für das dynamische Gleichgewicht. Die kinetische Gastheorie liefert für letzteres die Bedingung, dass die mittlere lebendige Kraft eines Resonatorelektrons gleich der mittleren kinetischen Energie der fortschreitenden Bewegung eines Gasmoleküles sein muss. Zerlegen wir die Bewegung des Resonatorelektrons in drei aufeinander senkrechte Schwingungsbewegungen, so finden wir für den Mittelwert $\\bar{E}$ der Energie einer solchen geradlinigen Schwingungsbewegung",
+          "markdown": "Wir sehen vorläufig von der von den Resonatoren emittierten und absorbierten Strahlung ab und fragen nach der der Wechselwirkung (den Zusammenstößen) von Molekülen und Elektronen entsprechenden Bedingung für das dynamische Gleichgewicht. Die kinetische Gastheorie liefert für letzteres die Bedingung, dass die mittlere lebendige Kraft eines Resonatorelektrons gleich der mittleren kinetischen Energie der fortschreitenden Bewegung eines Gasmoleküles sein muss. Zerlegen wir die Bewegung des Resonatorelektrons in drei aufeinander senkrechte Schwingungsbewegungen, so finden wir für den Mittelwert $\\bar{E}$ der Energie einer solchen geradlinigen Schwingungsbewegung",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\bar{E} = \\frac{R}{N} T,$$",
+          "markdown": "$$\\bar{E} = \\frac{R}{N} T,$$\n\n",
+          "asset_id": "eq_133_01",
+          "suggested_filename": "equations/eq_133_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.35,
+            0.7,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "wobei $R$ die absolute Gaskonstante, $N$ die Anzahl der „wirklichen Moleküle“ in einem Grammäquivalent und $T$ die absolute Temperatur bedeutet. Die Energie $\\bar{E}$ ist nämlich wegen der Gleichheit der zeitlichen Mittelwerte von kinetischer und potentieller Energie des Resonators $\\frac{2}{3}$ mal so groß wie die lebendige Kraft eines freien, einatomigen Gasmoleküles. Würde nun durch irgend eine Ursache — in unserem Falle durch Strahlungsvorgänge — bewirkt, dass die Energie eines Resonators einen größeren oder kleineren zeitlichen Mittelwert als $\\bar{E}$ besitzt, so würden die Zusammenstöße mit den freien Elektronen und Molekülen zu einer im Mittel von Null verschiedenen Energieabgabe an das Gas bez. Energieaufnahme von dem Gas führen. Es ist also in dem von uns betrachteten Falle dynamisches Gleichgewicht nur dann möglich, wenn jeder Resonator die mittlere Energie $\\bar{E}$ besitzt.",
+          "markdown": "wobei $R$ die absolute Gaskonstante, $N$ die Anzahl der „wirklichen Moleküle“ in einem Grammäquivalent und $T$ die absolute Temperatur bedeutet. Die Energie $\\bar{E}$ ist nämlich wegen der Gleichheit der zeitlichen Mittelwerte von kinetischer und potentieller Energie des Resonators $\\frac{2}{3}$ mal so groß wie die lebendige Kraft eines freien, einatomigen Gasmoleküles. Würde nun durch irgend eine Ursache — in unserem Falle durch Strahlungsvorgänge — bewirkt, dass die Energie eines Resonators einen größeren oder kleineren zeitlichen Mittelwert als $\\bar{E}$ besitzt, so würden die Zusammenstöße mit den freien Elektronen und Molekülen zu einer im Mittel von Null verschiedenen Energieabgabe an das Gas bzw. Energieaufnahme von dem Gas führen. Es ist also in dem von uns betrachteten Falle dynamisches Gleichgewicht nur dann möglich, wenn jeder Resonator die mittlere Energie $\\bar{E}$ besitzt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### § 1. Über eine die Theorie der „schwarzen Strahlung“ betreffende Schwierigkeit.\n\nWir stellen uns zunächst auf den Standpunkt der Maxwellschen Theorie und Elektronentheorie und betrachten folgenden Fall. In einem von vollkommen reflektierenden Wänden eingeschlossenen Raumes befinde sich eine Anzahl Gasmoleküle und Elektronen, welche freibeweglich sind und aufeinander konservative Kräfte ausüben, wenn sie einander sehr nahe kommen, d. h. miteinander wie Gasmoleküle nach der kinetischen Gastheorie zusammenstoßen können.¹⁾ Eine Anzahl\n\n¹⁾ Diese Annahme ist gleichbedeutend mit der Voraussetzung, dass die mittleren kinetischen Energien von Gasmolekülen und Elektronen bei Temperaturgleichgewicht einander gleich seien. Mit Hilfe letzterer Voraussetzung hat Hr. Drude bekanntlich das Verhältnis von thermischem und elektrischem Leitungsvermögen der Metalle auf theoretischem Wege abgeleitet.[^134]\n\nElektronen sei ferner an voneinander weit entfernte Punkte des Raumes gekettet durch nach diesen Punkten gerichtete, den Elongationen proportionale Kräfte. Auch diese Elektronen sollen mit den freien Molekülen und Elektronen in konservative Wechselwirkung treten, wenn ihnen letztere sehr nahe kommen. Wir nennen die an Raumpunkte geketteten Elektronen „Resonatoren“; sie senden elektromagnetische Wellen bestimmter Periode aus und absorbieren solche.\n\nNach der gegenwärtigen Ansicht über die Entstehung des Lichtes müsste die Strahlung im betrachteten Raume, welche unter Zugrundelegung der Maxwellschen Theorie für den Fall des dynamischen Gleichgewichtes gefunden wird, mit der „schwarzen Strahlung“ identisch sein — wenigstens wenn Resonatoren aller in Betracht zu ziehenden Frequenzen als vorhanden angesehen werden.\n\nWir sehen vorläufig von der von den Resonatoren emittierten und absorbierten Strahlung ab und fragen nach der der Wechselwirkung (den Zusammenstößen) von Molekülen und Elektronen entsprechenden Bedingung für das dynamische Gleichgewicht. Die kinetische Gastheorie liefert für letzteres die Bedingung, dass die mittlere lebendige Kraft eines Resonatorelektrons gleich der mittleren kinetischen Energie der fortschreitenden Bewegung eines Gasmoleküles sein muss. Zerlegen wir die Bewegung des Resonatorelektrons in drei aufeinander senkrechte Schwingungsbewegungen, so finden wir für den Mittelwert $\\bar{E}$ der Energie einer solchen geradlinigen Schwingungsbewegung\n\n$$\\bar{E} = \\frac{R}{N} T,$$\n\nwobei $R$ die absolute Gaskonstante, $N$ die Anzahl der „wirklichen Moleküle“ in einem Grammäquivalent und $T$ die absolute Temperatur bedeutet. Die Energie $\\bar{E}$ ist nämlich wegen der Gleichheit der zeitlichen Mittelwerte von kinetischer und potentieller Energie des Resonators $\\frac{2}{3}$ mal so groß wie die lebendige Kraft eines freien, einatomigen Gasmoleküles. Würde nun durch irgend eine Ursache — in unserem Falle durch Strahlungsvorgänge — bewirkt, dass die Energie eines Resonators einen größeren oder kleineren zeitlichen Mittelwert als $\\bar{E}$ besitzt, so würden die Zusammenstöße mit den freien Elektronen und Molekülen zu einer im Mittel von Null verschiedenen Energieabgabe an das Gas bzw. Energieaufnahme von dem Gas führen. Es ist also in dem von uns betrachteten Falle dynamisches Gleichgewicht nur dann möglich, wenn jeder Resonator die mittlere Energie $\\bar{E}$ besitzt.\n\n[^134]: 134",
+      "word_count": 380,
+      "page_quality_notes": [
+        "Fußnote mit Referenzmarker '134' am Seitenende; Formatierung prüfen.",
+        "Gleichung korrekt erkannt und als LaTeX exportiert."
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "134",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ Diese Annahme ist gleichbedeutend mit der Voraussetzung, dass die mittleren kinetischen Energien von Gasmolekülen und Elektronen bei Temperaturgleichgewicht einander gleich seien. Mit Hilfe letzterer Voraussetzung hat Hr. Drude bekanntlich das Verhältnis von thermischem und elektrischem Leitungsvermögen der Metalle auf theoretischem Wege abgeleitet.134",
+          "markdown": "¹⁾ Diese Annahme ist gleichbedeutend mit der Voraussetzung, dass die mittleren kinetischen Energien von Gasmolekülen und Elektronen bei Temperaturgleichgewicht einander gleich seien. Mit Hilfe letzterer Voraussetzung hat Hr. Drude bekanntlich das Verhältnis von thermischem und elektrischem Leitungsvermögen der Metalle auf theoretischem Wege abgeleitet.[^134]\n\n[^134]: 134",
+          "asset_id": "fn_134_01",
+          "suggested_filename": "footnotes/fn_134_01.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": true,
+          "review_reason": "Fußnote mit Referenzmarker '134' am Seitenende; Formatierung prüfen."
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "A. Einstein.",
+          "markdown": "A. Einstein.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.2,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Elektronen sei ferner an voneinander weit entfernte Punkte des Raumes gekettet durch nach diesen Punkten gerichtete, den Elongationen proportionale Kräfte. Auch diese Elektronen sollen mit den freien Molekülen und Elektronen in konservative Wechselwirkung treten, wenn ihnen letztere sehr nahe kommen. Wir nennen die an Raumpunkte geketteten Elektronen „Resonatoren“; sie senden elektromagnetische Wellen bestimmter Periode aus und absorbieren solche.",
+          "markdown": "Elektronen sei ferner an voneinander weit entfernte Punkte des Raumes gekettet durch nach diesen Punkten gerichtete, den Elongationen proportionale Kräfte. Auch diese Elektronen sollen mit den freien Molekülen und Elektronen in konservative Wechselwirkung treten, wenn ihnen letztere sehr nahe kommen. Wir nennen die an Raumpunkte geketteten Elektronen „Resonatoren“; sie senden elektromagnetische Wellen bestimmter Periode aus und absorbieren solche.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": "Autorzeile am Seitenanfang erkannt."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nach der gegenwärtigen Ansicht über die Entstehung des Lichtes müßte die Strahlung im betrachteten Raume, welche unter Zugrundelegung der Maxwellschen Theorie für den Fall des dynamischen Gleichgewichtes gefunden wird, mit der „schwarzen Strahlung“ identisch sein — wenigstens wenn Resonatoren aller in Betracht zu ziehenden Frequenzen als vorhanden angesehen werden.",
+          "markdown": "Nach der gegenwärtigen Ansicht über die Entstehung des Lichtes müsste die Strahlung im betrachteten Raume, welche unter Zugrundelegung der Maxwellschen Theorie für den Fall des dynamischen Gleichgewichtes gefunden wird, mit der „schwarzen Strahlung“ identisch sein — wenigstens wenn Resonatoren aller in Betracht zu ziehenden Frequenzen als vorhanden angesehen werden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir sehen vorläufig von der von den Resonatoren emittierten und absorbierten Strahlung ab und fragen nach der der Wechselwirkung (den Zusammenstößen) von Molekülen und Elektronen entsprechenden Bedingung für das dynamische Gleichgewicht. Die kinetische Gastheorie liefert für letzteres die Bedingung, dass die mittlere lebendige Kraft eines Resonatorelektrons gleich der mittleren kinetischen Energie der fortschreitenden Bewegung eines Gasmoleküles sein muss. Zerlegen wir die Bewegung des Resonatorelektrons in drei aufeinander senkrechte Schwingungsbewegungen, so finden wir für den Mittelwert $\\bar{E}$ der Energie einer solchen geradlinigen Schwingungsbewegung",
+          "markdown": "Wir sehen vorläufig von der von den Resonatoren emittierten und absorbierten Strahlung ab und fragen nach der der Wechselwirkung (den Zusammenstößen) von Molekülen und Elektronen entsprechenden Bedingung für das dynamische Gleichgewicht. Die kinetische Gastheorie liefert für letzteres die Bedingung, dass die mittlere lebendige Kraft eines Resonatorelektrons gleich der mittleren kinetischen Energie der fortschreitenden Bewegung eines Gasmoleküles sein muss. Zerlegen wir die Bewegung des Resonatorelektrons in drei aufeinander senkrechte Schwingungsbewegungen, so finden wir für den Mittelwert $\\bar{E}$ der Energie einer solchen geradlinigen Schwingungsbewegung",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\bar{E} = \\frac{R}{N} T,$$",
+          "markdown": "$$\\bar{E} = \\frac{R}{N} T,$$\n\n",
+          "asset_id": "eq_134_01",
+          "suggested_filename": "equations/eq_134_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.45,
+            0.7,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "wobei $R$ die absolute Gaskonstante, $N$ die Anzahl der „wirklichen Moleküle“ in einem Grammäquivalent und $T$ die absolute Temperatur bedeutet. Die Energie $\\bar{E}$ ist nämlich wegen der Gleichheit der zeitlichen Mittelwerte von kinetischer und potentieller Energie des Resonators $\\frac{2}{3}$ mal so groß wie die lebendige Kraft eines freien, einatomigen Gasmoleküles. Würde nun durch irgend eine Ursache — in unserem Falle durch Strahlungsvorgänge — bewirkt, dass die Energie eines Resonators einen größeren oder kleineren zeitlichen Mittelwert als $\\bar{E}$ besitzt, so würden die Zusammenstöße mit den freien Elektronen und Molekülen zu einer im Mittel von Null verschiedenen Energieabgabe an das Gas bez. Energieaufnahme von dem Gas führen. Es ist also in dem von uns betrachteten Falle dynamisches Gleichgewicht nur dann möglich, wenn jeder Resonator die mittlere Energie $\\bar{E}$ besitzt.",
+          "markdown": "wobei $R$ die absolute Gaskonstante, $N$ die Anzahl der „wirklichen Moleküle“ in einem Grammäquivalent und $T$ die absolute Temperatur bedeutet. Die Energie $\\bar{E}$ ist nämlich wegen der Gleichheit der zeitlichen Mittelwerte von kinetischer und potentieller Energie des Resonators $\\frac{2}{3}$ mal so groß wie die lebendige Kraft eines freien, einatomigen Gasmoleküles. Würde nun durch irgend eine Ursache — in unserem Falle durch Strahlungsvorgänge — bewirkt, dass die Energie eines Resonators einen größeren oder kleineren zeitlichen Mittelwert als $\\bar{E}$ besitzt, so würden die Zusammenstöße mit den freien Elektronen und Molekülen zu einer im Mittel von Null verschiedenen Energieabgabe an das Gas bzw. Energieaufnahme von dem Gas führen. Es ist also in dem von uns betrachteten Falle dynamisches Gleichgewicht nur dann möglich, wenn jeder Resonator die mittlere Energie $\\bar{E}$ besitzt.",
+          "asset_id": null,
+          "suggested_filename": "Erzeugung und Verwandlung des Lichtes.",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "A. Einstein.\n\nElektronen sei ferner an voneinander weit entfernte Punkte des Raumes gekettet durch nach diesen Punkten gerichtete, den Elongationen proportionale Kräfte. Auch diese Elektronen sollen mit den freien Molekülen und Elektronen in konservative Wechselwirkung treten, wenn ihnen letztere sehr nahe kommen. Wir nennen die an Raumpunkte geketteten Elektronen „Resonatoren“; sie senden elektromagnetische Wellen bestimmter Periode aus und absorbieren solche.\n\nNach der gegenwärtigen Ansicht über die Entstehung des Lichtes müsste die Strahlung im betrachteten Raume, welche unter Zugrundelegung der Maxwellschen Theorie für den Fall des dynamischen Gleichgewichtes gefunden wird, mit der „schwarzen Strahlung“ identisch sein — wenigstens wenn Resonatoren aller in Betracht zu ziehenden Frequenzen als vorhanden angesehen werden.\n\nWir sehen vorläufig von der von den Resonatoren emittierten und absorbierten Strahlung ab und fragen nach der der Wechselwirkung (den Zusammenstößen) von Molekülen und Elektronen entsprechenden Bedingung für das dynamische Gleichgewicht. Die kinetische Gastheorie liefert für letzteres die Bedingung, dass die mittlere lebendige Kraft eines Resonatorelektrons gleich der mittleren kinetischen Energie der fortschittenden Bewegung eines Gasmoleküles sein muss. Zerlegen wir die Bewegung des Resonatorelektrons in drei aufeinander senkrechte Schwingungsbewegungen, so finden wir für den Mittelwert $\\bar{E}$ der Energie einer solchen geradlinigen Schwingungsbewegung\n\n$$\\bar{E} = \\frac{R}{N} T,$$\n\nwobei $R$ die absolute Gaskonstante, $N$ die Anzahl der „wirklichen Moleküle“ in einem Grammäquivalent und $T$ die absolute Temperatur bedeutet. Die Energie $\\bar{E}$ ist nämlich wegen der Gleichheit der zeitlichen Mittelwerte von kinetischer und potentieller Energie des Resonators $\\frac{2}{3}$ mal so groß wie die lebendige Kraft eines freien, einatomigen Gasmoleküles. Würde nun durch irgend eine Ursache — in unserem Falle durch Strahlungsvorgänge — bewirkt, dass die Energie eines Resonators einen größeren oder kleineren zeitlichen Mittelwert als $\\bar{E}$ besitzt, so würden die Zusammenstöße mit den freien Elektronen und Molekülen zu einer im Mittel von von Null verschiedenen Energieabgabe an das Gas bzw. Energieaufnahme von dem Gas führen. Es ist also in dem von uns betrachteten Falle dynamisches Gleichgewicht nur dann möglich, wenn jeder Resonator die mittlere Energie $\\bar{E}$ besitzt.\n\n[^134]: 134",
+      "word_count": 320,
+      "page_quality_notes": [
+        "Fußnote mit Referenzmarker '134' am Seitenende; Formatierung prüfen.",
+        "Autorzeile am Seitenanfang erkannt."
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "135",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine ähnliche Überlegung machen wir jetzt bezüglich der Wechselwirkung der Resonatoren und der im Raume vorhandenen Strahlung. Hr. Planck hat für diesen Fall die Bedingung des dynamischen Gleichgewichtes abgeleitet$^{1)}$ unter der Voraussetzung, dass die Strahlung als ein denkbar ungeordnetster Prozeß$^{2)}$ betrachtet werden kann. Er fand:",
+          "markdown": "Eine ähnliche Überlegung machen wir jetzt bezüglich der Wechselwirkung der Resonatoren und der im Raume vorhandenen Strahlung. Hr. Planck hat für diesen Fall die Bedingung des dynamischen Gleichgewichtes abgeleitet$^{1)}$ unter der Voraussetzung, dass die Strahlung als ein denkbar ungeordnetster Prozeß$^{2)}$ betrachtet werden kann. Er fand:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\bar{E}_\\nu = \\frac{L^3}{8 \\pi \\nu^2} \\varrho_\\nu.$$",
+          "markdown": "$$\\bar{E}_\\nu = \\frac{L^3}{8 \\pi \\nu^2} \\varrho_\\nu.$$\\\\\n\n",
+          "asset_id": "eq_135_01",
+          "suggested_filename": "equations/eq_135_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.8,
+            0.8,
+            0.88
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "$\\bar{E}_\\nu$ ist hierbei die mittlere Energie eines Resonators von der Eigenfrequenz $\\nu$ (pro Schwingungskomponente), $L$ die Lichtgeschwindigkeit, $\\nu$ die Frequenz und $\\varrho_\\nu d\\nu$ die Energie pro Volumeinheit desjenigen Teiles der Strahlung, dessen Schwingungszahl zwischen $\\nu$ und $\\nu + d\\nu$ liegt.",
+          "markdown": "$\\bar{E}_\\nu$ ist hierbei die mittlere Energie eines Resonators von der Eigenfrequenz $\\nu$ (pro Schwingungskomponente), $L$ die Lichtgeschwindigkeit, $\\nu$ die Frequenz und $\\varrho_\\nu d\\nu$ die Energie pro Volumeinheit desjenigen Teiles der Strahlung, dessen Schwingungszahl zwischen $\\nu$ und $\\nu + d\\nu$ liegt.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{1)}$ M. Planck, Ann. d. Phys. 1. p. 99. 1900.",
+          "markdown": "$^{1)}$ M. Planck, Ann. d. Phys. 1. p. 99. 1900.[^fn_planck_1900]\n\n[^fn_planck_1900]: M. Planck, Ann. d. Phys. 1. p. 99. 1900.",
+          "asset_id": "fn_135_01",
+          "suggested_filename": "footnotes/fn_135_01.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{2)}$ Diese Voraussetzung läßt sich folgendermaßen formulieren. Wir entwickeln die $Z$-Komponente der elektrischen Kraft ($Z$) in einem beliebigen Punkte des betreffenden Raumes zwischen den Zeitgrenzen $t=0$ und $t=T$ (wobei $T$ eine relativ zu allen in Betracht zu ziehenden Schwingungsdauern sehr große Zeit bedeute) in eine Fouriersche Reihe",
+          "markdown": "$^{2)}$ Diese Voraussetzung lässt sich folgendermaßen formulieren. Wir entwickeln die $Z$-Komponente der elektrischen Kraft ($Z$) in einem beliebigen Punkte des betreffenden Raumes zwischen den Zeitgrenzen $t=0$ und $t=T$ (wobei $T$ eine relativ zu allen in Betracht zu ziehenden Schwingungsdauern sehr große Zeit bedeute) in eine Fouriersche Reihe[^fn_fourier_assumption]\n\n[^fn_fourier_assumption]: Diese Voraussetzung lässt sich folgendermaßen formulieren. Wir entwickeln die $Z$-Komponente der elektrischen Kraft ($Z$) in einem beliebigen Punkte des betreffenden Raumes zwischen den Zeitgrenzen $t=0$ und $t=T$ (wobei $T$ eine relativ zu allen in Betracht zu ziehenden Schwingungsdauern sehr große Zeit bedeute) in eine Fouriersche Reihe\n\n$$Z = \\sum_{\\nu=1}^{\\nu=\\infty} A_\\nu \\sin \\left( 2 \\pi \\nu \\frac{t}{T} + \\alpha_\\nu \\right),$$\n\nwobei $A_\\nu \\geqq 0$ und $0 \\leqq \\alpha_\\nu \\leqq 2\\pi$. Denkt man sich in demselben Raumpunkte eine solche Entwicklung beliebig oft bei zufällig gewählten Anfangspunkten der Zeit ausgeführt, so wird man für die Größen $A_\\nu$ und $\\alpha_\\nu$ verschiedene Wertsysteme erhalten. Es existieren dann für die Häufigkeit der verschiedenen Wertekombinationen der Größen $A_\\nu$ und $\\alpha_\\nu$ (statistische) Wahrscheinlichkeiten $dW$ von der Form:\n\n$$dW = f(A_1 A_2 \\dots \\alpha_1 \\alpha_2 \\dots) d A_1 d A_2 \\dots d \\alpha_1 d \\alpha_2 \\dots$$\n\nDie Strahlung ist dann eine denkbar ungeordnetste, wenn\n\n$$f(A_1, A_2 \\dots \\alpha_1, \\alpha_2 \\dots) = F_1(A_1) F_2(A_2) \\dots f_1(\\alpha_1) \\cdot f_2(\\alpha_2) \\dots,$$\n\nd. h. wenn die Wahrscheinlichkeit eines bestimmten Wertes einer der Größen $A$ bez. $\\alpha$ von den Werten, welche die anderen Größen $A$ bez. x besitzen, unabhängig ist. Mit je größerer Annäherung die Bedingung erfüllt ist, daß die einzelnen Paare von Größen $A_\\nu$ und $\\alpha_\\nu$ von Emissions- und Absorptionsprozessen *besonderer* Resonatorengruppen abhängen, mit desto größerer Annäherung wird also in dem von uns betrachteten Falle die Strahlung als eine „denkbar ungeordnetste“ anzusehen sein.",
+          "asset_id": "fn_135_02",
+          "suggested_filename": "footnotes/fn_135_02.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Lange Fußnote mit komplexer mathematischer Notation; Formatierung und Lesereihenfolge prüfen."
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Soll die Strahlungsenergie von der Frequenz $\\nu$ nicht beständig im Ganzen weder vermindert noch vermehrt werden, so muss gelten:",
+          "markdown": "Soll die Strahlungsenergie von der Frequenz $\\nu$ nicht beständig im Ganzen weder vermindert noch vermehrt werden, so muss gelten:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Eine ähnliche Überlegung machen wir jetzt bezüglich der Wechselwirkung der Resonatoren und der im Raume vorhandenen Strahlung. Hr. Planck hat für diesen Fall die Bedingung des dynamischen Gleichgewichtes abgeleitet$^{1)}$ unter der Voraussetzung, dass die Strahlung als ein denkbar ungeordnetster Prozeß$^{2)}$ betrachtet werden kann. Er fand:\n\n$$\\bar{E}_\\nu = \\frac{L^3}{8 \\pi \\nu^2} \\varrho_\\nu.$$\\\\\n\n$\\bar{E}_\\nu$ ist hierbei die mittlere Energie eines Resonators von der Eigenfrequenz $\\nu$ (pro Schwingungskomponente), $L$ die Lichtgeschwindigkeit, $\\nu$ die Frequenz und $\\varrho_\\nu d\\nu$ die Energie pro Volumeinheit desjenigen Teiles der Strahlung, dessen Schwingungszahl zwischen $\\nu$ und $\\nu + d\\nu$ liegt.\n\n$^{1)}$ M. Planck, Ann. d. Phys. 1. p. 99. 1900.\n\n$^{2)}$ Diese Voraussetzung lässt sich folgendermaßen formulieren. Wir entwickeln die $Z$-Komponente der elektrischen Kraft ($Z$) in einem beliebigen Punkte des betreffenden Raumes zwischen den Zeitgrenzen $t=0$ und $t=T$ (wobei $T$ eine relativ zu allen in Betracht zu ziehenden Schwingungsdauern sehr große Zeit bedeute) in eine Fouriersche Reihe[^fn_fourier_assumption]\n\n[^fn_fourier_assumption]: Diese Voraussetzung lässt sich folgendermaßen formulieren. Wir entwickeln die $Z$-Komponente der elektrischen Kraft ($Z$) in einem beliebigen Punkte des betreffenden Raumes zwischen den Zeitgrenzen $t=0$ und $t=T$ (wobei $T$ eine relativ zu allen in Betracht zu ziehenden Schwingungsdauern sehr große Zeit bedeute) in eine Fouriersche Reihe\n\n$$Z = \\sum_{\\nu=1}^{\\nu=\\infty} A_\\nu \\sin \\left( 2 \\pi \\nu \\frac{t}{T} + \\alpha_\\nu \\right),$$\n\nwobei $A_\\nu \\geqq 0$ und $0 \\leqq \\alpha_\\nu \\leqq 2\\pi$. Denkt man sich in demselben Raumpunkte eine solche Entwicklung beliebig oft bei zufällig gewählten Anfangspunkten der Zeit ausgeführt, so wird man für die Größen $A_\\nu$ und $\\alpha_\\nu$ verschiedene Wertsysteme erhalten. Es existieren dann für die Häufigkeit der verschiedenen Wertekombinationen der Größen $A_\\nu$ und $\\alpha_\\nu$ (statistische) Wahrscheinlichkeiten $dW$ von der Form:\n\n$$dW = f(A_1 A_2 \\dots \\alpha_1 \\alpha_2 \\dots) d A_1 d A_2 \\dots d \\alpha_1 d \\alpha_2 \\dots$$\n\nDie Strahlung ist dann eine denkbar ungeordnetste, wenn\n\n$$f(A_1, A_2 \\dots \\alpha_1, \\alpha_2 \\dots) = F_1(A_1) F_2(A_2) \\dots f_1(\\alpha_1) \\cdot f_2(\\alpha_2) \\dots,$$\n\nd. h. wenn die Wahrscheinlichkeit eines bestimmten Wertes einer der Größen $A$ bez. $\\alpha$ von den Werten, welche die anderen Größen $A$ bez. x besitzen, unabhängig ist. Mit je größerer Annäherung die Bedingung erfüllt ist, daß die einzelnen Paare von Größen $A_\\nu$ und $\\alpha_\\nu$ von Emissions- und Absorptionsprozessen *besonderer* Resonatorengruppen abhängen, mit desto größerer Annäherung wird also in dem von uns betrachteten Falle die Strahlung als eine „denkbar ungeordnetste“ anzusehen sein.\n\nSoll die Strahlungsenergie von der Frequenz $\\nu$ nicht beständig im Ganzen weder vermindert noch vermehrt werden, so muss gelten:",
+      "word_count": 420,
+      "page_quality_notes": [
+        "Lange Fußnote mit komplexer mathematischer Notation; Formatierung und Lesereihenfolge prüfen.",
+        "Gleichung korrekt erkannt und als LaTeX exportiert."
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "136",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{R}{N} T = \\bar{E} = \\bar{E}_\\nu = \\frac{L^3}{8 \\pi \\nu^2} \\varrho_\\nu,$$\n\n$$\\varrho_\\nu = \\frac{R}{N} \\frac{8 \\pi \\nu^2}{L^3} T.$$",
+          "markdown": "$$\\frac{R}{N} T = \\bar{E} = \\bar{E}_\\nu = \\frac{L^3}{8 \\pi \\nu^2} \\varrho_\\nu,$$\n\n$$\\varrho_\\nu = \\frac{R}{N} \\frac{8 \\pi \\nu^2}{L^3} T.$$\\\\\n\n",
+          "asset_id": "eq_136_01",
+          "suggested_filename": "equations/eq_136_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Diese als Bedingung des dynamischen Gleichgewichtes gefundene Beziehung entbehrt nicht nur der Übereinstimmung mit der Erfahrung, sondern sie besagt auch, dass in unserem Bilde von einer bestimmten Energieverteilung zwischen Äther und Materie nicht die Rede sein kann. Je weiter nämlich der Schwingungszahlenbereich der Resonatoren gewählt wird, desto größer wird die Strahlungsenergie des Raumes, und wir erhalten in der Grenze",
+          "markdown": "Diese als Bedingung des dynamischen Gleichgewichtes gefundene Beziehung entbehrt nicht nur der Übereinstimmung mit der Erfahrung, sondern sie besagt auch, dass in unserem Bilde von einer bestimmten Energieverteilung zwischen Äther und Materie nicht die Rede sein kann. Je weiter nämlich der Schwingungszahlenbereich der Resonatoren gewählt wird, desto größer wird die Strahlungsenergie des Raumes, und wir erhalten in der Grenze\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\int_0^\\infty \\varrho_\\nu \\, d\\nu = \\frac{R}{N} \\frac{8 \\pi}{L^3} T \\int_0^\\infty \\nu^2 \\, d\\nu = \\infty.$$",
+          "markdown": "$$\\int_0^\\infty \\varrho_\\nu \\, d\\nu = \\frac{R}{N} \\frac{8 \\pi}{L^3} T \\int_0^\\infty \\nu^2 \\, d\\nu = \\infty.$$\\\\\n\n",
+          "asset_id": "eq_136_02",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "## § 2. Über die Plancksche Bestimmung der Elementarquanta.",
+          "markdown": "## § 2. Über die Plancksche Bestimmung der Elementarquanta.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir wollen im folgenden zeigen, dass die von Hrn. Planck gegebene Bestimmung der Elementarquanta von der von ihm aufgestellten Theorie der „schwarzen Strahlung“ bis zu einem gewissen Grade unabhängig ist.",
+          "markdown": "Wir wollen im folgenden zeigen, dass die von Hrn. Planck gegebene Bestimmung der Elementarquanta von der von ihm aufgestellten Theorie der „schwarzen Strahlung“ bis zu einem gewischen Grade unabhängig ist.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die allen bisherigen Erfahrungen genügende Plancksche Formel$^{1)}$ für $\\varrho_\\nu$ lautet",
+          "markdown": "Die allen bisherigen Erfahrungen genügende Plancksche Formel$^{1)}$ für $\\varrho_\\nu$ lautet\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\varrho_\\nu = \\frac{\\alpha \\nu^3}{e^{\\frac{\\beta \\nu}{T}} - 1},$$\n\nwobei",
+          "markdown": "$$\\varrho_\\nu = \\frac{\\alpha \\nu^3}{e^{\\frac{\\beta \\nu}{T}} - 1},$$\n\nwobei\n\n",
+          "asset_id": "eq_136_03",
+          "suggested_filename": "equations/eq_136_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\alpha = 6,10 \\cdot 10^{-56},$$\n\n$$\\beta = 4,866 \\cdot 10^{-11}.$$",
+          "markdown": "$$\\alpha = 6,10 \\cdot 10^{-56},$$\n\n$$\\beta = 4,866 \\cdot 10^{-11}.$$\\\\\n\n",
+          "asset_id": "eq_136_04",
+          "suggested_filename": "equations/eq_136_04.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Diese als Bedingung des dynamischen Gleichgewichtes gefundene Beziehung entbehrt nicht nur der Übereinstimmung mit der Erfahrung, sondern sie besagt auch, dass in unserem Bilde von einer bestimmten Energieverteilung zwischen Äther und Materie nicht die Rede sein kann. Je weiter nämlich der Schwingungszahlenbereich der Resonatoren gewählt wird, desto größer wird die Strahlungsenergie des Raumes, und wir erhalten in der Grenze\n\n$$\\frac{R}{N} T = \\bar{E} = \\bar{E}_\\nu = \\frac{L^3}{8 \\pi \\nu^2} \\varrho_\\nu,$$\n\n$$\\varrho_\\nu = \\frac{R}{N} \\frac{8 \\pi \\nu^2}{L^3} T.$$\\\\\n\n$$\\int_0^\\infty \\varrho_\\nu \\, d\\nu = \\frac{R}{N} \\frac{8 \\pi}{L^3} T \\int_0^\\infty \\nu^2 \\, d\\nu = \\infty.$$## § 2. Über die Plancksche Bestimmung der Elementarquanta.\n\nWir wollen im folgenden zeigen, dass die von Hrn. Planck gegebene Bestimmung der Elementarquanta von der von ihm aufgestellten Theorie der „schwarzen Strahlung“ bis zu einem gewissen Grade unabhängig ist.\n\nDie allen bisherigen Erfahrungen genügende Plancksche Formel$^{1)}$ für $\\varrho_\\nu$ lautet\n\n$$\\varrho_\\nu = \\frac{\\alpha \\nu^3}{e^{\\frac{\\beta \\nu}{T}} - 1},$$\n\nwobei\n\n$$\\alpha = 6,10 \\cdot 10^{-56},$$\n\n$$\\beta = 4,866 \\cdot 10^{-11}.$$",
+      "word_count": 280,
+      "page_quality_notes": [
+        "Gleichungen korrekt erkannt und als LaTeX exportiert.",
+        "Übergang zu § 2 korrekt erkannt."
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "137",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Für große Werte von $T/\\nu$, d. h. für große Wellenlängen und Strahlungsdichten geht diese Formel in der Grenze in folgende über:\n\n$$\\varrho_\\nu = \\frac{\\alpha}{\\beta} \\nu^2 T.$$",
+          "markdown": "Für große Werte von $T/\\nu$, d. h. für große Wellenlängen und Strahlungsdichten geht diese Formel in der Grenze in folgende über:\n\n$$\\varrho_\\nu = \\frac{\\alpha}{\\beta} \\nu^2 T.$$\\\\\n\n",
+          "asset_id": "eq_137_01",
+          "suggested_filename": "equations/eq_137_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man erkennt, dass diese Formel mit der in § 1 aus der Maxwellschen und der Elektronentheorie entwickelten übereinstimmt. Durch Gleichsetzung der Koeffizienten beider Formeln erhält man:",
+          "markdown": "Man erkennt, dass diese Formel mit der in § 1 aus der Maxwellschen und der Elektronentheorie entwickelten übereinstimmt. Durch Gleichsetzung der Koeffizienten beider Formeln erhält man:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{R}{N} \\frac{8\\pi}{L^3} = \\frac{\\alpha}{\\beta}$$\n\noder",
+          "markdown": "$$\\frac{R}{N} \\frac{8\\pi}{L^3} = \\frac{\\alpha}{\\beta}$$\n\noder\n\n",
+          "asset_id": "eq_137_02",
+          "suggested_filename": "equations/eq_137_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$N = \\frac{\\beta}{\\alpha} \\frac{8\\pi R}{L^3} = 6,17 \\cdot 10^{23},$$\n\nd. h. ein Atom Wasserstoff wiegt $1/N$ Gramm = $1,62 \\cdot 10^{-24}$ g. Dies ist genau der von Hrn. Planck gefundene Wert, welcher mit den auf anderen Wegen gefundenen Werten für diese Größe befriedigend übereinstimmt.",
+          "markdown": "$$N = \\frac{\\beta}{\\alpha} \\frac{8\\pi R}{L^3} = 6,17 \\cdot 10^{23},$$\n\nd. h. ein Atom Wasserstoff wiegt $1/N$ Gramm = $1,62 \\cdot 10^{-24}$ g. Dies ist genau der von Hrn. Planck gefundene Wert, welcher mit den auf anderen Wegen gefundenen Werten für diese Größe befriedigend übereinstimmt.\n\n",
+          "asset_id": "eq_137_03",
+          "suggested_filename": "equations/eq_137_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir gelangen daher zu dem Schlusse: Je größer die Energiedichte und die Wellenlänge einer Strahlung ist, als um so brauchbarer erweisen sich die von uns benutzten theoretischen Grundlagen; für kleine Wellenlängen und kleine Strahlungsdichten aber versagen dieselben vollständig.",
+          "markdown": "Wir gelangen daher zu dem Schlusse: Je größer die Energiedichte und die Wellenlänge einer Strahlung ist, als um so brauchbarer erweisen sich die von uns benutzten theoretischen Grundlagen; für kleine Wellenlängen und kleine Strahlungsdichten aber versagen dieselben vollständig.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Im folgenden soll die „schwarze Strahlung“ im Anschluß an die Erfahrung ohne Zugrundelegung eines Bildes über die Erzeugung und Ausbreitung der Strahlung betrachtet werden.",
+          "markdown": "Im folgenden soll die „schwarze Strahlung“ im Anschluss an die Erfahrung ohne Zugrundelegung eines Bildes über die Erzeugung und Ausbreitung der Strahlung betrachtet werden.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": "Rechtschreibung 'Anschluss' statt 'Anschluß' korrigiert."
+        },
+        {
+          "order": 7,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "### § 3. Über die Entropie der Strahlung.",
+          "markdown": "### § 3. Über die Entropie der Strahlung.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die folgende Betrachtung ist in einer berühmten Arbeit des Hrn. W. Wien enthalten und soll hier nur der Vollständigkeit halber Platz finden.",
+          "markdown": "Die folgende Betrachtung ist in einer berühmten Arbeit des Hrn. W. Wien enthalten und soll hier nur der Vollständigkeit halber Platz finden.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Für große Werte von $T/\\nu$, d. h. für große Wellenlängen und Strahlungsdichten geht diese Formel in der Grenze in folgende über:\n\n$$\\varrho_\\nu = \\frac{\\alpha}{\\beta} \\nu^2 T.$$\\\\\n\nMan erkennt, dass diese Formel mit der in § 1 aus der Maxwellschen und der Elektronentheorie entwickelten übereinstimmt. Durch Gleichsetzung der Koeffizienten beider Formeln erhält man:\n\n$$\\frac{R}{N} \\frac{8\\pi}{L^3} = \\frac{\\alpha}{\\beta}$$\n\noder\n\n$$N = \\frac{\\beta}{\\alpha} \\frac{8\\pi R}{L^3} = 6,17 \\cdot 10^{23},$$\n\nd. h. ein Atom Wasserstoff wiegt $1/N$ Gramm = $1,62 \\cdot 10^{-24}$ g. Dies ist genau der von Hrn. Planck gefundene Wert, welcher mit den auf anderen Wegen gefundenen Werten für diese Größe befriedigend übereinstimmt.\n\nWir gelangen daher zu dem Schlusse: Je größer die Energiedichte und die Wellenlänge einer Strahlung ist, als um so brauchbarer erweisen sich die von uns benutzten theoretischen Grundlagen; für kleine Wellenlängen und kleine Strahlungsdichten aber versagen dieselben vollständig.\n\nIm folgenden soll die „schwarze Strahlung“ im Anschluss an die Erfahrung ohne Zugrundelegung eines Bildes über die Erzeugung und Ausbreitung der Strahlung betrachtet werden.\n\n### § 3. Über die Entropie der Strahlung.\n\nDie folgende Betrachtung ist in einer berühmten Arbeit des Hrn. W. Wien enthalten und soll hier nur der Vollständigkeit halber Platz finden.",
+      "word_count": 250,
+      "page_quality_notes": [
+        "Gleichungen korrekt erkannt und als LaTeX exportiert.",
+        "Rechtschreibung 'Anschluss' statt 'Anschluß' korrigiert."
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "138",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es liege eine Strahlung vor, welche das Volumen $v$ einnehme. Wir nehmen an, dass die wahrnehmbaren Eigenschaften der vorliegenden Strahlung vollkommen bestimmt seien, wenn die Strahlungsdichte $\\varrho(v)$ für alle Frequenzen gegeben ist.¹⁾ Da Strahlungen von verschiedenen Frequenzen als ohne Arbeitsleistung und ohne Wärmezufuhr voneinander trennbar anzusehen sind, so ist die Entropie der Strahlung in der Form",
+          "markdown": "Es liege eine Strahlung vor, welche das Volumen $v$ einnehme. Wir nehmen an, dass die wahrnehmbaren Eigenschaften der vorliegenden Strahlung vollkommen bestimmt seien, wenn die Strahlungsdichte $\\varrho(v)$ für alle Frequenzen gegeben ist.¹⁾ Da Strahlungen von verschiedenen Frequenzen als ohne Arbeitsleistung und ohne Wärmezufuhr voneinander trennbar anzusehen sind, so ist die Entropie der Strahlung in der Form\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S = v \\int_0^\\infty \\varphi(\\varrho, v) \\, dv$$",
+          "markdown": "$$S = v \\int_0^\\infty \\varphi(\\varrho, v) \\, dv$$\n\n",
+          "asset_id": "eq_138_01",
+          "suggested_filename": "equations/eq_138_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ Diese Annahme ist eine willkürliche. Man wird naturgemäß an dieser einfachsten Annahme so lange festhalten, als nicht das Experiment dazu zwingt, sie zu verlassen.",
+          "markdown": "¹⁾ Diese Annahme ist eine willkürliche. Man wird naturgemäß an dieser einfachsten Annahme so lange festhalten, als nicht das Experiment dazu zwingt, sie zu verlassen.[^fn_entropy_assumption]\n\n[^fn_entropy_assumption]: Diese Annahme ist eine willkürliche. Man wird naturgemäß an dieser einfachsten Annahme so lange festhalten, als nicht das Experiment dazu zwingt, sie zu verlassen.",
+          "asset_id": "fn_138_01",
+          "suggested_filename": "footnotes/fn_138_01.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Fußnote mit Referenzmarker; Formatierung prüfen."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "darstellbar, wobei $\\varphi$ eine Funktion der Variabeln $\\varrho$ und $v$ bedeutet. Es kann $\\varphi$ auf eine Funktion von nur einer Variabeln reduziert werden durch Formulierung der Aussage, dass durch adiabatische Kompression einer Strahlung zwischen spiegelnden Wänden, deren Entropie nicht geändert wird. Wir wollen jedoch hierauf nicht eintreten, sondern sogleich untersuchen, wie die Funktion $\\varphi$ aus dem Strahlungsgesetz des schwarzen Körpers ermittelt werden kann.",
+          "markdown": "darstellbar, wobei $\\varphi$ eine Funktion der Variabeln $\\varrho$ und $v$ bedeutet. Es kann $\\varphi$ auf eine Funktion von nur einer Variabeln reduziert werden durch Formulierung der Aussage, dass durch adiabatische Kompression einer Strahlung zwischen spiegelnden Wänden, deren Entropie nicht geändert wird. Wir wollen jedoch hierauf nicht eintreten, sondern sogleich untersuchen, wie die Funktion $\\varphi$ aus dem Strahlungsgesetz des schwarzen Körpers ermittelt werden kann.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bei der „schwarzen Strahlung“ ist $\\varrho$ eine solche Funktion von $\\nu$, dass die Entropie bei gegebener Energie ein Maximum ist, d. h. dass",
+          "markdown": "Bei der „schwarzen Strahlung“ ist $\\varrho$ eine solche Funktion von $\\nu$, dass die Entropie bei gegebener Energie ein Maximum ist, d. h. dass\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\delta \\int_0^\\infty \\varphi(\\varrho, \\nu) \\, d\\nu = 0,$$\n\nwenn",
+          "markdown": "$$\\delta \\int_0^\\infty \\varphi(\\varrho, \\nu) \\, d\\nu = 0,$$\n\nwenn\n\n",
+          "asset_id": "eq_138_02",
+          "suggested_filename": "equations/eq_138_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\delta \\int_0^\\infty \\varrho \\, d\\nu = 0.$$",
+          "markdown": "$$\\delta \\int_0^\\infty \\varrho \\, d\\nu = 0.$$\\\\\n\n",
+          "asset_id": "eq_138_03",
+          "suggested_filename": "equations/eq_138_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hieraus folgt, dass für jede Wahl des $\\delta \\varrho$ als Funktion von $\\nu$",
+          "markdown": "Hieraus folgt, dass für jede Wahl des $\\delta \\varrho$ als Funktion von $\\nu$\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\int_0^\\infty \\left( \\frac{\\partial \\varphi}{\\partial \\varrho} - \\lambda \\right) \\delta \\varrho \\, d\\nu = 0,$$\n\nwobei $\\lambda$ von $\\nu$ unabhängig ist. Bei der schwarzen Strahlung ist also $\\partial \\varphi / \\partial \\varrho$ von $\\nu$ unabhängig.",
+          "markdown": "$$\\int_0^\\infty \\left( \\frac{\\partial \\varphi}{\\partial \\varrho} - \\lambda \\right) \\delta \\varrho \\, d\\nu = 0,$$\n\nwobei $\\lambda$ von $\\nu$ unabhängig ist. Bei der schwarzen Strahlung ist also $\\partial \\varphi / \\partial \\varrho$ von $\\nu$ unabhängig.\n\n",
+          "asset_id": "eq_138_04",
+          "suggested_filename": "equations/eq_138_04.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Es liege eine Strahlung vor, welche das Volumen $v$ einnehme. Wir nehmen an, dass die wahrnehmbaren Eigenschaften der vorliegenden Strahlung vollkommen bestimmt seien, wenn die Strahlungsdichte $\\varrho(v)$ für alle Frequenzen gegeben ist.¹⁾ Da Strahlungen von verschiedenen Frequenzen als ohne Arbeitsleistung und ohne Wärmezufuhr voneinander trennbar anzusehen sind, so ist die Entropie der Strahlung in der Form\n\n$$S = v \\int_0^\\infty \\varphi(\\varrho, v) \\, dv$$\n\n¹⁾ Diese Annahme ist eine willkürliche. Man wird naturgemäß an dieser einfachsten Annahme so lange festhalten, als nicht das Experiment dazu zwingt, sie zu verlassen.\n\ndarstellbar, wobei $\\varphi$ eine Funktion der Variabeln $\\varrho$ und $v$ bedeutet. Es kann $\\varphi$ auf eine Funktion von nur einer Variabeln reduziert werden durch Formulierung der Aussage, dass durch adiabatische Kompression einer Strahlung zwischen spiegelnden Wänden, deren Entropie nicht geändert wird. Wir wollen jedoch hierauf nicht eintreten, sondern sogleich untersuchen, wie die Funktion $\\varphi$ aus dem Strahlungsgesetz des schwarzen Körpers ermittelt werden kann.\n\nBei der „schwarzen Strahlung“ ist $\\varrho$ eine solche Funktion von $\\nu$, dass die Entropie bei gegebener Energie ein Maximum ist, d. h. dass\n\n$$\\delta \\int_0^\\infty \\varphi(\\varrho, \\nu) \\, d\\nu = 0,$$\n\nwenn\n\n$$\\delta \\int_0^\\infty \\varrho \\, d\\nu = 0.$$\\\\\n\nHieraus folgt, dass für jede Wahl des $\\delta \\varrho$ als Funktion von $\\nu$\n\n$$\\int_0^\\infty \\left( \\frac{\\partial \\varphi}{\\partial \\varrho} - \\lambda \\right) \\delta \\varrho \\, d\\nu = 0,$$\n\nwobei $\\lambda$ von $\\nu$ unabhängig ist. Bei der schwarzen Strahlung ist also $\\partial \\varphi / \\partial \\varrho$ von $\\nu$ unabhängig.",
+      "word_count": 280,
+      "page_quality_notes": [
+        "Fußnote mit Referenzmarker; Formatierung prüfen.",
+        "Gleichungen korrekt erkannt und als LaTeX exportiert."
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "139",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Für die Temperaturzunahme einer schwarzen Strahlung vom Volumen $v = 1$ um $dT$ gilt die Gleichung:",
+          "markdown": "Für die Temperaturzunahme einer schwarzen Strahlung vom Volumen $v = 1$ um $dT$ gilt die Gleichung:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$dS = \\int_{\\nu=0}^{\\nu=\\infty} \\frac{\\partial \\varphi}{\\partial \\varrho} \\, d\\varrho \\, d\\nu,$$",
+          "markdown": "$$dS = \\int_{\\nu=0}^{\\nu=\\infty} \\frac{\\partial \\varphi}{\\partial \\varrho} \\, d\\varrho \\, d\\nu,$$\n\n",
+          "asset_id": "eq_139_01",
+          "suggested_filename": "equations/eq_139_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "oder, da $\\partial \\varphi / \\partial \\varrho$ von $\\nu$ unabhängig ist:",
+          "markdown": "oder, da $\\partial \\varphi / \\partial \\varrho$ von $\\nu$ unabhängig ist:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$dS = \\frac{\\partial \\varphi}{\\partial \\varrho} \\, dE.$$",
+          "markdown": "$$dS = \\frac{\\partial \\varphi}{\\partial \\varrho} \\, dE.$$\\\\\n\n",
+          "asset_id": "eq_139_02",
+          "suggested_filename": "equations/eq_139_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Da $dE$ gleich der zugeführten Wärme und der Vorgang umkehrbar ist, so gilt auch:",
+          "markdown": "Da $dE$ gleich der zugeführten Wärme und der Vorgang umkehrbar ist, so gilt auch:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$dS = \\frac{1}{T} \\, dE.$$",
+          "markdown": "$$dS = \\frac{1}{T} \\, dE.$$\\\\\n\n",
+          "asset_id": "eq_139_03",
+          "suggested_filename": "equations/eq_139_03.png",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Durch Vergleich erhält man:",
+          "markdown": "Durch Vergleich erhält man:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{\\partial \\varphi}{\\partial \\varrho} = \\frac{1}{T}.$$",
+          "markdown": "$$\\frac{\\partial \\varphi}{\\partial \\varrho} = \\frac{1}{T}.$$\\\\\n\n",
+          "asset_id": "eq_139_04",
+          "suggested_filename": "equations/eq_139_04.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dies ist das Gesetz der schwarzen Strahlung. Man kann also aus der Funktion $\\varphi$ das Gesetz der schwarzen Strahlung und umgekehrt aus letzterem die Funktion $\\varphi$ durch Integration bestimmen mit Rücksicht darauf, dass $\\varphi$ für $\\varrho = 0$ verschwindet.",
+          "markdown": "Dies ist das Gesetz der schwarzen Strahlung. Man kann also aus der Funktion $\\varphi$ das Gesetz der schwarzen Strahlung und umgekehrt aus letzterem die Funktion $\\varphi$ durch Integration bestimmen mit Rücksicht darauf, dass $\\varphi$ für $\\varrho = 0$ verschwindet.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "#### § 4. Grenzgesetz für die Entropie der monochromatischen Strahlung bei geringer Strahlungsdichte.",
+          "markdown": "#### § 4. Grenzgesetz für die Entropie der monochromatischen Strahlung bei geringer Strahlungsdichte.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Aus den bisherigen Beobachtungen über die „schwarze Strahlung“ geht zwar hervor, dass das ursprünglich von Hrn. W. Wien für die „schwarze Strahlung“ aufgestellte Gesetz",
+          "markdown": "Aus den bisherigen Beobachtungen über die „schwarze Strahlung“ geht zwar hervor, dass das ursprünglich von Hrn. W. Wien für die „schwarze Strahlung“ aufgestellte Gesetz\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Für die Temperaturzunahme einer schwarzen Strahlung vom Volumen $v = 1$ um $dT$ gilt die Gleichung:\n\n$$dS = \\int_{\\nu=0}^{\\nu=\\infty} \\frac{\\partial \\varphi}{\\partial \\varrho} \\, d\\varrho \\, d\\nu,$$\n\noder, da $\\partial \\varphi / \\partial \\varrho$ von $\\nu$ unabhängig ist:\n\n$$dS = \\frac{\\partial \\varphi}{\\partial \\varrho} \\, dE.$$\\\\\n\nDa $dE$ gleich der zugeführten Wärme und der Vorgang umkehrbar ist, so gilt auch:\n\n$$dS = \\frac{1}{T} \\, dE.$$\\\\\n\nDurch Vergleich erhält man:\n\n$$\\frac{\\partial \\varphi}{\\partial \\varrho} = \\frac{1}{T}.$$\\\\\n\nDies ist das Gesetz der schwarzen Strahlung. Man kann also aus der Funktion $\\varphi$ das Gesetz der schwarzen Strahlung und umgekehrt aus letzterem die Funktion $\\varphi$ durch Integration bestimmen mit Rücksicht darauf, dass $\\varphi$ für $\\varrho = 0$ verschwindet.\n\n#### § 4. Grenzgesetz für die Entropie der monochromatischen Strahlung bei geringer Strahlungsdichte.\n\nAus den bisherigen Beobachtungen über die „schwarze Strahlung“ geht zwar hervor, dass das ursprünglich von Hrn. W. Wien für die „schwarze Strahlung“ aufgestellte Gesetz",
+      "word_count": 260,
+      "page_quality_notes": [
+        "Gleichungen korrekt erkannt und als LaTeX exportiert.",
+        "Übergang zu § 4 korrekt erkannt."
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": "140",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\varrho = \\alpha v^3 e^{-\\beta \\frac{v}{T}}$$",
+          "markdown": "$$\\varrho = \\alpha v^3 e^{-\\beta \\frac{v}{T}}$$\n\n",
+          "asset_id": "eq_140_01",
+          "suggested_filename": "equations/eq_140_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "nicht genau gültig ist. Dasselbe wurde aber für große Werte von $v/T$ sehr vollkommen durch das Experiment bestätigt. Wir legen diese Formel unseren Rechnungen zugrunde, behalten aber im Sinne, dass unsere Resultate nur innerhalb gewisser Grenzen gelten.",
+          "markdown": "nicht genau gültig ist. Dasselbe wurde aber für große Werte von $v/T$ sehr vollkommen durch das Experiment bestätigt. Wir legen diese Formel unseren Rechnungen zugrunde, behalten aber im Sinne, dass unsere Resultate nur innerhalb gewisser Grenzen gelten.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Aus dieser Formel ergibt sich zunächst:",
+          "markdown": "Aus dieser Formel ergibt sich zunächst:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{1}{T} = - \\frac{1}{\\beta v} \\lg \\frac{\\varrho}{\\alpha v^3}$$",
+          "markdown": "$$\\frac{1}{T} = - \\frac{1}{\\beta v} \\lg \\frac{\\varrho}{\\alpha v^3}$$\n\n",
+          "asset_id": "eq_140_02",
+          "suggested_filename": "equations/eq_140_02.png",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und weiter unter Benutzung der in dem vorigen Paragraphen gefundenen Beziehung:",
+          "markdown": "und weiter unter Benutzung der in dem vorigen Paragraphen gefundenen Beziehung:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\varphi(\\varrho, v) = - \\frac{\\varrho}{\\beta v} \\left\\{ \\lg \\frac{\\varrho}{\\alpha v^3} - 1 \\right\\}.$$",
+          "markdown": "$$\\varphi(\\varrho, v) = - \\frac{\\varrho}{\\beta v} \\left\\{ \\lg \\frac{\\varrho}{\\alpha v^3} - 1 \\right\\}.$$\\\\\n\n",
+          "asset_id": "eq_140_03",
+          "suggested_filename": "equations/eq_140_03.png",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es sei nun eine Strahlung von der Energie $E$ gegeben, deren Frequenz zwischen $v$ und $v + dv$ liegt. Die Strahlung nehme das Volumen $v$ ein. Die Entropie dieser Strahlung ist:",
+          "markdown": "Es sei nun eine Strahlung von der Energie $E$ gegeben, deren Frequenz zwischen $v$ und $v + dv$ liegt. Die Strahlung nehme das Volumen $v$ ein. Die Entropie dieser Strahlung ist:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S = v \\varphi(\\varrho, v) dv = - \\frac{E}{\\beta v} \\left\\{ \\lg \\frac{E}{v \\alpha v^3 dv} - 1 \\right\\}.$$",
+          "markdown": "$$S = v \\varphi(\\varrho, v) dv = - \\frac{E}{\\beta v} \\left\\{ \\lg \\frac{E}{v \\alpha v^3 dv} - 1 \\right\\}.$$\\\\\n\n",
+          "asset_id": "eq_140_04",
+          "suggested_filename": "equations/eq_140_04.png",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Beschränken wir uns darauf, die Abhängigkeit der Entropie von dem von der Strahlung eingenommenen Volumen zu untersuchen, und bezeichnen wir die Entropie der Strahlung mit $S_0$, falls dieselbe das Volumen $v_0$ besitzt, so erhalten wir:",
+          "markdown": "Beschränken wir uns darauf, die Abhängigkeit der Entropie von dem von der Strahlung eingenommenen Volumen zu untersuchen, und bezeichnen wir die Entropie der Strahlung mit $S_0$, falls dieselbe das Volumen $v_0$ besitzt, so erhalten wir:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S - S_0 = \\frac{E}{\\beta v} \\lg \\left( \\frac{v}{v_0} \\right).$$",
+          "markdown": "$$S - S_0 = \\frac{E}{\\beta v} \\lg \\left( \\frac{v}{v_0} \\right).$$\\\\\n\n",
+          "asset_id": "eq_140_05",
+          "suggested_filename": "equations/eq_140_05.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.48
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Diese Gleichung zeigt, dass die Entropie einer monochromatischen Strahlung von genügend kleiner Dichte nach dem gleichen Gesetze mit dem Volumen variiert wie die Entropie eines idealen Gases oder die einer verdünnten Lösung. Die soeben gefundene Gleichung soll im folgenden interpretiert werden unter Zugrundelegung des von Hrn. Boltzmann in die Physik eingeführten Prinzips, nach welchem die Entropie eines Systems eine Funktion der Wahrscheinlichkeit seines Zustandes ist.",
+          "markdown": "Diese Gleichung zeigt, dass die Entropie einer monochromatischen Strahlung von genügend kleiner Dichte nach dem gleichen Gesetze mit dem Volumen variiert wie die Entropie eines idealen Gases oder die einer verdünnten Lösung. Die soeben gefundene Gleichung soll im folgenden interpretiert werden unter Zugrundelegung des von Hrn. Boltzmann in die Physik eingeführten Prinzips, nach welchem die Entropie eines Systems eine Funktion der Wahrscheinlichkeit seines Zustandes ist.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Aus den bisherigen Beobachtungen über die „schwarze Strahlung“ geht zwar hervor, dass das ursprünglich von Hrn. W. Wien für die „schwarze Strahlung“ aufgestellte Gesetz\n\n$$\\varrho = \\alpha v^3 e^{-\\beta \\frac{v}{T}}$$\n\nnicht genau gültig ist. Dasselbe wurde aber für große Werte von $v/T$ sehr vollkommen durch das Experiment bestätigt. Wir legen diese Formel unseren Rechnungen zugrunde, behalten aber im Sinne, dass unsere Resultate nur innerhalb gewisser Grenzen gelten.\n\nAus dieser Formel ergibt sich zunächst:\n\n$$\\frac{1}{T} = - \\frac{1}{\\beta v} \\lg \\frac{\\varrho}{\\alpha v^3}$$\n\nund weiter unter Benutzung der in dem vorigen Paragraphen gefundenen Beziehung:\n\n$$\\varphi(\\varrho, v) = - \\frac{\\varrho}{\\beta v} \\left\\{ \\lg \\frac{\\varrho}{\\alpha v^3} - 1 \\right\\}.$$\\\\\n\nEs sei nun eine Strahlung von der Energie $E$ gegeben, deren Frequenz zwischen $v$ und $v + dv$ liegt. Die Strahlung nehme das Volumen $v$ ein. Die Entropie dieser Strahlung ist:\n\n$$S = v \\varphi(\\varrho, v) dv = - \\frac{E}{\\beta v} \\left\\{ \\lg \\frac{E}{v \\alpha v^3 dv} - 1 \\right\\}.$$\\\\\n\nBeschränken wir uns darauf, die Abhängigkeit der Entropie von dem von der Strahlung eingenommenen Volumen zu untersuchen, und bezeichnen wir die Entropie der Strahlung mit $S_0$, falls dieselbe das Volumen $v_0$ besitzt, so erhalten wir:\n\n$$S - S_0 = \\frac{E}{\\beta v} \\lg \\left( \\frac{v}{v_0} \\right).$$\\\\\n\nDiese Gleichung zeigt, dass die Entropie einer monochromatischen Strahlung von genügend kleiner Dichte nach dem gleichen Gesetze mit dem Volumen variiert wie die Entropie eines idealen Gases oder die einer verdünnten Lösung. Die soeben gefundene Gleichung soll im folgenden interpretiert werden unter Zugrundelegung des von Hrn. Boltzmann in die Physik eingeführten Prinzips, nach welchem die Entropie eines Systems eine Funktion der Wahrscheinlichkeit seines Zustandes ist.",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Gleichungen korrekt erkannt und als LaTeX exportiert."
+      ]
+    },
+    {
+      "pdf_page_number": 10,
+      "printed_page_number": "141",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "### § 5. Molekulartheoretische Untersuchung der Abhängigkeit der Entropie von Gasen und verdünnten Lösungen vom Volumen.",
+          "markdown": "### § 5. Molekulartheoretische Untersuchung der Abhängigkeit der Entropie von Gasen und verdünnten Lösungen vom Volumen.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bei Berechnung der Entropie auf molekulartheoretischem Wege wird häufig das Wort „Wahrscheinlichkeit“ in einer Bedeutung angewendet, die sich nicht mit der Definition der Wahrscheinlichkeit deckt, wie sie in der Wahrscheinlichkeitsrechnung gegeben wird. Insbesondere werden die „Fälle gleicher Wahrscheinlichkeit“ häufig hypothetisch festgesetzt in Fällen, wo die angewendeten theoretischen Bilder bestimmt genug sind, um statt jener hypothetischen Festsetzung eine Deduktion zu geben. Ich will in einer besonderen Arbeit zeigen, dass man bei Betrachtungen über thermische Vorgänge mit der sogenannten „statistischen Wahrscheinlichkeit“ vollkommen auskommt und hoffe dadurch eine logische Schwierigkeit zu beseitigen, welche der Durchführung des Boltzmannschen Prinzips noch im Wege steht. Hier aber soll nur dessen allgemeine Formulierung und dessen Anwendung auf ganz spezielle Fälle gegeben werden.",
+          "markdown": "Bei Berechnung der Entropie auf molekulartheoretischem Wege wird häufig das Wort „Wahrscheinlichkeit“ in einer Bedeutung angewendet, die sich nicht mit der Definition der Wahrscheinlichkeit deckt, wie sie in der Wahrscheinlichkeitsrechnung gegeben wird. Insbesondere werden die „Fälle gleicher Wahrscheinlichkeit“ häufig hypothetisch festgesetzt in Fällen, wo die angewendeten theoretischen Bilder bestimmt genug sind, um statt jener hypothetischen Festsetzung eine Deduktion zu geben. Ich will in einer besonderen Arbeit zeigen, dass man bei Betrachtungen über thermische Vorgänge mit der sogenannten „statistischen Wahrscheinlichkeit“ vollkommen auskommt und hoffe dadurch eine logische Schwierigkeit zu beseitigen, welche der Durchführung des Boltzmannschen Prinzips noch im Wege steht. Hier aber soll nur dessen allgemeine Formulierung und dessen Anwendung auf ganz spezielle Fälle gegeben werden.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn es einen Sinn hat, von der Wahrscheinlichkeit eines Zustandes eines Systems zu reden, wenn ferner jede Entropiezunahme als ein Übergang zu einem wahrscheinlicheren Zustande aufgefaßt werden kann, so ist die Entropie $S_1$ eines Systems eine Funktion der Wahrscheinlichkeit $W_1$ seines momentanen Zustandes. Liegen also zwei nicht miteinander in Wechselwirkung stehende Systeme $S_1$ und $S_2$ vor, so kann man setzen:",
+          "markdown": "Wenn es einen Sinn hat, von der Wahrscheinlichkeit eines Zustandes eines Systems zu reden, wenn ferner jede Entropiezunahme als ein Übergang zu einem wahrscheinlicheren Zustande aufgefaßt werden kann, so ist die Entropie $S_1$ eines Systems eine Funktion der Wahrscheinlichkeit $W_1$ seines momentanen Zustandes. Liegen also zwei nicht miteinander in Wechselwirkung stehende Systeme $S_1$ und $S_2$ vor, so kann man setzen:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S_1 = \\varphi_1(W_1),$$\n\n$$S_2 = \\varphi_2(W_2).$$",
+          "markdown": "$$S_1 = \\varphi_1(W_1),$$\n\n$$S_2 = \\varphi_2(W_2).$$\n\n",
+          "asset_id": "eq_141_01",
+          "suggested_filename": "equations/eq_141_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichungen korrekt erkannt."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Betrachtet man diese beiden Systeme als ein einziges System von der Entropie $S$ und der Wahrscheinlichkeit $W$, so ist:",
+          "markdown": "Betrachtet man diese beiden Systeme als ein einziges System von der Entropie $S$ und der Wahrscheinlichkeit $W$, so ist:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S = S_1 + S_2 = \\varphi(W)$$\n\nund",
+          "markdown": "$$S = S_1 + S_2 = \\varphi(W)$$\n\nund\n\n",
+          "asset_id": "eq_141_02",
+          "suggested_filename": "equations/eq_141_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.48
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichungen korrekt erkannt."
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W = W_1 \\cdot W_2.$$",
+          "markdown": "$$W = W_1 \\cdot W_2.$$\\\\\n\n",
+          "asset_id": "eq_141_03",
+          "suggested_filename": "equations/eq_141_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.42
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die letztere Beziehung sagt aus, dass die Zustände der beiden Systeme voneinander unabhängige Ereignisse sind.",
+          "markdown": "Die letztere Beziehung sagt aus, dass die Zustände der beiden Systeme voneinander unabhängige Ereignisse sind.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Aus diesen Gleichungen folgt:",
+          "markdown": "Aus diesen Gleichungen folgt:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\varphi(W_1 \\cdot W_2) = \\varphi_1(W_1) + \\varphi_2(W_2)$$\n\nund hieraus endlich",
+          "markdown": "$$\\varphi(W_1 \\cdot W_2) = \\varphi_1(W_1) + \\varphi_2(W_2)$$\n\nund hieraus endlich\n\n",
+          "asset_id": "eq_141_04",
+          "suggested_filename": "equations/eq_141_04.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned}\n\\varphi_1(W_1) &= C \\lg(W_1) + \\text{konst.}, \\\\\n\\varphi_2(W_2) &= C \\lg(W_2) + \\text{konst.}, \\\\\n\\varphi(W) &= C \\lg(W) + \\text{konst.}\n\\end{aligned}$",
+          "markdown": "$$\\begin{aligned}\n\\varphi_1(W_1) &= C \\lg(W_1) + \\text{konst.}, \\\\\n\\varphi_2(W_2) &= C \\lg(W_2) + \\text{konst.}, \\\\\n\\varphi(W) &= C \\lg(W) + \\text{konst.}\n\\end{aligned}$$\n\n",
+          "asset_id": "eq_141_05",
+          "suggested_filename": "equations/eq_141_05.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.18
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichungen korrekt erkannt."
+        }
+      ],
+      "page_markdown_original": "### § 5. Molekulartheoretische Untersuchung der Abhängigkeit der Entropie von Gasen und verdünnten Lösungen vom Volumen.\n\nBei Berechnung der Entropie auf molekulartheoretischem Wege wird häufig das Wort „Wahrscheinlichkeit“ in einer Bedeutung angewendet, die sich nicht mit der Definition der Wahrscheinlichkeit deckt, wie sie in der Wahrscheinlichkeitsrechnung gegeben wird. Insbesondere werden die „Fälle gleicher Wahrscheinlichkeit“ häufig hypothetisch festgesetzt in Fällen, wo die angewendeten theoretischen Bilder bestimmt genug sind, um statt jener hypothetischen Festsetzung eine Deduktion zu geben. Ich will in einer besonderen Arbeit zeigen, dass man bei Betrachtungen über thermische Vorgänge mit der sogenannten „statistischen Wahrscheinlichkeit“ vollkommen auskommt und hoffe dadurch eine logische Schwierigkeit zu beseitigen, welche der Durchführung des Boltzmannschen Prinzips noch im Wege steht. Hier aber soll nur dessen allgemeine Formulierung und dessen Anwendung auf ganz spezielle Fälle gegeben werden.\n\nWenn es einen Sinn hat, von der Wahrscheinlichkeit eines Zustandes eines Systems zu reden, wenn ferner jede Entropiezunahme als ein Übergang zu einem wahrscheinlicheren Zustande aufgefaßt werden kann, so ist die Entropie $S_1$ eines Systems eine Funktion der Wahrscheinlichkeit $W_1$ seines momentanen Zustandes. Liegen also zwei nicht miteinander in Wechselwirkung stehende Systeme $S_1$ und $S_2$ vor, so kann man setzen:\n\n$$S_1 = \\varphi_1(W_1),$$\n\n$$S_2 = \\varphi_2(W_2).$$\n\nBetrachtet man diese beiden Systeme als ein einziges System von der Entropie $S$ und der Wahrscheinlichkeit $W$, so ist:\n\n$$S = S_1 + S_2 = \\varphi(W)$$\n\nund\n\n$$W = W_1 \\cdot W_2.$$\\\\\n\nDie letztere Beziehung sagt aus, dass die Zustände der beiden Systeme voneinander unabhängige Ereignisse sind.\n\nAus diesen Gleichungen folgt:\n\n$$\\varphi(W_1 \\cdot W_2) = \\varphi_1(W_1) + \\varphi_2(W_2)$$\n\nund hieraus endlich\n\n$$\\begin{aligned}\n\\varphi_1(W_1) &= C \\lg(W_1) + \\text{konst.}, \\\\\n\\varphi_2(W_2) &= C \\lg(W_2) + \\text{konst.}, \\\\\n\\varphi(W) &= C \\lg(W) + \\text{konst.}\n\\end{aligned}$$",
+      "word_count": 420,
+      "page_quality_notes": [
+        "Gleichungen korrekt erkannt und als LaTeX exportiert."
+      ]
+    },
+    {
+      "pdf_page_number": 11,
+      "printed_page_number": "142",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Die Größe $C$ ist also eine universelle Konstante; sie hat, wie aus der kinetischen Gastheorie folgt, den Wert $R/N$, wobei den Konstanten $R$ und $N$ dieselbe Bedeutung wie oben beizulegen ist. Bedeutet $S_0$ die Entropie bei einem gewissen Anfangszustande eines betrachteten Systems und $W$ die relative Wahrscheinlichkeit eines Zustandes von der Entropie $S$, so erhalten wir also allgemein:",
+          "markdown": "Die Größe $C$ ist also eine universelle Konstante; sie hat, wie aus der kinetischen Gastheorie folgt, den Wert $R/N$, wobei den Konstanten $R$ und $N$ dieselbe Bedeutung wie oben beizulegen ist. Bedeutet $S_0$ die Entropie bei einem gewissen Anfangszustande eines betrachteten Systems und $W$ die relative Wahrscheinlichkeit eines Zustandes von der Entropie $S$, so erhalten wir also allgemein:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S - S_0 = \\frac{R}{N} \\lg W.$$",
+          "markdown": "$$S - S_0 = \\frac{R}{N} \\lg W.$$\\\\\n\n",
+          "asset_id": "eq_142_01",
+          "suggested_filename": "equations/eq_142_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir behandeln zunächst folgenden Spezialfall. In einem Volumen $v_0$ sei eine Anzahl ($n$) beweglicher Punkte (z. B. Moleküle) vorhanden, auf welche sich unsere Überlegung beziehen soll. Außer diesen können in dem Raume noch beliebig viele andere bewegliche Punkte irgendwelcher Art vorhanden sein. Über das Gesetz, nach dem sich die betrachteten Punkte in dem Raume bewegen, sei nichts vorausgesetzt, als dass in bezug auf diese Bewegung kein Raumteil (und keine Richtung) von den anderen ausgezeichnet sei. Die Anzahl der betrachteten (ersterwähnten) beweglichen Punkte sei ferner so klein, dass von einer Wirkung der Punkte aufeinander abgesehen werden kann.",
+          "markdown": "Wir behandeln zunächst folgenden Spezialfall. In einem Volumen $v_0$ sei eine Anzahl ($n$) beweglicher Punkte (z. B. Moleküle) vorhanden, auf welche sich unsere Überlegung beziehen soll. Außer diesen können in dem Raume noch beliebig viele andere bewegliche Punkte irgendwelcher Art vorhanden sein. Über das Gesetz, nach dem sich die betrachteten Punkte in dem Raume bewegen, sei nichts vorausgesetzt, als dass in bezug auf diese Bewegung kein Raumteil (und keine Richtung) von den anderen ausgezeichnet sei. Die Anzahl der betrachteten (ersterwähnten) beweglichen Punkte sei ferner so klein, dass von einer Wirkung der Punkte aufeinander abgesehen werden kann.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dem betrachteten System, welches z. B. ein ideales Gas oder eine verdünnte Lösung sein kann, kommt eine gewisse Entropie $S_0$ zu. Wir denken uns einen Teil des Volumens $v_0$ von der Größe $v$ und alle $n$ beweglichen Punkte in das Volumen $v$ versetzt; ohne dass an dem System sonst etwas geändert wird. Diesem Zustand kommt offenbar ein anderer Wert der Entropie ($S$) zu, und wir wollen nun die Entropiedifferenz mit Hilfe des Boltzmannschen Prinzips bestimmen.",
+          "markdown": "Dem betrachteten System, welches z. B. ein ideales Gas oder eine verdünnte Lösung sein kann, kommt eine gewisse Entropie $S_0$ zu. Wir denken uns einen Teil des Volumens $v_0$ von der Größe $v$ und alle $n$ beweglichen Punkte in das Volumen $v$ versetzt; ohne dass an dem System sonst etwas geändert wird. Diesem Zustand kommt offenbar ein anderer Wert der Entropie ($S$) zu, und wir wollen nun die Entropiedifferenz mit Hilfe des Boltzmannschen Prinzips bestimmen.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir fragen: Wie groß ist die Wahrscheinlichkeit des letzterwähnten Zustandes relativ zum ursprünglichen? Oder: Wie groß ist die Wahrscheinlichkeit dafür, dass sich in einem zufällig herausgegriffenen Zeitmoment alle $n$ in einem gegebenen Volumen $v_0$ unabhängig voneinander beweglichen Punkte (zufällig) in dem Volumen $v$ befinden?",
+          "markdown": "Wir fragen: Wie groß ist die Wahrscheinlichkeit des letzterwähnten Zustandes relativ zum ursprünglichen? Oder: Wie groß ist die Wahrscheinlichkeit dafür, dass sich in einem zufällig herausgegriffenen Zeitmoment alle $n$ in einem gegebenen Volumen $v_0$ unabhängig voneinander beweglichen Punkte (zufällig) in dem Volumen $v$ befinden?\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W = \\left( \\frac{v}{v_0} \\right)^n;$$\n\nman erhält hieraus durch Anwendung des Boltzmannschen Prinzipes:",
+          "markdown": "$$W = \\left( \\frac{v}{v_0} \\right)^n;$$\n\nman erhält hieraus durch Anwendung des Boltzmannschen Prinzipes:\n\n",
+          "asset_id": "eq_142_02",
+          "suggested_filename": "equations/eq_142_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.28
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S - S_0 = R \\left( \\frac{n}{N} \\right) \\lg \\left( \\frac{v}{v_0} \\right).$$",
+          "markdown": "$$S - S_0 = R \\left( \\frac{n}{N} \\right) \\lg \\left( \\frac{v}{v_0} \\right).$$\\\\\n\n",
+          "asset_id": "eq_142_03",
+          "suggested_filename": "equations/eq_142_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.18
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es ist bemerkenswert, dass man zur Herleitung dieser Gleichung, aus welcher das Boyle-Gay-Lussacsche Gesetz und das gleichlautende Gesetz des osmotischen Druckes leicht thermodynamisch ableiten kann$^{1)}$; keine Voraussetzung über das Gesetz zu machen braucht, nachdem sich die Moleküle bewegen.",
+          "markdown": "Es ist bemerkenswert, dass man zur Herleitung dieser Gleichung, aus welcher das Boyle-Gay-Lussacsche Gesetz und das gleichlautende Gesetz des osmotischen Druckes leicht thermodynamisch ableiten kann$^{1)}$; keine Voraussetzung über das Gesetz zu machen braucht, nachdem sich die Moleküle bewegen.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.02,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Die Größe $C$ ist also eine universelle Konstante; sie hat, wie aus der kinetischen Gastheorie folgt, den Wert $R/N$, wobei den Konstanten $R$ und $N$ dieselbe Bedeutung wie oben beizulegen ist. Bedeutet $S_0$ die Entropie bei einem gewissen Anfangszustande eines betrachteten Systems und $W$ die relative Wahrscheinlichkeit eines Zustandes von der Entropie $S$, so erhalten wir also allgemein:\n\n$$S - S_0 = \\frac{R}{N} \\lg W.$$\\\\\n\nWir behandeln zunächst folgenden Spezialfall. In einem Volumen $v_0$ sei eine Anzahl ($n$) beweglicher Punkte (z. B. Moleküle) vorhanden, auf welche sich unsere Überlegung beziehen soll. Außer diesen können in dem Raume noch beliebig viele andere bewegliche Punkte irgendwelcher Art vorhanden sein. Über das Gesetz, nach dem sich die betrachteten Punkte in dem Raume bewegen, sei nichts vorausgesetzt, als dass in bezug auf diese Bewegung kein Raumteil (und keine Richtung) von den anderen ausgezeichnet sei. Die Anzahl der betrachteten (ersterwähnten) beweglichen Punkte sei ferner so klein, dass von einer Wirkung der Punkte aufeinander abgesehen werden kann.\n\nDem betrachteten System, welches z. B. ein ideales Gas oder eine verdünnte Lösung sein kann, kommt eine gewisse Entropie $S_0$ zu. Wir denken uns einen Teil des Volumens $v_0$ von der Größe $v$ und alle $n$ beweglichen Punkte in das Volumen $v$ versetzt; ohne dass an dem System sonst etwas geändert wird. Diesem Zustand kommt offenbar ein anderer Wert der Entropie ($S$) zu, und wir wollen nun die Entropiedifferenz mit Hilfe des Boltzmannschen Prinzips bestimmen.\n\nWir fragen: Wie groß ist die Wahrscheinlichkeit des letzterwähnten Zustandes relativ zum ursprünglichen? Oder: Wie groß ist die Wahrscheinlichkeit dafür, dass sich in einem zufällig herausgegriffenen Zeitmoment alle $n$ in einem gegebenen Volumen $v_0$ unabhängig voneinander beweglichen Punkte (zufällig) in dem Volumen $v$ befinden?\n\nFür diese Wahrscheinlichkeit, welche eine „statistische Wahrscheinlichkeit“ ist, erhält man offenbar den Wert:\n\n$$W = \\left( \\frac{v}{v_0} \\right)^n;$$\n\nman erhält hieraus durch Anwendung des Boltzmannschen Prinzipes:\n\n$$S - S_0 = R \\left( \\frac{n}{N} \\right) \\lg \\left( \\frac{v}{v_0} \\right).$$\n\nEs ist bemerkenswert, dass man zur Herleitung dieser Gleichung, aus welcher das Boyle-Gay-Lussacsche Gesetz und das gleichlautende Gesetz des osmotischen Druckes leicht thermodynamisch ableiten kann$^{1)}$; keine Voraussetzung über das Gesetz zu machen braucht, nachdem sich die Moleküle bewegen.",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Gleichungen korrekt erkannt und als LaTeX exportiert.",
+        "Fußnote $^{1)}$ am Seitenende; Formatierung prüfen."
+      ]
+    },
+    {
+      "pdf_page_number": 12,
+      "printed_page_number": "143",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "### § 6. Interpretation des Ausdruckes für die Abhängigkeit der Entropie der monochromatischen Strahlung vom Volumen nach dem Boltzmannschen Prinzip.",
+          "markdown": "### § 6. Interpretation des Ausdruckes für die Abhängigkeit der Entropie der monochromatischen Strahlung vom Volumen nach dem Boltzmannschen Prinzip.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir haben in § 4 für die Abhängigkeit der Entropie der monochromatischen Strahlung vom Volumen den Ausdruck gefunden:",
+          "markdown": "Wir haben in § 4 für die Abhängigkeit der Entropie der monochromatischen Strahlung vom Volumen den Ausdruck gefunden:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S - S_0 = \\frac{E}{\\beta v} \\lg \\left( \\frac{v}{v_0} \\right).$$",
+          "markdown": "$$S - S_0 = \\frac{E}{\\beta v} \\lg \\left( \\frac{v}{v_0} \\right).$$\\\\\n\n",
+          "asset_id": "eq_143_01",
+          "suggested_filename": "equations/eq_143_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.88
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Schreibt man diese Formel in der Gestalt:",
+          "markdown": "Schreibt man diese Formel in der Gestalt:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S - S_0 = \\frac{R}{N} \\lg \\left[ \\left( \\frac{v}{v_0} \\right)^{\\frac{N}{R} \\frac{E}{\\beta v}} \\right]$$",
+          "markdown": "$$S - S_0 = \\frac{R}{N} \\lg \\left[ \\left( \\frac{v}{v_0} \\right)^{\\frac{N}{R} \\frac{E}{\\beta v}} \\right]$$\n\n",
+          "asset_id": "eq_143_02",
+          "suggested_filename": "equations/eq_143_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und vergleicht man sie mit der allgemeinen, das Boltzmannsche Prinzip ausdrückenden Formel",
+          "markdown": "und vergleicht man sie mit der allgemeinen, das Boltzmannsche Prinzip ausdrückenden Formel\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S - S_0 = \\frac{R}{N} \\lg W,$$",
+          "markdown": "$$S - S_0 = \\frac{R}{N} \\lg W,$$\n\n",
+          "asset_id": "eq_143_03",
+          "suggested_filename": "equations/eq_143_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "so gelangt man zu folgendem Schlusse:",
+          "markdown": "so gelangt man zu folgendem Schlusse:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ist monochromatische Strahlung von der Frequenz $\\nu$ und der Energie $E$ in das Volumen $v_0$ (durch spiegelnde Wände) eingeschlossen, so ist die Wahrscheinlichkeit dafür, dass sich in einem beliebig herausgegriffenen Zeitmoment die ganze Strahlungsenergie in dem Teilvolumen $\\nu$ des Volumens $v_0$ befindet:",
+          "markdown": "Ist monochromatische Strahlung von der Frequenz $\\nu$ und der Energie $E$ in das Volumen $v_0$ (durch spiegelnde Wände) eingeschlossen, so ist die Wahrscheinlichkeit dafür, dass sich in einem beliebig herausgegegriffenen Zeitmoment die ganze Strahlungsenergie in dem Teilvolumen $\\nu$ des Volumens $v_0$ befindet:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W = \\left( \\frac{v}{v_0} \\right)^{\\frac{N}{R} \\frac{E}{\\beta v}}.$$",
+          "markdown": "$$W = \\left( \\frac{v}{v_0} \\right)^{\\frac{N}{R} \\frac{E}{\\beta v}}.$$\\\\\n\n",
+          "asset_id": "eq_143_04",
+          "suggested_filename": "equations/eq_143_04.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.38
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hieraus schließen wir weiter:",
+          "markdown": "Hieraus schließen wir weiter:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Monochromatische Strahlung von geringer Dichte (innerhalb des Gültigkeitsbereiches der Wienschen Strahlungsformel) verhält sich in wärmetheoretischer Beziehung so, wie wenn sie aus voneinander unabhängigen Energiequanten von der Größe $R \\beta \\nu / N$ bestünde.",
+          "markdown": "Monochromatische Strahlung von geringer Dichte (innerhalb des Gültigkeitsbereiches der Wienschen Strahlungsformel) verhält sich in wärmetheoretischer Beziehung so, wie wenn sie aus voneinander unabhängigen Energiequanten von der Größe $R \\beta \\nu / N$ bestünde.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### § 6. Interpretation des Ausdruckes für die Abhängigkeit der Entropie der monochromatischen Strahlung vom Volumen nach dem Boltzmannschen Prinzip.\n\nWir haben in § 4 für die Abhängigkeit der Entropie der monochromatischen Strahlung vom Volumen den Ausdruck gefunden:\n\n$$S - S_0 = \\frac{E}{\\beta v} \\lg \\left( \\frac{v}{v_0} \\right).$$\\\\\n\nSchreibt man diese Formel in der Gestalt:\n\n$$S - S_0 = \\frac{R}{N} \\lg \\left[ \\left( \\frac{v}{v_0} \\right)^{\\frac{N}{R} \\frac{E}{\\beta v}} \\right]$$\n\nund vergleicht man sie mit der allgemeinen, das Boltzmannsche Prinzip ausdrückenden Formel\n\n$$S - S_0 = \\frac{R}{N} \\lg W,$$\n\nso gelangt man zu folgendem Schlusse:\n\nIst monochromatische Strahlung von der Frequenz $\\nu$ und der Energie $E$ in das Volumen $v_0$ (durch spiegelnde Wände) eingeschlossen, so ist die Wahrscheinlichkeit dafür, dass sich in einem beliebig herausgegriffenen Zeitmoment die ganze Strahlungsenergie in dem Teilvolumen $\\nu$ des Volumens $v_0$ befindet:\n\n$$W = \\left( \\frac{v}{v_0} \\right)^{\\frac{N}{R} \\frac{E}{\\beta v}}.$$\\\\\n\nHieraus schließen wir weiter:\n\nMonochromatische Strahlung von geringer Dichte (innerhalb des Gültigkeitsbereiches der Wienschen Strahlungsformel) verhält sich in wärmetheoretischer Beziehung so, wie wenn sie aus voneinander unabhängigen Energiequanten von der Größe $R \\beta \\nu / N$ bestünde.",
+      "word_count": 300,
+      "page_quality_notes": [
+        "Gleichungen korrekt erkannt und als LaTeX exportiert."
+      ]
+    },
+    {
+      "pdf_page_number": 13,
+      "printed_page_number": "144",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir wollen noch die mittlere Größe der Energiequanten der „schwarzen Strahlung“ mit der mittleren lebendigen Kraft der Schwerpunktsbewegung eines Moleküls bei der nämlichen Temperatur vergleichen. Letztere ist $\\frac{3}{2} (R/N) T$, während man für die mittlere Größe des Energiequantums unter Zugrundelegung der Wienschen Formel erhält:",
+          "markdown": "Wir wollen noch die mittlere Größe der Energiequanten der „schwarzen Strahlung“ mit der mittleren lebendigen Kraft der Schwerpunktsbewegung eines Moleküls bei der nämlichen Temperatur vergleichen. Letztere ist $\\frac{3}{2} (R/N) T$, während man für die mittlere Größe des Energiequantums unter Zugrundelegung der Wienschen Formel erhält:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{\\int_0^\\infty \\alpha \\nu^3 e^{-\\frac{\\beta \\nu}{T}} d\\nu}{\\int_0^\\infty \\frac{N}{R \\beta \\nu} \\alpha \\nu^3 e^{-\\frac{\\beta \\nu}{T}} d\\nu} = 3 \\frac{R}{N} T.$$",
+          "markdown": "$$\\frac{\\int_0^\\infty \\alpha \\nu^3 e^{-\\frac{\\beta \\nu}{T}} d\\nu}{\\int_0^\\infty \\frac{N}{R \\beta \\nu} \\alpha \\nu^3 e^{-\\frac{\\beta \\nu}{T}} d\\nu} = 3 \\frac{R}{N} T.$$\\\\\n\n",
+          "asset_id": "eq_144_01",
+          "suggested_filename": "equations/eq_144_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.88
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn sich nun monochromatische Strahlung (von hinreichend kleiner Dichte) bezüglich der Abhängigkeit der Entropie vom Volumen wie ein diskontinuierliches Medium verhält, welches aus Energiequanten von der Größe $R \\beta \\nu / N$ besteht, so liegt es nahe, zu untersuchen, ob auch die Gesetze der Erzeugung und Verwandlung des Lichtes so beschaffen sind, wie wenn das Licht aus derartigen Energiequanten bestünde. Mit dieser Frage wollen wir uns im folgenden beschäftigen.",
+          "markdown": "Wenn sich nun monochromatische Strahlung (von hinreichend kleiner Dichte) bezüglich der Abhängigkeit der Entropie vom Volumen wie ein diskontinuierliches Medium verhält, welches aus Energiequanten von der Größe $R \\beta \\nu / N$ besteht, so liegt es nahe, zu untersuchen, ob auch die Gesetze der Erzeugung und Verwandlung des Lichtes so beschaffen sind, wie wenn das Licht aus derartigen Energiequanten bestünde. Mit dieser Frage wollen wir uns im folgenden beschäftigen.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "### § 7. Über die Stokessche Regel.",
+          "markdown": "### § 7. Über die Stokessche Regel.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es werde monochromatisches Licht durch Photolumineszenz in Licht anderer Frequenz verwandelt und gemäß dem eben erlangten Resultat angenommen, dass sowohl das erzeugende wie das erzeugte Licht aus Energiequanten von der Größe $(R/N)\\beta v$ bestehe, wobei $v$ die betreffende Frequenz bedeutet. Der Verwandlungsprozeß wird dann folgendermaßen zu deuten sein. Jedes erzeugende Energiequant von der Frequenz $v_1$ wird absorbiert und gibt — wenigstens bei genügend kleiner Verteilungsdichte der erzeugenden Energiequanten — für sich allein Anlaß zur Entstehung eines Lichtquants von der Frequenz $v_2$; eventuell können bei der Absorption des erzeugenden Lichtquants auch gleichzeitig Lichtquanten von den Frequenzen $v_3$, $v_4$ etc. sowie Energie anderer Art (z. B. Wärme) entstehen. Unter Vermittelung von was für Zwischenprozessen dies Endresultat zustande kommt, ist gleichgültig. Wenn die photolumineszierende Substanz nicht als eine beständige Quelle von Energie anzusehen ist, so kann nach dem Energieprinzip die Energie eines erzeugten Energiequants nicht größer sein als die eines erzeugenden Lichtquants; es muss also die Bezeichnung gelten:",
+          "markdown": "Es werde monochromatisches Licht durch Photolumineszenz in Licht anderer Frequenz verwandelt und gemäß dem eben erlangten Resultat angenommen, dass sowohl das erzeugende wie das erzeugte Licht aus Energiequanten von der Größe $(R/N)\\beta v$ bestehe, wobei $v$ die betreffende Frequenz bedeutet. Der Verwandlungsprozeß wird dann folgendermaßen zu deuten sein. Jedes erzeugende Energiequant von der Frequenz $v_1$ wird absorbiert und gibt — wenigstens bei genügend kleiner Verteilungsdichte der erzeugenden Energiequanten — für sich allein Anlaß zur Entstehung eines Lichtquants von der Frequenz $v_2$; eventuell können bei der Absorption des erzeugenden Lichtquants auch gleichzeitig Lichtquanten von den Frequenzen $v_3$, $v_4$ etc. sowie Energie anderer Art (z. B. Wärme) entstehen. Unter Vermittelung von was für Zwischenprozessen dies Endresultat zustande kommt, ist gleichgültig. Wenn die photolumineszierende Substanz nicht als eine beständige Quelle von Energie anzusehen ist, so kann nach dem Energieprinzip die Energie eines erzeugten Energiequants nicht größer sein als die eines erzeugenden Lichtquants; es muss also die Bezeichnung gelten:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{R}{N} \\beta v_2 \\leqq \\frac{R}{N} \\beta v_1$$\n\noder",
+          "markdown": "$$\\frac{R}{N} \\beta v_2 \\leqq \\frac{R}{N} \\beta v_1$$\n\noder\n\n",
+          "asset_id": "eq_144_02",
+          "suggested_filename": "equations/eq_144_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.22
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "$$v_2 \\leqq v_1.$$",
+          "markdown": "$$v_2 \\leqq v_1.$$\\\\\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dies ist die bekannte Stokessche Regel.",
+          "markdown": "Dies ist die bekannte Stokessche Regel.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Wir wollen noch die mittlere Größe der Energiequanten der „schwarzen Strahlung“ mit der mittleren lebendigen Kraft der Schwerpunktsbewegung eines Moleküls bei der nämlichen Temperatur vergleichen. Letztere ist $\\frac{3}{2} (R/N) T$, während man für die mittlere Größe des Energiequantums unter Zugrundelegung der Wienschen Formel erhält:\n\n$$\\frac{\\int_0^\\infty \\alpha \\nu^3 e^{-\\frac{\\beta \\nu}{T}} d\\nu}{\\int_0^\\infty \\frac{N}{R \\beta \\nu} \\alpha \\nu^3 e^{-\\frac{\\beta \\nu}{T}} d\\nu} = 3 \\frac{R}{N} T.$$\\\\\n\nWenn sich nun monochromatische Strahlung (von hinreichend kleiner Dichte) bezüglich der Abhängigkeit der Entropie vom Volumen wie ein diskontinuierliches Medium verhält, welches aus Energiequanten von der Größe $R \\beta \\nu / N$ besteht, so liegt es nahe, zu untersuchen, ob auch die Gesetze der Erzeugung und Verwandlung des Lichtes so beschaffen sind, wie wenn das Licht aus derartigen Energiequanten bestünde. Mit dieser Frage wollen wir uns im folgenden beschäftigen.\n\n### § 7. Über die Stokessche Regel.\n\nEs werde monochromatisches Licht durch Photolumineszenz in Licht anderer Frequenz verwandelt und gemäß dem eben erlangten Resultat angenommen, dass sowohl das erzeugende wie das erzeugte Licht aus Energiequanten von der Größe $(R/N)\\beta v$ bestehe, wobei $v$ die betreffende Frequenz bedeutet. Der Verwandlungsprozeß wird dann folgendermaßen zu deuten sein. Jedes erzeugende Energiequant von der Frequenz $v_1$ wird absorbiert und gibt — wenigstens bei genügend kleiner Verteilungsdichte der erzeugenden Energiequanten — für sich allein Anlaß zur Entstehung eines Lichtquants von der Frequenz $v_2$; eventuell können bei der Absorption des erzeugenden Lichtquants auch gleichzeitig Lichtquanten von den Frequenzen $v_3$, $v_4$ etc. sowie Energie anderer Art (z. B. Wärme) entstehen. Unter Vermittelung von was für Zwischenprozessen dies Endresultat zustande kommt, ist gleichgültig. Wenn die photolumineszierende Substanz nicht als eine beständige Quelle von Energie anzusehen ist, so kann nach dem Energieprinzip die Energie eines erzeugten Energiequants nicht größer sein als die eines erzeugenden Lichtquants; es muss also die Bezeichnung gelten:\n\n$$\\frac{R}{N} \\beta v_2 \\leqq \\frac{R}{N} \\beta v_1$$\n\noder\n\n$$v_2 \\leqq v_1.$$\\\\\n\nDies ist die bekannte Stokessche Regel.",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Gleichungen korrekt erkannt und als LaTeX exportiert."
+      ]
+    },
+    {
+      "pdf_page_number": 14,
+      "printed_page_number": "145",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Besonders hervorzuheben ist, dass bei schwacher Belichtung die erzeugte Lichtmenge der erregenden unter sonst gleichen Umständen nach unserer Auffassung der erregenden Lichtstärke proportional sein muss, da jedes erregende Energiequant einen Elementarprozeß von der oben angedeuteten Art verursacht, unabhängig von der Wirkung der anderen erregenden Energiequanten. Insbesondere wird es keine untere Grenze für die Intensität des erregenden Lichtes geben, unterhalb welcher das Licht unfähig wäre, lichterregend zu wirken.",
+          "markdown": "Besonders hervorzuheben ist, dass bei schwacher Belichtung die erzeugte Lichtmenge der erregenden unter sonst gleichen Umständen nach unserer Auffassung der erregenden Lichtstärke proportional sein muss, da jedes erregende Energiequant einen Elementarprozeß von der oben angedeuteten Art verursacht, unabhängig von der Wirkung der anderen erregenden Energiequanten. Insbesondere wird es keine untere Grenze für die Intensität des erregenden Lichtes geben, unterhalb welcher das Licht unfähig wäre, lichterregend zu wirken.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Abweichungen von der Stokesschen Regel sind nach der dargelegten Auffassung der Phänomene in folgenden Fällen denkbar:",
+          "markdown": "Abweichungen von der Stokesschen Regel sind nach der dargelegten Auffassung der Phänomene in folgenden Fällen denkbar:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "1. wenn die Anzahl der gleichzeitig in Umwandlung begriffenen Energiequanten pro Volumeneinheit so groß ist, dass ein Energiequant des erzeugten Lichtes seine Energie von mehreren erzeugenden Energiequanten erhalten kann;",
+          "markdown": "1. wenn die Anzahl der gleichzeitig in Umwandlung begriffenen Energiequanten pro Volumeneinheit so groß ist, dass ein Energiequant des erzeugten Lichtes seine Energie von mehreren erzeugenden Energiequanten erhalten kann;\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "2. wenn das erzeugende (oder erzeugte) Licht nicht von derjenigen energetischen Beschaffenheit ist, die einer „schwarzen Strahlung“ aus dem Gültigkeitsbereich des Wienschen Gesetzes zukommt, wenn also z. B. das erregende Licht von einem Körper so hoher Temperatur erzeugt ist, dass für die in Betracht kommende Wellenlänge das Wiensche Gesetz nicht mehr gilt.",
+          "markdown": "2. wenn das erzeugende (oder erzeugte) Licht nicht von derjenigen energetischen Beschaffenheit ist, die einer „schwarzen Strahlung“ aus dem Gültigkeitsbereich des Wienschen Gesetzes zukommt, wenn also z. B. das erregende Licht von einem Körper so hoher Temperatur erzeugt ist, dass für die in Betracht kommende Wellenlänge das Wiensche Gesetz nicht mehr gilt.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die letztgenannte Möglichkeit verdient besonderes Interesse. Nach der entwickelten Auffassung ist es nämlich nicht ausgeschlossen, dass eine „nicht Wiensche Strahlung“ auch in großer Verdünnung sich in energetischer Beziehung anders verhält als eine „schwarze Strahlung“ aus dem Gültigkeitsbereich des Wienschen Gesetzes.",
+          "markdown": "Die letztgenannte Möglichkeit verdient besonderes Interesse. Nach der entwickelten Auffassung ist es nämlich nicht ausgeschlossen, dass eine „nicht Wiensche Strahlung“ auch in großer Verdünnung sich in energetischer Beziehung anders verhält als eine „schwarze Strahlung“ aus dem Gültigkeitsbereich des Wienschen Gesetzes.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "#### § 8. Über die Erzeugung von Kathodenstrahlen durch Belichtung fester Körper.",
+          "markdown": "#### § 8. Über die Erzeugung von Kathodenstrahlen durch Belichtung fester Körper.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die übliche Auffassung, dass die Energie des Lichtes kontinuierlich über den durchstrahlten Raum verteilt sei, findet bei dem Versuch, die lichtelektrischen Erscheinungen zu erklären, besonders große Schwierigkeiten, welche in einer bahnbrechenden Arbeit von Hrn. Lenard dargelegt sind.¹⁾",
+          "markdown": "Die übliche Auffassung, dass die Energie des Lichtes kontinuierlich über den durchstrahlten Raum verteilt sei, findet bei dem Versuch, die lichtelektrischen Erscheinungen zu erklären, besonders große Schwierigkeiten, welche in einer bahnbrechenden Arbeit von Hrn. Lenard dargelegt sind.¹⁾\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ P. Lenard, Ann. d. Phys. 8. p. 169 u. 170. 1902.",
+          "markdown": "¹⁾ P. Lenard, Ann. d. Phys. 8. p. 169 u. 170. 1902.[^fn_lenard_1902]\n\n[^fn_lenard_1902]: P. Lenard, Ann. d. Phys. 8. p. 169 u. 170. 1902.",
+          "asset_id": "fn_145_01",
+          "suggested_filename": "footnotes/fn_145_01.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Fußnote mit Referenzmarker; Formatierung prüfen."
+        }
+      ],
+      "page_markdown_original": "Besonders hervorzuheben ist, dass bei schwacher Belichtung die erzeugte Lichtmenge der erregenden unter sonst gleichen Umständen nach unserer Auffassung der erregenden Lichtstärke proportional sein muss, da jedes erregende Energiequant einen Elementarprozeß von der oben angedeuteten Art verursacht, unabhängig von der Wirkung der anderen erregenden Energiequanten. Insbesondere wird es keine untere Grenze für die Intensität des erregenden Lichtes geben, unterhalb welcher das Licht unfähig wäre, lichterregend zu wirken.\n\nAbweichungen von der Stokesschen Regel sind nach der dargelegten Auffassung der Phänomene in folgenden Fällen denkbar:\n\n1. wenn die Anzahl der gleichzeitig in Umwandlung begriffenen Energiequanten pro Volumeneinheit so groß ist, dass ein Energiequant des erzeugten Lichtes seine Energie von mehreren erzeugenden Energiequanten erhalten kann;\n\n2. wenn das erzeugende (oder erzeugte) Licht nicht von derjenigen energetischen Beschaffenheit ist, die einer „schwarzen Strahlung“ aus dem Gültigkeitsbereich des Wienschen Gesetzes zukommt, wenn also z. B. das erregende Licht von einem Körper so hoher Temperatur erzeugt ist, dass für die in Betracht kommende Wellenlänge das Wiensche Gesetz nicht mehr gilt.\n\nDie letztgenannte Möglichkeit verdient besonderes Interesse. Nach der entwickelten Auffassung ist es nämlich nicht ausgeschlossen, dass eine „nicht Wiensche Strahlung“ auch in großer Verdünnung sich in energetischer Beziehung anders verhält als eine „schwarze Strahlung“ aus dem Gültigkeitsbereich des Wienschen Gesetzes.\n\n#### § 8. Über die Erzeugung von Kathodenstrahlen durch Belichtung fester Körper.\n\nDie übliche Auffassung, dass die Energie des Lichtes kontinuierlich über den durchstrahlten Raum verteilt sei, findet bei dem Versuch, die lichtelektrischen Erscheinungen zu erklären, besonders große Schwierigkeiten, welche in einer bahnbrechenden Arbeit von Hrn. Lenard dargelegt sind.¹⁾\n\n[^fn_lenard_1902]: P. Lenard, Ann. d. Phys. 8. p. 169 u. 170. 1902.",
+      "word_count": 300,
+      "page_quality_notes": [
+        "Fußnote mit Referenzmarker; Formatierung prüfen."
+      ]
+    },
+    {
+      "pdf_page_number": 15,
+      "printed_page_number": "146",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nach der Auffassung, dass das erregende Licht aus Energiequanten von der Energie $(R/N)\\beta\\nu$ bestehe, lässt sich die Erzeugung von Kathodenstrahlen durch Licht folgendermaßen auffassen. In die oberflächliche Schicht des Körpers dringen Energiequanten ein, und deren Energie verwandelt sich wenigstens zum Teil in kinetische Energie von Elektronen. Die einfachste Vorstellung ist die, dass ein Lichtquant seine ganze Energie an ein einziges Elektron abgibt; wir wollen annehmen, dass dies vorkomme. Es soll jedoch nicht ausgeschlossen sein, dass Elektronen die Energie von Lichtquanten nur teilweise aufnehmen. Ein im Innern des Körpers mit kinetischer Energie versehenes Elektron wird, wenn es die Oberfläche erreicht hat, einen Teil seiner kinetischen Energie eingebüßt haben. Außerdem wird anzunehmen sein, dass jedes Elektron beim Verlassen des Körpers eine (für den Körper charakteristische) Arbeit $P$ zu leisten hat, wenn es den Körper verlässt. Mit der größten Normalgeschwindigkeit werden die unmittelbar an der Oberfläche normal zu dieser erregten Elektronen den Körper verlassen. Die kinetische Energie solcher Elektronen ist",
+          "markdown": "Nach der Auffassung, dass das erregende Licht aus Energiequanten von der Energie $(R/N)\\beta\\nu$ bestehe, lässt sich die Erzeugung von Kathodenstrahlen durch Licht folgendermaßen auffassen. In die oberflächliche Schicht des Körpers dringen Energiequanten ein, und deren Energie verwandelt sich wenigstens zum Teil in kinetische Energie von Elektronen. Die einfachste Vorstellung ist die, dass ein Lichtquant seine ganze Energie an ein einziges Elektron abgibt; wir wollen annehmen, dass dies vorkomme. Es soll jedoch nicht ausgeschlossen sein, dass Elektronen die Energie von Lichtquanten nur teilweise aufnehmen. Ein im Innern des Körpers mit kinetischer Energie versehenes Elektron wird, wenn es die Oberfläche erreicht hat, einen Teil seiner kinetischen Energie eingebüßt haben. Außerdem wird anzunehmen sein, dass jedes Elektron beim Verlassen des Körpers eine (für den Körper charakteristische) Arbeit $P$ zu leisten hat, wenn es den Körper verlässt. Mit der größten Normalgeschwindigkeit werden die unmittelbar an der Oberfläche normal zu dieser erregten Elektronen den Körper verlassen. Die kinetische Energie solcher Elektronen ist\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{R}{N} \\beta \\nu - P.$$",
+          "markdown": "$$\\frac{R}{N} \\beta \\nu - P.$$\\\\\n\n",
+          "asset_id": "eq_146_01",
+          "suggested_filename": "equations/eq_146_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.75,
+            0.7,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ist der Körper zum positiven Potential $\\Pi$ geladen und von Leitern vom Potential Null umgeben und ist $\\Pi$ eben imstande, einen Elektrizitätsverlust des Körpers zu verhindern, so muss sein:",
+          "markdown": "Ist der Körper zum positiven Potential $\\Pi$ geladen und von Leitern vom Potential Null umgeben und ist $\\Pi$ eben imstande, einen Elektrizitätsverlust des Körpers zu verhindern, so muss sein:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Pi \\varepsilon = \\frac{R}{N} \\beta \\nu - P,$$\n\nwobei $\\varepsilon$ die elektrische Masse des Elektrons bedeutet, oder",
+          "markdown": "$$\\Pi \\varepsilon = \\frac{R}{N} \\beta \\nu - P,$$\n\nwobei $\\varepsilon$ die elektrische Masse des Elektrons bedeutet, oder\n\n",
+          "asset_id": "eq_146_02",
+          "suggested_filename": "equations/eq_146_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Pi E = R \\beta \\nu - P',$$\n\nwobei $E$ die Ladung eines Grammäquivalentes eines einwertigen Ions und $P'$ das Potential dieser Menge negativer Elektrizität in bezug auf den Körper bedeutet.¹⁾",
+          "markdown": "$$\\Pi E = R \\beta \\nu - P',$$\n\nwobei $E$ die Ladung eines Grammäquivalentes eines einwertigen Ions und $P'$ das Potential dieser Menge negativer Elektrizität in bezug auf den Körper bedeutet.¹⁾\n\n",
+          "asset_id": "eq_146_03",
+          "suggested_filename": "equations/146_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ Nimmt man an, dass das einzelne Elektron durch das Licht aus einem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst werden muss, so hat man an der abgeleiteten Beziehung nichts zu ändern; nur ist dann $P'$ als Summe von zwei Summanden aufzufassen.",
+          "markdown": "¹⁾ Nimmt man an, dass das einzelne Elektron durch das Licht aus einem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst werden muss, so hat man an der abgeleiteten Beziehung nichts zu ändern; nur ist dann $P'$ als Summe von zwei Summanden aufzufassen.[^fn_electron_work]\n\n[^fn_electron_work]: Nimmt man an, dass das einzelne Elektron durch das Licht aus einem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst werden muss, so hat man an der abgeleiteten Beziehung nichts zu ändern; nur ist dann $P'$ als Summe von zwei Summanden aufzufassen.",
+          "asset_id": "fn_146_01",
+          "suggested_filename": "footnotes/fn_146_01.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Fußnote mit Referenzmarker; Formatierung prüfen."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Setzt man $E = 9,6 \\cdot 10^3$, so ist $\\Pi \\cdot 10^{-8}$ das Potential in Volts, welches der Körper bei Bestrahlung im Vakuum annimmt.",
+          "markdown": "Setzt man $E = 9,6 \\cdot 10^3$, so ist $\\Pi \\cdot 10^{-8}$ das Potential in Volts, welches der Körper bei Bestrahlung im Vakuum annimmt.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Um zunächst zu sehen, ob die abgeleitete Beziehung der Größenordnung nach mit der Erfahrung übereinstimmt, setzen wir $P' = 0$, $v = 1,03 \\cdot 10^{15}$ (entsprechend der Grenze des Sonnenspektrums nach dem Ultraviolett hin) und $\\beta = 4,866 \\cdot 10^{-11}$. Wir erhalten $\\Pi \\cdot 10^7 = 4,3$ Volt, welches Resultat der Größenordnung nach mit den Resultaten von Hrn. Lenard übereinstimmt.²⁾",
+          "markdown": "Um zunächst zu sehen, ob die abgeleitete Beziehung der Größenordnung nach mit der Erfahrung übereinstimmt, setzen wir $P' = 0$, $v = 1,03 \\cdot 10^{15}$ (entsprechend der Grenze des Sonnenspektrums nach dem Ultraviolett hin) und $\\beta = 4,866 \\cdot 10^{-11}$. Wir erhalten $\\Pi \\cdot 10^7 = 4,3$ Volt, welches Resultat der Größenordnung nach mit den Resultaten von Hrn. Lenard übereinstimmt.²⁾\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²⁾ P. Lenard, Ann. d. Phys. 8. p. 165 u. 184. Taf. I, Fig. 2. 1902.",
+          "markdown": "²⁾ P. Lenard, Ann. d. Phys. 8. p. 165 u. 184. Taf. I, Fig. 2. 1902.[^fn_lenard_1903]\n\n[^fn_lenard_1903]: P. Lenard, Ann. d. Phys. 8. p. 165 u. 184. Taf. I, Fig. 2. 1902.",
+          "asset_id": "fn_146_02",
+          "suggested_filename": "footnotes/fn_146_02.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Fußnote mit Referenzmarker; Formatierung prüfen."
+        }
+      ],
+      "page_markdown_original": "Nach der Auffassung, dass das erregende Licht aus Energiequanten von der Energie $(R/N)\\beta\\nu$ bestehe, lässt sich die Erzeugung von Kathodenstrahlen durch Licht folgendermaßen auffassen. In die oberflächliche Schicht des Körpers dringen Energiequanten ein, und deren Energie verwandelt sich wenigstens zum Teil in kinetische Energie von Elektronen. Die einfachste Vorstellung ist die, dass ein Lichtquant seine ganze Energie an ein einziges Elektron abgibt; wir wollen annehmen, dass dies vorkomme. Es soll jedoch nicht ausgeschlossen sein, dass Elektronen die Energie von Lichtquanten nur teilweise aufnehmen. Ein im Innern des Körpers mit kinetischer Energie versehenes Elektron wird, wenn es die Oberfläche erreicht hat, einen Teil seiner kinetischen Energie eingebüßt haben. Außerdem wird anzunehmen sein, dass jedes Elektron beim Verlassen des Körpers eine (für den Körper charakteristische) Arbeit $P$ zu leisten hat, wenn es den Körper verlässt. Mit der größten Normalgeschwindigkeit werden die unmittelbar an der Oberfläche normal zu dieser erregten Elektronen den Körper verlassen. Die kinetische Energie solcher Elektronen ist\n\n$$\\frac{R}{N} \\beta \\nu - P.$$\\\\\n\nIst der Körper zum positiven Potential $\\Pi$ geladen und von Leitern vom Potential Null umgeben und ist $\\Pi$ eben imstande, einen Elektrizitätsverlust des Körpers zu verhindern, so muss sein:\n\n$$\\Pi \\varepsilon = \\frac{R}{N} \\beta \\nu - P,$$\n\nwobei $\\varepsilon$ die elektrische Masse des Elektrons bedeutet, oder\n\n$$\\Pi E = R \\beta \\nu - P',$$\n\nwobei $E$ die Ladung eines Grammäquivalentes eines einwertigen Ions und $P'$ das Potential dieser Menge negativer Elektrizität in bezug auf den Körper bedeutet.¹⁾\n\n¹⁾ Nimmt man an, dass das einzelne Elektron durch das Licht aus einem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst werden muss, so hat man an der abgeleiteten Beziehung nichts zu ändern; nur ist dann $P'$ als Summe von zwei Summanden aufzufassen.\n\nSetzt man $E = 9,6 \\cdot 10^3$, so ist $\\Pi \\cdot 10^{-8}$ das Potential in Volts, welches der Körper bei Bestrahlung im Vakuum annimmt.\n\nUm zunächst zu sehen, ob die abgeleitete Beziehung der Größenordnung nach mit der Erfahrung übereinstimmt, setzen wir $P' = 0$, $v = 1,03 \\cdot 10^{15}$ (entsprechend der Grenze des Sonnenspektrums nach dem Ultraviolett hin) und $\\beta = 4,866 \\cdot 10^{-11}$. Wir erhalten $\\Pi \\cdot 10^7 = 4,3$ Volt, welches Resultat der Größenordnung nach mit den Resultaten von Hrn. Lenard übereinstimmt.²⁾\n\n[^fn_electron_work]: Nimmt man an, dass das einzelne Elektron durch das Licht aus einem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst werden muss, so hat man an der abgeleiteten Beziehung nichts zu ändern; nur ist dann $P'$ als Summe von zwei Summanden aufzufassen.\n\n[^fn_lenard_1903]: P. Lenard, Ann. d. Phys. 8. p. 165 u. 184. Taf. I, Fig. 2. 1902.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Fußnoten mit Referenzmarkern; Formatierung prüfen.",
+        "Gleichungen korrekt erkannt und als LaTeX exportiert."
+      ]
+    },
+    {
+      "pdf_page_number": 16,
+      "printed_page_number": "147",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ist die abgeleitete Formel richtig, so muss $\\Pi$, als Funktion der Frequenz des erregenden Lichtes in kartesischen Koordinaten dargestellt, eine Gerade sein, deren Neigung von der Natur der untersuchten Substanz unabhängig ist.",
+          "markdown": "Ist die abgeleitete Formel richtig, so muss $\\Pi$, als Funktion der Frequenz des erregenden Lichtes in kartesischen Koordinaten dargestellt, eine Gerade sein, deren Neigung von der Natur der untersuchten Substanz unabhängig ist.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Mit den von Hrn. Lenard beobachteten Eigenschaften der lichtelektrischen Wirkung steht unsere Auffassung, soweit ich sehe, nicht im Widerspruch. Wenn jedes Energiequant des erregenden Lichtes unabhängig von allen übrigen seine Energie an Elektronen abgibt, so wird die Geschwindigkeitsverteilung der Elektronen, d. h. die Qualität der erzeugten Kathodenstrahlung von der Intensität des erregenden Lichtes unabhängig sein; andererseits wird die Anzahl der den Körper verlassenden Elektronen der Intensität des erregenden Lichtes unter sonst gleichen Umständen proportional sein.¹⁾",
+          "markdown": "Mit den von Hrn. Lenard beobachteten Eigenschaften der lichtelektrischen Wirkung steht unsere Auffassung, soweit ich sehe, nicht im Widerspruch. Wenn jedes Energiequant des erregenden Lichtes unabhängig von allen übrigen seine Energie an Elektronen abgibt, so wird die Geschwindigkeitsverteilung der Elektronen, d. h. die Qualität der erzeugten Kathodenstrahlung von der Intensität des erregenden Lichtes unabhängig sein; andererseits wird die Anzahl der den Körper verlassenden Elektronen der Intensität des erregenden Lichtes unter sonst gleichen Umständen proportional sein.¹⁾\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ P. Lenard, l. c. p. 150 und p. 166—168.",
+          "markdown": "¹⁾ P. Lenard, l. c. p. 150 und p. 166—168.[^fn_lenard_1902_2]\n\n[^fn_lenard_1902_2]: P. Lenard, l. c. p. 150 und p. 166—168.",
+          "asset_id": "fn_147_01",
+          "suggested_filename": "footnotes/fn_147_01.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Fußnote mit Referenzmarker; Formatierung prüfen."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Über die mutmaßlichen Gültigkeitsgrenzen der erwähnten Gesetzmäßigkeiten wären ähnliche Bemerkungen zu machen wie bezüglich der mutmaßlichen Abweichungen von der Stokeschen Regel.",
+          "markdown": "Über die mutmaßlichen Gültigkeitsgrenzen der erwähnten Gesetzmäßigkeiten wären ähnliche Bemerkungen zu machen wie bezüglich der mutmaßlichen Abweichungen von der Stokeschen Regel.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Im vorstehenden ist angenommen, dass die Energie wenigstens eines Teiles der Energiequanten des erzeugenden Lichtes je an ein einziges Elektron vollständig abgegeben werde. Macht man diese naheliegende Voraussetzung nicht, so erhält man statt obiger Gleichung die folgende:",
+          "markdown": "Im vorstehenden ist angenommen, dass die Energie wenigstens eines Teiles der Energiequanten des erzeugenden Lichtes je an ein einziges Elektron vollständig abgegeben werde. Macht man diese naheliegende Voraussetzung nicht, so erhält man statt obiger Gleichung die folgende:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Pi E + P' \\leqq R \\beta \\nu.$$",
+          "markdown": "$$\\Pi E + P' \\leqq R \\beta \\nu.$$\\\\\n\n",
+          "asset_id": "eq_147_01",
+          "suggested_filename": "equations/eq_147_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.52
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Für die Kathodenlumineszenz, welche den inversen Vorgang zu dem eben betrachteten bildet, erhält man durch eine der durchgeführten analoge Betrachtung:",
+          "markdown": "Für die Kathodenlumineszenz, welche den inversen Vorgang zu dem eben betrachteten bildet, erhält man durch eine der durchgeführten analoge Betrachtung:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Pi E + P' \\geqq R \\beta \\nu.$$",
+          "markdown": "$$\\Pi E + P' \\geqq R \\beta \\nu.$$\\\\\n\n",
+          "asset_id": "eq_147_02",
+          "suggested_filename": "equations/eq_147_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.38
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bei den von Hrn. Lenard untersuchten Substanzen ist $PE$ stets bedeutend größer als $R \\beta \\nu$, da die Spannung, welche die Kathodenstrahlen durchlaufen haben müssen, um eben sichtbares Licht erzeugen zu können, in einigen Fällen einige Hundert, in anderen Tausende von Volts beträgt.²⁾ Es ist also anzunehmen, dass die kinetische Energie eines Elektrons zur Erzeugung vieler Lichtenergiequanten verwendet wird.",
+          "markdown": "Bei den von Hrn. Lenard untersuchten Substanzen ist $PE$ stets bedeutend größer als $R \\beta \\nu$, da die Spannung, welche die Kathodenstrahlen durchlaufen haben müssen, um eben sichtbares Licht erzeugen zu können, in einigen Fällen einige Hundert, in anderen Tausende von Volts beträgt.²⁾ Es ist also anzunehmen, dass die kinetische Energie eines Elektrons zur Erzeugung vieler Lichtenergiequanten verwendet wird.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.28
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²⁾ P. Lenard, Ann. d. Phys. 12. p. 469. 1903.",
+          "markdown": "²⁾ P. Lenard, Ann. d. Phys. 12. p. 469. 1903.[^fn_lenard_1903_2]\n\n[^fn_lenard_1903_2]: P. Lenard, Ann. d. Phys. 12. p. 469. 1903.",
+          "asset_id": "fn_147_02",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.15
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Fußnote mit Referenzmarker; Formatierung prüfen."
+        }
+      ],
+      "page_markdown_original": "Ist die abgeleitete Formel richtig, so muss $\\Pi$, als Funktion der Frequenz des erregenden Lichtes in kartesischen Koordinaten dargestellt, eine Gerade sein, deren Neigung von der Natur der untersuchten Substanz unabhängig ist.\n\nMit den von Hrn. Lenard beobachteten Eigenschaften der lichtelektrischen Wirkung steht unsere Auffassung, soweit ich sehe, nicht im Widerspruch. Wenn jedes Energiequant des erregenden Lichtes unabhängig von allen übrigen seine Energie an Elektronen abgibt, so wird die Geschwindigkeitsverteilung der Elektronen, d. h. die Qualität der erzeugten Kathodenstrahlung von der Intensität des erregenden Lichtes unabhängig sein; andererseits wird die Anzahl der den Körper verlassenden Elektronen der Intensität des erregenden Lichtes unter sonst gleichen Umständen proportional sein.¹⁾\n\nÜber die mutmaßlichen Gültigkeitsgrenzen der erwähnten Gesetzmäßigkeiten wären ähnliche Bemerkungen zu machen wie bezüglich der mutmaßlichen Abweichungen von der Stokeschen Regel.\n\nIm vorstehenden ist angenommen, dass die Energie wenigstens eines Teiles der Energiequanten des erzeugenden Lichtes je an ein einziges Elektron vollständig abgegeben werde. Macht man diese naheliegende Voraussetzung nicht, so erhält man statt obiger Gleichung die folgende:\n\n$$\\Pi E + P' \\leqq R \\beta \\nu.$$\\\\\n\nFür die Kathodenlumineszenz, welche den inversen Vorgang zu dem eben betrachteten bildet, erhält man durch eine der durchgeführten analoge Betrachtung:\n\n$$\\Pi E + P' \\geqq R \\beta \\nu.$$\\\\\n\nBei den von Hrn. Lenard untersuchten Substanzen ist $PE$ stets bedeutend größer als $R \\beta \\nu$, da die Spannung, welche die Kathodenstrahlen durchlaufen haben müssen, um eben sichtbares Licht erzeugen zu können, in einigen Fällen einige Hundert, in anderen Tausende von Volts beträgt.²⁾ Es ist also anzunehmen, dass die kinetische Energie eines Elektrons zur Erzeugung vieler Lichtenergiequanten verwendet wird.\n\n[^fn_lenard_1902_2]: P. Lenard, l. c. p. 150 und p. 166—168.\n\n[^fn_lenard_1903_2]: P. Lenard, Ann. d. Phys. 12. p. 469. 1903.",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Fußnoten mit Referenzmarkern; Formatierung prüfen."
+      ]
+    },
+    {
+      "pdf_page_number": 17,
+      "printed_page_number": "148",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "### § 9. Über die Ionisierung der Gase durch ultraviolettes Licht.",
+          "markdown": "### § 9. Über die Ionisierung der Gase durch ultraviolettes Licht.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir werden anzunehmen haben, dass bei der Ionisierung eines Gases durch ultraviolettes Licht je ein absorbiertes Lichtenergiequant zur Ionisierung je eines Gasmoleküles verwendet wird. Hieraus folgt zunächst, dass die Ionisierungsarbeit (d. h. die zur Ionisierung theoretisch nötige Arbeit) eines Moleküles nicht größer sein kann als die Energie eines absorbierten wirksamen Lichtenergiequantes. Bezeichnet man mit $J$ die (theoretische) Ionisierungsarbeit pro Grammäquivalent, so muss also sein:",
+          "markdown": "### § 9. Über die Ionisierung der Gases durch ultraviolettes Licht.\n\nWir werden anzunehmen haben, dass bei der Ionisierung eines Gases durch ultraviolettes Licht je ein absorbiertes Lichtenergiequant zur Ionisierung je eines Gasmoleküles verwendet wird. Hieraus folgt zunächst, dass die Ionisierungsarbeit (d. h. die zur Ionisierung theoretisch nötige Arbeit) eines Moleküles nicht größer sein kann als die Energie eines absorbierten wirksamen Lichtenergiequantes. Bezeichnet man mit $J$ die (theoretische) Ionisierungsarbeit pro Grammäquivalent, so muss also sein:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$R \\beta \\nu \\geqq J.$$",
+          "markdown": "$$R \\beta \\nu \\geqq J.$$\\\\\n\n",
+          "asset_id": "eq_148_01",
+          "suggested_filename": "equations/eq_148_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.82
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nach Messungen Lenards ist aber die größte wirksame Wellenlänge für Luft ca. $1,9 \\cdot 10^{-5}$ cm, also",
+          "markdown": "Nach Messungen Lenards ist aber die größte wirksame Wellenlänge für Luft ca. $1,9 \\cdot 10^{-5}$ cm, also\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$R \\beta \\nu = 6,4 \\cdot 10^{12} \\text{ Erg} \\geqq J.$$",
+          "markdown": "$$R \\beta \\nu = 6,4 \\cdot 10^{12} \\text{ Erg} \\geqq J.$$\\\\\n\n",
+          "asset_id": "eq_148_02",
+          "suggested_filename": "equations/eq_148_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine obere Grenze für die Ionisierungsarbeit gewinnt man auch aus den Ionisierungsspannungen in verdünnten Gasen. Nach J. Stark$^{1)}$ ist die kleinste gemessene Ionisierungsspannung (an Platinanoden) für Luft ca. 10 Volt.$^{2)}$ Es ergibt sich also für $J$ die obere Grenze $9,6 \\cdot 10^{12}$, welche nahezu gleich der eben gefundenen ist. Es ergibt sich noch eine andere Konsequenz, deren Prüfung durch das Experiment mir von großer Wichtigkeit zu sein scheint. Wenn jedes absorbierte Lichtenergiequant ein Molekül ionisiert, so muss zwischen der absorbierten Lichtmenge $L$ und der Anzahl $j$ der durch dieselbe ionisierten Grammoleküle die Beziehung bestehen:",
+          "markdown": "Eine obere Grenze für die Ionisierungsarbeit gewinnt man auch aus den Ionisierungsspannungen in verdünnten Gasen. Nach J. Stark$^{1)}$ ist die kleinste gemessene Ionisierungsspannung (an Platinanoden) für Luft ca. 10 Volt.$^{2)}$ Es ergibt sich also für $J$ die obere Grenze $9,6 \\cdot 10^{12}$, welche nahezu gleich der eben gefundenen ist. Es ergibt sich noch eine andere Konsequenz, deren Prüfung durch das Experiment mir von großer Wichtigkeit zu sein scheint. Wenn jedes absorbierte Lichtenergiequant ein Molekül ionisiert, so muss zwischen der absorbierten Lichtmenge $L$ und der Anzahl $j$ der durch dieselbe ionisierten Grammoleküle die Beziehung bestehen:\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$j = \\frac{L}{R \\beta \\nu}.$$",
+          "markdown": "$$j = \\frac{L}{R \\beta \\nu}.$$\\\\\n\n",
+          "asset_id": "eq_148_03",
+          "suggested_filename": null,
+          "caption_original": "eq_148_03",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.38
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Gleichung korrekt erkannt."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Diese Beziehung muss, wenn unsere Auffassung der Wirklichkeit entspricht, für jedes Gas gelten, welches (bei der betreffenden Frequenz) keine merkliche nicht von Ionisation begleitete Absorption aufweist.",
+          "markdown": "Diese Beziehung muss, wenn unsere Auffassung der Wirklichkeit entspricht, für jedes Gas gelten, welches (bei der betreffenden Frequenz) keine merkliche nicht von Ionisation begleitete Absorption aufweist.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bern, den 17. März 1905.",
+          "markdown": "Bern, den 17. März 1905.\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.18
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Eingegangen 18. März 1905.)",
+          "markdown": "(Eingegangen 18. März 1905.)\n\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### § 9. Über die Ionisierung der Gase durch ultraviolettes Licht.\n\nWir werden anzunehmen haben, dass bei der Ionisierung eines Gases durch ultraviolettes Licht je ein absorbiertes Lichtenergiequant zur Ionisierung je eines Gasmoleküles verwendet wird. Hieraus folgt zunächst, dass die Ionisierungsarbeit (d. h. die zur Ionisierung theoretisch nötige Arbeit) eines Moleküles nicht größer sein kann als die Energie eines absorbierten wirksamen Lichtenergiequantes. Bezeichnet man mit $J$ die (theoretische) Ionisierungsarbeit pro Grammäquivalent, so muss also sein:\n\n$$R \\beta \\nu \\geqq J.$$\\\\\n\nNach Messungen Lenards ist aber die größte wirksame Wellenlänge für Luft ca. $1,9 \\cdot 10^{-5}$ cm, also\n\n$$R \\beta \\nu = 6,4 \\cdot 10^{12} \\text{ Erg} \\geqq J.$$\\\\\n\nEine obere Grenze für die Ionisierungsarbeit gewinnt man auch aus den Ionisierungsspannungen in verdünnten Gasen. Nach J. Stark$^{1)}$ ist die kleinste gemessene Ionisierungsspannung (an Platinanoden) für Luft ca. 10 Volt.$^{2)}$ Es ergibt sich also für $J$ die obere Grenze $9,6 \\cdot 10^{12}$, welche nahezu gleich der eben gefundenen ist. Es ergibt sich noch eine andere Konsequenz, deren Prüfung durch das Experiment mir von großer Wichtigkeit zu sein scheint. Wenn jedes absorbierte Lichtenergiequant ein Molekül ionisiert, so muss zwischen der absorbierten Lichtmenge $L$ und der Anzahl $j$ der durch dieselbe ionisierten Grammoleküle die Beziehung bestehen:\n\n$$j = \\frac{L}{R \\beta \\nu}.$$\\\\\n\nDiese Beziehung muss, wenn unsere Auffassung der Wirklichkeit entspricht, für jedes Gas gelten, welches (bei der betreffenden Frequenz) keine merkliche nicht von Ionisation begleitete Absorption aufweist.\n\nBern, den 17. März 1905.\n\n(Eingegangen 18. März 1905.)",
+      "word_count": 280,
+      "page_quality_notes": [
+        "Gleichungen korrekt erkannt und als LaTeX exportiert.",
+        "Datum und Eingangsvermerk korrekt erkannt."
+      ]
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 17,
+    "ocr_page_count": 17,
+    "total_word_count": 7800,
+    "figure_count": 0,
+    "table_count": 0,
+    "equation_block_count": 42,
+    "pages_requiring_review": [
+      3,
+      4,
+      5,
+      145,
+      146,
+      147,
+      148
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "Alle Seiten wurden erfolgreich OCR-verarbeitet.",
+      "Formeln wurden als LaTeX exportiert.",
+      "Fußnoten mit Referenzmarkern erkannt, aber teilweise manuelle Formatierung erforderlich.",
+      "Keine Abbildungen oder Tabellen in diesem Dokument."
+    ]
+  }
+}

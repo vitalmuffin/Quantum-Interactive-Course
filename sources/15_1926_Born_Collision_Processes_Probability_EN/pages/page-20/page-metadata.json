@@ -1,0 +1,164 @@
+{
+  "index": 19,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 535,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 47,
+      "bottomRightX": 676,
+      "bottomRightY": 60,
+      "content": "20",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 93,
+      "bottomRightX": 678,
+      "bottomRightY": 169,
+      "content": "However, the difference between this problem and the former one is the following: Every transition ($n \\to m$) of the atom corresponds to a special differential equation whose right-hand side is determined from the corresponding matrix element of the potential energy. Moreover, another value $k_{nm}$ that corresponds to the energy:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 328,
+      "topLeftY": 185,
+      "bottomRightX": 676,
+      "bottomRightY": 227,
+      "content": "$$W_{nm}^{e} = \\frac{h^{2}}{8\\pi^{2}\\mu} k_{nm}^{2} = h\\nu_{nm}^{a} + W^{e} \\tag{9}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 246,
+      "bottomRightX": 678,
+      "bottomRightY": 324,
+      "content": "enters in place of the $k$-value of the incoming wave. The basic qualitative law of electron collisions already follows from that: The energy of the electron after the collision is, in general, not equal to the energy before the collision, but differs from it by an energy jump $h\\nu_{nm}^{a}$ of the atom. A probability function:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 342,
+      "bottomRightX": 676,
+      "bottomRightY": 367,
+      "content": "$$\\Phi_{nm} = \\pi^{2} k_{nm}^{2} |f_{0}^{\\infty}(-k_{nm}s)|^{2} \\tag{10}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 384,
+      "bottomRightX": 678,
+      "bottomRightY": 421,
+      "content": "belongs to any collision process that one can calculate with the help of formula (12) or (13), § 6.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 456,
+      "bottomRightX": 678,
+      "bottomRightY": 526,
+      "content": "§ 8. Physical consequences. We next show that our formulas correctly duplicate the qualitative behavior of atoms under collisions, and thus, the fact of “energy jumps,” which has always been regarded as the basic pillar of quantum theory, as well as the most egregious contradiction to classical mechanics.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 527,
+      "bottomRightX": 514,
+      "bottomRightY": 546,
+      "content": "We order the energy levels of the atom by their magnitudes:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 325,
+      "topLeftY": 564,
+      "bottomRightX": 463,
+      "bottomRightY": 586,
+      "content": "$$W_{0}^{a} < W_{1}^{a} < W_{2}^{a} < \\dots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 605,
+      "bottomRightX": 462,
+      "bottomRightY": 623,
+      "content": "The index 0 then denotes the normal state, and one has:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 643,
+      "bottomRightX": 532,
+      "bottomRightY": 665,
+      "content": "$$h\\nu_{nm}^{a} = W_{n}^{a} - W_{m}^{a} > 0 \\quad \\text{for} \\quad n > m.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 683,
+      "bottomRightX": 678,
+      "bottomRightY": 724,
+      "content": "We next consider the case in which the atom is initially in the normal state. One then has that all $\\nu_{nm}^{a} > 0$, and it will follow from (9), § 7 that:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 744,
+      "bottomRightX": 452,
+      "bottomRightY": 767,
+      "content": "$$W_{0m}^{e} = W^{e} - h\\nu_{m0}^{a}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 787,
+      "bottomRightX": 678,
+      "bottomRightY": 827,
+      "content": "Now, if $W^{e} < h\\nu_{10}^{a}$ then $W_{0m}^{e}$ would be negative for $m > 0$, which is impossible; thus, one must have $m = 0$, so:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 829,
+      "bottomRightX": 428,
+      "bottomRightY": 851,
+      "content": "$$W_{00}^{e} = W^{e}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 871,
+      "bottomRightX": 638,
+      "bottomRightY": 891,
+      "content": "One then finds “elastic” reflection with the profit $\\Phi_{00}$. If one lets $W^{e}$ increase until:",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

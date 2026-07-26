@@ -1,0 +1,236 @@
+{
+  "index": 21,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 248,
+      "topLeftY": 93,
+      "bottomRightX": 393,
+      "bottomRightY": 109,
+      "content": "QUANTUM MECHANICS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 531,
+      "topLeftY": 91,
+      "bottomRightX": 550,
+      "bottomRightY": 107,
+      "content": "79",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 125,
+      "bottomRightX": 387,
+      "bottomRightY": 144,
+      "content": "Using the orthogonality of $Q$ and $P_{\\sigma(A)}$, we have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 151,
+      "bottomRightX": 421,
+      "bottomRightY": 169,
+      "content": "$$\\sin \\rho \\sin \\theta \\cos \\varphi_\\theta + \\cos \\rho \\cos \\theta = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 178,
+      "bottomRightX": 94,
+      "bottomRightY": 191,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 200,
+      "bottomRightX": 394,
+      "bottomRightY": 219,
+      "content": "$$\\varphi_\\theta = \\cos^{-1} (-\\cot \\rho \\cot \\theta).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 227,
+      "bottomRightX": 112,
+      "bottomRightY": 242,
+      "content": "Thus",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 250,
+      "bottomRightX": 489,
+      "bottomRightY": 288,
+      "content": "$$\\frac{1}{2}(1 + \\cos \\rho) = 2 \\int_{\\rho - \\pi/2}^{\\pi/2} u(\\theta) \\sin \\theta \\cos^{-1} (-\\cot \\rho \\cot \\theta) \\, d\\theta.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 293,
+      "bottomRightX": 265,
+      "bottomRightY": 311,
+      "content": "Letting $x = \\rho - \\pi/2$, we have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 145,
+      "topLeftY": 320,
+      "bottomRightX": 483,
+      "bottomRightY": 354,
+      "content": "$$\\frac{1}{2}(1 - \\sin x) = -2 \\int_{\\pi/2}^{x} u(\\theta) \\sin \\theta \\cos^{-1} (\\cot \\theta \\tan x) \\, d\\theta.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 364,
+      "bottomRightX": 436,
+      "bottomRightY": 382,
+      "content": "Now, differentiating both sides with respect to $x$, we obtain",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 392,
+      "bottomRightX": 544,
+      "bottomRightY": 428,
+      "content": "$$-\\frac{1}{2} \\cos x = -2u(x) \\sin x \\cos^{-1} (\\cot x \\tan x) + \\int_{\\pi/2}^{x} \\frac{u(\\theta) \\sin \\theta \\cot \\theta \\sec^2 x}{(1 - \\cot^2 \\theta \\tan^2 x)^{1/2}} \\, d\\theta$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 437,
+      "bottomRightX": 98,
+      "bottomRightY": 452,
+      "content": "or,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 460,
+      "bottomRightX": 444,
+      "bottomRightY": 495,
+      "content": "$$\\cos^2 x = -4 \\int_{\\pi/2}^{x} \\frac{u(\\theta) \\cos \\theta}{(1 - \\cot^2 \\theta \\tan^2 x)^{1/2}} \\, d\\theta.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 500,
+      "bottomRightX": 440,
+      "bottomRightY": 519,
+      "content": "If we set $z = \\cos^2 x$, $s = \\cos^2 \\theta$, and $w(s) = u(\\theta)$, we find",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 526,
+      "bottomRightX": 377,
+      "bottomRightY": 561,
+      "content": "$$z = \\int_0^s \\frac{2w(s)}{(s - s)^{1/2}} \\, ds.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 570,
+      "bottomRightX": 553,
+      "bottomRightY": 622,
+      "content": "This is a special case of Abel's integral equation, and is easily solved by Laplace transforms. Namely, if $*$ denotes convolution and $L(f) = \\int_0^\\infty f(x)e^{-tx} \\, dx$, the Laplace transform, then",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 268,
+      "topLeftY": 629,
+      "bottomRightX": 361,
+      "bottomRightY": 647,
+      "content": "$$z = w * 2z^{-1/2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 655,
+      "bottomRightX": 123,
+      "bottomRightY": 672,
+      "content": "Hence,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 680,
+      "bottomRightX": 382,
+      "bottomRightY": 700,
+      "content": "$$L(z) = L(w)L(2z^{-1/2}),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 707,
+      "bottomRightX": 95,
+      "bottomRightY": 722,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 730,
+      "bottomRightX": 380,
+      "bottomRightY": 822,
+      "content": "$$\\begin{aligned} L(w) &= L(z)/L(2z^{-1/2}) \\\\ &= \\frac{1}{2\\sqrt{\\pi}} t^{-3/2} \\\\ &= L((1/\\pi)s^{1/2}), \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 828,
+      "bottomRightX": 125,
+      "bottomRightY": 844,
+      "content": "so that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 853,
+      "bottomRightX": 353,
+      "bottomRightY": 872,
+      "content": "$$w(s) = (1/\\pi)s^{1/2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 946,
+      "bottomRightX": 421,
+      "bottomRightY": 982,
+      "content": "This content downloaded from 140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC All use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

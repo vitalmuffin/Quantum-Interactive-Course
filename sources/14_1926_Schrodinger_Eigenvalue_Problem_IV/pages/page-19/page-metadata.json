@@ -1,0 +1,128 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 172,
+      "topLeftY": 40,
+      "bottomRightX": 436,
+      "bottomRightY": 62,
+      "content": "Quantisierung als Eigenwertproblem",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 520,
+      "topLeftY": 42,
+      "bottomRightX": 551,
+      "bottomRightY": 61,
+      "content": "127",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 75,
+      "bottomRightX": 552,
+      "bottomRightY": 379,
+      "content": "Hier darf man die Integrationsfolge vielleicht nicht immer ohne weiteres vertauschen, weil das Integral nach $\\xi$ eventuell nicht konvergiert. Man kann jedoch — ein anschauliches Surrogat eines exakten Grenzüberganges, der hier übergangen werden möge — das Integral $\\int_a^b$ in viele kleine Stücke, sagen wir von der Länge $\\Delta$ zerlegen, hinreichend klein, um alle auftretenden Funktionen von $E$ auf einem solchen Stück als konstant anzusehen, mit Ausnahme von $u(x, E)$, für welches sich das, wie aus der allgemeinen Theorie folgt, nicht durch eine feste, von $\\xi$ unabhängige Intervallteilung erreichen läßt. Dann kann man die übrigen Funktionen aus den Teilstreckenintegralen herausheben und erhält schließlich exakt als *Zusatzglied zu dem sekundärstrahlenden Dipolmoment* (23) folgendes:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 381,
+      "bottomRightX": 443,
+      "bottomRightY": 435,
+      "content": "$$(23') \\quad 2 F \\cos 2 \\pi \\nu t \\int_a^b \\frac{(E - E_b) \\alpha_b(E) \\beta_b(E)}{(E_b - E)^2 - h^2 \\nu^2} dE$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 434,
+      "bottomRightX": 103,
+      "bottomRightY": 451,
+      "content": "mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 450,
+      "bottomRightX": 518,
+      "bottomRightY": 511,
+      "content": "$$(22') \\quad \\alpha_b(E) = \\lim_{\\Delta = 0} \\frac{1}{\\Delta} \\int \\varrho(\\xi) M_z(\\xi) u_k(\\xi) \\cdot \\int_E^{E+\\Delta} u(\\xi, E') dE' \\cdot d\\xi$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 512,
+      "bottomRightX": 518,
+      "bottomRightY": 569,
+      "content": "$$(19') \\quad \\beta_b(E) = \\lim_{\\Delta = 0} \\frac{1}{\\Delta} \\int \\varrho(\\xi) M_y(\\xi) u_k(\\xi) \\cdot \\int_E^{E+\\Delta} u(\\xi, E') dE' \\cdot d\\xi$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 573,
+      "bottomRightX": 552,
+      "bottomRightY": 615,
+      "content": "(ich bitte, die volle Analogie zu den mit gleicher Nummer, ohne Striche, versehenen Formeln von § 2 zu beachten).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 615,
+      "bottomRightX": 554,
+      "bottomRightY": 760,
+      "content": "Die vorstehende Rechenskizze kann natürlich nicht mehr sein als ein allgemeiner Rahmen, sie soll bloß zeigen, daß der vielerörterte Einfluß des kontinuierlichen Spektrums auf die Dispersion, der erfahrungsgemäß vorhanden zu sein scheint$^{1)}$, von der vorliegenden Theorie genau in der erwarteten Form gefordert wird, und sie sollte den Weg umreißen, auf dem das Problem rechnerisch in Angriff zu nehmen sein wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 778,
+      "bottomRightX": 446,
+      "bottomRightY": 795,
+      "content": "#### § 4. Erörterung des Resonanzfalles",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 797,
+      "bottomRightX": 555,
+      "bottomRightY": 838,
+      "content": "Wir haben bisher stets vorausgesetzt, daß die Frequenz $\\nu$ der auftreffenden Lichtwelle mit keiner der in Betracht",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 849,
+      "bottomRightX": 554,
+      "bottomRightY": 886,
+      "content": "1) K. F. Herzfeld u. K. L. Wolf, Ann. d. Phys. 76. S. 71. 567. 1925; H. Kollmann u. H. Mark, Die NW. 14. S. 648. 1926.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 448,
+      "topLeftY": 886,
+      "bottomRightX": 466,
+      "bottomRightY": 901,
+      "content": "9\\*",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

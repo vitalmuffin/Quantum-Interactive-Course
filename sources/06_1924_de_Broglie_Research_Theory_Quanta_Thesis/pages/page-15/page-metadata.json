@@ -1,0 +1,101 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 162,
+      "topLeftY": 28,
+      "bottomRightX": 499,
+      "bottomRightY": 51,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 562,
+      "topLeftY": 30,
+      "bottomRightX": 585,
+      "bottomRightY": 50,
+      "content": "35",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 67,
+      "bottomRightX": 585,
+      "bottomRightY": 122,
+      "content": "parvenu à la lever en démontrant le théorème suivant que j'appellerai le théorème de l'harmonie des phases :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 116,
+      "bottomRightX": 584,
+      "bottomRightY": 307,
+      "content": "« Le phénomène périodique lié au mobile et dont la fréquence est pour l'observateur fixe égale à $\\nu_1 = \\frac{1}{h} m_0 c^2 \\sqrt{1 - \\beta^2}$ paraît à celui-ci constamment en phase avec une onde de fréquence $\\nu = \\frac{1}{h} m_0 c^2 \\frac{1}{\\sqrt{1 - \\beta^2}}$ se propageant dans la même direction que le mobile avec la vitesse $V = \\frac{c}{\\beta}$. »",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 304,
+      "bottomRightX": 582,
+      "bottomRightY": 503,
+      "content": "La démonstration est très simple. Supposons qu'au temps $t = 0$, il y ait accord de phase entre le phénomène périodique lié au mobile et l'onde ci-dessus définie. Au temps $t$, le mobile a franchi depuis l'instant origine une distance égale à $x = \\beta c t$ et la phase du phénomène périodique a varié de $\\nu_1 t = \\frac{m_0 c^2}{h} \\sqrt{1 - \\beta^2} \\cdot \\frac{x}{\\beta c}$. La phase de la portion d'onde qui recouvre le mobile a varié de :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 521,
+      "bottomRightX": 568,
+      "bottomRightY": 620,
+      "content": "$$\\nu \\left( t - \\frac{\\beta x}{c} \\right) = \\frac{m_0 c^2}{h} \\cdot \\frac{1}{\\sqrt{1 - \\beta^2}} \\left( \\frac{x}{\\beta c} - \\frac{\\beta x}{c} \\right)$$\n$$= \\frac{m_0 c^2}{h} \\sqrt{1 - \\beta^2} \\cdot \\frac{x}{\\beta c}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 634,
+      "bottomRightX": 576,
+      "bottomRightY": 687,
+      "content": "Comme nous l'avions annoncé, l'accord des phases persiste.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 64,
+      "topLeftY": 685,
+      "bottomRightX": 577,
+      "bottomRightY": 814,
+      "content": "Il est possible de donner de ce théorème une autre démonstration identique au fond, mais peut-être plus frappante. Si $t_0$ représente le temps pour un observateur lié au mobile (temps propre du mobile), la transformation Lorentz donne :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 209,
+      "topLeftY": 828,
+      "bottomRightX": 426,
+      "bottomRightY": 876,
+      "content": "$$t_0 = \\frac{1}{\\sqrt{1 - \\beta^2}} \\left( t - \\frac{\\beta x}{c} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 896,
+      "bottomRightX": 574,
+      "bottomRightY": 951,
+      "content": "Le phénomène périodique que nous imaginons, est représenté pour le même observateur par une fonction sinusoï-",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

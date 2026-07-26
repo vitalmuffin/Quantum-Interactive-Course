@@ -1,0 +1,74 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 150,
+      "bottomRightX": 605,
+      "bottomRightY": 393,
+      "content": "Not all conceivable situations fit the framework of this mathematical formulation. Consider for example an isolated system consisting of an observer or measuring apparatus, plus an object system. Can the change with time of the state of the *total* system be described by Process 2, so, then it would appear that no discontinuous probabilistic process like Process 1 can take place. If not, we are forced to admit that systems which contain observers are not subject to the same kind of quantum-mechanical description as we admit for all other physical systems. The question cannot be ruled out as lying in the domain of psychology. Much of the discussion of “observers” in quantum mechanics has to do with photoelectric cells, photographic plates, and similar devices where a mechanistic attitude can hardly be contested. For the following one can *limit himself to this class of problems*, if he is unwilling to consider observers in the more familiar sense on the same mechanistic level of analysis.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 394,
+      "bottomRightX": 605,
+      "bottomRightY": 570,
+      "content": "What mixture of Process 1 and 2 of the conventional formulation is to be applied to the case where only an approximate measure is effected; that is, where an apparatus or observer interacts only weakly and for a limited time with an object system? In this case of an approximate measurement a proper theory must specify (1) the new state of the object system that corresponds to any particular reading of the apparatus and (2) the probability with which this reading will occur. von Neumann showed how to treat a special class of approximate measurements by the method of projection operators.$^{2}$ However, a general treatment of all approximate measurements by the method of projections operators can be shown (Sec. 4) to be impossible.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 570,
+      "bottomRightX": 605,
+      "bottomRightY": 727,
+      "content": "How is one to apply the conventional formulation of quantum mechanics to the space-time geometry itself, the issue becomes especially acute in the case of a closed universe.$^{3}$ There is no place to stand outside the system to observe it. There is nothing outside it to produce transitions from one state to another. Even the familiar concept of a proper state of the energy is completely inapplicable. In the derivation of the law of conservation of energy, one defines the total energy by way of an integral extended over a surface large enough to include all parts of the system and their interactions.$^{4}$ But in a closed space, when a surface is made to include more and more of",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 737,
+      "bottomRightX": 309,
+      "bottomRightY": 752,
+      "content": "$^{2}$Reference 1, Chap. 4, Sec. 4.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 750,
+      "bottomRightX": 604,
+      "bottomRightY": 781,
+      "content": "$^{3}$See A. Einstein, *The Meaning of Relativity* (Princeton University Press, Princeton, 1950), third edition, p. 107.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 780,
+      "bottomRightX": 604,
+      "bottomRightY": 810,
+      "content": "$^{4}$L. Landau and E. Lifshitz, *The Classical Theory of Fields*, translated by M. Hamermesh (Addison-Wesley Press, Cambridge, 1951), p. 343.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 833,
+      "bottomRightX": 373,
+      "bottomRightY": 848,
+      "content": "3",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

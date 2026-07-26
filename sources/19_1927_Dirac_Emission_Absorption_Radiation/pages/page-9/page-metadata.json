@@ -1,0 +1,110 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 158,
+      "topLeftY": 169,
+      "bottomRightX": 628,
+      "bottomRightY": 240,
+      "content": "The first term $\\Sigma_r W_r N_r$ is the total proper energy of the assembly, and the second may be regarded as the additional energy due to the perturbation. If the perturbation is zero, the phases $\\Theta_r$ would increase linearly with the time, while the previous phases $\\phi_r$ would in this case be constants.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 262,
+      "bottomRightX": 607,
+      "bottomRightY": 306,
+      "content": "## § 3. The Perturbation of an Assembly satisfying the Einstein-Bose Statistics.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 321,
+      "bottomRightX": 630,
+      "bottomRightY": 687,
+      "content": "According to the preceding section we can describe the effect of a perturbation on an assembly of independent systems by means of canonical variables and Hamiltonian equations of motion. The development of the theory which naturally suggests itself is to make these canonical variables $q$-numbers satisfying the usual quantum conditions instead of $c$-numbers, so that their Hamiltonian equations of motion become true quantum equations. The Hamiltonian function will now provide a Schrödinger wave equation, which must be solved and interpreted in the usual manner. The interpretation will give not merely the probable number of systems in any state, but the probability of any given distribution of the systems among the various states, this probability being, in fact, equal to the square of the modulus of the normalised solution of the wave equation that satisfies the appropriate initial conditions. We could, of course, calculate directly from elementary considerations the probability of any given distribution when the systems are independent, as we know the probability of each system being in any particular state. We shall find that the probability calculated directly in this way does not agree with that obtained from the wave equation except in the special case when there is only one system in the assembly. In the general case it will be shown that the wave equation leads to the correct value for the probability of any given distribution when the systems obey the Einstein-Bose statistics instead of being independent.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 688,
+      "bottomRightX": 629,
+      "bottomRightY": 723,
+      "content": "We assume the variables $b_r, ihb_r^*$ of § 2 to be canonical $q$-numbers satisfying the quantum conditions",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 317,
+      "topLeftY": 735,
+      "bottomRightX": 469,
+      "bottomRightY": 754,
+      "content": "$$b_r \\cdot ihb_r^* - ihb_r^* \\cdot b_r = ih$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 769,
+      "bottomRightX": 177,
+      "bottomRightY": 780,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 342,
+      "topLeftY": 782,
+      "bottomRightX": 443,
+      "bottomRightY": 802,
+      "content": "$$b_r b_r^* - b_r^* b_r = 1,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 810,
+      "bottomRightX": 187,
+      "bottomRightY": 823,
+      "content": "and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 824,
+      "bottomRightX": 499,
+      "bottomRightY": 845,
+      "content": "$$b_r b_s - b_s b_r = 0, \\quad b_r^* b_s^* - b_s^* b_r^* = 0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 314,
+      "topLeftY": 850,
+      "bottomRightX": 471,
+      "bottomRightY": 870,
+      "content": "$$b_r b_s^* - b_s^* b_r = 0 \\quad (s \\neq r).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 389,
+      "topLeftY": 892,
+      "bottomRightX": 398,
+      "bottomRightY": 904,
+      "content": "9",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

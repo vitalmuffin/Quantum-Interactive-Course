@@ -1,0 +1,65 @@
+{
+  "index": 24,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 158,
+      "topLeftY": 166,
+      "bottomRightX": 628,
+      "bottomRightY": 253,
+      "content": "$c$-number at the same time that one specifies the stationary state of the atom and the intensity of the radiation by $c$-numbers. In particular, one cannot say that the interaction energy tends to zero as the intensity of the incident radiation tends to zero. There is thus always an unspecifiable amount of interaction energy which can supply the energy for the photo-electron.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 253,
+      "bottomRightX": 628,
+      "bottomRightY": 288,
+      "content": "I would like to express my thanks to Prof. Niels Bohr for his interest in this work and for much friendly discussion about it.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 354,
+      "topLeftY": 307,
+      "bottomRightX": 430,
+      "bottomRightY": 324,
+      "content": "### Summary.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 342,
+      "bottomRightX": 628,
+      "bottomRightY": 446,
+      "content": "The problem is treated of an assembly of similar systems satisfying the Einstein-Bose statistical mechanics, which interact with another different system, a Hamiltonian function being obtained to describe the motion. The theory is applied to the interaction of an assembly of light-quanta with an ordinary atom, and it is shown that it gives Einstein's laws for the emission and absorption of radiation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 446,
+      "bottomRightX": 628,
+      "bottomRightY": 551,
+      "content": "The interaction of an atom with electromagnetic waves is then considered, and it is shown that if one takes the energies and phases of the waves to be $q$-numbers satisfying the proper quantum conditions instead of $c$-numbers, the Hamiltonian function takes the same form $a$ in the light-quantum treatment. The theory leads to the correct expressions for Einstein's $A$'s and $B$'s.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 382,
+      "topLeftY": 888,
+      "bottomRightX": 402,
+      "bottomRightY": 903,
+      "content": "25",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "index": 26,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 92,
+      "topLeftY": 101,
+      "bottomRightX": 114,
+      "bottomRightY": 114,
+      "content": "192",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 102,
+      "bottomRightX": 443,
+      "bottomRightY": 115,
+      "content": "DAVID BOHM",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 130,
+      "bottomRightX": 385,
+      "bottomRightY": 339,
+      "content": "Our answer to Pauli's objection is already contained in Paper I, Sec. 7, as well as in Sec. 2 of this paper. For as is well known, the use of an incident plane wave of infinite extent is an excessive abstraction, not realizable in practice. Actually, both the incident and outgoing parts of the $\\psi$-field will always take the form of bounded packets. Moreover, as shown in Paper I, Sec. 7, all packets corresponding to different values of $n$ will ultimately obtain classically describable separations. The outgoing particle must enter one of these packets, and it will remain with that particular packet thereafter, leaving the hydrogen atom in a definite but correlated stationary state. Thus, Pauli's objection is seen to be based on the use of the excessively abstract model of an infinite plane wave.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 340,
+      "bottomRightX": 384,
+      "bottomRightY": 616,
+      "content": "Although the above constitutes a complete answer to Pauli's specific objections to our suggested interpretation, we wish here to amplify our discussion somewhat, in order to anticipate certain additional objections that might be made along similar lines. For at this point, one might argue that even though the wave packet is bounded, it can nevertheless in principle be made arbitrarily large in extent by means of a suitable adjustment of initial conditions. Our interpretation predicts that in the region in which incident and outgoing $\\psi$-waves overlap, the momentum of each particle will fluctuate violently, as a result of corresponding fluctuations in the \"quantum-mechanical\" potential produced by the $\\psi$-field. The question arises, however, as to whether such fluctuations can really be in accord with experimental fact, especially since in principle they could occur when the particles were separated by distances much greater than that over which the \"classical\" interaction potential, $V(\\mathbf{x}, \\mathbf{y})$, was appreciable.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 617,
+      "bottomRightX": 382,
+      "bottomRightY": 905,
+      "content": "To show that these fluctuations are not in disagreement with any experimental facts now available, we first point out that even in the usual interpretation the energy of each particle cannot correctly be regarded as definite under the conditions which are assumed here, namely, that the incident and outgoing wave packets overlap. For as long as interference between two stationary state wave function is possible, the system acts as if it, in some sense, covered both states simultaneously.$^{13}$ In such a situation, the usual interpretation implies that a precisely defined value for the energy of either particle is meaningless. From such a wave function, one can predict only the probability that if the energy is measured, a definite value will be obtained. On the other hand, the very experimental conditions needed for measuring the energy play a key role in making a definite value of the energy possible because the effect of the measuring apparatus is to destroy interference between parts of the wave function corresponding to different values of the energy.$^{14}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 392,
+      "topLeftY": 130,
+      "bottomRightX": 689,
+      "bottomRightY": 425,
+      "content": "In our interpretation, the overlap of incident and outgoing wave packets signifies not that the precise value of the energy of either particle can be given no meaning, but rather that this value fluctuates violently in an, in practice, unpredictable and uncontrollable way. When the energy of either particle is measured, however, then our interpretation predicts, in agreement with the usual interpretation, that the energy of each particle will become definite and constant, as a result of the effects of the energy-measuring apparatus on the observed system. To show how this happens, let us suppose that the energy of the hydrogen atom is measured by means of an interaction in which the \"classical\" potential, $V$, is a function only of the variables associated with the electron in the hydrogen atom and with the apparatus, but is not a function of variables associated with the outgoing particle. Let $z$ be the coordinate of the measuring apparatus. Then as shown in Sec. 2, interaction with an apparatus that measures the energy of the hydrogen atom will transform the $\\Psi$-function (B1), into",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 449,
+      "topLeftY": 432,
+      "bottomRightX": 686,
+      "bottomRightY": 451,
+      "content": "$$\\Psi = \\sum_n f_n(\\mathbf{y}) \\psi_n(\\mathbf{x}) g_0(z - a Ent/\\hbar^2). \\tag{B2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 457,
+      "bottomRightX": 687,
+      "bottomRightY": 850,
+      "content": "Now, we have seen that if the product $at$ is large enough to make a distinct measurement possible, packets corresponding to different values of $n$ will ultimately obtain classically describable separations in $z$ space. The apparatus variable, $z$, must enter one of these packets; and, thereafter, all other packets can for practical purposes be ignored. The hydrogen atom is then left in a state having a definite and constant energy, while the outgoing particle has a correspondingly definite but correlated constant value for its energy. Thus, we find that as with the usual interpretation, our interpretation predicts that whenever we measure the energy of either particle by methods that are now available, a definite and constant value will always be obtained. Nevertheless, under conditions in which incident and outgoing wave packets overlap, and in which neither particle interacts with an energy-measuring device, our interpretation states unambiguously that real fluctuations in the energy of each particle will occur. These fluctuations are moreover, at least in principle, observable (for example, by methods discussed in Sec. 6). Meanwhile, under conditions in which we are limited by present methods of observation, our interpretation leads to predictions that are precisely the same as those obtained from the usual interpretation, so that no experiments supporting the usual interpretation can possibly contradict our interpretation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 388,
+      "topLeftY": 851,
+      "bottomRightX": 686,
+      "bottomRightY": 941,
+      "content": "In his book,$^9$ de Broglie raises objections to his own suggested interpretation of the quantum theory, which are very similar to those raised by Pauli. It is therefore not necessary to answer de Broglie's objections in detail here, since the answer is essentially the same as that which has been given to Pauli. We wish, however,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 917,
+      "bottomRightX": 254,
+      "bottomRightY": 929,
+      "content": "$^{13}$ Reference 2, Chapter 16, Sec. 25.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 928,
+      "bottomRightX": 378,
+      "bottomRightY": 941,
+      "content": "$^{14}$ Reference 2, Chapter 6, Secs. 3 to 8; Chapter 22, Secs. 8 to 10.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

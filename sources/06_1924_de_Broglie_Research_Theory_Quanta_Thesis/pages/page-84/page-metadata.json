@@ -1,0 +1,83 @@
+{
+  "index": 83,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 38,
+      "topLeftY": 13,
+      "bottomRightX": 72,
+      "bottomRightY": 32,
+      "content": "104",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 15,
+      "bottomRightX": 378,
+      "bottomRightY": 32,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 56,
+      "bottomRightX": 563,
+      "bottomRightY": 158,
+      "content": "d'application de la règle de Stokes ne sont pas réalisées. Il n'est pas impossible que certaines des conclusions ci-dessus énoncées puissent être soumises à une vérification expérimentale au moins en ce qui concerne les rayons X.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 212,
+      "bottomRightX": 372,
+      "bottomRightY": 233,
+      "content": "## CHAPITRE VII",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 284,
+      "bottomRightX": 504,
+      "bottomRightY": 307,
+      "content": "### La mécanique statistique et les quanta.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 343,
+      "bottomRightX": 563,
+      "bottomRightY": 391,
+      "content": "#### I. — RAPPEL DE QUELQUES RÉSULTATS DE LA THERMODYNAMIQUE STATISTIQUE",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 421,
+      "bottomRightX": 565,
+      "bottomRightY": 680,
+      "content": "L'interprétation des lois de la thermodynamique à l'aide de considérations statistiques est un des plus beaux succès de la pensée scientifique, mais elle ne va pas sans quelques difficultés et quelques objections. Il n'entre pas dans le cadre du présent travail de faire une critique de ces méthodes ; nous nous contenterons ici, après avoir rappelé sous leur forme aujourd'hui la plus employée, certains résultats fondamentaux, d'examiner comment nos idées nouvelles pourraient être introduites dans la théorie des gaz et dans celle du rayonnement noir.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 682,
+      "bottomRightX": 566,
+      "bottomRightY": 965,
+      "content": "Boltzmann a montré, le premier, que l'entropie d'un gaz dans un état déterminé est, à une constante additive près, le produit du logarithme de la probabilité de cet état par la constante $k$ dite « constante de Boltzmann » qui dépend du choix de l'échelle des températures ; il était arrivé d'abord à cette conclusion en analysant les chocs entre atomes dans l'hypothèse d'une agitation entièrement désordonnée de ceux-ci. Aujourd'hui, à la suite des travaux de MM. Planck et Einstein, on considère plutôt la relation : $S = k \\log P$ comme la définition même de l'entropie $S$ d'un système. Dans cette définition, $P$ n'est pas la probabilité mathémati-",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

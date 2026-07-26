@@ -1,0 +1,29 @@
+erase $a$ and replace it with $f(a)$ we need in addition that $f$ is one-to-one and that $a$ is computable in polynomial time from $f(a)$; i.e., that both $f$ and $f^{-1}$ are polynomial-time computable.
+
+Fact 2: Any polynomial size unitary matrix can be approximated using a polynomial number of elementary unitary transformations [10, 5, 32] and thus can be approximated in polynomial time on a quantum computer. Further, this approximation is good enough so as to introduce at most a bounded probability of error into the results of the computation.
+
+### 3 Building unitary transformations
+
+Since quantum computation deals with unitary transformations, it is helpful to be able to build certain useful unitary transformations. In this section we give some techniques for constructing unitary transformations on quantum machines, which will result in our showing how to construct one particular unitary transformation in polynomial time. These transformations will generally be given as matrices, with both rows and columns indexed by states. These states will correspond to representations of integers on the computer; in particular, the rows and columns will be indexed beginning with 0 unless otherwise specified.
+
+A tool we will use repeatedly in this paper is the following unitary transformation, the summation of which gives a Fourier transform. Consider a number $a$ with $0 \le a < q$ for some $q$ where the number of bits of $q$ is polynomial. We will perform the transformation that takes the state $|a\rangle$ to the state
+
+$$\frac{1}{q^{1/2}} \sum_{b=0}^{q-1} |b\rangle \exp(2\pi i ab/q). \tag{3.1}$$
+
+That is, we apply the unitary matrix whose $(a, b)$'th entry is $\frac{1}{q^{1/2}} \exp(2\pi i ab/q)$. This transformation is at the heart of our algorithms, and we will call this matrix $A_q$. Since we will use $A_q$ for $q$ of exponential size, we must show how this transformation can be done in polynomial time. In fact, we will only be able to do this for smooth numbers $q$, that is, ones with small prime factors. In this paper, we will deal with smooth numbers $q$ which contain no prime power factor that is larger than $(\log q)^c$ for some fixed $c$. It is also possible to do this transformation in polynomial time for all smooth numbers $q$; Coppersmith shows how to do this for $q = 2^k$ using what is essentially the fast Fourier transform, and that this substantially reduces the number of operations required to factor [8].
+
+If we know a factorization $q = q_1 q_2 q_3 \cdots q_k$ where $\gcd(q_1, q_2) = 1$ and where $k$ and all of the $q_i$ are of polynomial size we will show how to build the transformation
+
+$A_q$ in polynomial time by composing the $A_{q_i}$. For this, we first need a lemma on quantum computation.
+
+Lemma 3.1 Suppose the matrix $B$ is a block-diagonal $mn \times mn$ unitary matrix composed of $n$ identical unitary $m \times m$ matrices $B'$ along the diagonal and 0's everywhere else. Suppose further that the state transformation $B'$ can be done in time $T(B')$ on a quantum Turing machine. Then the matrix $B$ can be done in $T(B') + (\log mn)^c$ time on a quantum Turing machine, where $c$ is a constant.
+
+We will call this matrix $B$ the direct sum of $n$ copies of $B'$ and use the notation $B = \bigoplus_n B'$. This matrix $B$ is the tensor product of $B'$ and $I_n$, where $I_n$ is the $n \times n$ identity matrix.
+
+Proof: Suppose that we have a number $a$ on our tape. We can reversibly compute $\alpha_1$ and $\alpha_2$ from $a$ where $a = m\alpha_1 + \alpha_2$. This computation erases $a$ from our tape and replaces it with $\alpha_1$ and $\alpha_2$. Now $\alpha_1$ tells in which block the row $a$ is contained, and $\alpha_2$ tells which row of the matrix within that block is the row $a$. We can then apply $B'$ to $\alpha_2$ to obtain $\beta_2$ (erasing $\alpha_2$ in the process). Now, combining $\alpha_1$ and $\beta_2$ to obtain $b = m\alpha_1 + \beta_2$ gives the result of $B$ applied to $a$ (with the right amplitude). The computation of $B'$ takes $T(B')$ time, and the rest of the computation is polynomial in $\log m + \log n$.
+
+We now show how to obtain $A_q$ for smooth $q$. We will decompose $A_q$ into a product of a polynomial number of unitary transformations, all of which are performable in polynomial time; this enables us to construct $A_q$ in polynomial time. Suppose that we have $q = q_1 q_2$ with $\gcd(q_1, q_2) = 1$. What we will do is represent $A_q = CD$, where by rearranging the rows and columns of $D$ we obtain $\bigoplus_{q_1} A_{q_1}$ and rearranging the rows and columns of $C$ we obtain $\bigoplus_{q_2} A_{q_2}$. As long as these rearrangements of the rows and columns of $C$ and $D$ are performable in polynomial time (i.e., given row $r$, we can find in polynomial time the row $r'$ to which it is taken) and the inverse operations are also performable in polynomial time, then by using the lemma above and recursion we can obtain a polynomial-time way to perform $A_q$ on a quantum computer.
+
+We now need to define $C$ and $D$ and check that $A_q = CD$. To define $C$ and $D$ we need some preliminary definitions. Recall that $q = q_1 q_2$ with $q_1$ and $q_2$ relatively prime. Let $\omega = \exp(2\pi i/q)$. Let $u$ be the number (mod $q$) such that $u \equiv 0 \pmod{q_1}$ and $u \equiv -1 \pmod{q_2}$. Such a number exists by the Chinese remainder theorem, and can be computed in polynomial time. We will decompose row and column indices $a$, $b$ and $c$ as follows: $a = \alpha_1 q_2 + \alpha_2$, $b = \beta_1 q_1 + \beta_2$, and $c = \gamma_1 q_1 + \gamma_2$. Note the asymmetry in the definitions of $a$, $b$ and $c$.
+
+127

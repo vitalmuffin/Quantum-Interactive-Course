@@ -1,0 +1,101 @@
+{
+  "index": 84,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 106,
+      "topLeftY": 30,
+      "bottomRightX": 442,
+      "bottomRightY": 50,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 495,
+      "topLeftY": 30,
+      "bottomRightX": 527,
+      "bottomRightY": 49,
+      "content": "105",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 14,
+      "topLeftY": 69,
+      "bottomRightX": 528,
+      "bottomRightY": 347,
+      "content": "que égale au quotient du nombre des configurations microscopiques donnant la même configuration totale macroscopique au nombre total des configurations possibles, c'est la probabilité « thermodynamique » égale simplement au numérateur de cette fraction. Ce choix du sens de P revient à fixer d'une certaine façon (en somme arbitraire) la constante de l'entropie. Ce postulat admis, nous allons rappeler une démonstration bien connue de l'expression analytique des grandeurs thermodynamiques, démonstration qui a l'avantage d'être valable aussi bien quand la suite des états possibles est discontinue que dans le cas inverse.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 347,
+      "bottomRightX": 527,
+      "bottomRightY": 499,
+      "content": "Considérons pour cela $\\mathfrak{H}$ objets que l'on peut distribuer arbitrairement entre $m$ « états » ou « cellules » considérés *à priori* comme également probables. Une certaine configuration du système sera réalisée en plaçant $n_1$ objets dans la cellule 1, $n_2$ dans la cellule 2, etc. La probabilité thermodynamique de cette configuration sera :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 507,
+      "bottomRightX": 347,
+      "bottomRightY": 550,
+      "content": "$$P = \\frac{\\mathfrak{H}!}{n_1! n_2! \\dots n_n!}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 563,
+      "bottomRightX": 526,
+      "bottomRightY": 615,
+      "content": "Si $\\mathfrak{H}$ et tous les $n_i$ sont de grands nombres, la formule de Stirling donne pour l'entropie du système :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 630,
+      "bottomRightX": 425,
+      "bottomRightY": 674,
+      "content": "$$S = k \\log P = k \\mathfrak{H} \\log \\mathfrak{H} - k \\sum_{1}^{m} n_i \\log n_i.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 12,
+      "topLeftY": 688,
+      "bottomRightX": 530,
+      "bottomRightY": 842,
+      "content": "Supposons qu'à chaque cellule, corresponde une valeur donnée d'une certaine fonction $\\epsilon$ que nous nommerons « l'énergie d'un objet placé dans cette cellule ». Envisageons une modification de la répartition des objets entre cellules soumises à la condition de laisser invariable la somme des énergies. L'entropie S variera de :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 61,
+      "topLeftY": 855,
+      "bottomRightX": 470,
+      "bottomRightY": 900,
+      "content": "$$\\delta S = - k \\delta \\left[ \\sum_{1}^{m} n_i \\log n_i \\right] = - k \\sum_{1}^{m} \\delta n_i - k \\sum_{1}^{m} \\log n_i \\delta n_i$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 12,
+      "topLeftY": 910,
+      "bottomRightX": 513,
+      "bottomRightY": 955,
+      "content": "avec les conditions adjointes : $\\sum_{1}^{m} \\delta n_i = 0$ et $\\sum_{1}^{m} \\epsilon_i \\delta n_i = 0$.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

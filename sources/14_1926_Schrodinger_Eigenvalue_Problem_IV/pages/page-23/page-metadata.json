@@ -1,0 +1,65 @@
+{
+  "index": 22,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 176,
+      "topLeftY": 40,
+      "bottomRightX": 441,
+      "bottomRightY": 61,
+      "content": "Quantisierung als Eigenwertproblem",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 520,
+      "topLeftY": 40,
+      "bottomRightX": 553,
+      "bottomRightY": 58,
+      "content": "131",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 123,
+      "topLeftY": 76,
+      "bottomRightX": 502,
+      "bottomRightY": 94,
+      "content": "# § 5. Verallgemeinerung für eine beliebige Störung",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 98,
+      "bottomRightX": 555,
+      "bottomRightY": 448,
+      "content": "Liegt eine *beliebige* Störung vor, wie in Gl. (5) am Anfang von § 2 zunächst vorausgesetzt war, so wird man die Störungsenergie $r(x, t)$ in eine Fourierreihe oder in ein Fourierintegral nach der Zeit entwickeln. Die Glieder dieser Entwicklung haben dann die Gestalt (6) des Störungspotentials einer Lichtwelle. Man übersieht ohne weiteres, daß man dann einfach nur in der Gl. (11) auf der rechten Seite zwei *Reihen* (oder eventuell Integrale) von imaginären *e*-Potenzen erhält, anstatt bloß zwei Stück. Fällt keine der erregenden Frequenzen mit einer kritischen Frequenz zusammen, so erhält man die Lösung genau auf dem in § 2 angegebenen Weg, und zwar als Fourierreihen (oder eventuell Fourierintegrale) der Zeit. Es hat wohl keinen Zweck, die formalen Entwicklungen hier hinzuschreiben und eine genauere Verfolgung einzelner Probleme liegt außerhalb des Rahmens der vorliegenden Mitteilung. Doch muß ein wichtiger Umstand, der schon im § 3 gestreift wurde, erwähnt werden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 448,
+      "bottomRightX": 555,
+      "bottomRightY": 843,
+      "content": "Unter den kritischen Frequenzen der Gleichung (13) figuriert im allgemeinen auch die Frequenz $v = E_k - E_k = 0$. Denn auch für sie tritt als Eigenwertparameter auf der linken Seite ein Eigenwert auf, nämlich $E_k$. Kommt also in der Fourierentwicklung der Störungsfunktion $r(x, t)$ die Frequenz 0, d. h. ein von der Zeit unabhängiges Glied vor, so kommt man nicht genau auf dem früheren Weg zum Ziel. Man erkennt aber leicht, wie er abzuändern ist, denn der Fall einer zeitlich konstanten Störung ist uns ja von früher her bekannt (vgl. dritte Mitteilung). Man hat dann eine kleine Verlagerung und eventuell Aufspaltung des Eigenwertes oder der Eigenwerte der erregten freien Schwingungen mit in Betracht zu ziehen, d. h. man hat im Exponenten der *e*-Potenz des ersten Gliedes rechter Hand der Gl. (10) statt $E_k$ zu schreiben: $E_k$ plus einer kleinen Konstante, der Eigenwertstörung. Diese Eigenwertstörung wird, genau wie in der dritten Mitteilung § 1 und § 2 beschrieben, aus der Forderung bestimmt, daß die rechte Seite der kritischen Fourierkomponente der hiesigen Gl. (13) auf $u_k$ (oder eventuell: auf *allen* zu $E_k$ gehörigen Eigenfunktionen) senkrecht stehen soll.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 842,
+      "bottomRightX": 554,
+      "bottomRightY": 884,
+      "content": "Die Zahl der speziellen Probleme, welche unter die Fragestellung des vorliegenden Paragraphen fallen, ist außerordentlich",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

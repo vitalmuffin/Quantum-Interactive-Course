@@ -1,0 +1,200 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 535,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 60,
+      "content": "11",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 93,
+      "bottomRightX": 678,
+      "bottomRightY": 148,
+      "content": "§ 5. Generalization to three degrees of freedom. The inertial motion. We now consider a particle that moves in space under the action of the potential energy $U(x, y, z)$. One then has the differential equation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 166,
+      "bottomRightX": 677,
+      "bottomRightY": 206,
+      "content": "$$\\Delta\\psi - \\frac{1}{v^2} \\frac{\\partial^2\\psi}{\\partial t^2} = 0, \\tag{1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 226,
+      "bottomRightX": 678,
+      "bottomRightY": 262,
+      "content": "which is analogous to (1), in which $v$ is once more given in the approximation of classical mechanics by (2), § 4. Here, the conservation law reads:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 233,
+      "topLeftY": 280,
+      "bottomRightX": 677,
+      "bottomRightY": 330,
+      "content": "$$\\text{div}\\left(\\frac{\\partial\\psi}{\\partial t}\\text{grad}\\psi\\right) - \\frac{\\partial}{\\partial t}\\frac{1}{2}\\left\\{(\\text{grad}\\psi)^2 + \\frac{1}{v^2}\\left(\\frac{\\partial\\psi}{\\partial t}\\right)^2\\right\\} = 0, \\tag{2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 350,
+      "bottomRightX": 313,
+      "bottomRightY": 369,
+      "content": "or, when integrated over space:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 235,
+      "topLeftY": 385,
+      "bottomRightX": 677,
+      "bottomRightY": 435,
+      "content": "$$\\int_{-\\infty}^{\\infty} \\frac{\\partial\\psi}{\\partial t} \\frac{\\partial\\psi}{\\partial t} d\\sigma - \\frac{\\partial}{\\partial t}\\int \\frac{1}{2}\\left\\{(\\text{grad}\\psi)^2 + \\frac{1}{v^2}\\left(\\frac{\\partial\\psi}{\\partial t}\\right)^2\\right\\} dS = 0, \\tag{3}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 456,
+      "bottomRightX": 677,
+      "bottomRightY": 509,
+      "content": "in which $dS = dx\\,dy\\,dz$, and $d\\sigma$ is the element of an infinitely-distant, closed surface with exterior normal $v$. For temporally periodic processes, it then follows from this that the temporal mean will be:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 329,
+      "topLeftY": 510,
+      "bottomRightX": 677,
+      "bottomRightY": 551,
+      "content": "$$\\overline{\\int_{-\\infty}^{\\infty} \\frac{\\partial\\psi}{\\partial t} \\frac{\\partial\\psi}{\\partial t} d\\sigma} = 0. \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 569,
+      "bottomRightX": 394,
+      "bottomRightY": 588,
+      "content": "For this case, the differential equation reads:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 327,
+      "topLeftY": 603,
+      "bottomRightX": 677,
+      "bottomRightY": 626,
+      "content": "$$\\Delta\\psi + (k^2 - V)\\psi = 0, \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 625,
+      "bottomRightX": 233,
+      "bottomRightY": 641,
+      "content": "where one has set:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 233,
+      "topLeftY": 643,
+      "bottomRightX": 677,
+      "bottomRightY": 683,
+      "content": "$$k^2 = \\frac{8\\pi^2\\mu}{h^2} W, \\quad V(x, y, z) = \\frac{8\\pi^2\\mu}{h^2} U(x, y, z). \\tag{6}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 702,
+      "bottomRightX": 572,
+      "bottomRightY": 721,
+      "content": "For the inertial motion (viz., $V = 0$), one has the differential equation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 327,
+      "topLeftY": 736,
+      "bottomRightX": 677,
+      "bottomRightY": 759,
+      "content": "$$\\Delta\\psi + k^2\\psi = 0 \\tag{7}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 758,
+      "bottomRightX": 222,
+      "bottomRightY": 774,
+      "content": "and the solution:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 329,
+      "topLeftY": 773,
+      "bottomRightX": 677,
+      "bottomRightY": 796,
+      "content": "$$\\psi = e^{i(kx)}; \\tag{8}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 817,
+      "bottomRightX": 534,
+      "bottomRightY": 837,
+      "content": "here, $x$ is the vector $x, y, z$, while the vector $k$ satisfies the equation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 856,
+      "bottomRightX": 677,
+      "bottomRightY": 881,
+      "content": "$$|k|^2 = k_x^2 + k_y^2 + k_z^2 = k^2, \\tag{9}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 901,
+      "bottomRightX": 344,
+      "bottomRightY": 921,
+      "content": "and it is equal to the impulse vector:",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

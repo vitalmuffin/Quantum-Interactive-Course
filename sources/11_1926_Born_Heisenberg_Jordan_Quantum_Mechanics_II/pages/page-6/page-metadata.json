@@ -1,0 +1,128 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 102,
+      "bottomRightX": 131,
+      "bottomRightY": 118,
+      "content": "562",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 102,
+      "bottomRightX": 456,
+      "bottomRightY": 118,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 139,
+      "bottomRightX": 580,
+      "bottomRightY": 236,
+      "content": "künstlich ist und daß die Operationen der linken Seite von (6) das naturgemäße Analogon zum Differentialquotienten der klassischen Theorie darstellen. Es ist für die Formulierung der kanonischen Gleichungen wichtig, festzustellen, daß für die Energiefunktion $H(pq)$ die beiden Arten (3) und (4) der Differentiation identisch werden¹).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 241,
+      "bottomRightX": 580,
+      "bottomRightY": 340,
+      "content": "IV. Das Rechnen mit den quantentheoretischen Größen würde wegen der Nichtgültigkeit des kommutativen Gesetzes der Multiplikation in gewissem Sinne unbestimmt bleiben, wenn nicht der Wert von $pq - qp$ vorgeschrieben würde²). Wir führen daher als fundamentale quantenmechanische Relation ein:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 267,
+      "topLeftY": 340,
+      "bottomRightX": 580,
+      "bottomRightY": 374,
+      "content": "$$pq - qp = \\frac{h}{2\\pi i} 1. \\quad (5)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 383,
+      "bottomRightX": 582,
+      "bottomRightY": 562,
+      "content": "Auf die korrespondenzmäßig-physikalische Bedeutung dieser Relation werden wir später zu sprechen kommen. An dieser Stelle scheint es uns wichtig, hervorzuheben, daß Gleichung (5), Kap. 1, die einzige unter den Grundgleichungen der hier versuchten Quantenmechanik ist, in welchen die Plancksche Konstante $h$ vorkommt. Es ist befriedigend, daß die Konstante $h$ an dieser Stelle schon in so einfacher Form in die Grundlagen der Theorie eingeht; außerdem erkennt man aus (5), Kap. 1, daß die neue Theorie im Limes $h = 0$ in die klassische übergehen dürfte, wie es physikalisch gefordert werden muß.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 581,
+      "bottomRightX": 582,
+      "bottomRightY": 613,
+      "content": "¹) In der Tat wurden ja für die Energiefunktion $H$ in Teil I nicht irgendwelche Funktionen etwa der Form",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 277,
+      "topLeftY": 617,
+      "bottomRightX": 399,
+      "bottomRightY": 638,
+      "content": "$$H^* = \\sum a_{sr} p^s q^r$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 643,
+      "bottomRightX": 582,
+      "bottomRightY": 674,
+      "content": "zugelassen, sondern durch symmetrisierte Funktionen ersetzt, die zu denselben Hamiltonschen Gleichungen Anlaß gaben:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 680,
+      "bottomRightX": 450,
+      "bottomRightY": 720,
+      "content": "$$H = \\sum a_{sr} \\frac{1}{s+1} \\sum_{l=0}^s p^{s-l} q^r p^l.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 726,
+      "bottomRightX": 583,
+      "bottomRightY": 755,
+      "content": "Für diese symmetrisierten Funktionen $H$ aber gilt nach den in Teil I abgeleiteten Formeln",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 758,
+      "bottomRightX": 576,
+      "bottomRightY": 884,
+      "content": "$$\\begin{aligned} \\frac{\\partial H}{\\partial p} &= \\sum a_{sr} \\frac{1}{s+1} \\left\\{ \\sum_{l=0}^{s-1} (s-l) p^{s-1-l} q^r p^l + \\sum_{l=1}^s l p^{s-l} q^r p^{l-1} \\right\\} \\\\ &= \\sum a_{sr} \\sum_{l=0}^{s-1} p^{s-1-l} q^r p^l = \\frac{\\partial H}{\\partial p}. \\\\ \\frac{\\partial H}{\\partial q} &= \\sum a_{sr} \\frac{r}{s+1} \\sum_{l=0}^s p^{s-l} q^{r-1} p^l = \\sum a_{sr} \\sum_{j=0}^{r-1} q^{r-1-j} p^s q^j = \\frac{\\partial H}{\\partial q}. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 885,
+      "bottomRightX": 583,
+      "bottomRightY": 917,
+      "content": "²) Die Bewegungsgleichungen lassen lediglich erkennen, daß diese Differenz eine Diagonalmatrix sein muß.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

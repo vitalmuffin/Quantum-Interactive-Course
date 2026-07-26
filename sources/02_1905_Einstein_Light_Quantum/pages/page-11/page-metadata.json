@@ -1,0 +1,164 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 80,
+      "topLeftY": 12,
+      "bottomRightX": 117,
+      "bottomRightY": 32,
+      "content": "142",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 310,
+      "topLeftY": 10,
+      "bottomRightX": 407,
+      "bottomRightY": 30,
+      "content": "A. Einstein.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 51,
+      "bottomRightX": 639,
+      "bottomRightY": 197,
+      "content": "Wir fragen: Wie groß ist die Wahrscheinlichkeit des letzterwähnten Zustandes relativ zum ursprünglichen? Oder: Wie groß ist die Wahrscheinlichkeit dafür, daß sich in einem zufällig herausgegriffenen Zeitmoment alle $n$ in einem gegebenen Volumen $v_0$ unabhängig voneinander beweglichen Punkte (zufällig) in dem Volumen $v$ befinden?",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 195,
+      "bottomRightX": 639,
+      "bottomRightY": 245,
+      "content": "Für diese Wahrscheinlichkeit, welche eine „statistische Wahrscheinlichkeit“ ist, erhält man offenbar den Wert:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 307,
+      "topLeftY": 252,
+      "bottomRightX": 415,
+      "bottomRightY": 294,
+      "content": "$$W = \\left( \\frac{v}{v_0} \\right)^n;$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 302,
+      "bottomRightX": 639,
+      "bottomRightY": 351,
+      "content": "man erhält hieraus durch Anwendung des Boltzmannschen Prinzipes:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 347,
+      "bottomRightX": 477,
+      "bottomRightY": 389,
+      "content": "$$S - S_0 = R \\left( \\frac{n}{N} \\right) \\lg \\left( \\frac{v}{v_0} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 404,
+      "bottomRightX": 642,
+      "bottomRightY": 549,
+      "content": "Es ist bemerkenswert, daß man zur Herleitung dieser Gleichung, aus welcher das Boyle-Gay-Lussacsche Gesetz und das gleichlautende Gesetz des osmotischen Druckes leicht thermodynamisch ableiten kann$^{1)}$; keine Voraussetzung über das Gesetz zu machen braucht, nachdem sich die Moleküle bewegen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 570,
+      "bottomRightX": 642,
+      "bottomRightY": 629,
+      "content": "§ 6. Interpretation des Ausdruckes für die Abhängigkeit der Entropie der monochromatischen Strahlung vom Volumen nach dem Boltzmannschen Prinzip.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 640,
+      "bottomRightX": 642,
+      "bottomRightY": 712,
+      "content": "Wir haben in § 4 für die Abhängigkeit der Entropie der monochromatischen Strahlung vom Volumen den Ausdruck gefunden:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 710,
+      "bottomRightX": 460,
+      "bottomRightY": 752,
+      "content": "$$S - S_0 = \\frac{E}{\\beta \\nu} \\lg \\left( \\frac{v}{v_0} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 756,
+      "bottomRightX": 475,
+      "bottomRightY": 780,
+      "content": "Schreibt man diese Formel in der Gestalt:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 788,
+      "bottomRightX": 487,
+      "bottomRightY": 850,
+      "content": "$$S - S_0 = \\frac{R}{N} \\lg \\left[ \\left( \\frac{v}{v_0} \\right)^{\\frac{N}{R} \\frac{E}{\\beta \\nu}} \\right]$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 870,
+      "bottomRightX": 510,
+      "bottomRightY": 892,
+      "content": "1) Ist $E$ die Energie des Systems, so erhält man:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 897,
+      "bottomRightX": 532,
+      "bottomRightY": 934,
+      "content": "$$-d(E - TS) = p \\, dv = T \\, dS = R \\frac{n}{N} \\frac{dv}{v};$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 937,
+      "bottomRightX": 117,
+      "bottomRightY": 955,
+      "content": "also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 309,
+      "topLeftY": 955,
+      "bottomRightX": 424,
+      "bottomRightY": 989,
+      "content": "$$p \\, v = R \\frac{n}{N} T.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

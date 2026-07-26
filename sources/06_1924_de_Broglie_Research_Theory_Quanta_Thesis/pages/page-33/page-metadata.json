@@ -1,0 +1,110 @@
+{
+  "index": 32,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 124,
+      "topLeftY": 35,
+      "bottomRightX": 463,
+      "bottomRightY": 58,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 525,
+      "topLeftY": 37,
+      "bottomRightX": 549,
+      "bottomRightY": 57,
+      "content": "53",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 75,
+      "bottomRightX": 548,
+      "bottomRightY": 128,
+      "content": "C'est la manière la plus condensée de passer de l'un des énoncés d'action stationnaire à l'autre.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 159,
+      "bottomRightX": 515,
+      "bottomRightY": 188,
+      "content": "#### IV. — PROPAGATION DES ONDES; PRINCIPE DE FERMAT",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 32,
+      "topLeftY": 216,
+      "bottomRightX": 547,
+      "bottomRightY": 347,
+      "content": "Nous allons étudier la propagation de la phase d'un phénomène sinusoïdal par une méthode parallèle à celle des deux derniers paragraphes. Pour cela, nous nous placerons à un point de vue très général et de nouveau, nous aurons à envisager l'espace-temps.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 33,
+      "topLeftY": 342,
+      "bottomRightX": 545,
+      "bottomRightY": 447,
+      "content": "Considérons la fonction $\\sin \\varphi$ dans laquelle la différentielle de $\\varphi$ est supposée dépendre des variables $x^i$ d'espace et de temps. Il existe dans l'espace-temps une infinité de lignes d'Univers le long desquelles la fonction $\\varphi$ est constante.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 32,
+      "topLeftY": 444,
+      "bottomRightX": 544,
+      "bottomRightY": 577,
+      "content": "La théorie des ondulations telle qu'elle résulte notamment des travaux d'Huyghens et de Fresnel, nous apprend à distinguer parmi ces lignes certaines d'entre elles dont les projections sur l'espace d'un observateur sont pour lui les « rayons » au sens usuel de l'optique.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 574,
+      "bottomRightX": 543,
+      "bottomRightY": 655,
+      "content": "Soient comme précédemment $P$ et $Q$ deux points de l'espace-temps. S'il passe un rayon d'Univers par ces deux points, quelle sera la loi qui en déterminera la forme ?",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 30,
+      "topLeftY": 654,
+      "bottomRightX": 541,
+      "bottomRightY": 749,
+      "content": "Nous considérerons l'intégrale curviligne $\\int_P^Q d\\varphi$ et nous prendrons comme principe déterminant le rayon d'Univers l'énoncé de forme Hamiltonienne :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 769,
+      "bottomRightX": 347,
+      "bottomRightY": 810,
+      "content": "$$\\partial \\int_P^Q d\\varphi = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 25,
+      "topLeftY": 829,
+      "bottomRightX": 539,
+      "bottomRightY": 961,
+      "content": "L'intégrale doit, en effet, être stationnaire, sans quoi, des perturbations ayant quitté en concordance de phase un certain point de l'espace et se croisant en un autre point après avoir suivi des chemins légèrement différents, y présenteraient des phases différentes.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

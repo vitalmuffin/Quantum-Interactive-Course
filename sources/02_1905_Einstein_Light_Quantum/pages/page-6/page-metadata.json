@@ -1,0 +1,146 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 176,
+      "topLeftY": 14,
+      "bottomRightX": 537,
+      "bottomRightY": 41,
+      "content": "Erzeugung und Verwandlung des Lichtes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 603,
+      "topLeftY": 18,
+      "bottomRightX": 639,
+      "bottomRightY": 38,
+      "content": "137",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 54,
+      "bottomRightX": 641,
+      "bottomRightY": 152,
+      "content": "Man erkennt, daß diese Formel mit der in § 1 aus der Maxwellschen und der Elektronentheorie entwickelten übereinstimmt. Durch Gleichsetzung der Koeffizienten beider Formeln erhält man:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 302,
+      "topLeftY": 150,
+      "bottomRightX": 410,
+      "bottomRightY": 192,
+      "content": "$$\\frac{R}{N} \\frac{8\\pi}{L^3} = \\frac{\\alpha}{\\beta}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 182,
+      "bottomRightX": 117,
+      "bottomRightY": 203,
+      "content": "oder",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 200,
+      "bottomRightX": 480,
+      "bottomRightY": 239,
+      "content": "$$N = \\frac{\\beta}{\\alpha} \\frac{8\\pi R}{L^3} = 6,17 \\cdot 10^{23},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 244,
+      "bottomRightX": 640,
+      "bottomRightY": 343,
+      "content": "d. h. ein Atom Wasserstoff wiegt $1/N$ Gramm = $1,62 \\cdot 10^{-24}$ g. Dies ist genau der von Hrn. Planck gefundene Wert, welcher mit den auf anderen Wegen gefundenen Werten für diese Größe befriedigend übereinstimmt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 340,
+      "bottomRightX": 639,
+      "bottomRightY": 465,
+      "content": "Wir gelangen daher zu dem Schlusse: Je größer die Energiedichte und die Wellenlänge einer Strahlung ist, als um so brauchbarer erweisen sich die von uns benutzten theoretischen Grundlagen; für kleine Wellenlängen und kleine Strahlungsdichten aber versagen dieselben vollständig.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 461,
+      "bottomRightX": 638,
+      "bottomRightY": 536,
+      "content": "Im folgenden soll die „schwarze Strahlung“ im Anschluß an die Erfahrung ohne Zugrundelegung eines Bildes über die Erzeugung und Ausbreitung der Strahlung betrachtet werden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 551,
+      "bottomRightX": 526,
+      "bottomRightY": 575,
+      "content": "### § 3. Über die Entropie der Strahlung.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 576,
+      "bottomRightX": 638,
+      "bottomRightY": 651,
+      "content": "Die folgende Betrachtung ist in einer berühmten Arbeit des Hrn. W. Wien enthalten und soll hier nur der Vollständigkeit halber Platz finden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 648,
+      "bottomRightX": 637,
+      "bottomRightY": 821,
+      "content": "Es liege eine Strahlung vor, welche das Volumen $v$ einnehme. Wir nehmen an, daß die wahrnehmbaren Eigenschaften der vorliegenden Strahlung vollkommen bestimmt seien, wenn die Strahlungsdichte $\\varrho(v)$ für alle Frequenzen gegeben ist.¹⁾ Da Strahlungen von verschiedenen Frequenzen als ohne Arbeitsleistung und ohne Wärmezufuhr voneinander trennbar anzusehen sind, so ist die Entropie der Strahlung in der Form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 268,
+      "topLeftY": 826,
+      "bottomRightX": 431,
+      "bottomRightY": 890,
+      "content": "$$S = v \\int_0^\\infty \\varphi(\\varrho, v) \\, dv$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 892,
+      "bottomRightX": 633,
+      "bottomRightY": 920,
+      "content": "darstellbar, wobei $\\varphi$ eine Funktion der Variabeln $\\varrho$ und $v$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 933,
+      "bottomRightX": 633,
+      "bottomRightY": 999,
+      "content": "¹⁾ Diese Annahme ist eine willkürliche. Man wird naturgemäß an dieser einfachsten Annahme so lange festhalten, als nicht das Experiment dazu zwingt, sie zu verlassen.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

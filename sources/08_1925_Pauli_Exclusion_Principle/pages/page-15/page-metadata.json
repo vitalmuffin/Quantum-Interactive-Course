@@ -1,0 +1,65 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 112,
+      "topLeftY": 87,
+      "bottomRightX": 580,
+      "bottomRightY": 104,
+      "content": "Über den Zusammenhang des Abschlusses der Elektronengruppen usw. 779",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 125,
+      "bottomRightX": 580,
+      "bottomRightY": 163,
+      "content": "zahlen gilt, während wir über die Größe ihrer Energiewerte und die Intervallverhältnisse nichts aussagen können¹).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 164,
+      "bottomRightX": 581,
+      "bottomRightY": 484,
+      "content": "Wir wollen nun noch als Anwendung unserer Regel auf spezielle Fälle die allmähliche Ausbildung der Achterschale (wo keine Elektronen mit $k > 2$ von der betrachteten Hauptquantenzahl im Normalzustand vorhanden sind) genauer diskutieren, was uns zugleich ein weiteres Beispiel des eben abgeleiteten Reziprozitätssatzes liefern wird. Die Bindung der ersten beiden Elektronen dieser Schale wurde bereits besprochen und wir werden im folgenden der Einfachheit halber voraussetzen, daß aus der Untergruppe mit $k_1 = 1$ keines der beiden Elektronen entfernt wird, diese also abgeschlossen ist (vgl. das obenstehende Stonerische Schema). Es muß dann nach Stoner bei den folgenden Elementen bis zum Abschluß der Achterschale (z. B. von B bis Ne) dem Normalzustand stets ein $p$-Term entsprechen, was mit den bisherigen Erfahrungen im Einklang ist. Insbesondere folgt das alkaliähnliche Dublettspektrum, das der Bindung des dritten Elektrons der Achterschale entspricht, mit dem bekannten Wegfallen des $s$-Terms von derselben Hauptquantenzahl wie der Normalzustand.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 486,
+      "bottomRightX": 581,
+      "bottomRightY": 705,
+      "content": "Wir können daher gleich zur Bindung des vierten Elektrons der Achterschale übergehen, wie sie z. B. in dem noch nicht analysierten Bogenspektren des Kohlenstoffs und in dem teilweise bereits entwirrten Bogenspektrum des Bleis in Erscheinung tritt. Gemäß der Landé-Heisenbergschen Verzweigungsregel (vgl. den vorigen Paragraphen) sollte das zugehörige Spektrum im allgemeinen von derselben Struktur sein wie das Neonspektrum, nämlich aus einer Singulett-Triplettgruppe und einer Triplett-Quintettgruppe mit verschiedenen Seriengrenzen bestehen, die dem $2p_1$ und dem $2p_2$-Dubletterm des betreffenden Ions entsprechen²). Wir wollen jedoch zeigen, daß nach unserer Regel diese Spektren im Gegensatz zu der zu erwartenden analogen Struktur ihrer angeregten Zustände sich",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 725,
+      "bottomRightX": 581,
+      "bottomRightY": 787,
+      "content": "¹) Dagegen folgt aus der Gleichheit der Mannigfaltigkeit der $m_2$-Werte bei konjugierten Anordnungen, daß auch in schwachen Feldern die (über Terme mit gleichem $j$ zu erstreckenden) „$g$-Summen“ der zugehörigen Terme einander gleich sind.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 786,
+      "bottomRightX": 581,
+      "bottomRightY": 907,
+      "content": "²) Diese theoretische Erwartung konnte bisher infolge der mangelhaften Entwirrung der betreffenden Spektren empirisch noch nicht endgültig geprüft werden. Neuerdings fand A. Fowler (Proc. Roy. Soc. 107, 31, 1925) im Stickstofffunkenspektrum ($N^+$) neben gestrichenen Termen (über deren Auftreten theoretisch noch nichts ausgesagt werden kann) Singulett- und Tripletterme. Ferner fand Kiess (Science 60, 249, 1924) in diesem Spektrum auch Quintetterme. Diese Ergebnisse, die sich auf angeregte Zustände des $N^+$ beziehen, widersprechen der theoretischen Erwartung zum mindesten nicht.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

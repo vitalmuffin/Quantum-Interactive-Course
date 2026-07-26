@@ -1,0 +1,56 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 166,
+      "topLeftY": 30,
+      "bottomRightX": 505,
+      "bottomRightY": 56,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 567,
+      "topLeftY": 38,
+      "bottomRightX": 590,
+      "bottomRightY": 59,
+      "content": "27",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 69,
+      "bottomRightX": 591,
+      "bottomRightY": 205,
+      "content": "maintes fois exposée dans ces dernières années par des voix plus autorisées que la nôtre. Nous supposerons donc connues dans cet exposé les conclusions essentielles de la théorie de Relativité, du moins sous sa forme restreinte, et nous y ferons appel chaque fois que besoin en sera.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 64,
+      "topLeftY": 195,
+      "bottomRightX": 589,
+      "bottomRightY": 890,
+      "content": "Nous allons, au contraire, indiquer rapidement le développement de la théorie des quanta. La notion de quanta fut introduite dans la science en 1900, par M. Max Planck. Ce savant étudiait alors théoriquement la question du rayonnement noir et, comme l'équilibre thermodynamique ne doit pas dépendre de la nature des émetteurs, il avait imaginé un émetteur très simple dit « le résonateur de Planck » constitué par un électron soumis à une liaison quasi-élastique et possédant ainsi une fréquence de vibration indépendante de son énergie. Si on applique aux échanges d'énergie entre de tels résonateurs et le rayonnement les lois classiques de l'électromagnétisme et de la Mécanique statistique, on retrouve la loi de Rayleigh dont nous avons signalé plus haut l'indéniable inexactitude. Pour éviter cette conclusion et trouver des résultats plus conformes aux faits expérimentaux, M. Planck admit un étrange postulat : « Les échanges d'énergie entre les résonateurs (ou la matière) et le rayonnement n'ont lieu que par quantités finies égales à $h$ fois la fréquence, $h$ étant une nouvelle constante universelle de la physique ». A chaque fréquence, correspond donc une sorte d'atome d'énergie, un *quantum* d'énergie. Les données de l'observation fournirent à M. Planck les bases nécessaires pour le calcul de la constante $h$ et la valeur trouvée alors ($h = 6,545 \\times 10^{-27}$) n'a pour ainsi dire pas été modifiée par les innombrables déterminations postérieures faites par les méthodes les plus diverses. C'est là un des plus beaux exemples de la puissance de la Physique théorique.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 65,
+      "topLeftY": 880,
+      "bottomRightX": 577,
+      "bottomRightY": 966,
+      "content": "Rapidement, les quanta firent tache d'huile et ne tardèrent pas à imprégner toutes les parties de la Physique. Tandis que leur introduction écartait certaines difficultés relatives",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 534,
+      "bottomRightY": 62,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "12",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 365,
+      "topLeftY": 95,
+      "bottomRightX": 676,
+      "bottomRightY": 132,
+      "content": "$$\\mathfrak{p} = \\frac{h}{2\\pi}\\mathfrak{k}, \\tag{10}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 134,
+      "bottomRightX": 203,
+      "bottomRightY": 152,
+      "content": "up to a factor.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 155,
+      "bottomRightX": 677,
+      "bottomRightY": 249,
+      "content": "The de Broglie wave length will be given by $h / \\lambda = p = |\\mathfrak{p}| = \\frac{h}{2\\pi}k$. The solution (8) should be regarded as normalized in the sense of taking the mean [see (2), § 2]. We briefly denote a function of $x, y, t$ by $f(\\mathfrak{r})$, a function of $k_x, k_y, k_z$ by $f(\\mathfrak{k})$, etc. Let $dS = dx dy dz$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 250,
+      "bottomRightX": 360,
+      "bottomRightY": 268,
+      "content": "The most general solution of (7) is:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 285,
+      "bottomRightX": 676,
+      "bottomRightY": 313,
+      "content": "$$\\psi(\\mathfrak{r}) = u_0(\\mathfrak{r}) = \\int c(\\mathfrak{s})e^{ik(\\mathfrak{r}\\mathfrak{s})} d\\omega, \\quad d\\mathfrak{s} = c^*(\\mathfrak{s}), \\tag{11}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 334,
+      "bottomRightX": 677,
+      "bottomRightY": 399,
+      "content": "in which $\\mathfrak{s}$ is a unit vector and $d\\omega$ is the element of solid angle. It represents inertial motion in all possible directions with the same energy. From our basic principles, $|c(\\mathfrak{s})|^2$ is the number of particles that flow in the direction $\\mathfrak{s}$ per unit solid angle.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 402,
+      "bottomRightX": 677,
+      "bottomRightY": 494,
+      "content": "We now derive an asymptotic representation for $u_0$ that shows clearly how $u_0$ behaves at infinity. Although one can obtain the result very simply, here, we would like to obtain it by a general method that can be carried over to the cases that will be developed later on. We think of a new rectangular coordinate system $X, Y, Z$ that has been introduced with the help of the orthogonal transformation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 510,
+      "bottomRightX": 676,
+      "bottomRightY": 582,
+      "content": "$$\\left. \\begin{array}{ll} x = a_{11}X + a_{12}Y + a_{13}Z, & X = a_{11}x + a_{21}y + a_{31}z, \\\\ y = a_{21}X + a_{22}Y + a_{23}Z, & Y = a_{12}x + a_{22}y + a_{32}z, \\\\ z = a_{31}X + a_{32}Y + a_{33}Z, & Z = a_{13}x + a_{23}y + a_{33}z. \\end{array} \\right\\} \\tag{12}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 601,
+      "bottomRightX": 677,
+      "bottomRightY": 660,
+      "content": "At equal times, we introduce the new unit vector $\\mathfrak{S}$, in place of the unit vector $\\mathfrak{s}$, with the help of the same orthogonal transformation; the solid angle element $d\\omega$ then goes over into a new $d\\Omega$, and one will have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 680,
+      "bottomRightX": 676,
+      "bottomRightY": 698,
+      "content": "$$\\mathfrak{r}\\,\\mathfrak{s} = \\Re\\,\\mathfrak{S}. \\tag{13}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 720,
+      "bottomRightX": 515,
+      "bottomRightY": 739,
+      "content": "We now choose the new coordinate system especially such that:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 756,
+      "bottomRightX": 676,
+      "bottomRightY": 774,
+      "content": "$$X = 0, \\quad Y = 0; \\tag{14}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 775,
+      "bottomRightX": 236,
+      "bottomRightY": 791,
+      "content": "one will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 793,
+      "bottomRightX": 676,
+      "bottomRightY": 819,
+      "content": "$$Z = r = \\sqrt{x^2 + y^2 + z^2}. \\tag{15}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 820,
+      "bottomRightX": 242,
+      "bottomRightY": 838,
+      "content": "Our integral will be:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 258,
+      "topLeftY": 839,
+      "bottomRightX": 581,
+      "bottomRightY": 884,
+      "content": "$$\\begin{array}{l} u_0(x, y, z) = u_0(a_{13}Z, a_{23}Z, a_{33}Z) \\\\ = \\int d\\Omega c (a_{11}\\mathfrak{S}_x + a_{12}\\mathfrak{S}_y + a_{13}\\mathfrak{S}_z, \\cdots) e^{ikZ\\mathfrak{S}_z}. \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 903,
+      "bottomRightX": 420,
+      "bottomRightY": 922,
+      "content": "Moreover, we introduce polar coordinates for $\\mathfrak{S}$:",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

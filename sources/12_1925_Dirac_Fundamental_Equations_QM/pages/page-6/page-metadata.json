@@ -1,0 +1,191 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 106,
+    "height": 1015,
+    "width": 668
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 83,
+      "topLeftY": 90,
+      "bottomRightX": 113,
+      "bottomRightY": 107,
+      "content": "646",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 89,
+      "bottomRightX": 393,
+      "bottomRightY": 107,
+      "content": "P. A. M. Dirac.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 125,
+      "bottomRightX": 587,
+      "bottomRightY": 205,
+      "content": "There is one coefficient $a(nm; n'm')$ for any four sets of integral values for the $n$'s, $m$'s, $n'$'s and $m'$'s. The second law imposes conditions on the $a$'s. Substitute for the differential coefficients in II their values according to (5) and equate the $(nm)$ components on either side. The result is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 216,
+      "bottomRightX": 584,
+      "bottomRightY": 261,
+      "content": "$$\\begin{aligned} \\Sigma_{nm'k} a(nm; n'm') x(n'k) y(km') &= \\Sigma_{kn'k'} a(nk; n'k') x(n'k') y(km) \\\\ &+ \\Sigma_{kk'm} x(nk) a(km; k'm') y(k'm'). \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 272,
+      "bottomRightX": 585,
+      "bottomRightY": 353,
+      "content": "This must be true for all values of the amplitudes of $x$ and $y$, so that we can equate the coefficients of $x(n'k) y(k'm')$ on either side. Using the symbol $\\delta_{mn}$ to have the value unity when $m=n$ (i.e., when each $m_r=n_r$) and zero when $m \\neq n$, we get",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 144,
+      "topLeftY": 359,
+      "bottomRightX": 519,
+      "bottomRightY": 378,
+      "content": "$$\\delta_{kk'} a(nm; n'm') = \\delta_{mm'} a(nk'; n'k) + \\delta_{nn'} a(km; k'm').$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 385,
+      "bottomRightX": 585,
+      "bottomRightY": 423,
+      "content": "To proceed further, we have to consider separately the various cases of equality and inequality between the $kk'$, $mm'$ and $nn'$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 426,
+      "bottomRightX": 513,
+      "bottomRightY": 444,
+      "content": "Take first the case when $k=k'$, $m \\neq m'$, $n \\neq n'$. This gives",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 267,
+      "topLeftY": 456,
+      "bottomRightX": 396,
+      "bottomRightY": 473,
+      "content": "$$a(nm; n'm') = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 485,
+      "bottomRightX": 585,
+      "bottomRightY": 566,
+      "content": "Hence all the $a(nm; n'm')$ vanish except those for which either $n=n'$ or $m=m'$ (or both). The cases $k \\neq k'$, $m=m'$, $n \\neq n'$ and $k \\neq k'$, $m \\neq m'$, $n=n'$ do not give us anything new. Now take the case $k=k'$, $m=m'$, $n \\neq n'$. This gives",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 565,
+      "bottomRightX": 427,
+      "bottomRightY": 581,
+      "content": "$$a(nm; n'm) = a(nk; n'k).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 593,
+      "bottomRightX": 587,
+      "bottomRightY": 653,
+      "content": "Hence $a(nm; n'm)$ is independent of $m$ provided $n \\neq n'$. Similarly, the case $k=k'$, $m \\neq m'$, $n=n'$ tells us that $a(nm; nm')$ is independent of $n$ provided $m \\neq m'$. The case $k \\neq k'$, $m=m'$, $n=n'$ now gives",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 223,
+      "topLeftY": 662,
+      "bottomRightX": 438,
+      "bottomRightY": 681,
+      "content": "$$a(nk'; nk) + a(km; k'm) = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 693,
+      "bottomRightX": 356,
+      "bottomRightY": 710,
+      "content": "We can sum up these results by putting",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 204,
+      "topLeftY": 720,
+      "bottomRightX": 585,
+      "bottomRightY": 739,
+      "content": "$$a(nk'; nk) = a(kk') = -a(km; k'm), \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 749,
+      "bottomRightX": 587,
+      "bottomRightY": 809,
+      "content": "provided $k \\neq k'$. The two-index symbol $a(kk')$ depends, of course, only on the two sets of integers $k$ and $k'$. The only remaining case is $k=k'$, $m=m'$, $n=n'$, which gives",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 205,
+      "topLeftY": 816,
+      "bottomRightX": 472,
+      "bottomRightY": 833,
+      "content": "$$a(nm; nm) = a(nk; nk) + a(km; km).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 840,
+      "bottomRightX": 242,
+      "bottomRightY": 859,
+      "content": "This means we can put",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 866,
+      "bottomRightX": 585,
+      "bottomRightY": 884,
+      "content": "$$a(nm; nm) = a(mm) - a(nn). \\quad (7)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 890,
+      "bottomRightX": 530,
+      "bottomRightY": 908,
+      "content": "Equation (7) completes equation (6) by defining $a(kk')$ when $k=k'$.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

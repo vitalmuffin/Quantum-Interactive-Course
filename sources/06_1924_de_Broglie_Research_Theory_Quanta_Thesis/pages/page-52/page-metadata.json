@@ -1,0 +1,164 @@
+{
+  "index": 51,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 41,
+      "topLeftY": 33,
+      "bottomRightX": 65,
+      "bottomRightY": 52,
+      "content": "72",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 233,
+      "topLeftY": 33,
+      "bottomRightX": 380,
+      "bottomRightY": 49,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 73,
+      "bottomRightX": 566,
+      "bottomRightY": 124,
+      "content": "lié au centre de gravité seront $x^4 x^2$ et $x^3$, celles du système liées au noyau seront $y^4 y^2$ et $y^3$. Enfin on aura $x^4 = y^4 = ct$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 125,
+      "bottomRightX": 566,
+      "bottomRightY": 174,
+      "content": "Appelons $\\omega$ la vitesse de rotation de la droite NE autour du point G.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 177,
+      "bottomRightX": 264,
+      "bottomRightY": 200,
+      "content": "Posons par définition :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 210,
+      "bottomRightX": 361,
+      "bottomRightY": 254,
+      "content": "$$\\eta = \\frac{M_0}{m_0 + M_0}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 269,
+      "bottomRightX": 566,
+      "bottomRightY": 316,
+      "content": "Les formules permettant de passer d'un des systèmes d'axes à l'autre sont les suivantes :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 333,
+      "bottomRightX": 563,
+      "bottomRightY": 356,
+      "content": "$$y^1 = x^1 + R \\cos \\omega t \\quad y^2 = x^2 + R \\sin \\omega t \\quad y^3 = x^3 \\quad y^4 = x^4.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 370,
+      "bottomRightX": 189,
+      "bottomRightY": 392,
+      "content": "On en déduit :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 408,
+      "bottomRightX": 566,
+      "bottomRightY": 514,
+      "content": "$$ds = (dx^1)^2 - (dx^1)^2 - (dx^2)^2 - (dx^2)^2$$\n$$= \\left(1 - \\frac{\\omega^2 R^2}{c^2}\\right) (dy^1)^2 - (dy^1)^2 - (dy^2)^2 - (dy^3)^2 - 2 \\frac{\\omega R}{c} \\sin \\omega t dy^1 dy^4$$\n$$+ 2 \\frac{\\omega R}{c} \\cos \\omega t dy^2 dy^4.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 533,
+      "bottomRightX": 566,
+      "bottomRightY": 583,
+      "content": "Les composantes du vecteur Impulsion d'univers sont définies par les relations :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 595,
+      "bottomRightX": 498,
+      "bottomRightY": 635,
+      "content": "$$u^i = \\frac{dy^i}{ds} \\quad p_i = m_0 c u_i + e \\gamma_i = m_0 c g_i j u j + e \\gamma_i.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 654,
+      "bottomRightX": 256,
+      "bottomRightY": 675,
+      "content": "On trouve facilement :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 693,
+      "bottomRightX": 490,
+      "bottomRightY": 790,
+      "content": "$$p_1 = \\frac{m_0}{\\sqrt{1 - \\eta^2 \\beta^2}} \\left[ \\frac{dy^1}{dt} + \\omega R \\sin \\omega t \\right]$$\n$$p_2 = \\frac{m_0}{\\sqrt{1 - \\eta^2 \\beta^2}} \\left[ \\frac{dy^2}{dt} - \\omega R \\cos \\omega t \\right] \\quad p_3 = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 807,
+      "bottomRightX": 566,
+      "bottomRightY": 856,
+      "content": "La résonance de l'onde de phase s'exprime d'après les idées générales du chapitre II par la relation :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 872,
+      "bottomRightX": 474,
+      "bottomRightY": 914,
+      "content": "$$\\left| \\oint \\frac{1}{h} (p_1 dy^1 + p_2 dy^2) \\right| = n \\quad (n \\text{ entier})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 929,
+      "bottomRightX": 564,
+      "bottomRightY": 980,
+      "content": "l'intégrale étant étendue à la trajectoire circulaire de rayon $R + r$ décrite par l'électron autour du noyau.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

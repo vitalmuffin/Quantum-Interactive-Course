@@ -1,0 +1,92 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 638
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 37,
+      "topLeftY": 31,
+      "bottomRightX": 61,
+      "bottomRightY": 53,
+      "content": "32",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 32,
+      "bottomRightX": 367,
+      "bottomRightY": 51,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 71,
+      "bottomRightX": 548,
+      "bottomRightY": 176,
+      "content": "des raisons exposées plus loin. Puisqu'il y a toujours proportionnalité contre la masse et l'énergie, on doit considérer matière et énergie comme deux termes synonymes désignant la même réalité physique.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 173,
+      "bottomRightX": 549,
+      "bottomRightY": 354,
+      "content": "La théorie atomique d'abord, la théorie électronique ensuite nous ont appris à considérer la matière comme essentiellement discontinue et cela nous conduit à admettre que toutes les formes de l'énergie, contrairement aux idées anciennes sur la lumière, sont sinon entièrement concentrées en de petites portions de l'espace, tout au moins condensées autour de certains points singuliers.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 351,
+      "bottomRightX": 551,
+      "bottomRightY": 706,
+      "content": "Le principe de l'inertie de l'énergie attribue à un corps dont la masse propre (c'est-à-dire mesurée par un observateur qui lui est lié) est $m_0$ une énergie propre $m_0c^2$. Si le corps est en mouvement uniforme avec une vitesse $v = \\beta c$ par rapport à un observateur que nous nommerons pour simplifier l'observateur fixe, sa masse aura pour celui-ci la valeur $\\frac{m_0}{\\sqrt{1 - \\beta^2}}$ conformément à un résultat bien connu de la Dynamique Relativiste et, par suite, son énergie sera $\\frac{m_0c^2}{\\sqrt{1 - \\beta^2}}$. Comme l'énergie cinétique peut être définie l'augmentation qu'éprouve l'énergie d'un corps pour l'observateur fixe quand il passe du repos à la vitesse $v = \\beta c$, on trouve pour sa valeur l'expression suivante :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 716,
+      "bottomRightX": 491,
+      "bottomRightY": 765,
+      "content": "$$E_{\\text{cin}} = \\frac{m_0c^2}{\\sqrt{1 - \\beta^2}} - m_0c^2 = m_0c^2 \\left( \\frac{1}{\\sqrt{1 - \\beta^2}} - 1 \\right)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 774,
+      "bottomRightX": 553,
+      "bottomRightY": 829,
+      "content": "qui naturellement pour les faibles valeurs de $\\beta$ conduit à la forme classique :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 833,
+      "bottomRightX": 347,
+      "bottomRightY": 866,
+      "content": "$$E_{\\text{cin}} = \\frac{1}{2} m_0v^2$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 882,
+      "bottomRightX": 554,
+      "bottomRightY": 960,
+      "content": "Ceci rappelé, cherchons sous quelle forme nous pouvons faire intervenir les quanta dans la dynamique de la Relativité. Il nous semble que l'idée fondamentale de la théorie",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

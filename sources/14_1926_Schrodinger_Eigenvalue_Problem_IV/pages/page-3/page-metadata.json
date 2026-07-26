@@ -1,0 +1,92 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 177,
+      "topLeftY": 40,
+      "bottomRightX": 439,
+      "bottomRightY": 61,
+      "content": "Quantisierung als Eigenwertproblem",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 522,
+      "topLeftY": 40,
+      "bottomRightX": 553,
+      "bottomRightY": 59,
+      "content": "111",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 76,
+      "bottomRightX": 554,
+      "bottomRightY": 159,
+      "content": "jedes $\\psi$, das sich durch eine Fourierreihe nach der Zeit entwickeln läßt (natürlich mit Koordinatenfunktionen als Koeffizienten). Gleichung (4) ist daher offenbar die *einheitliche und allgemeine Wellengleichung für den Feldskalar* $\\psi$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 162,
+      "bottomRightX": 554,
+      "bottomRightY": 370,
+      "content": "Sie ist, wie man sieht, nicht mehr von dem ganz einfachen Typus der schwingenden Membran, vielmehr in den Koordinaten von der *vierten* Ordnung und von sehr ähnlichem Typus, wie er bei vielen Problemen der Elastizitätstheorie vorkommt.¹⁾ Man braucht davon jedoch keine übermäßige Komplikation der Theorie zu befürchten oder gar die Notwendigkeit einer Revision der bisher angegebenen, an Gleichung (1') anknüpfenden Methoden. Enthält $V$ die Zeit *nicht*, so kann man, von (4) ausgehend, den Ansatz (2) machen und darnach den Operator in (4) folgendermaßen aufspalten:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 374,
+      "bottomRightX": 530,
+      "bottomRightY": 409,
+      "content": "$$(4') \\left( \\Delta - \\frac{8\\pi^2}{h^2} V + \\frac{8\\pi^2}{h^2} E \\right) \\left( \\Delta - \\frac{8\\pi^2}{h^2} V - \\frac{8\\pi^2}{h^2} E \\right) \\dot{\\psi} = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 416,
+      "bottomRightX": 555,
+      "bottomRightY": 767,
+      "content": "Diese Gleichung kann man *versuchsweise* aufspalten in zwei durch „entweder — oder“ verbundene Gleichungen, nämlich in Gleichung (1') und eine andere, die sich von (1') nur dadurch unterscheidet, daß in ihr der Eigenwertparameter minus $E$ *heißt*, statt plus $E$, was nach (2) nicht zu neuen Lösungen führt. Die Aufspaltung von (4') ist nicht zwangsläufig, weil für Operatoren nicht der Satz gilt, daß „ein Produkt nur verschwinden kann, wenn mindestens *ein* Faktor verschwindet“. Dieser Mangel an Zwangsläufigkeit haftet ja aber den Methoden zur Lösung partieller Differentialgleichungen auf Schritt und Tritt an. Seine nachträgliche Rechtfertigung findet das Verfahren durch den Nachweis der *Vollständigkeit* der aufgefundenen Eigenfunktionen als Funktionen der Koordinaten. Sie gestattet, in Verbindung mit der Tatsache, daß nicht nur der Realteil, sondern auch der Imaginärteil von (2) der Gleichung (4) genügt, beliebige Anfangsbedingungen für $\\psi$ und $\\partial \\psi / \\partial t$ zu erfüllen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 770,
+      "bottomRightX": 555,
+      "bottomRightY": 812,
+      "content": "Wir sehen also, daß die Wellengleichung (4), welche das Dispersionsgesetz schon in sich trägt, wirklich als Grundlage",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 826,
+      "bottomRightX": 554,
+      "bottomRightY": 880,
+      "content": "¹⁾ Z. B. bei der schwingenden Platte: $\\Delta \\Delta u + \\frac{\\partial^2 u}{\\partial t^2} = 0$. Vgl. Courant-Hilbert, Kap. V. § 8. S. 256.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 448,
+      "topLeftY": 879,
+      "bottomRightX": 468,
+      "bottomRightY": 894,
+      "content": "8\\*",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

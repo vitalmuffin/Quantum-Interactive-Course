@@ -1,0 +1,164 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 278,
+      "topLeftY": 102,
+      "bottomRightX": 410,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 555,
+      "topLeftY": 102,
+      "bottomRightX": 585,
+      "bottomRightY": 117,
+      "content": "873",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 139,
+      "bottomRightX": 586,
+      "bottomRightY": 217,
+      "content": "Funktionen dieselben Bewegungsgleichungen liefern und daß $H$ für diese Bewegungsgleichungen die Rolle der zeitlich konstanten, die Frequenzbedingung erfüllenden Energie übernimmt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 220,
+      "bottomRightX": 586,
+      "bottomRightY": 258,
+      "content": "Nach den oben durchgeführten Überlegungen genügt es, zu zeigen, daß die anzugebende Funktion $H$ außer",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 260,
+      "bottomRightX": 586,
+      "bottomRightY": 301,
+      "content": "$$\\frac{\\partial H}{\\partial p} = \\frac{\\partial H^*}{\\partial p}, \\quad \\frac{\\partial H}{\\partial q} = \\frac{\\partial H^*}{\\partial q} \\quad (45)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 305,
+      "bottomRightX": 587,
+      "bottomRightY": 403,
+      "content": "noch die Gleichungen (40) befriedigt. Nach § 1 ist $H^*$ formal als Summe von Potenzprodukten in $p$ und $q$ darzustellen, und wegen der Linearität der Gleichungen (40), (45) in $H$, $H^*$ werden wir einfach für jeden einzelnen Summanden in $H^*$ den entsprechenden Summanden in $H$ anzugeben haben. Wir brauchen also nur den Fall",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 281,
+      "topLeftY": 406,
+      "bottomRightX": 586,
+      "bottomRightY": 452,
+      "content": "$$H^* = \\prod_{j=1}^k (p^{r_j} q^{r_j}) \\quad (46)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 456,
+      "bottomRightX": 587,
+      "bottomRightY": 596,
+      "content": "zu betrachten. Nach den Bemerkungen von § 2 sind die Gleichungen (45) zu erfüllen, indem $H$ als Linearform derjenigen Potenzprodukte in $p, q$ angesetzt wird, welche aus $H^*$ durch zyklische Vertauschungen der Faktoren entstehen; dabei muß nur die Summe der Koeffizienten gleich 1 gehalten werden. Weniger leicht beantwortet sich die Frage, wie diese Koeffizienten zu wählen sind, damit auch die Gleichungen (40) erfüllt werden. Es möge genügen, hier den Fall $k = 1$, also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 303,
+      "topLeftY": 601,
+      "bottomRightX": 587,
+      "bottomRightY": 620,
+      "content": "$$H^* = p^r q^r \\quad (47)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 616,
+      "bottomRightX": 192,
+      "bottomRightY": 632,
+      "content": "zu erledigen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 634,
+      "bottomRightX": 481,
+      "bottomRightY": 654,
+      "content": "Die Formel (39) kann verallgemeinert werden zu ¹)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 657,
+      "bottomRightX": 587,
+      "bottomRightY": 705,
+      "content": "$$p^m q^n - q^n p^m = m \\frac{h}{2\\pi i} \\sum_{l=0}^{n-1} q^{n-1-l} p^{m-l} q^l. \\quad (48)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 709,
+      "bottomRightX": 587,
+      "bottomRightY": 747,
+      "content": "Für $n = 1$ ist das wieder (39); allgemein folgt (48) daraus, daß wegen (39)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 145,
+      "topLeftY": 744,
+      "bottomRightX": 545,
+      "bottomRightY": 779,
+      "content": "$$p^m q^{n+1} - q^{n+1} p^m = (p^m q^n - q^n p^m) q + m \\frac{h}{2\\pi i} q^n p^{m+1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 788,
+      "bottomRightX": 537,
+      "bottomRightY": 805,
+      "content": "¹) Eine andere Verallgemeinerung wird gegeben durch die Formeln",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 807,
+      "bottomRightX": 483,
+      "bottomRightY": 904,
+      "content": "$$\\begin{aligned} p^m q^n &= \\sum_{j=0}^{m,n} j! \\binom{m}{j} \\binom{n}{j} \\left(\\frac{h}{2\\pi i}\\right)^j q^{n-j} p^{m-j}, \\\\ q^n p^m &= \\sum_{j=0}^{m,n} j! \\binom{m}{j} \\binom{n}{j} \\left(\\frac{-h}{2\\pi i}\\right)^j p^{m-j} q^{n-j}, \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 905,
+      "bottomRightX": 410,
+      "bottomRightY": 922,
+      "content": "worin $j$ bis zur kleineren der Zahlen $m, n$ wächst.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

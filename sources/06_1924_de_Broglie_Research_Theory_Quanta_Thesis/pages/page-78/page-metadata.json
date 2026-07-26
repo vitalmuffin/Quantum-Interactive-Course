@@ -1,0 +1,92 @@
+{
+  "index": 77,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 80,
+      "topLeftY": 25,
+      "bottomRightX": 104,
+      "bottomRightY": 49,
+      "content": "98",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 28,
+      "bottomRightX": 419,
+      "bottomRightY": 46,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 71,
+      "bottomRightX": 603,
+      "bottomRightY": 165,
+      "content": "Désignons par $\\alpha$ le rapport $\\frac{h\\nu_0}{m_0c^2}$ égal au quotient de $\\nu_0$ par ce que nous nommons la fréquence propre de l'électron. Il vient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 173,
+      "bottomRightX": 421,
+      "bottomRightY": 230,
+      "content": "$$\\nu_\\theta = \\frac{\\nu_0}{1 + 2\\alpha \\sin^2 \\frac{\\theta}{2}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 240,
+      "bottomRightX": 104,
+      "bottomRightY": 259,
+      "content": "ou",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 266,
+      "bottomRightX": 436,
+      "bottomRightY": 308,
+      "content": "$$\\lambda_\\theta = \\lambda_0 \\left( 1 + 2\\alpha \\sin^2 \\frac{\\theta}{2} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 323,
+      "bottomRightX": 605,
+      "bottomRightY": 488,
+      "content": "On peut aussi à l'aide de ces formules étudier la vitesse de projection et la direction de l'électron « reculant ». On trouve qu'aux directions de diffusion variant de $o$ à $\\pi$, correspondent pour l'électron des angles de recul variant de $\\frac{\\pi}{2}$ à $o$, la vitesse variant simultanément de $o$ à un certain maximum.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 492,
+      "bottomRightX": 608,
+      "bottomRightY": 667,
+      "content": "M. Compton faisant appel à des hypothèses inspirées par le principe de correspondance, a cru pouvoir calculer la valeur de l'énergie diffusée au total et expliquer ainsi la rapide diminution du coefficient $\\frac{s}{\\rho}$. M. Debye applique l'idée de correspondance sous une forme un peu différente, mais parvient aussi à interpréter ce même phénomène.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 669,
+      "bottomRightX": 608,
+      "bottomRightY": 979,
+      "content": "Dans un article de la *Physical Review*, de mai 1923, et dans un plus récent article du *Philosophical Magazine* (novembre 1923), M. A.-H. Compton a montré que les nouvelles idées ci-dessus exposées rendaient compte de beaucoup de faits expérimentaux et qu'en particulier pour les rayons durs et les corps légers, la variation de longueur d'onde prévue était quantitativement vérifiée. Pour les corps plus lourds et les radiations plus molles, il semble y avoir coexistence d'une raie diffusée sans changement de fréquence et d'une autre raie diffusée suivant la loi de Compton-Debye. Pour les basses fréquences la première devient prépondérante et même semble souvent seule exister. Des expériences",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

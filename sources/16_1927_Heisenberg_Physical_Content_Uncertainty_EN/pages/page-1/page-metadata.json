@@ -1,0 +1,56 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1018,
+    "width": 642
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 127,
+      "topLeftY": 87,
+      "bottomRightX": 553,
+      "bottomRightY": 130,
+      "content": "### 1.3 THE PHYSICAL CONTENT OF QUANTUM KINEMATICS AND MECHANICS",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 146,
+      "bottomRightX": 418,
+      "bottomRightY": 166,
+      "content": "WERNER HEISENBERG",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 121,
+      "topLeftY": 201,
+      "bottomRightX": 559,
+      "bottomRightY": 396,
+      "content": "First we define the terms velocity, energy, etc. (for example, for an electron) which remain valid in quantum mechanics. It is shown that canonically conjugate quantities can be determined simultaneously only with a characteristic indeterminacy (§1). This indeterminacy is the real basis for the occurrence of statistical relations in quantum mechanics. Its mathematical formulation is given by the Dirac-Jordan theory (§2). Starting from the basic principles thus obtained, we show how microscopic processes can be understood by way of quantum mechanics (§3). To illustrate the theory, a few special gedankenexperiments are discussed (§4).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 412,
+      "bottomRightX": 604,
+      "bottomRightY": 844,
+      "content": "We believe we understand the physical content of a theory when we can see its qualitative experimental consequences in all simple cases and when at the same time we have checked that the application of the theory never contains inner contradictions. For example, we believe that we understand the physical content of Einstein's concept of a closed 3-dimensional space because we can visualize consistently the experimental consequences of this concept. Of course these consequences contradict our everyday physical concepts of space and time. However, we can convince ourselves that the possibility of employing usual space-time concepts at cosmological distances can be justified neither by logic nor by observation. The physical interpretation of quantum mechanics is still full of internal discrepancies, which show themselves in arguments about continuity versus discontinuity and particle versus wave. Already from this circumstance one might conclude that no interpretation of quantum mechanics is possible which uses ordinary kinematical and mechanical concepts. Of course, quantum mechanics arose exactly out of the attempt to break with all ordinary kinematic concepts and to put in their place relations between concrete and experimentally determinable numbers. Moreover, as this enterprise seems to have succeeded, the mathematical scheme of quantum mechanics needs no revision. Equally unnecessary is a revision of space-time geometry at small distances, as we can make the quantum-mechanical laws approximate the classical ones arbitrarily closely by choosing sufficiently great masses, even when arbitrarily small distances and times come into question. But that a revision of kinematical and mechanical concepts is necessary",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 862,
+      "bottomRightX": 603,
+      "bottomRightY": 910,
+      "content": "Originally published under the title, \"Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik,\" Zeitschrift für Physik, 43, 172-98 (1927); reprinted in Dokumente der Naturwissenschaft, 4, 9-35 (1963); translation into English by J.A.W. and W.H.Z., 1981.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

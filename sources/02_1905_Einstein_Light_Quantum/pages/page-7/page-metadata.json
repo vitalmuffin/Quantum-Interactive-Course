@@ -1,0 +1,182 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 85,
+      "topLeftY": 3,
+      "bottomRightX": 120,
+      "bottomRightY": 22,
+      "content": "138",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 313,
+      "topLeftY": 3,
+      "bottomRightX": 411,
+      "bottomRightY": 22,
+      "content": "A. Einstein.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 44,
+      "bottomRightX": 642,
+      "bottomRightY": 211,
+      "content": "bedeutet. Es kann $\\varphi$ auf eine Funktion von nur einer Variabeln reduziert werden durch Formulierung der Aussage, daß durch adiabatische Kompression einer Strahlung zwischen spiegelnden Wänden, deren Entropie nicht geändert wird. Wir wollen jedoch hierauf nicht eintreten, sondern sogleich untersuchen, wie die Funktion $\\varphi$ aus dem Strahlungsgesetz des schwarzen Körpers ermittelt werden kann.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 212,
+      "bottomRightX": 642,
+      "bottomRightY": 283,
+      "content": "Bei der „schwarzen Strahlung“ ist $\\varrho$ eine solche Funktion von $\\nu$, daß die Entropie bei gegebener Energie ein Maximum ist, d. h. daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 284,
+      "bottomRightX": 451,
+      "bottomRightY": 346,
+      "content": "$$\\delta \\int_0^\\infty \\varphi(\\varrho, \\nu) \\, d\\nu = 0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 343,
+      "bottomRightX": 131,
+      "bottomRightY": 362,
+      "content": "wenn",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 361,
+      "bottomRightX": 451,
+      "bottomRightY": 422,
+      "content": "$$\\delta \\int_0^\\infty \\varrho \\, d\\nu = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 429,
+      "bottomRightX": 643,
+      "bottomRightY": 453,
+      "content": "Hieraus folgt, daß für jede Wahl des $\\delta \\varrho$ als Funktion von $\\nu$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 462,
+      "bottomRightX": 480,
+      "bottomRightY": 535,
+      "content": "$$\\int_0^\\infty \\left( \\frac{\\partial \\varphi}{\\partial \\varrho} - \\lambda \\right) \\delta \\varrho \\, d\\nu = 0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 542,
+      "bottomRightX": 642,
+      "bottomRightY": 591,
+      "content": "wobei $\\lambda$ von $\\nu$ unabhängig ist. Bei der schwarzen Strahlung ist also $\\partial \\varphi / \\partial \\varrho$ von $\\nu$ unabhängig.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 590,
+      "bottomRightX": 643,
+      "bottomRightY": 638,
+      "content": "Für die Temperaturzunahme einer schwarzen Strahlung vom Volumen $v = 1$ um $dT$ gilt die Gleichung:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 646,
+      "bottomRightX": 453,
+      "bottomRightY": 722,
+      "content": "$$dS = \\int_{\\nu=0}^{\\nu=\\infty} \\frac{\\partial \\varphi}{\\partial \\varrho} \\, d\\varrho \\, d\\nu,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 728,
+      "bottomRightX": 443,
+      "bottomRightY": 753,
+      "content": "oder, da $\\partial \\varphi / \\partial \\varrho$ von $\\nu$ unabhängig ist:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 759,
+      "bottomRightX": 428,
+      "bottomRightY": 799,
+      "content": "$$dS = \\frac{\\partial \\varphi}{\\partial \\varrho} \\, dE.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 801,
+      "bottomRightX": 642,
+      "bottomRightY": 849,
+      "content": "Da $dE$ gleich der zugeführten Wärme und der Vorgang umkehrbar ist, so gilt auch:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 300,
+      "topLeftY": 849,
+      "bottomRightX": 420,
+      "bottomRightY": 883,
+      "content": "$$dS = \\frac{1}{T} \\, dE.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 883,
+      "bottomRightX": 347,
+      "bottomRightY": 907,
+      "content": "Durch Vergleich erhält man:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 317,
+      "topLeftY": 914,
+      "bottomRightX": 412,
+      "bottomRightY": 955,
+      "content": "$$\\frac{\\partial \\varphi}{\\partial \\varrho} = \\frac{1}{T}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 959,
+      "bottomRightX": 643,
+      "bottomRightY": 984,
+      "content": "Dies ist das Gesetz der schwarzen Strahlung. Man kann also",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

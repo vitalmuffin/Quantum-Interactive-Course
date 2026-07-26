@@ -1,0 +1,9 @@
+100
+
+LOUIS DE BROGLIE
+
+tion des figures de Laue, elle soulève les difficultés considérables et aucunement encore résolues que nous avons signalées au chapitre précédent au sujet de l'Optique ondulatoire.
+
+Lorsqu'on a affaire à des rayons X durs et à des éléments légers comme cela a lieu en pratique dans la Radiothérapie, les phénomènes doivent être complètement modifiés par l'effet Compton et c'est bien ce qui semble se produire. Nous allons en donner un exemple. On sait qu'en plus de l'affaiblissement par diffusion, un faisceau de rayons X traversant la matière éprouve un affaiblissement par absorption, phénomène qui est accompagné par une émission de photoélectrons. Une loi empirique due à MM. Bragg et Pierce nous apprend que cette absorption varie comme le cube de la longueur d'onde et subit de brusques discontinuités pour toutes les fréquences caractéristiques des niveaux intraatomiques de la substance considérée; de plus, pour une même longueur d'onde et divers éléments, le coefficient atomique d'absorption varie comme la quatrième puissance du nombre atomique.
+
+Cette loi est bien vérifiée dans le domaine moyen des fréquences Röntgen et il semble bien probable qu'elle doive s'appliquer aux rayons durs. Comme, suivant les idées reçues avant la théorie de Compton-Debye, la diffusion était seulement un éparpillement du rayonnement, seule l'énergie absorbée suivant la loi de Bragg pouvait produire une ionisation dans un gaz, les électrons photoélectriques animés de grandes vitesses ionisant par chocs les atomes rencontrés. La loi de Bragg-Pierce permettrait donc de calculer le rapport des ionisations produites par une même radiation dure dans deux ampoules contenant l'une un gaz lourd (par exemple CH$^{3}$I) et l'autre un gaz léger (par exemple de l'air). Même en tenant compte des nombreuses corrections accessoires, ce rapport était trouvé expérimentalement beaucoup plus petit qu'on ne le prévoyait ainsi. M. Dauvillier avait

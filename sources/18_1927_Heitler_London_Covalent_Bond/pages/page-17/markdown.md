@@ -1,0 +1,15 @@
+Wechselwirkung neutraler Atome und homöopolare Bindung.
+
+471
+
+Platz machen¹. Man überlegt sich leicht, daß auch bei Berücksichtigung der Austauschglieder die beiden Kurven $E_a^*$ und $E_a$ in der Gegend des Minimums von $E_a$ sich noch fernbleiben (Fig. 2, die ausgezogene Kurve $E_a^*$ ist nur ganz qualitativ). Die Linearkombination von $\alpha$ mit $\alpha^*$ wird demgemäß in der Gegend von $R = 2a_0$ noch schwach sein — man kann sie als Störung der Eigenfunktion $\alpha$ auffassen. Es wird deshalb berechtigt sein, $E_a$ ohne Berücksichtigung der Linearkombination mit $E_a^*$ zu berechnen, und gerade dadurch wird das Molekül als „vorwiegend homöopolar“ charakterisiert. $E_a^*$ hat seinerseits irgendwo ebenfalls ein Minimum; an dieser Stelle wäre also Platz für eine polare Molekel. Insofern aber dieses Minimum kein absolutes Minimum ist, und insofern es auf adiabatischem² Wege in das uns bekannte absolute Minimum übergehen kann, wird man mit Recht sagen, daß die polare Molekülbildung nicht die stabile Konfiguration der beiden H-Atome im Molekül darstellt. Bei einer Trennung der Molekel ohne gleichzeitige Anregung wird man daher mit größerer Wahrscheinlichkeit erwarten, zwei neutrale Atome zu finden. In welcher Weise die beiden Lösungen $\alpha$ und $\alpha^*$ linear kombinieren, läßt sich ohne eingehendere Untersuchung nicht voraussehen.
+
+Die Lösung $\beta^*$ schließlich (antisymmetrisch in $\psi$ und $\varphi$) würde ungestört die Lösung $\alpha$ auf Grund derselben Überlegungen wie oben durchsetzen. Vermutlich kommt es aber gar nicht dazu. Zur Molekülbildung kommt $\beta^*$ wegen ihrer Nichtüberführbarkeit in eine He-Konfiguration — sie hat zwischen den Kernen einen Knoten — nicht in Betracht.
+
+Wir möchten glauben, daß die hier aufgefundenen Kategorien von Entartungen und Symmetrieverhältnissen typisch sein dürften für einen großen Bezirk der Tatsachen, welche mit den Wechselwirkungen von Atomsystemen untereinander, vor allem mit den Diskontinuitäten ihrer chemischen Verhaltensweisen im Zusammenhang stehen³.
+
+¹ Das Vorhandensein einer Ionenabstoßung für kleinere Entfernungen (bei Zugrundelegung der quantenmechanischen Ladungsverteilung) haben unabhängig bereits L. Pauling, Proc. Roy. Soc. (A) 114, 181, 1927, und A. Unsöld, ZS. f. Phys. (im Druck), bemerkt.
+
+² Das Wort „adiabatisch“ ist hier nicht ganz am Platze, da die Überführung durch einen Punkt der Entartung hindurchgeht.
+
+³ Man wird sich überlegen, ob das Austauschphänomen, welches für die Wechselwirkung von Atomen so maßgebend ist, sich noch in anderen Gebieten der Physik bemerkbar macht. Wir möchten hier auf zweierlei hinweisen. Bei den Stoßprozessen bringt der Austausch von Stoß- und Atomelektron die Möglichkeit mit sich, auch Quantensprünge zwischen optisch nicht kombinierenden Term-

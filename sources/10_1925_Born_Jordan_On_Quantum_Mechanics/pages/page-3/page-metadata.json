@@ -1,0 +1,164 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 102,
+      "bottomRightX": 134,
+      "bottomRightY": 119,
+      "content": "860",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 276,
+      "topLeftY": 102,
+      "bottomRightX": 416,
+      "bottomRightY": 117,
+      "content": "M. Born und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 586,
+      "bottomRightY": 279,
+      "content": "zurück, um einen Anhalt zu gewinnen über die Rolle, die die Phasen der Partialschwingungen in der neuen Theorie spielen. Zum Schluß zeigen wir, daß auch die Grundgesetze des elektromagnetischen Feldes im Vakuum sich der neuen Methode zwangslös einfügen, und geben eine Begründung der von Heisenberg gemachten Annahme, daß die Quadrate der Beträge der Elemente der das elektrische Moment eines Atoms darstellenden Matrix ein Maß sind für die Übergangswahrscheinlichkeiten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 297,
+      "bottomRightX": 461,
+      "bottomRightY": 316,
+      "content": "### Kapitel I. Matrizenrechnung.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 318,
+      "bottomRightX": 586,
+      "bottomRightY": 400,
+      "content": "§ 1. Elementare Operationen. Funktionen. Wir rechnen mit quadratischen unendlichen Matrizen¹), die wir hier mit fetten Buchstaben bezeichnen wollen, während schwache Buchstaben stets gewöhnliche Zahlen bedeuten sollen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 400,
+      "bottomRightX": 507,
+      "bottomRightY": 480,
+      "content": "$$\\boldsymbol{a} = (a(nm)) = \\begin{pmatrix} a(00) & a(01) & a(02) \\dots \\\\ a(10) & a(11) & a(12) \\dots \\\\ a(20) & a(21) & a(22) \\\\ \\dots & \\dots & \\dots & \\dots \\end{pmatrix}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 484,
+      "bottomRightX": 586,
+      "bottomRightY": 526,
+      "content": "Gleichheit zweier Matrizen bedeutet Gleichheit entsprechender Komponenten:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 521,
+      "bottomRightX": 586,
+      "bottomRightY": 540,
+      "content": "$$\\boldsymbol{a} = \\boldsymbol{b} \\text{ heißt } a(nm) = b(nm). \\quad (1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 547,
+      "bottomRightX": 583,
+      "bottomRightY": 568,
+      "content": "Addition wird definiert durch Addition entsprechender Komponenten",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 573,
+      "bottomRightX": 586,
+      "bottomRightY": 595,
+      "content": "$$\\boldsymbol{a} = \\boldsymbol{b} + \\boldsymbol{c} \\text{ heißt } a(nm) = b(nm) + c(nm). \\quad (2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 602,
+      "bottomRightX": 586,
+      "bottomRightY": 643,
+      "content": "Die Multiplikation wird definiert durch die aus der Determinantentheorie bekannte Regel „Zeilen mal Kolonnen“:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 647,
+      "bottomRightX": 587,
+      "bottomRightY": 686,
+      "content": "$$\\boldsymbol{a} = \\boldsymbol{b}\\boldsymbol{c} \\text{ heißt } a(nm) = \\sum_{k=0}^{\\infty} b(nk)c(km). \\quad (3)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 690,
+      "bottomRightX": 588,
+      "bottomRightY": 753,
+      "content": "Potenzen sind durch wiederholte Multiplikation zu definieren. Es gilt das assoziative Gesetz für die Multiplikation und das distributive für die Verbindung von Addition und Multiplikation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 753,
+      "bottomRightX": 587,
+      "bottomRightY": 774,
+      "content": "$$(\\boldsymbol{a}\\boldsymbol{b})\\boldsymbol{c} = \\boldsymbol{a}(\\boldsymbol{b}\\boldsymbol{c}): \\quad (4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 262,
+      "topLeftY": 776,
+      "bottomRightX": 587,
+      "bottomRightY": 797,
+      "content": "$$\\boldsymbol{a}(\\boldsymbol{b} + \\boldsymbol{c}) = \\boldsymbol{a}\\boldsymbol{b} + \\boldsymbol{a}\\boldsymbol{c}. \\quad (5)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 799,
+      "bottomRightX": 588,
+      "bottomRightY": 843,
+      "content": "Dagegen gilt nicht das kommutative Gesetz für die Multiplikation: Die Gleichung $\\boldsymbol{a}\\boldsymbol{b} = \\boldsymbol{b}\\boldsymbol{a}$ ist nicht allgemein richtig. Wenn sie gilt,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 854,
+      "bottomRightX": 589,
+      "bottomRightY": 922,
+      "content": "¹) Man findet Näheres über Matrizenrechnung etwa bei M. Böcher, Einführung in die höhere Algebra: aus dem Englischen von Hans Beck, Leipzig, Teubner, 1910, § 22 bis 25; ferner bei R. Courant und D. Hilbert, Methoden der mathematischen Physik I. Berlin, Springer, 1924, 1. Kap.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

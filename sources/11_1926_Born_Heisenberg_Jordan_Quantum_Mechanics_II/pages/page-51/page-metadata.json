@@ -1,0 +1,92 @@
+{
+  "index": 50,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 266,
+      "topLeftY": 101,
+      "bottomRightX": 417,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 550,
+      "topLeftY": 101,
+      "bottomRightX": 580,
+      "bottomRightY": 117,
+      "content": "607",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 138,
+      "bottomRightX": 583,
+      "bottomRightY": 256,
+      "content": "haupt nicht in unsere Fragestellung nach den Schwingungen eines Hohlraums ein. Trotzdem kann zwischen den Eigenschwingungen des Hohlraums und den einmal postulierten Lichtquanten eine so enge Zuordnung durchgeführt werden, daß jeder Statistik der Eigenschwingungen des Hohlraums auch eine bestimmte Statistik der Lichtquanten entspricht und umgekehrt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 258,
+      "bottomRightX": 587,
+      "bottomRightY": 577,
+      "content": "Debye¹⁾ hat versucht, durch eine Verteilung individueller Lichtquanten auf die Eigenschwingungen des Hohlraums eine solche Statistik zu geben, und es gelang ihm, auf diese Weise die Plancksche Formel abzuleiten. Uns scheint jedoch eine solche Mischung wellentheoretischer und lichtquantenmäßiger Begriffe kaum dem Wesen des Problems zu entsprechen. Vielmehr glauben wir, daß es konsequent sei, die wellentheoretische Seite des Problems ganz von der Lichtquantentheorie zu trennen, also die wellentheoretische Statistik der Hohlraumstrahlung durchaus nach den allgemeinen, z. B. für quantentheoretische Atomsysteme geltenden statistischen Gesetzen zu behandeln. Die zugeordnete Lichtquantenstatistik ist dann, wie wir zeigen werden, die Bossche Statistik²⁾; dieses Ergebnis scheint nicht unnatürlich, da diese Statistik hier nichts mit der Annahme unabhängiger Lichtkorpuskeln zu tun hat, sondern als Übertragung der Statistik der Eigenschwingungen aufzufassen ist — was nur zeigt, daß eben die Annahme statistisch unabhängiger Lichtkorpuskeln nicht das Richtige treffen würde.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 579,
+      "bottomRightX": 589,
+      "bottomRightY": 818,
+      "content": "Für jede derartige Behandlung der Hohlraumstrahlung in der bisherigen Quantentheorie ergab sich aber die grundsätzliche Schwierigkeit, daß sie zwar zum Planckschen Strahlungsgesetz, nicht aber zum richtigen Mittelwert des Schwankungsquadrates der Energie in einem Teilvolumen führte. Es zeigt sich also, daß eine konsequente Behandlung der Eigenschwingungen eines mechanischen Systems oder eines elektromagnetischen Hohlraums nach der bisherigen Theorie zu den schwersten Widersprüchen führt. Wir hatten deshalb die Hoffnung, daß die veränderte Kinematik, die der hier versuchten Theorie zugrunde liegt, den richtigen Wert für die Interferenzschwankungen liefert, so daß die genannten Widersprüche fortfallen und sich eine konsequente Statistik der Hohlraumstrahlung als möglich erweist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 821,
+      "bottomRightX": 590,
+      "bottomRightY": 861,
+      "content": "Die Zustände des Oszillatorensystems können gekennzeichnet werden durch „Quantenzahlen“ $n_1, n_2, n_3, \\dots$ der einzelnen Oszillatoren, so daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 874,
+      "bottomRightX": 591,
+      "bottomRightY": 905,
+      "content": "¹⁾ P. Debye, Ann. d. Phys. 33, 1427, 1910. Vgl. auch P. Ehrenfest, Phys. ZS. 7, 528, 1906.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 144,
+      "topLeftY": 904,
+      "bottomRightX": 399,
+      "bottomRightY": 920,
+      "content": "²⁾ S. N. Bose, ZS. f. Phys. 26, 178, 1924.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 506,
+      "topLeftY": 924,
+      "bottomRightX": 531,
+      "bottomRightY": 938,
+      "content": "42\\*",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 99,
+    "height": 1015,
+    "width": 676
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 19,
+      "topLeftY": 20,
+      "bottomRightX": 47,
+      "bottomRightY": 36,
+      "content": "126",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 20,
+      "bottomRightX": 664,
+      "bottomRightY": 42,
+      "content": "Einstein, Zur Quantentheorie der Strahlung. Physik. Zeitschr. XVIII, 1917.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 16,
+      "topLeftY": 61,
+      "bottomRightX": 335,
+      "bottomRightY": 96,
+      "content": "Vermöge dieser beiden Relationen und (18) geht (14') über in",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 98,
+      "bottomRightX": 333,
+      "bottomRightY": 165,
+      "content": "$$\\varrho'(\\nu', \\varphi') = \\left[ (\\varrho)_\\nu + \\frac{v}{c} \\nu' \\cos \\varphi' \\left( \\frac{\\partial \\varrho}{\\partial \\nu} \\right)_\\nu \\right]$$\n$$(1 - 3 \\frac{v}{c} \\cos \\varphi'). \\quad (19)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 11,
+      "topLeftY": 169,
+      "bottomRightX": 333,
+      "bottomRightY": 588,
+      "content": "Mit Hilfe von (19) und unserer Hypothese über die Ausstrahlung und Einstrahlung des Moleküls können wir leicht den pro Zeiteinheit im Mittel auf das Molekül übertragenen Impuls berechnen. Bevor wir dies tun, müssen wir aber noch etwas sagen zur Rechtfertigung des eingeschlagenen Weges. Man kann einwenden, daß die Gleichungen (14), (15), (16) auf die mit der Quantentheorie nicht vereinbare Maxwellsche Theorie des elektromagnetischen Feldes gegründet seien. Dieser Einwand trifft jedoch mehr die Form als das Wesen der Sache. Denn wie die Theorie der elektromagnetischen Vorgänge sich auch gestalten mag, so wird doch jedenfalls das Dopplersche Prinzip und das Gesetz der Aberration erhalten bleiben, damit also auch die Gleichung (15) und (16). Ferner geht die Gültigkeit der energetischen Beziehung (14) sicher über die der Undulationstheorie hinaus; dies Transformationsgesetz gilt nach der Relativitätstheorie z. B. auch für die Energiedichte einer mit (Quasi-)Lichtgeschwindigkeit bewegten Masse von unendlich kleiner Ruhedichte. Die Gleichung (19) kann daher für jede Theorie der Strahlung Gültigkeit beanspruchen. —",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 11,
+      "topLeftY": 587,
+      "bottomRightX": 328,
+      "bottomRightY": 624,
+      "content": "Die zum räumlichen Winkel $dx'$ gehörige Strahlung würde gemäß (B) pro Sekunde zu",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 624,
+      "bottomRightX": 214,
+      "bottomRightY": 659,
+      "content": "$$B_n^m \\varrho'(\\nu', \\varphi') \\frac{dx'}{4\\pi}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 8,
+      "topLeftY": 661,
+      "bottomRightX": 328,
+      "bottomRightY": 762,
+      "content": "Elementarprozessen der Einstrahlung von Typus $Z_n \\rightarrow Z_m$ Veranlassung geben, wenn das Molekül nach jedem solchen Elementarprozeß sofort wieder in den Zustand $Z_n$ zurückgebracht würde. In Wirklichkeit ist aber die Zeit des Verweilens im Zustande $Z_n$ pro Sekunde gemäß (5) gleich",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 126,
+      "topLeftY": 764,
+      "bottomRightX": 206,
+      "bottomRightY": 796,
+      "content": "$$\\frac{1}{S} p_n e^{-\\frac{\\varepsilon_n}{kT}},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 8,
+      "topLeftY": 798,
+      "bottomRightX": 155,
+      "bottomRightY": 816,
+      "content": "wobei zur Abkürzung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 816,
+      "bottomRightX": 325,
+      "bottomRightY": 845,
+      "content": "$$S = p_n e^{-\\frac{\\varepsilon_n}{kT}} + p_m e^{-\\frac{\\varepsilon_m}{kT}} \\quad (20)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 8,
+      "topLeftY": 852,
+      "bottomRightX": 325,
+      "bottomRightY": 887,
+      "content": "gesetzt ist. Die Zahl dieser Prozesse pro Sekunde beträgt also in Wahrheit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 887,
+      "bottomRightX": 254,
+      "bottomRightY": 925,
+      "content": "$$\\frac{1}{S} p_n e^{-\\frac{\\varepsilon_n}{kT}} B_n^m \\varrho'(\\nu', \\varphi') \\frac{dx'}{4\\pi}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 8,
+      "topLeftY": 925,
+      "bottomRightX": 325,
+      "bottomRightY": 961,
+      "content": "Bei jedem derartigen Elementarprozeß wird in Richtung der positiven $X'$-Achse der Impuls",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 960,
+      "bottomRightX": 204,
+      "bottomRightY": 992,
+      "content": "$$\\frac{\\varepsilon_m - \\varepsilon_n}{c} \\cos \\varphi'$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 351,
+      "topLeftY": 63,
+      "bottomRightX": 664,
+      "bottomRightY": 131,
+      "content": "auf das Atom übertragen. Auf analogem Wege fanden wir, gestützt auf (B), daß die entsprechende Zahl der Elementarprozesse der Einstrahlung vom Typus $Z_m \\rightarrow Z_n$ pro Sekunde",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 406,
+      "topLeftY": 131,
+      "bottomRightX": 590,
+      "bottomRightY": 169,
+      "content": "$$\\frac{1}{S} p_m e^{-\\frac{\\varepsilon_m}{kT}} B_n^m \\varrho'(\\nu', \\varphi') \\frac{dx'}{4\\pi}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 351,
+      "topLeftY": 171,
+      "bottomRightX": 664,
+      "bottomRightY": 205,
+      "content": "ist, und es wird bei jedem solchen Elementarprozeß der Impuls",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 443,
+      "topLeftY": 209,
+      "bottomRightX": 556,
+      "bottomRightY": 241,
+      "content": "$$-\\frac{\\varepsilon_m - \\varepsilon_n}{c} \\cos \\varphi'$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 348,
+      "topLeftY": 244,
+      "bottomRightX": 664,
+      "bottomRightY": 313,
+      "content": "auf das Molekül übertragen. Der im ganzen pro Zeiteinheit durch Einstrahlung pro Zeiteinheit auf das Molekül übertragene Impuls ist daher mit Rücksicht auf (6) und (9)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 348,
+      "topLeftY": 313,
+      "bottomRightX": 664,
+      "bottomRightY": 351,
+      "content": "$$\\frac{h\\nu'}{cS} p_n B_n^m \\left( e^{-\\frac{\\varepsilon_n}{kT}} - e^{-\\frac{\\varepsilon_m}{kT}} \\right) \\int \\varrho'(\\nu', \\varphi') \\cos \\varphi \\frac{dx'}{4\\pi},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 348,
+      "topLeftY": 351,
+      "bottomRightX": 664,
+      "bottomRightY": 416,
+      "content": "wobei die Integration über alle räumlichen Elementarwinkel zu erstrecken ist. Durch Ausführung der letzteren ergibt sich vermöge (19) der Wert:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 348,
+      "topLeftY": 416,
+      "bottomRightX": 657,
+      "bottomRightY": 454,
+      "content": "$$-\\frac{h\\nu}{c^2 S} \\left( \\varrho - \\frac{1}{3} \\nu \\frac{\\partial \\varrho}{\\partial \\nu} \\right) p_n B_n^m \\left( e^{-\\frac{\\varepsilon_n}{kT}} - e^{-\\frac{\\varepsilon_m}{kT}} \\right) \\cdot v.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 348,
+      "topLeftY": 456,
+      "bottomRightX": 664,
+      "bottomRightY": 492,
+      "content": "Dabei ist die wirksame Frequenz wieder mit $\\nu$ (statt $\\nu'$) bezeichnet.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 348,
+      "topLeftY": 491,
+      "bottomRightX": 664,
+      "bottomRightY": 654,
+      "content": "Dieser Ausdruck stellt aber den ganzen pro Zeiteinheit im Mittel auf ein mit der Geschwindigkeit $v$ bewegtes Molekül übertragenen Impuls dar. Denn es ist klar, daß die ohne Einwirkung der Strahlung stattfindenden Elementarprozesse der Ausstrahlung, vom System $K'$ aus betrachtet, keine Vorzugsrichtung besitzen, also im Mittel auch keinen Impuls auf das Molekül übertragen können. Wir erhalten daher als Endergebnis unserer Betrachtung:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 348,
+      "topLeftY": 654,
+      "bottomRightX": 660,
+      "bottomRightY": 711,
+      "content": "$$R = \\frac{h\\nu}{c^2 S} \\left( \\varrho - \\frac{1}{3} \\nu \\frac{\\partial \\varrho}{\\partial \\nu} \\right) p_n B_n^m e^{-\\frac{\\varepsilon_n}{kT}} \\left( 1 - e^{-\\frac{h\\nu}{kT}} \\right) \\quad (21)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 401,
+      "topLeftY": 714,
+      "bottomRightX": 601,
+      "bottomRightY": 736,
+      "content": "# § 6. Berechnung von $\\overline{d^2}$.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 342,
+      "topLeftY": 739,
+      "bottomRightX": 660,
+      "bottomRightY": 854,
+      "content": "Viel einfacher ist es, die Wirkung der Unregelmäßigkeit der Elementarprozesse auf das mechanische Verhalten des Moleküls zu berechnen. Denn man kann dieser Rechnung ein ruhendes Molekül zugrunde legen bei dem Grade der Näherung, mit dem wir uns von Anfang an begnügt haben.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 342,
+      "topLeftY": 852,
+      "bottomRightX": 660,
+      "bottomRightY": 999,
+      "content": "Es verursache irgendein Ereignis, daß auf ein Molekül ein Impuls $\\lambda$ in der $X$-Richtung übertragen werde. Dieser Impuls sei in verschiedenen Fällen von verschiedenen Vorzeichen und verschiedener Größe. Es gelte jedoch für $\\lambda$ ein solches statistisches Gesetz, daß der Mittelwert $\\lambda$ verschwindet. Seien nun $\\lambda_1, \\lambda_2, \\dots$ die Impulswerte, welche mehrere voneinander unabhängig wirkende Ursachen auf das Molekül in",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

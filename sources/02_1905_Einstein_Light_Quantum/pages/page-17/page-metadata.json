@@ -1,0 +1,119 @@
+{
+  "index": 16,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 62,
+      "topLeftY": 0,
+      "bottomRightX": 610,
+      "bottomRightY": 26,
+      "content": "148^{}[] *A. Einstein. Erzeugung und Verwandlung des Lichtes.*",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 43,
+      "bottomRightX": 646,
+      "bottomRightY": 218,
+      "content": "energiequant zur Ionisierung je eines Gasmoleküles verwendet wird. Hieraus folgt zunächst, daß die Ionisierungsarbeit (d. h. die zur Ionisierung theoretisch nötige Arbeit) eines Moleküles nicht größer sein kann als die Energie eines absorbierten wirksamen Lichtenergiequantes. Bezeichnet man mit $J$ die (theoretische) Ionisierungsarbeit pro Grammäquivalent, so muß also sein:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 301,
+      "topLeftY": 218,
+      "bottomRightX": 402,
+      "bottomRightY": 243,
+      "content": "$$R \\beta \\nu \\geqq J.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 254,
+      "bottomRightX": 644,
+      "bottomRightY": 306,
+      "content": "Nach Messungen Lenards ist aber die größte wirksame Wellenlänge für Luft ca. $1,9 \\cdot 10^{-5}$ cm, also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 316,
+      "bottomRightX": 476,
+      "bottomRightY": 342,
+      "content": "$$R \\beta \\nu = 6,4 \\cdot 10^{12} \\text{ Erg} \\geqq J.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 355,
+      "bottomRightX": 644,
+      "bottomRightY": 633,
+      "content": "Eine obere Grenze für die Ionisierungsarbeit gewinnt man auch aus den Ionisierungsspannungen in verdünnten Gasen. Nach J. Stark$^{1)}$ ist die kleinste gemessene Ionisierungsspannung (an Platinanoden) für Luft ca. 10 Volt.$^{2)}$ Es ergibt sich also für $J$ die obere Grenze $9,6 \\cdot 10^{12}$, welche nahezu gleich der eben gefundenen ist. Es ergibt sich noch eine andere Konsequenz, deren Prüfung durch das Experiment mir von großer Wichtigkeit zu sein scheint. Wenn jedes absorbierte Lichtenergiequant ein Molekül ionisiert, so muß zwischen der absorbierten Lichtmenge $L$ und der Anzahl $j$ der durch dieselbe ionisierten Grammoleküle die Beziehung bestehen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 301,
+      "topLeftY": 642,
+      "bottomRightX": 402,
+      "bottomRightY": 684,
+      "content": "$$j = \\frac{L}{R \\beta \\nu}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 695,
+      "bottomRightX": 642,
+      "bottomRightY": 795,
+      "content": "Diese Beziehung muß, wenn unsere Auffassung der Wirklichkeit entspricht, für jedes Gas gelten, welches (bei der betreffenden Frequenz) keine merkliche nicht von Ionisation begleitete Absorption aufweist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 801,
+      "bottomRightX": 361,
+      "bottomRightY": 826,
+      "content": "Bern, den 17. März 1905.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 849,
+      "bottomRightX": 589,
+      "bottomRightY": 873,
+      "content": "1) J. Stark, Die Elektrizität in Gasen p. 57. Leipzig 1902.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 870,
+      "bottomRightX": 641,
+      "bottomRightY": 912,
+      "content": "2) Im Gasinnern ist die Ionisierungsspannung für negative Ionen allerdings fünfmal größer.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 922,
+      "bottomRightX": 471,
+      "bottomRightY": 945,
+      "content": "(Eingegangen 18. März 1905.)",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

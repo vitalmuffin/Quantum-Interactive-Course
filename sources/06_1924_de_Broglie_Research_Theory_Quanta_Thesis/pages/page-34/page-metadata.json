@@ -1,0 +1,155 @@
+{
+  "index": 33,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 26,
+      "topLeftY": 22,
+      "bottomRightX": 51,
+      "bottomRightY": 43,
+      "content": "54",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 216,
+      "topLeftY": 23,
+      "bottomRightX": 366,
+      "bottomRightY": 40,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 63,
+      "bottomRightX": 488,
+      "bottomRightY": 90,
+      "content": "La phase $\\varphi$ est un invariant; si donc nous posons :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 100,
+      "bottomRightX": 507,
+      "bottomRightY": 127,
+      "content": "$$d\\varphi = 2\\pi(O_1 dx^1 + O_2 dx^2 + O_3 dx^3 + O_4 dx^4) = 2\\pi O_i dx^i$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 26,
+      "topLeftY": 137,
+      "bottomRightX": 556,
+      "bottomRightY": 268,
+      "content": "les quantités $O_i$ généralement fonctions des $x^i$ seront les composantes covariantes d'un vecteur d'Univers, le vecteur Onde d'Univers. Si $l$ est la direction du rayon au sens ordinaire, on est amené d'habitude à envisager pour le $d\\varphi$ la forme :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 197,
+      "topLeftY": 271,
+      "bottomRightX": 390,
+      "bottomRightY": 312,
+      "content": "$$d\\varphi = 2\\pi \\left( \\nu dt - \\frac{\\nu}{V} dl \\right)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 30,
+      "topLeftY": 325,
+      "bottomRightX": 558,
+      "bottomRightY": 381,
+      "content": "$\\nu$ est appelée fréquence et $V$ vitesse de propagation. On peut poser alors :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 391,
+      "bottomRightX": 479,
+      "bottomRightY": 427,
+      "content": "$$O_1 = -\\frac{\\nu}{V} \\cos(x, l), \\quad O_2 = -\\frac{\\nu}{V} \\cos(y, l),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 437,
+      "bottomRightX": 388,
+      "bottomRightY": 473,
+      "content": "$$O_3 = -\\frac{\\nu}{V} \\cos(z, l), \\quad O_4 = \\frac{\\nu}{c}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 33,
+      "topLeftY": 485,
+      "bottomRightX": 563,
+      "bottomRightY": 700,
+      "content": "Le vecteur Onde d'Univers se décompose donc en une composante de temps proportionnelle à la fréquence et en un vecteur d'espace $\\vec{n}$ porté sur la direction de propagation et ayant pour longueur $\\frac{\\nu}{V}$. Nous l'appellerons le vecteur « nombre d'ondes » parce qu'il est égal à l'inverse de la longueur d'onde. Si la fréquence $\\nu$ est constante, nous sommes conduit à passer de la forme Hamiltonienne :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 707,
+      "bottomRightX": 372,
+      "bottomRightY": 750,
+      "content": "$$\\delta \\int_P^Q O_i dx^i = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 768,
+      "bottomRightX": 293,
+      "bottomRightY": 792,
+      "content": "à la forme Maupertuisienne :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 154,
+      "topLeftY": 806,
+      "bottomRightX": 448,
+      "bottomRightY": 846,
+      "content": "$$\\delta \\int_A^B O_1 dx^1 + O_2 dx^2 + O_3 dx^3 = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 854,
+      "bottomRightX": 564,
+      "bottomRightY": 883,
+      "content": "où A et B sont les points de l'espace correspondant à P et Q.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 882,
+      "bottomRightX": 536,
+      "bottomRightY": 910,
+      "content": "En remplaçant $O_1$, $O_2$ et $O_3$ par leurs valeurs, il vient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 920,
+      "bottomRightX": 372,
+      "bottomRightY": 961,
+      "content": "$$\\delta \\int_A^B \\frac{\\nu dl}{V} = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

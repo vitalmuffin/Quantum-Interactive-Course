@@ -1,0 +1,65 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 91,
+      "topLeftY": 86,
+      "bottomRightX": 121,
+      "bottomRightY": 102,
+      "content": "772",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 87,
+      "bottomRightX": 370,
+      "bottomRightY": 103,
+      "content": "W. Pauli jr.,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 123,
+      "bottomRightX": 578,
+      "bottomRightY": 666,
+      "content": "ihrer Bindungsenergiee völlig gleichwertigen Elektronen im Atom nur unter besonderen Umständen möglich ist, die aufs engste mit den Gesetzmäßigkeiten der Komplexstruktur der Spektren zusammenhängen. So entspricht z. B. bei den Erdalkalien der Normalzustand, in welchem die beiden Valenzelektronen äquivalent sind, einem Singulett-S-Term, während in denjenigen stationären Zuständen des Atoms, die zum Triplettsystem gehören, die Valenzelektronen niemals äquivalent gebunden sind, indem der größte Triplett-s-Term eine um eins größere Hauptquantenzahl besitzt als der Normalzustand. Betrachten wir ferner als zweites Beispiel das Neonspektrum. Dieses besteht aus zwei Termgruppen mit verschiedenen Seriengrenzen, verschiedenen Zuständen des Atomrestes entsprechend. Die erste Gruppe, die zur Entfernung eines Elektrons mit den Quantenzahlen $k_1 = 2$, $k_2 = 1$ aus dem Atomrest gehört, kann man als aus einem Singulett- und einem Triplettsystem zusammengesetzt auffassen, während die zweite Gruppe, zur Entfernung eines Elektrons mit $k_1 = k_2 = 2$ aus dem Atomrest gehörig, als Triplett- + Quintettsystem bezeichnet werden kann. Die ultravioletten Resonanzlinien des Neons sind zwar noch nicht beobachtet, aber es kann wohl kaum ein Zweifel darüber sein, daß der Normalzustand des Ne-Atoms hinsichtlich seiner Kombinationen mit den bekannten angeregten Zuständen des Atoms als $p$-Term betrachtet werden muß; und zwar kann es gemäß der eindeutigen Bestimmtheit und dem diamagnetischen Verhalten der Edelgaskonfiguration nur einen solchen Term geben, und zwar mit dem Wert $j = 0$ ¹). Da die einzigen $p$-Terme mit $j = 0$ die (untersten) Tripletterme $p_0$ der beiden Gruppen sind, können wir also schließen, daß beim Ne für den Wert 2 der Hauptquantenzahl diese beiden Tripletterme allein existieren und für beide Termgruppen überdies identisch sind.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 667,
+      "bottomRightX": 578,
+      "bottomRightY": 785,
+      "content": "Allgemein können wir daher erwarten, daß bei denjenigen Werten der Quantenzahlen $n$ und $k_1$, für die bereits Elektronen im Atom vorhanden sind, gewisse Multipletterme der Spektren ausfallen oder zusammenfallen werden. Und es entsteht die Frage, durch welche quantentheoretischen Regeln dieses Verhalten der Terme beherrscht wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 787,
+      "bottomRightX": 578,
+      "bottomRightY": 867,
+      "content": "Wie bereits aus dem Beispiel des Neonspektrums hervorgeht, ist diese Frage aufs engste mit dem Problem des Abschlusses der Elektronengruppen im Atom verknüpft, der die Längen 2, 8, 18, 32, ... der Perioden im natürlichen System der Elemente bedingt. Dieser Abschluß besteht",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 878,
+      "bottomRightX": 576,
+      "bottomRightY": 909,
+      "content": "¹) Es ist, wie bereits angegeben, der Wert von $j$ hier und im folgenden stets als der Maximalwert der Quantenzahl $m_1$ definiert.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

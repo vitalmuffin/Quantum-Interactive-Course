@@ -1,0 +1,200 @@
+{
+  "index": 23,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 101,
+      "bottomRightX": 132,
+      "bottomRightY": 117,
+      "content": "580",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 101,
+      "bottomRightX": 454,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 497,
+      "bottomRightY": 157,
+      "content": "Um sie lösbar zu machen, muß $S_0$ so bestimmt werden, daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 277,
+      "topLeftY": 163,
+      "bottomRightX": 579,
+      "bottomRightY": 184,
+      "content": "$$\\bar{H}_1 = S_0^{-1} W_1 S_0 \\quad (31)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 190,
+      "bottomRightX": 580,
+      "bottomRightY": 329,
+      "content": "mit einer Diagonalmatrix $W_1$ wird. Für die gleichzeitige Befriedigung dieser Gleichung und der durch (26), Kap. 2, gestellten Forderungen kann hier natürlich ebensowenig eine allgemeine Anweisung gegeben werden, wie für die Bestimmung der säkulären Störungen in der klassischen Theorie. Später werden wir aber mit einer neuen, algebraischen Methode zu einer einfachen Behandlung einer großen Klasse von Entartungen gelangen (Kap. 3).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 338,
+      "bottomRightX": 582,
+      "bottomRightY": 417,
+      "content": "Ist (31), Kap. 2, erfüllt, so kann (30), Kap. 2, wie in Kap. 1 gelöst werden. Willkürlich bleiben dabei diejenigen Glieder $S_1(n m)$ von $S_1$, für die $\\nu_0(n m)$ verschwindet, und diese Unbestimmtheit muß benutzt werden, um in der nächsten Näherungsgleichung, die zu",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 223,
+      "topLeftY": 425,
+      "bottomRightX": 582,
+      "bottomRightY": 446,
+      "content": "$$S_2 H_0 - H_0 S_2 + F_2 = S_0^{-1} W_2 S_0 \\quad (32)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 455,
+      "bottomRightX": 582,
+      "bottomRightY": 474,
+      "content": "umgeschrieben werden kann, die zur Lösbarkeit notwendige Beziehung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 223,
+      "topLeftY": 484,
+      "bottomRightX": 582,
+      "bottomRightY": 505,
+      "content": "$$\\overline{F_2(H_0, H_1, H_2; S_1)} = S_0^{-1} W_2 S_0 \\quad (31')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 516,
+      "bottomRightX": 583,
+      "bottomRightY": 552,
+      "content": "mit einer Diagonalmatrix $W_2$ zu erfüllen. Die Fortsetzung des Verfahrens ist klar.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 563,
+      "bottomRightX": 585,
+      "bottomRightY": 702,
+      "content": "Die Schwierigkeit liegt darin, daß man in jeder Näherung Gleichungen zu befriedigen hat durch Matrizen, die schon größtenteils festgelegt sind, so daß nicht zu übersehen ist, ob diese Gleichungen wirklich lösbar sein werden. Es besteht jedoch bekanntlich eine ganz entsprechende Schwierigkeit in der klassischen Theorie. Beseitigt werden diese Schwierigkeiten wenigstens für die höheren Näherungen, wenn in irgend einer Näherung das System nichtentartet wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 710,
+      "bottomRightX": 232,
+      "bottomRightY": 727,
+      "content": "Seien z. B. in",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 266,
+      "topLeftY": 726,
+      "bottomRightX": 426,
+      "bottomRightY": 746,
+      "content": "$$q = q^0 + \\lambda q^{(1)} + \\cdots,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 266,
+      "topLeftY": 749,
+      "bottomRightX": 423,
+      "bottomRightY": 769,
+      "content": "$$p = p^0 + \\lambda p^{(1)} + \\cdots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 780,
+      "bottomRightX": 456,
+      "bottomRightY": 799,
+      "content": "$p^{(1)}$, $q^{(1)}$ wirklich bestimmt worden, so daß also mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 808,
+      "bottomRightX": 406,
+      "bottomRightY": 829,
+      "content": "$$Q = q_0 + \\lambda q^{(1)}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 831,
+      "bottomRightX": 406,
+      "bottomRightY": 851,
+      "content": "$$P = p^0 + \\lambda p^{(1)}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 849,
+      "bottomRightX": 141,
+      "bottomRightY": 868,
+      "content": "gilt:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 188,
+      "topLeftY": 864,
+      "bottomRightX": 506,
+      "bottomRightY": 885,
+      "content": "$$H(PQ) = W_0 + \\lambda W_1 + \\lambda^2 H_2' + \\lambda^3 H_3' + \\cdots,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 883,
+      "bottomRightX": 160,
+      "bottomRightY": 899,
+      "content": "und sei",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 223,
+      "topLeftY": 899,
+      "bottomRightX": 470,
+      "bottomRightY": 918,
+      "content": "$$\\nu_0(n m) + \\lambda \\nu_1(n m) \\neq 0 \\text{ für } n \\neq m.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "index": 26,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 263,
+      "topLeftY": 101,
+      "bottomRightX": 418,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 550,
+      "topLeftY": 101,
+      "bottomRightX": 579,
+      "bottomRightY": 117,
+      "content": "583",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 140,
+      "bottomRightX": 298,
+      "bottomRightY": 155,
+      "content": "oder in Matrizenschreibweise:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 298,
+      "topLeftY": 155,
+      "bottomRightX": 579,
+      "bottomRightY": 174,
+      "content": "$$\\boldsymbol{b} = \\boldsymbol{v} \\boldsymbol{a} \\tilde{\\boldsymbol{v}}^*. \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 179,
+      "bottomRightX": 580,
+      "bottomRightY": 197,
+      "content": "Man sagt, die Matrix $\\boldsymbol{b}$ gehe durch die Transformation $\\boldsymbol{v}$ aus $\\boldsymbol{a}$ hervor.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 203,
+      "bottomRightX": 581,
+      "bottomRightY": 241,
+      "content": "Die Matrix $\\boldsymbol{b}$ ist wieder vom Hermiteschen Typus, denn es gilt nach (3), Kap. 3,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 240,
+      "bottomRightX": 581,
+      "bottomRightY": 261,
+      "content": "$$\\tilde{\\boldsymbol{b}} = \\boldsymbol{v}^* \\tilde{\\boldsymbol{a}} \\tilde{\\boldsymbol{v}} = \\boldsymbol{v}^* \\boldsymbol{a}^* \\tilde{\\boldsymbol{v}} = \\boldsymbol{b}^*. \\quad (7)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 268,
+      "bottomRightX": 581,
+      "bottomRightY": 306,
+      "content": "Wir nennen die Matrix $\\boldsymbol{v}$ orthogonal, wenn die zugehörige Transformation die Hermitesche Einheitsform",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 312,
+      "bottomRightX": 410,
+      "bottomRightY": 343,
+      "content": "$$E(x x^*) = \\sum_n x_n x_n^*$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 345,
+      "bottomRightX": 581,
+      "bottomRightY": 384,
+      "content": "invariant läßt; nach dem soeben gewonnenen Resultat ist das dann und nur dann der Fall, wenn",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 388,
+      "bottomRightX": 582,
+      "bottomRightY": 406,
+      "content": "$$\\boldsymbol{v} \\tilde{\\boldsymbol{v}}^* = \\mathbf{1}, \\quad \\text{oder} \\quad \\tilde{\\boldsymbol{v}}^* = \\boldsymbol{v}^{-1}. \\quad (8)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 413,
+      "bottomRightX": 582,
+      "bottomRightY": 452,
+      "content": "So sind z. B. die in I, § 2, erwähnten Permutationsmatrizen reelle orthogonale Matrizen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 453,
+      "bottomRightX": 583,
+      "bottomRightY": 514,
+      "content": "Bei endlicher Variablenzahl ist es bekanntlich immer möglich, eine Form orthogonal auf eine Summe von Quadraten zu transformieren [Hauptachsen-Transformation]¹):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 261,
+      "topLeftY": 518,
+      "bottomRightX": 583,
+      "bottomRightY": 548,
+      "content": "$$A(x x^*) = \\sum_n W_n y_n y_n^*. \\quad (9)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 554,
+      "bottomRightX": 511,
+      "bottomRightY": 573,
+      "content": "Für die Matrizen bedeutet das: Es gibt eine Matrix, für die",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 580,
+      "bottomRightX": 584,
+      "bottomRightY": 599,
+      "content": "$$\\boldsymbol{v} \\tilde{\\boldsymbol{v}}^* = \\mathbf{1} \\quad \\text{und} \\quad \\boldsymbol{v} \\boldsymbol{a} \\tilde{\\boldsymbol{v}}^* = \\boldsymbol{v} \\boldsymbol{a} \\boldsymbol{v}^{-1} = \\boldsymbol{W}, \\quad (10)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 609,
+      "bottomRightX": 399,
+      "bottomRightY": 627,
+      "content": "wo $\\boldsymbol{W} = (W_n \\delta_{nm})$ eine Diagonalmatrix ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 629,
+      "bottomRightX": 587,
+      "bottomRightY": 729,
+      "content": "Bei unendlichen Matrizen gilt in allen bisher untersuchten Fällen ein analoger Satz; nur kann es vorkommen, daß rechter Hand der Index $n$ außer einer Reihe diskreter Zahlen auch einen kontinuierlichen Wertebereich durchläuft, dem in (9) und in der Transformation (4) ein Integralbestandteil entspricht²).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 732,
+      "bottomRightX": 588,
+      "bottomRightY": 771,
+      "content": "Die Größen $W_n$ heißen „Eigenwerte“, ihre Gesamtheit ist das „mathematische“ Spektrum der Form, bestehend aus „Punkt“- und",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 786,
+      "bottomRightX": 588,
+      "bottomRightY": 817,
+      "content": "¹) Wir nennen die Koeffizienten der transformierten Form $W_n$, weil sie in der Quantendynamik die Bedeutung der „Energie“ haben.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 815,
+      "bottomRightX": 589,
+      "bottomRightY": 921,
+      "content": "²) Die Theorie der quadratischen (bzw. Hermiteschen) Formen von unendlich vielen Variablen ist bisher hauptsächlich nur für eine besondere Klasse („beschränkte“ Formen) durchgeführt worden (D. Hilbert, Grundzüge einer allgemeinen Theorie der linearen Integralgleichungen; E. Hellinger, Crelles Journ. 136, 1, 1910). Hier handelt es sich aber gerade um nicht beschränkte Formen. Trotzdem dürfen wir wohl annehmen, daß die Sätze in der Hauptsache ebenso lauten.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

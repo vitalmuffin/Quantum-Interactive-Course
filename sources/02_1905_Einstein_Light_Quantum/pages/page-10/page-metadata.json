@@ -1,0 +1,110 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 168,
+      "topLeftY": 19,
+      "bottomRightX": 530,
+      "bottomRightY": 46,
+      "content": "Erzeugung und Verwandlung des Lichtes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 597,
+      "topLeftY": 18,
+      "bottomRightX": 632,
+      "bottomRightY": 38,
+      "content": "141",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 68,
+      "topLeftY": 60,
+      "bottomRightX": 634,
+      "bottomRightY": 113,
+      "content": "Die letztere Beziehung sagt aus, daß die Zustände der beiden Systeme voneinander unabhängige Ereignisse sind.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 111,
+      "bottomRightX": 388,
+      "bottomRightY": 136,
+      "content": "Aus diesen Gleichungen folgt:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 141,
+      "bottomRightX": 491,
+      "bottomRightY": 167,
+      "content": "$$\\varphi(W_1 \\cdot W_2) = \\varphi_1(W_1) + \\varphi_2(W_2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 68,
+      "topLeftY": 171,
+      "bottomRightX": 251,
+      "bottomRightY": 194,
+      "content": "und hieraus endlich",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 199,
+      "bottomRightX": 482,
+      "bottomRightY": 275,
+      "content": "$$\\begin{aligned} \\varphi_1(W_1) &= C \\lg(W_1) + \\text{konst.}, \\\\ \\varphi_2(W_2) &= C \\lg(W_2) + \\text{konst.}, \\\\ \\varphi(W) &= C \\lg(W) + \\text{konst.} \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 68,
+      "topLeftY": 277,
+      "bottomRightX": 638,
+      "bottomRightY": 448,
+      "content": "Die Größe $C$ ist also eine universelle Konstante; sie hat, wie aus der kinetischen Gastheorie folgt, den Wert $R/N$, wobei den Konstanten $R$ und $N$ dieselbe Bedeutung wie oben beizulegen ist. Bedeutet $S_0$ die Entropie bei einem gewissen Anfangszustande eines betrachteten Systems und $W$ die relative Wahrscheinlichkeit eines Zustandes von der Entropie $S$, so erhalten wir also allgemein:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 450,
+      "bottomRightX": 439,
+      "bottomRightY": 489,
+      "content": "$$S - S_0 = \\frac{R}{N} \\lg W.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 68,
+      "topLeftY": 493,
+      "bottomRightX": 642,
+      "bottomRightY": 787,
+      "content": "Wir behandeln zunächst folgenden Spezialfall. In einem Volumen $v_0$ sei eine Anzahl ($n$) beweglicher Punkte (z. B. Moleküle) vorhanden, auf welche sich unsere Überlegung beziehen soll. Außer diesen können in dem Raume noch beliebig viele andere bewegliche Punkte irgendwelcher Art vorhanden sein. Über das Gesetz, nach dem sich die betrachteten Punkte in dem Raume bewegen, sei nichts vorausgesetzt, als daß in bezug auf diese Bewegung kein Raumteil (und keine Richtung) von den anderen ausgezeichnet sei. Die Anzahl der betrachteten (ersterwähnten) beweglichen Punkte sei ferner so klein, daß von einer Wirkung der Punkte aufeinander abgesehen werden kann.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 783,
+      "bottomRightX": 645,
+      "bottomRightY": 1004,
+      "content": "Dem betrachteten System, welches z. B. ein ideales Gas oder eine verdünnte Lösung sein kann, kommt eine gewisse Entropie $S_0$ zu. Wir denken uns einen Teil des Volumens $v_0$ von der Größe $v$ und alle $n$ beweglichen Punkte in das Volumen $v$ versetzt; ohne daß an dem System sonst etwas geändert wird. Diesem Zustand kommt offenbar ein anderer Wert der Entropie ($S$) zu, und wir wollen nun die Entropiedifferenz mit Hilfe des Boltzmannschen Prinzips bestimmen.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

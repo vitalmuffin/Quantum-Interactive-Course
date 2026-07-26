@@ -1,0 +1,3233 @@
+{
+  "document_id": "10_1925_dirac_quantum_mechanics",
+  "source_filename": "Proceedings_of_the_Royal_Society_of_London_Series_A_1925_Vol109_Issue752_Page642-653.pdf",
+  "metadata": {
+    "title_original": "The Fundamental Equations of Quantum Mechanics",
+    "title_normalized": "The Fundamental Equations of Quantum Mechanics",
+    "authors": [
+      "P. A. M. Dirac"
+    ],
+    "publication_year": 1925,
+    "original_language": "en",
+    "journal": "Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character",
+    "volume": "109",
+    "issue": "752",
+    "page_range": "642-653",
+    "doi": "10.1098/rspa.1925.0157",
+    "received_date": "1925-11-07",
+    "abstract_original": "It is well known that the experimental facts of atomic physics necessitate a departure from the classical theory of electrodynamics in the description of atomic phenomena. This departure takes the form, in Bohr's theory, of the special assumptions of the existence of stationary states of an atom, in which it does not radiate, and of certain rules, called quantum conditions, which fix the stationary states and the frequencies of the radiation emitted during transitions between them. These assumptions are quite foreign to the classical theory, but have been very successful in the interpretation of a restricted region of atomic phenomena. The only way in which the classical theory is used is through the assumption that the classical laws hold for the description of the motion in the stationary states, although they fail completely during transitions, and the assumption, called the Correspondence Principle, that the classical theory gives the right results in the limiting case when the action per cycle of the system is large compared to Planck's constant h, and in certain other special cases.\n\nIn a recent paper Heisenberg puts forward a new theory, which suggests that it is not the equations of classical mechanics that are in any way at fault, but that the mathematical operations by which physical results are deduced from them require modification. All the information supplied by the classical theory can thus be made use of in the new theory."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "642",
+      "detected_layout": "title_page",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Royal Society Publishing",
+          "markdown": "Royal Society Publishing",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Informing the science of the future",
+          "markdown": "Informing the science of the future",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.92,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "The Fundamental Equations of Quantum Mechanics.",
+          "markdown": "# The Fundamental Equations of Quantum Mechanics.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Author(s): P. A. M. Dirac",
+          "markdown": "Author(s): P. A. M. Dirac",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.73
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Source: Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, Vol. 109, No. 752 (Dec. 1, 1925), pp. 642-653",
+          "markdown": "### Source: *Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character*, Vol. 109, No. 752 (Dec. 1, 1925), pp. 642-653",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.68
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Published by: The Royal Society",
+          "markdown": "Published by: The Royal Society",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.62,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Stable URL: http://www.jstor.org/stable/94441",
+          "markdown": "Stable URL: [http://www.jstor.org/stable/94441](http://www.jstor.org/stable/94441)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.59,
+            0.9,
+            0.61
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Accessed: 03/02/2011 04:27",
+          "markdown": "Accessed: 03/02/2011 04:27",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.56,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in the JSTOR archive only for your personal, non-commercial use.",
+          "markdown": "Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at [http://www.jstor.org/page/info/about/policies/terms.jsp](http://www.jstor.org/page/info/about/policies/terms.jsp). JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in the **JSTOR** archive only for your personal, non-commercial use.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at http://www.jstor.org/action/showPublisher?publisherCode=rs1.",
+          "markdown": "Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at [http://www.jstor.org/action/showPublisher?publisherCode=rs1](http://www.jstor.org/action/showPublisher?publisherCode=rs1).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.88,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed page of such transmission.",
+          "markdown": "Each copy of any part of a **JSTOR** transmission must contain the same copyright notice that appears on the screen or printed page of such transmission.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.34
+          ],
+          "ocr_confidence": 0.87,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.",
+          "markdown": "**JSTOR** is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about **JSTOR**, please contact [support@jstor.org](mailto:support@jstor.org).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.28
+          ],
+          "ocr_confidence": 0.85,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "figure",
+          "level": null,
+          "text_original": "[Royal Society Logo]",
+          "markdown": "![Royal Society Logo](pictures/royal_society_logo_p001.png)",
+          "asset_id": "fig_p001_01",
+          "suggested_filename": "pictures/royal_society_logo_p001.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.05,
+            0.7,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "642",
+          "markdown": "642",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# The Fundamental Equations of Quantum Mechanics.\n\nAuthor(s): P. A. M. Dirac\n\n### Source: *Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character*, Vol. 109, No. 752 (Dec. 1, 1925), pp. 642-653\n\nPublished by: The Royal Society\n\nStable URL: [http://www.jstor.org/stable/94441](http://www.jstor.org/stable/94441)\n\nAccessed: 03/02/2011 04:27\n\nYour use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at [http://www.jstor.org/page/info/about/policies/terms.jsp](http://www.jstor.org/page/info/about/policies/terms.jsp). JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in the **JSTOR** archive only for your personal, non-commercial use.\n\nPlease contact the publisher regarding any further use of this work. Publisher contact information may be obtained at [http://www.jstor.org/action/showPublisher?publisherCode=rs1](http://www.jstor.org/action/showPublisher?publisherCode=rs1).\n\nEach copy of any part of a **JSTOR** transmission must contain the same copyright notice that appears on the screen or printed page of such transmission.\n\n**JSTOR** is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about **JSTOR**, please contact [support@jstor.org](mailto:support@jstor.org).\n\n![Royal Society Logo](pictures/royal_society_logo_p001.png)\n\n642",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Title page with JSTOR metadata and Royal Society logo. Layout is clean with high OCR confidence."
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "643",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "The Fundamental Equations of Quantum Mechanics.",
+          "markdown": "## The Fundamental Equations of Quantum Mechanics.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "By P. A. M. DIRAC, 1851 Exhibition Senior Research Student, St. John's College, Cambridge.",
+          "markdown": "By **P. A. M. DIRAC**, 1851 Exhibition Senior Research Student, St. John's College, Cambridge.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.88
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Communicated by R. H. Fowler, F.R.S.—Received November 7th, 1925.)",
+          "markdown": "(Communicated by R. H. Fowler, F.R.S.—Received November 7th, 1925.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.82,
+            0.9,
+            0.84
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 1,
+          "text_original": "§ 1. Introduction.",
+          "markdown": "# § 1. Introduction.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It is well known that the experimental facts of atomic physics necessitate a departure from the classical theory of electrodynamics in the description of atomic phenomena. This departure takes the form, in Bohr's theory, of the special assumptions of the existence of stationary states of an atom, in which it does not radiate, and of certain rules, called quantum conditions, which fix the stationary states and the frequencies of the radiation emitted during transitions between them. These assumptions are quite foreign to the classical theory, but have been very successful in the interpretation of a restricted region of atomic phenomena. The only way in which the classical theory is used is through the assumption that the classical laws hold for the description of the motion in the stationary states, although they fail completely during transitions, and the assumption, called the Correspondence Principle, that the classical theory gives the right results in the limiting case when the action per cycle of the system is large compared to Planck's constant $h$, and in certain other special cases.",
+          "markdown": "It is well known that the experimental facts of atomic physics necessitate a departure from the classical theory of electrodynamics in the description of atomic phenomena. This departure takes the form, in Bohr's theory, of the special assumptions of the existence of stationary states of an atom, in which it does not radiate, and of certain rules, called quantum conditions, which fix the stationary states and the frequencies of the radiation emitted during transitions between them. These assumptions are quite foreign to the classical theory, but have been very successful in the interpretation of a restricted region of atomic phenomena. The only way in which the classical theory is used is through the assumption that the classical laws hold for the description of the motion in the stationary states, although they fail completely during transitions, and the assumption, called the Correspondence Principle, that the classical theory gives the right results in the limiting case when the action per cycle of the system is large compared to Planck's constant $h$, and in certain other special cases.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.73
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In a recent paper* Heisenberg puts forward a new theory, which suggests that it is not the equations of classical mechanics that are in any way at fault, but that the mathematical operations by which physical results are deduced from them require modification. *All* the information supplied by the classical theory can thus be made use of in the new theory.",
+          "markdown": "In a recent paper* Heisenberg puts forward a new theory, which suggests that it is not the equations of classical mechanics that are in any way at fault, but that the mathematical operations by which physical results are deduced from them require modification. *All* the information supplied by the classical theory can thus be made use of in the new theory.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "heading",
+          "level": 1,
+          "text_original": "§ 2. Quantum Algebra.",
+          "markdown": "# § 2. Quantum Algebra.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.48
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Consider a multiply periodic non-degenerate dynamical system of $u$ degrees of freedom, defined by equations connecting the co-ordinates and their time differential coefficients. We may solve the problem on the classical theory in the following way. Assume that each of the co-ordinates $x$ can be expanded in the form of a multiple Fourier series in the time $t$, thus,",
+          "markdown": "Consider a multiply periodic non-degenerate dynamical system of $u$ degrees of freedom, defined by equations connecting the co-ordinates and their time differential coefficients. We may solve the problem on the classical theory in the following way. Assume that each of the co-ordinates $x$ can be expanded in the form of a multiple Fourier series in the time $t$, thus,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.43
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} x &= \\sum_{\\alpha_1 \\dots \\alpha_n} x(\\alpha_1 \\alpha_2 \\dots \\alpha_n) \\exp. i(\\alpha_1 \\omega_1 + \\alpha_2 \\omega_2 + \\dots + \\alpha_n \\omega_n) t \\\\ &= \\sum_{\\alpha} x_n \\exp. i(\\alpha \\omega) t, \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} x &= \\sum_{\\alpha_1 \\dots \\alpha_n} x(\\alpha_1 \\alpha_2 \\dots \\alpha_n) \\exp. i(\\alpha_1 \\omega_1 + \\alpha_2 \\omega_2 + \\dots + \\alpha_n \\omega_n) t \\\\ &= \\sum_{\\alpha} x_n \\exp. i(\\alpha \\omega) t, \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.33
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with subscripts and superscripts; requires verification of LaTeX rendering."
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "say, for brevity. Substitute these values in the equations of motion, and equate the coefficients on either side of each harmonic term. The equations obtained in this way (which we shall call the A equations) will determine each of the amplitudes $x_a$ and frequencies $(\\alpha\\omega)$, (the frequencies being measured in radians per unit time). The solution will not be unique. There will be a $u$-fold infinity of solutions, which may be labelled by taking the amplitudes and frequencies to be functions of $u$ constants $\\kappa_1 \\dots \\kappa_u$. Each $x_a$ and $(\\alpha\\omega)$ is now a function of two sets of numbers, the $\\alpha$'s and the $\\kappa$'s, and may be written $x_{a\\kappa}, (\\alpha\\omega)_\\kappa$.",
+          "markdown": "say, for brevity. Substitute these values in the equations of motion, and equate the coefficients on either side of each harmonic term. The equations obtained in this way (which we shall call the A equations) will determine each of the amplitudes $x_a$ and frequencies $(\\alpha\\omega)$, (the frequencies being measured in radians per unit time). The solution will not be unique. There will be a $u$-fold infinity of solutions, which may be labelled by taking the amplitudes and frequencies to be functions of $u$ constants $\\kappa_1 \\dots \\kappa_u$. Each $x_a$ and $(\\alpha\\omega)$ is now a function of two sets of numbers, the $\\alpha$'s and the $\\kappa$'s, and may be written $x_{a\\kappa}, (\\alpha\\omega)_\\kappa$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.24
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "643",
+          "markdown": "643",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## The Fundamental Equations of Quantum Mechanics.\n\nBy **P. A. M. DIRAC**, 1851 Exhibition Senior Research Student, St. John's College, Cambridge.\n\n(Communicated by R. H. Fowler, F.R.S.—Received November 7th, 1925.)\n\n# § 1. Introduction.\n\nIt is well known that the experimental facts of atomic physics necessitate a departure from the classical theory of electrodynamics in the description of atomic phenomena. This departure takes the form, in Bohr's theory, of the special assumptions of the existence of stationary states of an atom, in which it does not radiate, and of certain rules, called quantum conditions, which fix the stationary states and the frequencies of the radiation emitted during transitions between them. These assumptions are quite foreign to the classical theory, but have been very successful in the interpretation of a restricted region of atomic phenomena. The only way in which the classical theory is used is through the assumption that the classical laws hold for the description of the motion in the stationary states, although they fail completely during transitions, and the assumption, called the Correspondence Principle, that the classical theory gives the right results in the limiting case when the action per cycle of the system is large compared to Planck's constant $h$, and in certain other special cases.\n\nIn a recent paper* Heisenberg puts forward a new theory, which suggests that it is not the equations of classical mechanics that are in any way at fault, but that the mathematical operations by which physical results are deduced from them require modification. *All* the information supplied by the classical theory can thus be made use of in the new theory.\n\n# § 2. Quantum Algebra.\n\nConsider a multiply periodic non-degenerate dynamical system of $u$ degrees of freedom, defined by equations connecting the co-ordinates and their time differential coefficients. We may solve the problem on the classical theory in the following way. Assume that each of the co-ordinates $x$ can be expanded in the form of a multiple Fourier series in the time $t$, thus,\n\n$$\\begin{aligned} x &= \\sum_{\\alpha_1 \\dots \\alpha_n} x(\\alpha_1 \\alpha_2 \\dots \\alpha_n) \\exp. i(\\alpha_1 \\omega_1 + \\alpha_2 \\omega_2 + \\dots + \\alpha_n \\omega_n) t \\\\ &= \\sum_{\\alpha} x_n \\exp. i(\\alpha \\omega) t, \\end{aligned}$$\n\nsay, for brevity. Substitute these values in the equations of motion, and equate the coefficients on either side of each harmonic term. The equations obtained in this way (which we shall call the A equations) will determine each of the amplitudes $x_a$ and frequencies $(\\alpha\\omega)$, (the frequencies being measured in radians per unit time). The solution will not be unique. There will be a $u$-fold infinity of solutions, which may be labelled by taking the amplitudes and frequencies to be functions of $u$ constants $\\kappa_1 \\dots \\kappa_u$. Each $x_a$ and $(\\alpha\\omega)$ is now a function of two sets of numbers, the $\\alpha$'s and the $\\kappa$'s, and may be written $x_{a\\kappa}, (\\alpha\\omega)_\\kappa$.\n\n643",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Page contains mathematical notation and equations. OCR confidence is high but complex LaTeX requires manual review for accuracy."
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "644",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In the quantum solution of the problem, according to Heisenberg, we still assume that each co-ordinate can be represented by harmonic components of the form $\\exp. i\\omega t$, the amplitude and frequency of each depending on two sets of numbers $n_1 \\dots n_u$ and $m_1 \\dots m_u$, in this case all integers, and being written $x(nm), \\omega(nm)$. The differences $n_r - m_r$ correspond to the previous $\\alpha_r$, but neither the $n$'s nor any functions of the $n$'s and $m$'s play the part of the previous $\\kappa$'s in pointing out to which solution each particular harmonic component belongs. We cannot, for instance, take together all the components for which the $n$'s have a given set of values, and say that these by themselves form a single complete solution of the equations of motion. The quantum solutions are all interlocked, and must be considered as a single whole. The effect of this mathematically is that, while on the classical theory each of the A equations is a relation between amplitudes and frequencies having one particular set of $\\kappa$'s, the amplitudes and frequencies occurring in a quantum A equation do not have one particular set of values for the $n$'s, or for any functions of the $n$'s and $m$'s, but have their $n$'s and $m$'s related in a special way, which will appear later.",
+          "markdown": "In the quantum solution of the problem, according to Heisenberg, we still assume that each co-ordinate can be represented by harmonic components of the form $\\exp. i\\omega t$, the amplitude and frequency of each depending on two sets of numbers $n_1 \\dots n_u$ and $m_1 \\dots m_u$, in this case all integers, and being written $x(nm), \\omega(nm)$. The differences $n_r - m_r$ correspond to the previous $\\alpha_r$, but neither the $n$'s nor any functions of the $n$'s and $m$'s play the part of the previous $\\kappa$'s in pointing out to which solution each particular harmonic component belongs. We cannot, for instance, take together all the components for which the $n$'s have a given set of values, and say that these by themselves form a single complete solution of the equations of motion. The quantum solutions are all interlocked, and must be considered as a single whole. The effect of this mathematically is that, while on the classical theory each of the A equations is a relation between amplitudes and frequencies having one particular set of $\\kappa$'s, the amplitudes and frequencies occurring in a quantum A equation do not have one particular set of values for the $n$'s, or for any functions of the $n$'s and $m$'s, but have their $n$'s and $m$'s related in a special way, which will appear later.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "On the classical theory we have the obvious relation",
+          "markdown": "On the classical theory we have the obvious relation",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.87
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(\\alpha\\omega)_\\kappa + (\\beta\\omega)_\\kappa = (\\alpha + \\beta, \\omega)_\\kappa.$$",
+          "markdown": "$$(\\alpha\\omega)_\\kappa + (\\beta\\omega)_\\kappa = (\\alpha + \\beta, \\omega)_\\kappa.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation requiring LaTeX verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Following Heisenberg, we assume that the corresponding relation on the quantum theory is",
+          "markdown": "Following Heisenberg, we assume that the corresponding relation on the quantum theory is",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.77
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\omega(n, n - \\alpha) + \\omega(n - \\alpha, n - \\alpha - \\beta) = \\omega(n, n - \\alpha - \\beta)$$",
+          "markdown": "$$\\omega(n, n - \\alpha) + \\omega(n - \\alpha, n - \u001b\\alpha - \\beta) = \\omega(n, n - \\alpha - \\beta)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.74
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts; OCR may have misread characters."
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\text{or}\\hspace{1em}\\omega(nm) + \\omega(mk) = \\omega(nk). \\quad (1)$$",
+          "markdown": "or\n\n$$\\omega(nm) + \\omega(mk) = \\omega(nk). \\quad (1)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Equation numbering and LaTeX formatting requires verification."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This means that $\\omega(nm)$ is of the form $\\Omega(n) - \\Omega(m)$, the $\\Omega$'s being frequency levels. On Bohr's theory these would be $2\\pi/h$ times the energy levels, but we do not need to assume this.",
+          "markdown": "This means that $\\omega(nm)$ is of the form $\\Omega(n) - \\Omega(m)$, the $\\Omega$'s being frequency levels. On Bohr's theory these would be $2\\pi/h$ times the energy levels, but we do not need to assume this.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.58,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "On the classical theory we can multiply two harmonic components related to the same set of $\\kappa$'s, as follows :-",
+          "markdown": "On the classical theory we can multiply two harmonic components related to the same set of $\\kappa$'s, as follows :-",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.52,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a_{\\alpha\\kappa} \\exp. i (\\alpha\\omega)_\\kappa t \\cdot b_{\\beta\\kappa} \\exp. i (\\beta\\omega)_\\kappa t = (ab)_{\\alpha+\\beta,\\kappa} \\exp. i (\\alpha + \\beta, \\omega)_\\kappa t$$",
+          "markdown": "$$a_{\\alpha\\kappa} \\exp. i (\\alpha\\omega)_\\kappa t \\cdot b_{\\beta\\kappa} \\exp. i (\\beta\\omega)_\\kappa t = (ab)_{\\alpha+\\beta,\\kappa} \\exp. i (\\alpha + \\beta, \\omega)_\\kappa t$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with subscripts and superscripts."
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "where\n\n$$(ab)_{\\alpha+\\beta,\\kappa} = a_{\\alpha\\kappa} b_{\\beta\\kappa}.$$",
+          "markdown": "where\n\n$$(ab)_{\\alpha+\\beta,\\kappa} = a_{\\alpha\\kappa} b_{\\beta\\kappa}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.38,
+            0.9,
+            0.43
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation requiring LaTeX verification."
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In a corresponding manner on the quantum theory we can multiply an $(nm)$ and an $(mk)$ component",
+          "markdown": "In a corresponding manner on the quantum theory we can multiply an $(nm)$ and an $(mk)$ component",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.33
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a (nm) \\exp. i\\omega (nm) t \\cdot b (mk) \\exp. i\\omega (mk) t = ab (nk) \\exp. i\\omega (nk) t$$",
+          "markdown": "$$a (nm) \\exp. i\\omega (nm) t \\cdot b (mk) \\exp. i\\omega (mk) t = ab (nk) \\exp. i\\omega (nk) t$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.22,
+            0.9,
+            0.27
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts; requires verification."
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "where\n\n$$ab (nk) = a (nm) b (mk).$$",
+          "markdown": "where\n\n$$ab (nk) = a (nm) b (mk).$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation requiring LaTeX verification."
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We are thus led to consider the product of the amplitudes of an $(nm)$ and an $(mk)$ component as an $(nk)$ amplitude. This, together with the rule that only amplitudes related to the same pair of sets of numbers can occur added together in an A equation, replaces the classical rule that all amplitudes occurring in an A equation have the same set of $\\kappa$'s.",
+          "markdown": "We are thus led to consider the product of the amplitudes of an $(nm)$ and an $(mk)$ component as an $(nk)$ amplitude. This, together with the rule that only amplitudes related to the same pair of sets of numbers can occur added together in an A equation, replaces the classical rule that all amplitudes occurring in an A equation have the same set of $\\kappa$'s.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.12,
+            0.9,
+            0.18
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "644",
+          "markdown": "644",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "In the quantum solution of the problem, according to Heisenberg, we still assume that each co-ordinate can be represented by harmonic components of the form $\\exp. i\\omega t$, the amplitude and frequency of each depending on two sets of numbers $n_1 \\dots n_u$ and $m_1 \\dots m_u$, in this case all integers, and being written $x(nm), \\omega(nm)$. The differences $n_r - m_r$ correspond to the previous $\\alpha_r$, but neither the $n$'s nor any functions of the $n$'s and $m$'s play the part of the previous $\\kappa$'s in pointing out to which solution each particular harmonic component belongs. We cannot, for instance, take together all the components for which the $n$'s have a given set of values, and say that these by themselves form a single complete solution of the equations of motion. The quantum solutions are all interlocked, and must be considered as a single whole. The effect of this mathematically is that, while on the classical theory each of the A equations is a relation between amplitudes and frequencies having one particular set of $\\kappa$'s, the amplitudes and frequencies occurring in a quantum A equation do not have one particular set of values for the $n$'s, or for any functions of the $n$'s and $m$'s, but have their $n$'s and $m$'s related in a special way, which will appear later.\n\nOn the classical theory we have the obvious relation\n\n$$(\\alpha\\omega)_\\kappa + (\\beta\\omega)_\\kappa = (\\alpha + \\beta, \\omega)_\\kappa.$$  \n\nFollowing Heisenberg, we assume that the corresponding relation on the quantum theory is\n\n$$\\omega(n, n - \\alpha) + \\omega(n - \\alpha, n - \\alpha - \\beta) = \\omega(n, n - \\alpha - \\beta)$$  \n\nor\n\n$$\\omega(nm) + \\omega(mk) = \\omega(nk). \\quad (1)$$  \n\nThis means that $\\omega(nm)$ is of the form $\\Omega(n) - \\Omega(m)$, the $\\Omega$'s being frequency levels. On Bohr's theory these would be $2\\pi/h$ times the energy levels, but we do not need to assume this.\n\nOn the classical theory we can multiply two harmonic components related to the same set of $\\kappa$'s, as follows :-\n\n$$a_{\\alpha\\kappa} \\exp. i (\\alpha\\omega)_\\kappa t \\cdot b_{\\beta\\kappa} \\exp. i (\\beta\\omega)_\\kappa t = (ab)_{\\alpha+\\beta,\\kappa} \\exp. i (\\alpha + \\beta, \\omega)_\\kappa t$$\n\nwhere\n\n$$(ab)_{\\alpha+\\beta,\\kappa} = a_{\\alpha\\kappa} b_{\\beta\\kappa}.$$  \n\nIn a corresponding manner on the quantum theory we can multiply an $(nm)$ and an $(mk)$ component\n\n$$a (nm) \\exp. i\\omega (nm) t \\cdot b (mk) \\exp. i\\omega (mk) t = ab (nk) \\exp. i\\omega (nk) t$$\n\nwhere\n\n$$ab (nk) = a (nm) b (mk).$$  \n\nWe are thus led to consider the product of the amplitudes of an $(nm)$ and an $(mk)$ component as an $(nk)$ amplitude. This, together with the rule that only amplitudes related to the same pair of sets of numbers can occur added together in an A equation, replaces the classical rule that all amplitudes occurring in an A equation have the same set of $\\kappa$'s.\n\n644",
+      "word_count": 520,
+      "page_quality_notes": [
+        "Page contains extensive mathematical notation and equations. Multiple blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "645",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We are now in a position to perform the ordinary algebraic operations on quantum variables. The sum of $x$ and $y$ is determined by the equations",
+          "markdown": "We are now in a position to perform the ordinary algebraic operations on quantum variables. The sum of $x$ and $y$ is determined by the equations",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\{x + y\\} (nm) = x (nm) + y (nm)$$",
+          "markdown": "$$\\{x + y\\} (nm) = x (nm) + y (nm)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with curly braces; requires LaTeX verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "and the product by",
+          "markdown": "and the product by",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.87
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$xy (nm)_\\kappa = \\Sigma_k x(nk) y (km) \\quad (2)$$",
+          "markdown": "$$xy (nm)_\\kappa = \\Sigma_k x(nk) y (km) \\quad (2)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.84
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts and summation; requires LaTeX verification."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "similar to the classical product",
+          "markdown": "similar to the classical product",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.77
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(xy)_{n\\kappa} = \\Sigma_r x_{r\\kappa} y_{n-r,\\kappa}.$$",
+          "markdown": "$$(xy)_{n\\kappa} = \\Sigma_r x_{r\\kappa} y_{n-r,\\kappa}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.74
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts; requires LaTeX verification."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "An important difference now occurs between the two algebras. In general",
+          "markdown": "An important difference now occurs between the two algebras. In general",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.67
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$xy (nm) \\neq yx (nm)$$",
+          "markdown": "$$xy (nm) \\neq yx (nm)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.63
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical inequality; requires verification."
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "and quantum multiplication is not commutative, although, as is easily verified, it is associative and distributive. The quantity with components $xy (nm)$ defined by (2) we shall call the Heisenberg product of $x$ and $y$, and shall write simply as $xy$. Whenever two quantum quantities occur multiplied together, the Heisenberg product will be understood. Ordinary multiplication is, of course, implied in the products of amplitudes and frequencies and other quantities that are related to sets of $n$'s which are explicitly stated.",
+          "markdown": "and quantum multiplication is not commutative, although, as is easily verified, it is associative and distributive. The quantity with components $xy (nm)$ defined by (2) we shall call the Heisenberg product of $x$ and $y$, and shall write simply as $xy$. Whenever two quantum quantities occur multiplied together, the Heisenberg product will be understood. Ordinary multiplication is, of course, implied in the products of amplitudes and frequencies and other quantities that are related to sets of $n$'s which are explicitly stated.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The reciprocal of a quantum quantity $x$ may be defined by either of the relations",
+          "markdown": "The reciprocal of a quantum quantity $x$ may be defined by either of the relations",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.38
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$1/x \\cdot x = 1 \\quad \\text{or} \\quad x \\cdot 1/x = 1. \\quad (3)$$",
+          "markdown": "$$1/x \\cdot x = 1 \\quad \\text{or} \\quad x \\cdot 1/x = 1. \\quad (3)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.34
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with fractions and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "These two equations are equivalent, since if we multiply both sides of the former by $x$ in front and divide by $x$ behind we get the latter. In a similar way the square root of $x$ may be defined by",
+          "markdown": "These two equations are equivalent, since if we multiply both sides of the former by $x$ in front and divide by $x$ behind we get the latter. In a similar way the square root of $x$ may be defined by",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.22,
+            0.9,
+            0.28
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\sqrt{x} \\cdot \\sqrt{x} = x. \\quad (4)$$",
+          "markdown": "$$\\sqrt{x} \\cdot \\sqrt{x} = x. \\quad (4)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with square root and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It is not obvious that there always should be solutions to (3) and (4). In particular, one may have to introduce sub-harmonics, *i.e.*, new intermediate frequency levels, in order to express $\\sqrt{x}$. One may evade these difficulties by rationalising and multiplying up each equation before interpreting it on the quantum theory and obtaining the A equations from it.",
+          "markdown": "It is not obvious that there always should be solutions to (3) and (4). In particular, one may have to introduce sub-harmonics, *i.e.*, new intermediate frequency levels, in order to express $\\sqrt{x}$. One may evade these difficulties by rationalising and multiplying up each equation before interpreting it on the quantum theory and obtaining the A equations from it.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.18
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "645",
+          "markdown": "645",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "We are now in a position to perform the ordinary algebraic operations on quantum variables. The sum of $x$ and $y$ is determined by the equations\n\n$$\\{x + y\\} (nm) = x (nm) + y (nm)$$  \n\nand the product by\n\n$$xy (nm)_\\kappa = \\Sigma_k x(nk) y (km) \\quad (2)$$  \n\nsimilar to the classical product\n\n$$(xy)_{n\\kappa} = \\Sigma_r x_{r\\kappa} y_{n-r,\\kappa}.$$  \n\nAn important difference now occurs between the two algebras. In general\n\n$$xy (nm) \\neq yx (nm)$$  \n\nand quantum multiplication is not commutative, although, as is easily verified, it is associative and distributive. The quantity with components $xy (nm)$ defined by (2) we shall call the Heisenberg product of $x$ and $y$, and shall write simply as $xy$. Whenever two quantum quantities occur multiplied together, the Heisenberg product will be understood. Ordinary multiplication is, of course, implied in the products of amplitudes and frequencies and other quantities that are related to sets of $n$'s which are explicitly stated.\n\nThe reciprocal of a quantum quantity $x$ may be defined by either of the relations\n\n$$1/x \\cdot x = 1 \\quad \\text{or} \\quad x \\cdot 1/x = 1. \\quad (3)$$  \n\nThese two equations are equivalent, since if we multiply both sides of the former by $x$ in front and divide by $x$ behind we get the latter. In a similar way the square root of $x$ may be defined by\n\n$$\\sqrt{x} \\cdot \\sqrt{x} = x. \\quad (4)$$  \n\nIt is not obvious that there always should be solutions to (3) and (4). In particular, one may have to introduce sub-harmonics, *i.e.*, new intermediate frequency levels, in order to express $\\sqrt{x}$. One may evade these difficulties by rationalising and multiplying up each equation before interpreting it on the quantum theory and obtaining the A equations from it.\n\n645",
+      "word_count": 480,
+      "page_quality_notes": [
+        "Page contains mathematical equations and definitions. Multiple equation blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "646",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We are now able to take over each of the equations of motion of the system into the quantum theory provided we can decide the correct order of the quantities in each of the products. Any equation deducible from the equations of motion by algebraic processes not involving the interchange of the factors of a product, and by differentiation and integration with respect to $t$, may also be taken over into the quantum theory. In particular, the energy equation may be thus taken over.",
+          "markdown": "We are now able to take over each of the equations of motion of the system into the quantum theory provided we can decide the correct order of the quantities in each of the products. Any equation deducible from the equations of motion by algebraic processes not involving the interchange of the factors of a product, and by differentiation and integration with respect to $t$, may also be taken over into the quantum theory. In particular, the energy equation may be thus taken over.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The equations of motion do not suffice to solve the quantum problem. On the classical theory the equations of motion do not determine the $x_{\\alpha\\epsilon}, (\\alpha\\omega)_\\epsilon$ as functions of the $\\kappa$'s until we assume something about the $\\kappa$'s which serves to define them. We could, if we liked, complete the solution by choosing the $\\kappa$'s such that $\\partial E/\\partial \\kappa_r = \\omega_r/2\\pi$, where $E$ is the energy of the system, which would make the $\\kappa_r$ equal the action variables $J_r$. There must be corresponding equations on the quantum theory, and these constitute the quantum conditions.",
+          "markdown": "The equations of motion do not suffice to solve the quantum problem. On the classical theory the equations of motion do not determine the $x_{\\alpha\\epsilon}, (\\alpha\\omega)_\\epsilon$ as functions of the $\\kappa$'s until we assume something about the $\\kappa$'s which serves to define them. We could, if we liked, complete the solution by choosing the $\\kappa$'s such that $\\partial E/\\partial \\kappa_r = \\omega_r/2\\pi$, where $E$ is the energy of the system, which would make the $\\kappa_r$ equal the action variables $J_r$. There must be corresponding equations on the quantum theory, and these constitute the quantum conditions.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 1,
+          "text_original": "§ 3. Quantum Differentiation.",
+          "markdown": "# § 3. Quantum Differentiation.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Up to the present the only differentiation that we have considered on the quantum theory is that with respect to the time $t$. We shall now determine the form of the most general quantum operation $d/dv$ that satisfies the laws",
+          "markdown": "Up to the present the only differentiation that we have considered on the quantum theory is that with respect to the time $t$. We shall now determine the form of the most general quantum operation $d/dv$ that satisfies the laws",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.73
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{d}{dv}(x + y) = \\frac{d}{dv}x + \\frac{d}{dv}y, \\quad (I)$$",
+          "markdown": "$$\\frac{d}{dv}(x + y) = \\frac{d}{dv}x + \\frac{d}{dv}y, \\quad (I)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.69
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with fractions and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\text{and}\\hspace{1em}\\frac{d}{dv}(xy) = \\frac{d}{dv}x \\cdot y + x \\cdot \\frac{d}{dv}y. \\quad (II)$$",
+          "markdown": "and\n\n$$\\frac{d}{dv}(xy) = \\frac{d}{dv}x \\cdot y + x \\cdot \\frac{d}{dv}y. \\quad (II)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with fractions and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Note that the order of $x$ and $y$ is preserved in the last equation.)",
+          "markdown": "(Note that the order of $x$ and $y$ is preserved in the last equation.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The first of these laws requires that the amplitudes of the components of $dx/dv$ shall be linear functions of those of $x$, *i.e.*,",
+          "markdown": "The first of these laws requires that the amplitudes of the components of $dx/dv$ shall be linear functions of those of $x$, *i.e.*,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.53
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$dx/dv(nm) = \\sum_{nm} a(nm; n'm') x(n'm'). \\quad (5)$$",
+          "markdown": "$$dx/dv(nm) = \\sum_{nm} a(nm; n'm') x(n'm'). \\quad (5)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.49
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with summation and subscripts; requires LaTeX verification."
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "There is one coefficient $a(nm; n'm')$ for any four sets of integral values for the $n$'s, $m$'s, $n'$'s and $m'$'s. The second law imposes conditions on the $a$'s. Substitute for the differential coefficients in II their values according to (5) and equate the $(nm)$ components on either side. The result is",
+          "markdown": "There is one coefficient $a(nm; n'm')$ for any four sets of integral values for the $n$'s, $m$'s, $n'$'s and $m'$'s. The second law imposes conditions on the $a$'s. Substitute for the differential coefficients in II their values according to (5) and equate the $(nm)$ components on either side. The result is",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.43
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} \\Sigma_{nm'k} a(nm; n'm') x(n'k) y(km') &= \\Sigma_{kn'k'} a(nk; n'k') x(n'k') y(km) \\\\ &+ \\Sigma_{kk'm} x(nk) a(km; k'm') y(k'm'). \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} \\Sigma_{nm'k} a(nm; n'm') x(n'k) y(km') &= \\Sigma_{kn'k'} a(nk; n'k') x(n'k') y(km) \\\\ &+ \\Sigma_{kk'm} x(nk) a(km; k'm') y(k'm'). \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.33
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical equation with summation and subscripts; requires LaTeX verification."
+        },
+        {
+          "order": 12,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "646",
+          "markdown": "646",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "We are now able to take over each of the equations of motion of the system into the quantum theory provided we can decide the correct order of the quantities in each of the products. Any equation deducible from the equations of motion by algebraic processes not involving the interchange of the factors of a product, and by differentiation and integration with respect to $t$, may also be taken over into the quantum theory. In particular, the energy equation may be thus taken over.\n\nThe equations of motion do not suffice to solve the quantum problem. On the classical theory the equations of motion do not determine the $x_{\\alpha\\epsilon}, (\\alpha\\omega)_\\epsilon$ as functions of the $\\kappa$'s until we assume something about the $\\kappa$'s which serves to define them. We could, if we liked, complete the solution by choosing the $\\kappa$'s such that $\\partial E/\\partial \\kappa_r = \\omega_r/2\\pi$, where $E$ is the energy of the system, which would make the $\\kappa_r$ equal the action variables $J_r$. There must be corresponding equations on the quantum theory, and these constitute the quantum conditions.\n\n# § 3. Quantum Differentiation.\n\nUp to the present the only differentiation that we have considered on the quantum theory is that with respect to the time $t$. We shall now determine the form of the most general quantum operation $d/dv$ that satisfies the laws\n\n$$\\frac{d}{dv}(x + y) = \\frac{d}{dv}x + \\frac{d}{dv}y, \\quad (I)$$  \n\nand\n\n$$\\frac{d}{dv}(xy) = \\frac{d}{dv}x \\cdot y + x \\cdot \\frac{d}{dv}y. \\quad (II)$$  \n\n(Note that the order of $x$ and $y$ is preserved in the last equation.)\n\nThe first of these laws requires that the amplitudes of the components of $dx/dv$ shall be linear functions of those of $x$, *i.e.*,\n\n$$dx/dv(nm) = \\sum_{nm} a(nm; n'm') x(n'm'). \\quad (5)$$  \n\nThere is one coefficient $a(nm; n'm')$ for any four sets of integral values for the $n$'s, $m$'s, $n'$'s and $m'$'s. The second law imposes conditions on the $a$'s. Substitute for the differential coefficients in II their values according to (5) and equate the $(nm)$ components on either side. The result is\n\n$$\\begin{aligned} \\Sigma_{nm'k} a(nm; n'm') x(n'k) y(km') &= \\Sigma_{kn'k'} a(nk; n'k') x(n'k') y(km) \\\\ &+ \\Sigma_{kk'm} x(nk) a(km; k'm') y(k'm'). \\end{aligned}$$\n\n646",
+      "word_count": 420,
+      "page_quality_notes": [
+        "Page contains mathematical equations and definitions. Multiple equation blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "647",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This must be true for all values of the amplitudes of $x$ and $y$, so that we can equate the coefficients of $x(n'k) y(k'm')$ on either side. Using the symbol $\\delta_{mn}$ to have the value unity when $m=n$ (i.e., when each $m_r=n_r$) and zero when $m \\neq n$, we get",
+          "markdown": "This must be true for all values of the amplitudes of $x$ and $y$, so that we can equate the coefficients of $x(n'k) y(k'm')$ on either side. Using the symbol $\\delta_{mn}$ to have the value unity when $m=n$ (i.e., when each $m_r=n_r$) and zero when $m \\neq n$, we get",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\delta_{kk'} a(nm; n'm') = \\delta_{mm'} a(nk'; n'k) + \\delta_{nn'} a(km; k'm').$$",
+          "markdown": "$$\\delta_{kk'} a(nm; n'm') = \\delta_{mm'} a(nk'; n'k) + \\delta_{nn'} a(km; k'm').$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.94
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with Kronecker delta and subscripts; requires LaTeX verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "To proceed further, we have to consider separately the various cases of equality and inequality between the $kk'$, $mm'$ and $nn'$.",
+          "markdown": "To proceed further, we have to consider separately the various cases of equality and inequality between the $kk'$, $mm'$ and $nn'$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.88
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Take first the case when $k=k'$, $m \\neq m'$, $n \\neq n'$. This gives",
+          "markdown": "Take first the case when $k=k'$, $m \\neq m'$, $n \\neq n'$. This gives",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a(nm; n'm') = 0.$$",
+          "markdown": "$$a(nm; n'm') = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Simple mathematical equation; requires verification."
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hence all the $a(nm; n'm')$ vanish except those for which either $n=n'$ or $m=m'$ (or both). The cases $k \\neq k'$, $m=m'$, $n \\neq n'$ and $k \\neq k'$, $m \\neq m'$, $n=n'$ do not give us anything new. Now take the case $k=k'$, $m=m'$, $n \\neq n'$. This gives",
+          "markdown": "Hence all the $a(nm; n'm')$ vanish except those for which either $n=n'$ or $m=m'$ (or both). The cases $k \\neq k'$, $m=m'$, $n \\neq n'$ and $k \\neq k'$, $m \\neq m'$, $n=n'$ do not give us anything new. Now take the case $k=k'$, $m=m'$, $n \\neq n'$. This gives",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a(nm; n'm) = a(nk; n'k).$$",
+          "markdown": "$$a(nm; n'm) = a(nk; n'k).$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts; requires LaTeX verification."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hence $a(nm; n'm)$ is independent of $m$ provided $n \\neq n'$. Similarly, the case $k=k'$, $m \\neq m'$, $n=n'$ tells us that $a(nm; nm')$ is independent of $n$ provided $m \\neq m'$. The case $k \\neq k'$, $m=m'$, $n=n'$ now gives",
+          "markdown": "Hence $a(nm; n'm)$ is independent of $m$ provided $n \\neq n'$. Similarly, the case $k=k'$, $m \\neq m'$, $n=n'$ tells us that $a(nm; nm')$ is independent of $n$ provided $m \\neq m'$. The case $k \\neq k'$, $m=m'$, $n=n'$ now gives",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a(nk'; nk) + a(km; k'm) = 0.$$",
+          "markdown": "$$a(nk'; nk) + a(km; k'm) = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.49
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts; requires verification."
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We can sum up these results by putting",
+          "markdown": "We can sum up these results by putting",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.43
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a(nk'; nk) = a(kk') = -a(km; k'm), \\quad (6)$$",
+          "markdown": "$$a(nk'; nk) = a(kk') = -a(km; k'm), \\quad (6)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "provided $k \\neq k'$. The two-index symbol $a(kk')$ depends, of course, only on the two sets of integers $k$ and $k'$. The only remaining case is $k=k'$, $m=m'$, $n=n'$, which gives",
+          "markdown": "provided $k \\neq k'$. The two-index symbol $a(kk')$ depends, of course, only on the two sets of integers $k$ and $k'$. The only remaining case is $k=k'$, $m=m'$, $n=n'$, which gives",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.34
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a(nm; nm) = a(nk; nk) + a(km; km).$$",
+          "markdown": "$$a(nm; nm) = a(nk; nk) + a(km; km).$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.29
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts; requires verification."
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This means we can put",
+          "markdown": "This means we can put",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.23
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a(nm; nm) = a(mm) - a(nn). \\quad (7)$$",
+          "markdown": "$$a(nm; nm) = a(mm) - a(nn). \\quad (7)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 16,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "647",
+          "markdown": "647",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "This must be true for all values of the amplitudes of $x$ and $y$, so that we can equate the coefficients of $x(n'k) y(k'm')$ on either side. Using the symbol $\\delta_{mn}$ to have the value unity when $m=n$ (i.e., when each $m_r=n_r$) and zero when $m \\neq n$, we get\n\n$$\\delta_{kk'} a(nm; n'm') = \\delta_{mm'} a(nk'; n'k) + \\delta_{nn'} a(km; k'm').$$  \n\nTo proceed further, we have to consider separately the various cases of equality and inequality between the $kk'$, $mm'$ and $nn'$.\n\nTake first the case when $k=k'$, $m \\neq m'$, $n \\neq n'$. This gives\n\n$$a(nm; n'm') = 0.$$  \n\nHence all the $a(nm; n'm')$ vanish except those for which either $n=n'$ or $m=m'$ (or both). The cases $k \\neq k'$, $m=m'$, $n \\neq n'$ and $k \\neq k'$, $m \\neq m'$, $n=n'$ do not give us anything new. Now take the case $k=k'$, $m=m'$, $n \\neq n'$. This gives\n\n$$a(nm; n'm) = a(nk; n'k).$$  \n\nHence $a(nm; n'm)$ is independent of $m$ provided $n \\neq n'$. Similarly, the case $k=k'$, $m \\neq m'$, $n=n'$ tells us that $a(nm; nm')$ is independent of $n$ provided $m \\neq m'$. The case $k \\neq k'$, $m=m'$, $n=n'$ now gives\n\n$$a(nk'; nk) + a(km; k'm) = 0.$$  \n\nWe can sum up these results by putting\n\n$$a(nk'; nk) = a(kk') = -a(km; k'm), \\quad (6)$$  \n\nprovided $k \\neq k'$. The two-index symbol $a(kk')$ depends, of course, only on the two sets of integers $k$ and $k'$. The only remaining case is $k=k'$, $m=m'$, $n=n'$, which gives\n\n$$a(nm; nm) = a(nk; nk) + a(km; km).$$  \n\nThis means we can put\n\n$$a(nm; nm) = a(mm) - a(nn). \\quad (7)$$  \n\n647",
+      "word_count": 480,
+      "page_quality_notes": [
+        "Page contains mathematical equations and definitions. Multiple equation blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "648",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Equation (7) completes equation (6) by defining $a(kk')$ when $k=k'$.",
+          "markdown": "Equation (7) completes equation (6) by defining $a(kk')$ when $k=k'$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} dx/dv(nm) = \\Sigma_{m' \\neq m} a(nm; nm') x(nm') + \\Sigma_{n' \\neq n} a(nm; n'm) x(n'm) \\\\ \\hspace{2.5em} + a(nm; nm) x(nm) \\\\ \\hspace{2.5em} = \\Sigma_{m' \\neq m} a(m'm) x(nm') - \\Sigma_{n' \\neq n} a(nn') x(n'm) \\\\ \\hspace{2.5em} + \\{a(mm) - a(nn)\\} x(nm) \\\\ \\hspace{2.5em} = \\Sigma_k \\{x(nk) a(km) - a(nk) x(km)\\}. \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} dx/dv(nm) = \\Sigma_{m' \\neq m} a(nm; nm') x(nm') + \\Sigma_{n' \\neq n} a(nm; n'm) x(n'm) \\\\ \\hspace{2.5em} + a(nm; nm) x(nm) \\\\ \\hspace{2.5em} = \\Sigma_{m' \\neq m} a(m'm) x(nm') - \\Sigma_{n' \\neq n} a(nn') x(n'm) \\\\ \\hspace{2.5em} + \\{a(mm) - a(nn)\\} x(nm) \\\\ \\hspace{2.5em} = \\Sigma_k \\{x(nk) a(km) - a(nk) x(km)\\}. \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical equation with summation and subscripts; requires LaTeX verification."
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Hence\n\n$$dx/dv = xa - ax.$$  \n\n(8)",
+          "markdown": "Hence\n\n$$dx/dv = xa - ax.$$  \n\n(8)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Thus the most general operation satisfying the laws I and II that one can perform upon a quantum variable is that of taking the difference of its Heisenberg products with some other quantum variable. It is easily seen that one cannot in general change the order of differentiations, i.e.,",
+          "markdown": "Thus the most general operation satisfying the laws I and II that one can perform upon a quantum variable is that of taking the difference of its Heisenberg products with some other quantum variable. It is easily seen that one cannot in general change the order of differentiations, i.e.,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.72
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{d^2x}{du dv} \\neq \\frac{d^2x}{dv du}.$$",
+          "markdown": "$$\\frac{d^2x}{du dv} \\neq \\frac{d^2x}{dv du}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with fractions and inequality; requires LaTeX verification."
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "As an example in quantum differentiation we may take the case when (a) is a constant, so that a (nm) = 0 except when n = m. We get",
+          "markdown": "As an example in quantum differentiation we may take the case when (a) is a constant, so that a (nm) = 0 except when n = m. We get",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.59
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$dx/dv(nm) = x(nm) a(mm) - a(nn) x(nm).$$",
+          "markdown": "$$dx/dv(nm) = x(nm) a(mm) - a(nn) x(nm).$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.54
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts; requires verification."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In particular, if ia (mm) = $\\Omega (m)$, the frequency level previously introduced, we have",
+          "markdown": "In particular, if ia (mm) = $\\Omega (m)$, the frequency level previously introduced, we have",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.49
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$dx/dv(nm) = i\\omega(nm) x(nm),$$",
+          "markdown": "$$dx/dv(nm) = i\\omega(nm) x(nm),$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.44
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts and imaginary unit; requires LaTeX verification."
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "and our differentiation with respect to v becomes ordinary differentiation with respect to t.",
+          "markdown": "and our differentiation with respect to v becomes ordinary differentiation with respect to t.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.39
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "heading",
+          "level": 1,
+          "text_original": "§ 4. The Quantum Conditions.",
+          "markdown": "# § 4. The Quantum Conditions.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.33
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "648",
+          "markdown": "648",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Equation (7) completes equation (6) by defining $a(kk')$ when $k=k'$.\n\n$$\\begin{array}{l} dx/dv(nm) = \\Sigma_{m' \\neq m} a(nm; nm') x(nm') + \\Sigma_{n' \\neq n} a(nm; n'm) x(n'm) \\\\ \\hspace{2.5em} + a(nm; nm) x(nm) \\\\ \\hspace{2.5em} = \\Sigma_{m' \\neq m} a(m'm) x(nm') - \\Sigma_{n' \\neq n} a(nn') x(n'm) \\\\ \\hspace{2.5em} + \\{a(mm) - a(nn)\\} x(nm) \\\\ \\hspace{2.5em} = \\Sigma_k \\{x(nk) a(km) - a(nk) x(km)\\}. \\end{array}$$\n\nHence\n\n$$dx/dv = xa - ax.$$  \n\n(8)\n\nThus the most general operation satisfying the laws I and II that one can perform upon a quantum variable is that of taking the difference of its Heisenberg products with some other quantum variable. It is easily seen that one cannot in general change the order of differentiations, i.e.,\n\n$$\\frac{d^2x}{du dv} \\neq \\frac{d^2x}{dv du}.$$  \n\nAs an example in quantum differentiation we may take the case when (a) is a constant, so that a (nm) = 0 except when n = m. We get\n\n$$dx/dv(nm) = x(nm) a(mm) - a(nn) x(nm).$$  \n\nIn particular, if ia (mm) = $\\Omega (m)$, the frequency level previously introduced, we have\n\n$$dx/dv(nm) = i\\omega(nm) x(nm),$$  \n\nand our differentiation with respect to v becomes ordinary differentiation with respect to t.\n\n# § 4. The Quantum Conditions.\n\n648",
+      "word_count": 380,
+      "page_quality_notes": [
+        "Page contains mathematical equations and definitions. Multiple equation blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "649",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We shall now consider to what the expression $(xy - yx)$ corresponds on the classical theory. To do this we suppose that x (n, n - α) varies only slowly with the n's, the n's being large numbers and the α's small ones, so that we can put",
+          "markdown": "We shall now consider to what the expression $(xy - yx)$ corresponds on the classical theory. To do this we suppose that x (n, n - α) varies only slowly with the n's, the n's being large numbers and the α's small ones, so that we can put",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$x(n, n - \\alpha) = x_{\\alpha\\kappa}$$",
+          "markdown": "$$x(n, n - \\alpha) = x_{\\alpha\\kappa}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts; requires LaTeX verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where $\\kappa_r = n_r h$ or $(n_r + \\alpha_r) h$, these being practically equivalent. We now have",
+          "markdown": "where $\\kappa_r = n_r h$ or $(n_r + \\alpha_r) h$, these being practically equivalent. We now have",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.88
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} x(n, n - \\alpha) y(n - \\alpha, n - \\alpha - \\beta) - y(n, n - \\beta) x(n - \\beta, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} = \\{x(n, n - \\alpha) - x(n - \\beta, n - \\beta - \\alpha)\\}\\ y(n - \\alpha, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} - \\{y(n, n - \\beta) - y(n - \\alpha, n - \\alpha - \\beta)\\}\\ x(n - \\beta, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} = h\\Sigma_r \\left\\{ \\beta_r \\frac{\\partial x_{\\alpha\\kappa}}{\\partial \\kappa_r} y_{\\beta\\kappa} - \\alpha_r \\frac{\\partial y_{\\beta\\kappa}}{\\partial \\kappa_r} x_{\\alpha\\kappa} \\right\\}. \\quad (9) \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} x(n, n - \\alpha) y(n - \\alpha, n - \\alpha - \\beta) - y(n, n - \\beta) x(n - \\beta, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} = \\{x(n, n - \\alpha) - x(n - \\beta, n - \\beta - \\alpha)\\}\\ y(n - \\alpha, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} - \\{y(n, n - \\beta) - y(n - \\alpha, n - \\alpha - \\beta)\\}\\ x(n - \\beta, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} = h\\Sigma_r \\left\\{ \\beta_r \\frac{\\partial x_{\\alpha\\kappa}}{\\partial \\kappa_r} y_{\\beta\\kappa} - \\alpha_r \\frac{\\partial y_{\\beta\\kappa}}{\\partial \\kappa_r} x_{\\alpha\\kappa} \\right\\}. \\quad (9) \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.88
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical equation with summation and partial derivatives; requires LaTeX verification."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Now",
+          "markdown": "Now",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.67
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$2\\pi i \\beta_r y_\\beta \\exp. i (\\beta \\omega) t = \\frac{\\partial}{\\partial w_r} \\{y_\\beta \\exp. i (\\beta \\omega) t$$",
+          "markdown": "$$2\\pi i \\beta_r y_\\beta \\exp. i (\\beta \\omega) t = \\frac{\\partial}{\\partial w_r} \\{y_\\beta \\exp. i (\\beta \\omega) t$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with partial derivative and exponential; requires LaTeX verification."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where the $w_r$ are the angle variables, equal to $\\omega_r t / 2\\pi$. Hence the $(nm)$ component of $(xy - yx)$ corresponds on the classical theory to",
+          "markdown": "where the $w_r$ are the angle variables, equal to $\\omega_r t / 2\\pi$. Hence the $(nm)$ component of $(xy - yx)$ corresponds on the classical theory to",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.59
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{ih}{2\\pi} \\Sigma_{\\alpha+\\beta=n-m} \\Sigma_r \\left\\{ \\frac{\\partial}{\\partial \\kappa_r} \\{x_\\alpha \\exp i (\\alpha \\omega) t\\} \\frac{\\partial}{\\partial w_r} \\{y_\\beta \\exp i (\\beta \\omega) t\\} - \\frac{\\partial}{\\partial \\kappa_r} \\{y_\\beta \\exp i (\\beta \\omega) t\\} \\frac{\\partial}{\\partial w_r} \\{x_\\alpha \\exp i (\\alpha \\omega) t\\} \\right\\}$$",
+          "markdown": "$$\\frac{ih}{2\\pi} \\Sigma_{\\alpha+\\beta=n-m} \\Sigma_r \\left\\{ \\frac{\\partial}{\\partial \\kappa_r} \\{x_\\alpha \\exp i (\\alpha \\omega) t\\} \\frac{\\partial}{\\partial w_r} \\{y_\\beta \\exp i (\\beta \\omega) t\\} - \\frac{\\partial}{\\partial \\kappa_r} \\{y_\\beta \\exp i (\\beta \\omega) t\\} \\frac{\\partial}{\\partial w_r} \\{x_\\alpha \\exp i (\\alpha \\omega) t\\} \\right\\}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical equation with summation, partial derivatives, and exponentials; requires LaTeX verification."
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "or $(xy - yx)$ itself corresponds to",
+          "markdown": "or $(xy - yx)$ itself corresponds to",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.43
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$- \\frac{ih}{2\\pi} \\Sigma_r \\left\\{ \\frac{\\partial x}{\\partial \\kappa_r} \\frac{\\partial y}{\\partial w_r} - \\frac{\\partial y}{\\partial \\kappa_r} \\frac{\\partial x}{\\partial w_r} \\right\\}.$$",
+          "markdown": "$$- \\frac{ih}{2\\pi} \\Sigma_r \\left\\{ \\frac{\\partial x}{\\partial \\kappa_r} \\frac{\\\\\\npartial y}{\\partial w_r} - \\frac{\\partial y}{\\partial \\kappa_r} \\frac{\\partial x}{\\partial w_r} \\right\\}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.42
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with partial derivatives and summation; requires LaTeX verification."
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If we make the $\\kappa_r$ equal the action variables $J_r$, this becomes $ih/2\\pi$ times the Poisson (or Jacobi) bracket expression",
+          "markdown": "If we make the $\\kappa_r$ equal the action variables $J_r$, this becomes $ih/2\\pi$ times the Poisson (or Jacobi) bracket expression",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.34
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$[x, y] = \\Sigma_r \\left\\{ \\frac{\\partial x}{\\partial w_r} \\frac{\\partial y}{\\partial J_r} - \\frac{\\partial y}{\\partial w_r} \\frac{\\partial x}{\\partial J_r} \\right\\} = \\Sigma_r \\left\\{ \\frac{\\partial x}{\\partial q_r} \\frac{\\partial y}{\\partial p_r} - \\frac{\\partial y}{\\partial q_r} \\frac{\\partial x}{\\partial p_r} \\right\\}$$",
+          "markdown": "$$[x, y] = \\Sigma_r \\left\\{ \\frac{\\partial x}{\\partial w_r} \\frac{\\partial y}{\\partial J_r} - \\frac{\\partial y}{\\partial w_r} \\frac{\\partial x}{\\partial J_r} \\right\\} = \\Sigma_r \\left\\{ \\frac{\\partial x}{\\partial q_r} \\frac{\\partial y}{\\partial p_r} - \\frac{\\partial y}{\\partial q_r} \\frac{\\partial x}{\\partial p_r} \\right\\}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.32
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with Poisson bracket notation and partial derivatives; requires LaTeX verification."
+        },
+        {
+          "order": 13,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "649",
+          "markdown": "649",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "We shall now consider to what the expression $(xy - yx)$ corresponds on the classical theory. To do this we suppose that x (n, n - α) varies only slowly with the n's, the n's being large numbers and the α's small ones, so that we can put\n\n$$x(n, n - \\alpha) = x_{\\alpha\\kappa}$$  \n\nwhere $\\kappa_r = n_r h$ or $(n_r + \\alpha_r) h$, these being practically equivalent. We now have\n\n$$\\begin{array}{l} x(n, n - \\alpha) y(n - \\alpha, n - \\alpha - \\beta) - y(n, n - \\beta) x(n - \\beta, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} = \\{x(n, n - \\alpha) - x(n - \\beta, n - \\beta - \\alpha)\\}\\ y(n - \\alpha, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} - \\{y(n, n - \\beta) - y(n - \\alpha, n - \\alpha - \\beta)\\}\\ x(n - \\beta, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} = h\\Sigma_r \\left\\{ \\beta_r \\frac{\\partial x_{\\alpha\\kappa}}{\\partial \\kappa_r} y_{\\beta\\kappa} - \\alpha_r \\frac{\\partial y_{\\beta\\kappa}}{\\partial \\kappa_r} x_{\\alpha\\kappa} \\right\\}. \\quad (9) \\end{array}$$\n\nNow\n\n$$2\\pi i \\beta_r y_\\beta \\exp. i (\\beta \\omega) t = \\frac{\\partial}{\\partial w_r} \\{y_\\beta \\exp. i (\\beta \\omega) t$$  \n\nwhere the $w_r$ are the angle variables, equal to $\\omega_r t / 2\\pi$. Hence the $(nm)$ component of $(xy - yx)$ corresponds on the classical theory to\n\n$$\\frac{ih}{2\\pi} \\Sigma_{\\alpha+\\beta=n-m} \\Sigma_r \\left\\{ \\frac{\\partial}{\\partial \\kappa_r} \\{x_\\alpha \\exp i (\\alpha \\omega) t\\} \\frac{\\partial}{\\partial w_r} \\{y_\\beta \\exp i (\\beta \\omega) t\\} - \\frac{\\partial}{\\partial \\kappa_r} \\{y_\\beta \\exp i (\\beta \\omega) t\\} \\frac{\\partial}{\\partial w_r} \\{x_\\alpha \\exp i (\\alpha \\omega) t\\} \\right\\}$$  \n\nor $(xy - yx)$ itself corresponds to\n\n$$- \\frac{ih}{2\\pi} \\Sigma_r \\left\\{ \\frac{\\partial x}{\\partial \\kappa_r} \\frac{\\partial y}{\\partial w_r} - \\frac{\\partial y}{\\partial \\kappa_r} \\frac{\\partial x}{\\partial w_r} \\right\\}.$$  \n\nIf we make the $\\kappa_r$ equal the action variables $J_r$, this becomes $ih/2\\pi$ times the Poisson (or Jacobi) bracket expression\n\n$$[x, y] = \\Sigma_r \\left\\{ \\frac{\\partial x}{\\partial w_r} \\frac{\\partial y}{\\partial J_r} - \\frac{\\partial y}{\\partial w_r} \\frac{\\partial x}{\\partial J_r} \\right\\} = \\Sigma_r \\left\\{ \\frac{\\partial x}{\\partial q_r} \\frac{\\partial y}{\\partial p_r} - \\frac{\\partial y}{\\partial q_r} \\frac{\\partial x}{\\partial p_r} \\right\\}$$  \n\n649",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Page contains complex mathematical equations with partial derivatives and Poisson brackets. Multiple equation blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": "650",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The elementary Poisson bracket expressions for various combinations of the $p$'s and $q$'s are",
+          "markdown": "The elementary Poisson bracket expressions for various combinations of the $p$'s and $q$'s are",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left. \\begin{aligned} [q_r, q_s] &= 0, & [p_r, p_s] &= 0, \\\\ [q_r, p_s] &= \\delta_{rs} = 0 & (r \\neq s) \\\\ &= 1. & (r = s) \\end{aligned} \\right\\} \\quad (10)$$",
+          "markdown": "$$\\left. \\begin{aligned} [q_r, q_s] &= 0, & [p_r, p_s] &= 0, \\\\ [q_r, p_s] &= \\delta_{rs} = 0 & (r \\neq s) \\\\ &= 1. & (r = s) \\end{aligned} \\right\\} \\quad (10)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.94
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with Poisson brackets and Kronecker delta; requires LaTeX verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The general bracket expressions satisfy the laws I and II, which now read",
+          "markdown": "The general bracket expressions satisfy the laws I and II, which now read",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} [x, z] + [y, z] &= [x + y, z], & \\text{IA} \\\\ [xy, z] &= [x, z] y + x [y, z]. & \\text{IIA} \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} [x, z] + [y, z] &= [x + y, z], & \\text{IA} \\\\ [xy, z] &= [x, z] y + x [y, z]. & \\text{IIA} \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.82
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equations with Poisson brackets and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "By means of these laws, together with $[x, y] = - [y, x]$, if $x$ and $y$ are given as algebraic functions of the $p_r$ and $q_r$, $[x, y]$ can be expressed in terms of the $[q_r, q_s]$, $[p_r, p_s]$ and $[q_r, p_s]$, and thus evaluated, without using the commutative law of multiplication (except in so far as it is used implicitly on account of the proof of IIA requiring it). The bracket expression $[x, y]$ thus has a meaning on the quantum theory when $x$ and $y$ are quantum variables, if we take the elementary bracket expressions to be still given by (10).",
+          "markdown": "By means of these laws, together with $[x, y] = - [y, x]$, if $x$ and $y$ are given as algebraic functions of the $p_r$ and $q_r$, $[x, y]$ can be expressed in terms of the $[q_r, q_s]$, $[p_r, p_s]$ and $[q_r, p_s]$, and thus evaluated, without using the commutative law of multiplication (except in so far as it is used implicitly on account of the proof of IIA requiring it). The bracket expression $[x, y]$ thus has a meaning on the quantum theory when $x$ and $y$ are quantum variables, if we take the elementary bracket expressions to be still given by (10).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.73
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We make the fundamental assumption that the *difference between the Heisenberg products of two quantum quantities* is equal to $ih/2\\pi$ times their Poisson bracket expression. In symbols,",
+          "markdown": "We make the fundamental assumption that the *difference between the Heisenberg products of two quantum quantities* is equal to $ih/2\\pi$ times their Poisson bracket expression. In symbols,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.59
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$xy - yx = ih/2\\pi \\cdot [x, y]. \\quad (11)$$",
+          "markdown": "$$xy - yx = ih/2\\pi \\cdot [x, y]. \\quad (11)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.54
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We have seen that this is equivalent, in the limiting case of the classical theory, to taking the arbitrary quantities $\\kappa_r$ that label a solution equal to the $J_r$, and it seems reasonable to take (11) as constituting the general quantum conditions.",
+          "markdown": "We have seen that this is equivalent, in the limiting case of the classical theory, to taking the arbitrary quantities $\\kappa_r$ that label a solution equal to the $J_r$, and it seems reasonable to take (11) as constituting the general quantum conditions.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.49
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It is not obvious that all the information supplied by equation (11) is consistent. Owing to the fact that the quantities on either side of (11) satisfy the same laws I and II or IA and IIA, the only independent conditions given by (11) are those for which $x$ and $y$ are $p$'s or $q$'s, namely",
+          "markdown": "It is not obvious that all the information supplied by equation (11) is consistent. Owing to the fact that the quantities on either side of (11) satisfy the same laws I and II or IA and IIA, the only independent conditions given by (11) are those for which $x$ and $y$ are $p$'s or $q$'s, namely",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.44
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left. \\begin{aligned} q_r q_s - q_s q_r &= 0 \\\\ p_r p_s - p_s p_r &= 0 \\\\ q_r p_s - p_s q_r &= \\delta_{rs} ih/2\\pi \\end{aligned} \\right\\} \\quad (12)$$",
+          "markdown": "$$\\left. \\begin{aligned} q_r q_s - q_s q_r &= 0 \\\\ p_r p_s - p_s p_r &= 0 \\\\ q_r p_s - p_s q_r &= \\delta_{rs} ih/2\\pi \\end{aligned} \\right\\} \\quad (12)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.42
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equations with commutators and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 11,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "650",
+          "markdown": "650",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "The elementary Poisson bracket expressions for various combinations of the $p$'s and $q$'s are\n\n$$\\left. \\begin{aligned} [q_r, q_s] &= 0, & [p_r, p_s] &= 0, \\\\ [q_r, p_s] &= \\delta_{rs} = 0 & (r \\neq s) \\\\ &= 1. & (r = s) \\end{aligned} \\right\\} \\quad (10)$$  \n\nThe general bracket expressions satisfy the laws I and II, which now read\n\n$$\\begin{aligned} [x, z] + [y, z] &= [x + y, z], & \\text{IA} \\\\ [xy, z] &= [x, z] y + x [y, z]. & \\text{IIA} \\end{aligned}$$  \n\nBy means of these laws, together with $[x, y] = - [y, x]$, if $x$ and $y$ are given as algebraic functions of the $p_r$ and $q_r$, $[x, y]$ can be expressed in terms of the $[q_r, q_s]$, $[p_r, p_s]$ and $[q_r, p_s]$, and thus evaluated, without using the commutative law of multiplication (except in so far as it is used implicitly on account of the proof of IIA requiring it). The bracket expression $[x, y]$ thus has a meaning on the quantum theory when $x$ and $y$ are quantum variables, if we take the elementary bracket expressions to be still given by (10).\n\nWe make the fundamental assumption that the *difference between the Heisenberg products of two quantum quantities* is equal to $ih/2\\pi$ times their Poisson bracket expression. In symbols,\n\n$$xy - yx = ih/2\\pi \\cdot [x, y]. \\quad (11)$$  \n\nWe have seen that this is equivalent, in the limiting case of the classical theory, to taking the arbitrary quantities $\\kappa_r$ that label a solution equal to the $J_r$, and it seems reasonable to take (11) as constituting the general quantum conditions.\n\nIt is not obvious that all the information supplied by equation (11) is consistent. Owing to the fact that the quantities on either side of (11) satisfy the same laws I and II or IA and IIA, the only independent conditions given by (11) are those for which $x$ and $y$ are $p$'s or $q$'s, namely\n\n$$\\left. \\begin{aligned} q_r q_s - q_s q_r &= 0 \\\\ p_r p_s - p_s p_r &= 0 \\\\ q_r p_s - p_s q_r &= \\delta_{rs} ih/2\\pi \\end{aligned} \\right\\} \\quad (12)$$  \n\n650",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Page contains mathematical equations with Poisson brackets and commutators. Multiple equation blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 10,
+      "printed_page_number": "651",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If the only grounds for believing that the equations (12) were consistent with each other and with the equations of motion were that they are known to be consistent in the limit when $h \\rightarrow 0$, the case would not be very strong, since one might be able to deduce from them the inconsistency that $h = 0$, which would not be an inconsistency in the limit. There is much stronger evidence than this, however, owing to the fact that the classical operations obey the same laws as the quantum ones, so that if, by applying the quantum operations, one can get an inconsistency, by applying the classical operations in the same way one must also get an inconsistency. If a series of classical operations leads to the equation $0 = 0$, the corresponding series of quantum operations must also lead to the equation $0 = 0$, and not to $h = 0$, since there is no way of obtaining a quantity that does not vanish by a quantum operation with quantum variables such that the corresponding classical operation with the corresponding classical variables gives a quantity that does vanish. The possibility mentioned above of deducing by quantum operations the inconsistency $h = 0$ thus cannot occur. *The correspondence between the quantum and classical theories lies not so much in the limiting agreement when $h \\rightarrow 0$ as in the fact that the mathematical operations on the two theories obey in many cases the same laws.*",
+          "markdown": "If the only grounds for believing that the equations (12) were consistent with each other and with the equations of motion were that they are known to be consistent in the limit when $h \\rightarrow 0$, the case would not be very strong, since one might be able to deduce from them the inconsistency that $h = 0$, which would not be an inconsistency in the limit. There is much stronger evidence than this, however, owing to the fact that the classical operations obey the same laws as the quantum ones, so that if, by applying the quantum operations, one can get an inconsistency, by applying the classical operations in the same way one must also get an inconsistency. If a series of classical operations leads to the equation $0 = 0$, the corresponding series of quantum operations must also lead to the equation $0 = 0$, and not to $h = 0$, since there is no way of obtaining a quantity that does not vanish by a quantum operation with quantum variables such that the corresponding classical operation with the corresponding classical variables gives a quantity that does vanish. The possibility mentioned above of deducing by quantum operations the inconsistency $h = 0$ thus cannot occur. *The correspondence between the quantum and classical theories lies not so much in the limiting agreement when $h \\rightarrow 0$ as in the fact that the mathematical operations on the two theories obey in many cases the same laws.*",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "For a system of one degree of freedom, if we take $p = m\\dot{q}$, the only quantum condition is",
+          "markdown": "For a system of one degree of freedom, if we take $p = m\\dot{q}$, the only quantum condition is",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$2\\pi m (q\\dot{q} - \\dot{q}q) = ih.$$",
+          "markdown": "$$2\\pi m (q\\dot{q} - \\dot{q}q) = ih.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.89
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with time derivatives; requires LaTeX verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Equating the constant part of the left-hand side to $h$, we get",
+          "markdown": "Equating the constant part of the left-hand side to $h$, we get",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$4\\pi m \\Sigma_k q(nk) q(kn) \\omega(kn) = h.$$",
+          "markdown": "$$4\\pi m \\Sigma_k q(nk) q(kn) \\omega(kn) = h.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.79
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with summation and subscripts; requires LaTeX verification."
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This is equivalent to Heisenberg's quantum condition.* By equating the remaining components of the left-hand side to zero we get further relations not given by Heisenberg's theory.",
+          "markdown": "This is equivalent to Heisenberg's quantum condition.* By equating the remaining components of the left-hand side to zero we get further relations not given by Heisenberg's theory.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.74
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The quantum conditions (12) get over, in many cases, the difficulties concerning the order in which quantities occurring in products in the equations of motion are to be taken. The order does not matter except when a $p_r$ and $q_r$ are multiplied together, and this never occurs in a system describable by a potential energy function that depends only on the $q$'s, and a kinetic energy function that depends only on the $p$'s.",
+          "markdown": "The quantum conditions (12) get over, in many cases, the difficulties concerning the order in which quantities occurring in products in the equations of motion are to be taken. The order does not matter except when a $p_r$ and $q_r$ are multiplied together, and this never occurs in a system describable by a potential energy function that depends only on the $q$'s, and a kinetic energy function that depends only on the $p$'s.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.69
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It may be pointed out that the classical theory quantity occurring in Kramers' and Heisenberg's theory of scattering by atoms† has components which are of the form (8) (with $\\kappa_r = J_r$), and which are interpreted on the quantum theory in a manner in agreement with the present theory. No classical expression involving differential coefficients can be interpreted on the quantum theory unless it can be put into this form.",
+          "markdown": "It may be pointed out that the classical theory quantity occurring in Kramers' and Heisenberg's theory of scattering by atoms† has components which are of the form (8) (with $\\kappa_r = J_r$), and which are interpreted on the quantum theory in a manner in agreement with the present theory. No classical expression involving differential coefficients can be interpreted on the quantum theory unless it can be put into this form.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "heading",
+          "level": 1,
+          "text_original": "§ 5. Properties of the Quantum Poisson Bracket Expressions.",
+          "markdown": "# § 5. Properties of the Quantum Poisson Bracket Expressions.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.48
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "651",
+          "markdown": "651",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "If the only grounds for believing that the equations (12) were consistent with each other and with the equations of motion were that they are known to be consistent in the limit when $h \\rightarrow 0$, the case would not be very strong, since one might be able to deduce from them the inconsistency that $h = 0$, which would not be an inconsistency in the limit. There is much stronger evidence than this, however, owing to the fact that the classical operations obey the same laws as the quantum ones, so that if, by applying the quantum operations, one can get an inconsistency, by applying the classical operations in the same way one must also get an inconsistency. If a series of classical operations leads to the equation $0 = 0$, the corresponding series of quantum operations must also lead to the equation $0 = 0$, and not to $h = 0$, since there is no way of obtaining a quantity that does not vanish by a quantum operation with quantum variables such that the corresponding classical operation with the corresponding classical variables gives a quantity that does vanish. The possibility mentioned above of deducing by quantum operations the inconsistency $h = 0$ thus cannot occur. *The correspondence between the quantum and classical theories lies not so much in the limiting agreement when $h \\rightarrow 0$ as in the fact that the mathematical operations on the two theories obey in many cases the same laws.*\n\nFor a system of one degree of freedom, if we take $p = m\\dot{q}$, the only quantum condition is\n\n$$2\\pi m (q\\dot{q} - \\dot{q}q) = ih.$$  \n\nEquating the constant part of the left-hand side to $h$, we get\n\n$$4\\pi m \\Sigma_k q(nk) q(kn) \\omega(kn) = h.$$  \n\nThis is equivalent to Heisenberg's quantum condition.* By equating the remaining components of the left-hand side to zero we get further relations not given by Heisenberg's theory.\n\nThe quantum conditions (12) get over, in many cases, the difficulties concerning the order in which quantities occurring in products in the equations of motion are to be taken. The order does not matter except when a $p_r$ and $q_r$ are multiplied together, and this never occurs in a system describable by a potential energy function that depends only on the $q$'s, and a kinetic energy function that depends only on the $p$'s.\n\nIt may be pointed out that the classical theory quantity occurring in Kramers' and Heisenberg's theory of scattering by atoms† has components which are of the form (8) (with $\\kappa_r = J_r$), and which are interpreted on the quantum theory in a manner in agreement with the present theory. No classical expression involving differential coefficients can be interpreted on the quantum theory unless it can be put into this form.\n\n# § 5. Properties of the Quantum Poisson Bracket Expressions.\n\n651",
+      "word_count": 520,
+      "page_quality_notes": [
+        "Page contains mathematical equations and theoretical discussion. Multiple equation blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 11,
+      "printed_page_number": "652",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In this section we shall deduce certain results that are independent of the assumption of the quantum conditions (11) or (12).",
+          "markdown": "In this section we shall deduce certain results that are independent of the assumption of the quantum conditions (11) or (12).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The Poisson bracket expressions satisfy on the classical theory the identity",
+          "markdown": "The Poisson bracket expressions satisfy on the classical theory the identity",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$[x, y, z] \\equiv [[x, y]; z] + [[y, z], x] + [[z, x], y] = 0. \\quad (13)$$",
+          "markdown": "$$[x, y, z] \\equiv [[x, y]; z] + [[y, z], x] + [[z, x], y] = 0. \\quad (13)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with Poisson brackets and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "On the quantum theory this result is obviously true when $x$, $y$ and $z$ are $p$'s or $q$'s. Also, from IA and IIA",
+          "markdown": "On the quantum theory this result is obviously true when $x$, $y$ and $z$ are $p$'s or $q$'s. Also, from IA and IIA",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} [x_1 + x_2, y, z] &= [x_1, y, z] + [x_2, y, z] \\\\ [x_1, x_2, y, z] &= x_1 [x_2, y, z] + [x_1, y, z] x_2. \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} [x_1 + x_2, y, z] &= [x_1, y, z] + [x_2, y, z] \\\\ [x_1, x_2, y, z] &= x_1 [x_2, y, z] + [x_1, y, z] x_2. \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.82
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equations with Poisson brackets; requires LaTeX verification."
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hence the result must still be true on the quantum theory when $x$, $y$ and $z$ are expressible in any way as sums and products of $p$'s and $q$'s, so that it must be generally true. Note that the identity corresponding to (13) when the Poisson bracket expressions are replaced by the differences of the Heisenberg products $(xy - yx)$ is obviously true, so that there is no inconsistency with equation (11).",
+          "markdown": "Hence the result must still be true on the quantum theory when $x$, $y$ and $z$ are expressible in any way as sums and products of $p$'s and $q$'s, so that it must be generally true. Note that the identity corresponding to (13) when the Poisson bracket expressions are replaced by the differences of the Heisenberg products $(xy - yx)$ is obviously true, so that there is no inconsistency with equation (11).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If H is the Hamiltonian function of the system, the equations of motion may be written classically",
+          "markdown": "If H is the Hamiltonian function of the system, the equations of motion may be written classically",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.63
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\dot{p}_r = [p_r, \\mathbf{H}] \\quad \\dot{q}_r = [q_r, \\mathbf{H}].$$",
+          "markdown": "$$\\dot{p}_r = [p_r, \\mathbf{H}] \\quad \\dot{q}_r = [q_r, \\mathbf{H}].$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.59
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equations with time derivatives and Poisson brackets; requires LaTeX verification."
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "These equations will be true on the quantum theory for systems for which the orders of the factors of products occurring in the equations of motion are unimportant. They may be taken to be true for systems for which these orders are important if one can decide upon the orders of the factors in H. From laws IA and IIA it follows that",
+          "markdown": "These equations will be true on the quantum theory for systems for which the orders of the factors of products occurring in the equations of motion are unimportant. They may be taken to be true for systems for which these orders are important if one can decide upon the orders of the factors in H. From laws IA and IIA it follows that",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.53
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\dot{x} = [x, H] \\quad (14)$$",
+          "markdown": "$$\\dot{x} = [x, H] \\quad (14)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.44
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with time derivative and Poisson bracket; requires LaTeX verification."
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "on the quantum theory for any $x$.",
+          "markdown": "on the quantum theory for any $x$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.38
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If A is an integral of the equations of motion on the quantum theory, then",
+          "markdown": "If A is an integral of the equations of motion on the quantum theory, then",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.33
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$[A, H] = 0.$$",
+          "markdown": "$$[A, H] = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.29
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with Poisson bracket; requires LaTeX verification."
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The action variables $J_r$ must, of course, satisfy this condition. If $A_1$ and $A_2$ are two such integrals, then, by a simple application of (13), it follows that",
+          "markdown": "The action variables $J_r$ must, of course, satisfy this condition. If $A_1$ and $A_2$ are two such integrals, then, by a simple application of (13), it follows that",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.24
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$[A_1, A_2] = \\text{const.}$$",
+          "markdown": "$$[A_1, A_2] = \\text{const.}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.19
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with Poisson bracket; requires LaTeX verification."
+        },
+        {
+          "order": 16,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "652",
+          "markdown": "652",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "In this section we shall deduce certain results that are independent of the assumption of the quantum conditions (11) or (12).\n\nThe Poisson bracket expressions satisfy on the classical theory the identity\n\n$$[x, y, z] \\equiv [[x, y]; z] + [[y, z], x] + [[z, x], y] = 0. \\quad (13)$$  \n\nOn the quantum theory this result is obviously true when $x$, $y$ and $z$ are $p$'s or $q$'s. Also, from IA and IIA\n\n$$\\begin{aligned} [x_1 + x_2, y, z] &= [x_1, y, z] + [x_2, y, z] \\\\ [x_1, x_2, y, z] &= x_1 [x_2, y, z] + [x_1, y, z] x_2. \\end{aligned}$$  \n\nHence the result must still be true on the quantum theory when $x$, $y$ and $z$ are expressible in any way as sums and products of $p$'s and $q$'s, so that it must be generally true. Note that the identity corresponding to (13) when the Poisson bracket expressions are replaced by the differences of the Heisenberg products $(xy - yx)$ is obviously true, so that there is no inconsistency with equation (11).\n\nIf H is the Hamiltonian function of the system, the equations of motion may be written classically\n\n$$\\dot{p}_r = [p_r, \\mathbf{H}] \\quad \\dot{q}_r = [q_r, \\mathbf{H}].$$  \n\nThese equations will be true on the quantum theory for systems for which the orders of the factors of products occurring in the equations of motion are unimportant. They may be taken to be true for systems for which these orders are important if one can decide upon the orders of the factors in H. From laws IA and IIA it follows that\n\n$$\\dot{x} = [x, H] \\quad (14)$$  \n\non the quantum theory for any $x$.\n\nIf A is an integral of the equations of motion on the quantum theory, then\n\n$$[A, H] = 0.$$  \n\nThe action variables $J_r$ must, of course, satisfy this condition. If $A_1$ and $A_2$ are two such integrals, then, by a simple application of (13), it follows that\n\n$$[A_1, A_2] = \\text{const.}$$  \n\n652",
+      "word_count": 420,
+      "page_quality_notes": [
+        "Page contains mathematical equations and theoretical discussion. Multiple equation blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 12,
+      "printed_page_number": "653",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The conditions on the classical theory that a set of variables $P_r, Q_r$ shall be canonical are",
+          "markdown": "The conditions on the classical theory that a set of variables $P_r, Q_r$ shall be canonical are",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} [Q_r, Q_s] &= 0 \\quad [P_r, P_s] = 0 \\\\ [Q_r, P_s] &= \\delta_{rs}. \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} [Q_r, Q_s] &= 0 \\quad [P_r, P_s] = 0 \\\\ [Q_r, P_s] &= \\delta_{rs}. \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equations with Poisson brackets; requires LaTeX verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "These equations may be taken over into the quantum theory as the conditions for the quantum variables $P_r, Q_r$ to be canonical.",
+          "markdown": "These equations may be taken over into the quantum theory as the conditions for the quantum variables $P_r, Q_r$ to be canonical.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.88
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "On the classical theory we can introduce the set of canonical variables $\\xi_r, \\eta_r$ related to the uniformising variables $J_r, w_r$, by",
+          "markdown": "On the classical theory we can introduce the set of canonical variables $\\xi_r, \\eta_r$ related to the uniformising variables $J_r, w_r$, by",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\xi_r = (2\\pi)^{-\\frac{1}{2}} J_r^{\\frac{1}{2}} \\exp. 2\\pi i w_r, \\quad \\eta_r = -i (2\\pi)^{-\\frac{1}{2}} J_r^{\\frac{1}{2}} \\exp. -2\\pi i w_r.$$",
+          "markdown": "$$\\xi_r = (2\\pi)^{-\\frac{1}{2}} J_r^{\\frac{1}{2}} \\exp. 2\\pi i w_r, \\quad \\eta_r = -i (2\\pi)^{-\\frac{1}{2}} J_r^{\\frac{1}{2}} \\exp. -2\\pi i w_r.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.82
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with complex exponentials; requires LaTeX verification."
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Presumably there will be a corresponding set of canonical variables on the quantum theory, each containing only one kind of component, so that $\\xi_r(nm) = 0$ except when $m_r = n_r - 1$ and $m_s = n_s (s \\neq r)$, and $\\eta_r(nm) = 0$ except when $m_r = n_r + 1$ and $m_s = n_s (s \\neq r)$. One may consider the existence of such variables as the condition for the system to be multiply periodic on the quantum theory. The components of the Heisenberg products of $\\xi_r$ and $\\eta_r$ satisfy the relation",
+          "markdown": "Presumably there will be a corresponding set of canonical variables on the quantum theory, each containing only one kind of component, so that $\\xi_r(nm) = 0$ except when $m_r = n_r - 1$ and $m_s = n_s (s \\neq r)$, and $\\eta_r(nm) = 0$ except when $m_r = n_r + 1$ and $m_s = n_s (s \\neq r)$. One may consider the existence of such variables as the condition for the system to be multiply periodic on the quantum theory. The components of the Heisenberg products of $\\xi_r$ and $\\eta_r$ satisfy the relation",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.73
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\xi_r \\eta_r(nn) = \\xi_r(nm) \\eta_r(mn) = \\eta_r(mn) \\xi_r(nm) = \\eta_r \\xi_r(mm) \\quad (15)$$",
+          "markdown": "$$\\xi_r \\eta_r(nn) = \\xi_r(nm) \\eta_r(mn) = \\eta_r(mn) \\xi_r(nm) = \\eta_r \\xi_r(mm) \\quad (15)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.62
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with subscripts and equation numbering; requires LaTeX verification."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where the $m$'s are related to the $n$'s by the formulae $m_r = n_r - 1$, $m_s = n_s (s \\neq r)$.",
+          "markdown": "where the $m$'s are related to the $n$'s by the formulae $m_r = n_r - 1$, $m_s = n_s (s \\neq r)$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.54
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The classical $\\xi$'s and $\\eta$'s satisfy $\\xi_r \\eta_r = -i/2\\pi \\cdot J_r$. This relation does not necessarily hold between the quantum $\\xi$'s and $\\eta$'s. The quantum relation may, for instance, be $\\eta_r\\xi_r = -i/2\\pi \\cdot J_r$, or $\\frac{1}{2}(\\xi_r\\eta_r + \\eta_r\\xi_r) = -i/2\\pi \\cdot J_r$. A detailed investigation of any particular dynamical system is necessary in order to decide what it is. In the event of the last relation being true, we can introduce the set of canonical variables $\\xi_r', \\eta_r'$ defined by",
+          "markdown": "The classical $\\xi$'s and $\\eta$'s satisfy $\\xi_r \\eta_r = -i/2\\pi \\cdot J_r$. This relation does not necessarily hold between the quantum $\\xi$'s and $\\eta$'s. The quantum relation may, for instance, be $\\eta_r\\xi_r = -i/2\\pi \\cdot J_r$, or $\\frac{1}{2}(\\xi_r\\eta_r + \\eta_r\\xi_r) = -i/2\\pi \\cdot J_r$. A detailed investigation of any particular dynamical system is necessary in order to decide what it is. In the event of the last relation being true, we can introduce the set of canonical variables $\\xi_r', \\eta_r'$ defined by",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.52
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\xi_r' = (\\xi_r + i\\eta_r)/\\sqrt{2}, \\quad \\eta_r' = (i\\xi_r + \\eta_r)/\\sqrt{2},$$",
+          "markdown": "$$\\xi_r' = (\\xi_r + i\\eta_r)/\\sqrt{2}, \\quad \\eta_r' = (i\\xi_r + \\eta_r)/\\sqrt{2},$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.42
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation with complex numbers; requires LaTeX verification."
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "and shall then have",
+          "markdown": "and shall then have",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.33
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$J_r = \\pi (\\xi_r'^2 + \\eta_r'^2).$$",
+          "markdown": "$$J_r = \\pi (\\xi_r'^2 + \\eta_r'^2).$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.29
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematical equation; requires LaTeX verification."
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This is the case that actually occurs for the harmonic oscillator. In general $J_r$ is not necessarily even a rational function of the $\\xi_r$ and $\\eta_r$, an example of this being the rigid rotator considered by Heisenberg.",
+          "markdown": "This is the case that actually occurs for the harmonic oscillator. In general $J_r$ is not necessarily even a rational function of the $\\xi_r$ and $\\eta_r$, an example of this being the rigid rotator considered by Heisenberg.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.24
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "heading",
+          "level": 1,
+          "text_original": "§ 6. The Stationary States.",
+          "markdown": "# § 6. The Stationary States.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.18
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "653",
+          "markdown": "653",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.02,
+            0.95,
+            0.05
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "The conditions on the classical theory that a set of variables $P_r, Q_r$ shall be canonical are\n\n$$\\begin{aligned} [Q_r, Q_s] &= 0 \\quad [P_r, P_s] = 0 \\\\ [Q_r, P_s] &= \\delta_{rs}. \\end{aligned}$$\n\nThese equations may be taken over into the quantum theory as the conditions for the quantum variables $P_r, Q_r$ to be canonical.\n\nOn the classical theory we can introduce the set of canonical variables $\\xi_r, \\eta_r$ related to the uniformising variables $J_r, w_r$, by\n\n$$\\xi_r = (2\\pi)^{-\\frac{1}{2}} J_r^{\\frac{1}{2}} \\exp. 2\\pi i w_r, \\quad \\eta_r = -i (2\\pi)^{-\\frac{1}{2}} J_r^{\\frac{1}{2}} \\exp. -2\\pi i w_r.$$  \n\nPresumably there will be a corresponding set of canonical variables on the quantum theory, each containing only one kind of component, so that $\\xi_r(nm) = 0$ except when $m_r = n_r - 1$ and $m_s = n_s (s \\neq r)$, and $\\eta_r(nm) = 0$ except when $m_r = n_r + 1$ and $m_s = n_s (s \\neq r)$. One may consider the existence of such variables as the condition for the system to be multiply periodic on the quantum theory. The components of the Heisenberg products of $\\xi_r$ and $\\eta_r$ satisfy the relation\n\n$$\\xi_r \\eta_r(nn) = \\xi_r(nm) \\eta_r(mn) = \\eta_r(mn) \\xi_r(nm) = \\eta_r \\xi_r(mm) \\quad (15)$$  \n\nwhere the $m$'s are related to the $n$'s by the formulae $m_r = n_r - 1$, $m_s = n_s (s \\neq r)$.\n\nThe classical $\\xi$'s and $\\eta$'s satisfy $\\xi_r \\eta_r = -i/2\\pi \\cdot J_r$. This relation does not necessarily hold between the quantum $\\xi$'s and $\\eta$'s. The quantum relation may, for instance, be $\\eta_r\\xi_r = -i/2\\pi \\cdot J_r$, or $\\frac{1}{2}(\\xi_r\\eta_r + \\eta_r\\xi_r) = -i/2\\pi \\cdot J_r$. A detailed investigation of any particular dynamical system is necessary in order to decide what it is. In the event of the last relation being true, we can introduce the set of canonical variables $\\xi_r', \\eta_r'$ defined by\n\n$$\\xi_r' = (\\xi_r + i\\eta_r)/\\sqrt{2}, \\quad \\eta_r' = (i\\xi_r + \\eta_r)/\\sqrt{2},$$\n\nand shall then have\n\n$$J_r = \\pi (\\xi_r'^2 + \\eta_r'^2).$$  \n\nThis is the case that actually occurs for the harmonic oscillator. In general $J_r$ is not necessarily even a rational function of the $\\xi_r$ and $\\eta_r$, an example of this being the rigid rotator considered by Heisenberg.\n\n# § 6. The Stationary States.\n\n653",
+      "word_count": 480,
+      "page_quality_notes": [
+        "Final page of the paper with mathematical equations and theoretical discussion. Multiple equation blocks require manual review for LaTeX accuracy and subscript/superscript rendering."
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "fig_p001_01",
+      "asset_type": "other",
+      "pdf_page_number": 1,
+      "filename": "pictures/royal_society_logo_p001.png",
+      "caption_original": null,
+      "bounding_box": [
+        0.3,
+        0.05,
+        0.7,
+        0.15
+      ],
+      "crop_quality": "good",
+      "crop_notes": "Royal Society logo extracted from title page. High quality scan."
+    }
+  ],
+  "document_statistics": {
+    "pdf_page_count": 12,
+    "ocr_page_count": 12,
+    "total_word_count": 5200,
+    "figure_count": 1,
+    "table_count": 0,
+    "equation_block_count": 45,
+    "pages_requiring_review": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "All pages processed. Title page, mathematical equations, and theoretical content fully captured. Minor OCR errors in complex mathematical notation may require manual review for LaTeX rendering accuracy."
+    ]
+  }
+}

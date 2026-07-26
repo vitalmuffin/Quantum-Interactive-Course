@@ -1,0 +1,209 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 135,
+      "bottomRightX": 644,
+      "bottomRightY": 219,
+      "content": "The approximations to higher than fourth order will not be treated in this work; they correspond to coupling among the three basic types of motion. A calculation of this effect is only meaningful for simultaneous consideration of all degeneracies of electronic motion for stationary nuclei, especially the Heisenberg resonance degeneracy which arises from the equivalence of electrons (also possibly of some nuclei) and in diatomic molecules, from the degeneracy of the eigenrotation about the internuclear axis; these complicated considerations will be forgone here.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 222,
+      "bottomRightX": 644,
+      "bottomRightY": 272,
+      "content": "As an example we will consider diatomic molecules in detail, using not only the general method but also another utilising the separation of variables in which the rotation becomes significant even in the zeroth order approximation, as Born and Hückel [5] have done it in the older quantum theory.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 294,
+      "bottomRightX": 241,
+      "bottomRightY": 308,
+      "content": "## Part I. Notation and Definitions",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 322,
+      "bottomRightX": 642,
+      "bottomRightY": 355,
+      "content": "We denote the mass and rectangular coordinates of the electrons by $m, x_k, y_k, z_k$ and of the nuclei by $M_l, X_l, Y_l, Z_l$. Letting $M$ be any average value of the $M_l$, we set",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 329,
+      "topLeftY": 364,
+      "bottomRightX": 642,
+      "bottomRightY": 393,
+      "content": "$$\\kappa = \\left(\\frac{m}{M}\\right)^{1/4} \\tag{1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 401,
+      "bottomRightX": 97,
+      "bottomRightY": 414,
+      "content": "and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 316,
+      "topLeftY": 411,
+      "bottomRightX": 642,
+      "bottomRightY": 441,
+      "content": "$$M_l = \\frac{M}{\\mu_l} = \\frac{m}{\\kappa^4 \\mu_l}; \\tag{2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 445,
+      "bottomRightX": 572,
+      "bottomRightY": 461,
+      "content": "the $\\mu_l$ being dimensionless numbers of order of magnitude 1. Let the potential energy of the system be",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 474,
+      "bottomRightX": 642,
+      "bottomRightY": 490,
+      "content": "$$U(x_1, y_1, z_1, x_2, y_2, z_2, \\dots; X_1, Y_1, Z_1, X_2, Y_2, Z_2, \\dots) = U(x, X) \\tag{3}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 503,
+      "bottomRightX": 642,
+      "bottomRightY": 552,
+      "content": "where we denote by $x$ the totality of electronic coordinates and by $X$, that of the nuclear coordinates. The function $U$ depends only on the relative positions of the particles; however, we make no use of its particular form (Coulomb's law). The kinetic energy of the electrons is represented by the operator",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 295,
+      "topLeftY": 561,
+      "bottomRightX": 642,
+      "bottomRightY": 597,
+      "content": "$$T_E = -\\frac{h^2}{8\\pi^2 m} \\sum_x \\sum_k \\frac{\\partial^2}{\\partial x_k^2} \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 608,
+      "bottomRightX": 624,
+      "bottomRightY": 636,
+      "content": "where the symbol $\\sum_x$ denotes the sum which arises from the above expression by cyclic permutation of $x, y$ and $z$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 636,
+      "bottomRightX": 262,
+      "bottomRightY": 650,
+      "content": "The kinetic energy of the nuclei is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 647,
+      "bottomRightX": 642,
+      "bottomRightY": 684,
+      "content": "$$T_K = -\\kappa^4 \\frac{h^2}{8\\pi^2 m} \\sum_x \\sum_l \\mu_l \\frac{\\partial^2}{\\partial X_l^2}. \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 689,
+      "bottomRightX": 303,
+      "bottomRightY": 703,
+      "content": "The total energy is represented by the operator",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 319,
+      "topLeftY": 716,
+      "bottomRightX": 642,
+      "bottomRightY": 733,
+      "content": "$$H = H_0 + \\kappa^4 H_1 \\tag{6}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 747,
+      "bottomRightX": 109,
+      "bottomRightY": 759,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 768,
+      "bottomRightX": 427,
+      "bottomRightY": 800,
+      "content": "$$T_E + U = H_0 \\left(x, \\frac{\\partial}{\\partial x}; X\\right)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 311,
+      "topLeftY": 802,
+      "bottomRightX": 642,
+      "bottomRightY": 835,
+      "content": "$$T_K = \\kappa^4 H_1 \\left(\\frac{\\partial}{\\partial X}\\right). \\tag{7}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 843,
+      "bottomRightX": 525,
+      "bottomRightY": 857,
+      "content": "We introduce now, in place of the rectangular coordinates of the nuclei, $3N - 6$ functions",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 332,
+      "topLeftY": 871,
+      "bottomRightX": 642,
+      "bottomRightY": 887,
+      "content": "$$\\xi_i = \\xi_i(X) \\tag{8}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 355,
+      "topLeftY": 895,
+      "bottomRightX": 363,
+      "bottomRightY": 906,
+      "content": "2",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

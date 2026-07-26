@@ -1,0 +1,92 @@
+{
+  "index": 58,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 100,
+      "bottomRightX": 420,
+      "bottomRightY": 116,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 552,
+      "topLeftY": 100,
+      "bottomRightX": 581,
+      "bottomRightY": 117,
+      "content": "615",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 137,
+      "bottomRightX": 303,
+      "bottomRightY": 155,
+      "content": "und mit (54) folgt in der Tat",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 273,
+      "topLeftY": 155,
+      "bottomRightX": 581,
+      "bottomRightY": 194,
+      "content": "$$\\bar{\\mathcal{A}}^2 = h\\nu\\bar{E} + \\frac{\\bar{E}^2}{z_v V} \\quad (55)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 201,
+      "bottomRightX": 353,
+      "bottomRightY": 220,
+      "content": "in Übereinstimmung mit (40), Kap. 4.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 221,
+      "bottomRightX": 583,
+      "bottomRightY": 318,
+      "content": "Wenn man bedenkt, daß die hier behandelte Frage doch ziemlich weit entfernt liegt von den Problemen, aus deren Untersuchung die Quantenmechanik erwachsen ist, so wird man das mit (55), Kap. 4, erzielte Ergebnis als besonders ermutigend für den weiteren Ausbau der Theorie betrachten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 320,
+      "bottomRightX": 583,
+      "bottomRightY": 479,
+      "content": "Man würde nach dem oben erwähnten Ergebnis von Ehrenfest die interferenzmäßige Berechnung der Schwankungen ersparen können — und zugleich die Gewißheit gewinnen, daß auch bei anderen, ähnlichen Fragestellungen keine Widersprüche möglich sind —, wenn man unmittelbar die Additivität der Entropien der Teilvolumina in der Quantenmechanik der Wellenfelder nachweisen könnte. Daß die Additivität wirklich allgemein besteht, möchten wir nach unserem obigen Ergebnis vermuten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 482,
+      "bottomRightX": 583,
+      "bottomRightY": 678,
+      "content": "Die Gründe für das Auftreten des von der klassischen Theorie nicht gelieferten Gliedes in (55), Kap. 4, sind offenbar mit den Gründen für das Auftreten der Nullpunktsenergie eng verwandt. In beiden Fällen liegt der wesentliche Unterschied der hier versuchten Theorie von der bisherigen nicht in einer Verschiedenheit der mechanischen Gesetze, sondern in der für diese Theorie charakteristischen Kinematik. Man könnte sogar in der Formel (55), Kap. 4, in die ja gar keine mechanischen Prinzipien eingehen, eines der anschaulichsten Beispiele für die Verschiedenheit der quantentheoretischen Kinematik von der bisherigen erblicken.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 681,
+      "bottomRightX": 583,
+      "bottomRightY": 879,
+      "content": "Wenn sich die hier versuchte Quantenmechanik als schon in wesentlichen Zügen richtig erweisen sollte, so wäre wohl ganz allgemein als der wichtigste Fortschritt gegenüber der bisherigen Theorie eben dies zu bezeichnen: daß in dieser Theorie Kinematik und Mechanik wieder in eine so enge Verbindung gebracht sind, wie etwa Kinematik und Mechanik in der klassischen Theorie, und daß die fundamentalen neuen Gesichtspunkte, welche aus den Grundpostulaten der Quantentheorie für die mechanischen Begriffe und die Begriffe von Raum und Zeit folgen, in der Kinematik ebenso wie in der Mechanik und in der Verbindung von Kinematik und Mechanik einen adäquaten Ausdruck finden.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

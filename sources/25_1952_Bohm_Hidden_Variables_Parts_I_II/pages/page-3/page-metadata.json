@@ -1,0 +1,92 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 89,
+      "topLeftY": 100,
+      "bottomRightX": 112,
+      "bottomRightY": 113,
+      "content": "168",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 333,
+      "topLeftY": 101,
+      "bottomRightX": 439,
+      "bottomRightY": 114,
+      "content": "DAVID BOHM",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 129,
+      "bottomRightX": 380,
+      "bottomRightY": 310,
+      "content": "unambiguously accessible to our conceptual gaze. Such a system of concepts, which is sometimes called a \"model,\" need not be restricted to pictures, but may also include, for example, mathematical concepts, as long as these are supposed to be in a precise (i.e., one-to-one) correspondence with the objects that are being described. The principle of complementarity requires us, however, to renounce even mathematical models. Thus, in Bohr's point of view, the wave function is in no sense a conceptual model of an individual system, since it is not in a precise (one-to-one) correspondence with the behavior of this system, but only in a statistical correspondence.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 311,
+      "bottomRightX": 380,
+      "bottomRightY": 589,
+      "content": "In place of a precisely defined conceptual model, the principle of complementarity states that we are restricted to complementarity pairs of inherently imprecisely defined concepts, such as position and momentum, particle and wave, etc. The maximum degree of precision of definition of either member of such a pair is reciprocally related to that of the opposite member. This need for an inherent lack of complete precision can be understood in two ways. First, it can be regarded as a consequence of the fact that the experimental apparatus needed for a precise measurement of one member of a complementary pair of variables must always be such as to preclude the possibility of a simultaneous and precise measurement of the other member. Secondly, the assumption that an individual system is completely specified by the wave function and its probability interpretation implies a corresponding unavoidable lack of precision in the very conceptual structure, with the aid of which we can think about and describe the behavior of the system.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 591,
+      "bottomRightX": 381,
+      "bottomRightY": 939,
+      "content": "It is only at the classical level that we can correctly neglect the inherent lack of precision in all of our conceptual models; for here, the incomplete determination of physical properties implied by the uncertainty principle produces effects that are too small to be of practical significance. Our ability to describe classical systems in terms of precisely definable models is, however, an integral part of the usual interpretation of the theory. For without such models, we would have no way to describe, or even to think of, the result of an observation, which is of course always finally carried out at a classical level of accuracy. If the relationships of a given set of classically describable phenomena depend significantly on the essentially quantum-mechanical properties of matter, however, then the principle of complementarity states that no single model is possible which could provide a precise and rational analysis of the connections between these phenomena. In such a case, we are not supposed, for example, to attempt to describe in detail how future phenomena arise out of past phenomena. Instead, we should simply accept without further analysis the fact that future phenomena do in fact somehow manage to be produced, in a way that is, however, necessarily beyond the possibility of a detailed description. The only aim of a",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 129,
+      "bottomRightX": 684,
+      "bottomRightY": 159,
+      "content": "mathematical theory is then to predict the statistical relations, if any, connecting these phenomena.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 170,
+      "bottomRightX": 684,
+      "bottomRightY": 195,
+      "content": "# 3. CRITICISM OF THE USUAL INTERPRETATION OF THE QUANTUM THEORY",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 202,
+      "bottomRightX": 684,
+      "bottomRightY": 604,
+      "content": "The usual interpretation of the quantum theory can be criticized on many grounds. In this paper, however, we shall stress only the fact that it requires us to give up the possibility of even conceiving precisely what might determine the behavior of an individual system at the quantum level, without providing adequate proof that such a renunciation is necessary. The usual interpretation is admittedly consistent; but the mere demonstration of such consistency does not exclude the possibility of other equally consistent interpretations, which would involve additional elements or parameters permitting a detailed causal and continuous description of all processes, and not requiring us to forego the possibility of conceiving the quantum level in precise terms. From the point of view of the usual interpretation, these additional elements or parameters could be called \"hidden\" variables. As a matter of fact, whenever we have previously had recourse to statistical theories, we have always ultimately found that the laws governing the individual members of a statistical ensemble could be expressed in terms of just such hidden variables. For example, from the point of view of macroscopic physics, the coordinates and momenta of individual atoms are hidden variables, which in a large scale system manifest themselves only as statistical averages. Perhaps then, our present quantum-mechanical averages are similarly a manifestation of hidden variables, which have not, however, yet been detected directly.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 605,
+      "bottomRightX": 686,
+      "bottomRightY": 939,
+      "content": "Now it may be asked why these hidden variables should have so long remained undetected. To answer this question, it is helpful to consider as an analogy the early forms of the atomic theory, in which the existence of atoms was postulated in order to explain certain large-scale effects, such as the laws of chemical combination, the gas laws, etc. On the other hand, these same effects could also be described directly in terms of existing macrophysical concepts (such as pressure, volume, temperature, mass, etc.); and a correct description in these terms did not require any reference to atoms. Ultimately, however, effects were found which contradicted the predictions obtained by extrapolating certain purely macrophysical theories to the domain of the very small, and which could be understood correctly in terms of the assumption that matter is composed of atoms. Similarly, we suggest that if there are hidden variables underlying the present quantum theory, it is quite likely that in the atomic domain, they will lead to effects that can also be described adequately in the terms of the usual quantum-mechanical concepts; while in a domain associated with much smaller dimensions, such as the level associated with the \"fundamental length\" of the order of $10^{-13}$ cm, the hidden variables",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

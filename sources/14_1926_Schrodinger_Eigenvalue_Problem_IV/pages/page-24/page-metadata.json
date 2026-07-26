@@ -1,0 +1,74 @@
+{
+  "index": 23,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 70,
+      "topLeftY": 40,
+      "bottomRightX": 102,
+      "bottomRightY": 59,
+      "content": "132",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 40,
+      "bottomRightX": 364,
+      "bottomRightY": 61,
+      "content": "E. Schrödinger",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 76,
+      "bottomRightX": 554,
+      "bottomRightY": 448,
+      "content": "groß. Durch Superposition der Störung durch ein konstantes elektrisches oder magnetisches Feld und durch eine Lichtwelle kommt man zur magnetischen und elektrischen Doppelbrechung und zur magnetischen Rotationspolarisation. Auch die Resonanzstrahlung im Magnetfeld gehört hierher, doch muß zu dem Zweck erst der im § 4 erörterte Resonanzfall einer exakten Lösung zugeführt werden. Ferner wird man die Wirkung eines am Atom vorüberliegenden $\\alpha$-Partikels oder Elektrons in der angegebenen Weise behandeln können$^{1)}$, wenn die Begegnung nicht zu eng ist, um die Störung jedes der beiden Systeme aus der ungestörten Bewegung des anderen berechnen zu können. Alle diese Fragen sind eine bloße Sache der Ausrechnung, sobald die Eigenwerte und Eigenfunktionen der ungestörten Systeme bekannt sind. Es ist darum sehr zu hoffen, das es gelinge, diese Funktionen wenigstens näherungsweise auch für höhere Atome zu bestimmen, in Analogie zur näherungsweisen Bestimmung der Bohrschen Elektronenbahnen, welche zu den verschiedenen Termtypen gehören.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 482,
+      "bottomRightX": 520,
+      "bottomRightY": 517,
+      "content": "#### § 6. Relativistisch-magnetische Verallgemeinerung der Grundgleichungen",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 522,
+      "bottomRightX": 557,
+      "bottomRightY": 770,
+      "content": "Im Anschluß an die zuletzt erwähnten physikalischen Probleme, bei denen das in dieser Mitteilungsreihe bisher gänzlich beiseite gelassene *Magnetfeld* eine wichtige Rolle spielt, möchte ich nun doch die vermutliche relativistisch-magnetische Verallgemeinerung der Grundgleichungen (4') hier ganz kurz mitteilen, wenn ich es auch vorerst nur für das Einelektronenproblem und nur mit der allergrößten Reserve tun kann. Letzteres aus zwei Gründen. Erstens beruht die Verallgemeinerung vorläufig auf rein formaler Analogie. Zweitens führt sie, wie schon in der *ersten* Mitteilung$^{1)}$ erwähnt wurde, im Falle des Keplerproblems zwar formal auf die Sommerfeldsche Feinstrukturformel und zwar mit „halbzahligem“ Azimutal-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 795,
+      "bottomRightX": 557,
+      "bottomRightY": 865,
+      "content": "1) Einen sehr interessanten und erfolgreichen Versuch, die Wirkung vorbeifliegender geladener Teilchen durch Fourierzerlegung ihres Feldes mit der Wirkung von Lichtwellen zu vergleichen, findet man bei E. Fermi, Ztschr. f. Phys. 29. S. 315. 1924.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 865,
+      "bottomRightX": 344,
+      "bottomRightY": 881,
+      "content": "1) Ann. d. Phys., 79. S. 372. 1926.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

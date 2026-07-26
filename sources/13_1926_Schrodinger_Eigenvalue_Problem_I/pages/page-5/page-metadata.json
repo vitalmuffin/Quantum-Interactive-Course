@@ -1,0 +1,164 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 660
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 195,
+      "topLeftY": 56,
+      "bottomRightX": 462,
+      "bottomRightY": 77,
+      "content": "Quantisierung als Eigenwertproblem.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 535,
+      "topLeftY": 56,
+      "bottomRightX": 568,
+      "bottomRightY": 74,
+      "content": "365",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 92,
+      "bottomRightX": 569,
+      "bottomRightY": 194,
+      "content": "den zweiten $\\alpha$-Wert, $\\alpha = -(n + 1)$, ist das zweite dieser Integrale eine Ganze Transzendente und führt nach (9) auf die gesuchte Lösung, die ja eindeutig ist. Wir verlieren also nichts, wenn wir uns auf einen der beiden $\\alpha$-Werte beschränken. Wir wählen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 201,
+      "bottomRightX": 360,
+      "bottomRightY": 221,
+      "content": "$$(10) \\quad \\alpha = n \\ .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 229,
+      "bottomRightX": 569,
+      "bottomRightY": 290,
+      "content": "Unsere Lösung $U$ gehört dann also bei $r = 0$ zum Exponenten 0. Gleichung (7') bezeichnen die Mathematiker als Laplacesche Gleichung. Der allgemeine Typus ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 298,
+      "bottomRightX": 479,
+      "bottomRightY": 334,
+      "content": "$$(7'') \\quad U'' + \\left( \\delta_0 + \\frac{\\delta_1}{r} \\right) U' + \\left( \\varepsilon_0 + \\frac{\\varepsilon_1}{r} \\right) U = 0 \\ .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 344,
+      "bottomRightX": 415,
+      "bottomRightY": 365,
+      "content": "Bei uns haben die Konstanten die Werte",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 373,
+      "bottomRightX": 525,
+      "bottomRightY": 407,
+      "content": "$$(11) \\quad \\delta_0 = 0, \\ \\delta_1 = 2(\\alpha + 1), \\ \\varepsilon_0 = \\frac{2mE}{K^2}, \\ \\varepsilon_1 = \\frac{2me^2}{K^2} \\ .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 416,
+      "bottomRightX": 569,
+      "bottomRightY": 561,
+      "content": "Dieser Gleichungstypus ist aus dem Grunde verhältnismäßig einfach zu behandeln, weil die sogenannte Laplacesche Transformation, die im allgemeinen wieder eine Gleichung zweiter Ordnung ergibt, hier auf die erste Ordnung führt, die durch Quadraturen lösbar ist. Dies gestattet eine Darstellung der Lösungen von (7'') selbst durch Integrale im Komplexen. Ich führe hier nur das Endergebnis an.¹⁾ Das Integral",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 570,
+      "bottomRightX": 467,
+      "bottomRightY": 612,
+      "content": "$$(12) \\quad U = \\int_L e^{z_r} (z - c_1)^{\\alpha_1 - 1} (z - c_2)^{\\alpha_2 - 1} \\, dz$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 620,
+      "bottomRightX": 569,
+      "bottomRightY": 642,
+      "content": "ist eine Lösung von (7'') für einen Integrationsweg $L$, für den",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 650,
+      "bottomRightX": 470,
+      "bottomRightY": 695,
+      "content": "$$(13) \\quad \\int_L \\frac{d}{dz} \\left[ e^{z_r} (z - c_1)^{\\alpha_1} (z - c_2)^{\\alpha_2} \\right] dz = 0 \\ .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 703,
+      "bottomRightX": 572,
+      "bottomRightY": 746,
+      "content": "Die Konstanten $c_1, c_2, \\alpha_1, \\alpha_2$ haben folgende Werte. $c_1$ und $c_2$ sind die Wurzeln der quadratischen Gleichung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 752,
+      "bottomRightX": 408,
+      "bottomRightY": 775,
+      "content": "$$(14) \\quad z^2 + \\delta_0 z + \\varepsilon_0 = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 779,
+      "bottomRightX": 126,
+      "bottomRightY": 797,
+      "content": "und",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 800,
+      "bottomRightX": 455,
+      "bottomRightY": 835,
+      "content": "$$(14') \\quad \\alpha_1 = \\frac{\\varepsilon_1 + \\delta_1 c_1}{c_1 - c_2}, \\quad \\alpha_2 = \\frac{\\varepsilon_1 + \\delta_1 c_2}{c_2 - c_1} \\ .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 857,
+      "bottomRightX": 571,
+      "bottomRightY": 891,
+      "content": "¹⁾ Vgl. L. Schlesinger, a. a. O. Die Theorie verdankt man H. Poincaré und J. Horn.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

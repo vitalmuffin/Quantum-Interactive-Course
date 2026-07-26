@@ -1,0 +1,56 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 638
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 56,
+      "topLeftY": 34,
+      "bottomRightX": 79,
+      "bottomRightY": 53,
+      "content": "28",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 35,
+      "bottomRightX": 384,
+      "bottomRightY": 52,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 54,
+      "topLeftY": 73,
+      "bottomRightX": 566,
+      "bottomRightY": 279,
+      "content": "aux chaleurs spécifiques des gaz, elle permettait à M. Einstein d'abord, puis à MM. Nernst et Lindemann, enfin sous une forme plus parfaite à MM. Debye, Born et von Karman de faire une théorie satisfaisante des chaleurs spécifiques des solides et d'expliquer pourquoi la loi de Dulong et Petit sanctionnée par la statistique classique comporte d'importantes exceptions et n'est, tout comme la loi de Rayleigh, qu'une forme limite valable dans un certain domaine.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 277,
+      "bottomRightX": 569,
+      "bottomRightY": 508,
+      "content": "Les quanta pénétrèrent aussi dans une science où on ne les eut guère attendus : la théorie des gaz. La méthode de Boltzmann conduit à laisser indéterminée la valeur de la constante additive figurant dans l'expression de l'entropie. M. Planck, pour rendre compte du théorème de Nernst et obtenir la prévision exacte des constantes chimiques, admit qu'il fallait faire intervenir les quanta et il le fit sous une forme assez paradoxale en attribuant à l'élément d'extension en phase d'une molécule une grandeur finie égale à $h^3$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 506,
+      "bottomRightX": 576,
+      "bottomRightY": 966,
+      "content": "L'étude de l'effet photoélectrique souleva une nouvelle énigme. On nomme effet photoélectrique l'expulsion par la matière d'électrons en mouvement sous l'influence d'un rayonnement. L'expérience montre, fait paradoxal, que l'énergie des électrons expulsés dépend de la fréquence du rayonnement excitateur et non de son intensité. M. Einstein, en 1905, a rendu compte de cet étrange phénomène en admettant que la radiation peut être absorbée uniquement par quanta $h\\nu$; dès lors, si l'électron absorbe l'énergie $h\\nu$ et s'il doit pour sortir de la matière dépenser un travail $w$ son énergie cinétique finale sera $h\\nu - w$. Cette loi s'est trouvée bien vérifiée. Avec sa profonde intuition, M. Einstein sentit qu'il y avait lieu de revenir en quelque manière à la conception corpusculaire de la lumière et émit l'hypothèse que toute radiation de fréquence $\\nu$ est divisée en atomes d'énergie de valeur $h\\nu$. Cette hypothèse des quanta de lumière (licht quanten) en opposition avec tous les faits de l'Optique ondulatoire fut jugée trop simpliste et repoussée par la plupart",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

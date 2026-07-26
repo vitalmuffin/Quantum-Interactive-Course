@@ -1,0 +1,75 @@
+{
+  "index": 37,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 27,
+      "topLeftY": 23,
+      "bottomRightX": 53,
+      "bottomRightY": 43,
+      "content": "58",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 218,
+      "topLeftY": 26,
+      "bottomRightX": 368,
+      "bottomRightY": 43,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 26,
+      "topLeftY": 66,
+      "bottomRightX": 557,
+      "bottomRightY": 314,
+      "content": "Ce résultat appelle plusieurs remarques. Au point de vue physique, il signifie que l'onde de phase de fréquence $\\nu = \\frac{W}{h}$ se propage dans le champ électrostatique avec une vitesse variable d'un point à l'autre suivant la valeur du potentiel. La vitesse $V$ dépend en effet de $\\psi$ directement par le terme (généralement petit devant l'unité) $\\frac{e\\psi}{W - e\\psi}$ et indirectement par $\\beta$ qui se calcule en chaque point en fonction de $W$ et $\\psi$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 324,
+      "bottomRightX": 461,
+      "bottomRightY": 442,
+      "content": "![img-2.jpeg](img-2.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-2.jpeg"
+    },
+    {
+      "topLeftX": 266,
+      "topLeftY": 462,
+      "bottomRightX": 323,
+      "bottomRightY": 483,
+      "content": "Fig. 3.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 32,
+      "topLeftY": 502,
+      "bottomRightX": 563,
+      "bottomRightY": 790,
+      "content": "De plus, on remarquera que $V$ est fonction de la masse et de la charge du mobile. Ce point peut paraître étrange, mais il l'est en réalité moins qu'il ne semble. Considérons un électron dont le centre $C$ se déplace avec la vitesse $v$; dans la conception classique, en un point $P$ dont les coordonnées dans un système lié à l'électron sont connues, se trouve une certaine énergie électromagnétique faisant en quelque sorte partie de l'électron. Supposons qu'après avoir traversé une région $R$ où règne un champ électromagnétique plus ou moins complexe, l'électron se trouve animé de la même vitesse $v$ mais autrement dirigée.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 789,
+      "bottomRightX": 565,
+      "bottomRightY": 974,
+      "content": "Le point $P$ du système lié à l'électron est venu en $P'$ et l'on peut dire que l'énergie primitivement en $P$ s'est transportée en $P'$. Le déplacement de cette énergie, même si l'on connaît les champs régnants dans $R$, ne peut être calculé que si la masse et la charge de l'électron sont données. Cette conclusion indiscutable pourrait un instant paraître bizarre parce que nous avons l'habitude invétérée de considérer la",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

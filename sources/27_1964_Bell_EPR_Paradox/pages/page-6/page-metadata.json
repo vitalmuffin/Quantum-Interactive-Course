@@ -1,0 +1,110 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 92,
+    "height": 1014,
+    "width": 782
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 31,
+      "topLeftY": 23,
+      "bottomRightX": 55,
+      "bottomRightY": 36,
+      "content": "200",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 352,
+      "topLeftY": 22,
+      "bottomRightX": 425,
+      "bottomRightY": 38,
+      "content": "J. S. BELL",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 666,
+      "topLeftY": 22,
+      "bottomRightX": 748,
+      "bottomRightY": 38,
+      "content": "Vol. 1, No. 3",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 344,
+      "topLeftY": 55,
+      "bottomRightX": 430,
+      "bottomRightY": 74,
+      "content": "# References",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 84,
+      "bottomRightX": 744,
+      "bottomRightY": 138,
+      "content": "1. A. EINSTEIN, N. ROSEN and B. PODOLSKY, Phys. Rev. 47, 777 (1935); see also N. BOHR, Ibid. 48, 696 (1935), W. H. FURRY, Ibid. 49, 393 and 476 (1936), and D. R. INGLIS, Rev. Mod. Phys. 33, 1 (1961).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 140,
+      "bottomRightX": 746,
+      "bottomRightY": 212,
+      "content": "2. \"But on one supposition we should, in my opinion, absolutely hold fast: the real factual situation of the system S₂ is independent of what is done with the system S₁, which is spatially separated from the former.\" A. EINSTEIN in Albert Einstein, Philosopher Scientist, (Edited by P. A. SCHILP) p. 85, Library of Living Philosophers, Evanston, Illinois (1949).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 213,
+      "bottomRightX": 733,
+      "bottomRightY": 267,
+      "content": "3. J. VON NEUMANN, Mathematische Grundlagen der Quanten-mechanik. Verlag Julius-Springer, Berlin (1932), [English translation: Princeton University Press (1955)]; J. M. JAUCH and C. PIRON, Helv. Phys. Acta 36, 827 (1963).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 269,
+      "bottomRightX": 251,
+      "bottomRightY": 285,
+      "content": "4. J. S. BELL, to be published.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 287,
+      "bottomRightX": 363,
+      "bottomRightY": 302,
+      "content": "5. D. BOHM, Phys. Rev. 85, 166 and 180 (1952).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 305,
+      "bottomRightX": 457,
+      "bottomRightY": 321,
+      "content": "6. D. BOHM and Y. AHARONOV, Phys. Rev. 108, 1070 (1957).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 323,
+      "bottomRightX": 742,
+      "bottomRightY": 358,
+      "content": "7. P. A. M. DIRAC, The Principles of Quantum Mechanics (3rd Ed.) p. 37. The Clarendon Press, Oxford (1947).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

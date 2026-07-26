@@ -1,0 +1,155 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 158,
+      "topLeftY": 169,
+      "bottomRightX": 628,
+      "bottomRightY": 203,
+      "content": "if one makes the substitution $(W' - W^0)t/h = x$. For large values of $t$ this reduces to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 202,
+      "topLeftY": 215,
+      "bottomRightX": 588,
+      "bottomRightY": 287,
+      "content": "$$\n\\begin{array}{l}\n2|a^0|^2 t/h \\cdot |v(W^0, \\gamma'; W^0, \\gamma^0)|^2 J(W^0, \\gamma') \\int_{-\\infty}^{\\infty} (1 - \\cos x)/x^2 \\cdot dx \\\\\n= 2\\pi|a^0|^2 t/h \\cdot |v(W^0, \\gamma'; W^0, \\gamma^0)|^2 J(W^0, \\gamma').\n\\end{array}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 298,
+      "bottomRightX": 628,
+      "bottomRightY": 335,
+      "content": "The probability per unit time of a transition to a state for which each $\\gamma_k$ lies between $\\gamma_k'$ and $\\gamma_k' + d\\gamma_k'$ is thus (apart from the normalising factor)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 345,
+      "bottomRightX": 628,
+      "bottomRightY": 367,
+      "content": "$$\n2\\pi|a^0|^2/h \\cdot |v(W^0, \\gamma'; W^0, \\gamma^0)|^2 J(W^0, \\gamma') d\\gamma_1' \\cdot d\\gamma_2' \\dots d\\gamma_{u-1}', \\tag{24}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 379,
+      "bottomRightX": 628,
+      "bottomRightY": 414,
+      "content": "which is proportional to the square of the matrix element associated with that transition of the perturbing energy.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 415,
+      "bottomRightX": 628,
+      "bottomRightY": 534,
+      "content": "To apply this result to a simple collision problem, we take the $\\alpha$'s to be the components of momentum $p_x, p_y, p_z$ of the colliding electron and the $\\gamma$'s to be $\\Theta$ and $\\phi$, the angles which determine its direction of motion. If, taking the relativity change of mass with velocity into account, we let $P$ denote the resultant momentum, equal to $(p_x^2 + p_y^2 + p_z^2)^{1/2}$, and $E$ the energy, equal to $(m^2 c^4 + P^2 c^2)^{1/2}$, of the electron, $m$ being its rest-mass, we find for the Jacobian",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 302,
+      "topLeftY": 534,
+      "bottomRightX": 488,
+      "bottomRightY": 568,
+      "content": "$$\nJ = \\frac{\\partial(p_x, p_y, p_z)}{\\partial(E, \\Theta, \\phi)} = \\frac{EP}{c^2} \\sin \\Theta.\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 576,
+      "bottomRightX": 508,
+      "bottomRightY": 593,
+      "content": "Thus the $J(W^0, \\gamma')$ of the expression (24) has the value",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 313,
+      "topLeftY": 606,
+      "bottomRightX": 628,
+      "bottomRightY": 627,
+      "content": "$$\nJ(W^0, \\gamma') = E' P' \\sin \\Theta / c^2, \\tag{25}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 639,
+      "bottomRightX": 628,
+      "bottomRightY": 691,
+      "content": "where $E'$ and $P'$ refer to that value for the energy of the scattered electron which makes the total energy equal the initial energy $W^0$ (i.e., to that value required by the conservation of energy).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 692,
+      "bottomRightX": 628,
+      "bottomRightY": 744,
+      "content": "We must now interpret the initial value of $a(\\alpha')$, namely, $a^0 \\delta(\\alpha' - \\alpha^0)$, which we did not normalise. According to § 2 the wave function in terms of the variables $\\alpha_k$ is $b(\\alpha') = a(\\alpha') e^{iW't/h}$, so that its initial value is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 756,
+      "bottomRightX": 595,
+      "bottomRightY": 778,
+      "content": "$$\na^0 \\delta(\\alpha' - \\alpha^0) e^{-iW't/h} = a^0 \\delta(p_x' - p_x^0) \\delta(p_y' - p_y^0) \\delta(p_z' - p_z^0) e^{-iW't/h}.\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 790,
+      "bottomRightX": 406,
+      "bottomRightY": 806,
+      "content": "If we use the transformation function$^{15}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 299,
+      "topLeftY": 819,
+      "bottomRightX": 490,
+      "bottomRightY": 841,
+      "content": "$$\n(x'/p') = (2\\pi h)^{-3/2} e^{i\\Sigma_{xyz} p_x' x'/h},\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 849,
+      "bottomRightX": 446,
+      "bottomRightY": 865,
+      "content": "15The symbol \\(x\\) is used for brevity to denote \\(x, y, z\\).",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 387,
+      "topLeftY": 892,
+      "bottomRightX": 402,
+      "bottomRightY": 904,
+      "content": "18",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

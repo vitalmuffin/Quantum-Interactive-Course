@@ -1,0 +1,128 @@
+{
+  "index": 16,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 188,
+      "topLeftY": 143,
+      "bottomRightX": 344,
+      "bottomRightY": 158,
+      "content": "Simulating Physics with Computers",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 589,
+      "topLeftY": 144,
+      "bottomRightX": 607,
+      "bottomRightY": 156,
+      "content": "483",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 174,
+      "bottomRightX": 586,
+      "bottomRightY": 193,
+      "content": "and finally the probability $P_{EO}$ that I measure $E$ and you measure $O$ is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 204,
+      "bottomRightX": 456,
+      "bottomRightY": 224,
+      "content": "$$\nP_{EO} = \\frac{1}{2} \\sin^2(\\phi_2 - \\phi_1)\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 236,
+      "bottomRightX": 607,
+      "bottomRightY": 282,
+      "content": "Notice that you can always predict, from your own measurement, what I shall get, $O$ or $E$. For any axis $\\phi_1$ that I chose, just set your axis $\\phi_2$ to $\\phi_1$, then",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 356,
+      "topLeftY": 294,
+      "bottomRightX": 438,
+      "bottomRightY": 312,
+      "content": "$$\nP_{OE} = P_{EO} = 0\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 324,
+      "bottomRightX": 373,
+      "bottomRightY": 340,
+      "content": "and I must get whatever you get.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 340,
+      "bottomRightX": 607,
+      "bottomRightY": 434,
+      "content": "Let us see now how it would have to be for a *local* probabilistic computer. Photon 1 must be in some condition $\\alpha$ with the probability $f_\\alpha(\\phi_1)$, that determines it to go through as an ordinary ray [the probability it would pass as $E$ is $1 - f_\\alpha(\\phi_1)$]. Likewise photon 2 will be in a condition $\\beta$ with probability $g_\\beta(\\phi_2)$. If $p_{\\alpha\\beta}$ is the conjoint probability to find the condition pair $\\alpha, \\beta$, the probability $P_{OO}$ that both of us observe $O$ rays is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 260,
+      "topLeftY": 445,
+      "bottomRightX": 528,
+      "bottomRightY": 477,
+      "content": "$$\nP_{OO}(\\phi_1, \\phi_2) = \\sum_{\\alpha\\beta} p_{\\alpha\\beta} f_\\alpha(\\phi_1) g_\\beta(\\phi_2) \\quad \\sum_{\\alpha\\beta} p_{\\alpha\\beta} = 1\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 489,
+      "bottomRightX": 234,
+      "bottomRightY": 505,
+      "content": "likewise",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 268,
+      "topLeftY": 517,
+      "bottomRightX": 519,
+      "bottomRightY": 548,
+      "content": "$$\nP_{OE}(\\phi_1, \\phi_2) = \\sum_{\\alpha\\beta} p_{\\alpha\\beta} (1 - f_\\alpha(\\phi_1)) g_\\beta(\\phi_2) \\quad \\text{etc.}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 563,
+      "bottomRightX": 603,
+      "bottomRightY": 641,
+      "content": "The conditions $\\alpha$ determine how the photons go. There’s some kind of correlation of the conditions. Such a formula cannot reproduce the quantum results above for any $p_{\\alpha\\beta}, f_\\alpha(\\phi_1), g_\\beta(\\phi_2)$ if they are real probabilities—that is all positive, although it is easy if they are “probabilities”—negative for some conditions or angles. We now analyze why that is so.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 641,
+      "bottomRightX": 603,
+      "bottomRightY": 827,
+      "content": "I don’t know what kinds of conditions they are, but for any condition the probability $f_\\alpha(\\phi)$ of its being extraordinary or ordinary in any direction must be either one or zero. Otherwise you couldn’t predict it on the other side. You would be unable to predict with certainty what I was going to get, unless, every time the photon comes here, which way it’s going to go is absolutely determined. Therefore, whatever condition the photon is in, there is some hidden inside variable that’s going to determine whether it’s going to be ordinary or extraordinary. This determination is done deterministically, not probabilistically; otherwise we can’t explain the fact that you could predict what I was going to get *exactly*. So let us suppose that something like this happens. Suppose we discuss results just for angles which are multiples of $30^\\circ$.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

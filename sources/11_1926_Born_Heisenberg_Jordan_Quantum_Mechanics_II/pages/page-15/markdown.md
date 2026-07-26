@@ -1,0 +1,42 @@
+Zur Quantenmechanik. II.
+
+571
+
+Die erste Gleichung sagt aus, daß $q'$ wirklich (bis auf willkürliche Wahl des Anfangspunktes der Zeit) gleich $\cos 2\pi v_0 t$ wird, so daß die kanonischen Gleichungen für $p_k, q_k$ dieselbe Form haben, wie beim früheren Problem; die zweite Gleichung (37), Kap. 1, gibt eine Bestimmung von $p'$. Durch (36), Kap. 1, ist also das Problem (35), Kap. 1, wirklich auf die sonst behandelten Fälle zurückgeführt.
+
+Uns interessiert vor allem die Frage, welche Veränderungen wir an den Störungsformeln (25), Kap. 1, vorzunehmen haben, wenn die Zeit explizite in $H_1, H_2, \dots$, nicht aber in $H_0$ auftritt. Eine einfache Überlegung zeigt, daß die Störungsformeln für unseren Fall aus den früheren dadurch hervorgehen, daß überall, wo früher ein Glied der Form $H_0 S_r - S_r H_0$ auftrat, jetzt $H_0 S_r - S_r H_0 + \frac{h}{2\pi i} \frac{\partial S_r}{\partial t}$ gesetzt wird. ($H_0$ kommt nur in solchen Verbindungen vor). Also heißen die niedrigsten Ordnungen der neuen Störungsformeln:
+
+$$
+\left. \begin{array}{c}
+H_0(p_0 q_0) = W_0, \\
+S_1 H_0 - H_0 S_1 - \frac{h}{2\pi i} \frac{\partial S_1}{\partial t} + H_1 = W_1, \\
+S_2 H_0 - H_0 S_2 - \frac{h}{2\pi i} \frac{\partial S_2}{\partial t} + \left( H_0 S_1 - S_1 H_0 + \frac{h}{2\pi i} \frac{\partial S_1}{\partial t} \right) S_1 \\
++ S_1 H_1 - H_1 S_1 + H_2 = W_2,
+\end{array} \right\} \quad (38)
+$$
+
+Wir möchten vermuten, daß diese Formeln (38), Kap. 1, auch dann gelten, wenn die Annahme, daß die äußeren Kräfte periodisch in der Zeit seien, nicht zutrifft — obwohl wir diese Annahme bei der Ableitung der Formeln benutzt haben.
+
+Die Gleichungen erster Ordnung der Formeln (38), Kap. 1, die ja auch noch richtig bleiben, wenn die Voraussetzungen der „äußeren Kräfte“ nicht mehr erfüllt sind, beantworten zusammen mit (22), Kap. 1:
+
+$$
+\begin{aligned}
+q &= q_0 + \lambda (S_1 q_0 - q_0 S_1), \\
+p &= p_0 + \lambda (S_1 p_0 - p_0 S_1),
+\end{aligned}
+$$
+
+die Fragen der Dispersionstheorie in einem allgemeinen Sinne. In der Tat, setzen wir:
+
+$$
+H_1 = E \cdot e q_0 \cos 2\pi v_0 t,
+$$
+
+so folgt
+
+$$
+\left. \begin{array}{l}
+H_1(mn, 1) = \frac{Ee}{2} q_0(mn), \quad H_1(mn, -1) = \frac{Ee}{2} q_0(mn), \\
+S_1(mn, 1) = \frac{Ee}{2h} \frac{q_0(mn)}{v_0(mn) + v_0}, \quad S_1(mn, -1) = \frac{Ee}{2h} \frac{q_0(mn)}{v_0(mn) - v_0}.
+\end{array} \right\} \quad (39)
+$$

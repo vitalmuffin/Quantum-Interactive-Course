@@ -1,0 +1,74 @@
+{
+  "index": 30,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 176,
+      "topLeftY": 40,
+      "bottomRightX": 441,
+      "bottomRightY": 62,
+      "content": "Quantisierung als Eigenwertproblem",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 520,
+      "topLeftY": 40,
+      "bottomRightX": 554,
+      "bottomRightY": 59,
+      "content": "139",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 77,
+      "bottomRightX": 554,
+      "bottomRightY": 138,
+      "content": "statischen Atommodellen sprechen. Damit findet die Strahlungslosigkeit des Normalzustandes allerdings eine verblüffend einfache Lösung.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 138,
+      "bottomRightX": 554,
+      "bottomRightY": 221,
+      "content": "Ich hoffe und glaube, daß die vorstehenden Ansätze sich zur Erklärung der magnetischen Eigenschaften der Atome und Moleküle und weiterhin auch zur Erklärung der Elektrizitätsströmung in festen Körpern als nützlich erweisen werden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 221,
+      "bottomRightX": 555,
+      "bottomRightY": 531,
+      "content": "Eine gewisse Härte liegt ohne Zweifel zurzeit noch in der Verwendung einer *komplexen* Wellenfunktion. Würde sie *grundsätzlich* unvermeidlich und nicht eine bloße Rechenerleichterung sein, so würde das heißen, daß grundsätzlich *zwei* Wellenfunktionen existieren, die erst *zusammen* Aufschluß über den Zustand des Systems geben. Diese etwas unsympathische Folgerung läßt, wie ich glaube, die sehr viel sympathischere Deutung zu, daß der Zustand des Systems durch eine reelle Funktion und ihre Ableitung nach der Zeit gegeben ist. Daß wir hierüber noch keinen genaueren Aufschluß geben können, hängt damit zusammen, daß wir in dem Gleichungspaar (4') nur das — für die Rechnung allerdings außerordentlich bequeme — *Surrogat* einer reellen Wellengleichung von wahrscheinlich der vierten Ordnung vor uns haben, deren Aufstellung mir jedoch im nichtkonservativen Fall nicht gelingen wollte.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 545,
+      "bottomRightX": 485,
+      "bottomRightY": 568,
+      "content": "Zürich, Physikalischen Institut der Universität.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 218,
+      "topLeftY": 589,
+      "bottomRightX": 407,
+      "bottomRightY": 609,
+      "content": "(Eingegangen 21. Juni 1926)",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

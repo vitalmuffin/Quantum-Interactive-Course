@@ -1,0 +1,209 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 102,
+      "bottomRightX": 132,
+      "bottomRightY": 117,
+      "content": "564",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 102,
+      "bottomRightX": 455,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 579,
+      "bottomRightY": 178,
+      "content": "Zu den Grundpfeilern der Theorie, die wir hier aufzubauen suchen, gehört der Energiesatz ($H = \\text{const}$) und die Frequenzbedingung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 179,
+      "bottomRightX": 395,
+      "bottomRightY": 214,
+      "content": "$$\\left( \\nu(nm) = \\frac{H_n - H_m}{h}; H_n = W_n + \\text{const} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 219,
+      "bottomRightX": 579,
+      "bottomRightY": 257,
+      "content": "Den Beweis für diese beiden Sätze führen wir, indem wir die Beziehungen (6) und (10) in Gl. (7) (Kap. I) einsetzen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 259,
+      "bottomRightX": 254,
+      "bottomRightY": 276,
+      "content": "Dann ergibt sich:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 275,
+      "bottomRightX": 579,
+      "bottomRightY": 315,
+      "content": "$$\\left. \\begin{array}{l} Wq - qW = Hq - qH \\\\ Wp - pW = Hp - pH \\end{array} \\right\\} \\quad (11)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 313,
+      "bottomRightX": 170,
+      "bottomRightY": 328,
+      "content": "oder auch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 328,
+      "bottomRightX": 450,
+      "bottomRightY": 368,
+      "content": "$$\\begin{aligned} (W - H)q - q(W - H) &= 0, \\\\ (W - H)p - p(W - H) &= 0. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 375,
+      "bottomRightX": 579,
+      "bottomRightY": 415,
+      "content": "Die Größe $W - H$ ist also mit $p$ und $q$, daher auch mit jeder Funktion von $p, q$, insbesondere auch mit $H$ vertauschbar:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 419,
+      "bottomRightX": 454,
+      "bottomRightY": 438,
+      "content": "$$(W - H)H - H(W - H) = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 444,
+      "bottomRightX": 314,
+      "bottomRightY": 461,
+      "content": "Daraus folgt nach (10), Kap. 1:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 314,
+      "topLeftY": 462,
+      "bottomRightX": 580,
+      "bottomRightY": 482,
+      "content": "$$\\dot{H} = 0. \\quad (12)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 487,
+      "bottomRightX": 581,
+      "bottomRightY": 545,
+      "content": "Damit ist der Energiesatz bewiesen, $H$ ist als Diagonalmatrix $H(nm) = \\delta_{nm}H_n$ erkannt. Aus (11), Kap. 1, folgt nun unmittelbar auch die Frequenzbedingung:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 550,
+      "bottomRightX": 581,
+      "bottomRightY": 570,
+      "content": "$$q(nm)(H_n - H_m) = q(nm)(W_n - W_m), \\quad (13)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 568,
+      "bottomRightX": 137,
+      "bottomRightY": 583,
+      "content": "d. h.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 277,
+      "topLeftY": 584,
+      "bottomRightX": 581,
+      "bottomRightY": 618,
+      "content": "$$\\frac{H_n - H_m}{h} = \\nu(nm). \\quad (14)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 627,
+      "bottomRightX": 583,
+      "bottomRightY": 746,
+      "content": "Wir haben bisher aus den kanonischen Gleichungen mit Hilfe der Grundgleichung (5), Kap. 1, Energiesatz und Frequenzbedingung bewiesen. Nachträglich aber können wir den Beweis auch umkehren. Wir wissen, daß Energiesatz und Frequenzbedingung richtig sind. Wenn also die Energiefunktion $H$ als analytische Funktion irgendwelcher Variablen $P, Q$ gegeben ist, so gelten immer dann, wenn",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 752,
+      "bottomRightX": 417,
+      "bottomRightY": 787,
+      "content": "$$PQ - QP = \\frac{h}{2\\pi i} 1$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 793,
+      "bottomRightX": 326,
+      "bottomRightY": 811,
+      "content": "ist, die kanonischen Gleichungen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 816,
+      "bottomRightX": 583,
+      "bottomRightY": 853,
+      "content": "$${}^1\\dot{Q} = \\frac{\\partial H}{\\partial P}, \\quad \\dot{P} = -\\frac{\\partial H}{\\partial Q}. \\quad (15)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 859,
+      "bottomRightX": 583,
+      "bottomRightY": 917,
+      "content": "Dies folgt unmittelbar daraus, daß die Größen $PH - HP$ bzw. $HQ - QH$ in doppelter Weise, nämlich entsprechend (6), Kap. 1, und entsprechend Gleichung (10), Kap. 1, interpretiert werden können.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

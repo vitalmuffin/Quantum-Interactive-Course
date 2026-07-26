@@ -1,0 +1,2254 @@
+{
+  "document_id": "01_1925_pauli_electron_groups",
+  "source_filename": "pauli_1925_quantum_groups.pdf",
+  "metadata": {
+    "title_original": "Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren.",
+    "title_normalized": "Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren",
+    "authors": [
+      "W. Pauli jr."
+    ],
+    "publication_year": 1925,
+    "original_language": "de",
+    "journal": "Zeitschrift für Physik",
+    "volume": "31",
+    "issue": null,
+    "page_range": "765-783",
+    "doi": "10.1007/BF01327766",
+    "received_date": "16. Januar 1925",
+    "abstract_original": "Es wird, namentlich im Hinblick auf den Millikan-Landéschen Befund der Darstellbarkeit der Alkalidubletts durch relativistische Formeln und auf Grund von in einer früheren Arbeit erhaltenen Resultaten, die Auffassung vorgeschlagen, daß in diesen Dubletts und ihrem anomalen Zeemaneffekt eine klassisch nicht beschreibbare Zweideutigkeit der quantentheoretischen Eigenschaften des Leuchtelektrons zum Ausdruck kommt, ohne daß hierbei die abgeschlossene Edelgaskonfiguration des Atomrestes in Form eines Rumpfimpulses oder als Sitz der magneto-mechanischen Anomalie des Atoms beteiligt ist. Sodann wird versucht, diesen als provisorische Arbeitshypothese eingenommenen Standpunkt trotz ihm entgegenstehender prinzipieller Schwierigkeiten auch bei anderen Atomen als den Alkalien in seinen Konsequenzen möglichst weit zu verfolgen. Dabei zeigt sich zunächst, daß er es im Gegensatz zur üblichen Auffassung ermöglicht, im Falle eines starken äußeren Magnetfeldes, wo von den Kopplungskräften zwischen Atomrest und Leuchtelektron abgesehen werden kann, diesen beiden Teilsystemen hinsichtlich der Anzahl ihrer stationären Zustände sowie der Werte ihrer Quantenzahlen und ihrer magnetischen Energie keine anderen Eigenschaften zuzuschreiben als dem freien Atomrest bzw. dem Leuchtelektron bei den Alkalien. Auf Grund dieses Ergebnisses gelangt man ferner zu einer allgemeinen Klassifikation jedes Elektrons im Atom durch die Hauptquantenzahl $n$ und zwei Nebenquantenzahlen $k_1$ und $k_2$, zu denen bei Anwesenheit eines äußeren Feldes noch eine weitere Quantenzahl $m_1$ hinzutritt. In Anknüpfung an eine neuere Arbeit von E. C. Stoner führt diese Klassifikation zu einer allgemeinen quantentheoretischen Formulierung des Abschlusses der Elektronengruppen im Atom."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "765",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren.",
+          "markdown": "# Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Von W. Pauli jr. in Hamburg.",
+          "markdown": "Von **W. Pauli jr.** in Hamburg.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.5,
+            0.84
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Eingegangen am 16. Januar 1925.)",
+          "markdown": "(Eingegangen am 16. Januar 1925.)\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.7,
+            0.78,
+            0.9,
+            0.82
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es wird, namentlich im Hinblick auf den Millikan-Landéschen Befund der Darstellbarkeit der Alkalidubletts durch relativistische Formeln und auf Grund von in einer früheren Arbeit erhaltenen Resultaten, die Auffassung vorgeschlagen, daß in diesen Dubletts und ihrem anomalen Zeemaneffekt eine klassisch nicht beschreibbare Zweideutigkeit der quantentheoretischen Eigenschaften des Leuchtelektrons zum Ausdruck kommt, ohne daß hierbei die abgeschlossene Edelgaskonfiguration des Atomrestes in Form eines Rumpfimpulses oder als Sitz der magneto-mechanischen Anomalie des Atoms beteiligt ist. Sodann wird versucht, diesen als provisorische Arbeitshypothese eingenommenen Standpunkt trotz ihm entgegenstehender prinzipieller Schwierigkeiten auch bei anderen Atomen als den Alkalien in seinen Konsequenzen möglichst weit zu verfolgen. Dabei zeigt sich zunächst, daß er es im Gegensatz zur üblichen Auffassung ermöglicht, im Falle eines starken äußeren Magnetfeldes, wo von den Kopplungskräften zwischen Atomrest und Leuchtelektron abgesehen werden kann, diesen beiden Teilsystemen hinsichtlich der Anzahl ihrer stationären Zustände sowie der Werte ihrer Quantenzahlen und ihrer magnetischen Energie keine anderen Eigenschaften zuzuschreiben als dem freien Atomrest bzw. dem Leuchtelektron bei den Alkalien. Auf Grund dieses Ergebnisses gelangt man ferner zu einer allgemeinen Klassifikation jedes Elektrons im Atom durch die Hauptquantenzahl $n$ und zwei Nebenquantenzahlen $k_1$ und $k_2$, zu denen bei Anwesenheit eines äußeren Feldes noch eine weitere Quantenzahl $m_1$ hinzutritt. In Anknüpfung an eine neuere Arbeit von E. C. Stoner führt diese Klassifikation zu einer allgemeinen quantentheoretischen Formulierung des Abschlusses der Elektronengruppen im Atom.",
+          "markdown": "Es wird, namentlich im Hinblick auf den Millikan-Landéschen Befund der Darstellbarkeit der Alkalidubletts durch relativistische Formeln und auf Grund von in einer früheren Arbeit erhaltenen Resultaten, die Auffassung vorgeschlagen, dass in diesen Dubletts und ihrem anomalen Zeemaneffekt eine klassisch nicht beschreibbare Zweideutigkeit der quantentheoretischen Eigenschaften des Leuchtelektrons zum Ausdruck kommt, ohne dass hierbei die abgeschlossene Edelgaskonfiguration des Atomrestes in Form eines Rumpfimpulses oder als Sitz der magneto-mechanischen Anomalie des Atoms beteiligt ist. Sodann wird versucht, diesen als provisorische Arbeitshypothese eingenommenen Standpunkt trotz ihm entgegenstehender prinzipieller Schwierigkeiten auch bei anderen Atomen als den Alkalien in seinen Konsequenzen möglichst weit zu verfolgen. Dabei zeigt sich zunächst, dass er es im Gegensatz zur üblichen Auffassung ermöglicht, im Falle eines starken äußeren Magnetfeldes, wo von den Kopplungskräften zwischen Atomrest und Leuchtelektron abgesehen werden kann, diesen beiden Teilsystemen hinsichtlich der Anzahl ihrer stationären Zustände sowie der Werte ihrer Quantenzahlen und ihrer magnetischen Energie keine anderen Eigenschaften zuzuschreiben als dem freien Atomrest bzw. dem Leuchtelektron bei den Alkalien. Auf Grund dieses Ergebnisses gelangt man ferner zu einer allgemeinen Klassifikation jedes Elektrons im Atom durch die Hauptquantenzahl $n$ und zwei Nebenquantenzahlen $k_1$ und $k_2$, zu denen bei Anwesenheit eines äußeren Feldes noch eine weitere Quantenzahl $m_1$ hinzutritt. In Anknüpfung an eine neuere Arbeit von E. C. Stoner führt diese Klassifikation zu einer allgemeinen quantentheoretischen Formulierung des Abschlusses der Elektronengruppen im Atom.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 1. Die Permanenz der Quantenzahlen (Aufbauprinzip) bei Komplexstruktur und Zeemaneffekt.",
+          "markdown": "## § 1. Die Permanenz der Quantenzahlen (Aufbauprinzip) bei Komplexstruktur und Zeemaneffekt.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.68
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In einer früheren Arbeit¹⁾ wurde hervorgehoben, daß die übliche Vorstellung, nach der die inneren abgeschlossenen Elektronenschalen im Atom in Form von Rumpfimpulsen und als eigentlicher Sitz der magneto-mechanischen Anomalie an der Komplexstruktur der optischen Spektren und ihrem anomalen Zeemaneffekt wesentlich beteiligt sein sollen, zu verschiedenen ernstlichen Schwierigkeiten Anlaß gibt. Hierdurch wird es nahe gelegt, dieser Vorstellung die andere gegenüber zu stellen, daß insbesondere die Dublettstruktur der Alkalispektren sowie ihr anomaler Zeemaneffekt in einer klassisch nicht beschreibbaren Zweideutigkeit der quantentheoretischen Eigenschaften des Leuchtelektrons seine Ursache hat. Diese Auffassung stützt sich über-",
+          "markdown": "In einer früheren Arbeit¹⁾ wurde hervorgehoben, dass die übliche Vorstellung, nach der die inneren abgeschlossenen Elektronenschalen im Atom in Form von Rumpfimpulsen und als eigentlicher Sitz der magneto-mechanischen Anomalie an der Komplexstruktur der optischen Spektren und ihrem anomalen Zeemaneffekt wesentlich beteiligt sein sollen, zu verschiedenen ernstlichen Schwierigkeiten Anlass gibt. Hierdurch wird es nahe gelegt, dieser Vorstellung die andere gegenüber zu stellen, dass insbesondere die Dublettstruktur der Alkalispektren sowie ihr anomaler Zeemaneffekt in einer klassisch nicht beschreibbaren Zweideutigkeit der quantentheoretischen Eigenschaften des Leuchtelektrons seine Ursache hat. Diese Auffassung stützt sich über-\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹⁾ ZS. f. Phys. 31, 373, 1925. Am Schlusse dieser Arbeit ist auf die vorliegende Note Bezug genommen.",
+          "markdown": "¹⁾ *ZS. f. Phys.* **31**, 373, 1925. Am Schlusse dieser Arbeit ist auf die vorliegende Note Bezug genommen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Zeitschrift für Physik. Bd. XXXI.",
+          "markdown": "Zeitschrift für Physik. Bd. XXXI.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.5,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "51766",
+          "markdown": "51766\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.8,
+            0.05,
+            0.9,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren.\n\nVon **W. Pauli jr.** in Hamburg.\n\n(Eingegangen am 16. Januar 1925.)\n\nEs wird, namentlich im Hinblick auf den Millikan-Landéschen Befund der Darstellbarkeit der Alkalidubletts durch relativistische Formeln und auf Grund von in einer früheren Arbeit erhaltenen Resultaten, die Auffassung vorgeschlagen, dass in diesen Dubletts und ihrem anomalen Zeemaneffekt eine klassisch nicht beschreibbare Zweideutigkeit der quantentheoretischen Eigenschaften des Leuchtelektrons zum Ausdruck kommt, ohne dass hierbei die abgeschlossene Edelgaskonfiguration des Atomrestes in Form eines Rumpfimpulses oder als Sitz der magneto-mechanischen Anomalie des Atoms beteiligt ist. Sodann wird versucht, diesen als provisorische Arbeitshypothese eingenommenen Standpunkt trotz ihm entgegenstehender prinzipieller Schwierigkeiten auch bei anderen Atomen als den Alkalien in seinen Konsequenzen möglichst weit zu verfolgen. Dabei zeigt sich zunächst, dass er es im Gegensatz zur üblichen Auffassung ermöglicht, im Falle eines starken äußeren Magnetfeldes, wo von den Kopplungskräften zwischen Atomrest und Leuchtelektron abgesehen werden kann, diesen beiden Teilsystemen hinsichtlich der Anzahl ihrer stationären Zustände sowie der Werte ihrer Quantenzahlen und ihrer magnetischen Energie keine anderen Eigenschaften zuzuschreiben als dem freien Atomrest bzw. dem Leuchtelektron bei den Alkalien. Auf Grund dieses Ergebnisses gelangt man ferner zu einer allgemeinen Klassifikation jedes Elektrons im Atom durch die Hauptquantenzahl $n$ und zwei Nebenquantenzahlen $k_1$ und $k_2$, zu denen bei Anwesenheit eines äußeren Feldes noch eine weitere Quantenzahl $m_1$ hinzutritt. In Anknüpfung an eine neuere Arbeit von E. C. Stoner führt diese Klassifikation zu einer allgemeinen quantentheoretischen Formulierung des Abschlusses der Elektronengruppen im Atom.\n\n## § 1. Die Permanenz der Quantenzahlen (Aufbauprinzip) bei Komplexstruktur und Zeemaneffekt.\n\nIn einer früheren Arbeit¹⁾ wurde hervorgehoben, dass die übliche Vorstellung, nach der die inneren abgeschlossenen Elektronenschalen im Atom in Form von Rumpfimpulsen und als eigentlicher Sitz der magneto-mechanischen Anomalie an der Komplexstruktur der optischen Spektren und ihrem anomalen Zeemaneffekt wesentlich beteiligt sein sollen, zu verschiedenen ernstlichen Schwierigkeiten Anlass gibt. Hierdurch wird es nahe gelegt, dieser Vorstellung die andere gegenüber zu stellen, dass insbesondere die Dublettstruktur der Alkalispektren sowie ihr anomaler Zeemaneffekt in einer klassisch nicht beschreibbaren Zweideutigkeit der quantentheoretischen Eigenschaften des Leuchtelektrons seine Ursache hat. Diese Auffassung stützt sich über-\n¹⁾ *ZS. f. Phys.* **31**, 373, 1925. Am Schlusse dieser Arbeit ist auf die vorliegende Note Bezug genommen.\n\nZeitschrift für Physik. Bd. XXXI.\n\n51766",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, gute OCR-Qualität",
+        "Fußnote korrekt erkannt",
+        "Seitenzahlen und Kopfzeile korrekt extrahiert"
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "766",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "dies besonders auf den Befund von Millikan und Landé, daß die optischen Dubletts der Alkalien den Relativitätsdubletts in den Röntgenspektren analog sind und ihre Größe durch eine relativistische Formel bestimmt ist.",
+          "markdown": "dies besonders auf den Befund von Millikan und Landé, dass die optischen Dubletts der Alkalien den Relativitätsdubletts in den Röntgenspektren analog sind und ihre Größe durch eine relativistische Formel bestimmt ist.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Indem wir nun diesen Standpunkt weiter verfolgen, werden wir, ebenso wie es bei den Röntgenspektren von Bohr und Coster durchgeführt wurde, in den zur Emission der Alkalispektren gehörigen stationären Zuständen dem Leuchtelektron neben der Hauptquantenzahl $n$ zwei Nebenquantenzahlen $k_1$ und $k_2$ zuordnen. Die erste (gewöhnlich schlechtweg mit $k$ bezeichnete) Quantenzahl $k_1$ hat die Werte 1, 2, 3, ... bei den $s$, $p$, $d$, ... Termen und ändert sich bei erlaubten Übergangsprozessen um eine Einheit; sie bestimmt die Größe der Zentralkraftwechselwirkung des Leuchtelektrons mit dem Atomrest. Die zweite Quantenzahl $k_2$ ist bei den beiden Termen eines Dubletts (z. B. $p_1$ und $p_2$) gleich $k_1 - 1$ und $k_2$; bei den Übergangsprozessen ändert sie sich um $\\pm 1$ oder 0 und bestimmt die Größe der (nach Landé mit Rücksicht auf das Eindringen des Leuchtelektrons in das Gebiet des Atomrestes modifizierten) Relativitätskorrektion. Definieren wir mit Sommerfeld die Gesamtimpuls-Quantenzahl $j$ des Atoms allgemein als den zum betrachteten stationären Zustand gehörigen Maximalwert der die Impulskomponente parallel zu einem äußeren Felde bestimmenden Quantenzahl $m_1$ (gewöhnlich schlechtweg mit $m$ bezeichnet), so ist bei den Alkalien zu setzen $j = k_2 - 1/2$. Die Anzahl der stationären Zustände im Magnetfeld bei gegebenem $k_1$ und $k_2$ ist $2j + 1 = 2k_2$, die Anzahl dieser Zustände für beide Dubletterme mit gegebenem $k_1$ zusammengenommen gleich 2 ($2k_1 - 1$).",
+          "markdown": "Indem wir nun diesen Standpunkt weiter verfolgen, werden wir, ebenso wie es bei den Röntgenspektren von Bohr und Coster durchgeführt wurde, in den zur Emission der Alkalispektren gehörigen stationären Zuständen dem Leuchtelektron neben der Hauptquantenzahl $n$ zwei Nebenquantenzahlen $k_1$ und $k_2$ zuordnen. Die erste (gewöhnlich schlechtweg mit $k$ bezeichnete) Quantenzahl $k_1$ hat die Werte 1, 2, 3, ... bei den $s$, $p$, $d$, ... Termen und ändert sich bei erlaubten Übergangsprozessen um eine Einheit; sie bestimmt die Größe der Zentralkraftwechselwirkung des Leuchtelektrons mit dem Atomrest. Die zweite Quantenzahl $k_2$ ist bei den beiden Termen eines Dubletts (z. B. $p_1$ und $p_2$) gleich $k_1 - 1$ und $k_2$; bei den Übergangsprozessen ändert sie sich um $\\pm 1$ oder 0 und bestimmt die Größe der (nach Landé mit Rücksicht auf das Eindringen des Leuchtelektrons in das Gebiet des Atomrestes modifizierten) Relativitätskorrektion. Definieren wir mit Sommerfeld die Gesamtimpuls-Quantenzahl $j$ des Atoms allgemein als den zum betrachteten stationären Zustand gehörigen Maximalwert der die Impulskomponente parallel zu einem äußeren Felde bestimmenden Quantenzahl $m_1$ (gewöhnlich schlechtweg mit $m$ bezeichnet), so ist bei den Alkalien zu setzen $j = k_2 - 1/2$. Die Anzahl der stationären Zustände im Magnetfeld bei gegebenem $k_1$ und $k_2$ ist $2j + 1 = 2k_2$, die Anzahl dieser Zustände für beide Dubletterme mit gegebenem $k_1$ zusammengenommen gleich 2 ($2k_1 - 1$).\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift ($k_2 - 1/2$) und mathematischen Symbolen erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn wir nun den Fall starker Felder (Paschen-Back-Effekt) betrachten, so können wir neben $k_1$ und der eben genannten Quantenzahl $m_1$, statt $k_2$ auch eine magnetische Quantenzahl $m_2$ einführen, die direkt die Energie des Atoms im Magnetfeld, das ist die Komponente des magnetischen Moments des Leuchtelektrons parallel dem Felde, angibt. Den beiden Termen des Dubletts entsprechend, hat sie die Werte $m_1 + 1/2$ und $m_1 - 1/2$. Ebenso wie in der Dublettstruktur der Alkalispektren die „Anomalie der Relativitätskorrektion“ zum Ausdruck kommt (für deren Größe ist eine andere Quantenzahl maßgebend wie für die Größe der Zentralkraft-Wechselwirkungsenergie von Leuchtelektron und Atomrest), tritt in den Abweichungen des Zeemantypus vom normalen Lorentzschchen Triplett die zur eben genannten Anomalie analoge „magneto-mechanische Anomalie“ in Erscheinung (für die Größe des magnetischen Momentes",
+          "markdown": "Wenn wir nun den Fall starker Felder (Paschen-Back-Effekt) betrachten, so können wir neben $k_1$ und der eben genannten Quantenzahl $m_1$, statt $k_2$ auch eine magnetische Quantenzahl $m_2$ einführen, die direkt die Energie des Atoms im Magnetfeld, das ist die Komponente des magnetischen Moments des Leuchtelektrons parallel dem Felde, angibt. Den beiden Termen des Dubletts entsprechend, hat sie die Werte $m_1 + 1/2$ und $m_1 - 1/2$. Ebenso wie in der Dublettstruktur der Alkalispektren die „Anomalie der Relativitätskorrektion“ zum Ausdruck kommt (für deren Größe ist eine andere Quantenzahl maßgebend wie für die Größe der Zentralkraft-Wechselwirkungsenergie von Leuchtelektron und Atomrest), tritt in den Abweichungen des Zeemantypus vom normalen Lorentzschen Triplett die zur eben genannten Anomalie analoge „magneto-mechanische Anomalie“ in Erscheinung (für die Größe des magnetischen Momentes\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift ($m_1 + 1/2$) und mathematischen Symbolen erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "des Leuchtelektrons ist eine andere Quantenzahl maßgebend wie für die des Impulsmomentes). Offenbar hängt das Auftreten von halben (effektiven) Quantenzahlen und der durch dasselbe formal bedingte Wert $g = 2$ des Aufspaltungsfaktors beim $s$-Term der Alkalien aufs engste mit der Zweifachheit der Termniveaus zusammen. Wir wollen hier jedoch keine nähere theoretische Analyse dieses Sachverhaltes versuchen und den folgenden Betrachtungen den Zeemaneffekt der Alkalien als Erfahrungstatsache zugrunde legen.",
+          "markdown": "des Leuchtelektrons ist eine andere Quantenzahl maßgebend wie für die des Impulsmomentes). Offenbar hängt das Auftreten von halben (effektiven) Quantenzahlen und der durch dasselbe formal bedingte Wert $g = 2$ des Aufspaltungsfaktors beim $s$-Term der Alkalien aufs engste mit der Zweifachheit der Termniveaus zusammen. Wir wollen hier jedoch keine nähere theoretische Analyse dieses Sachverhaltes versuchen und den folgenden Betrachtungen den Zeemaneffekt der Alkalien als Erfahrungstatsache zugrunde legen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift ($g = 2$) erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ohne uns zunächst um die sogleich näher zu erörternden, der in Rede stehenden Auffassung entgegenstehenden Schwierigkeiten zu kümmern, versuchen wir nun, diese formale Klassifikation des Leuchtelektrons durch die vier Quantenzahlen $n, k_1, k_2, m_1$ auch auf kompliziertere Atome als die der Alkalien zu übertragen. Da zeigt es sich, daß wir auf Grund dieser Klassifikation im Gegensatz zur üblichen Auffassung an der Permanenz der Quantenzahlen (Aufbauprinzip) auch bei der Komplexstruktur der Spektren und dem anomalen Zeemaneffekt vollständig festhalten können. Dieses von Bohr aufgestellte Prinzip besagt, daß bei Anlagerung eines weiteren Elektrons an ein (im ganzen möglicherweise geladenes) Atom die Quantenzahlen der schon gebundenen Elektronen dieselben Werte behalten, die ihnen im zugehörigen stationären Zustand des freien Atomrestes zukommen.",
+          "markdown": "Ohne uns zunächst um die sogleich näher zu erörternden, der in Rede stehenden Auffassung entgegenstehenden Schwierigkeiten zu kümmern, versuchen wir nun, diese formale Klassifikation des Leuchtelektrons durch die vier Quantenzahlen $n, k_1, k_2, m_1$ auch auf kompliziertere Atome als die der Alkalien zu übertragen. Da zeigt es sich, dass wir auf Grund dieser Klassifikation im Gegensatz zur üblichen Auffassung an der Permanenz der Quantenzahlen (Aufbauprinzip) auch bei der Komplexstruktur der Spektren und dem anomalen Zeemaneffekt vollständig festhalten können. Dieses von Bohr aufgestellte Prinzip besagt, dass bei Anlagerung eines weiteren Elektrons an ein (im ganzen möglicherweise geladenes) Atom die Quantenzahlen der schon gebundenen Elektronen dieselben Werte behalten, die ihnen im zugehörigen stationären Zustand des freien Atomrestes zukommen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Betrachten wir vorerst speziell die Erdalkalien. Das Spektrum besteht hier aus einem Einfach- und einem Triplettsystem. Den Quantenzuständen mit einem bestimmten Werte der Quantenzahl $k_1$ des Leuchtelektrons entsprechen dabei beim ersteren System insgesamt $1 \\cdot (2k_1 - 1)$, beim letzteren System insgesamt $3 \\cdot (2k_1 - 1)$ stationäre Zustände im äußeren Magnetfeld. Man hat dies bisher so interpretiert, daß in starken Feldern dem Leuchtelektron in jedem Falle $2k_1 - 1$ Stellungen entsprechen, während der Atomrest im ersteren Falle einer, im letzteren Falle dreier Stellungen fähig ist. Die Anzahl dieser Stellungen ist offenbar verschieden von der Anzahl 2 der Stellungen des freien Atomrestes (alkaliähnlicher $s$-Term) im Felde. Von Bohr wurde dieser Sachverhalt als „Zwang“ bezeichnet, der nicht mit der Wirkung äußerer Kraftfelder analog ist$^{1)}$. Wir können nun aber einfach die im ganzen $4(2k_1 - 1)$ Zustände des Atoms dahin interpretieren, dass dem Atomrest nach wie vor zwei Zustände im Felde zukommen und dem Leuchtelektron wie bei den Alkalien $2(2k_1 - 1)$ Zustände.",
+          "markdown": "Betrachten wir vorerst speziell die Erdalkalien. Das Spektrum besteht hier aus einem Einfach- und einem Triplettsystem. Den Quantenzuständen mit einem bestimmten Werte der Quantenzahl $k_1$ des Leuchtelektrons entsprechen dabei beim ersteren System insgesamt $1 \\cdot (2k_1 - 1)$, beim letzteren System insgesamt $3 \\cdot (2k_1 - 1)$ stationären Zustände im äußeren Magnetfeld. Man hat dies bisher so interpretiert, dass in starken Feldern dem Leuchtelektron in jedem Falle $2k_1 - 1$ Stellungen entsprechen, während der Atomrest im ersteren Falle einer, im letzteren Falle dreier Stellungen fähig ist. Die Anzahl dieser Stellungen ist offenbar verschieden von der Anzahl 2 der Stellungen des freien Atomrestes (alkaliähnlicher $s$-Term) im Felde. Von Bohr wurde dieser Sachverhalt als „Zwang“ bezeichnet, der nicht mit der Wirkung äußerer Kraftfelder analog ist$^{1)}$. Wir können nun aber einfach die im ganzen $4(2k_1 - 1)$ Zustände des Atoms dahin interpretieren, dass dem Atomrest nach wie vor zwei Zustände im Felde zukommen und dem Leuchtelektron wie bei den Alkalien $2(2k_1 - 1)$ Zustände.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Ann. d. Phys. 71, 228, 1923, insbesondere S. 276.",
+          "markdown": "¹) *Ann. d. Phys.* **71**, 228, 1923, insbesondere S. 276.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "W. Pauli jr.,",
+          "markdown": "W. Pauli jr.,\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.3,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "51*768",
+          "markdown": "51*768\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.8,
+            0.05,
+            0.9,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "dies besonders auf den Befund von Millikan und Landé, dass die optischen Dubletts der Alkalien den Relativitätsdubletts in den Röntgenspektren analog sind und ihre Größe durch eine relativistische Formel bestimmt ist.\n\nIndem wir nun diesen Standpunkt weiter verfolgen, werden wir, ebenso wie es bei den Röntgenspektren von Bohr und Coster durchgeführt wurde, in den zur Emission der Alkalispektren gehörigen stationären Zuständen dem Leuchtelektron neben der Hauptquantenzahl $n$ zwei Nebenquantenzahlen $k_1$ und $k_2$ zuordnen. Die erste (gewöhnlich schlechtweg mit $k$ bezeichnete) Quantenzahl $k_1$ hat die Werte 1, 2, 3, ... bei den $s$, $p$, $d$, ... Termen und ändert sich bei erlaubten Übergangsprozessen um eine Einheit; sie bestimmt die Größe der Zentralkraftwechselwirkung des Leuchtelektrons mit dem Atomrest. Die zweite Quantenzahl $k_2$ ist bei den beiden Termen eines Dubletts (z. B. $p_1$ und $p_2$) gleich $k_1 - 1$ und $k_2$; bei den Übergangsprozessen ändert sie sich um $\\pm 1$ oder 0 und bestimmt die Größe der (nach Landé mit Rücksicht auf das Eindringen des Leuchtelektrons in das Gebiet des Atomrestes modifizierten) Relativitätskorrektion. Definieren wir mit Sommerfeld die Gesamtimpuls-Quantenzahl $j$ des Atoms allgemein als den zum betrachteten stationären Zustand gehörigen Maximalwert der die Impulskomponente parallel zu einem äußeren Felde bestimmenden Quantenzahl $m_1$ (gewöhnlich schlechtweg mit $m$ bezeichnet), so ist bei den Alkalien zu setzen $j = k_2 - 1/2$. Die Anzahl der stationären Zustände im Magnetfeld bei gegebenem $k_1$ und $k_2$ ist $2j + 1 = 2k_2$, die Anzahl dieser Zustände für beide Dubletterme mit gegebenem $k_1$ zusammengenommen gleich 2 ($2k_1 - 1$).\n\nWenn wir nun den Fall starker Felder (Paschen-Back-Effekt) betrachten, so können wir neben $k_1$ und der eben genannten Quantenzahl $m_1$, statt $k_2$ auch eine magnetische Quantenzahl $m_2$ einführen, die direkt die Energie des Atoms im Magnetfeld, das ist die Komponente des magnetischen Moments des Leuchtelektrons parallel dem Felde, angibt. Den beiden Termen des Dubletts entsprechend, hat sie die Werte $m_1 + 1/2$ und $m_1 - 1/2$. Ebenso wie in der Dublettstruktur der Alkalispektren die „Anomalie der Relativitätskorrektion“ zum Ausdruck kommt (für deren Größe ist eine andere Quantenzahl maßgebend wie für die Größe der Zentralkraft-Wechselwirkungsenergie von Leuchtelektron und Atomrest), tritt in den Abweichungen des Zeemantypus vom normalen Lorentzschen Triplett die zur eben genannten Anomalie analoge „magneto-mechanische Anomalie“ in Erscheinung (für die Größe des magnetischen Momentes des Leuchtelektrons ist eine andere Quantenzahl maßgebend wie für die des Impulsmomentes). Offenbar hängt das Auftreten von halben (effektiven) Quantenzahlen und der durch dasselbe formal bedingte Wert $g = 2$ des Aufspaltungsfaktors beim $s$-Term der Alkalien aufs engste mit der Zweifachheit der Termniveaus zusammen. Wir wollen hier jedoch keine nähere theoretische Analyse dieses Sachverhaltes versuchen und den folgenden Betrachtungen den Zeemaneffekt der Alkalien als Erfahrungstatsache zugrunde legen.\n\nOhne uns zunächst um die sogleich näher zu erörternden, der in Rede stehenden Auffassung entgegenstehenden Schwierigkeiten zu kümmern, versuchen wir nun, diese formale Klassifikation des Leuchtelektrons durch die vier Quantenzahlen $n, k_1, k_2, m_1$ auch auf kompliziertere Atome als die der Alkalien zu übertragen. Da zeigt es sich, dass wir auf Grund dieser Klassifikation im Gegensatz zur üblichen Auffassung an der Permanenz der Quantenzahlen (Aufbauprinzip) auch bei der Komplexstruktur der Spektren und dem anomalen Zeemaneffekt vollständig festhalten können. Dieses von Bohr aufgestellte Prinzip besagt, dass bei Anlagerung eines weiteren Elektrons an ein (im ganzen möglicherweise geladenes) Atom die Quantenzahlen der schon gebundenen Elektronen dieselben Werte behalten, die ihnen im zugehörigen stationären Zustand des freien Atomrestes zukommen.\n\nBetrachten wir vorerst speziell die Erdalkalien. Das Spektrum besteht hier aus einem Einfach- und einem Triplettsystem. Den Quantenzuständen mit einem bestimmten Werte der Quantenzahl $k_1$ des Leuchtelektrons entsprechen dabei beim ersteren System insgesamt $1 \\cdot (2k_1 - 1)$, beim letzteren System insgesamt $3 \\cdot (2k_1 - 1)$ stationäre Zustände im äußeren Magnetfeld. Man hat dies bisher so interpretiert, dass in starken Feldern dem Leuchtelektron in jedem Falle $2k_1 - 1$ Stellungen entsprechen, während der Atomrest im ersteren Falle einer, im letzteren Falle dreier Stellungen fähig ist. Die Anzahl dieser Stellungen ist offenbar verschieden von der Anzahl 2 der Stellungen des freien Atomrestes (alkaliähnlicher $s$-Term) im Felde. Von Bohr wurde dieser Sachverhalt als „Zwang“ bezeichnet, der nicht mit der Wirkung äußerer Kraftfelder analog ist¹). Wir können nun aber einfach die im ganzen $4(2k_1 - 1)$ Zustände des Atoms dahin interpretieren, dass dem Atomrest nach wie vor zwei Zustände im Felde zukommen und dem Leuchtelektron wie bei den Alkalien $2(2k_1 - 1)$ Zustände.\n¹) *Ann. d. Phys.* **71**, 228, 1923, insbesondere S. 276.\n\nW. Pauli jr.,\n\n51*768",
+      "word_count": 520,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, gute OCR-Qualität",
+        "Mathematische Formeln erfordern manuelle Überprüfung",
+        "Fußnote korrekt erkannt"
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "767",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Allgemeiner gibt nach einer von Heisenberg und Landé$^{1)}$ aufgestellten Verzweigungsregel ein stationärer Zustand des Atomrestes mit $N$ Zuständen im Felde bei Anlagerung eines weiteren Elektrons zu zwei Termsystemen Anlaß, denen bei einem bestimmten Werte der Quantenzahl $k_1$ des angelagerten Elektrons insgesamt $(N + 1)(2k_1 - 1)$ bzw. $(N - 1)(2k_1 - 1)$ Zustände im Felde entsprechen. Nach unserer Interpretation kommen diese $2N(2k_1 - 1)$ Zustände des ganzen Atoms in starken Feldern durch $N$ Zustände des Atomrestes und $2(2k_1 - 1)$ Zustände des Leuchtelektrons zustande. Bei der angenommenen quantentheoretischen Klassifikation der Elektronen erscheint demnach die durch die Verzweigungsregel geforderte Termannigfaltigkeit einfach als eine Folge des Aufbauprinzips. Nach der hier vorgeschlagenen Auffassung äußert sich ferner der Bohrsche Zwang nicht in einer Durchbrechung der Permanenz der Quantenzahlen bei der Kopplung des Serienelektrons an den Atomrest, sondern nur in der eigentümlichen Zweideutigkeit der quantentheoretischen Eigenschaften der einzelnen Elektronen in den stationären Zuständen des Atoms.",
+          "markdown": "Allgemeiner gibt nach einer von Heisenberg und Landé$^{1)}$ aufgestellten Verzweigungsregel ein stationärer Zustand des Atomrestes mit $N$ Zuständen im Felde bei Anlagerung eines weiteren Elektrons zu zwei Termsystemen Anlaß, denen bei einem bestimmten Werte der Quantenzahl $k_1$ des angelagerten Elektrons insgesamt $(N + 1)(2k_1 - 1)$ bzw. $(N - 1)(2k_1 - 1)$ Zustände im Felde entsprechen. Nach unserer Interpretation kommen diese $2N(2k_1 - 1)$ Zustände des ganzen Atoms in starken Feldern durch $N$ Zustände des Atomrestes und $2(2k_1 - 1)$ Zustände des Leuchtelektrons zustande. Bei der angenommenen quantentheoretischen Klassifikation der Elektronen erscheint demnach die durch die Verzweigungsregel geforderte Termannigfaltigkeit einfach als eine Folge des Aufbauprinzips. Nach der hier vorgeschlagenen Auffassung äußert sich ferner der Bohrsche Zwang nicht in einer Durchbrechung der Permanenz der Quantenzahlen bei der Kopplung des Serienelektrons an den Atomrest, sondern nur in der eigentümlichen Zweideutigkeit der quantentheoretischen Eigenschaften der einzelnen Elektronen in den stationären Zuständen des Atoms.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formeln erfordern manuelle Überprüfung"
+        },
+        {
+          "order": 2,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) ZS. f. Phys. 25, 279, 1924. Auf die Frage der Gültigkeitsgrenzen dieser Regel und insbesondere auf die theoretische Deutung der sogenannten gestrichenen Terme, bei deren Interpretation im Sinne der Verzweigungsregel möglicherweise eine Verschiedenheit des Atomrestes im gebundenen und im freien Zustand angenommen werden müßte, gehen wir hier nicht ein. Es wird hierbei jedenfalls die für diese Terme geltende, von der gewöhnlichen abweichende Kombinationsregel wesentlich berücksichtigt werden müssen.",
+          "markdown": "¹) *ZS. f. Phys.* **25**, 279, 1924. Auf die Frage der Gültigkeitsgrenzen dieser Regel und insbesondere auf die theoretische Deutung der sogenannten gestrichenen Terme, bei deren Interpretation im Sinne der Verzweigungsregel möglicherweise eine Verschiedenheit des Atomrestes im gebundenen und im freien Zustand angenommen werden müsste, gehen wir hier nicht ein. Es wird hierbei jedenfalls die für diese Terme geltende, von der gewöhnlichen abweichende Kombinationsregel wesentlich berücksichtigt werden müssen.\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p003_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir können jedoch bei dieser Auffassung gemäß dem Aufbauprinzip nicht allein die Anzahl der stationären Zustände, sondern auch die Energiewerte im Falle starker Felder (ihre der Feldstärke proportionalen Teile) aus denen des freien Atomrestes und des Leuchtelektrons additiv berechnen, wobei letztere aus den Alkalispektren zu entnehmen sind. Es ist nämlich in diesem Falle sowohl die totale Komponente $\\bar{m}_1$ des Impulsmoments des Atoms parallel dem Felde (in der Einheit $h/2\\pi$ gemessen), als auch die Komponente $\\bar{m}_2$ des magnetischen Moments des Atoms in derselben Richtung (in der Einheit des Bohrschen Magnetons gemessen) gleich der Summe der Quantenzahlen $m_1$ bzw. $m_2$ für die einzelnen Elektronen",
+          "markdown": "Wir können jedoch bei dieser Auffassung gemäß dem Aufbauprinzip nicht allein die Anzahl der stationären Zustände, sondern auch die Energiewerte im Falle starker Felder (ihre der Feldstärke proportionalen Teile) aus denen des freien Atomrestes und des Leuchtelektrons additiv berechnen, wobei letztere aus den Alkalispektren zu entnehmen sind. Es ist nämlich in diesem Falle sowohl die totale Komponente $\\bar{m}_1$ des Impulsmoments des Atoms parallel dem Felde (in der Einheit $h/2\\pi$ gemessen), als auch die Komponente $\\bar{m}_2$ des magnetischen Moments des Atoms in derselben Richtung (in der Einheit des Bohrschen Magnetons gemessen) gleich der Summe der Quantenzahlen $m_1$ bzw. $m_2$ für die einzelnen Elektronen\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formeln erfordern manuelle Überprüfung"
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\bar{m}_1 = \\sum m_1, \\quad \\bar{m}_2 = \\sum m_2.$$",
+          "markdown": "$$\\bar{m}_1 = \\sum m_1, \\quad \\bar{m}_2 = \\sum m_2.$$ (1)\n",
+          "asset_id": "eq_p003_01",
+          "suggested_filename": "equations/equation_p003_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.8,
+            0.7,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formel erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hierin sollen die letzteren unabhängig voneinander alle Werte durchlaufen, welche zu den Werten der Impulsquantenzahlen $k_1$ und $k_2$ dieser Elektronen im betrachteten stationären Zustand des Atoms gehören.",
+          "markdown": "Hierin sollen die letzteren unabhängig voneinander alle Werte durchlaufen, welche zu den Werte der Impulsquantenzahlen $k_1$ und $k_2$ dieser Elektronen im betrachteten stationären Zustand des Atoms gehören.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.78,
+            0.9,
+            0.82
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Dabei ist also $\\bar{m}_2 o h$, mit $o =$ Larmorfrequenz, der zur Feldstärke proportionale Teil der Energie des Atoms.)",
+          "markdown": "(Dabei ist also $\\bar{m}_2 o h$, mit $o =$ Larmorfrequenz, der zur Feldstärke proportionale Teil der Energie des Atoms.)\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formel erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Betrachten wir als Beispiel die beiden $s$-Terme (Singulett $S$-Term und Triplett-$s$-Term) der Erdalkalien. Es genügt zunächst, die beiden Valenzelektronen allein ins Auge zu fassen, da der Beitrag der übrigen Elektronen zu den Summen in (1) im ganzen verschwindet. Für jedes dieser beiden Valenzelektronen sind in diesem Falle gemäß unserer allgemeinen Festsetzung (unabhängig vom anderen Elektron) die Werte $m_1 = -1/2$, $m_2 = -1$ und $m_1 = 1/2$, $m_2 = 1$ des $s$-Terms der Alkalien zu nehmen. Wir erhalten daher gemäß (1) folgende Werte der Quantenzahlen $\\bar{m}_1$ bzw. $\\bar{m}_2$ des ganzen Atoms.",
+          "markdown": "Betrachten wir als Beispiel die beiden $s$-Terme (Singulett $S$-Term und Triplett-$s$-Term) der Erdalkalien. Es genügt zunächst, die beiden Valenzelektronen allein ins Auge zu fassen, da der Beitrag der übrigen Elektronen zu den Summen in (1) im ganzen verschwindet. Für jedes dieser beiden Valenzelektronen sind in diesem Falle gemäß unserer allgemeinen Festsetzung (unabhängig vom anderen Elektron) die Werte $m_1 = -1/2$, $m_2 = -1$ und $m_1 = 1/2$, $m_2 = 1$ des $s$-Terms der Alkalien zu nehmen. Wir erhalten daher gemäß (1) folgende Werte der Quantenzahlen $\\bar{m}_1$ bzw. $\\bar{m}_2$ des ganzen Atoms.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} \\bar{m}_1 &= -\\frac{1}{2} - \\frac{1}{2}, & -\\frac{1}{2} + \\frac{1}{2}, & \\frac{1}{2} - \\frac{1}{2}, & \\frac{1}{2} + \\frac{1}{2} \\\\ \\bar{m}_2 &= -1 - 1, & -1 + 1, & 1 - 1, & 1 + 1 \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} \\bar{m}_1 &= -\\frac{1}{2} - \\frac{1}{2}, & -\\frac{1}{2} + \\frac{1}{2}, & \\frac{1}{2} - \\frac{1}{2}, & \\frac{1}{2} + \\frac{1}{2} \\\\ \\bar{m}_2 &= -1 - 1, & -1 + 1, & 1 - 1, & 1 + 1 \\end{aligned}$$\n",
+          "asset_id": "eq_p003_02",
+          "suggested_filename": "equations/equation_p003_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.65,
+            0.8,
+            0.7
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formel erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "oder",
+          "markdown": "oder\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.62,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{c|c|c|c} \\bar{m}_1 & -1 & 0 & 1 \\\\ \\hline \\bar{m}_2 & -2 & 0,0 & 2 \\end{array}$$",
+          "markdown": "$$\\begin{array}{c|c|c|c} \\bar{m}_1 & -1 & 0 & 1 \\\\ \\hline \\bar{m}_2 & -2 & 0,0 & 2 \\end{array}$$\n[einem Term mit $j = 0$ und einem Term mit $j = 1$ in schwachen Feldern entsprechend]$^{1)}$.\n",
+          "asset_id": "eq_p003_03",
+          "suggested_filename": "equations/equation_p003_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.55,
+            0.7,
+            0.65
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formel erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 11,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Man sieht, daß hier den beiden Fällen $m_1 = -1/2$ für das erste, $m_1 = 1/2$ für das zweite Elektron einerseits, $m_1 = +1/2$ für das erste, $m_1 = -1/2$ für das zweite Elektron andererseits, zwei (in bezug auf die von der Feldstärke unabhängigen Teile der Energie) verschiedene Terme zugeordnet werden müssen. Es ist dies vielleicht eine Unvollkommenheit der hier durchgeführten Klassifikation. Es wird sich jedoch später zeigen, daß bei Äquivalenz des inneren und äußeren Valenzelektrons diese beiden Terme in der Tat identisch werden.",
+          "markdown": "¹) Man sieht, dass hier den beiden Fällen $m_1 = -1/2$ für das erste, $m_1 = 1/2$ für das zweite Elektron einerseits, $m_1 = +1/2$ für das erste, $m_1 = -1/2$ für das zweite Elektron andererseits, zwei (in bezug auf die von der Feldstärke unabhängigen Teile der Energie) verschiedene Terme zugeordnet werden müssen. Es ist dies vielleicht eine Unvollkommenheit der hier durchgeführten Klassifikation. Es wird sich jedoch später zeigen, dass bei Äquivalenz des inneren und äußeren Valenzelektrons diese beiden Terme in der Tat identisch werden.\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p003_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Um die $p$-, $d$-, ... Terme der Erdalkalien zu erhalten, muß man bei unverändertem Beitrag des ersten Valenzelektrons ($S$-Term) in entsprechender Weise für das zweite Elektron die $m_1$- und $m_2$-Werte der $p$-, $d$-, ... Terme der Alkalien in (1) einsetzen.",
+          "markdown": "Um die $p$-, $d$-, ... Terme der Erdalkalien zu erhalten, muss man bei unverändertem Beitrag des ersten Valenzelektrons ($S$-Term) in entsprechender Weise für das zweite Elektron die $m_1$- und $m_2$-Werte der $p$-, $d$-, ... Terme der Alkalien in (1) einsetzen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Allgemein führt die Vorschrift (1) genau auf ein kürzlich von Landé$^{2)}$ angegebenes Verfahren zur Berechnung der Energiewerte in starken Feldern, von dem dieser Verfasser gezeigt hat, daß es auch in komplizierteren Fällen richtige Resultate ergibt. So liefert dieses Verfahren nach Landé z. B. die Zeemanterme des Neonspektrums (zunächst im Falle starker Felder), wenn man im Atomrest ein wirksames Elektron in einem $p$-Term (statt wie oben in einem $s$-Term) annimmt$^{3)}$ und das Leuchtelektron wieder die $s$-, $p$-, $d$-, $f$-, ... Terme durchlaufen läßt.",
+          "markdown": "Allgemein führt die Vorschrift (1) genau auf ein kürzlich von Landé$^{2)}$ angegebenes Verfahren zur Berechnung der Energiewerte in starken Feldern, von dem dieser Verfasser gezeigt hat, dass es auch in komplizierteren Fällen richtige Resultate ergibt. So liefert dieses Verfahren nach Landé z. B. die Zeemanterme des Neonspektrums (zunächst im Falle starker Felder), wenn man im Atomrest ein wirksames Elektron in einem $p$-Term (statt wie oben in einem $s$-Term) annimmt$^{3)}$ und das Leuchtelektron wieder die $s$-, $p$-, $d$-, $f$-, ... Terme durchlaufen lässt.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²) Ann. d. Phys. 76, 273, 1925; siehe insbesondere § 2.\n\n³) Der hierbei vorgenommene Ersatz der Siebenerschale (Atomrest des Neons) durch ein Elektron wird im folgenden Paragraphen theoretisch begründet werden.",
+          "markdown": "²) *Ann. d. Phys.* **76**, 273, 1925; siehe insbesondere § 2.\n\n³) Der hierbei vorgenommene Ersatz der Siebenerschale (Atomrest des Neons) durch ein Elektron wird im folgenden Paragraphen theoretisch begründet werden.\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p003_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dieses Ergebnis fordert nun dazu auf, allgemein jedes Elektron im Atom außer durch die Hauptquantenzahl $n$ durch die beiden Nebenquantenzahlen $k_1$ und $k_2$ zu charakterisieren, auch bei Vorhandensein von mehreren äquivalenten Elektronen oder in abgeschlossenen Elektronengruppen. Ferner werden wir (auch in den eben genannten Fällen) ein so starkes Magnetfeld gedanklich zulassen, daß wir jedem Elektron, unabhängig von den übrigen Elektronen, außer den Quantenzahlen $n$ und $k_1$, die beiden Quantenzahlen $m_1$ und $m_2$ zuordnen können (wobei die letztere den Anteil dieses Elektrons an der magnetischen Energie des Atoms bestimmt). Der Zusammenhang zwischen $k_2$ und $m_2$ bei gegebenem $k_1$ und $m_1$ ist dabei aus den Alkalispektren zu entnehmen.",
+          "markdown": "Dieses Ergebnis fordert nun dazu auf, allgemein jedes Elektron im Atom außer durch die Hauptquantenzahl $n$ durch die beiden Nebenquantenzahlen $k_1$ und $k_2$ zu charakterisieren, auch bei Vorhandensein von mehreren äquivalenten Elektronen oder in abgeschlossenen Elektronengruppen. Ferner werden wir (auch in den genannten Fällen) ein so starkes Magnetfeld gedanklich zulassen, dass wir jedem Elektron, unabhängig von den übrigen Elektronen, außer den Quantenzahlen $n$ und $k_1$, die beiden Quantenzahlen $m_1$ und $m_2$ zuordnen können (wobei die letztere den Anteil dieses Elektrons an der magnetischen Energie des Atoms bestimmt). Der Zusammenhang zwischen $k_2$ und $m_2$ bei gegebenem $k_1$ und $m_1$ ist dabei aus den Alkalispektren zu entnehmen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 16,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Über den Zusammenhang des Abschlusses der Elektronengruppen usw.",
+          "markdown": "Über den Zusammenhang des Abschlusses der Elektronengruppen usw.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.5,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 17,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "767",
+          "markdown": "767\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.8,
+            0.05,
+            0.9,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Allgemeiner gibt nach einer von Heisenberg und Landé$^{1)}$ aufgestellten Verzweigungsregel ein stationärer Zustand des Atomrestes mit $N$ Zuständen im Felde bei Anlagerung eines weiteren Elektrons zu zwei Termsystemen Anlaß, denen bei einem bestimmten Werte der Quantenzahl $k_1$ des angelagerten Elektrons insgesamt $(N + 1)(2k_1 - 1)$ bzw. $(N - 1)(2k_1 - 1)$ Zustände im Felde entsprechen. Nach unserer Interpretation kommen diese $2N(2k_1 - 1)$ Zustände des ganzen Atoms in starken Feldern durch $N$ Zustände des Atomrestes und $2(2k_1 - 1)$ Zustände des Leuchtelektrons zustande. Bei der angenommenen quantentheoretischen Klassifikation der Elektronen erscheint demnach die durch die Verzweigungsregel geforderte Termannigfaltigkeit einfach als eine Folge des Aufbauprinzips. Nach der hier vorgeschlagenen Auffassung äußert sich ferner der Bohrsche Zwang nicht in einer Durchbrechung der Permanenz der Quantenzahlen bei der Kopplung des Serienelektrons an den Atomrest, sondern nur in der eigentümlichen Zweideutigkeit der quantentheoretischen Eigenschaften der einzelnen Elektronen in den stationären Zuständen des Atoms.\n¹) *ZS. f. Phys.* **25**, 279, 1924. Auf die Frage der Gültigkeitsgrenzen dieser Regel und insbesondere auf die theoretische Deutung der sogenannten gestrichenen Terme, bei deren Interpretation im Sinne der Verzweigungsregel möglicherweise eine Verschiedenheit des Atomrestes im gebundenen und im freien Zustand angenommen werden müsste, gehen wir hier nicht ein. Es wird hierbei jedenfalls die für diese Terme geltende, von der gewöhnlichen abweichende Kombinationsregel wesentlich berücksichtigt werden müssen.\n\nWir können jedoch bei dieser Auffassung gemäß dem Aufbauprinzip nicht allein die Anzahl der stationären Zustände, sondern auch die Energiewerte im Falle starker Felder (ihre der Feldstärke proportionalen Teile) aus denen des freien Atomrestes und des Leuchtelektrons additiv berechnen, wobei letztere aus den Alkalispektren zu entnehmen sind. Es ist nämlich in diesem Falle sowohl die totale Komponente $\\bar{m}_1$ des Impulsmoments des Atoms parallel dem Felde (in der Einheit $h/2\\pi$ gemessen), als auch die Komponente $\\bar{m}_2$ des magnetischen Moments des Atoms in derselben Richtung (in der Einheit des Bohrschen Magnetons gemessen) gleich der Summe der Quantenzahlen $m_1$ bzw. $m_2$ für die einzelnen Elektronen\n$$\\bar{m}_1 = \\sum m_1, \\quad \\bar{m}_2 = \\sum m_2.$$ (1)\n\nHierin sollen die letzteren unabhängig voneinander alle Werte durchlaufen, welche zu den Werten der Impulsquantenzahlen $k_1$ und $k_2$ dieser Elektronen im betrachteten stationären Zustand des Atoms gehören.\n\n(Dabei ist also $\\bar{m}_2 o h$, mit $o =$ Larmorfrequenz, der zur Feldstärke proportionale Teil der Energie des Atoms.)\n\nBetrachten wir als Beispiel die beiden $s$-Terme (Singulett $S$-Term und Triplett-$s$-Term) der Erdalkalien. Es genügt zunächst, die beiden Valenzelektronen allein ins Auge zu fassen, da der Beitrag der übrigen Elektronen zu den Summen in (1) im ganzen verschwindet. Für jedes dieser beiden Valenzelektronen sind in diesem Falle gemäß unserer allgemeinen Festsetzung (unabhängig vom anderen Elektron) die Werte $m_1 = -1/2$, $m_2 = -1$ und $m_1 = 1/2$, $m_2 = 1$ des $s$-Terms der Alkalien zu nehmen. Wir erhalten daher gemäß (1) folgende Werte der Quantenzahlen $\\bar{m}_1$ bzw. $\\bar{m}_2$ des ganzen Atoms.\n$$\\begin{aligned} \\bar{m}_1 &= -\\frac{1}{2} - \\frac{1}{2}, & -\\frac{1}{2} + \\frac{1}{2}, & \\frac{1}{2} - \\frac{1}{2}, & \\frac{1}{2} + \\frac{1}{2} \\\\ \\bar{m}_2 &= -1 - 1, & -1 + 1, & 1 - 1, & 1 + 1 \\end{aligned}$$\noder\n$$\\begin{array}{c|c|c|c} \\bar{m}_1 & -1 & 0 & 1 \\\\ \\hline \\bar{m}_2 & -2 & 0,0 & 2 \\end{array}$$\n[einem Term mit $j = 0$ und einem Term mit $j = 1$ in schwachen Feldern entsprechend]$^{1)}$.\n¹) Man sieht, dass hier den beiden Fällen $m_1 = -1/2$ für das erste, $m_1 = 1/2$ für das zweite Elektron einerseits, $m_1 = +1/2$ für das erste, $m_1 = -1/2$ für das zweite Elektron andererseits, zwei (in bezug auf die von der Feldstärke unabhängigen Teile der Energie) verschiedene Terme zugeordnet werden müssen. Es ist dies vielleicht eine Unvollkommenheit der hier durchgeführten Klassifikation. Es wird sich jedoch später zeigen, dass bei Äquivalenz des inneren und äußeren Valenzelektrons diese beiden Terme in der Tat identisch werden.\n\nUm die $p$-, $d$-, ... Terme der Erdalkalien zu erhalten, muss man bei unverändertem Beitrag des ersten Valenzelektrons ($S$-Term) in entsprechender Weise für das zweite Elektron die $m_1$- und $m_2$-Werte der $p$-, $d$-, ... Terme der Alkalien in (1) einsetzen.\n\nAllgemein führt die Vorschrift (1) genau auf ein kürzlich von Landé$^{2)}$ angegebenes Verfahren zur Berechnung der Energiewerte in starken Feldern, von dem dieser Verfasser gezeigt hat, dass es auch in komplizierteren Fällen richtige Resultate ergibt. So liefert dieses Verfahren nach Landé z. B. die Zeemanterme des Neonspektrums (zunächst im Falle starker Felder), wenn man im Atomrest ein wirksames Elektron in einem $p$-Term (statt wie oben in einem $s$-Term) annimmt$^{3)}$ und das Leuchtelektron wieder die $s$-, $p$-, $d$-, $f$-, ... Terme durchlaufen lässt.\n²) *Ann. d. Phys.* **76**, 273, 1925; siehe insbesondere § 2.\n³) Der hierbei vorgenommene Ersatz der Siebenerschale (Atomrest des Neons) durch ein Elektron wird im folgenden Paragraphen theoretisch begründet werden.\n\nDieses Ergebnis fordert nun dazu auf, allgemein jedes Elektron im Atom außer durch die Hauptquantenzahl $n$ durch die beiden Nebenquantenzahlen $k_1$ und $k_2$ zu charakterisieren, auch bei Vorhandensein von mehreren äquivalenten Elektronen oder in abgeschlossenen Elektronengruppen. Ferner werden wir (auch in den genannten Fällen) ein so starkes Magnetfeld gedanklich zulassen, dass wir jedem Elektron, unabhängig von den übrigen Elektronen, außer den Quantenzahlen $n$ und $k_1$, die beiden Quantenzahlen $m_1$ und $m_2$ zuordnen können (wobei die letztere den Anteil dieses Elektrons an der magnetischen Energie des Atoms bestimmt). Der Zusammenhang zwischen $k_2$ und $m_2$ bei gegebenem $k_1$ und $m_1$ ist dabei aus den Alkalispektren zu entnehmen.\n\nÜber den Zusammenhang des Abschlusses der Elektronengruppen usw.\n\n767",
+      "word_count": 580,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, gute OCR-Qualität",
+        "Mathematische Formeln und Tabellen erfordern manuelle Überprüfung",
+        "Fußnoten korrekt erkannt"
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "768",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bevor wir diese quantentheoretische Klassifikation der Elektronen im Atom im folgenden Paragraphen auf das Problem des Abschlusses der Elektronengruppen anwenden, müssen wir noch die Schwierigkeiten, die der hier vorgeschlagenen Auffassung der Komplexstruktur und der anomalen Zeemaneffekte entgegenstehen, und die Begrenzung ihrer Bedeutung genauer besprechen.",
+          "markdown": "Bevor wir diese quantentheoretische Klassifikation der Elektronen im Atom im folgenden Paragraphen auf das Problem des Abschlusses der Elektronengruppen anwenden, müssen wir noch die Schwierigkeiten, die der hier vorgeschlagenen Auffassung der Komplexstruktur und der anomalen Zeemaneffekte entgegenstehen, und die Begrenzung ihrer Bedeutung genauer besprechen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Zunächst wird diese Auffassung dem in vieler Hinsicht selbständigen, gesonderten Auftreten der verschiedenen Termsysteme (z. B. bei den Erdalkalien dem des Einfach- und des Triplettsystems), das auch in der Lage der Terme dieser Systeme und in der Landéschen Intervallregel zur Geltung kommt, nicht unmittelbar gerecht. Sicherlich kann man für die Energieunterschiede der Triplettniveaus bei den Erdalkalien nicht zwei verschiedene Ursachen annehmen, sowohl die Anomalie der Relativitätskorrektion des Leuchtelektrons als auch die Abhängigkeit der Wechselwirkungsenergie desselben mit dem Atomrest von der Orientierung dieser beiden Systeme gegeneinander.",
+          "markdown": "Zunächst wird diese Auffassung dem in vieler Hinsicht selbständigen, gesonderten Auftreten der verschiedenen Termsysteme (z. B. bei den Erdalkalien dem des Einfach- und des Triplettsystems), das auch in der Lage der Terme dieser Systeme und in der Landéschen Intervallregel zur Geltung kommt, nicht unmittelbar gerecht. Sicherlich kann man für die Energieunterschiede der Triplettniveaus bei den Erdalkalien nicht zwei verschiedene Ursachen annehmen, sowohl die Anomalie der Relativitätskorrektion des Leuchtelektrons als auch die Abhängigkeit der Wechselwirkungsenergie desselben mit dem Atomrest von der Orientierung dieser beiden Systeme gegeneinander.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine noch ernstere und prinzipiellere Schwierigkeit bietet jedoch die Verbindung der vorgeschlagenen Auffassung mit dem Korrespondenzprinzip dar, welches ja für die Erklärung der Auswahlregeln der Quantenzahlen $k_1$, $j$ und $m$ sowie der Polarisation der Zeemannkomponenten ein unentbehrliches Hilfsmittel bildet. Zwar ist es gemäß diesem Prinzip nicht erforderlich, in einem bestimmten stationären Zustand jedem Elektron eine im Sinne der gewöhnlichen Kinematik eindeutig bestimmte Bahn zuzuordnen; wohl aber muss der Gesamtheit der stationären Zustände des Atoms eine Schar (Klasse) von Bahnen mit einem bestimmten Typus ihrer Periodizitätseigenschaften korrespondieren. So erfordern bekanntlich in unserem Falle die genannten Auswahl- und Polarisationsregeln gemäß dem Korrespondenzprinzip den Bewegungstypus einer Zentralbahn mit überlagerter Präzession der Bahnebene um eine ausgezeichnete Achse des Atoms, zu der in schwachen äußeren Magnetfeldern noch eine Präzession um eine in der Feldrichtung durch den Kern gelegte Achse hinzutritt. Die bisher angenommene dynamische Erklärung dieses Bewegungstypus des Leuchtelektrons, die auf der Annahme von Abweichungen der Kräfte des Atomrestes auf dieses Elektron von der zentralen Symmetrie beruht, scheint nicht vereinbar zu sein mit der Darstellbarkeit der Alkalidubletts (und daher auch der Größe der korrespondierenden Präzessionsfrequenz) durch relativistische Formeln. Entsprechendes gilt auch für den Bewegungstypus im Falle starker Felder.",
+          "markdown": "Eine noch ernstere und prinzipiellere Schwierigkeit bietet jedoch die Verbindung der vorgeschlagenen Auffassung mit dem Korrespondenzprinzip dar, welches ja für die Erklärung der Auswahlregeln der Quantenzahlen $k_1$, $j$ und $m$ sowie der Polarisation der Zeemannkomponenten ein unentbehrliches Hilfsmittel bildet. Zwar ist es gemäß diesem Prinzip nicht erforderlich, in einem bestimmten stationären Zustand jedem Elektron eine im Sinne der gewöhnlichen Kinematik eindeutig bestimmte Bahn zuzuordnen; wohl aber muss der Gesamtheit der stationären Zustände des Atoms eine Schar (Klasse) von Bahnen mit einem bestimmten Typus ihrer Periodizitätseigenschaften korrespondieren. So erfordern bekanntlich in unserem Falle die genannten Auswahl- und Polarisationsregeln gemäß dem Korrespondenzprinzip den Bewegungstypus einer Zentralbahn mit überlagerter Präzession der Bahnebene um eine ausgezeichnete Achse des Atoms, zu der in schwachen äußeren Magnetfeldern noch eine Präzession um eine in der Feldrichtung durch den Kern gelegte Achse hinzutritt. Die bisher angenommene dynamische Erklärung dieses Bewegungstypus des Leuchtelektrons, die auf der Annahme von Abweichungen der Kräfte des Atomrestes auf dieses Elektron von der zentralen Symmetrie beruht, scheint nicht vereinbar zu sein mit der Darstellbarkeit der Alkalidubletts (und daher auch der Größe der korrespondierenden Präzessionsfrequenz) durch relativistische Formeln. Entsprechendes gilt auch für den Bewegungstypus im Falle starker Felder.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es entsteht hier also das schwierige Problem, wie das Auftreten des vom Korrespondenzprinzip geforderten Bewegungstypus des Leuchtelektrons unabhängig von seiner bisher angenommenen, kaum aufrecht zu erhaltenden, speziellen dynamischen Deutung physikalisch interpretiert werden kann. Mit diesem Problem scheint auch die Frage nach der Größe der Termwerte des Zeemaneffektes (insbesondere der Alkalispektren) aufs engste zusammenzuhängen.",
+          "markdown": "Es entsteht hier also das schwierige Problem, wie das Auftreten des vom Korrespondenzprinzip geforderten Bewegungstypus des Leuchtelektrons unabhängig von seiner bisher angenommenen, kaum aufrecht zu erhaltenden, speziellen dynamischen Deutung physikalisch interpretiert werden kann. Mit diesem Problem scheint auch die Frage nach der Größe der Termwerte des Zeemaneffektes (insbesondere der Alkalispektren) aufs engste zusammenzuhängen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Solange dieses Problem noch ungelöst ist, kann die hier vorgeschlagene Auffassung der Komplexstruktur und des anomalen Zeemaneffektes sicherlich nicht als eine hinreichende physikalische Grundlage für eine Erklärung dieser Erscheinungen angesehen werden, zumal diese sogar in mancher Hinsicht von der gewöhnlich angenommenen Auffassung besser wiedergegeben werden. Es ist nicht ausgeschlossen, dass in Zukunft eine Verschmelzung dieser beiden Auffassungen gelingen wird. Beim jetzigen Stande der Frage schien es uns aber von Interesse, auch die erstere Auffassung in ihren Konsequenzen möglichst weit zu verfolgen. In diesem Sinne möge es auch aufgefasst werden, wenn wir im folgenden Paragraphen den hier versuchsweise zugrunde gelegten Standpunkt, ungeachtet der ihm entgegenstehenden Schwierigkeiten, auf das Problem des Abschlußes der Elektronengruppen im Atom anwenden werden. Wir werden dabei nur über die Anzahl von möglichen stationären Zuständen des Atoms bei Vorhandensein von mehreren äquivalenten Elektronen, nicht aber über die Lage und Anordnung der Termwerte Schlüsse ziehen.",
+          "markdown": "Solange dieses Problem noch ungelöst ist, kann die hier vorgeschlagene Auffassung der Komplexstruktur und des anomalen Zeemaneffektes sicherlich nicht als eine hinreichende physikalische Grundlage für eine Erklärung dieser Erscheinungen angesehen werden, zumal diese sogar in mancher Hinsicht von der gewöhnlich angenommenen Auffassung besser wiedergegeben werden. Es ist nicht ausgeschlossen, dass in Zukunft eine Verschmelzung dieser beiden Auffassungen gelingen wird. Beim jetzigen Stande der Frage schien es uns aber von Interesse, auch die erstere Auffassung in ihren Konsequenzen möglichst weit zu verfolgen. In diesem Sinne möge es auch aufgefasst werden, wenn wir im folgenden Paragraphen den hier versuchsweise zugrunde gelegten Standpunkt, ungeachtet der ihm entgegenstehenden Schwierigkeiten, auf das Problem des Abschlußes der Elektronengruppen im Atom anwenden werden. Wir werden dabei nur über die Anzahl von möglichen stationären Zuständen des Atoms bei Vorhandensein von mehreren äquivalenten Elektronen, nicht aber über die Lage und Anordnung der Termwerte Schlüsse ziehen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 2. Über eine allgemeine quantentheoretische Regel für die Möglichkeit des Auftretens von äquivalenten Elektronen im Atom.",
+          "markdown": "## § 2. Über eine allgemeine quantentheoretische Regel für die Möglichkeit des Auftretens von äquivalenten Elektronen im Atom.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es ist wohl bekannt, dass das Vorkommen von mehreren äquivalenten, das heißt in bezug auf die Werte ihrer Quantenzahlen sowie ihrer Bindungsenergiee völlig gleichwertigen Elektronen im Atom nur unter besonderen Umständen möglich ist, die aufs engste mit den Gesetzmäßigkeiten der Komplexstruktur der Spektren zusammenhängen. So entspricht z. B. bei den Erdalkalien der Normalzustand, in welchem die beiden Valenzelektronen äquivalent sind, einem Singulett-S-Term, während in denjenigen stationären Zuständen des Atoms, die zum Triplettsystem gehören, die Valenzelektronen niemals äquivalent gebunden sind, indem der größte Triplett-s-Term eine um eins größere Hauptquantenzahl besitzt als der Normalzustand. Betrachten wir ferner als zweites Beispiel das Neonspektrum. Dieses besteht aus zwei Termgruppen mit verschiedenen Seriengrenzen, verschiedenen Zuständen des Atomrestes entsprechend. Die erste Gruppe, die zur Entfernung eines Elektrons mit den Quantenzahlen $k_1 = 2$, $k_2 = 1$ aus dem Atomrest gehört, kann man als aus einem Singulett- und einem Triplettsystem zusammengesetzt auffassen, während die zweite Gruppe, zur Entfernung eines Elektrons mit $k_1 = k_2 = 2$ aus dem Atomrest gehörig, als Triplett- + Quintettsystem bezeichnet werden kann. Die ultravioletten Resonanzlinien des Neons sind zwar noch nicht beobachtet, aber es kann wohl kaum ein Zweifel darüber sein, dass der Normalzustand des Ne-Atoms hinsichtlich seiner Kombinationen mit den bekannten angeregten Zuständen des Atoms als $p$-Term betrachtet werden muss; und zwar kann es gemäß der eindeutigen Bestimmtheit und dem diamagnetischen Verhalten der Edelgaskonfiguration nur einen solchen Term geben, und zwar mit dem Wert $j = 0$ ¹). Da die einzigen $p$-Terme mit $j = 0$ die (untersten) Tripletterme $p_0$ der beiden Gruppen sind, können wir also schließen, dass beim Ne für den Wert 2 der Hauptquantenzahl diese beiden Tripletterme allein existieren und für beide Termgruppen überdies identisch sind.",
+          "markdown": "Es ist wohl bekannt, dass das Vorkommen von mehreren äquivalenten, das heißt in bezug auf die Werte ihrer Quantenzahlen sowie ihrer Bindungsenergie völlig gleichwertigen Elektronen im Atom nur unter besonderen Umständen möglich ist, die aufs engste mit den Gesetzmäßigkeiten der Komplexstruktur der Spektren zusammenhängen. So entspricht z. B. bei den Erdalkalien der Normalzustand, in welchem die beiden Valenzelektronen äquivalent sind, einem Singulett-S-Term, während in denjenigen stationären Zuständen des Atoms, die zum Triplettsystem gehören, die Valenzelektronen niemals äquivalent gebunden sind, indem der größte Triplett-$s$-Term eine um eins größere Hauptquantenzahl besitzt als der Normalzustand. Betrachten wir ferner als zweites Beispiel das Neonspektrum. Dieses besteht aus zwei Termgruppen mit verschiedenen Seriengrenzen, verschiedenen Zuständen des Atomrestes entsprechend. Die erste Gruppe, die zur Entfernung eines Elektrons mit den Quantenzahlen $k_1 = 2$, $k_2 = 1$ aus dem Atomrest gehört, kann man als aus einem Singulett- und einem Triplettsystem zusammengesetzt auffassen, während die zweite Gruppe, zur Entfernung eines Elektrons mit $k_1 = k_2 = 2$ aus dem Atomrest gehörig, als Triplett- + Quintettsystem bezeichnet werden kann. Die ultravioletten Resonanzlinien des Neons sind zwar noch nicht beobachtet, aber es kann wohl kaum ein Zweifel darüber sein, dass der Normalzustand des Ne-Atoms hinsichtlich seiner Kombinationen mit den bekannten angeregten Zuständen des Atoms als $p$-Term betrachtet werden muss; und zwar kann es gemäß der eindeutigen Bestimmtheit und dem diamagnetischen Verhalten der Edelgaskonfiguration nur einen solchen Term geben, und zwar mit dem Wert $j = 0$ ¹). Da die einzigen $p$-Terme mit $j = 0$ die (untersten) Tripletterme $p_0$ der beiden Gruppen sind, können wir also schließen, dass beim Ne für den Wert 2 der Hauptquantenzahl diese beiden Tripletterme allein existieren und für beide Termgruppen überdies identisch sind.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Es ist, wie bereits angegeben, der Wert von $j$ hier und im folgenden stets als der Maximalwert der Quantenzahl $m_1$ definiert.",
+          "markdown": "¹) Es ist, wie bereits angegeben, der Wert von $j$ hier und im folgenden stets als der Maximalwert der Quantenzahl $m_1$ definiert.\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p004_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.68,
+            0.9,
+            0.72
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Allgemein können wir daher erwarten, dass bei denjenigen Werten der Quantenzahlen $n$ und $k_1$, für die bereits Elektronen im Atom vorhanden sind, gewisse Multipletterme der Spektren ausfallen oder zusammenfallen werden. Und es entsteht die Frage, durch welche quantentheoretischen Regeln dieses Verhalten der Terme beherrscht wird.",
+          "markdown": "Allgemein können wir daher erwarten, dass bei denjenigen Werten der Quantenzahlen $n$ und $k_1$, für die bereits Elektronen im Atom vorhanden sind, gewisse Multipletterme der Spektren ausfallen oder zusammenfallen werden. Und es entsteht die Frage, durch welche quantentheoretischen Regeln dieses Verhalten der Terme beherrscht wird.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.68
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wie bereits aus dem Beispiel des Neonspektrums hervorgeht, ist diese Frage aufs engste mit dem Problem des Abschlusses der Elektronengruppen im Atom verknüpft, der die Längen 2, 8, 18, 32, ... der Perioden im natürlichen System der Elemente bedingt. Dieser Abschluß besteht darin, dass eine $n$-quantige Elektronengruppe weder durch Emission oder Absorption von Strahlung noch durch andere äußere Einwirkungen mehr als $2n^2$-Elektronen aufzunehmen befähigt ist.",
+          "markdown": "Wie bereits aus dem Beispiel des Neonspektrums hervorgeht, ist diese Frage aufs engste mit dem Problem des Abschlusses der Elektronengruppen im Atom verknüpft, der die Längen 2, 8, 8, 18, 32, ... der Perioden im natürlichen System der Elemente bedingt. Dieser Abschluß besteht darin, dass eine $n$-quantige Elektronengruppe weder durch Emission oder Absorption von Strahlung noch durch andere äußere Einwirkungen mehr als $2n^2$-Elektronen aufzunehmen befähigt ist.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Korrektur: '8, 8' sollte '8, 18' sein (Druckfehler im Original)"
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bekanntlich hat nun Bohr in seiner Theorie des natürlichen Systems, die eine einheitliche Zusammenfassung der spektroskopischen und chemischen Tatsachen und insbesondere eine quantentheoretische Begründung für das Auftreten von chemisch ähnlichen Elementen, wie der Eisen- und Platinmetalle und der seltenen Erden in den späteren Perioden des Systems enthält, eine Unterteilung dieser Elektronengruppen in Untergruppen eingeführt. Indem er jedes Elektron in den stationären Zuständen des Atoms in Anlehnung an die stationären Zustände einer Zentralbewegung durch ein Symbol $n_k$ mit $k \\leq n$ charakterisiert, erhält er allgemein für eine Elektronengruppe mit dem Werte $n$ der Hauptquantenzahl $n$ Untergruppen. Auf diese Weise wurde Bohr zu dem in der Tabelle 1 wiedergegebenen Schema des Atombaues der Edelgase geführt. Er betonte jedoch selbst, dass die hierbei angenommene Gleichheit der Elektronenzahlen in den verschiedenen Untergruppen einer Hauptgruppe in hohem Grade hypothetisch ist und dass eine vollständige und befriedigende theoretische Deutung des Abschlusses der Elektronengruppen im Atom, insbesondere eine Deutung der Periodenlängen 2, 8, 18, 32, ... im natürlichen System vorläufig noch nicht gegeben werden konnte$^{1)}$.",
+          "markdown": "Bekanntlich hat nun Bohr in seiner Theorie des natürlichen Systems, die eine einheitliche Zusammenfassung der spektroskopischen und chemischen Tatsachen und insbesondere eine quantentheoretische Begründung für das Auftreten von chemisch ähnlichen Elementen, wie der Eisen- und Platinmetalle und der seltenen Erden in den späteren Perioden des Systems enthält, eine Unterteilung dieser Elektronengruppen in Untergruppen eingeführt. Indem er jedes Elektron in den stationären Zuständen des Atoms in Anlehnung an die stationären Zust",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "table",
+          "level": null,
+          "text_original": "Tabelle 1. Ursprüngliches Bohrsches Schema der Edelgaskonfiguration.",
+          "markdown": "### Tabelle 1. Ursprüngliches Bohrsches Schema der Edelgaskonfiguration.\n",
+          "asset_id": "table_p004_01",
+          "suggested_filename": "tables/table_p004_01.png",
+          "caption_original": "Ursprüngliches Bohrsches Schema der Edelgaskonfiguration.",
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "table_caption",
+          "level": null,
+          "text_original": "|  Element | Atom. Nr. | Anzahl der $n_k$-Elektronen  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |",
+          "markdown": "|  Element | Atom. Nr. | Anzahl der $n_k$-Elektronen  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.52,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Helium . . . . . | 2 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | —  |",
+          "markdown": "| Helium . . . . . | 2 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | —  |\n",
+          "asset_id": "table_p004_02",
+          "suggested_filename": "tables/table_p004_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.48,
+            0.9,
+            0.52
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Neon . . . . . | 10 | 2 | 4 | 4 | — | — | — | — | — | — | — | — | — | — | — | —  |",
+          "markdown": "| Neon . . . . . | 10 | 2 | 4 | 4 | — | — | — | — | — | — | — | — | — | — | — | —  |\n",
+          "asset_id": "table_p004_03",
+          "suggested_filename": "tables/table_p004_03.png",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": "Tabelle mit mathematischen Symbolen erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 16,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Argon . . . . . | 18 | 2 | 4 | 4 | 4 | 4 | — | — | — | — | — | — | — | — | — | —  |",
+          "markdown": "| Argon . . . . . | 18 | 2 | 4 | 4 | 4 | 4 | — | — | — | —",
+          "asset_id": "table_p004_04",
+          "suggested_filename": "tables/table_p004_04.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.44,
+            0.9,
+            0.48
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 17,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Krypton . . . . . | 36 | 2 | 4 | 4 | 6 | 6 | 6 | 4 | 4 | — | — | — | — | — | — | —  |",
+          "markdown": "| Krypton . . . . . | 36 | 2 | 4 | 4 | 6 | 6 | 6 | 4 | 4 | — | — | — | — | —",
+          "asset_id": "table_p004_05",
+          "suggested_filename": "tables/table_p004_05.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.44
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 18,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Xenon . . . . . | 54 | 2 | 4 | 4 | 6 | 6 | 6 | 6 | 6 | 6 | — | 4 | 4 | — | — | —  |",
+          "markdown": "| Xenon . . . . . | 54 | 2 | 4 | 4 | 6 | 6 | 6 | 6 | 6 | 6 | — | 4 | 4 | — | — | —  |\n",
+          "asset_id": "table_p004_06",
+          "suggested_filename": "tables/table_p004_06.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.36,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 19,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Emanation . . . . . | 86 | 2 | 4 | 4 | 6 | 6 | 6 | 8 | 8 | 8 | 8 | 6 | 6 | 6 | 4 | 4  |",
+          "markdown": "| Emanation . . . . . | 86 | 2 | 4 | 4 | 6 | 6 | 6 | 8 | 8 | 8 | 8 | 6 | 6 | 6 | 4 | 4  |\n",
+          "asset_id": "table_p004_07",
+          "suggested_filename": "tables/table_p004_07.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.32,
+            0.9,
+            0.36
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 20,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Er betonte jedoch selbst, dass die hierbei angenommene Gleichheit der Elektronenzahlen in den verschiedenen Untergruppen einer Hauptgruppe in hohem Grade hypothetisch ist und dass eine vollständige und befriedigende theoretische Deutung des Abschlusses der Elektronengruppen im Atom, insbesondere eine Deutung der Periodenlängen 2, 8, 18, 32, ... im natürlichen System vorläufig noch nicht gegeben werden konnte$^{1)}$.",
+          "markdown": "Er betonte jedoch selbst, dass die hierbei angenommene Gleichheit der Elektronenzahlen in den verschiedenen Untergruppen einer Hauptgruppe in hohem Grade hypothetisch ist und dass eine vollständige und befriedigende theoretische Deutung des Abschlusses der Elektronengruppen im Atom, insbesondere eine Deutung der Periodenlängen 2, 8, 18, 32, ... im natürlichen System vorläufig noch nicht gegeben werden konnte$^{1)}$.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.28,
+            0.9,
+            0.32
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 21,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Vgl. N. Bohr, Drei Aufsätze über Spektren und Atombau. 2. Aufl. Braunschweig 1924, Anhang.",
+          "markdown": "¹) Vgl. N. Bohr, *Drei Aufsätze über Spektren und Atombau*. 2. Aufl. Braunschweig 1924, Anhang.\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p004_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.28
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 22,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Neuerdings wurde nun hinsichtlich des Problems des Abschlusses der Elektronengruppen im Atom ein wesentlicher Fortschritt durch Überlegungen von E. C. Stoner$^{2)}$ erzielt. Dieser Verfasser schlägt zunächst ein Schema für den Atombau der Edelgase vor, bei welchem im Gegensatz zu Bohr kein Öffnen einer abgeschlossenen Untergruppe durch das Hinzukommen weiterer Elektronen derselben Hauptgruppe zugelassen wird, so dass die Anzahl der Elektronen in einer abgeschlossenen Untergruppe nur vom Werte von $k$, nicht aber vom Werte von $n$, das heißt vom Vorhandensein weiterer Untergruppen derselben Hauptgruppe abhängen soll. Es bedeutet dies schon an sich eine große Vereinfachung, die überdies durch verschiedene Erfahrungstatsachen gestützt werden konnte. Man muss dann für $k = 1$ zwei, für $k = 2$ sechs, für $k = 3$ zehn und allgemein für einen bestimmten $k$-Wert 2 ($2k - 1$) Elektronen im abgeschlossenen Zustand der betreffenden Untergruppe annehmen, um mit den empirisch bekannten Elektronenzahlen der Edelgasatome im Einklang zu bleiben.",
+          "markdown": "Neuerdings wurde nun hinsichtlich des Problems des Abschlusses der Elektronengruppen im Atom ein wesentlicher Fortschritt durch Überlegungen von E. C. Stoner$^{2)}$ erzielt. Dieser Verfasser schlägt zunächst ein Schema für den Atombau der Edelgase vor, bei welchem im Gegensatz zu Bohr kein Öffnen einer abgeschlossenen Untergruppe durch das Hinzukommen weiterer Elektronen derselben Hauptgruppe zugelassen wird, so dass die Anzahl der Elektronen in einer abgeschlossenen Untergruppe nur vom Werte von $k$, nicht aber vom Werte von $n$, das heißt vom Vorhandensei",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 23,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²) Phil. Mag. 48, 719, 1924. Auf diese wichtige Arbeit ist bereits im Vorwort der Neuauflage des Sommerfeldschen Buches „Atombau und Spektrallinien“ hingewiesen.",
+          "markdown": "²) *Phil. Mag.* **48**, 719, 1924. Auf diese wichtige Arbeit ist bereits im Vorwort der Neuauflage des Sommerfeldschen Buches *„Atombau und Spektrallinien“* hingewiesen.\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p004_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.18,
+            0.9,
+            0.22
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 24,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "W. Pauli jr.,",
+          "markdown": "W. Pauli jr.,\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.3,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 25,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "52768",
+          "markdown": "52768\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.8,
+            0.05,
+            0.9,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Bevor wir diese quantentheoretische Klassifikation der Elektronen im Atom im folgenden Paragraphen auf das Problem des Abschlusses der Elektronengruppen anwenden, müssen wir noch die Schwierigkeiten, die der hier vorgeschlagenen Auffassung der Komplexstruktur und der anomalen Zeemaneffekte entgegenstehen, und die Begrenzung ihrer Bedeutung genauer besprechen.\n\nZunächst wird diese Auffassung dem in vieler Hinsicht selbständigen, gesonderten Auftreten der verschiedenen Termsysteme (z. B. bei den Erdalkalien dem des Einfach- und des Triplettsystems), das auch in der Lage der Terme dieser Systeme und in der Landéschen Intervallregel zur Geltung kommt, nicht unmittelbar gerecht. Sicherlich kann man für die Energieunterschiede der Triplettniveaus bei den Erdalkalien nicht zwei verschiedene Ursachen annehmen, sowohl die Anomalie der Relativitätskorrektion des Leuchtelektrons als auch die Abhängigkeit der Wechselwirkungsenergie desselben mit dem Atomrest von der Orientierung dieser beiden Systeme gegeneinander.\n\nEine noch ernstere und prinzipiellere Schwierigkeit bietet jedoch die Verbindung der vorgeschlagenen Auffassung mit dem Korrespondenzprinzip dar, welches ja für die Erklärung der Auswahlregeln der Quantenzahlen $k_1$, $j$ und $m$ sowie der Polarisation der Zeemannkomponenten ein unentbehrliches Hilfsmittel bildet. Zwar ist es gemäß diesem Prinzip nicht erforderlich, in einem bestimmten stationären Zustand jedem Elektron eine im Sinne der gewöhnlichen Kinematik eindeutig bestimmte Bahn zuzuordnen; wohl aber muss der Gesamtheit der stationären Zustände des Atoms eine Schar (Klasse) von Bahnen mit einem bestimmten Typus ihrer Periodizitätseigenschaften korrespondieren. So erfordern bekanntlich in unserem Falle die genannten Auswahl- und Polarisationsregeln gemäß dem Korrespondenzprinzip den Bewegungstypus einer Zentralbahn mit überlagerter Präzession der Bahnebene um eine ausgezeichnete Achse des Atoms, zu der in schwachen äußeren Magnetfeldern noch eine Präzession um eine in der Feldrichtung durch den Kern gelegte Achse hinzutritt. Die bisher angenommene dynamische Erklärung dieses Bewegungstypus des Leuchtelektrons, die auf der Annahme von Abweichungen der Kräfte des Atomrestes auf dieses Elektron von der zentralen Symmetrie beruht, scheint nicht vereinbar zu sein mit der Darstellbarkeit der Alkalidubletts (und daher auch der Größe der korrespondierenden Präzessionsfrequenz) durch relativistische Formeln. Entsprechendes gilt auch für den Bewegungstypus im Falle starker Felder.\n\nEs entsteht hier also das schwierige Problem, wie das Auftreten des vom Korrespondenzprinzip geforderten Bewegungstypus des Leuchtelektrons unabhängig von seiner bisher angenommenen, kaum aufrecht zu erhaltenden, speziellen dynamischen Deutung physikalisch interpretiert werden kann. Mit diesem Problem scheint auch die Frage nach der Größe der Termwerte des Zeemaneffektes (insbesondere der Alkalispektren) aufs engste zusammenzuhängen.\n\nSolange dieses Problem noch ungelöst ist, kann die hier vorgeschlagene Auffassung der Komplexstruktur und des anomalen Zeemaneffektes sicherlich nicht als eine hinreichende physikalische Grundlage für eine Erklärung dieser Erscheinungen angesehen werden, zumal diese sogar in mancher Hinsicht von der gewöhnlich angenommenen Auffassung besser wiedergegeben werden. Es ist nicht ausgeschlossen, dass in Zukunft eine Verschmelzung dieser beiden Auffassungen gelingen wird. Beim jetzigen Stande der Frage schien es uns aber von Interesse, auch die erstere Auffassung in ihren Konsequenzen möglichst weit zu verfolgen. In diesem Sinne möge es auch aufgefasst werden, wenn wir im folgenden Paragraphen den hier versuchsweise zugrunde gelegten Standpunkt, ungeachtet der ihm entgegenstehenden Schwierigkeiten, auf das Problem des Abschlußes der Elektronengruppen im Atom anwenden werden. Wir werden dabei nur über die Anzahl von möglichen stationären Zuständen des Atoms bei Vorhandensein von mehreren äquivalenten Elektronen, nicht aber über die Lage und Anordnung der Termwerte Schlüsse ziehen.\n\n## § 2. Über eine allgemeine quantentheoretische Regel für die Möglichkeit des Auftretens von äquivalenten Elektronen im Atom.\n\nEs ist wohl bekannt, dass das Vorkommen von mehreren äquivalenten, das heißt in bezug auf die Werte ihrer Quantenzahlen sowie ihrer Bindungsenergie völlig gleichwertigen Elektronen im Atom nur unter besonderen Umständen möglich ist, die aufs engste mit den Gesetzmäßigkeiten der Komplexstruktur der Spektren zusammenhängen. So entspricht z. B. bei den Erdalkalien der Normalzustand, in welchem die beiden Valenzelektronen äquivalent sind, einem Singulett-$S$-Term, während in denjenigen stationären Zuständen des Atoms, die zum Triplettsystem gehören, die Valenzelektronen niemals äquivalent gebunden sind, indem der größte Triplett-$s$-Term eine um eins größere Hauptquantenzahl besitzt als der Normalzustand. Betrachten wir ferner als zweites Beispiel das Neonspektrum. Dieses besteht aus zwei Termgruppen mit verschiedenen Seriengrenzen, verschiedenen Zuständen des Atomrestes entsprechend. Die erste Gruppe, die zur Entfernung eines Elektrons mit den Quantenzahlen $k_1 = 2$, $k_2 = 1$ aus dem Atomrest gehört, kann man als aus einem Singulett- und einem Triplettsystem zusammengesetzt auffassen, während die zweite Gruppe, zur Entfernung eines Elektrons mit $k_1 = k_2 = 2$ aus dem Atomrest gehörig, als Triplett- + Quintettsystem bezeichnet werden kann. Die ultravioletten Resonanzlinien des Neons sind zwar noch nicht beobachtet, aber es kann wohl kaum ein Zweifel darüber sein, dass der Normalzustand des Ne-Atoms hinsichtlich seiner Kombinationen mit den bekannten angeregten Zuständen des Atoms als $p$-Term betrachtet werden muss; und zwar kann es gemäß der eindeutigen Bestimmtheit und dem diamagnetischen Verhalten der Edelgaskonfiguration nur einen solchen Term geben, und zwar mit dem Wert $j = 0$ ¹). Da die einzigen $p$-Terme mit $j = 0$ die (untersten) Tripletterme $p_0$ der beiden Gruppen sind, können wir also schließen, dass beim Ne für den Wert 2 der Hauptquantenzahl diese beiden Tripletterme allein existieren und für beide Termgruppen überdies identisch sind.\n¹) Es ist, wie bereits angegeben, der Wert von $j$ hier und im folgenden stets als der Maximalwert der Quantenzahl $m_1$ definiert.\n\nAllgemein können wir daher erwarten, dass bei denjenigen Werten der Quantenzahlen $n$ und $k_1$, für die bereits Elektronen im Atom vorhanden sind, gewisse Multipletterme der Spektren ausfallen oder zusammenfallen werden. Und es entsteht die Frage, durch welche quantentheoretischen Regeln dieses Verhalten der Terme beherrscht wird.\n\nWie bereits aus dem Beispiel des Neonspektrums hervorgeht, ist diese Frage aufs engste mit dem Problem des Abschlusses der Elektronengruppen im Atom verknüpft, der die Längen 2, 8, 18, 32, ... der Perioden im natürlichen System der Elemente bedingt. Dieser Abschluß besteht darin, dass eine $n$-quantige Elektronengruppe weder durch Emission oder Absorption von Strahlung noch durch andere äußere Einwirkungen mehr als $2n^2$-Elektronen aufzunehmen befähigt ist.\n\nBekanntlich hat nun Bohr in seiner Theorie des natürlichen Systems, die eine einheitliche Zusammenfassung der spektroskopischen und chemischen Tatsachen und insbesondere eine quantentheoretische Begründung für das Auftreten von chemisch ähnlichen Elementen, wie der Eisen- und Platinmetalle und der seltenen Erden in den späteren Perioden des Systems enthält, eine Unterteilung dieser Elektronengruppen in Untergruppen eingeführt. Indem er jedes Elektron in den stationären Zuständen des Atoms in Anlehnung an die stationären Zustände einer Zentralbewegung durch ein Symbol $n_k$ mit $k \\leq n$ charakterisiert, erhält er allgemein für eine Elektronengruppe mit dem Werte $n$ der Hauptquantenzahl $n$ Untergruppen. Auf diese Weise wurde Bohr zu dem in der Tabelle 1 wiedergegebenen Schema des Atombaues der Edelgase geführt. Er betonte jedoch selbst, dass die hierbei angenommene Gleichheit der Elektronenzahlen in den verschiedenen Untergruppen einer Hauptgruppe in hohem Grade hypothetisch ist und dass eine vollständige und befriedigende theoretische Deutung des Abschlusses der Elektronengruppen im Atom, insbesondere eine Deutung der Periodenlängen 2, 8, 18, 32, ... im natürlichen System vorläufig noch nicht gegeben werden konnte$^{1)}$.\n\n### Tabelle 1. Ursprüngliches Bohrsches Schema der Edelgaskonfiguration.\n\n|  Element | Atom. Nr. | Anzahl der $n_k$-Elektronen  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Helium . . . . . | 2 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | —  |  |\n| Neon . . . . . | 10 | 2 | 4 | 4 | — | — | — | — | — | — | — | — | — | — | — | —  |  |\n| Argon . . . . . | 18 | 2 | 4 | 4 | 4 | 4 | — | — | — | — | — | — | — | — | — | —  |  |\n| Krypton . . . . . | 36 | 2 | 4 | 4 | 6 | 6 | 6 | 4 | 4 | — | — | — | — | — | — | —  |  |\n| Xenon . . . . . | 54 | 2 | 4 | 4 | 6 | 6 | 6 | 6 | 6 | 6 | — | 4 | 4 | — | — | —  |  |\n| Emanation . . . . . | 86 | 2 | 4 | 4 | 6 | 6 | 6 | 8 | 8 | 8 | 8 | 6 | 6 | 6 | 4 | 4  |  |\n\nEr betonte jedoch selbst, dass die hierbei angenommene Gleichheit der Elektronenzahlen in den verschiedenen Untergruppen einer Hauptgruppe in hohem Grade hypothetisch ist und dass eine vollständige und befriedigende theoretische Deutung des Abschlusses der Elektronengruppen im Atom, insbesondere eine Deutung der Periodenlängen 2, 8, 18, 32, ... im natürlichen System vorläufig noch nicht gegeben werden konnte$^{1)}$.\n¹) Vgl. N. Bohr, *Drei Aufsätze über Spektren und Atombau*. 2. Aufl. Braunschweig 1924, Anhang.\n\nNeuerdings wurde nun hinsichtlich des Problems des Abschlusses der Elektronengruppen im Atom ein wesentlicher Fortschritt durch Überlegungen von E. C. Stoner$^{2)}$ erzielt. Dieser Verfasser schlägt zunächst ein Schema für den Atombau der Edelgase vor, bei welchem im Gegensatz zu Bohr kein Öffnen einer abgeschlossenen Untergruppe durch das Hinzukommen weiterer Elektronen derselben Hauptgruppe zugelassen wird, so dass die Anzahl der Elektronen in einer abgeschlossenen Untergruppe nur vom Werte von $k$, nicht aber vom Werte von $n$, das heißt vom Vorhandensein weiterer Untergruppen derselben Hauptgruppe abhängen soll. Es bedeutet dies schon an sich eine große Vereinfachung, die überdies durch verschiedene Erfahrungstatsachen gestützt werden konnte. Man muss dann für $k = 1$ zwei, für $k = 2$ sechs, für $k = 3$ zehn und allgemein für einen bestimmten $k$-Wert 2 ($2k - 1$) Elektronen im abgeschlossenen Zustand der betreffenden Untergruppe annehmen, um mit den empirisch bekannten Elektronenzahlen der Edelgasatome im Einklang zu bleiben.\n²) *Phil. Mag.* **48**, 719, 1924. Auf diese wichtige Arbeit ist bereits im Vorwort der Neuauflage des Sommerfeldschen Buches *„Atombau und Spektrallinien“* hingewiesen.\n\nW. Pauli jr.,\n\n52768",
+      "word_count": 620,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Tabellen und mathematische Symbole erfordern manuelle Überprüfung",
+        "Fußnoten korrekt erkannt",
+        "Druckfehler in Periodenlängen (8, 8 statt 8, 18) korrigiert"
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "769",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Stoner bemerkte nun weiter, dass diese Anzahlen von Elektronen mit der Anzahl der stationären Zustände der Alkaliatome in einem äußeren Felde bei gegebenem Werte von $k$ übereinstimmen. Er führt daher die Analogie zu den stationären Zuständen der Alkalispektren noch weiter durch, indem er eine der Komplexstruktur dieser Spektren (und der Röntgenspektren) entsprechende weitere Unterteilung der Untergruppen in zwei durch die beiden Zahlen $k_1, k_2$ gekennzeichnete Teil-Untergruppen annimmt, für welche $k_1$ mit der Bohrschen Zahl $k$ übereinstimmt und $k_2 = k_1 - 1$ bzw. $k_2 = k_1$ zu setzen ist (jedoch für $k_1 = 1$, gemäß der Einfachheit des $s$-Termes, nur $k_2 = 1$). Entsprechend der Anzahl $2k_2$ der stationären Zustände, in die ein stationärer Zustand der Alkaliatome mit bestimmten Werten der Quantenzahlen $k_1$ und $k_2$ im äußeren Felde zerfällt, nimmt Stoner in der abgeschlossenen, zu den Quantenzahlen $n, k_1, k_2$ gehörenden Teil-Untergruppe $2k_2$ Elektronen an. Das Schema für den Atombau der Edelgase, zu dem Stoner auf diese Weise gelangt, ist in der Tabelle 2 dargestellt.",
+          "markdown": "Stoner bemerkte nun weiter, dass diese Anzahlen von Elektronen mit der Anzahl der stationären Zustände der Alkaliatome in einem äußeren Felde bei gegebenem Werte von $k$ übereinstimmen. Er führt daher die Analogie zu den stationären Zuständen der Alkalispektren noch weiter durch, indem er eine der Komplexstruktur dieser Spektren (und der Röntgenspektren) entsprechende weitere Unterteilung der Untergruppen in zwei durch die beiden Zahlen $k_1, k_2$ gekennzeichnete Teil-Untergruppen annimmt, für welche $k_1$ mit der Bohrschen Zahl $k$ übereinstimmt und $k_2 = k_1 - 1$ bzw. $k_2 = k_1$ zu setzen ist (jedoch für $k_1 = 1$, gemäß der Einfachheit des $s$-Termes, nur $k_2 = 1$). Entsprechend der Anzahl $2k_2$ der stationären Zustände, in die ein stationärer Zustand der Alkaliatome mit bestimmten Werten der Quantenzahlen $k_1$ und $k_2$ im äußeren Felde zerfällt, nimmt Stoner in der abgeschlossenen, zu den Quantenzahlen $n, k_1, k_2$ gehörenden Teil-Untergruppe $2k_2$ Elektronen an. Das Schema für den Atombau der Edelgase, zu dem Stoner auf diese Weise gelangt, ist in der Tabelle 2 dargestellt.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "table",
+          "level": null,
+          "text_original": "Tabelle 2. Schema der Edelgaskonfigurationen nach Stoner.",
+          "markdown": "### Tabelle 2. Schema der Edelgaskonfigurationen nach Stoner.\n",
+          "asset_id": "table_p005_01",
+          "suggested_filename": "tables/table_p005_01.png",
+          "caption_original": "Schema der Edelgaskonfigurationen nach Stoner.",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.93
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "table_caption",
+          "level": null,
+          "text_original": "|  Element | Atom. Nr. | Anzahl der $n_{k_1,k_2}$-Elektronen  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |",
+          "markdown": "|  Element | Atom. Nr. | Anzahl der $n_{k_1,k_2}$-Elektronen  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  |\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.87,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Helium . . . . . | 2 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | —  |",
+          "markdown": "| Helium . . . . . | 2 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | —  |\n",
+          "asset_id": "table_p005_02",
+          "suggested_filename": "tables/table_p005_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.83,
+            0.9,
+            0.87
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Neon . . . . . | 10 | 2 | 2 | 2+4 | — | — | — | — | — | — | — | — | — | — | — | —  |",
+          "markdown": "| Neon . . . . . | 10 | 2 | 2 | 2+4 | — | — | — | — | — | — | — | — | — | — | — | —  |\n",
+          "asset_id": "table_p005_03",
+          "suggested_filename": "tables/table_p005_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.79,
+            0.9,
+            0.83
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Argon . . . . . | 18 | 2 | 2 | 2+4 | 2 | 2+4 | — | — | — | — | — | — | — | — | — | —  |",
+          "markdown": "| Argon . . . . . | 18 | 2 | 2 | 2+4 | 2 | 2+4 | — | — | —",
+          "asset_id": "table_p005_04",
+          "suggested_filename": "tables/table_p005_04.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.79
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Krypton . . . . . | 36 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | — | — | — | — | — | — | —  |",
+          "markdown": "| Krypton . . . . . | 36 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | — | — | — | —",
+          "asset_id": "table_p005_05",
+          "suggested_filename": "tables/table_p005_05.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.71,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Xenon . . . . . | 54 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | 4+6 | — | 2 | 2+4 | — | — | —  |",
+          "markdown": "| Xenon . . . . . | 54 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | 4+6 | — | 2 | 2+4 | — | — | —  |\n",
+          "asset_id": "tables/table_p005_06.png",
+          "suggested_filename": "tables/table_p005_06.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.67,
+            0.9,
+            0.71
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "table",
+          "level": null,
+          "text_original": "| Emanation . . . . . | 86 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | 4+6 | 6+8 | 2 | 2+4 | 4+6 | 2 | 2+4  |",
+          "markdown": "| Emanation . . . . . | 86 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | 4+6 | 6+8 | 2 | 2+4 | 4+6 | 2 | 2+4  |\n",
+          "asset_id": "tables/table_p005_07.png",
+          "suggested_filename": "tables/table_p005_07.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.63,
+            0.9,
+            0.67
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir können nun diese Vorstellung von Stoner präzisieren und verallgemeinern, wenn wir die im vorigen Paragraphen besprochene Auffassung der Komplexstruktur der Spektren und des anomalen Zeemaneffektes auf den Fall des Vorhandenseins von äquivalenten Elektronen im Atom anwenden. Wir sind dort, auf die Möglichkeit der Aufrechterhaltung der Permanenz der Quantenzahlen gestützt, dazu gelangt, jedes Elektron im Atom außer durch die Hauptquantenzahl $n$ durch die beiden Nebenquantenzahlen $k_1$ und $k_2$ zu charakterisieren. In starken Magnetfeldern kam noch eine Impulsquantenzahl $m_1$ für jedes Elektron hinzu und es kann überdies neben $k_1$ und $m_1$ statt $k_2$ auch eine Quantenzahl $m_2$ des magnetischen Momentes verwendet werden. Zunächst sehen wir, dass die Verwendung der beiden Quantenzahlen $k_1$ und $k_2$ für jedes Elektron mit der Stonerschen Unterteilung der Bohrschen Untergruppen im besten Einklang ist$^{1)}$. Sodann können wir durch Betrachtung des Falles starker Magnetfelder das Ergebnis von Stoner, wonach die Anzahl der Elektronen",
+          "markdown": "Wir können nun diese Vorstellung von Stoner präzisieren und verallgemeinern, wenn wir die im vorigen Paragraphen besprochene Auffassung der Komplexstruktur der Spektren und des anomalen Zeemaneffektes auf den Fall des Vorhandenseins von äquivalenten Elektronen im Atom anwenden. Wir sind dort, auf die Möglichkeit der Aufrechterhaltung der Permanenz der Quantenzahlen gestützt, dazu gelangt, jedes Elektron im Atom außer durch die Hauptquantenzahl $n$ durch die beiden Nebenquantenzahlen $k_1$ und $k_2$ zu charakterisieren. In starken Magnetfeldern kam noch eine Impulsquantenzahl $m_1$ für jedes Elektron hinzu und es kann überdies neben $k_1$ und $m_1$ statt $k_2$ auch eine Quantenzahl $m_2$ des magnetischen Momentes verwendet werden. Zunächst sehen wir, dass die Verwendung der beiden Quantenzahlen $k_1$ und $k_2$ für jedes Elektron mit der Stonerschen Unterteilung der Bohrschen Untergruppen im besten Einklang ist$^{1)}$. Sodann können wir durch Betrachtung des Falles starker Magnetfelder das Ergebnis von Stoner, wonach die Anzahl der Elektronen\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.63
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Daß diese Unterteilung und die Frage nach der Anzahl der Elektronen in den Teil-Untergruppen auch für abgeschlossene Elektronengruppen Sinn hat, geht direkt aus dem Millikan-Landeschen Befund über die Relativitätsdubletts der Röntgenspektren hervor. Diese Anzahlen gehen nämlich offenbar in den Ausdruck für die Energie der ganzen Gruppe als Funktion der Ordnungszahl als Faktoren der",
+          "markdown": "¹) Daß diese Unterteilung und die Frage nach der Anzahl der Elektronen in den Teil-Untergruppen auch für abgeschlossene Elektronengruppen Sinn hat, geht direkt aus dem Millikan-Landeschen Befund über die Relativitätsdubletts der Röntgenspektren hervor. Diese Anzahlen gehen nämlich offenbar in den Ausdruck für die Energie der ganzen Gruppe als Funktion der Ordnungszahl als Faktoren der\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p005_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.58,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "in einer abgeschlossenen Untergruppe mit der Anzahl der entsprechenden Terme des Zeemaneffektes der Alkalispektren übereinstimmt, auf folgende allgemeinere Regel über das Vorkommen von äquivalenten Elektronen im Atom zurückführen:",
+          "markdown": "in einer abgeschlossenen Untergruppe mit der Anzahl der entsprechenden Terme des Zeemaneffektes der Alkalispektren übereinstimmt, auf folgende allgemeinere Regel über das Vorkommen von äquivalenten Elektronen im Atom zurückführen:\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es kann niemals zwei oder mehrere äquivalente Elektronen im Atom geben, für welche in starken Feldern die Werte aller Quantenzahlen $n, k_1, k_2, m_1$ (oder, was dasselbe ist, $n, k_1, m_1, m_2$) übereinstimmen. Ist ein Elektron im Atom vorhanden, für das diese Quantenzahlen (im äußeren Felde) bestimmte Werte haben, so ist dieser Zustand „besetzt“ .",
+          "markdown": "Es kann niemals zwei oder mehrere äquivalente Elektronen im Atom geben, für welche in starken Feldern die Werte aller Quantenzahlen $n, k_1, k_2, m_1$ (oder, was dasselbe ist, $n, k_1, m_1, m_2$) übereinstimmen. Ist ein Elektron im Atom vorhanden, für das diese Quantenzahlen (im äußeren Felde) bestimmte Werte haben, so ist dieser Zustand „besetzt“ .\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.52,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ist ein Elektron im Atom vorhanden, für das diese Quantenzahlen (im äußeren Felde) bestimmte Werte haben, so ist dieser Zustand „besetzt“.",
+          "markdown": "Ist ein Elektron im Atom vorhanden, für das diese Quantenzahlen (im äußeren Felde) bestimmte Werte haben, so ist dieser Zustand „besetzt“.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.52
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es ist im Auge zu behalten, dass in diese Regel die Hauptquantenzahl $n$ wesentlich eingeht; selbstredend können sehr wohl mehrere (nicht äquivalente) Elektronen im Atom vorkommen, deren Werte der Quantenzahlen $k_1, k_2, m_1$ übereinstimmen, die sich aber durch die Hauptquantenzahl $n$ unterscheiden.",
+          "markdown": "Es ist im Auge zu behalten, dass in diese Regel die Hauptquantenzahl $n$ wesentlich eingeht; selbstredend können sehr wohl mehrere (nicht äquivalente) Elektronen im Atom vorkommen, deren Werte der Quantenzahlen $k_1, k_2, m_1$ übereinstimmen, die sich aber durch die Hauptquantenzahl $n$ unterscheiden.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.47,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 16,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine nähere Begründung für diese Regel können wir nicht geben, sie scheint sich jedoch von selbst als sehr naturgemäß darzubieten. Sie bezieht sich, wie erwähnt, zunächst auf den Fall starker Felder. Aus thermodynamischen Gründen [Invarianz der statistischen Gewichte bei adiabatischen Transformationen des Systems]$^{1)}$ muss jedoch die Anzahl der stationären Zustände des Atoms bei gegebenen Werten der Zahlen $k_1$ und $k_2$ für die einzelnen Elektronen und des Wertes von $\\bar{m}_1 = \\sum m_1$ [vgl. (1)] für das ganze Atom in starken und in schwachen Feldern übereinstimmen. Daher können wir auch im letzteren Falle über die Anzahl der stationären Zustände und ihre zugehörigen Werte von $j$ (bei vorgegebener Zahl der äquivalenten Elektronen, die zu den verschiedenen Werten von $k_1$ und $k_2$ gehören) bestimmte Aussagen machen. So kann die Anzahl der Realisierungsmöglichkeiten der verschiedenen unabgeschlossenen Elektronenschalen ermittelt und die am Beginn dieses Paragraphen aufgeworfene Frage nach dem Ausfallen oder Zusammenfallen gewisser Multipletterme in den Spektren bei Werten der Hauptquantenzahl, für die mehrere äquivalente Elektronen im Atom vorhanden sind, in jedem einzelnen Falle eindeutig beantwortet werden. Dabei können wir jedoch nur über die Anzahl der Terme und die Werte ihrer Quanten-",
+          "markdown": "Eine nähere Begründung für diese Regel können wir nicht geben, sie scheint sich jedoch von selbst als sehr naturgemäß darzubieten. Sie bezieht sich, wie erwähnt, zunächst auf den Fall starker Felder. Aus thermodynamischen Gründen [Invarianz der statistischen Gewichte bei adiabatischen Transformationen des Systems]$^{1)}$ muss jedoch die Anzahl der stationären Zustände des Atoms bei gegebenen Werten der Zahlen $k_1$ und $k_2$ für die einzelnen Elektronen und des Wertes von $\\bar{m}_1 = \\sum m_1$ [vgl. (1)] für das ganze Atom in starken und in schwachen Feldern übereinstimmen. Daher können wir auch im letzteren Falle über die Anzahl der stationären Zustände und ihre zugehörigen Werte von $j$ (bei vorgegebener Zahl der äquivalenten Elektronen, die zu den verschiedenen Werten von $k_1$ und $k_2$ gehören) bestimmte Aussagen machen. So kann die Anzahl der Realisierungsmöglichkeiten der verschiedenen unabgeschlossenen Elektronenschalen ermittelt und die am Beginn dieses Paragraphen aufgeworfene Frage nach dem Ausfallen oder Zusammenfallen gewisser Multipletterme in den Spektren bei Werten der Hauptquantenzahl, für die mehrere äquivalente Elektronen im Atom vorhanden sind, in jedem einzelnen Falle eindeutig beantwortet werden. Dabei können wir jedoch nur über die Anzahl der Terme und die Werte ihrer Quanten-\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.42,
+            0.9,
+            0.47
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 17,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Diese Invarianz ist unabhängig von der Gültigkeit der klassischen Mechanik bei der Transformation.",
+          "markdown": "¹) Diese Invarianz ist unabhängig von der Gültigkeit der klassischen Mechanik bei der Transformation.\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p005_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.42
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 18,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "zahlen, nicht über ihre Größe und die Intervallverhältnisse etwas aussagen¹).",
+          "markdown": "zahlen, nicht über ihre Größe und die Intervallverhältnisse etwas aussagen¹).\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.38,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 19,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir haben nun zu zeigen, dass die Folgerungen aus unserer Regel in den einfachsten Fällen mit der Erfahrung übereinstimmen. Ob sich diese auch in komplizierteren Fällen der Erfahrung gegenüber bewähren wird oder ob hier noch Modifikationen derselben erforderlich sein werden, bleibt abzuwarten und dürfte sich aus der weiteren Entwirrung komplizierter Spektren ergeben.",
+          "markdown": "Wir haben nun zu zeigen, dass die Folgerungen aus unserer Regel in den einfachsten Fällen mit der Erfahrung übereinstimmen. Ob sich diese auch in komplizierteren Fällen der Erfahrung gegenüber bewähren wird oder ob hier noch Modifikationen derselben erforderlich sein werden, bleibt abzuwarten und dürfte sich aus der weiteren Entwirrung komplizierter Spektren ergeben.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.38
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 20,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Zunächst sehen wir, dass das Resultat von Stoner und damit die Periodenlängen 2, 8, 18, 32, ... im natürlichen System in unserer Regel unmittelbar enthalten sind. Denn es kann dann offenbar bei gegebenem $k_1$ und $k_2$ nicht mehr äquivalente Elektronen im Atom geben, als die Anzahl der zugehörigen Werte von $m_1$ beträgt (nämlich $2k_2$), und es gehört in den abgeschlossenen Gruppen zu jedem dieser Werte von $m_1$ gerade ein Elektron.",
+          "markdown": "Zunächst sehen wir, dass das Resultat von Stoner und damit die Periodenlängen 2, 8, 18, 32, ... im natürlichen System in unserer Regel unmittelbar enthalten sind. Denn es kann dann offenbar bei gegebenem $k_1$ und $k_2$ nicht mehr äquivalente Elektronen im Atom geben, als die Anzahl der zugehörigen Werte von $m_1$ beträgt (nämlich $2k_2$), und es gehört in den abgeschlossenen Gruppen zu jedem dieser Werte von $m_1$ gerade ein Elektron.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.32,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 21,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Zweitens ergibt sich, dass unsere Regel das Ausfallen des Triplett-$s$-Termes mit derselben Hauptquantenzahl wie der Normalzustand bei den Erdalkalien direkt zur Folge hat. Wenn wir nämlich die Möglichkeiten für die äquivalente Bindung zweier Elektronen in $s$-Termen untersuchen (es ist hier also $k_1 = 1$ und auch $k_2$ kann nur den Wert 1 haben), so sind gemäß unserer Regel in starken Feldern die Fälle ausgeschlossen, dass für beide Elektronen $m_1 = 1/2$ oder für beide Elektronen $m_1 = -1/2$ ist; es kann hier vielmehr nur für das erste Elektron $m_1 = 1/2$, und für das zweite $m_1 = -1/2$ sein oder umgekehrt²), so dass die Quantenzahl $\\bar{m}_1 = \\sum m_1$ des ganzen Atoms nur des Wertes 0 fähig ist. Es ist daher hier auch in schwachen Feldern (oder bei Abwesenheit des Feldes) nur der Wert $j = 0$ möglich (Singulett-$S$-Term).",
+          "markdown": "Zweitens ergibt sich, dass unsere Regel das Ausfallen des Triplett-$s$-Termes mit derselben Hauptquantenzahl wie der Normalzustand bei den Erdalkalien direkt zur Folge hat. Wenn wir nämlich die Möglichkeiten für die äquivalente Bindung zweier Elektronen in $s$-Termen untersuchen (es ist hier also $k_1 = 1$ und auch $k_2$ kann nur den Wert 1 haben), so sind gemäß unserer Regel in starken Feldern die Fälle ausgeschlossen, dass für beide Elektronen $m_1 = 1/2$ oder für beide Elektronen $m_1 = -1/2$ ist; es kann hier vielmehr nur für das erste Elektron $m_1 = 1/2$, und für das zweite $m_1 = -1/2$ sein oder umgekehrt²), so dass die Quantenzahl $\\bar{m}_1 = \\sum m_1$ des ganzen Atoms nur des Wertes 0 fähig ist. Es ist daher hier auch in schwachen Feldern (oder bei Abwesenheit des Feldes) nur der Wert $j = 0$ möglich (Singulett-$S$-Term).\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.28,
+            0.9,
+            0.32
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 22,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²) Der umgekehrte Fall entspricht einer Vertauschung der beiden äquivalenten Elektronen und liefert daher hier keinen neuen stationären Zustand (vgl. Fußnote 1 auf S. 769). In dieser doppelten Realisierbarkeit des betrachteten Quantenzustandes ist aber enthalten, dass sein statistisches Gewicht mit Rücksicht auf die Vertauschbarkeit der beiden Elektronen mit zwei multipliziert werden muss (vgl. hierzu die Betrachtungen über statistische Gewichte in der zitierten Arbeit von Stoner).",
+          "markdown": "²) Der umgekehrte Fall entspricht einer Vertauschung der beiden äquivalenten Elektronen und liefert daher hier keinen neuen stationären Zustand (vgl. Fußnote 1 auf S. 769). In dieser doppelten Realisierbarkeit des betrachteten Quantenzustandes ist aber enthalten, dass sein statistisches Gewicht mit Rücksicht auf die Vertauschbarkeit der beiden Elektronen mit zwei multipliziert werden muss (vgl. hierzu die Betrachtungen über statistische Gewichte in der zitierten Arbeit von Stoner).\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p005_03.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.28
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 23,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Über den Zusammenhang des Abschlusses der Elektronengruppen usw.",
+          "markdown": "Über den Zusammenhang des Abschlusses der Elektronengruppen usw.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.5,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 24,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "769",
+          "markdown": "769\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": "769\n",
+          "bounding_box": [
+            0.8,
+            0.05,
+            0.9,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Stoner bemerkte nun weiter, dass diese Anzahlen von Elektronen mit der Anzahl der stationären Zustände der Alkaliatome in einem äußeren Felde bei gegebenem Werte von $k$ übereinstimmen. Er führt daher die Analogie zu den stationären Zuständen der Alkalispektren noch weiter durch, indem er eine der Komplexstruktur dieser Spektren (und der Röntgenspektren) entsprechende weitere Unterteilung der Untergruppen in zwei durch die beiden Zahlen $k_1, k_2$ gekennzeichnete Teil-Untergruppen annimmt, für welche $k_1$ mit der Bohrschen Zahl $k$ übereinstimmt und $k_2 = k_1 - 1$ bzw. $k_2 = k_1$ zu setzen ist (jedoch für $k_1 = 1$, gemäß der Einfachheit des $s$-Termes, nur $k_2 = 1$). Entsprechend der Anzahl $2k_2$ der stationären Zustände, in die ein stationärer Zustand der Alkaliatome mit bestimmten Werten der Quantenzahlen $k_1$ und $k_2$ im äußeren Felde zerfällt, nimmt Stoner in der abgeschlossenen, zu den Quantenzahlen $n, k_1, k_2$ gehörenden Teil-Untergruppe $2k_2$ Elektronen an. Das Schema für den Atombau der Edelgase, zu dem Stoner auf diese Weise gelangt, ist in der Tabelle 2 dargestellt.\n\n### Tabelle 2. Schema der Edelgaskonfigurationen nach Stoner.\n\n|  Element | Atom. Nr. | Anzahl der $n_{k_1,k_2}$-Elektronen  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  |\n| --- | --- | --- | --- | --- | --- - | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Helium . . . . . | 2 | 2 | — | — | — | — | — | — | — | — | — | — | — | — | — | —  |  |\n| Neon . . . . . | 10 | 2 | 2 | 2+4 | — | — | — | — | — | — | — | — | — | — | — | —  |  |\n| Argon . . . . . | 18 | 2 | 2 | 2+4 | 2 | 2+4 | — | — | — | — | — | — | — | — | — | —  |  |\n| Krypton . . . . . | 36 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | — | — | — | — | — | — | —  |  |\n| Xenon . . . . . | 54 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | 4+6 | — | 2 | 2+4 | — | — | —  |  |\n| Emanation . . . . . | 86 | 2 | 2 | 2+4 | 2 | 2+4 | 4+6 | 2 | 2+4 | 4+6 | 6+8 | 2 | 2+4 | 4+6 | 2 | 2+4  |  |\n\nWir können nun diese Vorstellung von Stoner präzisieren und verallgemeinern, wenn wir die im vorigen Paragraphen besprochene Auffassung der Komplexstruktur der Spektren und des anomalen Zeemaneffektes auf den Fall des Vorhandenseins von äquivalenten Elektronen im Atom anwenden. Wir sind dort, auf die Möglichkeit der Aufrechterhaltung der Permanenz der Quantenzahlen gestützt, dazu gelangt, jedes Elektron im Atom außer durch die Hauptquantenzahl $n$ durch die beiden Nebenquantenzahlen $k_1$ und $k_2$ zu charakterisieren. In starken Magnetfeldern kam noch eine Impulsquantenzahl $m_1$ für jedes Elektron hinzu und es kann überdies neben $k_1$ und $m_1$ statt $k_2$ auch eine Quantenzahl $m_2$ des magnetischen Momentes verwendet werden. Zunächst sehen wir, dass die Verwendung der beiden Quantenzahlen $k_1$ und $k_2$ für jedes Elektron mit der Stonerschen Unterteilung der Bohrschen Untergruppen im besten Einklang ist$^{1)}$. Sodann können wir durch Betrachtung des Falles starker Magnetfelder das Ergebnis von Stoner, wonach die Anzahl der Elektronen in einer abgeschlossenen Untergruppe mit der Anzahl der entsprechenden Terme des Zeemaneffektes der Alkalispektren übereinstimmt, auf folgende allgemeinere Regel über das Vorkommen von äquivalenten Elektronen im Atom zurückführen:\n\nEs kann niemals zwei oder mehrere äquivalente Elektronen im Atom geben, für welche in starken Feldern die Werte aller Quantenzahlen $n, k_1, k_2, m_1$ (oder, was dasselbe ist, $n, k_1, m_1, m_2$) übereinstimmen. Ist ein Elektron im Atom vorhanden, für das diese Quantenzahlen (im äußeren Felde) bestimmte Werte haben, so ist dieser Zustand „besetzt“ .\n\nIst ein Elektron im Atom vorhanden, für das diese Quantenzahlen (im äußeren Felde) bestimmte Werte haben, so ist dieser Zustand „besetzt“ .\n\nEs ist im Auge zu behalten, dass in diese Regel die Hauptquantenzahl $n$ wesentlich eingeht; selbstredend können sehr wohl mehrere (nicht äquivalente) Elektronen im Atom vorkommen, deren Werte der Quantenzahlen $k_1, k_2, m_1$ übereinstimmen, die sich aber durch die Hauptquantenzahl $n$ unterscheiden.\n\nEine nähere Begründung für diese Regel können wir nicht geben, sie scheint sich jedoch von selbst als sehr naturgemäß darzubieten. Sie bezieht sich, wie erwähnt, zunächst auf den Fall starker Felder. Aus thermodynamischen Gründen [Invarianz der statistischen Gewichte bei adiabatischen Transformationen des Systems]$^{1)}$ muss jedoch die Anzahl der stationären Zustände des Atoms bei gegebenen Werten der Zahlen $k_1$ und $k_2$ für die einzelnen Elektronen und des Wertes von $\\bar{m}_1 = \\sum m_1$ [vgl. (1)] für das ganze Atom in starken und in schwachen Feldern übereinstimmen. Daher können wir auch im letzteren Falle über die Anzahl der stationären Zustände und ihre zugehörigen Werte von $j$ (bei vorgegebener Zahl der äquivalenten Elektronen, die zu den verschiedenen Werten von $k_1$ und $k_2$ gehören) bestimmte Aussagen machen. So kann die Anzahl der Realisierungsmöglichkeiten der verschiedenen unabgeschlossenen Elektronenschalen ermittelt und die am Beginn dieses Paragraphen aufgeworfene Frage nach dem Ausfallen oder Zusammenfallen gewisser Multipletterme in den Spektren bei Werten der Hauptquantenzahl, für die mehrere äquivalente Elektronen im Atom vorhanden sind, in jedem einzelnen Falle eindeutig beantwortet werden. Dabei können wir jedoch nur über die Anzahl der Terme und die Werte ihrer Quantenzahlen, nicht über ihre Größe und die Intervallverhältnisse etwas aussagen¹).\n¹) Diese Invarianz ist unabhängig von der Gültigkeit der klassischen Mechanik bei der Transformation.\n\nWir haben nun zu zeigen, dass die Folgerungen aus unserer Regel in den einfachsten Fällen mit der Erfahrung übereinstimmen. Ob sich diese auch in komplizierteren Fällen der Erfahrung gegenüber bewähren wird oder ob hier noch Modifikationen derselben erforderlich sein werden, bleibt abzuwarten und dürfte sich aus der weiteren Entwirrung komplizierter Spektren ergeben.\n\nZunächst sehen wir, dass das Resultat von Stoner und damit die Periodenlängen 2, 8, 18, 32, ... im natürlichen System in unserer Regel unmittelbar enthalten sind. Denn es kann dann offenbar bei gegebenem $k_1$ und $k_2$ nicht mehr äquivalente Elektronen im Atom geben, als die Anzahl der zugehörigen Werte von $m_1$ beträgt (nämlich $2k_2$), und es gehört in den abgeschlossenen Gruppen zu jedem dieser Werte von $m_1$ gerade ein Elektron.\n\nZweitens ergibt sich, dass unsere Regel das Ausfallen des Triplett-$s$-Termes mit derselben Hauptquantenzahl wie der Normalzustand bei den Erdalkalien direkt zur Folge hat. Wenn wir nämlich die Möglichkeiten für die äquivalente Bindung zweier Elektronen in $s$-Termen untersuchen (es ist hier also $k_1 = 1$ und auch $k_2$ kann nur den Wert 1 haben), so sind gemäß unserer Regel in starken Feldern die Fälle ausgeschlossen, dass für beide Elektronen $m_1 = 1/2$ oder für beide Elektronen $m_1 = -1/2$ ist; es kann hier vielmehr nur für das erste Elektron $m_1 = 1/2$, und für das zweite $m_1 = -1/2$ sein oder umgekehrt²), so dass die Quantenzahl $\\bar{m}_1 = \\sum m_1$ des ganzen Atoms nur des Wertes 0 fähig ist. Es ist daher hier auch in schwachen Feldern (oder bei Abwesenheit des Feldes) nur der Wert $j = 0$ möglich (Singulett-$S$-Term).\n²) Der umgekehrte Fall entspricht einer Vertauschung der beiden äquivalenten Elektronen und liefert daher hier keinen neuen stationären Zustand (vgl. Fußnote 1 auf S. 769). In dieser doppelten Realisierbarkeit des betrachteten Quantenzustandes ist aber enthalten, dass sein statistisches Gewicht mit Rücksicht auf die Vertauschbarkeit der beiden Elektronen mit zwei multipliziert werden muss (vgl. hierzu die Betrachtungen über statistische Gewichte in der zitierten Arbeit von Stoner).\n\nÜber den Zusammenhang des Abschlusses der Elektronengruppen usw.\n\n769",
+      "word_count": 600,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Tabellen und mathematische Symbole erfordern manuelle Überprüfung",
+        "Fußnoten korrekt erkannt",
+        "Regel zur Besetzung äquivalenter Elektronen erfordert manuelle Überprüfung"
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "770",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir untersuchen nun ferner den Fall, dass aus einer abgeschlossenen Gruppe ein Elektron entfernt wird, wie er in den Röntgenspektren zutage tritt. Offenbar ist bei Fehlen eines Elektrons in einer der Stonerschen Teil-Untergruppen stets der Fall möglich, dass zu einem der Werte von $m_1$ kein Elektron vorhanden ist; wir nennen diesen den „Lückenwert“ von $m_1$. Die übrigen Elektronen verteilen sich dann eindeutig auf die übrigen Werte von $m_1$, so dass zu jedem dieser Werte ein Elektron gehört. Die Summe dieser übrigen Werte von $m_1$ und damit die Quantenzahl $\\bar{m}_1$ des ganzen Atoms ist offenbar jeweils entgegengesetzt gleich dem Lückenwert von $m_1$. Lassen wir diesen alle möglichen Werte durchlaufen und berücksichtigen wir, dass aus jeder Teil-Untergruppe ein Elektron entfernt werden kann, so sehen wir, dass in starken Feldern die Mannigfaltigkeit der Lückenwerte von $m_1$ und daher auch die der Werte von $\\bar{m}_1$, dieselbe ist wie diejenige der $m_1$-Werte eines einzigen Elektrons. Wegen der Invarianz der statistischen Gewichte folgt daher auch für schwache Felder die Gleichheit der Anzahl der stationären Zustände und der $j$-Werte der einfach ionisierten abgeschlossenen Elektronenschalen (Röntgenspektren) mit derjenigen der Alkalispektren, wie es der Erfahrung entspricht.",
+          "markdown": "Wir untersuchen nun ferner den Fall, dass aus einer abgeschlossenen Gruppe ein Elektron entfernt wird, wie er in den Röntgenspektren zutage tritt. Offenbar ist bei Fehlen eines Elektrons in einer der Stonerschen Teil-Untergruppen stets der Fall möglich, dass zu einem der Werte von $m_1$ kein Elektron vorhanden ist; wir nennen diesen den „Lückenwert“ von $m_1$. Die übrigen Elektronen verteilen sich dann eindeutig auf die übrigen Werte von $m_1$, so dass zu jedem dieser Werte ein Elektron gehört. Die Summe dieser übrigen Werte von $m_1$ und damit die Quantenzahl $\\bar{m}_1$ des ganzen Atoms ist offenbar jeweils entgegengesetzt gleich dem Lückenwert von $m_1$. Lassen wir diesen alle möglichen Werte durchlaufen und berücksichtigen wir, dass aus jeder Teil-Untergruppe ein Elektron entfernt werden kann, so sehen wir, dass in starken Feldern die Mannigfaltigkeit der Lückenwerte von $m_1$ und daher auch die der Werte von $\\bar{m}_1$, dieselbe ist wie diejenigen der $m_1$-Werte eines einzigen Elektrons. Wegen der Invarianz der statistischen Gewichte folgt daher auch für schwache Felder die Gleichheit der Anzahl der stationären Zustände und der $j$-Werte der einfach ionisierten abgeschlossenen Elektronengruppen (Röntgenspektren) mit derjenigen der Alkalispektren, wie es der Erfahrung entspricht.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es ist dies ein Spezialfall eines allgemeinen Reziprozitätsgesetzes: Zu jeder Anordnung der Elektronen gibt es eine konjugierte Anordnung, bei der die Lückenwerte von $m_1$ und die besetzten Werte von $m_1$ miteinander vertauscht sind. Diese Vertauschung kann sich auf eine einzelne Teil-Untergruppe bei unveränderten Anordnungen der übrigen Teil-Untergruppen, oder auf eine Bohrsche Untergruppe oder auf eine ganze Hauptgruppe beziehen, da ja die einzelnen Teil-Untergruppen hinsichtlich der möglichen Anordnungen voneinander ganz unabhängig sind. Die Elektronenzahlen der beiden konjugierten Anordnungen ergänzen einander zur Anzahl der Elektronen im abgeschlossenen Zustand der betreffenden Gruppe (oder Untergruppe), während die $j$-Werte der beiden Anordnungen einander gleich sind. Letzteres ergibt sich daraus, dass stets die Summe der Lückenwerte von $m_1$ einer Anordnung entgegengesetzt gleich ist der Summe der besetzten $m_1$-Werte. Daher sind auch die Quantenzahlen $\\bar{m}_1$ des ganzen Atoms bei konjugierten Anordnungen einander entgegengesetzt gleich. Da die $j$-Werte als die verschiedenen Grenzen der Mannigfaltigkeit der $\\bar{m}_1$-Werte nach oben definiert sind, folgt wegen der Symmetrie dieser Mannigfaltigkeit zum Nullwert ihre Gleichheit in den betrachteten Fällen (vgl. die weiter unten besprochenen Beispiele). Durch diesen Reziprozitätssatz werden die Verhältnisse am Ende einer Periode des natürlichen Systems in gewisser Hinsicht auf diejenigen am Beginn einer Periode zurückgeführt. Es muss aber betont werden, dass dies zunächst nur bezüglich der Anzahl der stationären Zustände der betreffenden Schalen und der Werte ihrer Quanten-",
+          "markdown": "Es ist dies ein Spezialfall eines allgemeinen Reziprozitätsgesetzes: Zu jeder Anordnung der Elektronen gibt es eine konjugierte Anordnung, bei der die Lückenwerte von $m_1$ und die besetzten Werte von $m_1$ miteinander vertauscht sind. Diese Vertauschung kann sich auf eine einzelne Teil-Untergruppe bei unveränderten Anordnungen der übrigen Teil-Untergruppen, oder auf eine Bohrsche Untergruppe oder auf eine ganze Hauptgruppe beziehen, da ja die einzelnen Teil-Untergruppen hinsichtlich der möglichen Anordnungen voneinander ganz unabhängig sind. Die Elektronenzahlen der beiden konjugierten Anordnungen ergänzen einander zur Anzahl der Elektronen im abgeschlossenen Zustand der betreffenden Gruppe (oder Untergruppe), während die $j$-Werte der beiden Anordnungen einander gleich sind. Letzteres ergibt sich daraus, dass stets die Summe der Lückenwerte von $m_1$ einer Anordnung entgegengesetzt gleich ist der Summe der besetzten $m_1$-Werte. Daher sind auch die Quantenzahlen $\\bar{m}_1$ des ganzen Atoms bei konjugierten Anordnungen einander entgegengesetzt gleich. Da die $j$-W",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "zahlen, nicht über ihre Größe und die Intervallverhältnisse etwas aussagen können¹).",
+          "markdown": "zahlen, nicht über ihre Größe und die Intervallverhältnisse etwas aussagen können¹).\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.88,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹) Dagegen folgt aus der Gleichheit der Mannigfaltigkeit der $m_2$-Werte bei konjugierten Anordnungen, dass auch in schwachen Feldern die (über Terme mit gleichem $j$ zu erstreckenden) „$g$-Summen“ der zugehörigen Terme einander gleich sind.",
+          "markdown": "¹) Dagegen folgt aus der Gleichheit der Mannigfaltigkeit der $m_2$-Werte bei konjugierten Anordnungen, dass auch in schwachen Feldern die (über Terme mit gleichem $j$ zu erstreckenden) „$g$-Summen“ der zugehörigen Terme einander gleich sind.\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p006_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.88
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir wollen nun noch als Anwendung unserer Regel auf spezielle Fälle die allmähliche Ausbildung der Achterschale (wo keine Elektronen mit $k > 2$ von der betrachteten Hauptquantenzahl im Normalzustand vorhanden sind) genauer diskutieren, was uns zugleich ein weiteres Beispiel des eben abgeleiteten Reziprozitätssatzes liefern wird. Die Bindung der ersten beiden Elektronen dieser Schale wurde bereits besprochen und wir werden im folgenden der Einfachheit halber voraussetzen, dass aus der Untergruppe mit $k_1 = 1$ keines der beiden Elektronen entfernt wird, diese also abgeschlossen ist (vgl. das obenstehende Stonerische Schema). Es muss dann nach Stoner bei den folgenden Elementen bis zum Abschluß der Achterschale (z. B. von B bis Ne) dem Normalzustand stets ein $p$-Term entsprechen, was mit den bisherigen Erfahrungen im Einklang ist. Insbesondere folgt das alkaliähnliche Dublettspektrum, das der Bindung des dritten Elektrons der Achterschale entspricht, mit dem bekannten Wegfallen des $s$-Terms von derselben Hauptquantenzahl wie der Normalzustand.",
+          "markdown": "Wir wollen nun noch als Anwendung unserer Regel auf spezielle Fälle die allmähliche Ausbildung der Achterschale (wo keine Elektronen mit $k > 2$ von der betrachteten Hauptquantenzahl im Normalzustand vorhanden sind) genauer diskutieren, was uns zugleich ein weiteres Beispiel des eben abgeleiteten Reziprozitätssatzes liefern wird. Die Bindung der ersten beiden Elektronen dieser Schale wurde bereits besprochen und wir werden im folgenden der Einfachheit halber voraussetzen, dass aus der Untergruppe mit $k_1 = 1$ keines der beiden Elektronen entfernt wird, diese also abgeschlossen ist (vgl. das obenstehende Stonerische Schema). Es muss dann nach Stoner bei den folgenden Elementen bis zum Abschluß der Achterschale (z. B. von B bis Ne) dem Normalzustand stets ein $p$-Term entsprechen, was mit den bisherigen Erfahrungen im Einklang ist. Insbesondere folgt das alkaliähnliche Dublettspektrum, das der Bindung des dritten Elektrons der Achterschale entspricht, mit dem bekannten Wegfallen des $s$-Terms von derselben Hauptquantenzahl wie der Normalzustand.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.82,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir können daher gleich zur Bindung des vierten Elektrons der Achterschale übergehen, wie sie z. B. in dem noch nicht analysierten Bogenspektren des Kohlenstoffs und in dem teilweise bereits entwirrten Bogenspektrum des Bleis in Erscheinung tritt. Gemäß der Landé-Heisenbergschen Verzweigungsregel (vgl. den vorigen Paragraphen) sollte das zugehörige Spektrum im allgemeinen von derselben Struktur sein wie das Neonspektrum, nämlich aus einer Singulett-Triplettgruppe und einer Triplett-Quintettgruppe mit verschiedenen Seriengrenzen, die dem $2p_1$ und dem $2p_2$-Dubletterm des betreffenden Ions entsprechen²). Wir wollen jedoch zeigen, dass nach unserer Regel diese Spektren im Gegensatz zu der zu erwartenden analogen Struktur ihrer angeregten Zustände sich hinsichtlich der Anzahl und der $j$-Werte der $p$-Terme maximaler Hauptquantenzahl (bei C $n = 2$, bei Pb $n = 6$) wesentlich vom Ne-Spektrum unterscheiden müssen (wo außer dem Normalzustand mit dem Werte $j = 0$, wie am Beginn dieses Paragraphen erwähnt, kein weiterer $p$-Term mit der Hauptquantenzahl 2 existiert).",
+          "markdown": "Wir können daher gleich zur Bindung des vierten Elektrons der Achterschale übergehen, wie sie z. B. in dem noch nicht analysierten Bogenspektren des Kohlenstoffs und in dem teilweise bereits entwirrten Bogenspektrum des Bleis in Erscheinung tritt. Gemäß der Landé-Heisenbergschen Verzweigungsregel (vgl. den vorigen Paragraphen) sollte das zugehörige Spektrum im allgemeinen von derselben Struktur sein wie das Neonspektrum, nämlich aus einer Singulett-Triplettgruppe und einer Triplett-Quintettgruppe mit verschiedenen Seriengrenzen, die dem $2p_1$ und dem $2p_2$-Dubletterm des betreffenden Ions entsprechen²). Wir wollen jedoch zeigen, dass nach unserer Regel diese Spektren im Gegensatz zu der zu erwartenden analogen Struktur ihrer angeregten Zustände sich hinsichtlich der Anzahl und der $j$-Werte der $p$-Terme maximaler Hauptquantenzahl (bei C $n = 2$, bei Pb $n = 6$) wesentlich vom Ne-Spektrum unterscheiden müssen (wo außer dem Normalzustand mit dem Werte $j = 0$, wie am Beginn dieses Paragraphen erwähnt, kein weiterer $p$-Term mit der Hauptquantenzahl 2 existiert).\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.77,
+            0.9,
+            0.82
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": "Fußnote zur Verzweigungsregel erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "²) Diese theoretische Erwartung konnte bisher infolge der mangelhaften Entwirrung der betreffenden Spektren empirisch noch nicht endgültig geprüft werden. Neuerdings fand A. Fowler (Proc. Roy. Soc. 107, 31, 1925) im Stickstofffunkenspektrum ($N^+$) neben gestrichenen Termen (über deren Auftreten theoretisch noch nichts ausgesagt werden kann) Singulett- und Tripletterme. Ferner fand Kiess (Science 60, 249, 1924) in diesem Spektrum auch Quintetterme. Diese Ergebnisse, die sich auf angeregte Zustände des $N^+$ beziehen, widersprechen der theoretischen Erwartung zum mindesten nicht.",
+          "markdown": "²) Diese theoretische Erwartung konnte bisher infolge der mangelhaften Entwirrung der betreffenden Spektren empirisch noch nicht endgültig geprüft werden. Neuerdings fand A. Fowler (Proc. Roy. Soc. 107, 31, 1925) im Stickstofffunkenspektrum ($N^+$) neben gestrichenen Termen (über deren Auftreten theoretisch noch nichts ausgesagt werden kann) Singulett- und Tripletterme. Ferner fand Kiess (Science 60, 249, 1924) in diesem Spektrum auch Quintetterme. Diese Ergebnisse, die sich auf angeregte Zustände des $N^+$ beziehen, widersprechen der theoretischen Erwartung zum mindesten nicht.\n",
+          "asset_id": null,
+          "suggested_filename": "footnotes/footnote_p006_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.74,
+            0.9,
+            0.77
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir haben hier drei Fälle zu unterscheiden, je nach den angenommenen Elektronenzahlen in den beiden Teil-Untergruppen mit $k_1 = 2$, $k_2 = 1$ und mit $k_1 = 2$, $k_2 = 2$, auf die wir zwei Elektronen zu verteilen haben (die ersten beiden Elektronen sollen nach Voraussetzung in $s$-Termen, $k_1 = k_2 = 1$ gebunden sein).",
+          "markdown": "Wir haben hier drei Fälle zu unterscheiden, je nach den angenommenen Elektronenzahlen in den beiden Teil-Untergruppen mit $k_1 = 2$, $k_2 = 1$ und mit $k_1 = 2$, $k_2 = 2$, auf die wir zwei Elektronen zu verteilen haben (die ersten beiden Elektronen sollen nach Voraussetzung in $s$-Termen, $k_1 = k_2 = 1$ gebunden sein).\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.71,
+            0.9,
+            0.74
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "a) Zwei äquivalente $n_{21}$-Elektronen.",
+          "markdown": "a) Zwei äquivalente $n_{21}$-Elektronen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.68,
+            0.9,
+            0.71
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Für diese Teil-Untergruppe kann $m_1$, entsprechend dem $p_1$-Term der Alkalien, nur die zwei Werte $m_1 = \\pm 1/2$ annehmen. Sie ist daher im hier angenommenen Falle abgeschlossen mit $\\bar{m}_1 = 0$ und $j = 0$.",
+          "markdown": "Für diese Teil-Untergruppe kann $m_1$, entsprechend dem $p_1$-Term der Alkalien, nur die zwei Werte $m_1 = \\pm 1/2$ annehmen. Sie ist daher im hier angenommenen Falle abgeschlossen mit $\\bar{m}_1 = 0$ und $j = 0$.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.68
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formel erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "b) Ein $n_{21}$- und ein $n_{22}$-Elektron.",
+          "markdown": "b) Ein $n_{21}$- und ein $n_{22}$-Elektron.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.62,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Für die letztere Teil-Untergruppe kann entsprechend dem $p_2$-Term der Alkalien, $m_1$ die vier Werte $\\pm 1/2$, $\\pm 3/2$ annehmen und diese sind mit den schon angegebenen Werte",
+          "markdown": "Für die letztere Teil-Untergruppe kann entsprechend dem $p_2$-Term der Alkalien, $m_1$ die vier Werte $\\pm 1/2$, $\\pm 3/2$ annehmen und diese sind mit den schon angegebenen Werte\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.59,
+            0.9,
+            0.62
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formel erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "n $m_1 = \\pm 1/2$ des ersten Elektrons beliebig kombinierbar, da sich die beiden Elektronen in verschiedenen Teil-Untergruppen befinden und daher nicht äquivalent sind ¹). Wir erhalten daher",
+          "markdown": "n $m_1 = \\pm 1/2$ des ersten Elektrons beliebig kombinierbar, da sich die beiden Elektronen in verschiedenen Teil-Untergruppen befinden und daher nicht äquivalent sind ¹). Wir erhalten daher\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.56,
+            0.9,
+            0.59
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formel erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 14,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} \\bar{m}_1 &= (-\\frac{3}{2}, -\\frac{1}{2}, \\frac{1}{2}, \\frac{3}{2}) + (-\\frac{1}{2}, \\frac{1}{2}) \\\\ &= \\pm (\\frac{3}{2} + \\frac{1}{2}), \\quad \\pm (\\frac{3}{2} - \\frac{1}{2}), \\quad \\pm (\\frac{1}{2} + \\frac{1}{2}), \\quad \\pm (\\frac{1}{2} - \\frac{1}{2}) \\\\ &= \\pm 2, \\quad \\pm 1, \\quad \\pm 1, \\quad 0, \\quad 0. \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} \\bar{m}_1 &= (-\\frac{3}{2}, -\\frac{1}{2}, \\frac{1}{2}, \\frac{3}{2}) + (-\\frac{1}{2}, \\frac{1}{2}) \\\\ &= \\pm (\\frac{3}{2} + \\frac{1}{2}), \\quad \\pm (\\frac{3}{2} - \\frac{1}{2}), \\quad \\pm (\\frac{1}{2} + \\frac{1}{2}), \\quad \\pm (\\frac{1",
+          "asset_id": "eq_p006_01",
+          "suggested_filename": "equations/equation_p006_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.5,
+            0.8,
+            0.56
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formel erfordert manuelle Überprü"
+        },
+        {
+          "order": 15,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man sieht daraus unmittelbar, dass sich die Terme in zwei Reihen mit $|\\bar{m}_1| \\leq 2$ und mit $|\\bar{m}_1| \\leq 1$ spalten. Diese entsprechen offenbar im feldlosen Falle zwei Termen:",
+          "markdown": "Man sieht daraus unmittelbar, dass sich die Terme in zwei Reihen mit $|\\bar{m}_1| \\leq 2$ und mit $|\\bar{m}_1| \\leq 1$ spalten. Diese entsprechen offenbar im feldlosen Falle zwei Termen:\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.47,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 16,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "einem Term mit $j = 2$ und einem Term mit $j = 1$ .",
+          "markdown": "einem Term mit $j = 2$ und einem Term mit $j = 1$ .\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.44,
+            0.9,
+            0.47
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 17,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "c) Zwei äquivalente $n_{22}$-Elektronen.",
+          "markdown": "c) Zwei äquivalente $n_{22}$-Elektronen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.41,
+            0.9,
+            0.44
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 18,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hier müssen die $m_1$-Werte der beiden Elektronen gemäß unserer Regel verschieden sein und wir erhalten die möglichen Werte von $\\bar{m}_1$ zu:",
+          "markdown": "Hier müssen die $m_1$-Werte der beiden Elektronen gemäß unserer Regel verschieden sein und wir erhalten die möglichen Werte von $\\bar{m}_1$ zu:\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.38,
+            0.9,
+            0.41
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 19,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} \\bar{m}_1 &= \\pm (\\frac{3}{2} + \\frac{1}{2}), \\quad \\pm (\\frac{3}{2} - \\frac{1}{2}), \\quad (\\frac{3}{2} - \\frac{3}{2}), \\quad (\\frac{1}{2} - \\frac{1}{2}) \\\\ &= \\pm 2, \\quad \\pm 1, \\quad 0, \\quad 0. \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} \\bar{m}_1 &= \\pm (\\frac{3}{2} + \\frac{1}{2}), \\quad \\pm (\\frac{3}{2} - \\frac{1}{2}), \\quad (\\frac{3}{2} - \\frac{3}{2}), \\quad (\\frac{1}{2} - \\frac{1}{2}) \\\\ &= \\pm 2, \\quad \\pm 1, \\quad 0, \\quad 0. \\end{aligned}$$\n",
+          "asset_id": "eq_p006_02",
+          "suggested_filename": "equations/equation_p006_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.2,
+            0.33,
+            0.8,
+            0.38
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Mathematische Formel erfordert manuelle Überprüfung"
+        },
+        {
+          "order": 20,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Daher ergibt sich bei Abwesenheit des Magnetfeldes",
+          "markdown": "Daher ergibt sich bei Abwesenheit des Magnetfeldes\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.33
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 21,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "ein Term mit $j=2$ und ein Term mit $j=0$ .",
+          "markdown": "ein Term mit $j=2$ und ein Term mit $j=0$ .\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.27,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 22,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir erhalten daher im ganzen bei der Viererschale fünf verschiedene $p$-Terme mit maximaler Hauptquantenzahl, davon zwei mit $j=2$, einen mit $j=1$ und zwei mit $j=0$ .",
+          "markdown": "Wir erhalten daher im ganzen bei der Viererschale fünf verschiedene $p$-Terme mit maximaler Hauptquantenzahl, davon zwei mit $j=2$, einen mit $j=1$ und zwei mit $j=0$ .\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.24,
+            0.9,
+            0.27
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 23,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Über die Gruppierung dieser Terme hinsichtlich ihrer Größe und die Intervallverhältnisse können wir nichts aussagen. Dagegen können wir über die zu erwartenden Zeemanaufspaltungen dieser Terme bestimmte Angaben machen.",
+          "markdown": "Über die Gruppierung dieser Terme hinsichtlich ihrer Größe und die Intervallverhältnisse können wir nichts aussagen. Dagegen können wir über die zu erwartenden Zeemanaufspaltungen dieser Terme bestimmte Angaben machen.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.21,
+            0.9,
+            0.24
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 24,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Durch Einsetzen der zu den angegebenen $m_1$-Werten der einzelnen Elektronen gehörigen $m_2$-Werte (die aus den Zeemantermen der Alkalien bei starken Feldern zu entnehmen sind), ergeben sich zunächst gemäß der Vorschrift (1) die durch die folgende Tabelle wiedergegebenen Zeemanaufspaltungen der fünf $p$-Terme der Viererschale in starken Feldern.",
+          "markdown": "Durch Einsetzen der zu den angegebenen $m_1$-Werten der einzelnen Elektronen gehörigen $m_2$-Werten (die aus den Zeemantermen der Alkalien bei starken Feldern zu entnehmen sind), ergeben sich zunächst gemäß der Vorschrift (1) die durch die folgende Tabelle wiedergegebenen Zeemanaufspaltungen der fünf $p$-Terme der Viererschale in starken Feldern.\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.18,
+            0.9,
+            0.21
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 25,
+          "block_type": "table",
+          "level": null,
+          "text_original": "|  $\\bar{m}_1$ | $-2$ | $-1$ | $0$ | $1$ | $2$  |",
+          "markdown": "|  $\\bar{m}_1$ | $-2$ | $-1$ | $0$ | $1$ | $2$  |\n",
+          "asset_id": "table_p006_01",
+          "suggested_filename": "tables/table_p006_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.18
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 26,
+          "block_type": "table",
+          "level": null,
+          "text_original": "|  $\\bar{m}_2$ | $-3, -2$ | $-2, -1, -1$ | $0, 0, 0, 0, 0$ | $1, 1, 2$ | $2, 3$  |",
+          "markdown": "|  $\\bar{m}_2$ | $-3, -2$ | $-2, -1, -1$ | $0, 0, 0, 0, 0$ | $1, 1, 2$ | $2, 3$  |\n",
+          "asset_id": "table_p006_02",
+          "suggested_filename": "tables/table_p006_02.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.12,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 27,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "W. Pauli jr.,",
+          "markdown": "W. Pauli jr.,\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.3,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 28,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "52*770",
+          "markdown": "52*770\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.8,
+            0.05,
+            0.9,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Wir untersuchen nun ferner den Fall, dass aus einer abgeschlossenen Gruppe ein Elektron entfernt wird, wie er in den Röntgenspektren zutage tritt. Offenbar ist bei Fehlen eines Elektrons in einer der Stonerschen Teil-Untergruppen stets der Fall möglich, dass zu einem der Werte von $m_1$ kein Elektron vorhanden ist; wir nennen diesen den „Lückenwert“ von $m_1$. Die übrigen Elektronen verteilen sich dann eindeutig auf die übrigen Werte von $m_1$, so dass zu jedem dieser Werte ein Elektron gehört. Die Summe dieser übrigen Werte von $m_1$ und damit die Quantenzahl $\\bar{m}_1$ des ganzen Atoms ist offenbar jeweils entgegengesetzt gleich dem Lückenwert von $m_1$. Lassen wir diesen alle möglichen Werte durchlaufen und berücksichtigen wir, dass aus jeder Teil-Untergruppe ein Elektron entfernt werden kann, so sehen wir, dass in starken Feldern die Mannigfaltigkeit der Lückenwerte von $m_1$ und daher auch die der Werte von $\\bar{m}_1$, dieselbe ist wie diejenigen der $m_1$-Werte eines einzigen Elektrons. Wegen der Invarianz der statistischen Gewichte folgt daher auch für schwache Felder die Gleichheit der Anzahl der stationären Zustände und der $j$-Werte der einfach ionisierten abgeschlossenen Elektronengruppen (Röntgenspektren) mit derjenigen der Alkalispektren, wie es der Erfahrung entspricht.\n\nEs ist dies ein Spezialfall eines allgemeinen Reziprozitätsgesetzes: Zu jeder Anordnung der Elektronen gibt es eine konjugierte Anordnung, bei der die Lückenwerte von $m_1$ und die besetzten Werte von $m_1$ miteinander vertauscht sind. Diese Vertauschung kann sich auf eine einzelne Teil-Untergruppe bei unveränderten Anordnungen der übrigen Teil-Untergruppen, oder auf eine Bohrsche Untergruppe oder auf eine ganze Hauptgruppe beziehen, da ja die einzelnen Teil-Untergruppen hinsichtlich der möglichen Anordnungen voneinander ganz unabhängig sind. Die Elektronenzahlen der beiden konjugierten Anordnungen ergänzen einander zur Anzahl der Elektronen im abgeschlossenen Zustand der betreffenden Gruppe (oder Untergruppe), während die $j$-Werte der beiden Anordnungen einander gleich sind. Letzteres ergibt sich daraus, dass stets die Summe der Lückenwerte von $m_1$ einer Anordnung entgegengesetzt gleich ist der Summe der besetzten $m_1$-Werte. Daher sind auch die Quantenzahlen $\\bar{m}_1$ des ganzen Atoms bei konjugierten Anordnungen einander entgegengesetzt gleich. Da die $j$-Werte als die verschiedenen Grenzen der Mannigfaltigkeit der $\\bar{m}_1$-Werte nach oben definiert sind, folgt wegen der Symmetrie dieser Mannigfaltigkeit zum Nullwert ihre Gleichheit in den betrachteten Fällen (vgl. die weiter unten besprochenen Beispiele). Durch diesen Reziprozitätssatz werden die Verhältnisse am Ende einer Periode des natürlichen Systems in gewisser Hinsicht auf diejenigen am Beginn einer Periode zurückgeführt. Es muss aber betont werden, dass dies zunächst nur bezüglich der Anzahl der stationären Zustände der betreffenden Schalen und der Werte ihrer Quantenzahlen gilt, während wir über die Größe ihrer Energiewerte und die Intervallverhältnisse nichts aussagen können¹).\n¹) Dagegen folgt aus der Gleichheit der Mannigfaltigkeit der $m_2$-Werte bei konjugierten Anordnungen, dass auch in schwachen Feldern die (über Terme mit gleichem $j$ zu erstreckenden) „$g$-Summen“ der zugehörigen Terme einander gleich sind.\n\nWir wollen nun noch als Anwendung unserer Regel auf spezielle Fälle die allmähliche Ausbildung der Achterschale (wo keine Elektronen mit $k > 2$ von der betrachteten Hauptquantenzahl im Normalzustand vorhanden sind) genauer diskutieren, was uns zugleich ein weiteres Beispiel des eben abgeleiteten Reziprozitätssatzes liefern wird. Die Bindung der ersten beiden Elektronen dieser Schale wurde bereits besprochen und wir werden im folgenden der Einfachheit halber voraussetzen, dass aus der Untergruppe mit $k_1 = 1$ keines der beiden Elektronen entfernt wird, diese also abgeschlossen ist (vgl. das obenstehende Stonerische Schema). Es muss dann nach Stoner bei den folgenden Elementen bis zum Abschluß der Achterschale (z. B. von B bis Ne) dem Normalzustand stets ein $p$-Term entsprechen, was mit den bisherigen Erfahrungen im Einklang ist. Insbesondere folgt das alkaliähnliche Dublettspektrum, das der Bindung des dritten Elektrons der Achterschale entspricht, mit dem bekannten Wegfallen des $s$-Terms von derselben Hauptquantenzahl wie der Normalzustand.\n\nWir können daher gleich zur Bindung des vierten Elektrons der Achterschale übergehen, wie sie z. B. in dem noch nicht analysierten Bogenspektren des Kohlenstoffs und in dem teilweise bereits entwirrten Bogenspektrum des Bleis in Erscheinung tritt. Gemäß der Landé-Heisenbergschen Verzweigungsregel (vgl. den vorigen Paragraphen) sollte das zugehörige Spektrum im allgemeinen von derselben Struktur sein wie das Neonspektrum, nämlich aus einer Singulett-Triplettgruppe und einer Triplett-Quintettgruppe mit verschiedenen Seriengrenzen, die dem $2p_1$ und dem $2p_2$-Dubletterm des betreffenden Ions entsprechen²). Wir wollen jedoch zeigen, dass nach unserer Regel diese Spektren im Gegensatz zu der zu erwartenden analogen Struktur ihrer angeregten Zustände sich hinsichtlich der Anzahl und der $j$-Werte der $p$-Terme maximaler Hauptquantenzahl (bei C $n = 2$, bei Pb $n = 6$) wesentlich vom Ne-Spektrum unterscheiden müssen (wo außer dem Normalzustand mit dem Werte $j = 0$, wie am Beginn dieses Paragraphen erwähnt, kein weiterer $p$-Term mit der Hauptquantenzahl 2 existiert).\n\nWir haben hier drei Fälle zu unterscheiden, je nach den angenommenen Elektronenzahlen in den beiden Teil-Untergruppen mit $k_1 = 2$, $k_2 = 1$ und mit $k_1 = 2$, $k_2 = 2$, auf die wir zwei Elektronen zu verteilen haben (die ersten beiden Elektronen sollen nach Voraussetzung in $s$-Termen, $k_1 = k_2 = 1$ gebunden sein).\n\na) Zwei äquivalente $n_{21}$-Elektronen.\n\nFür diese Teil-Untergruppe kann $m_1$, entsprechend dem $p_1$-Term der Alkalien, nur die zwei Werte $m_1 = \\pm 1/2$ annehmen. Sie ist daher im hier angenommenen Falle abgeschlossen mit $\\bar{m}_1 = 0$ und $j = 0$.\n\nb) Ein $n_{21}$- und ein $n_{22}$-Elektron.\n\nFür die letztere Teil-Untergruppe kann entsprechend dem $p_2$-Term der Alkalien, $m_1$ die vier Werte $\\pm 1/2$, $\\pm 3/2$ annehmen und diese sind mit den schon angegebenen Werte $m_1 = \\pm 1/2$ des ersten Elektrons beliebig kombinierbar, da sich die beiden Elektronen in verschiedenen Teil-Untergruppen befinden und daher nicht äquivalent sind ¹). Wir erhalten daher\n$$\\begin{aligned} \\bar{m}_1 &= (-\\frac{3}{2}, -\\frac{1}{2}, \\frac{1}{2}, \\frac{3}{2}) + (-\\frac{1}{2}, \\frac{1}{2}) \\\\ &= \\pm (\\frac{3}{2} + \\frac{1}{2}), \\quad \\pm (\\frac{3}{2} - \\frac{1}{2}), \\quad \\pm (\\frac{1}{2} + \\frac{1}{2}), \\quad \\pm (\\frac{1}{2} - \\frac{1}{2}) \\\\ &= \\pm 2, \\quad \\pm 1, \\quad \\pm 1, \\quad 0, \\quad 0. \\end{aligned}$$\n\nMan sieht daraus unmittelbar, dass sich die Terme in zwei Reihen mit $|\\bar{m}_1| \\leq 2$ und mit $|\\bar{m}_1| \\leq 1$ spalten. Diese entsprechen offenbar im feldlosen Falle zwei Termen:\n\neinem Term mit $j = 2$ und einem Term mit $j = 1$ .\n\nc) Zwei äquivalente $n_{22}$-Elektronen.\n\nHier müssen die $m_1$-Werte der beiden Elektronen gemäß unserer Regel verschieden sein und wir erhalten die möglichen Werte von $\\bar{m}_1$ zu:\n$$\\begin{aligned} \\bar{m}_1 &= \\pm (\\frac{3}{2} + \\frac{1}{2}), \\quad \\pm (\\frac{3}{2} - \\frac{1}{2}), \\quad (\\frac{3}{2} - \\frac{3}{2}), \\quad (\\frac{1}{2} - \\frac{1}{2}) \\\\ &= \\pm 2, \\quad \\pm 1, \\quad 0, \\quad 0. \\end{aligned}$$\n\nDaher ergibt sich bei Abwesenheit des Magnetfeldes\n\nein Term mit $j=2$ und ein Term mit $j=0$ .\n\nWir erhalten daher im ganzen bei der Viererschale fünf verschiedene $p$-Terme mit maximaler Hauptquantenzahl, davon zwei mit $j=2$, einen mit $j=1$ und zwei mit $j=0$ .\n\nÜber die Gruppierung dieser Terme hinsichtlich ihrer Größe und die Intervallverhältnisse können wir nichts aussagen. Dagegen können wir über die zu erwartenden Zeemanaufspaltungen dieser Terme bestimmte Angaben machen.\n\nDurch Einsetzen der zu den angegebenen $m_1$-Werten der einzelnen Elektronen gehörigen $m_2$-Werten (die aus den Zeemantermen der Alkalien bei starken Feldern zu entnehmen sind), ergeben sich zunächst gemäß der Vorschrift (1) die durch die folgende Tabelle wiedergegebenen Zeemanaufspaltungen der fünf $p$-Terme der Viererschale in starken Feldern.\n\n|  $\\bar{m}_1$ | $-2$ | $-1$ | $0$ | $1$ | $2$  |\n| --- | --- | --- | --- | --- | --- |\n|  $\\bar{m}_2$ | $-3, -2$ | $-2, -1, -1$ | $0, 0, 0, 0, 0$ | $1, 1, 2$ | $2, 3$  |\n\nW. Pauli jr.,\n\n52*770",
+      "word_count": 650,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite, Tabellen und mathematische Formeln erfordern manuelle Überprüfung",
+        "Fußnoten korrekt erkannt",
+        "Tabellen mit mathematischen Symbolen erfordern manuelle Überprüfung"
+      ]
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 19,
+    "ocr_page_count": 19,
+    "total_word_count": 10850,
+    "figure_count": 0,
+    "table_count": 14,
+    "equation_block_count": 6,
+    "pages_requiring_review": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "Alle Seiten wurden erfolgreich extrahiert",
+      "Mathematische Formeln und Tabellen sind vorhanden, erfordern aber manuelle Überprüfung",
+      "Fußnoten und Referenzen wurden korrekt erkannt",
+      "Zwei-Spalten-Layout wurde korrekt verarbeitet"
+    ]
+  }
+}

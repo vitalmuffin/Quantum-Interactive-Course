@@ -1,0 +1,191 @@
+{
+  "index": 19,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 248,
+      "topLeftY": 90,
+      "bottomRightX": 392,
+      "bottomRightY": 105,
+      "content": "QUANTUM MECHANICS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 530,
+      "topLeftY": 87,
+      "bottomRightX": 549,
+      "bottomRightY": 105,
+      "content": "77",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 123,
+      "bottomRightX": 375,
+      "bottomRightY": 155,
+      "content": "$$\\mu_\\phi(E) = \\int_E u_\\phi(p) \\, dp$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 163,
+      "bottomRightX": 297,
+      "bottomRightY": 180,
+      "content": "for every measurable subset $E$ of $S^2$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 180,
+      "bottomRightX": 550,
+      "bottomRightY": 216,
+      "content": "(b) The probability density $u_\\phi(p)$ is a function only of the angle $\\theta$ subtended at 0 by the points $p$ and $P_\\phi$ on $S^2$. We may thus write $u_\\phi(\\theta)$ for the function $u_\\phi(p)$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 214,
+      "bottomRightX": 550,
+      "bottomRightY": 232,
+      "content": "(c) Let $u(\\theta) (= u_{\\phi_*}(\\theta))$ be the probability density assigned to the state vector",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 238,
+      "bottomRightX": 344,
+      "bottomRightY": 272,
+      "content": "$$\\psi_0 = \\begin{pmatrix} 1 \\\\ 0 \\end{pmatrix}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 281,
+      "bottomRightX": 550,
+      "bottomRightY": 333,
+      "content": "(Note that $\\sigma_{\\psi_*} = \\sigma_\\infty$, so that $P_{\\psi_*} = (0, 0, 1)$.) Let $\\psi \\in U^2$. If $\\alpha$ is the polar angle of the point $P_\\phi$ on $S^2$, then we assume that $u_\\phi(\\theta) = u(\\theta + \\alpha)$. Thus, the probability takes the same functional form for all states $\\psi$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 331,
+      "bottomRightX": 347,
+      "bottomRightY": 350,
+      "content": "(d) We assume that $u(\\theta) = 0$ for $\\theta > \\pi/2$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 358,
+      "bottomRightX": 550,
+      "bottomRightY": 443,
+      "content": "An examination of the problem shows that these are natural properties to assign to the quantum states considered as probability distributions over the hidden states. We shall show that there do exist measures $\\mu_\\phi$ satisfying the above conditions as well as condition (II). In fact, we shall see that these conditions determine the density functions $u_\\phi$ uniquely.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 443,
+      "bottomRightX": 550,
+      "bottomRightY": 545,
+      "content": "Using these assumptions we may simplify the problem of finding measures $\\mu_\\phi$ which satisfy condition (II) as follows. Since $f_A$ is a linear function of $A$, the integral $\\int_\\Omega f_A(\\omega) \\, d\\mu_\\phi(\\omega)$ is a linear function of $A$. On the other hand the expectation function $\\langle A\\psi, \\psi \\rangle$ is also a linear function of $A$. Since every matrix $A$ in $H_2$ is a linear function of a projection matrix, it is sufficient to verify condition (II) for projection matrices. Next, by condition (c) we may assume that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 551,
+      "bottomRightX": 346,
+      "bottomRightY": 584,
+      "content": "$$\\psi = \\begin{pmatrix} 1 \\\\ 0 \\end{pmatrix},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 595,
+      "bottomRightX": 550,
+      "bottomRightY": 646,
+      "content": "so that $P_\\phi = (0, 0, 1)$. Furthermore, by condition (b), it is sufficient to consider the case where $P_{\\sigma(A)}$ has azimuthal angle equal to zero. In what follows we shall make the above assumptions on $A$ and $\\psi$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 646,
+      "bottomRightX": 550,
+      "bottomRightY": 697,
+      "content": "It is now necessary to express the expectation $\\langle A\\psi, \\psi \\rangle$ as a function of the angle subtended at 0 by the points $P_\\phi = (0, 0, 1)$ and $P_{\\sigma(A)}$, i.e., as a function of the polar angle $\\rho$ of $P_{\\sigma(A)}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 697,
+      "bottomRightX": 356,
+      "bottomRightY": 713,
+      "content": "In spherical polar coordinates we may write",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 722,
+      "bottomRightX": 390,
+      "bottomRightY": 739,
+      "content": "$$P_{\\sigma(A)} = (\\sin \\rho, 0, \\cos \\rho).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 746,
+      "bottomRightX": 122,
+      "bottomRightY": 764,
+      "content": "Hence,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 233,
+      "topLeftY": 773,
+      "bottomRightX": 397,
+      "bottomRightY": 842,
+      "content": "$$\\begin{aligned} \\sigma(A) &= \\sigma_\\infty \\sin \\rho + \\sigma_\\infty \\cos \\rho \\\\ &= \\begin{pmatrix} \\cos \\rho & \\sin \\rho \\\\ \\sin \\rho & -\\cos \\rho \\end{pmatrix}. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 849,
+      "bottomRightX": 441,
+      "bottomRightY": 867,
+      "content": "The eigenvector $\\eta$ of $\\sigma(A)$ belonging to the eigenvalue $+1$ is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 944,
+      "bottomRightX": 419,
+      "bottomRightY": 979,
+      "content": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "index": 23,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 249,
+      "topLeftY": 90,
+      "bottomRightX": 392,
+      "bottomRightY": 105,
+      "content": "QUANTUM MECHANICS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 531,
+      "topLeftY": 87,
+      "bottomRightX": 550,
+      "bottomRightY": 105,
+      "content": "81",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 121,
+      "bottomRightX": 551,
+      "bottomRightY": 206,
+      "content": "give the probabilities arising at each experiment, they do not deal with the change of probabilities during the time between experiments. However, in the situation we are examining of free electron spin this causes no difficulty since every state is in this case stationary, and the probabilities remain constant in the time between experiments.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 206,
+      "bottomRightX": 551,
+      "bottomRightY": 290,
+      "content": "We now consider the bearing of this model on von Neumann's discussion of the hidden variables problem given in [19, Chapter IV]. In that chapter von Neumann gives what he considers to be a necessary condition for the existence of hidden variables for quantum mechanics. This condition is the existence of a function",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 291,
+      "bottomRightX": 346,
+      "bottomRightY": 308,
+      "content": "$$\\mathcal{E}: H \\rightarrow \\mathbb{R},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 316,
+      "bottomRightX": 399,
+      "bottomRightY": 333,
+      "content": "where $H$ is the set of self-adjoint operators, such that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 341,
+      "bottomRightX": 386,
+      "bottomRightY": 409,
+      "content": "- (1) $\\mathcal{E}(I) = 1$.\n- (2) $\\mathcal{E}(aA) = a\\mathcal{E}(A)$, for all $a \\in \\mathbb{R}$, $A \\in H$.\n- (3) $\\mathcal{E}(A^2) = \\mathcal{E}^2(A)$, for all $A \\in H$.\n- (4) $\\mathcal{E}(A + B) = \\mathcal{E}(A) + \\mathcal{E}(B)$, for all $A, B \\in H$.",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 417,
+      "bottomRightX": 551,
+      "bottomRightY": 536,
+      "content": "In [19] it is then shown that there does not exist a function satisfying these conditions. (In [19] a further condition is added on $\\mathcal{E}$: (5) If $A$ is \"essentially positive\" then $\\mathcal{E}(A) \\geq 0$. But we shall not require this condition in our proof.) We present another proof below. This is done for two reasons. First, our proof is simpler, and is in fact trivial. Second, this proof shows that there is even no function $\\mathcal{E}: H_2 \\rightarrow \\mathbb{R}$ satisfying conditions (1)-(4), a result we require for our later discussion.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 544,
+      "bottomRightX": 551,
+      "bottomRightY": 562,
+      "content": "**Lemma.** *If the function $\\mathcal{E}: H \\rightarrow \\mathbb{R}$ satisfies (1)-(3) together with condition*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 570,
+      "bottomRightX": 528,
+      "bottomRightY": 587,
+      "content": "$$(4)' \\mathcal{E}(A + B) = \\mathcal{E}(A) + \\mathcal{E}(B), \\text{ for all } A, B \\in H \\text{ such that } AB = BA,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 595,
+      "bottomRightX": 551,
+      "bottomRightY": 629,
+      "content": "*then $\\mathcal{E}(AB) = \\mathcal{E}(A)\\mathcal{E}(B)$, for all $A, B \\in H$ such that $AB = BA$. (In the terminology of Section 2, $\\mathcal{E}$ is thus a homomorphism of the partial algebra $H$ into $\\mathbb{R}$.)*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 637,
+      "bottomRightX": 295,
+      "bottomRightY": 654,
+      "content": "**Proof.** Assume $AB = BA$. Then",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 143,
+      "topLeftY": 660,
+      "bottomRightX": 485,
+      "bottomRightY": 807,
+      "content": "$$\\begin{aligned} \\mathcal{E}^2(A) + 2\\mathcal{E}(A)\\mathcal{E}(B) + \\mathcal{E}^2(B) &= (\\mathcal{E}(A) + \\mathcal{E}(B))^2 \\\\ &= \\mathcal{E}^2(A + B) \\\\ &= \\mathcal{E}((A + B)^2) \\\\ &= \\mathcal{E}(A^2 + 2AB + B^2) \\\\ &= \\mathcal{E}(A^2) + \\mathcal{E}(2AB) + \\mathcal{E}(B^2) \\\\ &= \\mathcal{E}^2(A) + 2\\mathcal{E}(AB) + \\mathcal{E}^2(B). \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 806,
+      "bottomRightX": 247,
+      "bottomRightY": 823,
+      "content": "Hence, $\\mathcal{E}(A)\\mathcal{E}(B) = \\mathcal{E}(AB)$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 830,
+      "bottomRightX": 551,
+      "bottomRightY": 866,
+      "content": "**Corollary.** *If the function $\\mathcal{E}$ satisfies conditions (1), (2), (3), (4)', then $\\mathcal{E}(A)$ lies in the spectrum of $A$.*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 944,
+      "bottomRightX": 420,
+      "bottomRightY": 979,
+      "content": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

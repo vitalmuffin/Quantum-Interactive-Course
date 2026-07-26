@@ -1,0 +1,110 @@
+{
+  "index": 88,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 120,
+      "topLeftY": 25,
+      "bottomRightX": 458,
+      "bottomRightY": 44,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 510,
+      "topLeftY": 25,
+      "bottomRightX": 542,
+      "bottomRightY": 45,
+      "content": "109",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 66,
+      "bottomRightX": 545,
+      "bottomRightY": 316,
+      "content": "donne le nombre des états également probables représentés par des points de cet élément. Ce facteur a les dimensions de l'inverse du cube d'une action. M. Planck le détermine par l'hypothèse suivante quelque peu déconcertante. « L'extension en phase d'une molécule est divisée en cellules d'égale probabilité dont la valeur est finie et égale à $h^3$ ». On peut dire soit qu'à l'intérieur de chaque cellule, il y a un seul point dont la probabilité ne soit pas nulle, soit que tous les points d'une même cellule correspondent à des états impossibles à distinguer physiquement.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 317,
+      "bottomRightX": 544,
+      "bottomRightY": 365,
+      "content": "L'hypothèse de Planck conduit à écrire pour l'énergie libre :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 377,
+      "bottomRightX": 536,
+      "bottomRightY": 521,
+      "content": "$$F = - kT \\log \\left[ \\frac{1}{N!} \\left( \\int \\int \\int_{-\\infty}^{+\\infty} \\int \\int e^{-\\frac{\\epsilon}{kT}} \\frac{dx dy dz dp dq dr}{h^3} \\right)^N \\right]$$\n$$= - NkT \\log \\left[ \\frac{e}{N} \\int \\int \\int_{-\\infty}^{+\\infty} \\int \\int \\frac{1}{h^3} e^{-\\frac{\\epsilon}{kT}} dx dy dz dp dq dr \\right]$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 55,
+      "topLeftY": 541,
+      "bottomRightX": 373,
+      "bottomRightY": 564,
+      "content": "On trouve en effectuant l'intégration :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 579,
+      "bottomRightX": 529,
+      "bottomRightY": 641,
+      "content": "$$F = Nm_0c^2 - kNT \\log \\left[ \\frac{eV}{Nh^3} (2\\pi m_0 kT)^{\\frac{3}{2}} \\right] \\quad V = \\text{volume total du gaz}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 654,
+      "bottomRightX": 147,
+      "bottomRightY": 676,
+      "content": "et, par suite,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 678,
+      "bottomRightX": 418,
+      "bottomRightY": 781,
+      "content": "$$S = kN \\log \\left[ \\frac{e^{\\frac{5}{2}}V}{Nh^3} (2\\pi m_0 kT)^{\\frac{3}{2}} \\right]$$\n$$E = Nm_0c^2 + \\frac{3}{2} kNT.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 799,
+      "bottomRightX": 546,
+      "bottomRightY": 924,
+      "content": "A la fin de son livre « Warmestrahlung » (4e éd.), Planck montre comment on en déduit la « constante chimique » intervenant dans l'équilibre d'un gaz avec sa phase condensée. Les mesures de cette constante chimique ont apporté un fort appui à la méthode de Planck.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 55,
+      "topLeftY": 926,
+      "bottomRightX": 545,
+      "bottomRightY": 949,
+      "content": "Jusqu'ici nous n'avons fait intervenir ni la Relativité, ni",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

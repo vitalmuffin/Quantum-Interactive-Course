@@ -1,0 +1,146 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 70,
+      "topLeftY": 41,
+      "bottomRightX": 117,
+      "bottomRightY": 61,
+      "content": "1926",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 494,
+      "topLeftY": 41,
+      "bottomRightX": 548,
+      "bottomRightY": 61,
+      "content": "№ 18",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 72,
+      "bottomRightX": 511,
+      "bottomRightY": 136,
+      "content": "# ANNALEN DER PHYSIK\n## VIERTE FOLGE. BAND 81",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 177,
+      "bottomRightX": 505,
+      "bottomRightY": 217,
+      "content": "### 1. Quantisierung als Eigenwertproblem;\nvon E. Schrödinger",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 228,
+      "bottomRightX": 372,
+      "bottomRightY": 244,
+      "content": "(Vierte Mitteilung¹)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 277,
+      "bottomRightX": 550,
+      "bottomRightY": 432,
+      "content": "Inhaltsübersicht: § 1. Elimination des Energieparameters aus der Schwingungsgleichung. Die eigentliche Wellengleichung. Nichtkonservative Systeme. — § 2. Ausdehnung der Störungstheorie auf Störungen, welche explizite die Zeit enthalten. Dispersionstheorie. — § 3. Ergänzungen zu § 2: Angeregte Atome, entartete Systeme, Streckenspektrum. — § 4. Erörterung des Resonanzfalles. — § 5. Verallgemeinerung für eine beliebige Störung. — § 6. Relativistisch-magnetische Verallgemeinerung der Grundgleichungen. — § 7. Über die physikalische Bedeutung des Feldskalars.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 465,
+      "bottomRightX": 527,
+      "bottomRightY": 516,
+      "content": "#### § 1. Elimination des Energieparameters aus der Schwingungsgleichung. Die eigentliche Wellengleichung. Nichtkonservative Systeme",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 524,
+      "bottomRightX": 552,
+      "bottomRightY": 565,
+      "content": "Die Wellengleichung (18) bzw. (18') von S. 510 der zweiten Mitteilung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 566,
+      "bottomRightX": 413,
+      "bottomRightY": 599,
+      "content": "$$\\Delta \\psi - \\frac{2(E - V)}{E^2} \\frac{\\partial^2 \\psi}{\\partial t^2} = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 602,
+      "bottomRightX": 108,
+      "bottomRightY": 619,
+      "content": "bzw.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 619,
+      "bottomRightX": 416,
+      "bottomRightY": 651,
+      "content": "$$\\Delta \\psi + \\frac{8\\pi^2}{h^2} (E - V) \\psi = 0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 661,
+      "bottomRightX": 553,
+      "bottomRightY": 804,
+      "content": "welche das Fundament der in dieser Abhandlungsreihe versuchten Neubegründung der Mechanik bildet, leidet an dem Übelstand, daß sie das Veränderungsgesetz für den „mechanischen Feldskalar“ $\\psi$ nicht einheitlich und nicht allgemein ausspricht. Gleichung (1) enthält nämlich den Energie- oder Frequenzparameter $E$ und ist, wie a. a. O. ausdrücklich betont, mit einem bestimmten $E$-Wert gültig für Vorgänge, welche",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 830,
+      "bottomRightX": 553,
+      "bottomRightY": 881,
+      "content": "1) Vgl. Ann. d. Phys. 79. S. 361. 489; 80. S. 437. 1926; ferner über den Zusammenhang mit der Heisenbergschen Theorie: ebendort 79. S. 734.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 885,
+      "bottomRightX": 297,
+      "bottomRightY": 901,
+      "content": "Annalen der Physik. IV. Folge. 81.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 455,
+      "topLeftY": 884,
+      "bottomRightX": 466,
+      "bottomRightY": 898,
+      "content": "8",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

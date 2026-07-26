@@ -1,0 +1,128 @@
+{
+  "index": 96,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 107,
+      "topLeftY": 38,
+      "bottomRightX": 447,
+      "bottomRightY": 57,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 499,
+      "topLeftY": 38,
+      "bottomRightX": 531,
+      "bottomRightY": 57,
+      "content": "117",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 78,
+      "bottomRightX": 531,
+      "bottomRightY": 128,
+      "content": "aux ondes considérées, nous trouvons pour le nombre d'atomes correspondant :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 173,
+      "topLeftY": 141,
+      "bottomRightX": 370,
+      "bottomRightY": 270,
+      "content": "$$N_{\\nu} d\\nu = n_{\\nu} d\\nu \\frac{\\sum_{1}^{\\infty} p e^{-p \\frac{h\\nu}{kT}}}{\\sum_{0}^{\\infty} e^{-p \\frac{h\\nu}{kT}}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 288,
+      "bottomRightX": 532,
+      "bottomRightY": 463,
+      "content": "En donnant à $\\varphi_0$ d'autres valeurs, on obtiendra d'autres états stables et en superposant plusieurs de ces états stables de telle sorte qu'une même onde stationnaire corresponde à plusieurs ondes élémentaires, on obtiendra encore un état stable. Nous en concluons que le nombre des atomes dont l'énergie totale correspond à des fréquences comprises entre $\\nu$ et $\\nu + d\\nu$ est",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 472,
+      "bottomRightX": 489,
+      "bottomRightY": 531,
+      "content": "$$N_{\\nu} d\\nu = A \\gamma \\frac{4\\pi}{h^3} m_0^2 c (1 + \\alpha) \\sqrt{\\alpha(\\alpha + 2)} \\, dw \\sum_{1}^{\\infty} e^{-p \\frac{m_0 c^2 + w}{kT}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 550,
+      "bottomRightX": 532,
+      "bottomRightY": 597,
+      "content": "par unité de volume. A peut être fonction de la température.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 600,
+      "bottomRightX": 532,
+      "bottomRightY": 698,
+      "content": "Pour un gaz au sens ordinaire du mot, $m_0$ est si grand qu'on peut négliger tous les termes de la série devant le premier. On retrouve bien la formule (1) du paragraphe précédent.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 702,
+      "bottomRightX": 459,
+      "bottomRightY": 726,
+      "content": "Pour le gaz de lumière, on trouvera maintenant :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 741,
+      "bottomRightX": 386,
+      "bottomRightY": 799,
+      "content": "$$N_{\\nu} d\\nu = A \\frac{8\\pi}{c^3} \\nu^2 \\sum_{1}^{\\infty} e^{-p \\frac{h\\nu}{kT}} d\\nu$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 818,
+      "bottomRightX": 360,
+      "bottomRightY": 843,
+      "content": "et, par suite, pour la densité d'énergie :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 858,
+      "bottomRightX": 395,
+      "bottomRightY": 916,
+      "content": "$$u_{\\nu} d\\nu = A \\cdot \\frac{8\\pi h}{c^3} \\nu^3 \\sum_{1}^{\\infty} e^{-p \\frac{h\\nu}{kT}} d\\nu.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 939,
+      "bottomRightX": 532,
+      "bottomRightY": 961,
+      "content": "C'est bien la forme de Planck. Mais il faut montrer que",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

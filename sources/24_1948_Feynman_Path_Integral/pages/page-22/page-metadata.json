@@ -1,0 +1,65 @@
+{
+  "index": 21,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 155,
+      "bottomRightX": 587,
+      "bottomRightY": 219,
+      "content": "class of operators than is usually considered (e.g., ones involving quantities referring to two or more different times). If any generalization to a wider class of action functionals is possible, the formulae to be developed will play an important role.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 221,
+      "bottomRightX": 587,
+      "bottomRightY": 399,
+      "content": "We discuss these points in the next three sections. This section is concerned mainly with definitions. We shall define a quantity which we call a transition element between two states. It is essentially a matrix element. But instead of being the matrix element between a state $\\psi$ and another $\\chi$ corresponding to the *same* time, these two states will refer to different times. In the following section a fundamental relation between transition elements will be developed from which the usual commutation rules between coordinate and momentum may be deduced. The same relation also yields Newton's equation of motion in matrix form. Finally, in Section 10 we discuss the relation of the Hamiltonian to the operation of displacement in time.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 400,
+      "bottomRightX": 587,
+      "bottomRightY": 547,
+      "content": "We begin by defining a transition element in terms of the probability of transition from one state to another. More precisely, suppose we have a situation similar to that described in deriving (17). The region $R$ consists of a region $R'$ previous to $t'$, all space between $t'$ and $t''$ and the region $R''$ after $t''$. We shall study the probability that a system in region $R'$ is later found in region $R''$. This is given by (17). We shall discuss in this section how it changes with changes in the form of the Lagrangian between $t'$ and $t''$. In Section 10 we discuss how it changes with changes in the preparation $R'$ or the experiment $R''$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 547,
+      "bottomRightX": 587,
+      "bottomRightY": 744,
+      "content": "The state at time $t'$ is defined completely by the preparation $R'$. It can be specified by a wave function $\\psi(x', t')$ obtained as in (15), but containing only integrals up to the time $t'$. Likewise, the state characteristic of the experiment (region $R''$) can be defined by a function $\\chi(x'', t'')$ obtained from (16) with integrals only beyond $t''$. The wave function $\\psi(x'', t'')$ at time $t''$ can, of course, also be gotten by appropriate use of (15). It can also be gotten from $\\psi(x', t')$ by (35). According to (17) with $t''$ used instead of $t$, the probability of being found in $\\chi$ it prepared in $\\psi$ is the square of what we shall call the transition amplitude $\\int \\chi^*(x'', t'') \\psi(x'', t'') dx''$. We wish to express this in terms of $\\chi$ at $t''$ and $\\psi$ at $t'$. This we can do with the aid of (35). Thus, the chance that a system prepared in state $\\psi_{t'}$ at time $t'$ will be found after $t''$ to be in a state $\\chi_{t''}$ is the square of the transition amplitude",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 749,
+      "bottomRightX": 585,
+      "bottomRightY": 814,
+      "content": "$$\\langle \\chi_{t''} | 1 | \\psi_{t'} \\rangle_S = \\lim_{\\epsilon \\to 0} \\int \\dots \\int \\chi^*(x'', t'') \\times \\\\ \\times \\exp(iS/\\hbar) \\psi(x', t') \\frac{dx_0}{A} \\dots \\frac{dx_{j-1}}{A} dx_j, \\quad (38)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "22",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

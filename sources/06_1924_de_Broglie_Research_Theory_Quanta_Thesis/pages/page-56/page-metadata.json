@@ -1,0 +1,83 @@
+{
+  "index": 55,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 57,
+      "topLeftY": 28,
+      "bottomRightX": 82,
+      "bottomRightY": 51,
+      "content": "76",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 30,
+      "bottomRightX": 393,
+      "bottomRightY": 48,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 148,
+      "bottomRightX": 380,
+      "bottomRightY": 169,
+      "content": "# CHAPITRE V",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 220,
+      "bottomRightX": 453,
+      "bottomRightY": 245,
+      "content": "# Les Quanta de lumière (¹).",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 205,
+      "topLeftY": 289,
+      "bottomRightX": 427,
+      "bottomRightY": 310,
+      "content": "# I. — L'ATOME DE LUMIÈRE",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 53,
+      "topLeftY": 340,
+      "bottomRightX": 580,
+      "bottomRightY": 703,
+      "content": "Comme nous l'avons dit dans l'introduction, le développement de la physique des radiations se fait depuis plusieurs années dans le sens d'un retour au moins partiel à la théorie corpusculaire de la lumière. Une tentative faite par nous pour obtenir une théorie atomique du rayonnement noir publiée par le Journal de Physique en novembre 1922 sous le titre « Quanta de lumière et rayonnement noir » et dont les principaux résultats seront donnés au chapitre VII, nous avait confirmé dans l'idée de l'existence réelle de l'atome de lumière. Les idées exposées au chapitre premier et dont la déduction des conditions de stabilité dans l'atome de Bohr au chapitre III semblent apporter une si intéressante confirmation, paraissent nous faire faire un petit pas vers la synthèse des conceptions de Newton et de Fresnel.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 55,
+      "topLeftY": 706,
+      "bottomRightX": 582,
+      "bottomRightY": 913,
+      "content": "Sans nous dissimuler les difficultés soulevées par une semblable hardiesse, nous allons essayer de préciser comment on peut actuellement se représenter l'atome de lumière. Nous le concevons de la façon suivante : pour un observateur qui lui est lié, il apparaît comme une petite région de l'espace autour de laquelle l'énergie est très fortement condensée et forme un ensemble indivisible. Cette agglomération d'énergie ayant pour valeur totale ε₀ (mesurée par",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 943,
+      "bottomRightX": 580,
+      "bottomRightY": 986,
+      "content": "(¹) Voir A. EINSTEIN, Ann. d Phys., 17, 132 (1900); Phys. Zeitsch., 10, 185 (1909).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

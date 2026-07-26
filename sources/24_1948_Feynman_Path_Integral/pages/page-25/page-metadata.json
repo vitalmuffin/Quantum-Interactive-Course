@@ -1,0 +1,146 @@
+{
+  "index": 24,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 159,
+      "bottomRightX": 496,
+      "bottomRightY": 173,
+      "content": "is the statement of operator equations in the new language.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 147,
+      "topLeftY": 174,
+      "bottomRightX": 589,
+      "bottomRightY": 323,
+      "content": "If $F$ depends on the various coordinates, we can, of course, define a new functional $\\partial F/\\partial x_k$ by differentiating it with respect to one of its variables, say $x_k (0 < k < j)$. If we calculate $\\langle \\chi_{t'} | \\partial F/\\partial x_k | \\psi_{t'} \\rangle_S$ by (39) the integral on the right-hand side will contain $\\partial F/\\partial x_k$. The only other place that the variable $x_k$ appears is in $S$. Thus, the integration on $x_k$ can be performed by parts. The integrated part vanishes (assuming wave functions vanish at infinity) and we are left with the quantity $-F(\\partial/\\partial x_k)\\exp(iS/\\hbar)$ in the integral. However, $(\\partial/\\partial x_k)\\exp(iS/\\hbar) = (i/\\hbar)(\\partial S/\\partial x_k)\\exp(iS/\\hbar)$, so the right side represents the transition element of $-(i/\\hbar)F(\\partial S/\\partial x_k)$, i.e.,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 330,
+      "bottomRightX": 588,
+      "bottomRightY": 363,
+      "content": "$$\\left\\langle \\chi_{t'} \\left| \\frac{\\partial F}{\\partial x_k} \\right| \\psi_{t'} \\right\\rangle_S = -\\frac{i}{\\hbar} \\left\\langle \\chi_{t'} \\left| F \\frac{\\partial S}{\\partial x_k} \\right| \\psi_{t'} \\right\\rangle_S. \\tag{45}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 370,
+      "bottomRightX": 589,
+      "bottomRightY": 419,
+      "content": "This very important relation shows that two different functionals may give the same result for the transition element between any two states. We say they are equivalent and symbolize the relation by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 317,
+      "topLeftY": 426,
+      "bottomRightX": 588,
+      "bottomRightY": 460,
+      "content": "$$-\\frac{\\hbar}{i} \\frac{\\partial F}{\\partial x_k} \\underset{S}{\\leftrightarrow} F \\frac{\\partial S}{\\partial x_k}, \\tag{46}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 467,
+      "bottomRightX": 589,
+      "bottomRightY": 535,
+      "content": "the symbol $\\underset{S}{\\leftrightarrow}$ emphasizing the fact that functionals equivalent under one action may not be equivalent under another. The quantities in (46) need not be observable. The equivalence is, nevertheless, true. Making use of (36) one can write",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 544,
+      "bottomRightX": 588,
+      "bottomRightY": 579,
+      "content": "$$-\\frac{\\hbar}{i} \\frac{\\partial F}{\\partial x_k} \\underset{S}{\\leftrightarrow} F \\left[ \\frac{\\partial S(x_{k+1}, x_k)}{\\partial x_k} + \\frac{\\partial S(x_k, x_{k-1})}{\\partial x_k} \\right]. \\tag{47}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 587,
+      "bottomRightX": 588,
+      "bottomRightY": 634,
+      "content": "This equation is true to zero and first order in $\\epsilon$ and has as consequences the commutation relations of momentum and coordinate, as well as the Newtonian equations of motion in matrix form.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 636,
+      "bottomRightX": 588,
+      "bottomRightY": 667,
+      "content": "In the case of our simple one-dimensional problem, $S(x_{i+1}, x_i)$ is given by the expression (15), so that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 679,
+      "bottomRightX": 482,
+      "bottomRightY": 696,
+      "content": "$$\\partial S(x_{k+1}, x_k)/\\partial x_k = -m(x_{k+1} - x_k)/\\epsilon,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 705,
+      "bottomRightX": 176,
+      "bottomRightY": 718,
+      "content": "and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 720,
+      "bottomRightX": 512,
+      "bottomRightY": 739,
+      "content": "$$\\partial S(x_k, x_{k-1})/\\partial x_k = +m(x_k - x_{k-1})/\\epsilon - \\epsilon V'(x_k);$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 743,
+      "bottomRightX": 588,
+      "bottomRightY": 774,
+      "content": "where we write $V'(x)$ for the derivative of the potential, or force. Then (47) becomes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 202,
+      "topLeftY": 782,
+      "bottomRightX": 588,
+      "bottomRightY": 816,
+      "content": "$$-\\frac{\\hbar}{i} \\frac{\\partial F}{\\partial x_k} \\underset{S}{\\leftrightarrow} F \\left[ -m \\left( \\frac{x_{k+1} - x_k}{\\epsilon} - \\frac{x_k - x_{k-1}}{\\epsilon} \\right) - \\epsilon V'(x_k) \\right]. \\tag{48}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 834,
+      "bottomRightX": 376,
+      "bottomRightY": 846,
+      "content": "25",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

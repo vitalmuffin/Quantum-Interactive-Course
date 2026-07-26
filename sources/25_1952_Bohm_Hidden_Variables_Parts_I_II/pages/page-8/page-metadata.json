@@ -1,0 +1,236 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 137,
+      "topLeftY": 101,
+      "bottomRightX": 633,
+      "bottomRightY": 116,
+      "content": "QUANTUM THEORY IN TERMS OF \"HIDDEN\" VARIABLES. I",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 663,
+      "topLeftY": 101,
+      "bottomRightX": 684,
+      "bottomRightY": 115,
+      "content": "173",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 129,
+      "bottomRightX": 381,
+      "bottomRightY": 172,
+      "content": "The reader will readily verify that no other form of solution of Schroedinger's equation will satisfy all three of our criteria for a stationary state.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 172,
+      "bottomRightX": 381,
+      "bottomRightY": 298,
+      "content": "Since $\\psi$ is now being regarded as a mathematical representation of an objectively real force field, it follows that (like the electromagnetic field) it should be everywhere finite, continuous, and single valued. These requirements will guarantee in all cases that occur in practice that the allowed values of the energy in a stationary state, and the corresponding eigenfunctions are the same as are obtained from the usual interpretation of the theory.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 298,
+      "bottomRightX": 381,
+      "bottomRightY": 341,
+      "content": "In order to show in more detail what a stationary state means in our interpretation, we shall now consider three examples of stationary states.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 353,
+      "bottomRightX": 287,
+      "bottomRightY": 368,
+      "content": "### Case 1: \"s\" State",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 376,
+      "bottomRightX": 380,
+      "bottomRightY": 406,
+      "content": "The first case that we shall consider is an \"s\" state. In an \"s\" state, the wave function is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 166,
+      "topLeftY": 412,
+      "bottomRightX": 380,
+      "bottomRightY": 430,
+      "content": "$$\\psi = f(r) \\exp[i(\\alpha - E t)/h], \\tag{13}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 435,
+      "bottomRightX": 381,
+      "bottomRightY": 479,
+      "content": "where $\\alpha$ is an arbitrary constant and $r$ is the radius taken from the center of the atom. We conclude that the Hamilton-Jacobi function is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 486,
+      "bottomRightX": 262,
+      "bottomRightY": 501,
+      "content": "$$S = \\alpha - E t.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 509,
+      "bottomRightX": 213,
+      "bottomRightY": 523,
+      "content": "The particle velocity is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 529,
+      "bottomRightX": 264,
+      "bottomRightY": 544,
+      "content": "$$\\mathbf{v} = \\nabla S = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 551,
+      "bottomRightX": 381,
+      "bottomRightY": 666,
+      "content": "The particle is therefore simply standing still, wherever it may happen to be. How can it do this? The absence of motion is possible because the applied force, $-\\nabla V(\\mathbf{x})$, is balanced by the \"quantum-mechanical\" force, $(h^2/2m)\\nabla(\\nabla^2 R/R)$, produced by the Schroedinger $\\psi$-field acting on its own particle. There is, however, a statistical ensemble of possible positions of the particle, with a probability density, $P(\\mathbf{x}) = (f(r))^2$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 678,
+      "bottomRightX": 340,
+      "bottomRightY": 706,
+      "content": "### Case 2: State with Nonzero Angular Momentum",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 713,
+      "bottomRightX": 381,
+      "bottomRightY": 740,
+      "content": "In a typical state of nonzero angular momentum, we have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 120,
+      "topLeftY": 748,
+      "bottomRightX": 380,
+      "bottomRightY": 765,
+      "content": "$$\\psi = f_n^1(r) P_i^m(\\cos\\theta) \\exp[i(\\beta - E t + h m \\phi)/h], \\tag{14}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 770,
+      "bottomRightX": 381,
+      "bottomRightY": 855,
+      "content": "where $\\theta$ and $\\phi$ are the colatitude and azimuthal polar angles, respectively, $P_i^m$ is the associated Legendre polynomial, and $\\beta$ is a constant. The Hamilton-Jacobi function is $S = \\beta - E t + h m \\phi$. From this result it follows that the $z$ component of the angular momentum is equal to $h m$. To prove this, we write",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 860,
+      "bottomRightX": 380,
+      "bottomRightY": 878,
+      "content": "$$L_z = x p_y - y p_z = x \\partial S / \\partial y - y \\partial S / \\partial x = \\partial S / \\partial \\phi = h m. \\tag{15}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 883,
+      "bottomRightX": 381,
+      "bottomRightY": 939,
+      "content": "Thus, we obtain a statistical ensemble of trajectories which can have different forms, but all have the same \"quantized\" value of the $z$ component of the angular momentum.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 450,
+      "topLeftY": 130,
+      "bottomRightX": 626,
+      "bottomRightY": 145,
+      "content": "### Case 3: A Scattering Problem",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 152,
+      "bottomRightX": 686,
+      "bottomRightY": 250,
+      "content": "Let us now consider a scattering problem. Because it is comparatively easy to analyze, we shall discuss a hypothetical experiment, in which an electron is incident in the $z$ direction with an initial momentum, $p_0$, on a system consisting of two slits. After the electron passes through the slit system, its position is measured and recorded, for example, on a photographic plate.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 250,
+      "bottomRightX": 686,
+      "bottomRightY": 430,
+      "content": "Now, in the usual interpretation of the quantum theory, the electron is described by a wave function. The incident part of the wave function is $\\psi_0 \\sim \\exp(ip_0 z/h)$; but when the wave passes through the slit system, it is modified by interference and diffraction effects, so that it will develop a characteristic intensity pattern by the time it reaches the position measuring instrument. The probability that the electron will be detected between $\\mathbf{x}$ and $\\mathbf{x} + d\\mathbf{x}$ is $|\\psi(\\mathbf{x})|^2 d\\mathbf{x}$. If the experiment is repeated many times under equivalent initial conditions, one eventually obtains a pattern of hits on the photographic plate that is very reminiscent of the interference patterns of optics.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 431,
+      "bottomRightX": 686,
+      "bottomRightY": 652,
+      "content": "In the usual interpretation of the quantum theory, the origin of this interference pattern is very difficult to understand. For there may be certain points where the wave function is zero when both slits are open, but not zero when only one slit is open. How can the opening of a second slit prevent the electron from reaching certain points that it could reach if this slit were closed? If the electron acted completely like a classical particle, this phenomenon could not be explained at all. Clearly, then the wave aspects of the electron must have something to do with the production of the interference pattern. Yet, the electron cannot be identical with its associated wave, because the latter spreads out over a wide region. On the other hand, when the electron's position is measured, it always appears at the detector as if it were a localized particle.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 653,
+      "bottomRightX": 686,
+      "bottomRightY": 905,
+      "content": "The usual interpretation of the quantum theory not only makes no attempt to provide a single precisely defined conceptual model for the production of the phenomena described above, but it asserts that no such model is even conceivable. Instead of a single precisely defined conceptual model, it provides, as pointed out in Sec. 2, a pair of complementary models, viz., particle and wave, each of which can be made more precise only under conditions which necessitate a reciprocal decrease in the degree of precision of the other. Thus, while the electron goes through the slit system, its position is said to be inherently ambiguous, so that if we wish to obtain an interference pattern, it is meaningless to ask through which slit an individual electron actually passed. Within the domain of space within which the position of the electron has no meaning we can use the wave model and thus describe the subsequent production of interference. If, however, we",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 915,
+      "bottomRightX": 684,
+      "bottomRightY": 941,
+      "content": "This experiment is discussed in some detail in reference 2, Chapter 6, Sec. 2.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

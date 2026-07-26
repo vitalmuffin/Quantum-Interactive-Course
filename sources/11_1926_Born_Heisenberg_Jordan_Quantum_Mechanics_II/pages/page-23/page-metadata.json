@@ -1,0 +1,218 @@
+{
+  "index": 22,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 264,
+      "topLeftY": 101,
+      "bottomRightX": 419,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 551,
+      "topLeftY": 101,
+      "bottomRightX": 580,
+      "bottomRightY": 117,
+      "content": "579",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 139,
+      "bottomRightX": 581,
+      "bottomRightY": 237,
+      "content": "Gleichungen teilweise unbestimmt bleibt. Natürlich werden bei jedem einzelnen wirklichen Atom die für die physikalischen Eigenschaften des Systems, insbesondere die Übergangswahrscheinlichkeiten maßgebenden Koordinaten stets durch äußere Störungen oder durch die Vorgeschichte des Systems eindeutig festgelegt sein.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 238,
+      "bottomRightX": 581,
+      "bottomRightY": 277,
+      "content": "Wir wollen nun den Einfluß beliebiger Störungen auf das entartete System untersuchen. Sei also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 281,
+      "bottomRightX": 580,
+      "bottomRightY": 302,
+      "content": "$$H(p q) = H_0 + \\lambda H_1 + \\lambda^2 H_2 + \\cdots, \\quad (22)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 306,
+      "bottomRightX": 581,
+      "bottomRightY": 344,
+      "content": "und sei $p^0, q^0$ eine beliebige, aber fest gewählte Lösung des ungestörten Problems:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 343,
+      "bottomRightX": 580,
+      "bottomRightY": 362,
+      "content": "$$H_0(p_0 q_0) = W_0. \\quad (23)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 360,
+      "bottomRightX": 181,
+      "bottomRightY": 376,
+      "content": "Der Ansatz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 375,
+      "bottomRightX": 398,
+      "bottomRightY": 396,
+      "content": "$$p = S p^0 S^{-1},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 399,
+      "bottomRightX": 398,
+      "bottomRightY": 418,
+      "content": "$$q = S q^0 S^{-1},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 417,
+      "bottomRightX": 129,
+      "bottomRightY": 434,
+      "content": "mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 433,
+      "bottomRightX": 580,
+      "bottomRightY": 452,
+      "content": "$$S = S_0 (1 + \\lambda S_1 + \\lambda^2 S_2 + \\cdots), \\quad (24)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 455,
+      "bottomRightX": 580,
+      "bottomRightY": 476,
+      "content": "$$S^{-1} = (1 - \\lambda (S_1 + \\lambda S_2 \\dots) + \\lambda^2 \\dots) S_0^{-1}, \\quad (25)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 482,
+      "bottomRightX": 565,
+      "bottomRightY": 501,
+      "content": "ergibt dann, wenn wir in $H_0, H_1 \\dots$ die Argumente $p^0, q^0$ auslassen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 506,
+      "bottomRightX": 580,
+      "bottomRightY": 527,
+      "content": "$$S_0 H_0 S_0^{-1} = W_0, \\quad (26)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 170,
+      "topLeftY": 530,
+      "bottomRightX": 580,
+      "bottomRightY": 550,
+      "content": "$$S_0 S_1 H_0 S_0^{-1} - S_0 H_0 S_1 S_0^{-1} + S_0 H_1 S_0^{-1} = W_1, \\quad (27)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 553,
+      "bottomRightX": 580,
+      "bottomRightY": 574,
+      "content": "$$S_0 S_2 H_0 S_0^{-1} - S_0 H_0 S_2 S_0^{-1} + S_0 F_2 (H_0 H_1 H_2; S_1) S_0^{-1} = W_2, \\quad (28)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 593,
+      "bottomRightX": 416,
+      "bottomRightY": 614,
+      "content": "$$S_0 S_r H_0 S_0^{-1} - S_0 H_0 S_r S_0^{-1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 183,
+      "topLeftY": 616,
+      "bottomRightX": 580,
+      "bottomRightY": 637,
+      "content": "$$+ S_0 F_r (H_0 H_1 \\dots H_r, S_1 \\dots S_{r-1}) S_0^{-1} = W_r. \\quad (29)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 640,
+      "bottomRightX": 582,
+      "bottomRightY": 696,
+      "content": "Das sind fast wieder die Gleichungen (26), Kap. 1, nur mit dem Unterschied, daß auf der linken Seite überall vorn mit $S_0$ und hinten mit $S_0^{-1}$ multipliziert ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 699,
+      "bottomRightX": 583,
+      "bottomRightY": 876,
+      "content": "Die Gleichung (26), Kap. 2, ist bereits oben erörtert worden; es wird $S_0(n m)$ gleich Null außer für verschwindendes $v_0(n m)$. Die noch verbleibende Willkür in $S_0$ muß nun nach Möglichkeit ausgenutzt werden, um die nächste Gleichung lösbar zu machen. Es kann natürlich nicht von jeder Lösung von $H = H_0$, also insbesondere auch nicht von der ausgewählten $p^0, q^0$ erwartet werden, daß sie den Grenzfall $\\lambda = 0$ der Lösung $p, q$ des Problems (22), Kap. 2, liefert. Die Funktion $S_0$ soll dazu dienen, aus $p^0, q^0$ diejenige Lösung des entarteten Problems herzustellen, welche diese verlangte Eigenschaft besitzt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 877,
+      "bottomRightX": 475,
+      "bottomRightY": 895,
+      "content": "Die Gleichung (27) kann umgeschrieben werden in",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 219,
+      "topLeftY": 899,
+      "bottomRightX": 583,
+      "bottomRightY": 920,
+      "content": "$$S_1 H_0 - H_0 S_1 + H_1 = S_0^{-1} W_1 S_0. \\quad (30)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

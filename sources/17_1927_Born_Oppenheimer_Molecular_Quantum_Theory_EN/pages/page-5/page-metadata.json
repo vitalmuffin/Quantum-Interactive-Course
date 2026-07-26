@@ -1,0 +1,236 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 133,
+      "bottomRightX": 434,
+      "bottomRightY": 151,
+      "content": "Thus $u_{nn'}^{(r)}$ is a homogeneous polynomial of the $r$th order in $\\zeta_i$, for instance",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 161,
+      "bottomRightX": 427,
+      "bottomRightY": 197,
+      "content": "$$u_{nn'}^{(1)} = \\sum_i \\zeta_i \\int \\overline{\\phi_{n'}^{(0)}} \\frac{\\partial \\phi_n^{(0)}}{\\partial \\xi_i} \\mathrm{d}x$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 201,
+      "bottomRightX": 643,
+      "bottomRightY": 239,
+      "content": "$$u_{nn'}^{(2)} = \\sum_{ij} \\zeta_i \\zeta_j \\int \\overline{\\phi_{n'}^{(0)}} \\frac{\\partial^2 \\phi_n^{(0)}}{\\partial \\xi_i \\partial \\xi_j} \\mathrm{d}x. \\tag{20}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 248,
+      "bottomRightX": 644,
+      "bottomRightY": 281,
+      "content": "These integrals, in which $\\mathrm{d}x$ denotes the volume element in configuration space, are independent of the orientation of the nuclear system in space, hence independent of the $\\theta_i$; one can thus evaluate them in the principal axis system.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 283,
+      "bottomRightX": 507,
+      "bottomRightY": 299,
+      "content": "If now, $F$ denotes any operator on the $x_i$, we define the $r$th order matrix element of $F$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 303,
+      "topLeftY": 308,
+      "bottomRightX": 643,
+      "bottomRightY": 338,
+      "content": "$$\\int \\overline{\\phi_{n'}^{(0)}} F \\phi_n^{(r)} \\mathrm{d}x = F_{nn'}^{(r)}. \\tag{21}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 347,
+      "bottomRightX": 312,
+      "bottomRightY": 361,
+      "content": "For $r = 0$ this becomes the usual matrix element",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 369,
+      "bottomRightX": 643,
+      "bottomRightY": 399,
+      "content": "$$F_{nn'}^{(0)} = F_{nn'} = \\int \\overline{\\phi_{n'}^{(0)}} F \\phi_n^{(0)} \\mathrm{d}x. \\tag{22}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 409,
+      "bottomRightX": 172,
+      "bottomRightY": 424,
+      "content": "In general, by (19),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 306,
+      "topLeftY": 422,
+      "bottomRightX": 643,
+      "bottomRightY": 450,
+      "content": "$$F_{nn'}^{(r)} = \\sum_{n''} u_{nn''}^{(r)} F_{n''n'}. \\tag{23}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 457,
+      "bottomRightX": 177,
+      "bottomRightY": 471,
+      "content": "Using (15) for $\\kappa = 0$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 471,
+      "bottomRightX": 643,
+      "bottomRightY": 491,
+      "content": "$$(H_0^{(0)} - V_n^{(0)})_{nn'}^{(r)} = u_{nn'}^{(r)} (V_{n'}^{(0)} - V_n^{(0)}). \\tag{24}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 498,
+      "bottomRightX": 489,
+      "bottomRightY": 514,
+      "content": "Furthermore, we obtain by substituting (16) and (18) in (15), the following identities:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 524,
+      "bottomRightX": 421,
+      "bottomRightY": 542,
+      "content": "a) $(H_0^{(0)} - V_n^{(0)})\\phi_n^{(1)} + (H_0^{(1)} - V_n^{(1)})\\phi_n^{(0)} = 0$",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 542,
+      "bottomRightX": 643,
+      "bottomRightY": 560,
+      "content": "b) $(H_0^{(0)} - V_n^{(0)})\\phi_n^{(2)} + (H_0^{(1)} - V_n^{(1)})\\phi_n^{(1)} + (H_0^{(2)} - V_n^{(2)})\\phi_n^{(0)} = 0$",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 567,
+      "bottomRightX": 291,
+      "bottomRightY": 575,
+      "content": "...",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 591,
+      "bottomRightX": 456,
+      "bottomRightY": 611,
+      "content": "Multiplying these by $\\overline{\\phi_{n'}^{(0)}}$ and integrating over the $x_i$, by virtue of (24) we find:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 621,
+      "bottomRightX": 430,
+      "bottomRightY": 639,
+      "content": "a) $u_{nn'}^{(1)}(V_{n'}^{(0)} - V_n^{(0)}) + (H_0^{(1)})_{nn'} - V_n^{(1)}\\delta_{nn'} = 0$",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 639,
+      "bottomRightX": 643,
+      "bottomRightY": 657,
+      "content": "b) $u_{nn'}^{(2)}(V_{n'}^{(0)} - V_n^{(0)}) + (H_0^{(1)} - V_n^{(1)})_{nn'} + (H_0^{(2)})_{nn'} - V_n^{(2)}\\delta_{nn'} = 0$",
+      "confidenceScores": null,
+      "type": "list"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 663,
+      "bottomRightX": 288,
+      "bottomRightY": 672,
+      "content": "...",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 688,
+      "bottomRightX": 644,
+      "bottomRightY": 727,
+      "content": "From these one can compute the $(H_0^{(1)})_{nn'}$, $(H_0^{(2)})_{nn'}$, ..., $i$e the matrix elements $\\left(\\frac{\\partial H_0}{\\partial \\xi_i}\\right)_{nn'}$, $\\left(\\frac{\\partial^2 H_0}{\\partial \\xi_i \\partial \\xi_j}\\right)_{nn'}$, ... We will later apply these formulas.$^3$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 750,
+      "bottomRightX": 324,
+      "bottomRightY": 766,
+      "content": "### Part III. Setting-up the Approximate Equations",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 780,
+      "bottomRightX": 642,
+      "bottomRightY": 812,
+      "content": "An arbitrary configuration of electrons and nuclei cannot always be treated by a general approximation procedure. We will here consider only states which correspond to a stable molecule. We will begin with the following question:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 838,
+      "bottomRightX": 644,
+      "bottomRightY": 867,
+      "content": "$^3$The classical analogue to the simplest deduction from these formulae, namely the identity $(H_0^{(1)})_{nn} = V_n^{(1)}$ which follows from (26a) for $n = n'$, is found in [7]; compare especially with § 4, formula (11).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 355,
+      "topLeftY": 895,
+      "bottomRightX": 363,
+      "bottomRightY": 906,
+      "content": "5",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 172,
+      "topLeftY": 17,
+      "bottomRightX": 535,
+      "bottomRightY": 41,
+      "content": "Erzeugung und Verwandlung des Lichtes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 601,
+      "topLeftY": 17,
+      "bottomRightX": 638,
+      "bottomRightY": 36,
+      "content": "139",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 58,
+      "bottomRightX": 639,
+      "bottomRightY": 131,
+      "content": "aus der Funktion $\\varphi$ das Gesetz der schwarzen Strahlung und umgekehrt aus letzterem die Funktion $\\varphi$ durch Integration bestimmen mit Rücksicht darauf, daß $\\varphi$ für $\\varrho = 0$ verschwindet.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 158,
+      "bottomRightX": 612,
+      "bottomRightY": 198,
+      "content": "#### § 4. Grenzgesetz für die Entropie der monochromatischen Strahlung bei geringer Strahlungsdichte.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 209,
+      "bottomRightX": 639,
+      "bottomRightY": 281,
+      "content": "Aus den bisherigen Beobachtungen über die „schwarze Strahlung“ geht zwar hervor, daß das ursprünglich von Hrn. W. Wien für die „schwarze Strahlung“ aufgestellte Gesetz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 290,
+      "bottomRightX": 421,
+      "bottomRightY": 330,
+      "content": "$$\\varrho = \\alpha v^3 e^{-\\beta \\frac{v}{T}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 335,
+      "bottomRightX": 641,
+      "bottomRightY": 458,
+      "content": "nicht genau gültig ist. Dasselbe wurde aber für große Werte von $v/T$ sehr vollkommen durch das Experiment bestätigt. Wir legen diese Formel unseren Rechnungen zugrunde, behalten aber im Sinne, daß unsere Resultate nur innerhalb gewisser Grenzen gelten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 457,
+      "bottomRightX": 489,
+      "bottomRightY": 481,
+      "content": "Aus dieser Formel ergibt sich zunächst:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 278,
+      "topLeftY": 488,
+      "bottomRightX": 441,
+      "bottomRightY": 527,
+      "content": "$$\\frac{1}{T} = - \\frac{1}{\\beta v} \\lg \\frac{\\varrho}{\\alpha v^3}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 534,
+      "bottomRightX": 642,
+      "bottomRightY": 585,
+      "content": "und weiter unter Benutzung der in dem vorigen Paragraphen gefundenen Beziehung:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 223,
+      "topLeftY": 583,
+      "bottomRightX": 494,
+      "bottomRightY": 622,
+      "content": "$$\\varphi(\\varrho, v) = - \\frac{\\varrho}{\\beta v} \\left\\{ \\lg \\frac{\\varrho}{\\alpha v^3} - 1 \\right\\}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 626,
+      "bottomRightX": 643,
+      "bottomRightY": 699,
+      "content": "Es sei nun eine Strahlung von der Energie $E$ gegeben, deren Frequenz zwischen $v$ und $v + dv$ liegt. Die Strahlung nehme das Volumen $v$ ein. Die Entropie dieser Strahlung ist:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 704,
+      "bottomRightX": 553,
+      "bottomRightY": 745,
+      "content": "$$S = v \\varphi(\\varrho, v) dv = - \\frac{E}{\\beta v} \\left\\{ \\lg \\frac{E}{v \\alpha v^3 dv} - 1 \\right\\}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 752,
+      "bottomRightX": 644,
+      "bottomRightY": 851,
+      "content": "Beschränken wir uns darauf, die Abhängigkeit der Entropie von dem von der Strahlung eingenommenen Volumen zu untersuchen, und bezeichnen wir die Entropie der Strahlung mit $S_0$, falls dieselbe das Volumen $v_0$ besitzt, so erhalten wir:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 265,
+      "topLeftY": 856,
+      "bottomRightX": 458,
+      "bottomRightY": 897,
+      "content": "$$S - S_0 = \\frac{E}{\\beta v} \\lg \\left( \\frac{v}{v_0} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 901,
+      "bottomRightX": 646,
+      "bottomRightY": 998,
+      "content": "Diese Gleichung zeigt, daß die Entropie einer monochromatischen Strahlung von genügend kleiner Dichte nach dem gleichen Gesetze mit dem Volumen variiert wie die Entropie eines idealen Gases oder die einer verdünnten Lösung. Die",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

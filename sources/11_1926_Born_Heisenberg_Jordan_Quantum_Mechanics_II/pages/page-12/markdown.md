@@ -1,0 +1,13 @@
+568
+
+M. Born, W. Heisenberg und P. Jordan,
+
+zugunsten der hier versuchten Theorie zu sprechen. Gleichung (31), Kap. 1, wurde von Born¹⁾ durch Umdeutung der entsprechenden klassischen Formeln erhalten. Die Glieder $m = n$ der Gleichung (32), Kap. 1, entsprechen der Kramersschen Formel für das gewöhnliche Dispersionslicht, die anderen Glieder $m \neq n$ entsprechen den von Kramers und Heisenberg²⁾ angegebenen Formeln für das „Streulicht der Kombinationsfrequenzen“. Die letzteren Ausdrücke wurden von Pauli³⁾ zur Berechnung der Intensitäten der in äußeren elektrischen Feldern auftretenden (sonst „verbotenen“) Übergänge bei Hg benutzt. Für die Ableitung der allgemeinen Dispersionsformeln (wenn die Frequenz des äußeren Feldes nicht verschwindet) sind noch allgemeinere Betrachtungen über die Wirkung zeitlich veränderlicher äußerer Kräfte notwendig, zu denen wir jetzt übergehen werden.
+
+§ 5. Systeme, bei denen die Zeit explizite in der „Energiefunktion“ vorkommt. Die Behandlung der quantenmechanischen Wirkung äußerer Kräfte, die explizite von der Zeit abhängen, scheint uns deshalb von besonderem Interesse, weil bei diesem Problem einige Unterschiede zwischen der quantentheoretischen und der klassischen Mechanik charakteristisch zu Tage kommen. Das Problem der Wirkung zeitlich veränderlicher äußerer Kräfte ist aufzufassen als Grenzfall des Problems der Wechselwirkung zweier Systeme, wobei der Einfluß der Wechselwirkung auf das eine System (es heiße $A$) so gering ist, daß die Wirkungen auf das andere System ($B$) durch diesen Einfluß nicht verändert werden. Betrachten wir also jetzt vom Standpunkt der Quantenmechanik die Kopplung zweier Systeme $A, B$; die Hamiltonsche Funktion zerfalle in drei Teile $H_A, \lambda H_B$ und $\varepsilon \lambda H_{AB}$ ($\lambda$ sei ein zunächst willkürlicher Parameter, $\varepsilon$ eine kleine Größe). Das System $A$ sei bekannt. Zur Berechnung der Bewegungen von $B$ genügt es in der klassischen Theorie, wenn man für die Koordinaten von $B$ die Bewegungsgleichungen [aus der Hamiltonschen Funktion $\lambda (H_B + \varepsilon H_{AB})$] aufstellt, wobei man für die Koordinaten von $A$ ihre Lösungen als Funktion der Zeit (für die bestimmten vorliegenden Werte der Konstanten in $A$) einsetzt. Hierdurch tritt eben bei Vernachlässigung der Rückwirkung neben der Konstanten von $A$ nur die Zeit als neue Variable im Störungsproblem für $B$ auf. In der Quantenmechanik liegen die Verhältnisse ebenso, wenn wir uns auf die Störungen erster Ordnung (d. h. die mit $\varepsilon$ proportionalen Glieder
+
+¹⁾ M. Born, ZS. f. Phys. 26, 379, 1924.
+
+²⁾ H. A. Kramers und W. Heisenberg, ZS. f. Phys. 31, 681, 1925,
+
+³⁾ W. Pauli, Verhandl. d. dän. Akad. d. Wiss. (Im Erscheinen.)

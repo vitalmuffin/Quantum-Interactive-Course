@@ -1,0 +1,101 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 83,
+    "height": 1017,
+    "width": 686
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 37,
+      "topLeftY": 75,
+      "bottomRightX": 424,
+      "bottomRightY": 93,
+      "content": "# The Problem of Hidden Variables in Quantum Mechanics",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 99,
+      "bottomRightX": 351,
+      "bottomRightY": 115,
+      "content": "Author(s): SIMON KOCHEN and E. P. SPECKER",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 121,
+      "bottomRightX": 635,
+      "bottomRightY": 153,
+      "content": "Source: *Journal of Mathematics and Mechanics*, July, 1967, Vol. 17, No. 1 (July, 1967), pp. 59-87",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 158,
+      "bottomRightX": 439,
+      "bottomRightY": 176,
+      "content": "Published by: Indiana University Mathematics Department",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 186,
+      "bottomRightX": 393,
+      "bottomRightY": 205,
+      "content": "Stable URL: https://www.jstor.org/stable/24902153",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 229,
+      "bottomRightX": 639,
+      "bottomRightY": 265,
+      "content": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 271,
+      "bottomRightX": 573,
+      "bottomRightY": 295,
+      "content": "Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 906,
+      "bottomRightX": 101,
+      "bottomRightY": 926,
+      "content": "JSTOR",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 846,
+      "bottomRightX": 591,
+      "bottomRightY": 870,
+      "content": "is collaborating with JSTOR to digitize, preserve and extend access to *Journal of Mathematics and Mechanics*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 948,
+      "bottomRightX": 432,
+      "bottomRightY": 979,
+      "content": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

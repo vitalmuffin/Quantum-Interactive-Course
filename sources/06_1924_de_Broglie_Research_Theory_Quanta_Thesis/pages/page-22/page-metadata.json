@@ -1,0 +1,120 @@
+{
+  "index": 21,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1017,
+    "width": 638
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 57,
+      "topLeftY": 38,
+      "bottomRightX": 82,
+      "bottomRightY": 57,
+      "content": "42",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 35,
+      "bottomRightX": 392,
+      "bottomRightY": 51,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 80,
+      "bottomRightX": 578,
+      "bottomRightY": 282,
+      "content": "fixe avec une vitesse $\\frac{c}{\\beta}$. En effet, si la ligne $ox_i$ de la figure représente l'espace de l'observateur fixe au temps $t = 0$, on a $\\overline{aa}_0 = c$. La phase qui pour $t = 0$, se trouvait en $a_i$, se trouve maintenant en $a_i$; pour l'observateur fixe, elle s'est donc déplacée dans son espace de la longueur $a_0a_i$ dans le sens $ox$ pendant l'unité de temps. On peut donc dire que sa vitesse est :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 188,
+      "topLeftY": 282,
+      "bottomRightX": 457,
+      "bottomRightY": 322,
+      "content": "$$V = a_0a_i = aa_0 \\cot(\\widehat{xox'}) = \\frac{c}{\\beta}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 330,
+      "bottomRightX": 436,
+      "bottomRightY": 651,
+      "content": "![img-1.jpeg](img-1.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-1.jpeg"
+    },
+    {
+      "topLeftX": 442,
+      "topLeftY": 407,
+      "bottomRightX": 550,
+      "bottomRightY": 471,
+      "content": "$$\\begin{array}{l} \\text{tg } \\widehat{CAB} = \\beta \\\\ \\text{tg } \\widehat{CDB} = \\frac{1}{\\beta} \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 306,
+      "topLeftY": 655,
+      "bottomRightX": 364,
+      "bottomRightY": 678,
+      "content": "Fig. 2.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 700,
+      "bottomRightX": 593,
+      "bottomRightY": 752,
+      "content": "L'ensemble des plans équiphases constitue ce que nous avons nommé l'onde de phase.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 752,
+      "bottomRightX": 595,
+      "bottomRightY": 806,
+      "content": "Reste à examiner la question des fréquences. Refaisons une petite figure simplifiée.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 804,
+      "bottomRightX": 597,
+      "bottomRightY": 903,
+      "content": "Les droites 1 et 2 représentent deux espaces équiphases successifs de l'observateur lié. $\\overline{AB}$ est, avons-nous dit, égal à $c$ fois la période propre $T_0 = \\frac{h}{m_0c^2}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 905,
+      "bottomRightX": 453,
+      "bottomRightY": 934,
+      "content": "AC projection de AB sur l'axe Ot est égal à",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 940,
+      "bottomRightX": 416,
+      "bottomRightY": 983,
+      "content": "$$cT_1 = cT_0 \\frac{1}{\\sqrt{1 - \\beta^2}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

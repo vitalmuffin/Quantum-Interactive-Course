@@ -1,0 +1,47 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 129,
+    "height": 1021,
+    "width": 706
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 104,
+      "topLeftY": 49,
+      "bottomRightX": 617,
+      "bottomRightY": 69,
+      "content": "238 Verhandlungen der Deutschen Physikal. Gesellschaft. [Nr. 17.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 87,
+      "bottomRightX": 621,
+      "bottomRightY": 593,
+      "content": "ist danach nur als ein zeitlicher Mittelwert aufzufassen, oder, was auf dasselbe hinauskommt, als der augenblickliche Mittelwert der Energien einer grossen Anzahl von gleichbeschaffenen Resonatoren, die sich im nämlichen stationären Strahlungsfelde weit genug entfernt voneinander befinden, um sich nicht gegenseitig direct zu beeinflussen. Da somit die Entropie eines Resonators durch die Art der gleichzeitigen Energieverteilung auf viele Resonatoren bedingt ist, so vermutete ich, dass sich diese Grösse durch Einführung von Wahrscheinlichkeitsbetrachtungen, deren Bedeutung für den zweiten Hauptsatz der Thermodynamik Hr. L. BOLTZMANN¹⁾ zuerst aufgedeckt hat, in die elektromagnetische Theorie der Strahlung würde berechnen lassen müssen. Diese Vermutung hat sich bestätigt; es ist mir möglich geworden, einen Ausdruck für die Entropie eines monochromatisch schwingenden Resonators, und somit auch für die Verteilung der Energie im stationären Strahlungszustand, d. h. im Normalspectrum, auf deductivem Wege zu ermitteln, wobei es nur nötig wird, der von mir in die elektromagnetische Theorie eingeführten Hypothese der „natürlichen Strahlung“ eine etwas weitergehende Fassung zu geben als bisher. Ausserdem aber haben sich hierbei noch andere Beziehungen ergeben, die mir für weitere Gebiete der Physik und auch der Chemie von erheblicher Tragweite zu sein scheinen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 592,
+      "bottomRightX": 622,
+      "bottomRightY": 879,
+      "content": "Indessen liegt mir heute nicht sowohl daran, jene Deduction, welche sich auf die Gesetze der elektromagnetischen Strahlung, der Thermodynamik und der Wahrscheinlichkeitsrechnung stützt, hier systematisch in allen Einzelheiten durchzuführen, als vielmehr daran, Ihnen den eigentlichen Kernpunkt der ganzen Theorie möglichst übersichtlich darzulegen, und dies kann wohl am besten dadurch geschehen, dass ich Ihnen hier ein neues, ganz elementares Verfahren beschreibe, durch welches man, ohne von einer Spectralformel oder auch von irgend einer Theorie etwas zu wissen, mit Hilfe einer einzigen Naturconstanten die Verteilung einer gegebenen Energiemenge auf die einzelnen Farben des Normalspectrums, und dann mittels einer zweiten Naturconstanten auch die Temperatur dieser",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 910,
+      "bottomRightX": 620,
+      "bottomRightY": 949,
+      "content": "¹⁾ L. BOLTZMANN, namentlich Sitzungsber. d. k. Akad. d. Wissensch. zu Wien (II) 76. p. 373. 1877.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

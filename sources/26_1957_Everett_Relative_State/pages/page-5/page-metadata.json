@@ -1,0 +1,74 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 153,
+      "bottomRightX": 605,
+      "bottomRightY": 206,
+      "content": "deduce the changes that occur in an observer as a consequence of interaction with the surrounding subsystems, and to interpret the changes in the familiar language of experience.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 207,
+      "bottomRightX": 606,
+      "bottomRightY": 484,
+      "content": "Section 4 investigates representations of the state of a composite system in terms of states of constituent subsystems. The mathematics leads one to recognize the concept of the *relativity of states*, in the following sense: a constituent subsystem cannot be said to be in any single well-defined state, independently of the remainder of the composite system, to any arbitrarily chosen state for one subsystem there will correspond a unique *relative state* for the remainder of the composite system. This relative state will usually depend upon the choice of state for the first subsystem. Thus the state of one subsystem does not have an independent existence, but is fixed only by the state of the remaining subsystem. In other words, the states occupied by the subsystems are not independent, but *correlated*, such correlations between systems arise whenever systems interact. In the present formulation all measurements and observation processes are to be regarded simply as interactions between the physical systems involved—interactions which produce strong correlations. A simple model for a measurement, due to von Neumann, is analyzed from this viewpoint.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 485,
+      "bottomRightX": 606,
+      "bottomRightY": 641,
+      "content": "Section 5 gives an abstract treatment of the problem of observation. This uses only the superposition principle, and general rules by which composite system states are formed of subsystem states, in order that the results shall have the greatest generality and be applicable to any form of quantum theory for which these principles hold. Reductions are drawn about the state of the observer relative to the state of the object system. It is found that experiences of the observer (magnetic tape memory, counter system, etc.) are in full accord with predictions of the conventional “external observer” formulation of quantum mechanics, based on Process 1.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 642,
+      "bottomRightX": 605,
+      "bottomRightY": 678,
+      "content": "Section 6 recapitulates the “relative state” formulation of quantum mechanics.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 703,
+      "bottomRightX": 440,
+      "bottomRightY": 726,
+      "content": "## 4. Concept of Relative State",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 740,
+      "bottomRightX": 606,
+      "bottomRightY": 809,
+      "content": "We now investigate some consequences of the wave mechanical formalism of composite systems. If a composite system $S$, is composed of two subsystems $S_1$ and $S_2$, with associated Hilbert spaces $H_1$ and $H_2$, then, according to the usual formalism of composite systems, the Hilbert space for $S$ is taken",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 364,
+      "topLeftY": 837,
+      "bottomRightX": 372,
+      "bottomRightY": 849,
+      "content": "5",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

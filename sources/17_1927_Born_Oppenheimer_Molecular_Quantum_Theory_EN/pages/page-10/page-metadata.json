@@ -1,0 +1,236 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 75,
+      "topLeftY": 136,
+      "bottomRightX": 276,
+      "bottomRightY": 150,
+      "content": "where the $F$ are operators on $\\zeta$ and $\\theta$, and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 160,
+      "bottomRightX": 645,
+      "bottomRightY": 203,
+      "content": "$$\\begin{aligned} a) & F_{nn'}^{(3,1)} = \\left(H_0^{(1)}\\right)_{nn'} \\\\ b) & F_{nn'}^{(3,2)} = \\left(H_{\\zeta\\zeta}^{(0)} - H_0^{(2)} - W_{ns}^{(2)}\\right)_{nn'} + \\left(H_0^{(1)}\\right)_{nn'}^{(1)}, \\end{aligned} \\tag{54}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 213,
+      "bottomRightX": 554,
+      "bottomRightY": 231,
+      "content": "we can say about $F_{nn'}^{(3,3)}$ only that it is a homogeneous function of 3rd degree in the $\\xi_i$ and the $\\partial/\\partial\\zeta_i$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 231,
+      "bottomRightX": 254,
+      "bottomRightY": 248,
+      "content": "If (52) is solvable, we must have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 310,
+      "topLeftY": 248,
+      "bottomRightX": 405,
+      "bottomRightY": 265,
+      "content": "$$W^{(3)}\\chi_{ns}^{(0)} - F_{nn}^{(3)} = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 274,
+      "bottomRightX": 201,
+      "bottomRightY": 289,
+      "content": "because of (53) and (54a)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 287,
+      "bottomRightX": 645,
+      "bottomRightY": 307,
+      "content": "$$F_{nn}^{(3,2)}\\chi_{ns}^{(1)} = \\left(W^{(3)} - F_{nn}^{(3,3)}\\right)\\chi_{ns}^{(0)}, \\tag{55}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 316,
+      "bottomRightX": 198,
+      "bottomRightY": 330,
+      "content": "where, by (54b) and (44)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 290,
+      "topLeftY": 330,
+      "bottomRightX": 423,
+      "bottomRightY": 350,
+      "content": "$$F_{nn}^{(3,2)} = H_{\\zeta\\zeta}^{(0)} - V_n^{(2)} - W_{ns}^{(2)}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 357,
+      "bottomRightX": 647,
+      "bottomRightY": 408,
+      "content": "Thus (55) is the inhomogeneous equation corresponding to the vibration equation (45); since (45) has the normalized solution $\\sigma_{ns}^{(0)}$ belonging to the eigenvalue $W_{ns}^{(2)}$, (55) is solvable only when the right-hand side multiplied by $\\overline{\\sigma_{ns}^{(0)}}$ has a vanishing integral over $\\zeta$-space. This gives, using (47b), a differential equation for $\\rho_{ns}^{(0)}(\\theta)$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 298,
+      "topLeftY": 418,
+      "bottomRightX": 414,
+      "bottomRightY": 444,
+      "content": "$$\\left(F_{\\underset{ss}{nn}}^{(3,3)} - W^{(3)}\\right)\\rho_{ns}^{(0)} = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 454,
+      "bottomRightX": 647,
+      "bottomRightY": 524,
+      "content": "However, $F_{nn}^{(3,3)}$ is odd in the $\\xi_i$ and $\\partial/\\partial\\zeta_i$ so the diagonal element of the $\\zeta$-matrix must vanish. When one transforms to the normal coordinates $\\eta_i$, $\\sigma_{ns}^{(0)}$ becomes a sum of products of orthogonal Hermite functions, $F_{nn}^{(3,3)}$, a polynomial of odd order in the $\\eta_i$ and $\\partial/\\partial\\eta_i$, so that every term contains at least one of $\\eta_i$ or $\\partial/\\partial\\eta_i$ in an odd power; therefore every term in the $\\zeta$-matrix vanishes. It follows therefore",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 334,
+      "topLeftY": 535,
+      "bottomRightX": 645,
+      "bottomRightY": 552,
+      "content": "$$W^{(3)} = 0 \\tag{56}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 566,
+      "bottomRightX": 281,
+      "bottomRightY": 583,
+      "content": "and $\\rho_{ns}^{(0)}$ remains, as before, undetermined.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 585,
+      "bottomRightX": 192,
+      "bottomRightY": 599,
+      "content": "Now we may solve:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 599,
+      "bottomRightX": 645,
+      "bottomRightY": 618,
+      "content": "$$\\chi_{ns}^{(1)} = S_{ns}^{(1)}\\rho_{ns}^{(0)} \\tag{57}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 624,
+      "bottomRightX": 357,
+      "bottomRightY": 642,
+      "content": "where $S_{ns}^{(1)}$ is the following operator with respect to the $\\theta_i$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 295,
+      "topLeftY": 651,
+      "bottomRightX": 645,
+      "bottomRightY": 695,
+      "content": "$$S_{ns}^{(1)} = \\sum_{s'}' \\frac{F_{nn}^{(3,3)}\\sigma_{ns'}^{(0)}}{W_{ns}^{(2)} - W_{ns'}^{(2)}}. \\tag{58}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 704,
+      "bottomRightX": 211,
+      "bottomRightY": 719,
+      "content": "Finally the solution of (52):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 300,
+      "topLeftY": 717,
+      "bottomRightX": 645,
+      "bottomRightY": 756,
+      "content": "$$\\psi_n^{(3)} = \\sum_{n'}' \\frac{F_{nn}^{(3)}\\phi_{n'}^{(0)}}{V_n^{(0)} - V_{n'}^{(0)}} \\tag{59}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 761,
+      "bottomRightX": 223,
+      "bottomRightY": 775,
+      "content": "and by (53), this has the form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 217,
+      "topLeftY": 785,
+      "bottomRightX": 645,
+      "bottomRightY": 815,
+      "content": "$$\\psi_n^{(3)} = \\sum_{n'}' \\left(G_{nn'}^{(3,1)}\\chi_{ns}^{(2)}\\phi_{n'}^{(0)} + G_{nn'}^{(3,2)}\\chi_{ns}^{(1)}\\phi_{n'}^{(0)} + G_{nn'}^{(3,3)}\\chi_{ns}^{(0)}\\phi_{n'}^{(0)}\\right), \\tag{60}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 825,
+      "bottomRightX": 109,
+      "bottomRightY": 840,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 306,
+      "topLeftY": 835,
+      "bottomRightX": 645,
+      "bottomRightY": 874,
+      "content": "$$G_{nn'}^{(3,2)} = \\frac{F_{nn'}^{(3,2)}}{V_n^{(0)} - V_{n'}^{(0)}}. \\tag{61}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 349,
+      "topLeftY": 892,
+      "bottomRightX": 366,
+      "bottomRightY": 906,
+      "content": "10",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

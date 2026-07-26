@@ -1,0 +1,119 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 163,
+      "topLeftY": 12,
+      "bottomRightX": 520,
+      "bottomRightY": 37,
+      "content": "Erzeugung und Verwandlung des Lichtes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 589,
+      "topLeftY": 12,
+      "bottomRightX": 626,
+      "bottomRightY": 31,
+      "content": "143",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 60,
+      "topLeftY": 53,
+      "bottomRightX": 626,
+      "bottomRightY": 103,
+      "content": "und vergleicht man sie mit der allgemeinen, das Boltzmannsche Prinzip ausdrückenden Formel",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 110,
+      "bottomRightX": 424,
+      "bottomRightY": 148,
+      "content": "$$S - S_0 = \\frac{R}{N} \\lg W,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 61,
+      "topLeftY": 162,
+      "bottomRightX": 410,
+      "bottomRightY": 187,
+      "content": "so gelangt man zu folgendem Schluß:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 61,
+      "topLeftY": 186,
+      "bottomRightX": 629,
+      "bottomRightY": 329,
+      "content": "Ist monochromatische Strahlung von der Frequenz $\\nu$ und der Energie $E$ in das Volumen $v_0$ (durch spiegelnde Wände) eingeschlossen, so ist die Wahrscheinlichkeit dafür, daß sich in einem beliebig herausgegriffenen Zeitmoment die ganze Strahlungsenergie in dem Teilvolumen $\\nu$ des Volumens $v_0$ befindet:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 273,
+      "topLeftY": 327,
+      "bottomRightX": 417,
+      "bottomRightY": 385,
+      "content": "$$W = \\left( \\frac{v}{v_0} \\right)^{\\frac{N}{R} \\frac{E}{\\beta \\nu}}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 399,
+      "bottomRightX": 376,
+      "bottomRightY": 421,
+      "content": "Hieraus schließen wir weiter:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 420,
+      "bottomRightX": 632,
+      "bottomRightY": 543,
+      "content": "Monochromatische Strahlung von geringer Dichte (innerhalb des Gültigkeitsbereiches der Wienschen Strahlungsformel) verhält sich in wärmetheoretischer Beziehung so, wie wenn sie aus voneinander unabhängigen Energiequanten von der Größe $R \\beta \\nu / N$ bestünde.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 540,
+      "bottomRightX": 633,
+      "bottomRightY": 688,
+      "content": "Wir wollen noch die mittlere Größe der Energiequanten der „schwarzen Strahlung“ mit der mittleren lebendigen Kraft der Schwerpunktsbewegung eines Moleküls bei der nämlichen Temperatur vergleichen. Letztere ist $\\frac{3}{2} (R/N) T$, während man für die mittlere Größe des Energiequantums unter Zugrundelegung der Wienschen Formel erhält:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 209,
+      "topLeftY": 702,
+      "bottomRightX": 497,
+      "bottomRightY": 857,
+      "content": "$$\\frac{\\int_0^\\infty \\alpha \\nu^3 e^{-\\frac{\\beta \\nu}{T}} d\\nu}{\\int_0^\\infty \\frac{N}{R \\beta \\nu} \\alpha \\nu^3 e^{-\\frac{\\beta \\nu}{T}} d\\nu} = 3 \\frac{R}{N} T.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 869,
+      "bottomRightX": 635,
+      "bottomRightY": 994,
+      "content": "Wenn sich nun monochromatische Strahlung (von hinreichend kleiner Dichte) bezüglich der Abhängigkeit der Entropie vom Volumen wie ein diskontinuierliches Medium verhält, welches aus Energiequanten von der Größe $R \\beta \\nu / N$ besteht, so liegt es nahe, zu untersuchen, ob auch die Gesetze der",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

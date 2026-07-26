@@ -1,0 +1,110 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 91,
+    "height": 1020,
+    "width": 776
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 252,
+      "topLeftY": 93,
+      "bottomRightX": 524,
+      "bottomRightY": 111,
+      "content": "Supplement to “Nature,” April 14, 1928",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 627,
+      "topLeftY": 93,
+      "bottomRightX": 655,
+      "bottomRightY": 109,
+      "content": "587",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 119,
+      "bottomRightX": 382,
+      "bottomRightY": 479,
+      "content": "In the characteristic vibrations of Schrödinger’s wave equation we have, as mentioned, an adequate representation of the stationary states of an atom allowing an unambiguous definition of the energy of the system by means of the general quantum relation (1). This entails, however, that in the interpretation of observations, a fundamental renunciation regarding the space-time description is unavoidable. In fact, the consistent application of the concept of stationary states excludes, as we shall see, any specification regarding the behaviour of the separate particles in the atom. In problems where a description of this behaviour is essential, we are bound to use the general solution of the wave equation which is obtained by superposition of characteristic solutions. We meet here with a complementarity of the possibilities of definition quite analogous to that which we have considered earlier in connexion with the properties of light and free material particles. Thus, while the definition of energy and momentum of individuals is attached to the idea of a harmonic elementary wave, every space-time feature of the description of phenomena is, as we have seen, based on a consideration of the interferences taking place inside a group of such elementary waves. Also in the present case the agreement between the possibilities of observation and those of definition can be directly shown.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 477,
+      "bottomRightX": 381,
+      "bottomRightY": 798,
+      "content": "According to the quantum postulate any observation regarding the behaviour of the electron in the atom will be accompanied by a change in the state of the atom. As stressed by Heisenberg, this change will, in the case of atoms in stationary states of low quantum number, consist in general in the ejection of the electron from the atom. A description of the ‘orbit’ of the electron in the atom with the aid of subsequent observations is hence impossible in such a case. This is connected with the circumstance that from characteristic vibrations with only a few nodes no wave packages can be built up which would even approximately represent the ‘motion’ of a particle. The complementary nature of the description, however, appears particularly in that the use of observations concerning the behaviour of particles in the atom rests on the possibility of neglecting, during the process of observation, the interaction between the particles, thus regarding them as free. This requires, however, that the duration of the process is short compared with the natural periods of the atom, which again means that the uncertainty in the knowledge of the energy transferred in the process is large compared to the energy differences between neighbouring stationary states.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 796,
+      "bottomRightX": 381,
+      "bottomRightY": 922,
+      "content": "In judging the possibilities of observation it must, on the whole, be kept in mind that the wave mechanical solutions can be visualised only in so far as they can be described with the aid of the concept of free particles. Here the difference between classical mechanics and the quantum theoretical treatment of the problem of interaction appears most strikingly. In the former such a restriction is unnecessary, because the ‘particles’ are here endowed with an immediate ‘reality,’",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 391,
+      "topLeftY": 119,
+      "bottomRightX": 670,
+      "bottomRightY": 283,
+      "content": "independently of their being free or bound. This situation is particularly important in connexion with the consistent utilisation of Schrödinger’s electric density as a measure of the probability for electrons being present within given space regions of the atom. Remembering the restriction mentioned, this interpretation is seen to be a simple consequence of the assumption that the probability of the presence of a free electron is expressed by the electric density associated with the wave-field in a similar way to that by which the probability of the presence of a light quantum is given by the energy density of the radiation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 391,
+      "topLeftY": 281,
+      "bottomRightX": 670,
+      "bottomRightY": 577,
+      "content": "As already mentioned, the means for a general consistent utilisation of the classical concepts in the quantum theory have been created through the transformation theory of Dirac and Jordan, by the aid of which Heisenberg has formulated his general uncertainty relation (4). In this theory also the Schrödinger wave equation has obtained an instructive application. In fact, the characteristic solutions of this equation appear as auxiliary functions which define a transformation from matrices with indices representing the energy values of the system to other matrices, the indices of which are the possible values of the space coordinates. It is also of interest in this connexion to mention that Jordan and Klein (*Zeitsch. f. Phys.*, 45, 751; 1927) have recently arrived at the formulation of the problem of interaction expressed by the Schrödinger wave equation, taking as starting-point the wave representation of individual particles and applying a symbolic method closely related to the deep-going treatment of the radiation problem developed by Dirac from the point of view of the matrix theory, to which we shall return below.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 426,
+      "topLeftY": 582,
+      "bottomRightX": 633,
+      "bottomRightY": 596,
+      "content": "#### 6. REALITY OF STATIONARY STATES.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 391,
+      "topLeftY": 598,
+      "bottomRightX": 670,
+      "bottomRightY": 871,
+      "content": "In the conception of stationary states we are, as mentioned, concerned with a characteristic application of the quantum postulate. By its very nature this conception means a complete renunciation as regards a time description. From the point of view taken here, just this renunciation forms the necessary condition for an unambiguous definition of the energy of the atom. Moreover, the conception of a stationary state involves, strictly speaking, the exclusion of all interactions with individuals not belonging to the system. The fact that such a closed system is associated with a particular energy value may be considered as an immediate expression for the claim of causality contained in the theorem of conservation of energy. This circumstance justifies the assumption of the supra-mechanical stability of the stationary states, according to which the atom, before as well as after an external influence, always will be found in a well-defined state, and which forms the basis for the use of the quantum postulate in problems concerning atomic structure.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 391,
+      "topLeftY": 870,
+      "bottomRightX": 670,
+      "bottomRightY": 921,
+      "content": "In a judgment of the well-known paradoxes which this assumption entails for the description of collision and radiation reactions, it is essential to consider the limitations of the possibilities of",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 332,
+      "topLeftY": 951,
+      "bottomRightX": 473,
+      "bottomRightY": 963,
+      "content": "© 1928 Nature Publishing Group",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

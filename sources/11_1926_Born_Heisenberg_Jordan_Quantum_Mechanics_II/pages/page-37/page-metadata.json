@@ -1,0 +1,137 @@
+{
+  "index": 36,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 102,
+      "bottomRightX": 418,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 551,
+      "topLeftY": 102,
+      "bottomRightX": 580,
+      "bottomRightY": 117,
+      "content": "593",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 138,
+      "bottomRightX": 581,
+      "bottomRightY": 197,
+      "content": "im Sinne von (31), Kap. 3, zu interpretieren sind; diese Differentiallösungen sind dann in gewöhnlicher Weise orthogonal, aber nicht auf 1, sondern auf das Differential der Basisfunktion $\\varphi(W)$ normiert.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 206,
+      "bottomRightX": 581,
+      "bottomRightY": 263,
+      "content": "Die Gesamtheit der diskreten Werte $x_{kn}$ und der in einem Index diskret, im anderen kontinuierlich verteilten $x_k(W)$ bildet die Elemente der „orthogonalen“ Matrix:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 272,
+      "bottomRightX": 403,
+      "bottomRightY": 291,
+      "content": "$$S = (x_{kn}, x_k(W) \\, dW),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 303,
+      "bottomRightX": 368,
+      "bottomRightY": 319,
+      "content": "die man schematisch so darstellen kann:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 330,
+      "bottomRightX": 581,
+      "bottomRightY": 446,
+      "content": "$$S = \\left( \\begin{array}{c} \\uparrow \\quad \\downarrow \\quad \\downarrow \\\\ \\downarrow \\quad \\downarrow \\quad \\downarrow \\\\ \\uparrow \\quad \\downarrow \\quad \\downarrow \\quad \\downarrow \\\\ \\downarrow \\quad \\downarrow \\quad \\downarrow \\quad \\downarrow \\end{array} \\right) \\quad (33)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 459,
+      "bottomRightX": 581,
+      "bottomRightY": 498,
+      "content": "Die Orthogonalitäts- und Normalisierungsgleichungen für die ganze Matrix zerfallen in vier verschiedene Typen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 141,
+      "topLeftY": 510,
+      "bottomRightX": 581,
+      "bottomRightY": 612,
+      "content": "$$\\left. \\begin{array}{l} \\sum_k x_{km} x_{kn}^* = \\delta_{mn}; \\\\ \\sum_k x_{kn} x_k^*(W) \\, dW = 0; \\quad \\sum_k x_k(W) \\, dW \\cdot x_{kn}^* = 0; \\\\ \\sum_k x_k(W') \\, dW' \\, x_k^*(W'') \\, dW'' = d\\varphi. \\end{array} \\right\\} \\quad (34)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 622,
+      "bottomRightX": 582,
+      "bottomRightY": 660,
+      "content": "Man kann aber auch die Orthogonalitätsrelationen für die Kolonnen anschreiben; diese lauten:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 175,
+      "topLeftY": 672,
+      "bottomRightX": 581,
+      "bottomRightY": 757,
+      "content": "$$\\begin{aligned} &\\sum_n x_{kn} x_{ln}^* + \\int \\frac{x_k(W) \\, dW \\cdot x_l^*(W) \\, dW}{d\\varphi} \\\\ &= \\sum_n x_{kn} x_{ln}^* + \\int \\frac{dW}{\\varphi'} x_k(W) x_l^*(W) = \\delta_{kl}, \\end{aligned} \\quad (35)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 760,
+      "bottomRightX": 277,
+      "bottomRightY": 795,
+      "content": "wo $\\varphi' = \\frac{d\\varphi}{dW}$ gesetzt ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 807,
+      "bottomRightX": 582,
+      "bottomRightY": 845,
+      "content": "Mit Hilfe dieser Matrix hat man die Variablen $x_n$ in neue $y_n, y(\\varphi) \\, d\\varphi$ zu transformieren; man setze:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 851,
+      "bottomRightX": 582,
+      "bottomRightY": 917,
+      "content": "$$\\left. \\begin{array}{l} y_n = \\sum_k x_{kn} \\cdot x_k \\\\ y(\\varphi) \\, d\\varphi = \\sum_k x_k(W) \\, dW \\cdot x_k. \\end{array} \\right\\} \\quad (36)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

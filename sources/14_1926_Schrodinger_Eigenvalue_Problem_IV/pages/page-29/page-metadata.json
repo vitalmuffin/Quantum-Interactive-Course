@@ -1,0 +1,119 @@
+{
+  "index": 28,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 175,
+      "topLeftY": 44,
+      "bottomRightX": 438,
+      "bottomRightY": 65,
+      "content": "Quantisierung als Eigenwertproblem",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 520,
+      "topLeftY": 44,
+      "bottomRightX": 551,
+      "bottomRightY": 62,
+      "content": "137",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 80,
+      "bottomRightX": 433,
+      "bottomRightY": 155,
+      "content": "$$(4') \\left\\{ \\begin{array}{l} \\frac{\\partial \\psi}{\\partial t} = \\frac{h}{4\\pi i} \\left( \\Delta - \\frac{8\\pi^2}{h^2} V \\right) \\psi \\\\ \\frac{\\partial \\psi}{\\partial t} = - \\frac{h}{4\\pi i} \\left( \\Delta - \\frac{8\\pi^2}{h^2} V \\right) \\bar{\\psi} \\end{array} \\right.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 163,
+      "bottomRightX": 487,
+      "bottomRightY": 185,
+      "content": "multipliziere man mit $\\varrho \\bar{\\psi}$ bzw. $\\varrho \\psi$ und addiere sie:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 193,
+      "bottomRightX": 459,
+      "bottomRightY": 227,
+      "content": "$$(39) \\quad \\frac{\\partial}{\\partial t} (\\varrho \\psi \\bar{\\psi}) = \\frac{h}{4\\pi i} \\varrho \\cdot (\\bar{\\psi} \\Delta \\psi - \\psi \\Delta \\bar{\\psi}) .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 235,
+      "bottomRightX": 552,
+      "bottomRightY": 297,
+      "content": "Um die Umformung der rechten Seite in extenso durchzuführen, muß man sich an die explizite Gestalt unseres mehrdimensionalen nichteuklidischen Laplaceschen Operators erinnern$^{1)}$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 302,
+      "bottomRightX": 441,
+      "bottomRightY": 348,
+      "content": "$$(40) \\quad \\varrho \\Delta = \\sum_k \\frac{\\partial}{\\partial q_k} \\left[ \\varrho T_{p_k} \\left( q_i, \\frac{\\partial \\psi}{\\partial q_i} \\right) \\right] .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 352,
+      "bottomRightX": 496,
+      "bottomRightY": 373,
+      "content": "Man findet dann leicht durch eine kleine Umformung:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 382,
+      "bottomRightX": 504,
+      "bottomRightY": 472,
+      "content": "$$(41) \\left\\{ \\begin{array}{l} \\frac{\\partial}{\\partial t} (\\varrho \\psi \\bar{\\psi}) = \\frac{h}{4\\pi i} \\sum_k \\frac{\\partial}{\\partial q_k} \\left[ \\varrho \\bar{\\psi} T_{p_k} \\left( q_i, \\frac{\\partial \\psi}{\\partial q_i} \\right) - \\right. \\\\ \\left. - \\varrho \\psi T_{p_k} \\left( q_i, \\frac{\\partial \\psi}{\\partial q_i} \\right) \\right] . \\end{array} \\right.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 482,
+      "bottomRightX": 554,
+      "bottomRightY": 565,
+      "content": "Die rechte Seite erscheint als Divergenz eines mehrdimensionalen reellen Vektors, welcher offenbar als die *Stromdichte der Gewichtsfunktion* im Konfigurationenraum zu interpretieren ist. Gl. (41) ist die *Kontinuitätsgleichung* der Gewichtsfunktion.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 565,
+      "bottomRightX": 555,
+      "bottomRightY": 730,
+      "content": "Aus ihr kann man die *Kontinuitätsgleichung der Elektrizität* gewinnen, und zwar gilt eine solche einzeln für die „von jedem einzelnen Massenpunkt herrührende“ Ladungsdichte. Fassen wir etwa den $\\alpha$-ten Massenpunkt ins Auge, seine „Ladung“ sei $e_a$, seine Masse $m_a$, sein Koordinatenraum sei einfachheitshalber durch kartesische Koordinaten beschrieben, $x_a, y_a, z_a$. Wir bezeichnen das Produkt der Differentiale der *übrigen* Koordinaten abkürzend mit $dx'$. Über sie integriere man die",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 748,
+      "bottomRightX": 557,
+      "bottomRightY": 886,
+      "content": "1) Ann. d. Phys. 79. S. 748. 1926, Gleichung (31). Die dort mit $\\Delta_p - \\frac{1}{2}$ bezeichnete Größe ist unsere „Dichtefunktion“ $\\varrho(x)$ (z. B. $r^2$ sin $\\vartheta$ für ein Polarkoordinatentripel). $T$ ist die kinetische Energie als Funktion der Lagekoordinaten und *Impulse*, der Index bei $T$ meint die Ableitung nach einer Impulskoordinate. — In Gleichung (31) und (32) a. a. O. wurde leider versehentlich der Index $k$ zweimal verwendet, einmal als Summationsindex, dann aber auch als repräsentativer Index im Argument der Funktionen.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

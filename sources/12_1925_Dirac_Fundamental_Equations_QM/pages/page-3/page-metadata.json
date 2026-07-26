@@ -1,0 +1,110 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 106,
+    "height": 1015,
+    "width": 668
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 147,
+      "topLeftY": 82,
+      "bottomRightX": 587,
+      "bottomRightY": 103,
+      "content": "*Fundamental Equations of Quantum Mechanics.* 643",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 117,
+      "bottomRightX": 588,
+      "bottomRightY": 301,
+      "content": "say, for brevity. Substitute these values in the equations of motion, and equate the coefficients on either side of each harmonic term. The equations obtained in this way (which we shall call the A equations) will determine each of the amplitudes $x_a$ and frequencies $(\\alpha\\omega)$, (the frequencies being measured in radians per unit time). The solution will not be unique. There will be a $u$-fold infinity of solutions, which may be labelled by taking the amplitudes and frequencies to be functions of $u$ constants $\\kappa_1 \\dots \\kappa_u$. Each $x_a$ and $(\\alpha\\omega)$ is now a function of two sets of numbers, the $\\alpha$'s and the $\\kappa$'s, and may be written $x_{a\\kappa}, (\\alpha\\omega)_\\kappa$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 304,
+      "bottomRightX": 588,
+      "bottomRightY": 653,
+      "content": "In the quantum solution of the problem, according to Heisenberg, we still assume that each co-ordinate can be represented by harmonic components of the form $\\exp. i\\omega t$, the amplitude and frequency of each depending on two sets of numbers $n_1 \\dots n_u$ and $m_1 \\dots m_u$, in this case all integers, and being written $x(nm)$, $\\omega(nm)$. The differences $n_r - m_r$ correspond to the previous $\\alpha_r$, but neither the $n$'s nor any functions of the $n$'s and $m$'s play the part of the previous $\\kappa$'s in pointing out to which solution each particular harmonic component belongs. We cannot, for instance, take together all the components for which the $n$'s have a given set of values, and say that these by themselves form a single complete solution of the equations of motion. The quantum solutions are all interlocked, and must be considered as a single whole. The effect of this mathematically is that, while on the classical theory each of the A equations is a relation between amplitudes and frequencies having one particular set of $\\kappa$'s, the amplitudes and frequencies occurring in a quantum A equation do not have one particular set of values for the $n$'s, or for any functions of the $n$'s and $m$'s, but have their $n$'s and $m$'s related in a special way, which will appear later.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 655,
+      "bottomRightX": 439,
+      "bottomRightY": 674,
+      "content": "On the classical theory we have the obvious relation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 686,
+      "bottomRightX": 428,
+      "bottomRightY": 704,
+      "content": "$$(\\alpha\\omega)_\\kappa + (\\beta\\omega)_\\kappa = (\\alpha + \\beta, \\omega)_\\kappa.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 720,
+      "bottomRightX": 584,
+      "bottomRightY": 759,
+      "content": "Following Heisenberg, we assume that the corresponding relation on the quantum theory is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 774,
+      "bottomRightX": 518,
+      "bottomRightY": 792,
+      "content": "$$\\omega(n, n - \\alpha) + \\omega(n - \\alpha, n - \\alpha - \\beta) = \\omega(n, n - \\alpha - \\beta)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 791,
+      "bottomRightX": 93,
+      "bottomRightY": 806,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 807,
+      "bottomRightX": 582,
+      "bottomRightY": 825,
+      "content": "$$\\omega(nm) + \\omega(mk) = \\omega(nk). \\quad (1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 842,
+      "bottomRightX": 582,
+      "bottomRightY": 900,
+      "content": "This means that $\\omega(nm)$ is of the form $\\Omega(n) - \\Omega(m)$, the $\\Omega$'s being frequency levels. On Bohr's theory these would be $2\\pi/h$ times the energy levels, but we do not need to assume this.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 487,
+      "topLeftY": 907,
+      "bottomRightX": 533,
+      "bottomRightY": 923,
+      "content": "2 x 2",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 85,
+      "topLeftY": 2,
+      "bottomRightX": 127,
+      "bottomRightY": 21,
+      "content": "136.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 314,
+      "topLeftY": 2,
+      "bottomRightX": 410,
+      "bottomRightY": 21,
+      "content": "A. Einstein.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 43,
+      "bottomRightX": 641,
+      "bottomRightY": 114,
+      "content": "Soll die Strahlungsenergie von der Frequenz $\\nu$ nicht beständig im Ganzen weder vermindert noch vermehrt werden, so muß gelten:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 112,
+      "bottomRightX": 485,
+      "bottomRightY": 152,
+      "content": "$$\\frac{R}{N} T = \\dot{E} = \\dot{E}_\\nu = \\frac{L^3}{8 \\pi \\nu^2} \\varrho_\\nu,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 158,
+      "bottomRightX": 440,
+      "bottomRightY": 197,
+      "content": "$$\\varrho_\\nu = \\frac{R}{N} \\frac{8 \\pi \\nu^2}{L^3} T.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 211,
+      "bottomRightX": 641,
+      "bottomRightY": 401,
+      "content": "Diese als Bedingung des dynamischen Gleichgewichtes gefundene Beziehung entbehrt nicht nur der Übereinstimmung mit der Erfahrung, sondern sie besagt auch, daß in unserem Bilde von einer bestimmten Energieverteilung zwischen Äther und Materie nicht die Rede sein kann. Je weiter nämlich der Schwingungszahlenbereich der Resonatoren gewählt wird, desto größer wird die Strahlungsenergie des Raumes, und wir erhalten in der Grenze",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 411,
+      "bottomRightX": 510,
+      "bottomRightY": 486,
+      "content": "$$\\int_0^\\infty \\varrho_\\nu \\, d\\nu = \\frac{R}{N} \\frac{8 \\pi}{L^3} T \\int_0^\\infty \\nu^2 \\, d\\nu = \\infty.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 504,
+      "bottomRightX": 630,
+      "bottomRightY": 527,
+      "content": "## § 2. Über die Plancksche Bestimmung der Elementarquanta.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 538,
+      "bottomRightX": 641,
+      "bottomRightY": 635,
+      "content": "Wir wollen im folgenden zeigen, daß die von Hrn. Planck gegebene Bestimmung der Elementarquanta von der von ihm aufgestellten Theorie der „schwarzen Strahlung“ bis zu einem gewissen Grade unabhängig ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 635,
+      "bottomRightX": 641,
+      "bottomRightY": 684,
+      "content": "Die allen bisherigen Erfahrungen genügende Plancksche Formel$^{1)}$ für $\\varrho_\\nu$ lautet",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 297,
+      "topLeftY": 690,
+      "bottomRightX": 426,
+      "bottomRightY": 751,
+      "content": "$$\\varrho_\\nu = \\frac{\\alpha \\nu^3}{e^{\\frac{\\beta \\nu}{T}} - 1},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 749,
+      "bottomRightX": 135,
+      "bottomRightY": 769,
+      "content": "wobei",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 276,
+      "topLeftY": 770,
+      "bottomRightX": 438,
+      "bottomRightY": 793,
+      "content": "$$\\alpha = 6,10 \\cdot 10^{-56},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 276,
+      "topLeftY": 802,
+      "bottomRightX": 438,
+      "bottomRightY": 825,
+      "content": "$$\\beta = 4,866 \\cdot 10^{-11}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 834,
+      "bottomRightX": 641,
+      "bottomRightY": 905,
+      "content": "Für große Werte von $T/\\nu$, d. h. für große Wellenlängen und Strahlungsdichten geht diese Formel in der Grenze in folgende über:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 301,
+      "topLeftY": 909,
+      "bottomRightX": 417,
+      "bottomRightY": 946,
+      "content": "$$\\varrho_\\nu = \\frac{\\alpha}{\\beta} \\nu^2 T.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 963,
+      "bottomRightX": 482,
+      "bottomRightY": 984,
+      "content": "1) M. Planck, Ann. d. Phys. 4. p. 561. 1901.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

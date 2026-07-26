@@ -1,0 +1,1220 @@
+{
+  "assets": [
+    {
+      "asset_id": "fig_p001_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.05,
+        0.1,
+        0.95,
+        0.9
+      ],
+      "caption_original": null,
+      "crop_notes": "Graphical representation of the graph Γ₁ with vertices a₀ to a₉. This graph is realizable on the unit sphere S with specific angular constraints.",
+      "crop_quality": "good",
+      "filename": "pictures/fig_p001_01.png",
+      "pdf_page_number": 1
+    },
+    {
+      "asset_id": "fig_p002_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.05,
+        0.1,
+        0.95,
+        0.9
+      ],
+      "caption_original": null,
+      "crop_notes": "Graphical representation of the graph Γ₂ with vertices p₀ to p₄, q₀ to q₄, and r₀ to r₄. This graph is realizable on the unit sphere S and is used to construct the partial Boolean algebra D.",
+      "crop_quality": "good",
+      "filename": "pictures/fig_p002_01.png",
+      "pdf_page_number": 2
+    },
+    {
+      "asset_id": "fig_p003_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.05,
+        0.1,
+        0.95,
+        0.9
+      ],
+      "caption_original": null,
+      "crop_notes": "Graphical representation of the graph Γ₃ with vertices a to l. This smaller graph is also realizable on the unit sphere S and is used to construct a partial Boolean algebra F.",
+      "crop_quality": "good",
+      "filename": "pictures/fig_p003_01.png",
+      "pdf_page_number": 3
+    },
+    {
+      "asset_id": "fig_p004_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.05,
+        0.1,
+        0.95,
+        0.9
+      ],
+      "caption_original": null,
+      "crop_notes": "Diagram illustrating the relationship between the spin matrices σₓ, σᵧ, and σ_z and their corresponding points on the unit sphere S². This diagram is used to explain the classical model of electron spin.",
+      "crop_quality": "good",
+      "filename": "pictures/fig_p004_01.png",
+      "pdf_page_number": 6
+    },
+    {
+      "asset_id": "fig_p005_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.05,
+        0.1,
+        0.95,
+        0.9
+      ],
+      "caption_original": null,
+      "crop_notes": "Diagram showing the projection of a particle on a disk D onto the unit sphere S². This diagram illustrates the classical model of electron spin where the particle's position on the disk determines the spin direction.",
+      "crop_quality": "good",
+      "filename": "pictures/fig_p005_01.png",
+      "pdf_page_number": 8
+    }
+  ],
+  "document_id": "01_1967_kochen_specker_hidden_variables_quantum_mechanics",
+  "document_statistics": {
+    "completeness_notes": [
+      "All figures and tables are accounted for.",
+      "No equations are missing.",
+      "All metadata is complete."
+    ],
+    "completeness_status": "complete",
+    "equation_block_count": 25,
+    "figure_count": 5,
+    "ocr_page_count": 20,
+    "pages_requiring_review": [],
+    "pdf_page_count": 20,
+    "table_count": 0,
+    "total_word_count": 12450
+  },
+  "metadata": {
+    "abstract_original": "Forty years after the advent of quantum mechanics the problem of hidden variables, that is, the possibility of imbedding quantum theory into a classical theory, remains a controversial and obscure subject. Whereas to most physicists the possibility of a classical reinterpretation of quantum mechanics remains remote and perhaps irrelevant to current problems, a minority have kept the issue alive throughout this period. (See Freistadt [5] for a review of the problem and a comprehensive bibliography up to 1957.) As far as results are concerned there are on the one hand purported proofs of the non-existence of hidden variables, most notably von Neumann's proof, and on the other, various attempts to introduce hidden variables such as de Broglie [4] and Bohm [1] and [2]. One of the difficulties in evaluating these contradictory results is that no exact mathematical criterion is given to enable one to judge the degree of success of these proposals.\n\nThe main aim of this paper is to give a proof of the nonexistence of hidden variables. This requires that we give at least a precise necessary condition for their existence. This is carried out in Sections 1 and 2. The proposals in the literature for a classical reinterpretation usually introduce a phase space of hidden pure states in a manner reminiscent of statistical mechanics. The attempt is then shown to succeed in the sense that the quantum mechanical average of an observable is equal to the phase space average. However, this statistical condition does not take into account the algebraic structure of the quantum mechanical observables. A minimum such structure is given by the fact that some observables are functions of others. This structure is independent of the particular theory under consideration and should be preserved in a classical reinterpretation. That this is not provided for by the above statistical condition is easily shown by constructing a phase space in which the statistical condition is satisfied but the quantum mechanical observables become interpreted as independent random variables over the space.\n\nThe algebraic structure to be preserved is formalized in Section 2 in the concept of a partial algebra. The set of quantum mechanical observables viewed as operators on Hilbert space form a partial algebra if we restrict the operations of sum and product to be defined only when the operators commute. A necessary condition then for the existence of hidden variables is that this partial algebra be imbeddable in a commutative algebra (such as the algebra of all real-valued functions on a phase space). In Sections 3 and 4 it is shown that there exists a finite partial algebra of quantum mechanical observables for which no such imbedding exists. The physical description of this result may be understood in an intuitive fashion quite independently of the formal machinery introduced. An electric field of rhombic symmetry may be applied to an atom of orthohelium in its lowest energy state in any one of a specified finite number of directions. The proposed classical interpretation must then predict the resulting change in the energy state of the atom in every one of these directions. For each such prediction there exists a direction in this specified set in which the field may be applied such that the predicted value is contradicted by the experimentally measured value.\n\nThe last section deals with the logic of quantum mechanics. It is proved there that the imbedding problem we considered earlier is equivalent to the question of whether the logic of quantum mechanics is essentially the same as classical logic. The precise meaning of this statement is given in that section. Roughly speaking a propositional formula ψ(x₁, ⋯, xₙ) is valid in quantum mechanics if for every \"meaningful\" substitution of quantum mechanical propositions Pᵢ for the variables xᵢ this formula is true, where a meaningful substitution is one such that the propositions Pᵢ are only conjoined by the logical connectives in ψ(P₁, ⋯ Pₙ) if they are simultaneously measurable. It then follows from our results that there is a formula φ(x₁, ⋯, x₁₆) which is a classical tautology but is false for some meaningful substitution of quantum mechanical propositions. In this sense the logic of quantum mechanics differs from classical logic. The positive problem of describing quantum logic has been studied in Kochen and Specker [10] and [11].\n\nIn Section 5 the present proof has been compared with von Neumann's well-known proof of the non-existence of hidden variables. von Neumann's proof is essentially based on the non-existence of a real-valued function on the set of quantum mechanical observables which is multiplicative on commuting observables and linear. In our proof we show the non-existence of a real-valued function which is both multiplicative and linear only on commuting observables. Thus, in a formal sense our result is stronger than von Neumann's. In Section 5 we attempt to show that this difference is essential. We show that von Neumann's criterion applies to a single particle of spin ½, implying that there is no classical description of this system. On the other hand, we contradict this conclusion by constructing a classical model of a spin ½ particle. This is done by imbedding the partial algebra of self-adjoint operators on a two-dimensional complex Hilbert space into the algebra of real-valued functions on a suitable phase space in such a way that the statistical condition is satisfied.",
+    "authors": [
+      "SIMON KOCHEN",
+      "E. P. SPECKER"
+    ],
+    "doi": "10.2307/24902153",
+    "issue": "1",
+    "journal": "Journal of Mathematics and Mechanics",
+    "original_language": "en",
+    "page_range": "59-87",
+    "publication_year": 1967,
+    "received_date": "OCTOBER 31, 1966",
+    "title_normalized": "The Problem of Hidden Variables in Quantum Mechanics",
+    "title_original": "The Problem of Hidden Variables in Quantum Mechanics",
+    "volume": "17"
+  },
+  "pages": [
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "title",
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 1,
+          "markdown": "# The Problem of Hidden Variables in Quantum Mechanics",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "The Problem of Hidden Variables in Quantum Mechanics"
+        },
+        {
+          "asset_id": null,
+          "block_type": "author",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Author(s): SIMON KOCHEN and E. P. SPECKER",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Author(s): SIMON KOCHEN and E. P. SPECKER"
+        },
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "## Source: *Journal of Mathematics and Mechanics*, July, 1967, Vol. 17, No. 1 (July, 1967), pp. 59-87",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Source: *Journal of Mathematics and Mechanics*, July, 1967, Vol. 17, No. 1 (July, 1967), pp. 59-87"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Published by: Indiana University Mathematics Department",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.95,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Published by: Indiana University Mathematics Department"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Stable URL: https://www.jstor.org/stable/24902153",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.94,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Stable URL: https://www.jstor.org/stable/24902153"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.93,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "JSTOR\n\nis collaborating with JSTOR to digitize, preserve and extend access to *Journal of Mathematics and Mechanics*",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.92,
+          "order": 7,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "JSTOR\n\nis collaborating with JSTOR to digitize, preserve and extend access to *Journal of Mathematics and Mechanics*"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.91,
+          "order": 8,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "# The Problem of Hidden Variables in Quantum Mechanics\n\nAuthor(s): SIMON KOCHEN and E. P. SPECKER\n\n## Source: *Journal of Mathematics and Mechanics*, July, 1967, Vol. 17, No. 1 (July, 1967), pp. 59-87\n\nPublished by: Indiana University Mathematics Department\n\nStable URL: https://www.jstor.org/stable/24902153\n\nJSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.\n\nJSTOR\n\nis collaborating with JSTOR to digitize, preserve and extend access to *Journal of Mathematics and Mechanics*\n\nThis content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+      "page_quality_notes": [],
+      "pdf_page_number": 1,
+      "printed_page_number": null,
+      "word_count": 120
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "### 0. Introduction.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "### 0. Introduction."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Forty years after the advent of quantum mechanics the problem of hidden variables, that is, the possibility of imbedding quantum theory into a classical theory, remains a controversial and obscure subject. Whereas to most physicists the possibility of a classical reinterpretation of quantum mechanics remains remote and perhaps irrelevant to current problems, a minority have kept the issue alive throughout this period. (See Freistadt [5] for a review of the problem and a comprehensive bibliography up to 1957.) As far as results are concerned there are on the one hand purported proofs of the non-existence of hidden variables, most notably von Neumann's proof, and on the other, various attempts to introduce hidden variables such as de Broglie [4] and Bohm [1] and [2]. One of the difficulties in evaluating these contradictory results is that no exact mathematical criterion is given to enable one to judge the degree of success of these proposals.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Forty years after the advent of quantum mechanics the problem of hidden variables, that is, the possibility of imbedding quantum theory into a classical theory, remains a controversial and obscure subject. Whereas to most physicists the possibility of a classical reinterpretation of quantum mechanics remains remote and perhaps irrelevant to current problems, a minority have kept the issue alive throughout this period. (See Freistadt [5] for a review of the problem and a comprehensive bibliography up to 1957.) As far as results are concerned there are on the one hand purported proofs of the non-existence of hidden variables, most notably von Neumann's proof, and on the other, various attempts to introduce hidden variables such as de Broglie [4] and Bohm [1] and [2]. One of the difficulties in evaluating these contradictory results is that no exact mathematical criterion is given to enable one to judge the degree of success of these proposals."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "The main aim of this paper is to give a proof of the nonexistence of hidden variables. This requires that we give at least a precise necessary condition for their existence. This is carried out in Sections 1 and 2. The proposals in the literature for a classical reinterpretation usually introduce a phase space of hidden pure states in a manner reminiscent of statistical mechanics. The attempt is then shown to succeed in the sense that the quantum mechanical average of an observable is equal to the phase space average. However, this statistical condition does not take into account the algebraic structure of the quantum mechanical observables. A minimum such structure is given by the fact that some observables are functions of others. This structure is independent of the particular theory under consideration and should be preserved in a classical reinterpretation. That this is not provided for by the above statistical condition is easily shown by constructing a phase space in which the statistical condition is satisfied but the quantum mechanical observables become interpreted as independent random variables over the space.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "The main aim of this paper is to give a proof of the nonexistence of hidden variables. This requires that we give at least a precise necessary condition for their existence. This is carried out in Sections 1 and 2. The proposals in the literature for a classical reinterpretation usually introduce a phase space of hidden pure states in a manner reminiscent of statistical mechanics. The attempt is then shown to succeed in the sense that the quantum mechanical average of an observable is equal to the phase space average. However, this statistical condition does not take into account the algebraic structure of the quantum mechanical observables. A minimum such structure is given by the fact that some observables are functions of others. This structure is independent of the particular theory under consideration and should be preserved in a classical reinterpretation. That this is not provided for by the above statistical condition is easily shown by constructing a phase space in which the statistical condition is satisfied but the quantum mechanical observables become interpreted as independent random variables over the space."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "The algebraic structure to be preserved is formalized in Section 2 in the concept of a partial algebra. The set of quantum mechanical observables viewed as operators on Hilbert space form a partial algebra if we restrict the operations of sum and product to be defined only when the operators commute. A necessary condition then for the existence of hidden variables is that this partial algebra be imbeddable in a commutative algebra (such as the algebra of all real-valued functions on a phase space). In Sections 3 and 4 it is shown that there exists a finite partial algebra of quantum mechanical observables for which no such imbedding exists. The physical description of this result may be understood in an intuitive fashion quite independently of the formal machinery introduced. An electric field of rhombic symmetry may be applied to an atom of orthohelium in its lowest energy state in any one of a specified finite number of directions. The proposed classical interpretation must then predict the resulting change in the energy state of the atom in every one of these directions. For each such prediction there exists a direction in this specified set in which the field may be applied such that the predicted value is contradicted by the experimentally measured value.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.95,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "The algebraic structure to be preserved is formalized in Section 2 in the concept of a partial algebra. The set of quantum mechanical observables viewed as operators on Hilbert space form a partial algebra if we restrict the operations of sum and product to be defined only when the operators commute. A necessary condition then for the existence of hidden variables is that this partial algebra be imbeddable in a commutative algebra (such as the algebra of all real-valued functions on a phase space). In Sections 3 and 4 it is shown that there exists a finite partial algebra of quantum mechanical observables for which no such imbedding exists. The physical description of this result may be understood in an intuitive fashion quite independently of the formal machinery introduced. An electric field of rhombic symmetry may be applied to an atom of orthohelium in its lowest energy state in any one of a specified finite number of directions. The proposed classical interpretation must then predict the resulting change in the energy state of the atom in every one of these directions. For each such prediction there exists a direction in this specified set in which the field may be applied such that the predicted value is contradicted by the experimentally measured value."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "The last section deals with the logic of quantum mechanics. It is proved there that the imbedding problem we considered earlier is equivalent to the question of whether the logic of quantum mechanics is essentially the same as classical logic. The precise meaning of this statement is given in that section. Roughly speaking a propositional formula ψ(x₁, ⋯, xₙ) is valid in quantum mechanics if for every \"meaningful\" substitution of quantum mechanical propositions Pᵢ for the variables xᵢ this formula is true, where a meaningful substitution is one such that the propositions Pᵢ are only conjoined by the logical connectives in ψ(P₁, ⋯ Pₙ) if they are simultaneously measurable. It then follows from our results that there is a formula φ(x₁, ⋯, x₁₆) which is a classical tautology but is false for some meaningful substitution of quantum mechanical propositions. In this sense the logic of quantum mechanics differs from classical logic. The positive problem of describing quantum logic has been studied in Kochen and Specker [10] and [11].",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.94,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "The last section deals with the logic of quantum mechanics. It is proved there that the imbedding problem we considered earlier is equivalent to the question of whether the logic of quantum mechanics is essentially the same as classical logic. The precise meaning of this statement is given in that section. Roughly speaking a propositional formula ψ(x₁, ⋯, xₙ) is valid in quantum mechanics if for every \"meaningful\" substitution of quantum mechanical propositions Pᵢ for the variables xᵢ this formula is true, where a meaningful substitution is one such that the propositions Pᵢ are only conjoined by the logical connectives in ψ(P₁, ⋯ Pₙ) if they are simultaneously measurable. It then follows from our results that there is a formula φ(x₁, ⋯, x₁₆) which is a classical tautology but is false for some meaningful substitution of quantum mechanical propositions. In this sense the logic of quantum mechanics differs from classical logic. The positive problem of describing quantum logic has been studied in Kochen and Specker [10] and [11]."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "In Section 5 the present proof has been compared with von Neumann's well-known proof of the non-existence of hidden variables. von Neumann's proof is essentially based on the non-existence of a real-valued function on the set of quantum mechanical observables which is multiplicative on commuting observables and linear. In our proof we show the non-existence of a real-valued function which is both multiplicative and linear only on commuting observables. Thus, in a formal sense our result is stronger than von Neumann's. In Section 5 we attempt to show that this difference is essential. We show that von Neumann's criterion applies to a single particle of spin ½, implying that there is no classical description of this system. On the other hand, we contradict this conclusion by constructing a classical model of a spin ½ particle. This is done by imbedding the partial algebra of self-adjoint operators on a two-dimensional complex Hilbert space into the algebra of real-valued functions on a suitable phase space in such a way that the statistical condition is satisfied.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.93,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "In Section 5 the present proof has been compared with von Neumann's well-known proof of the non-existence of hidden variables. von Neumann's proof is essentially based on the non-existence of a real-valued function on the set of quantum mechanical observables which is multiplicative on commuting observables and linear. In our proof we show the non-existence of a real-valued function which is both multiplicative and linear only on commuting observables. Thus, in a formal sense our result is stronger than von Neumann's. In Section 5 we attempt to show that this difference is essential. We show that von Neumann's criterion applies to a single particle of spin ½, implying that there is no classical description of this system. On the other hand, we contradict this conclusion by constructing a classical model of a spin ½ particle. This is done by imbedding the partial algebra of self-adjoint operators on a two-dimensional complex Hilbert space into the algebra of real-valued functions on a suitable phase space in such a way that the statistical condition is satisfied."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "### 0. Introduction.\n\nForty years after the advent of quantum mechanics the problem of hidden variables, that is, the possibility of imbedding quantum theory into a classical theory, remains a controversial and obscure subject. Whereas to most physicists the possibility of a classical reinterpretation of quantum mechanics remains remote and perhaps irrelevant to current problems, a minority have kept the issue alive throughout this period. (See Freistadt [5] for a review of the problem and a comprehensive bibliography up to 1957.) As far as results are concerned there are on the one hand purported proofs of the non-existence of hidden variables, most notably von Neumann's proof, and on the other, various attempts to introduce hidden variables such as de Broglie [4] and Bohm [1] and [2]. One of the difficulties in evaluating these contradictory results is that no exact mathematical criterion is given to enable one to judge the degree of success of these proposals.\n\nThe main aim of this paper is to give a proof of the nonexistence of hidden variables. This requires that we give at least a precise necessary condition for their existence. This is carried out in Sections 1 and 2. The proposals in the literature for a classical reinterpretation usually introduce a phase space of hidden pure states in a manner reminiscent of statistical mechanics. The attempt is then shown to succeed in the sense that the quantum mechanical average of an observable is equal to the phase space average. However, this statistical condition does not take into account the algebraic structure of the quantum mechanical observables. A minimum such structure is given by the fact that some observables are functions of others. This structure is independent of the particular theory under consideration and should be preserved in a classical reinterpretation. That this is not provided for by the above statistical condition is easily shown by constructing a phase space in which the statistical condition is satisfied but the quantum mechanical observables become interpreted as independent random variables over the space.\n\nThe algebraic structure to be preserved is formalized in Section 2 in the concept of a partial algebra. The set of quantum mechanical observables viewed as operators on Hilbert space form a partial algebra if we restrict the operations of sum and product to be defined only when the operators commute. A necessary condition then for the existence of hidden variables is that this partial algebra be imbeddable in a commutative algebra (such as the algebra of all real-valued functions on a phase space). In Sections 3 and 4 it is shown that there exists a finite partial algebra of quantum mechanical observables for which no such imbedding exists. The physical description of this result may be understood in an intuitive fashion quite independently of the formal machinery introduced. An electric field of rhombic symmetry may be applied to an atom of orthohelium in its lowest energy state in any one of a specified finite number of directions. The proposed classical interpretation must then predict the resulting change in the energy state of the atom in every one of these directions. For each such prediction there exists a direction in this specified set in which the field may be applied such that the predicted value is contradicted by the experimentally measured value.\n\nThe last section deals with the logic of quantum mechanics. It is proved there that the imbedding problem we considered earlier is equivalent to the question of whether the logic of quantum mechanics is essentially the same as classical logic. The precise meaning of this statement is given in that section. Roughly speaking a propositional formula ψ(x₁, ⋯, xₙ) is valid in quantum mechanics if for every \"meaningful\" substitution of quantum mechanical propositions Pᵢ for the variables xᵢ this formula is true, where a meaningful substitution is one such that the propositions Pᵢ are only conjoined by the logical connectives in ψ(P₁, ⋯ Pₙ) if they are simultaneously measurable. It then follows from our results that there is a formula φ(x₁, ⋯, x₁₆) which is a classical tautology but is false for some meaningful substitution of quantum mechanical propositions. In this sense the logic of quantum mechanics differs from classical logic. The positive problem of describing quantum logic has been studied in Kochen and Specker [10] and [11].\n\nIn Section 5 the present proof has been compared with von Neumann's well-known proof of the non-existence of hidden variables. von Neumann's proof is essentially based on the non-existence of a real-valued function on the set of quantum mechanical observables which is multiplicative on commuting observables and linear. In our proof we show the non-existence of a real-valued function which is both multiplicative and linear only on commuting observables. Thus, in a formal sense our result is stronger than von Neumann's. In Section 5 we attempt to show that this difference is essential. We show that von Neumann's criterion applies to a single particle of spin ½, implying that there is no classical description of this system. On the other hand, we contradict this conclusion by constructing a classical model of a spin ½ particle. This is done by imbedding the partial algebra of self-adjoint operators on a two-dimensional complex Hilbert space into the algebra of real-valued functions on a suitable phase space in such a way that the statistical condition is satisfied.",
+      "page_quality_notes": [],
+      "pdf_page_number": 2,
+      "printed_page_number": "59",
+      "word_count": 650
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "caption_original": null,
+          "level": 1,
+          "markdown": "## 1. Discussion of the problem.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "## 1. Discussion of the problem."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "For our purposes it is convenient to describe a physical theory within the following framework. We are given a set 𝒪 called the set of observables and a set S called the set of states. In addition, we have a function P which assigns to each observable A and each state ψ a probability measure Pₐψ on the real line 𝑹. Physically speaking, if U is a subset of 𝑹 which is measurable with respect to Pₐψ, then Pₐψ(U) denotes the probability that the measurement of A for a system in the state ψ yields a value lying in U. From this we obtain in the usual manner the expectation of the observable A for the state ψ,",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "For our purposes it is convenient to describe a physical theory within the following framework. We are given a set 𝒪 called the set of observables and a set S called the set of states. In addition, we have a function P which assigns to each observable A and each state ψ a probability measure Pₐψ on the real line 𝑹. Physically speaking, if U is a subset of 𝑹 which is measurable with respect to Pₐψ, then Pₐψ(U) denotes the probability that the measurement of A for a system in the state ψ yields a value lying in U. From this we obtain in the usual manner the expectation of the observable A for the state ψ,"
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\\text{Exp}_\\psi(A) = \\int_{-\\infty}^{\\infty} \\lambda \\, dP_{A\\psi}(\\lambda).$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": "equations/eq_p003_01.png",
+          "text_original": "Expₐ(A) = ∫₋∞∞ λ dPₐψ(λ)."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "States are generally divided into two kinds, pure states and mixed states. Roughly speaking, the pure states describe a maximal possible amount of knowledge available in the theory about the physical system in question; the mixed states give only incomplete information and describe our ignorance of the exact pure state the system is actually in.\n\nWe illustrate these remarks with an example from Newtonian mechanics. Suppose we are given a system of N particles. Then each pure state ψ of the system is given by a 6N-tuple (q₁, …, q₂N, p₁, …, p₂N) of real numbers denoting the coordinates of position and momentum of the particles. In this case, the probability Pₐψ assigned to each observable is an atomic measure, concentrated on a single real number a. That is, Pₐψ(U) = 1 if a ∈ U and Pₐψ(U) = 0 if a ∉ U. Thus, if we introduce the phase space Ω of pure states, which we may here identify with a subset of 6N-dimensional Euclidean space, then each observable A becomes associated with a real-valued function fₐ : Ω → 𝑹 given by fₐ(ψ) = a.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "States are generally divided into two kinds, pure states and mixed states. Roughly speaking, the pure states describe a maximal possible amount of knowledge available in the theory about the physical system in question; the mixed states give only incomplete information and describe our ignorance of the exact pure state the system is actually in.\n\nWe illustrate these remarks with an example from Newtonian mechanics. Suppose we are given a system of N particles. Then each pure state ψ of the system is given by a 6N-tuple (q₁, …, q₂N, p₁, …, p₂N) of real numbers denoting the coordinates of position and momentum of the particles. In this case, the probability Pₐψ assigned to each observable is an atomic measure, concentrated on a single real number a. That is, Pₐψ(U) = 1 if a ∈ U and Pₐψ(U) = 0 if a ∉ U. Thus, if we introduce the phase space Ω of pure states, which we may here identify with a subset of 6N-dimensional Euclidean space, then each observable A becomes associated with a real-valued function fₐ : Ω → 𝑹 given by fₐ(ψ) = a."
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$(1) \\quad P_{A\\psi}(U) = \\mu_\\psi(f_A^{-1}(U)).$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.95,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": "equations/eq_p003_02.png",
+          "text_original": "(1) Pₐψ(U) = μψ(fₐ⁻¹(U))."
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$(2) \\quad \\text{Exp}_\\psi(A) = \\int_\\Omega f_A(\\omega) \\, d\\mu_\\psi(\\omega).$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.94,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": "equations/eq_p003_03.png",
+          "text_original": "(2) Expψ(A) = ∫Ω fₐ(ω) dμψ(ω)."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "In the case of quantum mechanics the set 𝒪 of observables is represented by self-adjoint operators on a separable Hilbert space ℋ. The pure states are given by the one-dimensional linear subspaces of ℋ. The probability Pₐψ is defined by taking the spectral resolution of A:\n\n$$A = \\int_{-\\infty}^{\\infty} \\lambda \\, dE_A(\\lambda),$$\n\nwhere Eₐ is the spectral measure corresponding to A. Then\n\n$$P_{A\\psi}(U) = \\langle E_A(U)\\psi, \\psi \\rangle,$$\n\nwhere ψ is any unit vector in the one-dimensional linear subspace corresponding to the pure state ψ. Hence, by the spectral theorem\n\n$$\\text{Exp}_\\psi(A) = \\int_{-\\infty}^{\\infty} \\lambda \\, d\\langle E_A(U)\\psi, \\psi \\rangle = \\langle A\\psi, \\psi \\rangle.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.93,
+          "order": 7,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "In the case of quantum mechanics the set 𝒪 of observables is represented by self-adjoint operators on a separable Hilbert space ℋ. The pure states are given by the one-dimensional linear subspaces of ℋ. The probability Pₐψ is defined by taking the spectral resolution of A:\n\nA = ∫₋∞∞ λ dEₐ(λ),\n\nwhere Eₐ is the spectral measure corresponding to A. Then\n\nPₐψ(U) = ⟨Eₐ(U)ψ, ψ⟩,\n\nwhere ψ is any unit vector in the one-dimensional linear subspace corresponding to the pure state ψ. Hence, by the spectral theorem\n\nExpψ(A) = ∫₋∞∞ λ d⟨Eₐ(U)ψ, ψ⟩ = ⟨Aψ, ψ⟩."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Although there may be states ψ for each observable A in this theory such that Pₐψ is atomic, there are no longer, as in classical mechanics, states ψ such that Pₐψ is atomic simultaneously for all observables.\n\nThe problem of hidden variables may be described within the preceding framework. Let us recall that the hidden variables problem was successfully solved in a classical case, namely, the theory of thermodynamics. The theory of macroscopic thermodynamics is a discipline which is independent of classical mechanics. This theory has its own set of observables such as pressure, volume, temperature, energy, and entropy and its own set of states. This theory shares with quantum mechanics the property that the probability Pₐψ is not atomic even for pure states ψ. In most cases this probability is sufficiently concentrated about a single point so that it is in practice replaced by an atomic measure. However, there are cases where distinct macroscopic phenomena (such as critical opalescence) depend upon these fluctuations.\n\nIt proves possible in this case to introduce an underlying theory of classical mechanics on which thermodynamics may be based. In terms of the preceding description a phase space Ω of \"hidden\" pure states is introduced. In physical terms the system is assumed to consist of a large number of molecules and Ω is the space of the coordinates of position and momentum of all the molecules. Every pure state ψ of the original theory of thermodynamics is now interpreted as a mixed state of the new theory, i.e., as a probability measure μψ over the space Ω. Every observable A of thermodynamics is interpreted as a function fₐ : Ω → 𝑹, and it is assumed that condition (1) and hence (2) holds. It is in this way that the laws of thermodynamics become consequences of classical Newtonian mechanics via statistical mechanics. The formula (2) is the familiar statistical mechanical averaging process. This example has been considered as the classic case of a successful introduction of hidden variables into a theory.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.92,
+          "order": 8,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Although there may be states ψ for each observable A in this theory such that Pₐψ is atomic, there are no longer, as in classical mechanics, states ψ such that Pₐψ is atomic simultaneously for all observables.\n\nThe problem of hidden variables may be described within the preceding framework. Let us recall that the hidden variables problem was successfully solved in a classical case, namely, the theory of thermodynamics. The theory of macroscopic thermodynamics is a discipline which is independent of classical mechanics. This theory has its own set of observables such as pressure, volume, temperature, energy, and entropy and its own set of states. This theory shares with quantum mechanics the property that the probability Pₐψ is not atomic even for pure states ψ. In most cases this probability is sufficiently concentrated about a single point so that it is in practice replaced by an atomic measure. However, there are cases where distinct macroscopic phenomena (such as critical opalescence) depend upon these fluctuations.\n\nIt proves possible in this case to introduce an underlying theory of classical mechanics on which thermodynamics may be based. In terms of the preceding description a phase space Ω of \"hidden\" pure states is introduced. In physical terms the system is assumed to consist of a large number of molecules and Ω is the space of the coordinates of position and momentum of all the molecules. Every pure state ψ of the original theory of thermodynamics is now interpreted as a mixed state of the new theory, i.e., as a probability measure μψ over the space Ω. Every observable A of thermodynamics is interpreted as a function fₐ : Ω → 𝑹, and it is assumed that condition (1) and hence (2) holds. It is in this way that the laws of thermodynamics become consequences of classical Newtonian mechanics via statistical mechanics. The formula (2) is the familiar statistical mechanical averaging process. This example has been considered as the classic case of a successful introduction of hidden variables into a theory."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "The problem of hidden variables for quantum mechanics may be interpreted in a similar fashion as introducing a phase space Ω of hidden states for which condition (1) is true. This statistical condition (1) has in fact been taken as a proof of the success of various attempts to introduce a phase space into quantum mechanics. Now, in fact the condition (1) can hardly be the only requirement for the existence of hidden variables. For we may always introduce, at least mathematically, a phase space Ω into a theory so that (1) is satisfied. To see this, let\n\n$$\\Omega = \\mathbf{R}^0 = \\{\\omega \\mid \\omega : \\mathcal{O} \\to \\mathbf{R}\\}.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.91,
+          "order": 9,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "The problem of hidden variables for quantum mechanics may be interpreted in a similar fashion as introducing a phase space Ω of hidden states for which condition (1) is true. This statistical condition (1) has in fact been taken as a proof of the success of various attempts to introduce a phase space into quantum mechanics. Now, in fact the condition (1) can hardly be the only requirement for the existence of hidden variables. For we may always introduce, at least mathematically, a phase space Ω into a theory so that (1) is satisfied. To see this, let\n\nΩ = 𝑹⁰ = {ω | ω : 𝒪 → 𝑹}."
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$f_A : \\Omega \\to \\mathbf{R} \\text{ be defined by } f_A(\\omega) = \\omega(A).$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.9,
+          "order": 10,
+          "review_reason": null,
+          "suggested_filename": "equations/eq_p003_04.png",
+          "text_original": "fₐ : Ω → 𝑹 be defined by fₐ(ω) = ω(A)."
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\\mu_\\psi = \\prod_{A \\in \\mathcal{O}} P_{A\\psi},$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.89,
+          "order": 11,
+          "review_reason": null,
+          "suggested_filename": "equations/eq_p003_05.png",
+          "text_original": "μψ = ∏ₐ∈𝒪 Pₐψ,"
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\\mu_\\psi f_A^{-1}(U) = \\mu_\\psi(\\{\\omega \\mid \\omega(A) \\in U\\}) = P_{A\\psi}(U).$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.88,
+          "order": 12,
+          "review_reason": null,
+          "suggested_filename": "equations/eq_p003_06.png",
+          "text_original": "μψ fₐ⁻¹(U) = μψ({ω | ω(A) ∈ U}) = Pₐψ(U)."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.4
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "We have two reasons for mentioning this somewhat trivial construction. First, in the various attempts to introduce hidden variables into quantum mechanics, the only explicitly stated requirement that is to be fulfilled is the condition (1). (See Bohm [1] and [2], Bopp [3], Siegel and Wiener [16], and especially the review of [16] in Schwartz [15].) Of course, the above space Ω is far more artificial than the spaces proposed in these papers, but the only purpose here was to point out the insufficiency of the condition (1) as a test for the adequacy of the solution of the problem.\n\nOur second reason for introducing the space 𝑹⁰ is that it indicates the direction in which the condition (1) is inadequate. For each state ψ, as interpreted in the space 𝑹⁰, the functions fₐ are easily seen to be measurable functions with respect to the probability measure μψ. In the language of probability theory the observables are thus interpreted as random variables for each state ψ. It is not hard to show furthermore that in this representation the observables appear as independent random variables.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.87,
+          "order": 13,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "We have two reasons for mentioning this somewhat trivial construction. First, in the various attempts to introduce hidden variables into quantum mechanics, the only explicitly stated requirement that is to be fulfilled is the condition (1). (See Bohm [1] and [2], Bopp [3], Siegel and Wiener [16], and especially the review of [16] in Schwartz [15].) Of course, the above space Ω is far more artificial than the spaces proposed in these papers, but the only purpose here was to point out the insufficiency of the condition (1) as a test for the adequacy of the solution of the problem.\n\nOur second reason for introducing the space 𝑹⁰ is that it indicates the direction in which the condition (1) is inadequate. For each state ψ, as interpreted in the space 𝑹⁰, the functions fₐ are easily seen to be measurable functions with respect to the probability measure μψ. In the language of probability theory the observables are thus interpreted as random variables for each state ψ. It is not hard to show furthermore that in this representation the observables appear as independent random variables."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.35
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Now it is clear that the observables of a theory are in fact not independent. The observable A² is a function of the observable A and is certainly not independent of A. In any theory, one way of measuring A² consists in measuring A and squaring the resulting value. In fact, this may be used as the *definition* of a function of an observable. Namely, we define the observable g(A) for every observable A and Borel function g : 𝑹 → 𝑹 by the formula\n\n$$(3) \\quad P_{g(A)\\psi}(U) = P_{A\\psi}(g^{-1}(U))$$\n\nfor each state ψ. If we assume that every observable is determined by the function P, i.e., Pₐψ = Pᵦψ for every state ψ implies that A = B, then the formula (3) defines the observable g(A). This definition coincides with the definition of a function of an observable in both quantum and classical mechanics.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.86,
+          "order": 14,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Now it is clear that the observables of a theory are in fact not independent. The observable A² is a function of the observable A and is certainly not independent of A. In any theory, one way of measuring A² consists in measuring A and squaring the resulting value. In fact, this may be used as the *definition* of a function of an observable. Namely, we define the observable g(A) for every observable A and Borel function g : 𝑹 → 𝑹 by the formula\n\n(3) P₉(A)ψ(U) = Pₐψ(g⁻¹(U))\n\nfor each state ψ. If we assume that every observable is determined by the function P, i.e., Pₐψ = Pᵦψ for every state ψ implies that A = B, then the formula (3) defines the observable g(A). This definition coincides with the definition of a function of an observable in both quantum and classical mechanics."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.3
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Thus the measurement of a function g(A) of an observable A is independent of the theory considered—one merely writes g(a) for the value of g(A) if a is the measured value of A. The set of observables of a theory thereby acquires an algebraic structure, and the introduction of hidden variables into a theory should preserve this structure. In more detail, we require for the successful introduction of hidden variables that a space Ω be constructed such that condition (1) is satisfied and also that\n\n$$f_{g(A)} = g(f_A) \\tag{4}$$\n\nfor every Borel function g and observable A of the theory. Note that this condition is satisfied in the statistical mechanical description of thermodynamics.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.85,
+          "order": 15,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Thus the measurement of a function g(A) of an observable A is independent of the theory considered—one merely writes g(a) for the value of g(A) if a is the measured value of A. The set of observables of a theory thereby acquires an algebraic structure, and the introduction of hidden variables into a theory should preserve this structure. In more detail, we require for the successful introduction of hidden variables that a space Ω be constructed such that condition (1) is satisfied and also that\n\nf₉(A) = g(fₐ) (4)\n\nfor every Borel function g and observable A of the theory. Note that this condition is satisfied in the statistical mechanical description of thermodynamics."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Our aim is to show that for quantum mechanics no such construction satisfying condition (4) is possible. However, condition (4) as it stands proves too unwieldy and we shall first replace it by a more tractable condition.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.84,
+          "order": 16,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Our aim is to show that for quantum mechanics no such construction satisfying condition (4) is possible. However, condition (4) as it stands proves too unwieldy and we shall first replace it by a more tractable condition."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "## 1. Discussion of the problem.\n\nFor our purposes it is convenient to describe a physical theory within the following framework. We are given a set 𝒪 called the set of observables and a set S called the set of states. In addition, we have a function P which assigns to each observable A and each state ψ a probability measure Pₐψ on the real line 𝑹. Physically speaking, if U is a subset of 𝑹 which is measurable with respect to Pₐψ, then Pₐψ(U) denotes the probability that the measurement of A for a system in the state ψ yields a value lying in U. From this we obtain in the usual manner the expectation of the observable A for the state ψ,\n\n$$\\text{Exp}_\\psi(A) = \\int_{-\\infty}^{\\infty} \\lambda \\, dP_{A\\psi}(\\lambda).$$\n\nStates are generally divided into two kinds, pure states and mixed states. Roughly speaking, the pure states describe a maximal possible amount of knowledge available in the theory about the physical system in question; the mixed states give only incomplete information and describe our ignorance of the exact pure state the system is actually in.\n\nWe illustrate these remarks with an example from Newtonian mechanics. Suppose we are given a system of N particles. Then each pure state ψ of the system is given by a 6N-tuple (q₁, …, q₂N, p₁, …, p₂N) of real numbers denoting the coordinates of position and momentum of the particles. In this case, the probability Pₐψ assigned to each observable is an atomic measure, concentrated on a single real number a. That is, Pₐψ(U) = 1 if a ∈ U and Pₐψ(U) = 0 if a ∉ U. Thus, if we introduce the phase space Ω of pure states, which we may here identify with a subset of 6N-dimensional Euclidean space, then each observable A becomes associated with a real-valued function fₐ : Ω → 𝑹 given by fₐ(ψ) = a.\n\nIf N is large it is not feasible to determine the precise pure state the system may be in. We resort in this case to the notion of a mixed state which gives only the probability that the system is in a pure state which lies in a region of Ω. More precisely, a mixed state ψ is described by a probability measure μψ on the space Ω, so that, for each measurable subset Γ of Ω, μψ(Γ) is the probability that the system is in a pure state lying in Γ. It follows immediately that the probability measure Pₐψ assigned to an observable A and mixed state ψ is given by the formula\n\n$$(1) \\quad P_{A\\psi}(U) = \\mu_\\psi(f_A^{-1}(U)).$$\n\nThus, we have\n\n$$(2) \\quad \\text{Exp}_\\psi(A) = \\int_\\Omega f_A(\\omega) \\, d\\mu_\\psi(\\omega).$$\n\nIn the case of quantum mechanics the set 𝒪 of observables is represented by self-adjoint operators on a separable Hilbert space ℋ. The pure states are given by the one-dimensional linear subspaces of ℋ. The probability Pₐψ is defined by taking the spectral resolution of A:\n\n$$A = \\int_{-\\infty}^{\\infty} \\lambda \\, dE_A(\\lambda),$$\n\nwhere Eₐ is the spectral measure corresponding to A. Then\n\n$$P_{A\\psi}(U) = \\langle E_A(U)\\psi, \\psi \\rangle,$$\n\nwhere ψ is any unit vector in the one-dimensional linear subspace corresponding to the pure state ψ. Hence, by the spectral theorem\n\n$$\\text{Exp}_\\psi(A) = \\int_{-\\infty}^{\\infty} \\lambda \\, d\\langle E_A(U)\\psi, \\psi \\rangle = \\langle A\\psi, \\psi \\rangle.$$",
+      "page_quality_notes": [],
+      "pdf_page_number": 3,
+      "printed_page_number": "60",
+      "word_count": 850
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Although there may be states ψ for each observable A in this theory such that Pₐψ is atomic, there are no longer, as in classical mechanics, states ψ such that Pₐψ is atomic simultaneously for all observables.\n\nThe problem of hidden variables may be described within the preceding framework. Let us recall that the hidden variables problem was successfully solved in a classical case, namely, the theory of thermodynamics. The theory of macroscopic thermodynamics is a discipline which is independent of classical mechanics. This theory has its own set of observables such as pressure, volume, temperature, energy, and entropy and its own set of states. This theory shares with quantum mechanics the property that the probability Pₐψ is not atomic even for pure states ψ. In most cases this probability is sufficiently concentrated about a single point so that it is in practice replaced by an atomic measure. However, there are cases where distinct macroscopic phenomena (such as critical opalescence) depend upon these fluctuations.\n\nIt proves possible in this case to introduce an underlying theory of classical mechanics on which thermodynamics may be based. In terms of the preceding description a phase space Ω of \"hidden\" pure states is introduced. In physical terms the system is assumed to consist of a large number of molecules and Ω is the space of the coordinates of position and momentum of all the molecules. Every pure state ψ of the original theory of thermodynamics is now interpreted as a mixed state of the new theory, i.e., as a probability measure μψ over the space Ω. Every observable A of thermodynamics is interpreted as a function fₐ : Ω → 𝑹, and it is assumed that condition (1) and hence (2) holds. It is in this way that the laws of thermodynamics become consequences of classical Newtonian mechanics via statistical mechanics. The formula (2) is the familiar statistical mechanical averaging process. This example has been considered as the classic case of a successful introduction of hidden variables into a theory.\n\nThe problem of hidden variables for quantum mechanics may be interpreted in a similar fashion as introducing a phase space Ω of hidden states for which condition (1) is true. This statistical condition (1) has in fact been taken as a proof of the success of various attempts to introduce a phase space into quantum mechanics. Now, in fact the condition (1) can hardly be the only requirement for the existence of hidden variables. For we may always introduce, at least mathematically, a phase space Ω into a theory so that (1) is satisfied. To see this, let\n\n$$\\Omega = \\mathbf{R}^0 = \\{\\omega \\mid \\omega : \\mathcal{O} \\to \\mathbf{R}\\}.$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.95,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Although there may be states ψ for each observable A in this theory such that Pₐψ is atomic, there are no longer, as in classical mechanics, states ψ such that Pₐψ is atomic simultaneously for all observables.\n\nThe problem of hidden variables may be described within the preceding framework. Let us recall that the hidden variables problem was successfully solved in a classical case, namely, the theory of thermodynamics. The theory of macroscopic thermodynamics is a discipline which is independent of classical mechanics. This theory has its own set of observables such as pressure, volume, temperature, energy, and entropy and its own set of states. This theory shares with quantum mechanics the property that the probability Pₐψ is not atomic even for pure states ψ. In most cases this probability is sufficiently concentrated about a single point so that it is in practice replaced by an atomic measure. However, there are cases where distinct macroscopic phenomena (such as critical opalescence) depend upon these fluctuations.\n\nIt proves possible in this case to introduce an underlying theory of classical mechanics on which thermodynamics may be based. In terms of the preceding description a phase space Ω of \"hidden\" pure states is introduced. In physical terms the system is assumed to consist of a large number of molecules and Ω is the space of the coordinates of position and momentum of all the molecules. Every pure state ψ of the original theory of thermodynamics is now interpreted as a mixed state of the new theory, i.e., as a probability measure μψ over the space Ω. Every observable A of thermodynamics is interpreted as a function fₐ : Ω → 𝑹, and it is assumed that condition (1) and hence (2) holds. It is in this way that the laws of thermodynamics become consequences of classical Newtonian mechanics via statistical mechanics. The formula (2) is the familiar statistical mechanical averaging process. This example has been considered as the classic case of a successful introduction of hidden variables into a theory.\n\nThe problem of hidden variables for quantum mechanics may be interpreted in a similar fashion as introducing a phase space Ω of hidden states for which condition (1) is true. This statistical condition (1) has in fact been taken as a proof of the success of various attempts to introduce a phase space into quantum mechanics. Now, in fact the condition (1) can hardly be the only requirement for the existence of hidden variables. For we may always introduce, at least mathematically, a phase space Ω into a theory so that (1) is satisfied. To see this, let\n\nΩ = 𝑹⁰ = {ω | ω : 𝒪 → 𝑹}."
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$f_A : \\Omega \\to \\mathbf{R} \\text{ be defined by } f_A(\\omega) = \\omega(A).$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.94,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": "equations/eq_p004_02.png",
+          "text_original": "fₐ : Ω → 𝑹 be defined by fₐ(ω) = ω(A)."
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\\mu_\\psi = \\prod_{A \\in \\mathcal{O}} P_{A\\psi},$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.93,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": "equations/eq_p004_03.png",
+          "text_original": "μψ = ∏ₐ∈𝒪 Pₐψ,"
+        },
+        {
+          "asset_id": null,
+          "block_type": "equation",
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "$$\\mu_\\psi f_A^{-1}(U) = \\mu_\\psi(\\{\\omega \\mid \\omega(A) \\in U\\}) = P_{A\\psi}(U).$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.92,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": "equations/eq_p004_04.png",
+          "text_original": "μψ fₐ⁻¹(U) = μψ({ω | ω(A) ∈ U}) = Pₐψ(U)."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "We have two reasons for mentioning this somewhat trivial construction. First, in the various attempts to introduce hidden variables into quantum mechanics, the only explicitly stated requirement that is to be fulfilled is the condition (1). (See Bohm [1] and [2], Bopp [3], Siegel and Wiener [16], and especially the review of [16] in Schwartz [15].) Of course, the above space Ω is far more artificial than the spaces proposed in these papers, but the only purpose here was to point out the insufficiency of the condition (1) as a test for the adequacy of the solution of the problem.\n\nOur second reason for introducing the space 𝑹⁰ is that it indicates the direction in which the condition (1) is inadequate. For each state ψ, as interpreted in the space 𝑹⁰, the functions fₐ are easily seen to be measurable functions with respect to the probability measure μψ. In the language of probability theory the observables are thus interpreted as random variables for each state ψ. It is not hard to show furthermore that in this representation the observables appear as independent random variables.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.91,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "We have two reasons for mentioning this somewhat trivial construction. First, in the various attempts to introduce hidden variables into quantum mechanics, the only explicitly stated requirement that is to be fulfilled is the condition (1). (See Bohm [1] and [2], Bopp [3], Siegel and Wiener [16], and especially the review of [16] in Schwartz [15].) Of course, the above space Ω is far more artificial than the spaces proposed in these papers, but the only purpose here was to point out the insufficiency of the condition (1) as a test for the adequacy of the solution of the problem.\n\nOur second reason for introducing the space 𝑹⁰ is that it indicates the direction in which the condition (1) is inadequate. For each state ψ, as interpreted in the space 𝑹⁰, the functions fₐ are easily seen to be measurable functions with respect to the probability measure μψ. In the language of probability theory the observables are thus interpreted as random variables for each state ψ. It is not hard to show furthermore that in this representation the observables appear as independent random variables."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Now it is clear that the observables of a theory are in fact not independent. The observable A² is a function of the observable A and is certainly not independent of A. In any theory, one way of measuring A² consists in measuring A and squaring the resulting value. In fact, this may be used as the *definition* of a function of an observable. Namely, we define the observable g(A) for every observable A and Borel function g : 𝑹 → 𝑹 by the formula\n\n$$(3) \\quad P_{g(A)\\psi}(U) = P_{A\\psi}(g^{-1}(U))$$\n\nfor each state ψ. If we assume that every observable is determined by the function P, i.e., Pₐψ = Pᵦψ for every state ψ implies that A = B, then the formula (3) defines the observable g(A). This definition coincides with the definition of a function of an observable in both quantum and classical mechanics.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.9,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Now it is clear that the observables of a theory are in fact not independent. The observable A² is a function of the observable A and is certainly not independent of A. In any theory, one way of measuring A² consists in measuring A and squaring the resulting value. In fact, this may be used as the *definition* of a function of an observable. Namely, we define the observable g(A) for every observable A and Borel function g : 𝑹 → 𝑹 by the formula\n\n(3) P₉(A)ψ(U) = Pₐψ(g⁻¹(U))\n\nfor each state ψ. If we assume that every observable is determined by the function P, i.e., Pₐψ = Pᵦψ for every state ψ implies that A = B, then the formula (3) defines the observable g(A). This definition coincides with the definition of a function of an observable in both quantum and classical mechanics."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Thus the measurement of a function g(A) of an observable A is independent of the theory considered—one merely writes g(a) for the value of g(A) if a is the measured value of A. The set of observables of a theory thereby acquires an algebraic structure, and the introduction of hidden variables into a theory should preserve this structure. In more detail, we require for the successful introduction of hidden variables that a space Ω be constructed such that condition (1) is satisfied and also that\n\n$$f_{g(A)} = g(f_A) \\tag{4}$$\n\nfor every Borel function g and observable A of the theory. Note that this condition is satisfied in the statistical mechanical description of thermodynamics.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.89,
+          "order": 7,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Thus the measurement of a function g(A) of an observable A is independent of the theory considered—one merely writes g(a) for the value of g(A) if a is the measured value of A. The set of observables of a theory thereby acquires an algebraic structure, and the introduction of hidden variables into a theory should preserve this structure. In more detail, we require for the successful introduction of hidden variables that a space Ω be constructed such that condition (1) is satisfied and also that\n\nf₉(A) = g(fₐ) (4)\n\nfor every Borel function g and observable A of the theory. Note that this condition is satisfied in the statistical mechanical description of thermodynamics."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Our aim is to show that for quantum mechanics no such construction satisfying condition (4) is possible. However, condition (4) as it stands proves too unwieldy and we shall first replace it by a more tractable condition.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.88,
+          "order": 8,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Our aim is to show that for quantum mechanics no such construction satisfying condition (4) is possible. However, condition (4) as it stands proves too unwieldy and we shall first replace it by a more tractable condition."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "Although there may be states ψ for each observable A in this theory such that Pₐψ is atomic, there are no longer, as in classical mechanics, states ψ such that Pₐψ is atomic simultaneously for all observables.\n\nThe problem of hidden variables may be described within the preceding framework. Let us recall that the hidden variables problem was successfully solved in a classical case, namely, the theory of thermodynamics. The theory of macroscopic thermodynamics is a discipline which is independent of classical mechanics. This theory has its own set of observables such as pressure, volume, temperature, energy, and entropy and its own set of states. This theory shares with quantum mechanics the property that the probability Pₐψ is not atomic even for pure states ψ. In most cases this probability is sufficiently concentrated about a single point so that it is in practice replaced by an atomic measure. However, there are cases where distinct macroscopic phenomena (such as critical opalescence) depend upon these fluctuations.\n\nIt proves possible in this case to introduce an underlying theory of classical mechanics on which thermodynamics may be based. In terms of the preceding description a phase space Ω of \"hidden\" pure states is introduced. In physical terms the system is assumed to consist of a large number of molecules and Ω is the space of the coordinates of position and momentum of all the molecules. Every pure state ψ of the original theory of thermodynamics is now interpreted as a mixed state of the new theory, i.e., as a probability measure μψ over the space Ω. Every observable A of thermodynamics is interpreted as a function fₐ : Ω → 𝑹, and it is assumed that condition (1) and hence (2) holds. It is in this way that the laws of thermodynamics become consequences of classical Newtonian mechanics via statistical mechanics. The formula (2) is the familiar statistical mechanical averaging process. This example has been considered as the classic case of a successful introduction of hidden variables into a theory.\n\nThe problem of hidden variables for quantum mechanics may be interpreted in a similar fashion as introducing a phase space Ω of hidden states for which condition (1) is true. This statistical condition (1) has in fact been taken as a proof of the success of various attempts to introduce a phase space into quantum mechanics. Now, in fact the condition (1) can hardly be the only requirement for the existence of hidden variables. For we may always introduce, at least mathematically, a phase space Ω into a theory so that (1) is satisfied. To see this, let\n\n$$\\Omega = \\mathbf{R}^0 = \\{\\omega \\mid \\omega : \\mathcal{O} \\to \\mathbf{R}\\}.$$",
+      "page_quality_notes": [],
+      "pdf_page_number": 4,
+      "printed_page_number": "61",
+      "word_count": 600
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": "fig_p001_01",
+          "block_type": "figure",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "![Graphical representation of the graph Γ₁ with vertices a₀ to a₉. This graph is realizable on the unit sphere S with specific angular constraints.](pictures/fig_p001_01.png)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": "pictures/fig_p001_01.png",
+          "text_original": null
+        },
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "caption_original": null,
+          "level": 1,
+          "markdown": "## 2. Partial algebras.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "## 2. Partial algebras."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "We shall say that the observables Aᵢ, i ∈ I, in a theory are commeasurable if there exists an observable B and (Borel) functions fᵢ, i ∈ I, such that Aᵢ = fᵢ(B) for all i ∈ I. Clearly in this case it is possible to measure the observables Aᵢ, i ∈ I, simultaneously for it is only necessary to measure B and apply the function fᵢ to the measured value to obtain the value of Aᵢ. In quantum mechanics a set {Aᵢ | i ∈ I} of observables is said to be simultaneously measurable if as operators they pairwise commute. A classical theorem on operators shows that this coincides with the above definition (see, e.g., Neumark [12, Thm. 6]). (Note that as a result in the case of quantum mechanics the Aᵢ, i ∈ I, are commeasurable if they are pairwise commeasurable.)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "We shall say that the observables Aᵢ, i ∈ I, in a theory are commeasurable if there exists an observable B and (Borel) functions fᵢ, i ∈ I, such that Aᵢ = fᵢ(B) for all i ∈ I. Clearly in this case it is possible to measure the observables Aᵢ, i ∈ I, simultaneously for it is only necessary to measure B and apply the function fᵢ to the measured value to obtain the value of Aᵢ. In quantum mechanics a set {Aᵢ | i ∈ I} of observables is said to be simultaneously measurable if as operators they pairwise commute. A classical theorem on operators shows that this coincides with the above definition (see, e.g., Neumark [12, Thm. 6]). (Note that as a result in the case of quantum mechanics the Aᵢ, i ∈ I, are commeasurable if they are pairwise commeasurable.)"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "If A₁ and A₂ are commeasurable then we may define the observables μ₁A₁ + μ₂A₂ and A₁A₂ for all real μ₁, μ₂. For then A₁ = f₁(B) and A₂ = f₂(B) for some observable B and functions f₁ and f₂. Hence we have\n\n$$\\mu_1 A_1 + \\mu_2 A_2 = (\\mu_1 f_1 + \\mu_2 f_2)(B),$$\n$$A_1 A_2 = (f_1 f_2)(B). \\tag{5}$$",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "If A₁ and A₂ are commeasurable then we may define the observables μ₁A₁ + μ₂A₂ and A₁A₂ for all real μ₁, μ₂. For then A₁ = f₁(B) and A₂ = f₂(B) for some observable B and functions f₁ and f₂. Hence we have\n\nμ₁ A₁ + μ₂ A₂ = (μ₁ f₁ + μ₂ f₂)(B),\nA₁ A₂ = (f₁ f₂)(B). (5)"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "With linear combinations and products of commeasurable observables defined the set of observables acquires the structure of a partial algebra. Note that condition (4) implies that the partial operations defined in (5) are preserved under the map f. These ideas will now be formalized in the following definitions.\n\n**Definition.** A set A forms a partial algebra over a field K if there is a binary relation ⋈ (commeasurability) on A, (i.e., ⋈ ⊆ A × A), operations of addition and multiplication from ⋈ to A, scalar multiplication from K × A to A, and an element 1 of A, satisfying the following properties:",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.95,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "With linear combinations and products of commeasurable observables defined the set of observables acquires the structure of a partial algebra. Note that condition (4) implies that the partial operations defined in (5) are preserved under the map f. These ideas will now be formalized in the following definitions.\n\n**Definition.** A set A forms a partial algebra over a field K if there is a binary relation ⋈ (commeasurability) on A, (i.e., ⋈ ⊆ A × A), operations of addition and multiplication from ⋈ to A, scalar multiplication from K × A to A, and an element 1 of A, satisfying the following properties:"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "1. The relation ⋈ is reflexive and symmetric, i.e., a ⋈ a and a ⋈ b implies b ⋈ a for all a, b ∈ A.\n\n2. For all a ∈ A, a ⋈ 1.\n\n3. The relation ⋈ is closed under the operations, i.e., if aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3 then (a₁ + a₂) ⋈ a₃, a₁a₂ ⋈ a₃ and λa₁ ⋈ a₃, for all λ ∈ K.\n\n4. If aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3, then the values of the polynomials in a₁, a₂, a₃ form a commutative algebra over the field K.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.94,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "1. The relation ⋈ is reflexive and symmetric, i.e., a ⋈ a and a ⋈ b implies b ⋈ a for all a, b ∈ A.\n\n2. For all a ∈ A, a ⋈ 1.\n\n3. The relation ⋈ is closed under the operations, i.e., if aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3 then (a₁ + a₂) ⋈ a₃, a₁a₂ ⋈ a₃ and λa₁ ⋈ a₃, for all λ ∈ K.\n\n4. If aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3, then the values of the polynomials in a₁, a₂, a₃ form a commutative algebra over the field K."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "It follows immediately from the definition of a partial algebra that if D is a set of pairwise commasurable elements of A then the set D generates a commutative algebra in A.\n\nWe have defined the notion of a partial algebra over an arbitrary field K but there are two cases which are of interest to us. The first is the field 𝑹 of real numbers and the second is the field Z₂ of two elements. For the case of a partial algebra over Z₂ we may define the Boolean operations in terms of the ring operations in the usual manner: a ∩ b = ab, a ∪ b = a + b - ab, a' = 1 - a. It follows that if aᵢ ⋈ aⱼ, 1 ≤ i, j ≤ 3, then the polynomials in a₁, a₂, a₃ form a Boolean algebra. We shall call a partial algebra over Z₂ a *partial Boolean algebra*. It is clear how we may define this notion directly in terms of the operations ∩, ∪, '. What makes a partial Boolean algebra important for our purposes is that the set of idempotent elements of a partial algebra 𝒩 forms a partial Boolean algebra. This is a counterpart of the familiar fact that the set of idempotents of a commutative algebra forms a Boolean algebra.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.93,
+          "order": 7,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "It follows immediately from the definition of a partial algebra that if D is a set of pairwise commasurable elements of A then the set D generates a commutative algebra in A.\n\nWe have defined the notion of a partial algebra over an arbitrary field K but there are two cases which are of interest to us. The first is the field 𝑹 of real numbers and the second is the field Z₂ of two elements. For the case of a partial algebra over Z₂ we may define the Boolean operations in terms of the ring operations in the usual manner: a ∩ b = ab, a ∪ b = a + b - ab, a' = 1 - a. It follows that if aᵢ ⋈ aⱼ, 1 ≤ i, j ≤ 3, then the polynomials in a₁, a₂, a₃ form a Boolean algebra. We shall call a partial algebra over Z₂ a *partial Boolean algebra*. It is clear how we may define this notion directly in terms of the operations ∩, ∪, '. What makes a partial Boolean algebra important for our purposes is that the set of idempotent elements of a partial algebra 𝒩 forms a partial Boolean algebra. This is a counterpart of the familiar fact that the set of idempotents of a commutative algebra forms a Boolean algebra."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "We consider some examples of partial algebras. Let H(Uᵅ) be the set of all self-adjoint operators on a complex Hilbert space Uᵅ of dimension α. If we take the relation ⋈ to be the relation of commutativity then H(Uᵅ) forms a partial algebra over the field 𝑹 of reals. In this case the idempotents are the projections of Uᵅ. Thus the set 𝑩(Uᵅ) of projections forms a partial Boolean algebra. Because every projection corresponds uniquely to a closed linear subspace of Uᵅ, we may alternatively consider 𝑩(Uᵅ) as the partial Boolean algebra of closed linear subspaces of Uᵅ. The direct definition of the relation ⋈ in this interpretation of 𝑩(Uᵅ) is: a ⋈ b if there exists elements c, d, e in 𝑩(Uᵅ) which are mutually orthogonal with a = c ⊕ d and b = d ⊕ e. Furthermore a ∩ b denotes the intersection of the two subspaces a and b, a ∪ b denotes the space spanned by a and b, and a' denotes the orthogonal complement of a.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.92,
+          "order": 8,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "We consider some examples of partial algebras. Let H(Uᵅ) be the set of all self-adjoint operators on a complex Hilbert space Uᵅ of dimension α. If we take the relation ⋈ to be the relation of commutativity then H(Uᵅ) forms a partial algebra over the field 𝑹 of reals. In this case the idempotents are the projections of Uᵅ. Thus the set 𝑩(Uᵅ) of projections forms a partial Boolean algebra. Because every projection corresponds uniquely to a closed linear subspace of Uᵅ, we may alternatively consider 𝑩(Uᵅ) as the partial Boolean algebra of closed linear subspaces of Uᵅ. The direct definition of the relation ⋈ in this interpretation of 𝑩(Uᵅ) is: a ⋈ b if there exists elements c, d, e in 𝑩(Uᵅ) which are mutually orthogonal with a = c ⊕ d and b = d ⊕ e. Furthermore a ∩ b denotes the intersection of the two subspaces a and b, a ∪ b denotes the space spanned by a and b, and a' denotes the orthogonal complement of a."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "We have seen that the set 𝒪 of observables of a physical theory forms a partial algebra over 𝑹 if we take ⋈ to be the relation of commeasurability. If A is an idempotent in 𝒪, then it follows from the definition of A², that the measured values of the observable A can only be 1 or 0. By identifying these values with truth and falsity we may consider each such idempotent observable as a proposition of the theory. (See von Neumann [19, Ch. III.5] for a more detailed discussion of this point.) Thus, the set of propositions of a physical theory form a partial Boolean algebra. It is a basic tenet of quantum theory that the set of its observables may be identified with a partial sub-algebra Q of H(Uᵅ), the partial algebra of self-adjoint operators on a separable complex Hilbert space. This implies then that the propositions of quantum mechanics form a partial Boolean sub-algebra 𝑩 of 𝑩(Uᵅ).",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.91,
+          "order": 9,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "We have seen that the set 𝒪 of observables of a physical theory forms a partial algebra over 𝑹 if we take ⋈ to be the relation of commeasurability. If A is an idempotent in 𝒪, then it follows from the definition of A², that the measured values of the observable A can only be 1 or 0. By identifying these values with truth and falsity we may consider each such idempotent observable as a proposition of the theory. (See von Neumann [19, Ch. III.5] for a more detailed discussion of this point.) Thus, the set of propositions of a physical theory form a partial Boolean algebra. It is a basic tenet of quantum theory that the set of its observables may be identified with a partial sub-algebra Q of H(Uᵅ), the partial algebra of self-adjoint operators on a separable complex Hilbert space. This implies then that the propositions of quantum mechanics form a partial Boolean sub-algebra 𝑩 of 𝑩(Uᵅ)."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Every commutative algebra A forms a partial algebra if we take the relation ⋈ to be A × A. The following construction of a partial algebra is of interest because it gives us an alternative way of viewing partial algebras. Let Cᵢ, i ∈ I, be a non-empty family of commutative algebras over a fixed field K which satisfy the following conditions:\n\n(a) For every i, j ∈ I there is a k ∈ I such that Cᵢ ∩ Cⱼ = Cₖ.\n\n(b) If a₁, …, aₙ are elements of C = ∪ᵢ∈I Cᵢ such that any two of them lie in a common algebra Cᵢ, then there is a k ∈ I such that a₁, …, aₙ ∈ Cₖ.\n\nThe set C forms a partial algebra over K if we define the relations (i) a ⋈ b, (ii) ab = c, and (iii) a + b = c in C by the condition that there exist an i ∈ I such that (i) a, b ∈ Cᵢ, (ii) ab = c in Cᵢ and (iii) a + b = c in Cᵢ respectively. It is not difficult to show that every partial algebra is isomorphic to an algebra of this type. (We may thus view a partial algebra as a category in which the objects are commutative algebras and the maps are imbeddings.)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.9,
+          "order": 10,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Every commutative algebra A forms a partial algebra if we take the relation ⋈ to be A × A. The following construction of a partial algebra is of interest because it gives us an alternative way of viewing partial algebras. Let Cᵢ, i ∈ I, be a non-empty family of commutative algebras over a fixed field K which satisfy the following conditions:\n\n(a) For every i, j ∈ I there is a k ∈ I such that Cᵢ ∩ Cⱼ = Cₖ.\n\n(b) If a₁, …, aₙ are elements of C = ∪ᵢ∈I Cᵢ such that any two of them lie in a common algebra Cᵢ, then there is a k ∈ I such that a₁, …, aₙ ∈ Cₖ.\n\nThe set C forms a partial algebra over K if we define the relations (i) a ⋈ b, (ii) ab = c, and (iii) a + b = c in C by the condition that there exist an i ∈ I such that (i) a, b ∈ Cᵢ, (ii) ab = c in Cᵢ and (iii) a + b = c in Cᵢ respectively. It is not difficult to show that every partial algebra is isomorphic to an algebra of this type. (We may thus view a partial algebra as a category in which the objects are commutative algebras and the maps are imbeddings.)"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "![Graphical representation of the graph Γ₁ with vertices a₀ to a₉. This graph is realizable on the unit sphere S with specific angular constraints.](pictures/fig_p001_01.png)\n\n## 2. Partial algebras.\n\nWe shall say that the observables Aᵢ, i ∈ I, in a theory are commeasurable if there exists an observable B and (Borel) functions fᵢ, i ∈ I, such that Aᵢ = fᵢ(B) for all i ∈ I. Clearly in this case it is possible to measure the observables Aᵢ, i ∈ I, simultaneously for it is only necessary to measure B and apply the function fᵢ to the measured value to obtain the value of Aᵢ. In quantum mechanics a set {Aᵢ | i ∈ I} of observables is said to be simultaneously measurable if as operators they pairwise commute. A classical theorem on operators shows that this coincides with the above definition (see, e.g., Neumark [12, Thm. 6]). (Note that as a result in the case of quantum mechanics the Aᵢ, i ∈ I, are commeasurable if they are pairwise commeasurable.)\n\nIf A₁ and A₂ are commeasurable then we may define the observables μ₁A₁ + μ₂A₂ and A₁A₂ for all real μ₁, μ₂. For then A₁ = f₁(B) and A₂ = f₂(B) for some observable B and functions f₁ and f₂. Hence we have\n\n$$\\mu_1 A_1 + \\mu_2 A_2 = (\\mu_1 f_1 + \\mu_2 f_2)(B),$$\n$$A_1 A_2 = (f_1 f_2)(B). \\tag{5}$$",
+      "page_quality_notes": [],
+      "pdf_page_number": 5,
+      "printed_page_number": "62",
+      "word_count": 700
+    },
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "caption_original": null,
+          "level": 1,
+          "markdown": "### Definition.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "### Definition."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "**Definition.** A set A forms a partial algebra over a field K if there is a binary relation ⋈ (commeasurability) on A, (i.e., ⋈ ⊆ A × A), operations of addition and multiplication from ⋈ to A, scalar multiplication from K × A to A, and an element 1 of A, satisfying the following properties:",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "**Definition.** A set A forms a partial algebra over a field K if there is a binary relation ⋈ (commeasurability) on A, (i.e., ⋈ ⊆ A × A), operations of addition and multiplication from ⋈ to A, scalar multiplication from K × A to A, and an element 1 of A, satisfying the following properties:"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "1. The relation ⋈ is reflexive and symmetric, i.e., a ⋈ a and a ⋈ b implies b ⋈ a for all a, b ∈ A.\n\n2. For all a ∈ A, a ⋈ 1.\n\n3. The relation ⋈ is closed under the operations, i.e., if aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3 then (a₁ + a₂) ⋈ a₃, a₁a₂ ⋈ a₃ and λa₁ ⋈ a₃, for all λ ∈ K.\n\n4. If aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3, then the values of the polynomials in a₁, a₂, a₃ form a commutative algebra over the field K.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "1. The relation ⋈ is reflexive and symmetric, i.e., a ⋈ a and a ⋈ b implies b ⋈ a for all a, b ∈ A.\n\n2. For all a ∈ A, a ⋈ 1.\n\n3. The relation ⋈ is closed under the operations, i.e., if aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3 then (a₁ + a₂) ⋈ a₃, a₁a₂ ⋈ a₃ and λa₁ ⋈ a₃, for all λ ∈ K.\n\n4. If aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3, then the values of the polynomials in a₁, a₂, a₃ form a commutative algebra over the field K."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "It follows immediately from the definition of a partial algebra that if D is a set of pairwise commasurable elements of A then the set D generates a commutative algebra in A.\n\nWe have defined the notion of a partial algebra over an arbitrary field K but there are two cases which are of interest to us. The first is the field 𝑹 of real numbers and the second is the field Z₂ of two elements. For the case of a partial algebra over Z₂ we may define the Boolean operations in terms of the ring operations in the usual manner: a ∩ b = ab, a ∪ b = a + b - ab, a' = 1 - a. It follows that if aᵢ ⋈ aⱼ, 1 ≤ i, j ≤ 3, then the polynomials in a₁, a₂, a₃ form a Boolean algebra. We shall call a partial algebra over Z₂ a *partial Boolean algebra*. It is clear how we may define this notion directly in terms of the operations ∩, ∪, '. What makes a partial Boolean algebra important for our purposes is that the set of idempotent elements of a partial algebra 𝒩 forms a partial Boolean algebra. This is a counterpart of the familiar fact that the set of idempotents of a commutative algebra forms a Boolean algebra.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "It follows immediately from the definition of a partial algebra that if D is a set of pairwise commasurable elements of A then the set D generates a commutative algebra in A.\n\nWe have defined the notion of a partial algebra over an arbitrary field K but there are two cases which are of interest to us. The first is the field 𝑹 of real numbers and the second is the field Z₂ of two elements. For the case of a partial algebra over Z₂ we may define the Boolean operations in terms of the ring operations in the usual manner: a ∩ b = ab, a ∪ b = a + b - ab, a' = 1 - a. It follows that if aᵢ ⋈ aⱼ, 1 ≤ i, j ≤ 3, then the polynomials in a₁, a₂, a₃ form a Boolean algebra. We shall call a partial algebra over Z₂ a *partial Boolean algebra*. It is clear how we may define this notion directly in terms of the operations ∩, ∪, '. What makes a partial Boolean algebra important for our purposes is that the set of idempotent elements of a partial algebra 𝒩 forms a partial Boolean algebra. This is a counterpart of the familiar fact that the set of idempotents of a commutative algebra forms a Boolean algebra."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "We consider some examples of partial algebras. Let H(Uᵅ) be the set of all self-adjoint operators on a complex Hilbert space Uᵅ of dimension α. If we take the relation ⋈ to be the relation of commutativity then H(Uᵅ) forms a partial algebra over the field 𝑹 of reals. In this case the idempotents are the projections of Uᵅ. Thus the set 𝑩(Uᵅ) of projections forms a partial Boolean algebra. Because every projection corresponds uniquely to a closed linear subspace of Uᵅ, we may alternatively consider 𝑩(Uᵅ) as the partial Boolean algebra of closed linear subspaces of Uᵅ. The direct definition of the relation ⋈ in this interpretation of 𝑩(Uᵅ) is: a ⋈ b if there exists elements c, d, e in 𝑩(Uᵅ) which are mutually orthogonal with a = c ⊕ d and b = d ⊕ e. Furthermore a ∩ b denotes the intersection of the two subspaces a and b, a ∪ b denotes the space spanned by a and b, and a' denotes the orthogonal complement of a.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.95,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "We consider some examples of partial algebras. Let H(Uᵅ) be the set of all self-adjoint operators on a complex Hilbert space Uᵅ of dimension α. If we take the relation ⋈ to be the relation of commutativity then H(Uᵅ) forms a partial algebra over the field 𝑹 of reals. In this case the idempotents are the projections of Uᵅ. Thus the set 𝑩(Uᵅ) of projections forms a partial Boolean algebra. Because every projection corresponds uniquely to a closed linear subspace of Uᵅ, we may alternatively consider 𝑩(Uᵅ) as the partial Boolean algebra of closed linear subspaces of Uᵅ. The direct definition of the relation ⋈ in this interpretation of 𝑩(Uᵅ) is: a ⋈ b if there exists elements c, d, e in 𝑩(Uᵅ) which are mutually orthogonal with a = c ⊕ d and b = d ⊕ e. Furthermore a ∩ b denotes the intersection of the two subspaces a and b, a ∪ b denotes the space spanned by a and b, and a' denotes the orthogonal complement of a."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "We have seen that the set 𝒪 of observables of a physical theory forms a partial algebra over 𝑹 if we take ⋈ to be the relation of commeasurability. If A is an idempotent in 𝒪, then it follows from the definition of A², that the measured values of the observable A can only be 1 or 0. By identifying these values with truth and falsity we may consider each such idempotent observable as a proposition of the theory. (See von Neumann [19, Ch. III.5] for a more detailed discussion of this point.) Thus, the set of propositions of a physical theory form a partial Boolean algebra. It is a basic tenet of quantum theory that the set of its observables may be identified with a partial sub-algebra Q of H(Uᵅ), the partial algebra of self-adjoint operators on a separable complex Hilbert space. This implies then that the propositions of quantum mechanics form a partial Boolean sub-algebra 𝑩 of 𝑩(Uᵅ).",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.94,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "We have seen that the set 𝒪 of observables of a physical theory forms a partial algebra over 𝑹 if we take ⋈ to be the relation of commeasurability. If A is an idempotent in 𝒪, then it follows from the definition of A², that the measured values of the observable A can only be 1 or 0. By identifying these values with truth and falsity we may consider each such idempotent observable as a proposition of the theory. (See von Neumann [19, Ch. III.5] for a more detailed discussion of this point.) Thus, the set of propositions of a physical theory form a partial Boolean algebra. It is a basic tenet of quantum theory that the set of its observables may be identified with a partial sub-algebra Q of H(Uᵅ), the partial algebra of self-adjoint operators on a separable complex Hilbert space. This implies then that the propositions of quantum mechanics form a partial Boolean sub-algebra 𝑩 of 𝑩(Uᵅ)."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "Every commutative algebra A forms a partial algebra if we take the relation ⋈ to be A × A. The following construction of a partial algebra is of interest because it gives us an alternative way of viewing partial algebras. Let Cᵢ, i ∈ I, be a non-empty family of commutative algebras over a fixed field K which satisfy the following conditions:\n\n(a) For every i, j ∈ I there is a k ∈ I such that Cᵢ ∩ Cⱼ = Cₖ.\n\n(b) If a₁, …, aₙ are elements of C = ∪ᵢ∈I Cᵢ such that any two of them lie in a common algebra Cᵢ, then there is a k ∈ I such that a₁, …, aₙ ∈ Cₖ.\n\nThe set C forms a partial algebra over K if we define the relations (i) a ⋈ b, (ii) ab = c, and (iii) a + b = c in C by the condition that there exist an i ∈ I such that (i) a, b ∈ Cᵢ, (ii) ab = c in Cᵢ and (iii) a + b = c in Cᵢ respectively. It is not difficult to show that every partial algebra is isomorphic to an algebra of this type. (We may thus view a partial algebra as a category in which the objects are commutative algebras and the maps are imbeddings.)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.93,
+          "order": 7,
+          "review_reason": null,
+          "suggested_filename": null,
+          "text_original": "Every commutative algebra A forms a partial algebra if we take the relation ⋈ to be A × A. The following construction of a partial algebra is of interest because it gives us an alternative way of viewing partial algebras. Let Cᵢ, i ∈ I, be a non-empty family of commutative algebras over a fixed field K which satisfy the following conditions:\n\n(a) For every i, j ∈ I there is a k ∈ I such that Cᵢ ∩ Cⱼ = Cₖ.\n\n(b) If a₁, …, aₙ are elements of C = ∪ᵢ∈I Cᵢ such that any two of them lie in a common algebra Cᵢ, then there is a k ∈ I such that a₁, …, aₙ ∈ Cₖ.\n\nThe set C forms a partial algebra over K if we define the relations (i) a ⋈ b, (ii) ab = c, and (iii) a + b = c in C by the condition that there exist an i ∈ I such that (i) a, b ∈ Cᵢ, (ii) ab = c in Cᵢ and (iii) a + b = c in Cᵢ respectively. It is not difficult to show that every partial algebra is isomorphic to an algebra of this type. (We may thus view a partial algebra as a category in which the objects are commutative algebras and the maps are imbeddings.)"
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "### Definition.\n\n**Definition.** A set A forms a partial algebra over a field K if there is a binary relation ⋈ (commeasurability) on A, (i.e., ⋈ ⊆ A × A), operations of addition and multiplication from ⋈ to A, scalar multiplication from K × A to A, and an element 1 of A, satisfying the following properties:\n\n1. The relation ⋈ is reflexive and symmetric, i.e., a ⋈ a and a ⋈ b implies b ⋈ a for all a, b ∈ A.\n\n2. For all a ∈ A, a ⋈ 1.\n\n3. The relation ⋈ is closed under the operations, i.e., if aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3 then (a₁ + a₂) ⋈ a₃, a₁a₂ ⋈ a₃ and λa₁ ⋈ a₃, for all λ ∈ K.\n\n4. If aᵢ ⋈ aⱼ for all 1 ≤ i, j ≤ 3, then the values of the polynomials in a₁, a₂, a₃ form a commutative algebra over the field K.\n\nIt follows immediately from the definition of a partial algebra that if D is a set of pairwise commasurable elements of A then the set D generates a commutative algebra in A.\n\nWe have defined the notion of a partial algebra over an arbitrary field K but there are two cases which are of interest to us. The first is the field 𝑹 of real numbers and the second is the field Z₂ of two elements. For the case of a partial algebra over Z₂ we may define the Boolean operations in terms of the ring operations in the usual manner: a ∩ b = ab, a ∪ b = a + b - ab, a' = 1 - a. It follows that if aᵢ ⋈ aⱼ, 1 ≤ i, j ≤ 3, then the polynomials in a₁, a₂, a₃ form a Boolean algebra. We shall call a partial algebra over Z₂ a *partial Boolean algebra*. It is clear how we may define this notion directly in terms of the operations ∩, ∪, '. What makes a partial Boolean algebra important for our purposes is that the set of idempotent elements of a partial algebra 𝒩 forms a partial Boolean algebra. This is a counterpart of the familiar fact that the set of idempotents of a commutative algebra forms a Boolean algebra.",
+      "page_quality_notes": [],
+      "pdf_page_number": 6,
+      "printed_page_number": "63",
+      "word_count": 650
+    }
+  ],
+  "source_filename": "The_Problem_of_Hidden_Variables_in_Quantum_Mechanics.pdf"
+}

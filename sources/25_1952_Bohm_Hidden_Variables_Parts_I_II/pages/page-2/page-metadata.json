@@ -1,0 +1,146 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 139,
+      "topLeftY": 101,
+      "bottomRightX": 635,
+      "bottomRightY": 116,
+      "content": "QUANTUM THEORY IN TERMS OF \"HIDDEN\" VARIABLES. I",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 664,
+      "topLeftY": 99,
+      "bottomRightX": 685,
+      "bottomRightY": 113,
+      "content": "167",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 129,
+      "bottomRightX": 382,
+      "bottomRightY": 200,
+      "content": "not in terms of the usual interpretation, may be needed for a more thorough understanding of phenomena associated with very small distances. We shall not, however, actually develop such modifications in any detail in these papers.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 200,
+      "bottomRightX": 385,
+      "bottomRightY": 507,
+      "content": "After this article was completed, the author's attention was called to similar proposals for an alternative interpretation of the quantum theory made by de Broglie⁷ in 1926, but later given up by him partly as a result of certain criticisms made by Pauli⁸ and partly because of additional objections raised by de Broglie⁷ himself.† As we shall show in Appendix B of Paper II, however, all of the objections of de Broglie and Pauli could have been met if only de Broglie had carried his ideas to their logical conclusion. The essential new step in doing this is to apply our interpretation in the theory of the measurement process itself as well as in the description of the observed system. Such a development of the theory of measurements is given in Paper II,⁹ where it will be shown in detail that our interpretation leads to precisely the same results for all experiments as are obtained with the usual interpretation. The foundation for doing this is laid in Paper I, where we develop the basis of our interpretation, contrast it with the usual interpretation, and apply it to a few simple examples, in order to illustrate the principles involved.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 516,
+      "bottomRightX": 359,
+      "bottomRightY": 542,
+      "content": "## 2. THE USUAL PHYSICAL INTERPRETATION OF THE QUANTUM THEORY",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 548,
+      "bottomRightX": 382,
+      "bottomRightY": 717,
+      "content": "The usual physical interpretation of the quantum theory centers around the uncertainty principle. Now, the uncertainty principle can be derived in two different ways. First, we may start with the assumption already criticized by Einstein,¹ namely, that a wave function that determines only probabilities of actual experimental results nevertheless provides the most complete possible specification of the so-called \"quantum state\" of an individual system. With the aid of this assumption and with the aid of the de Broglie relation, p=hk, where k is the wave number associated with a particular fourier component of the wave function, the",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 128,
+      "bottomRightX": 687,
+      "bottomRightY": 325,
+      "content": "uncertainty principle is readily deduced.¹⁰ From this derivation, we are led to interpret the uncertainty principle as an inherent and irreducible limitation on the precision with which it is correct for us even to conceive of momentum and position as simultaneously defined quantities. For if, as is done in the usual interpretation of the quantum theory, the wave intensity is assumed to determine only the probability of a given position, and if the kth Fourier component of the wave function is assumed to determine only the probability of a corresponding momentum, p=hk, then it becomes a contradiction in terms to ask for a state in which momentum and position are simultaneously and precisely defined.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 325,
+      "bottomRightX": 687,
+      "bottomRightY": 783,
+      "content": "A second possible derivation of the uncertainty principle is based on a theoretical analysis of the processes with the aid of which physically significant quantities such as momentum and position can be measured. In such an analysis, one finds that because the measuring apparatus interacts with the observed system by means of indivisible quanta, there will always be an irreducible disturbance of some observed property of the system. If the precise effects of this disturbance could be predicted or controlled, then one could correct for these effects, and thus one could still in principle obtain simultaneous measurements of momentum and position, having unlimited precision. But if one could do this, then the uncertainty principle would be violated. The uncertainty principle is, as we have seen, however, a necessary consequence of the assumption that the wave function and its probability interpretation provide the most complete possible specification of the state of an individual system. In order to avoid the possibility of a contradiction with this assumption, Bohr²,⁵,¹⁰,¹¹ and others have suggested an additional assumption, namely, that the process of transfer of a single quantum from observed system to measuring apparatus is inherently unpredictable, uncontrollable, and not subject to a detailed rational analysis or description. With the aid of this assumption, one can show¹⁰ that the same uncertainty principle that is deduced from the wave function and its probability interpretation is also obtained as an inherent and unavoidable limitation on the precision of all possible measurements. Thus, one is able to obtain a set of assumptions, which permit a self-consistent formulation of the usual interpretation of the quantum theory.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 390,
+      "topLeftY": 784,
+      "bottomRightX": 687,
+      "bottomRightY": 897,
+      "content": "The above point of view has been given its most consistent and systematic expression by Bohr,³,⁵,¹⁰ in terms of the \"principle of complementarity.\" In formulating this principle, Bohr suggests that at the atomic level we must renounce our hitherto successful practice of conceiving of an individual system as a unified and precisely definable whole, all of whose aspects are, in a manner of speaking, simultaneously and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 723,
+      "bottomRightX": 382,
+      "bottomRightY": 766,
+      "content": "⁷ L. de Broglie, An Introduction to the Study of Wave Mechanics (E. P. Dutton and Company, Inc., New York, 1930), see Chapters 6, 9, and 10. See also Compt. rend. 183, 447 (1926); 184, 273 (1927); 185, 380 (1927).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 766,
+      "bottomRightX": 382,
+      "bottomRightY": 786,
+      "content": "⁸ Reports on the Solvay Congress (Gauthiers-Villars et Cie., Paris, 1928), see p. 280.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 786,
+      "bottomRightX": 382,
+      "bottomRightY": 838,
+      "content": "† Note added in proof.—Madelung has also proposed a similar interpretation of the quantum theory, but like de Broglie he did not carry this interpretation to a logical conclusion. See E. Madelung, Z. f. Physik 40, 332 (1926), also G. Temple, Introduction to Quantum Theory (London, 1931).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 837,
+      "bottomRightX": 382,
+      "bottomRightY": 941,
+      "content": "⁹ In Paper II, Sec. 9, we also discuss von Neumann's proof [see J. von Neumann, Mathematische Grundlagen der Quantenmechanik (Verlag, Julius Springer, Berlin, 1932)] that quantum theory cannot be understood in terms of a statistical distribution of \"hidden\" causal parameters. We shall show that his conclusions do not apply to our interpretation, because he implicitly assumes that the hidden parameters must be associated only with the observed system, whereas, as will become evident in these papers, our interpretation requires that the hidden parameters shall also be associated with the measuring apparatus.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 401,
+      "topLeftY": 906,
+      "bottomRightX": 534,
+      "bottomRightY": 919,
+      "content": "¹⁰ See reference 2, Chapter 5.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 392,
+      "topLeftY": 918,
+      "bottomRightX": 685,
+      "bottomRightY": 940,
+      "content": "¹¹ N. Bohr, Atomic Theory and the Description of Nature (Cambridge University Press, London, 1934).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

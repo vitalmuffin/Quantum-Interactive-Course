@@ -1,0 +1,13 @@
+M. Born und P. Jordan, Zur Quantenmechanik.
+
+859
+
+mathematischen Theorie auf Systeme von beliebig vielen Freiheitsgraden sowie auf aperiodische Bewegungen wird uns in der Fortsetzung dieser Abhandlung beschäftigen. In wesentlicher Verallgemeinerung der Heisenbergschen Ansätze werden wir uns weder auf die Behandlung der nicht-relativistischen Mechanik, noch auf das Rechnen mit kartesischen Koordinaten beschränken. Die einzige Beschränkung, die wir uns hinsichtlich der Koordinaten auferlegen, liegt darin, daß sich unsere Betrachtungen auf Librationskoordinaten beziehen, die in der klassischen Theorie periodische Funktionen der Zeit sind. Allerdings scheint es in manchen Fällen naheliegend, andere Koordinaten zu benutzen, beispielsweise beim Rotator den Drehwinkel $\varphi$, der eine lineare Funktion der Zeit wird. So ist auch Heisenberg bei seiner Behandlung des Rotators vorgegangen; es muß jedoch dahingestellt bleiben, ob das dabei angewandte Verfahren vom Standpunkt einer folgerichtigen Quantenmechanik aus gerechtfertigt werden kann.
+
+Die mathematische Grundlage der Heisenbergschen Betrachtung ist das Multiplikationsgesetz der quantentheoretischen Größen, das er durch eine geistreiche Korrespondenzbetrachtung erschlossen hat. Die Ausgestaltung seines Formalismus, die wir hier geben, beruht auf der Bemerkung, daß diese Regel nichts ist, als das den Mathematikern wohlbekannte Gesetz der Multiplikation von Matrizen. Das nach zwei Seiten unendliche, quadratische Schema (mit diskreten oder kontinuierlich laufenden Indizes), die sogenannte Matrix, ist der Repräsentant einer physikalischen Größe, die in der klassischen Theorie als Funktion der Zeit angegeben wird. Die mathematische Methode der neuen Quantenmechanik ist daher gekennzeichnet durch Benutzung einer Matrizenanalysis an Stelle der gewöhnlichen Zahlenanalysis.
+
+Mit dieser Methode haben wir hier die einfachsten Fragen der Mechanik und Elektrodynamik anzufassen versucht. Ein durch Korrespondenzbetrachtungen nahegelegtes Variationsprinzip liefert für die allgemeinste Hamiltonsche Funktion Bewegungsgleichungen in engster Analogie zu den klassischen kanonischen Gleichungen. Die Quantenbedingung zusammengefaßt mit einer aus den Bewegungsgleichungen fließenden Relation erlaubt eine einfache Matrizenschreibweise. Mit ihrer Hilfe gelingt der Beweis der Allgemeingültigkeit des Energiesatzes und der Bohrschen Frequenzbedingung in dem von Heisenberg vermuteten Sinne, ein Beweis, den er auch für die einfachen, von ihm behandelten Beispiele nicht vollständig führen konnte. Auf eines dieser Beispiele kommen wir dann ausführlicher
+
+Zeitschrift für Physik. Bd. XXXIV.
+
+57

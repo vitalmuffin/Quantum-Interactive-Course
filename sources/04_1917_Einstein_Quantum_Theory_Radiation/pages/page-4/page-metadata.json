@@ -1,0 +1,218 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 100,
+    "height": 1022,
+    "width": 691
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 16,
+      "topLeftY": 13,
+      "bottomRightX": 42,
+      "bottomRightY": 28,
+      "content": "124",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 160,
+      "topLeftY": 12,
+      "bottomRightX": 452,
+      "bottomRightY": 29,
+      "content": "Einstein, Zur Quantentheorie der Strahlung.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 472,
+      "topLeftY": 12,
+      "bottomRightX": 664,
+      "bottomRightY": 29,
+      "content": "Physik. Zeitschr. XVIII, 1917.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 52,
+      "bottomRightX": 333,
+      "bottomRightY": 86,
+      "content": "liche Mittelwert-Bildung) des Moleküls vermeiden können.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 101,
+      "bottomRightX": 331,
+      "bottomRightY": 135,
+      "content": "§ 3. Ableitung des Planckschen Strahlungsgesetzes.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 137,
+      "bottomRightX": 331,
+      "bottomRightY": 350,
+      "content": "Wir fragen jetzt nach derjenigen wirksamen Strahlungsdichte $\\varrho$, welche herrschen muß, damit der Energieaustausch zwischen Strahlung und Molekülen vermöge der statistischen Gesetze (A), (B) und (B') die Zustandsverteilung der Moleküle gemäß Gleichung (5) nicht stört. Dafür ist nötig und hinreichend, daß pro Zeiteinheit durchschnittlich ebenso viele Elementarprozesse vom Typus (B) stattfinden als von den Typen (A) und (B') zusammen. Diese Bedingung liefert vermöge (5), (A), (B), (B') für die der Indexkombination $(m, n)$ entsprechenden Elementarprozesse die Gleichung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 350,
+      "bottomRightX": 296,
+      "bottomRightY": 382,
+      "content": "$$p_m e^{-\\frac{\\varepsilon_m}{k_1}} B_m^m \\varrho = p_m e^{-\\frac{\\varepsilon_m}{k_1}} (B_m^n \\varrho + A_m^n).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 382,
+      "bottomRightX": 329,
+      "bottomRightY": 435,
+      "content": "Soll ferner $\\varrho$ mit $T$ ins Unendliche wachsen, was wir annehmen wollen, so muß zwischen den Konstanten $B_m^m$ und $B_m^n$ die Beziehung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 435,
+      "bottomRightX": 329,
+      "bottomRightY": 455,
+      "content": "$$p_m B_m^m - p_m B_m^n \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 455,
+      "bottomRightX": 329,
+      "bottomRightY": 506,
+      "content": "bestehen. Wir erhalten dann als Bedingung des dynamischen Gleichgewichts aus unserer Gleichung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 506,
+      "bottomRightX": 329,
+      "bottomRightY": 584,
+      "content": "$$\\varrho = \\frac{\\frac{A_m^n}{B_m^n}}{e^{-\\frac{\\varepsilon_m - \\varepsilon_n}{k_1}} - 1.} \\quad (7)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 595,
+      "bottomRightX": 329,
+      "bottomRightY": 663,
+      "content": "Es ist dies die Abhängigkeit der Strahlungsdichte von der Temperatur gemäß dem Planckschen Gesetze. Aus dem Wienschen Verschiebungsgesetze (1) folgt hieraus sofort, daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 663,
+      "bottomRightX": 329,
+      "bottomRightY": 706,
+      "content": "$$\\frac{A_m^n}{B_m^n} = \\alpha v^3 \\quad (8)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 712,
+      "bottomRightX": 329,
+      "bottomRightY": 732,
+      "content": "$$\\text{und } \\varepsilon_m - \\varepsilon_n = h v \\quad (9)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 736,
+      "bottomRightX": 329,
+      "bottomRightY": 868,
+      "content": "sein muß, wobei $\\alpha$ und $h$ universelle Konstanten sind. Um den numerischen Wert der Konstante $\\alpha$ zu ermitteln, müßte man eine exakte Theorie der elektrodynamischen und mechanischen Vorgänge haben; man bleibt hier vorläufig auf die Behandlung des Rayleighschen Grenzfalles hoher Temperaturen angewiesen, für welchen die klassische Theorie in der Grenze gilt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 868,
+      "bottomRightX": 329,
+      "bottomRightY": 996,
+      "content": "Gleichung (9) bildet bekanntlich die zweite Hauptregel in Bohrs Theorie der Spektra, von der man nach Sommerfelds und Epsteins Vervollständigung schon behaupten darf, daß sie zum gesicherten Bestande unserer Wissenschaft gehört. Sie enthält implizite auch das photochemische Äquivalenzgesetz, wie ich gezeigt habe.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 349,
+      "topLeftY": 52,
+      "bottomRightX": 666,
+      "bottomRightY": 87,
+      "content": "§ 4. Methode zur Berechnung der Bewegung der Moleküle im Strahlungsfelde.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 349,
+      "topLeftY": 87,
+      "bottomRightX": 666,
+      "bottomRightY": 384,
+      "content": "Wir wenden uns nun zur Untersuchung der Bewegungen, welche unsere Moleküle unter dem Einfluss der Strahlung ausführen. Wir bedienen uns dabei einer Methode, welche aus der Theorie der Brownischen Bewegung wohl bekannt ist, und von mir schon mehrfach zur rechnerischen Untersuchung von Bewegungen im Strahlungsraum benutzt wurde. Zur Vereinfachung der Rechnung führen wir die letztere lediglich für den Fall durch, daß Bewegungen nur in einer Richtung, der $X$-Richtung des Koordinatensystems, vorkommen. Wir begnügen uns ferner damit, den Mittelwert der kinetischen Energie der fortschreitenden Bewegung zu berechnen, verzichten also auf den Beweis dafür, daß diese Geschwindigkeiten $v$ nach dem Maxwellschen Gesetz verteilt sind. Die Masse $M$ des Moleküls sei hinreichend groß, daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 349,
+      "topLeftY": 384,
+      "bottomRightX": 666,
+      "bottomRightY": 517,
+      "content": "höhere Potenzen von $\\frac{v}{c}$ gegen niedrigere vernachlässigt werden; wir können dann auf das Molekül die gewöhnliche Mechanik anwenden. Wir können ferner ohne wirkliche Beschränkung der Allgemeinheit so rechnen, wie wenn die Zustände mit den Indizes $m$ und $n$ die einzigen wären, die das Molekül annehmen kann.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 349,
+      "topLeftY": 517,
+      "bottomRightX": 666,
+      "bottomRightY": 812,
+      "content": "Der Impuls $Mv$ eines Moleküls erfährt in der kurzen Zeit $\\tau$ zweierlei Änderungen. Trotzdem die Strahlung nach allen Richtungen gleich beschaffen ist, wird das Molekül infolge seiner Bewegung eine von der Strahlung herrührende, der Bewegung entgegenwirkende Kraft erfahren. Diese sei gleich $Rv$, wobei $R$ eine später zu berechnende Konstante bedeutet. Diese Kraft würde das Molekül zur Ruhe bringen, wenn nicht die Unregelmäßigkeit der Strahlungseinwirkungen zur Folge hätte, daß in der Zeit $\\tau$ auf das Molekül ein Impuls $\\Delta$ wechselnden Vorzeichens und wechselnder Größe übertragen würde; dieser unsystematische Einfluß wird entgegen dem vorher genannten eine gewisse Bewegung des Moleküls aufrecht erhalten. Am Ende der betrachteten kurzen Zeit $\\tau$ wird der Impuls des Moleküls den Wert",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 443,
+      "topLeftY": 815,
+      "bottomRightX": 566,
+      "bottomRightY": 834,
+      "content": "$$Mv - Rv\\tau + \\Delta$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 349,
+      "topLeftY": 839,
+      "bottomRightX": 666,
+      "bottomRightY": 971,
+      "content": "besitzen. Da die Geschwindigkeitsverteilung zeitlich konstant bleiben soll, so muß die angegebene Größe ihrem mittleren absoluten Betrag nach ebenso groß sein wie die Größe $Mv$; die Mittelwerte der Quadrate beider Größen, erstreckt über eine lange Zeit oder über eine große Zahl Moleküle, müssen also einander gleich sein:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 406,
+      "topLeftY": 976,
+      "bottomRightX": 608,
+      "bottomRightY": 997,
+      "content": "$$(Mv - Rv\\tau + \\Delta)^2 = (Mv)^2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

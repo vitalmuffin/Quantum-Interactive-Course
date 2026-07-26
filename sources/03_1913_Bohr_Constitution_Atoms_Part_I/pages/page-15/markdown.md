@@ -1,0 +1,13 @@
+14
+
+Dr. N. Bohr*on the Constitution*
+
+The possibility of an emission of a radiation of such a frequency may also be interpreted from analogy with the ordinary electrodynamics, as an electron rotating round a nucleus in an elliptical orbit will emit a radiation which according to Fourier's theorem can be resolved into homogeneous components, the frequencies of which are $n\omega$, if $\omega$ is the frequency of revolution of the electron.
+
+We are thus led to assume that the interpretation of the equation (2) is not that the different stationary states correspond to an emission of different numbers of energy-quanta, but that the frequency of the energy emitted during the passing of the system from a state in which no energy is yet radiated out to one of the different stationary states, is equal to different multiples of $\frac{\omega}{2}$, where $\omega$ is the frequency of revolution of the electron in the state considered. From this assumption we get exactly the same expressions as before for the stationary states, and from these by help of the principal assumptions on p. 7 the same expression for the law of the hydrogen spectrum. Consequently we may regard our preliminary considerations on p. 5 only as a simple form of representing the results of the theory.
+
+Before we leave the discussion of this question, we shall for a moment return to the question of the significance of the agreement between the observed and calculated values of the constant entering in the expressions (4) for the Balmer series of the hydrogen spectrum. From the above consideration it will follow that, taking the starting-point in the form of the law of the hydrogen spectrum and assuming that the different lines correspond to a homogeneous radiation emitted during the passing between different stationary states, we shall arrive at exactly the same expression for the constant in question as that given by (4), if we only assume (1) that the radiation is sent out in quanta $h\nu$, and (2) that the frequency of the radiation emitted during the passing of the system between successive stationary states will coincide with the frequency of revolution of the electron in the region of slow vibrations.
+
+As all the assumptions used in this latter way of representing the theory are of what we may call a qualitative character, we are justified in expecting—if the whole way of considering is a sound one—an absolute agreement between the values calculated and observed for the constant in question, and not only an approximate agreement. The formula (4) may therefore be of value in the discussion of the results of experimental determinations of the constants $e$, $m$, and $h$.
+
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010

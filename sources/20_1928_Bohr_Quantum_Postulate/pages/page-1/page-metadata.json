@@ -1,0 +1,119 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 91,
+    "height": 1024,
+    "width": 781
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 124,
+      "topLeftY": 95,
+      "bottomRightX": 150,
+      "bottomRightY": 111,
+      "content": "580",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 131,
+      "bottomRightX": 631,
+      "bottomRightY": 147,
+      "content": "## The Quantum Postulate and the Recent Development of Atomic Theory.$^{1}$",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 296,
+      "topLeftY": 149,
+      "bottomRightX": 485,
+      "bottomRightY": 164,
+      "content": "By Prof. N. BOHR, For. Mem. R.S.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 167,
+      "bottomRightX": 387,
+      "bottomRightY": 269,
+      "content": "IN connexion with the discussion of the physical interpretation of the quantum theoretical methods developed during recent years, I should like to make the following general remarks regarding the principles underlying the description of atomic phenomena, which I hope may help to harmonise the different views, apparently so divergent, concerning this subject.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 275,
+      "bottomRightX": 364,
+      "bottomRightY": 289,
+      "content": "### 1. QUANTUM POSTULATE AND CAUSALITY.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 289,
+      "bottomRightX": 388,
+      "bottomRightY": 476,
+      "content": "The quantum theory is characterised by the acknowledgment of a fundamental limitation in the classical physical ideas when applied to atomic phenomena. The situation thus created is of a peculiar nature, since our interpretation of the experimental material rests essentially upon the classical concepts. Notwithstanding the difficulties which hence are involved in the formulation of the quantum theory, it seems, as we shall see, that its essence may be expressed in the so-called quantum postulate, which attributes to any atomic process an essential discontinuity, or rather individuality, completely foreign to the classical theories and symbolised by Planck's quantum of action.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 475,
+      "bottomRightX": 391,
+      "bottomRightY": 833,
+      "content": "This postulate implies a renunciation as regards the causal space-time co-ordination of atomic processes. Indeed, our usual description of physical phenomena is based entirely on the idea that the phenomena concerned may be observed without disturbing them appreciably. This appears, for example, clearly in the theory of relativity, which has been so fruitful for the elucidation of the classical theories. As emphasised by Einstein, every observation or measurement ultimately rests on the coincidence of two independent events at the same space-time point. Just these coincidences will not be affected by any differences which the space-time co-ordination of different observers otherwise may exhibit. Now the quantum postulate implies that any observation of atomic phenomena will involve an interaction with the agency of observation not to be neglected. Accordingly, an independent reality in the ordinary physical sense can neither be ascribed to the phenomena nor to the agencies of observation. After all, the concept of observation is in so far arbitrary as it depends upon which objects are included in the system to be observed. Ultimately every observation can of course be reduced to our sense perceptions. The circumstance, however, that in interpreting observations use has always to be made of theoretical notions, entails that for every particular case it is a question of convenience",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 167,
+      "bottomRightX": 675,
+      "bottomRightY": 205,
+      "content": "at what point the concept of observation involving the quantum postulate with its inherent 'irrationality' is brought in.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 204,
+      "bottomRightX": 679,
+      "bottomRightY": 647,
+      "content": "This situation has far-reaching consequences. On one hand, the definition of the state of a physical system, as ordinarily understood, claims the elimination of all external disturbances. But in that case, according to the quantum postulate, any observation will be impossible, and, above all, the concepts of space and time lose their immediate sense. On the other hand, if in order to make observation possible we permit certain interactions with suitable agencies of measurement, not belonging to the system, an unambiguous definition of the state of the system is naturally no longer possible, and there can be no question of causality in the ordinary sense of the word. The very nature of the quantum theory thus forces us to regard the space-time co-ordination and the claim of causality, the union of which characterises the classical theories, as complementary but exclusive features of the description, symbolising the idealisation of observation and definition respectively. Just as the relativity theory has taught us that the convenience of distinguishing sharply between space and time rests solely on the smallness of the velocities ordinarily met with compared to the velocity of light, we learn from the quantum theory that the appropriateness of our usual causal space-time description depends entirely upon the small value of the quantum of action as compared to the actions involved in ordinary sense perceptions. Indeed, in the description of atomic phenomena, the quantum postulate presents us with the task of developing a 'complementarity' theory the consistency of which can be judged only by weighing the possibilities of definition and observation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 646,
+      "bottomRightX": 681,
+      "bottomRightY": 918,
+      "content": "This view is already clearly brought out by the much-discussed question of the nature of light and the ultimate constituents of matter. As regards light, its propagation in space and time is adequately expressed by the electromagnetic theory. Especially the interference phenomena *in vacuo* and the optical properties of material media are completely governed by the wave theory superposition principle. Nevertheless, the conservation of energy and momentum during the interaction between radiation and matter, as evident in the photoelectric and Compton effect, finds its adequate expression just in the light quantum idea put forward by Einstein. As is well known, the doubts regarding the validity of the superposition principle on one hand and of the conservation laws on the other, which were suggested by this apparent contradiction, have been definitely disproved through direct experiments. This situation would seem clearly to indicate the impossibility of a causal space-time description of the light phenomena. On one hand, in attempting to trace",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 113,
+      "topLeftY": 837,
+      "bottomRightX": 392,
+      "bottomRightY": 917,
+      "content": "$^{1}$ The content of this paper is essentially the same as that of a lecture on the present state of the quantum theory delivered on Sept. 16, 1927, at the Volta celebration in Como. For a summary of the theory just previous to the development of the new methods the reader is referred to a lecture of the author, 'Atomic Theory and Mechanics,' published in this periodical (NATURE, 116, 809; 1925). The rapid development which has taken place since has given rise to a considerable number of publications. The present paper is confined to a few references to recent articles which have a special bearing on the subject now under discussion.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 954,
+      "bottomRightX": 483,
+      "bottomRightY": 967,
+      "content": "© 1928 Nature Publishing Group",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

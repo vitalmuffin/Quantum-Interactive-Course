@@ -1,0 +1,13 @@
+*of Atoms and Molecules.*
+
+19
+
+Experiments on the phenomena of X-rays suggest that not only the emission and absorption of radiation cannot be treated by the help of the ordinary electrodynamics, but not even the result of a collision between two electrons of which the one is bound in an atom. This is perhaps most clearly shown by some very instructive calculations on the energy of $\beta$-particles emitted from radioactive substances recently published by Rutherford\*. These calculations strongly suggest that an electron of great velocity in passing through an atom and colliding with the electrons bound will lose energy in distinct finite quanta. As is immediately seen, this is very different from what we might expect if the result of the collisions was governed by the usual mechanical laws. The failure of the classical mechanics in such a problem might also be expected beforehand from the absence of anything like equipartition of kinetic energy between free electrons and electrons bound in atoms. From the point of view of the 'mechanical' states we see, however, that the following assumption—which is in accord with the above analogy—might be able to account for the result of Rutherford's calculation and for the absence of equipartition of kinetic energy: two colliding electrons, bound or free, will, after the collision as well as before, be in mechanical states. Obviously, the introduction of such an assumption would not make any alteration necessary in the classical treatment of a collision between two free particles. But, considering a collision between a free and a bound electron, it would follow that the bound electron by the collision could not acquire a less amount of energy than the difference in energy corresponding to successive stationary states, and consequently that the free electron which collides with it could not lose a less amount.
+
+The preliminary and hypothetical character of the above considerations needs not to be emphasized. The intention, however, has been to show that the sketched generalization of the theory of the stationary states possibly may afford a simple basis of representing a number of experimental facts which cannot be explained by help of the ordinary electrodynamics, and that the assumptions used do not seem to be inconsistent with experiments on phenomena for which a satisfactory explanation has been given by the classical dynamics and the wave theory of light.
+
+\* E. Rutherford, *Phil. Mag. xxiv. pp. 453 & 893* (1912).
+
+C 2
+
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010

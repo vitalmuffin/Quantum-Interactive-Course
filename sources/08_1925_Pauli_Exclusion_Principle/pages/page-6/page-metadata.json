@@ -1,0 +1,65 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 90,
+      "topLeftY": 87,
+      "bottomRightX": 120,
+      "bottomRightY": 103,
+      "content": "770",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 88,
+      "bottomRightX": 370,
+      "bottomRightY": 104,
+      "content": "W. Pauli jr.,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 124,
+      "bottomRightX": 580,
+      "bottomRightY": 364,
+      "content": "Dieses Ergebnis fordert nun dazu auf, allgemein jedes Elektron im Atom außer durch die Hauptquantenzahl $n$ durch die beiden Nebenquantenzahlen $k_1$ und $k_2$ zu charakterisieren, auch bei Vorhandensein von mehreren äquivalenten Elektronen oder in abgeschlossenen Elektronengruppen. Ferner werden wir (auch in den eben genannten Fällen) ein so starkes Magnetfeld gedanklich zulassen, daß wir jedem Elektron, unabhängig von den übrigen Elektronen, außer den Quantenzahlen $n$ und $k_1$, die beiden Quantenzahlen $m_1$ und $m_2$ zuordnen können (wobei die letztere den Anteil dieses Elektrons an der magnetischen Energie des Atoms bestimmt). Der Zusammenhang zwischen $k_2$ und $m_2$ bei gegebenem $k_1$ und $m_1$ ist dabei aus den Alkalispektren zu entnehmen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 365,
+      "bottomRightX": 580,
+      "bottomRightY": 486,
+      "content": "Bevor wir diese quantentheoretische Klassifikation der Elektronen im Atom im folgenden Paragraphen auf das Problem des Abschlusses der Elektronengruppen anwenden, müssen wir noch die Schwierigkeiten, die der hier vorgeschlagenen Auffassung der Komplexstruktur und der anomalen Zeemaneffekte entgegenstehen, und die Begrenzung ihrer Bedeutung genauer besprechen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 486,
+      "bottomRightX": 581,
+      "bottomRightY": 687,
+      "content": "Zunächst wird diese Auffassung dem in vieler Hinsicht selbständigen, gesonderten Auftreten der verschiedenen Termsysteme (z. B. bei den Erdalkalien dem des Einfach- und des Triplettsystems), das auch in der Lage der Terme dieser Systeme und in der Landéschen Intervallregel zur Geltung kommt, nicht unmittelbar gerecht. Sicherlich kann man für die Energieunterschiede der Triplettniveaus bei den Erdalkalien nicht zwei verschiedene Ursachen annehmen, sowohl die Anomalie der Relativitätskorrektion des Leuchtelektrons als auch die Abhängigkeit der Wechselwirkungsenergie desselben mit dem Atomrest von der Orientierung dieser beiden Systeme gegeneinander.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 687,
+      "bottomRightX": 582,
+      "bottomRightY": 908,
+      "content": "Eine noch ernstere und prinzipiellere Schwierigkeit bietet jedoch die Verbindung der vorgeschlagenen Auffassung mit dem Korrespondenzprinzip dar, welches ja für die Erklärung der Auswahlregeln der Quantenzahlen $k_1$, $j$ und $m$ sowie der Polarisation der Zeemannkomponenten ein unentbehrliches Hilfsmittel bildet. Zwar ist es gemäß diesem Prinzip nicht erforderlich, in einem bestimmten stationären Zustand jedem Elektron eine im Sinne der gewöhnlichen Kinematik eindeutig bestimmte Bahn zuzuordnen; wohl aber muß der Gesamtheit der stationären Zustände des Atoms eine Schar (Klasse) von Bahnen mit einem bestimmten Typus ihrer Periodizitätseigenschaften korrespondieren. So erfordern bekanntlich in unserem Falle die genannten Auswahl- und Polarisationsregeln gemäß dem",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

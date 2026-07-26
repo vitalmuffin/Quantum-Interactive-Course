@@ -1,0 +1,173 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 147,
+      "topLeftY": 22,
+      "bottomRightX": 485,
+      "bottomRightY": 43,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 547,
+      "topLeftY": 23,
+      "bottomRightX": 569,
+      "bottomRightY": 42,
+      "content": "31",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 218,
+      "topLeftY": 140,
+      "bottomRightX": 414,
+      "bottomRightY": 161,
+      "content": "# CHAPITRE PREMIER",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 217,
+      "bottomRightX": 403,
+      "bottomRightY": 241,
+      "content": "## L'onde de phase.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 286,
+      "bottomRightX": 523,
+      "bottomRightY": 310,
+      "content": "### I. — LA RELATION DU QUANTUM ET LA RELATIVITÉ",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 335,
+      "bottomRightX": 569,
+      "bottomRightY": 488,
+      "content": "Une des plus importantes conceptions nouvelles introduites par la Relativité est celle de l'inertie de l'énergie. D'après Einstein, l'énergie doit être considérée comme ayant de la masse et toute masse représente de l'énergie. La masse et l'énergie sont toujours reliées l'une à l'autre par la relation générale :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 234,
+      "topLeftY": 500,
+      "bottomRightX": 391,
+      "bottomRightY": 523,
+      "content": "$$\\text{énergie} = \\text{masse } c^2$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 547,
+      "bottomRightX": 569,
+      "bottomRightY": 601,
+      "content": "$c$ étant la constante dite « vitesse de la lumière » mais que nous préférons nommer « vitesse limite de l'énergie » pour",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 619,
+      "bottomRightX": 352,
+      "bottomRightY": 643,
+      "content": "J. PERRIN, *Les atomes*, Alcan, 1913.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 639,
+      "bottomRightX": 474,
+      "bottomRightY": 663,
+      "content": "H. POINCARÉ, *Dernières pensées*, Flammarion, 1913.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 658,
+      "bottomRightX": 567,
+      "bottomRightY": 702,
+      "content": "E. BAUER, Recherches sur le rayonnement, *Thèse de doctorat*, 1912.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 697,
+      "bottomRightX": 565,
+      "bottomRightY": 740,
+      "content": "*La théorie du rayonnement et les quanta* (1$^{er}$ Congrès Solvay, 1911), publiée par P. LANGEVIN et M. DE BROGLIE.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 734,
+      "bottomRightX": 567,
+      "bottomRightY": 777,
+      "content": "M. PLANCK, *Theorie der Wärmestrahlung*, J.-A. Barth, Leipzig, 1921 (4$^{e}$ édit.).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 772,
+      "bottomRightX": 565,
+      "bottomRightY": 816,
+      "content": "L. BRILLOUIN, *La théorie des quanta et l'atome de Bohr* (Conf. rapports), 1921.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 811,
+      "bottomRightX": 516,
+      "bottomRightY": 836,
+      "content": "F. REICHE, *Die quantentheorie*, J. Springer, Berlin, 1921.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 55,
+      "topLeftY": 830,
+      "bottomRightX": 565,
+      "bottomRightY": 874,
+      "content": "A. SOMMERFELD, *La constitution de l'atome et les raies spectrales*. Trad. BELLENOT, A. Blanchard, 1923.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 55,
+      "topLeftY": 867,
+      "bottomRightX": 565,
+      "bottomRightY": 910,
+      "content": "A. LANDÉ, *Vorschritte der quantentheorie*, F. Steinhopff, Dresde, 1922.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 55,
+      "topLeftY": 905,
+      "bottomRightX": 564,
+      "bottomRightY": 948,
+      "content": "*Atomes et électrons* (3$^{e}$ Congrès Solvay), Gauthier-Villars, 1923.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

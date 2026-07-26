@@ -1,0 +1,128 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 95,
+    "height": 1016,
+    "width": 737
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 83,
+      "topLeftY": 91,
+      "bottomRightX": 108,
+      "bottomRightY": 104,
+      "content": "826",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 91,
+      "bottomRightX": 544,
+      "bottomRightY": 104,
+      "content": "SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 586,
+      "topLeftY": 91,
+      "bottomRightX": 648,
+      "bottomRightY": 111,
+      "content": "[ Die Natur-\n[ wissenschaften",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 120,
+      "bottomRightX": 360,
+      "bottomRightY": 315,
+      "content": "richtig oder falsch gar nicht in bezug auf den Einzelfall zukommt, sondern in bezug auf ein Kollektiv, das zustande kommt, indem man das System tausendmal in derselben Weise präpariert (um als dann dieselbe Messung folgen zu lassen; vgl. § 8). Das stimmt, aber wir müssen ja alle Mitglieder dieses Kollektivs als identisch gelagert erklären, weil für jedes dieselbe ψ-Funktion, derselbe Aus- sagenkatalog gilt und wir nicht Unterschiede zu- geben dürfen, die im Katalog nicht zum Ausdruck kommen (vgl. die Begründung des Satzes 2). Das Kollektiv besteht also aus identischen Einzelfällen. Wenn eine Aussage für es falsch wird, muß auch der Einzelfall sich geändert haben, sonst wäre auch das Kollektiv wieder das gleiche.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 322,
+      "bottomRightX": 335,
+      "bottomRightY": 338,
+      "content": "§ 10. Theorie des Messens, zweiter Teil.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 338,
+      "bottomRightX": 361,
+      "bottomRightY": 560,
+      "content": "Nun war vorhin gesagt (§ 7) und erläutert (§ 8) worden, daß jede Messung das Gesetz, das die stetige zeitliche Veränderung der ψ-Funktion sonst beherrscht, suspendiert und an ihr eine ganz andere Veränderung hervorbringt, die von keinem Gesetz beherrscht, sondern vom Resultat der Messung diktiert wird. Während einer Messung können aber nicht andere Naturgesetze gelten als sonst, denn sie ist, objektiv betrachtet, ein Natur- vorgang wie jeder andere, sie kann den regel- mäßigen Ablauf der Natur nicht unterbrechen. Da sie den der ψ-Funktion unterbricht, kann die letztere — so hatten wir in § 7 gesagt — nicht als versuchsweises Abbild einer objektiven Wirk- lichkeit gelten wie das klassische Modell. Aber im letzten Abschnitt hat sich nun doch so etwas herauskristallisiert.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 559,
+      "bottomRightX": 361,
+      "bottomRightY": 754,
+      "content": "Ich versuche nochmals, schlagwortartig poin- tiert, zu kontrastieren: 1. Das Springen des Er- wartungskataloges bei der Messung ist unvermeid- lich, denn wenn das Messen irgendeinen Sinn be- halten soll, so muß nach einer guten Messung der Meßwert gelten. 2. Die sprunghafte Änderung wird sicher nicht von dem sonst geltenden zwang- läufigen Gesetz beherrscht, denn sie hängt vom Meßwert ab, der unvorhergehen ist. 3. Die Ände- rung schließt (wegen der „Maximalität“) bestimmt auch Verlust an Kenntnis ein, Kenntnis ist un- verlierbar, also muß der Gegenstand sich ver- ändern — auch bei den sprunghaften Änderungen und bei ihnen auch in unvorhergesehener Weise, anders als sonst.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 753,
+      "bottomRightX": 361,
+      "bottomRightY": 843,
+      "content": "Wie reimt sich das? Die Dinge liegen nicht ganz einfach. Es ist der schwierigste und interessanteste Punkt der Theorie. Wir müssen offenbar ver- suchen, die Wechselwirkung zwischen Meßobjekt und Meßinstrument objektiv zu erfassen. Dazu müssen wir einige sehr abstrakte Überlegungen vorausschicken.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 842,
+      "bottomRightX": 361,
+      "bottomRightY": 919,
+      "content": "Die Sache ist die. Wenn man für zwei voll- kommen getrennte Körper, oder besser gesagt, für jeden von ihnen einzeln je einen vollständigen Er- wartungskatalog — eine maximale Summe von Kenntnis — eine ψ-Funktion — besitzt, so be- sitzt man sie selbstverständlich auch für die beiden",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 120,
+      "bottomRightX": 649,
+      "bottomRightY": 173,
+      "content": "Körper zusammen, d. h. wenn man sich denkt, daß nicht jeder von ihnen einzeln, sondern beide zusammen den Gegenstand unseres Interesses, unserer Fragen an die Zukunft bilden¹.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 171,
+      "bottomRightX": 650,
+      "bottomRightY": 585,
+      "content": "Aber das Umgekehrte ist nicht wahr. Maximale Kenntnis von einem Gesamtsystem schließt nicht notwendig maximale Kenntnis aller seiner Teile ein, auch dann nicht, wenn dieselben völlig voneinander abgetrennt sind und einander zur Zeit gar nicht be- einflussen. Es kann nämlich sein, daß ein Teil dessen, was man weiß, sich auf Beziehungen oder Bedingtheiten zwischen den zwei Teilsystemen bezieht (wir wollen uns auf zwei beschränken), folgendermaßen: wenn eine bestimmte Messung am ersten System dieses Ergebnis hat, so gilt für eine bestimmte Messung am zweiten diese und diese Erwartungsstatistik; hat aber die betref- fende Messung am ersten System jenes Ergebnis, so gilt für die am zweiten eine gewisse andere Er- wartung; tritt am ersten ein drittes Ergebnis auf, so gilt wieder eine andere Erwartung am zweiten; und so weiter, in der Art einer vollständigen Dis- junktion aller Maßzahlen, welche die eine gerade ins Auge gefaßte Messung am ersten System überhaupt liefern kann. Solchermaßen kann irgend- ein Meßprozeß oder, was dasselbe ist, irgendeine Variable des zweiten Systems an den noch nicht bekannten Wert irgendeiner Variablen des ersten geknüpft sein, und natürlich auch umgekehrt. Wenn das der Fall ist, wenn solche Konditionals- sätze im Gesamtkatalog stehen, dann kann er be- züglich der Einzelsysteme gar nicht maximal sein. Denn der Inhalt von zwei maximalen Einzel- katalogen würde für sich schon ausreichen zu einem maximalen Gesamtkatalog, es könnten nicht noch die Konditionalsätze hinzutreten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 584,
+      "bottomRightX": 651,
+      "bottomRightY": 855,
+      "content": "Diese bedingten Vorhersagen sind übrigens nicht etwas, das hier plötzlich neu hereingeschneit kommt. Es gibt sie in jedem Erwartungskatalog. Wenn man die ψ-Funktion kennt und eine be- stimmte Messung macht und die hat ein bestimm- tes Ergebnis, so kennt man wieder die ψ-Funktion, voilà tout. Bloß im vorliegenden Fall, weil das Gesamtsystem aus zwei völlig getrennten Teilen bestehen soll, hebt sich die Sache als etwas Be- sonderes ab. Denn dadurch bekommt es einen Sinn, zu unterscheiden zwischen Messungen an dem einen und Messungen an dem anderen Teilsystem. Das verschafft jedem von ihnen die volle Anwart- schaft auf einen privaten Maximalkatalog; ander- seits bleibt es möglich, daß ein Teil des erlangbaren Gesamtwissens auf Konditionalsätze, die zwischen den Teilsystemen spielen, sozusagen verschwendet ist und so die privaten Anwartschaften unbefriedigt läßt — obwohl der Gesamtkatalog maximal ist, das heißt obwohl die ψ-Funktion des Gesamt- systems bekannt ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 860,
+      "bottomRightX": 651,
+      "bottomRightY": 919,
+      "content": "¹ Selbstverständlich. Es können uns nicht etwa Aussagen über die Beziehung der beiden zueinander fehlen. Denn das wäre, mindestens für den einen der beiden, etwas, das zu seiner ψ-Funktion hinzutritt. Und das kann es nicht geben.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

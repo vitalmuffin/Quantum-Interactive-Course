@@ -1,0 +1,164 @@
+{
+  "index": 35,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 104,
+      "topLeftY": 102,
+      "bottomRightX": 132,
+      "bottomRightY": 117,
+      "content": "592",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 102,
+      "bottomRightX": 457,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 139,
+      "bottomRightX": 328,
+      "bottomRightY": 155,
+      "content": "aus denen man, wie oben, schließt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 219,
+      "topLeftY": 163,
+      "bottomRightX": 580,
+      "bottomRightY": 192,
+      "content": "$$(W' - W'') \\sum_k x_k(W') x_k(W'') = 0. \\quad (29)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 198,
+      "bottomRightX": 580,
+      "bottomRightY": 236,
+      "content": "Versucht man zu diesen Orthogonalitätsrelationen die Normierungsbedingung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 232,
+      "bottomRightX": 404,
+      "bottomRightY": 263,
+      "content": "$$\\sum_k |x_k(W)|^2 = 1$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 270,
+      "bottomRightX": 580,
+      "bottomRightY": 286,
+      "content": "hinzuzufügen, so sieht man, daß die Funktion der zwei Veränderlichen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 294,
+      "bottomRightX": 406,
+      "bottomRightY": 323,
+      "content": "$$\\sum_k x_k(W') x_k(W'')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 329,
+      "bottomRightX": 580,
+      "bottomRightY": 387,
+      "content": "unstetig in einem schlimmen Sinne wäre, wenn sie überhaupt existierte. Tatsächlich konvergiert die betrachtete Summe nicht, stellt also auch keine Funktion dar.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 394,
+      "bottomRightX": 580,
+      "bottomRightY": 431,
+      "content": "Daher ist eine andere Art der Normierung notwendig. Nach Hellinger setzt man",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 431,
+      "bottomRightX": 580,
+      "bottomRightY": 460,
+      "content": "$$\\sum_k |\\int x_k(W) dW|^2 = \\varphi(W). \\quad (30)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 466,
+      "bottomRightX": 581,
+      "bottomRightY": 665,
+      "content": "Die Reihe auf der linken Seite ist im allgemeinen konvergent und stellt eine monotone Funktion $\\varphi(W)$ dar, die mit gewissen Einschränkungen willkürlich gewählt werden kann, da ja die $x_k(W)$ nur bis auf einen von $k$ unabhängigen Faktor bestimmt sind. Auf die physikalische Bedeutung dieser Funktion $\\varphi(W)$, durch welche die Lösungen $x_k(W)$ festgelegt werden, werden wir später eingehen. Hellinger nennt $\\varphi(W)$ die „Basisfunktion“ und zeigt, daß sich die Orthogonalitätsbedingungen in folgende Form bringen lassen: Es seien $\\Delta_1$ und $\\Delta_2$ irgend zwei Intervalle des Streckenspektrums und $\\Delta_{12}$ das ihnen gemeinsame Teilstück (das auch fehlen kann); dann gilt:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 674,
+      "bottomRightX": 580,
+      "bottomRightY": 734,
+      "content": "$$\\left. \\begin{aligned} \\sum_k \\int_{\\Delta_1} x_k(W') dW' \\int_{\\Delta_2} x_k(W'') dW'' &= \\int_{\\Delta_{12}} d\\varphi(W) \\\\ &= \\varphi(W^{(2)}) - \\varphi(W^{(1)}), \\end{aligned} \\right\\} \\quad (31)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 741,
+      "bottomRightX": 580,
+      "bottomRightY": 780,
+      "content": "wo $W^{(1)}, W^{(2)}$ die Endpunkte von $\\Delta_{12}$ sind. Rechts steht also Null, wenn die Strecken $\\Delta_1, \\Delta_2$ sich nicht überdecken.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 782,
+      "bottomRightX": 580,
+      "bottomRightY": 817,
+      "content": "Denkt man sich die Intervalle $\\Delta_1, \\Delta_2, \\Delta_{12}$ sehr klein, so kann man symbolisch schreiben",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 217,
+      "topLeftY": 825,
+      "bottomRightX": 580,
+      "bottomRightY": 854,
+      "content": "$$\\sum_k x_k(W') dW' \\cdot x_k(W'') dW'' = d\\varphi(W). \\quad (32)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 860,
+      "bottomRightX": 581,
+      "bottomRightY": 917,
+      "content": "Diese Beziehung legt den Gedanken nahe, allgemein mit den Größen $x_k(W) dW$ als „Differentiallösungen“ von (27), Kap. 3, zu operieren, wobei man nur zu beachten hat, daß die betreffenden Gleichungen stets",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

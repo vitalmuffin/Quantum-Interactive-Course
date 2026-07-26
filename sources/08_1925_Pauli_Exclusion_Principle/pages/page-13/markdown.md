@@ -1,0 +1,15 @@
+Über den Zusammenhang des Abschlusses der Elektronengruppen usw. 777
+
+zahlen, nicht über ihre Größe und die Intervallverhältnisse etwas aussagen¹).
+
+Wir haben nun zu zeigen, daß die Folgerungen aus unserer Regel in den einfachsten Fällen mit der Erfahrung übereinstimmen. Ob sich diese auch in komplizierteren Fällen der Erfahrung gegenüber bewähren wird oder ob hier noch Modifikationen derselben erforderlich sein werden, bleibt abzuwarten und dürfte sich aus der weiteren Entwirrung komplizierter Spektren ergeben.
+
+Zunächst sehen wir, daß das Resultat von Stoner und damit die Periodenlängen 2, 8, 18, 32, ... im natürlichen System in unserer Regel unmittelbar enthalten sind. Denn es kann dann offenbar bei gegebenem $k_1$ und $k_2$ nicht mehr äquivalente Elektronen im Atom geben, als die Anzahl der zugehörigen Werte von $m_1$ beträgt (nämlich $2k_2$), und es gehört in den abgeschlossenen Gruppen zu jedem dieser Werte von $m_1$ gerade ein Elektron.
+
+Zweitens ergibt sich, daß unsere Regel das Ausfallen des Triplett-$s$-Termes mit derselben Hauptquantenzahl wie der Normalzustand bei den Erdalkalien direkt zur Folge hat. Wenn wir nämlich die Möglichkeiten für die äquivalente Bindung zweier Elektronen in $s$-Termen untersuchen (es ist hier also $k_1 = 1$ und auch $k_2$ kann nur den Wert 1 haben), so sind gemäß unserer Regel in starken Feldern die Fälle ausgeschlossen, daß für beide Elektronen $m_1 = 1/2$ oder für beide Elektronen $m_1 = -1/2$ ist; es kann hier vielmehr nur für das erste Elektron $m_1 = 1/2$, und für das zweite $m_1 = -1/2$ sein oder umgekehrt²), so daß die Quantenzahl $\overline{m}_1 = \sum m_1$ des ganzen Atoms nur des Wertes 0 fähig ist. Es ist daher hier auch in schwachen Feldern (oder bei Abwesenheit des Feldes) nur der Wert $j = 0$ möglich (Singulett-$S$-Term).
+
+Wir untersuchen nun ferner den Fall, daß aus einer abgeschlossenen Gruppe ein Elektron entfernt wird, wie er in den Röntgenspektren zutage tritt. Offenbar ist bei Fehlen eines Elektrons in einer der Stonerschen Teil-Untergruppen stets der Fall möglich, daß zu einem der Werte von
+
+¹) Anmerkung bei der Korrektur: In einer inzwischen erschienenen Arbeit von A. Sommerfeld (Phys. ZS. 26, 70, 1925) wird insbesondere die Frage nach dem Normalzustand der Atome im Zusammenhang mit dem Stonerschen Vorschlag diskutiert.
+
+²) Der umgekehrte Fall entspricht einer Vertauschung der beiden äquivalenten Elektronen und liefert daher hier keinen neuen stationären Zustand (vgl. Fußnote 1 auf S. 769). In dieser doppelten Realisierbarkeit des betrachteten Quantenzustandes ist aber enthalten, daß sein statistisches Gewicht mit Rücksicht auf die Vertauschbarkeit der beiden Elektronen mit zwei multipliziert werden muß (vgl. hierzu die Betrachtungen über statistische Gewichte in der zitierten Arbeit von Stoner).

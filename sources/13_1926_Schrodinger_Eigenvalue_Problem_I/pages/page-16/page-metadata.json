@@ -1,0 +1,128 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 660
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 89,
+      "topLeftY": 57,
+      "bottomRightX": 524,
+      "bottomRightY": 80,
+      "content": "376 E. Schrödinger. Quantisierung als Eigenwertproblem.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 93,
+      "bottomRightX": 566,
+      "bottomRightY": 154,
+      "content": "Die Anregung bestünde in einer gleichzeitigen Erregung einer oder mehrerer anderer Eigenfrequenzen, wodurch dann Schwebungen entstehen, welche die Lichtemission hervorrufen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 154,
+      "bottomRightX": 567,
+      "bottomRightY": 299,
+      "content": "Unter allen Umständen möchte ich glauben, daß die zur gleichen Frequenz gehörigen Eigenfunktionen im allgemeinen alle gleichzeitig angeregt sind. Mehrfachheit der Eigenwerte entspricht nämlich in der Sprache der bisherigen Theorie der Entartung. Der Reduktion der Quantisierung entarteter Systeme dürfte die willkürliche Aufteilung der Energie auf die zu einem Eigenwert gehörigen Eigenfunktionen entsprechen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 170,
+      "topLeftY": 332,
+      "bottomRightX": 488,
+      "bottomRightY": 352,
+      "content": "# Zusatz bei der Korrektur am 28. II. 1926.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 357,
+      "bottomRightX": 569,
+      "bottomRightY": 583,
+      "content": "Für den Fall der klassischen Mechanik konservativer Systeme läßt sich die Variationsaufgabe schöner, als eingangs geschehen, ohne ausdrückliche Beziehung auf die Hamiltonsche partielle Differentialgleichung folgendermaßen formulieren. Sei $T(q, p)$ die kinetische Energie als Funktion der Koordinaten und Impulse, $V$ die potentielle Energie, $d\\tau$ das Volumelement des Konfigurationenraums „rationell gemessen“, d. h. nicht einfach das Produkt $dq_1, dq_2 \\dots dq_n$, sondern noch dividiert durch die Quadratwurzel aus der Diskriminante der quadratischen Form $T(q, p)$. (Vgl. Gibbs, Statistische Mechanik.) Dann soll $\\psi$ das „Hamiltonsche Integral“",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 588,
+      "bottomRightX": 435,
+      "bottomRightY": 623,
+      "content": "$$(23) \\quad \\int d\\tau \\left\\{ K^2 T\\left(q, \\frac{\\partial \\psi}{\\partial q}\\right) + \\psi^2 V \\right\\}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 627,
+      "bottomRightX": 523,
+      "bottomRightY": 648,
+      "content": "stationär machen unter der normierenden Nebenbedingung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 650,
+      "bottomRightX": 381,
+      "bottomRightY": 683,
+      "content": "$$(24) \\quad \\int \\psi^2 d\\tau = 1.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 685,
+      "bottomRightX": 569,
+      "bottomRightY": 745,
+      "content": "Die Eigenwerte dieses Variationsproblems sind bekanntlich die stationären Werte des Integrals (23) und liefern nach unserer These die Quantenniveaus der Energie.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 745,
+      "bottomRightX": 569,
+      "bottomRightY": 823,
+      "content": "Zu (14') sei noch bemerkt, daß man in der Größe $\\alpha_2$ im wesentlichen den bekannten Sommerfeldschen Ausdruck $-\\frac{B}{\\sqrt{A}} + \\sqrt{C}$ vor sich hat (vgl. „Atombau“, 4. Aufl., S. 775).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 827,
+      "bottomRightX": 497,
+      "bottomRightY": 847,
+      "content": "Zürich, Physikalisches Institut der Universität.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 857,
+      "bottomRightX": 435,
+      "bottomRightY": 874,
+      "content": "(Eingegangen 27. Januar 1926.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 894,
+      "bottomRightX": 437,
+      "bottomRightY": 910,
+      "content": "Druck von Metzger & Wittig in Leipzig.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

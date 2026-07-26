@@ -1,0 +1,128 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 660
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 87,
+      "topLeftY": 58,
+      "bottomRightX": 118,
+      "bottomRightY": 77,
+      "content": "366",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 58,
+      "bottomRightX": 383,
+      "bottomRightY": 78,
+      "content": "E. Schrödinger.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 93,
+      "bottomRightX": 532,
+      "bottomRightY": 114,
+      "content": "Im Falle der Gleichung (7') wird also nach (11) und (10)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 118,
+      "bottomRightX": 567,
+      "bottomRightY": 208,
+      "content": "$$(14') \\begin{cases} c_1 = + \\sqrt{\\frac{-2mE}{K^2}}, & c_2 = - \\sqrt{\\frac{-2mE}{K^2}}; \\\\ \\alpha_1 = \\frac{me^2}{K \\sqrt{-2mE}} + n + 1, & \\alpha_2 = - \\frac{me^2}{K \\sqrt{-2mE}} + n + 1. \\end{cases}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 211,
+      "bottomRightX": 569,
+      "bottomRightY": 314,
+      "content": "Die Integraldarstellung (12) gestattet nicht nur, das asymptotische Verhalten der Gesamtheit von Lösungen, wenn $r$ in bestimmter Weise ins Unendliche geht, zu überblicken, sondern auch, dieses Verhalten für eine *bestimmte* Lösung anzugeben, was immer viel schwieriger ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 314,
+      "bottomRightX": 569,
+      "bottomRightY": 397,
+      "content": "Wir wollen nun zunächst den Fall, daß $\\alpha_1$ und $\\alpha_2$ reelle ganze Zahlen sind, *ausschließen*. Der Fall tritt, wenn er eintritt, stets für beide Größen gleichzeitig ein und zwar dann und nur dann, wenn",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 401,
+      "bottomRightX": 466,
+      "bottomRightY": 448,
+      "content": "$$(15) \\quad \\frac{me^2}{K \\sqrt{-2mE}} = \\text{reelle ganze Zahl} .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 450,
+      "bottomRightX": 497,
+      "bottomRightY": 472,
+      "content": "Wir nehmen also jetzt an, daß (15) nicht erfüllt ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 472,
+      "bottomRightX": 573,
+      "bottomRightY": 657,
+      "content": "Das Verhalten der Gesamtheit von Lösungen für eine bestimmte Art des Unendlichwerdens von $r$ — wir wollen stets denken für realpositives Unendlichwerden — wird alsdann$^{1)}$ charakterisiert durch das Verhalten der beiden linear unabhängigen Lösungen, die durch folgende *zwei Spezialisierungen* des Integrationsweges $L$ erhalten werden, und die wir $U_1$ und $U_2$ nennen wollen. *Beide* Male komme $z$ aus dem Unendlichen und gehe auf demselben Wege dorthin zurück, und zwar in solcher Richtung, daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 657,
+      "bottomRightX": 383,
+      "bottomRightY": 688,
+      "content": "$$(16) \\quad \\lim_{z \\to \\infty} e^{zr} = 0 ,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 689,
+      "bottomRightX": 573,
+      "bottomRightY": 772,
+      "content": "d.h. der Realteil von $zr$ soll negativ unendlich werden. Hierdurch wird der Bedingung (13) genügt. *Dazwischen* werde im *einen* Falle (Lösung $U_1$) die Stelle $c_1$, im *anderen* Falle (Lösung $U_2$) die Stelle $c_2$ je einmal umlaufen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 772,
+      "bottomRightX": 575,
+      "bottomRightY": 831,
+      "content": "Diese beiden Lösungen werden nun für sehr große realpositive $r$-Werte *asymptotisch* (im Sinne Poincarés) dargestellt durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 840,
+      "bottomRightX": 575,
+      "bottomRightY": 892,
+      "content": "1) Wenn (15) erfüllt ist, wird mindestens der eine von den beiden im Text beschriebenen Integrationswegen unbrauchbar, da er ein verschwindendes Ergebnis liefert.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "index": 16,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 535,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 46,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "17",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 94,
+      "bottomRightX": 677,
+      "bottomRightY": 141,
+      "content": "$$\\Phi \\, d\\omega = \\pi^2 k^2 \\left| \\sum_{n=0}^{\\infty} f_n^{\\infty}(-k\\mathfrak{s}) \\right|^2 d\\omega. \\tag{10}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 161,
+      "bottomRightX": 385,
+      "bottomRightY": 179,
+      "content": "The total solution has the asymptotic form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 197,
+      "bottomRightX": 589,
+      "bottomRightY": 241,
+      "content": "$$\\psi^{\\infty} = u_0^{\\infty} + \\sum_{n=1}^{\\infty} u_n^{\\infty} = \\frac{2\\pi}{k} \\left\\{ |c(\\mathfrak{s})| e^{ik(r+\\delta)} + k\\pi \\sum_{n=1}^{\\infty} f_n^{\\infty}(-k\\mathfrak{s}) e^{-ikr} \\right\\}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 260,
+      "bottomRightX": 675,
+      "bottomRightY": 297,
+      "content": "If one adds the time factor $e^{ik\\nu t}$ to this then formula (4), § 5 will easily give the “conservation of particle number.”",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 298,
+      "bottomRightX": 359,
+      "bottomRightY": 315,
+      "content": "In the first approximation, one has:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 334,
+      "bottomRightX": 677,
+      "bottomRightY": 363,
+      "content": "$$\\Phi \\, d\\omega = \\pi^2 k^2 \\left| f_0^{\\infty}(-k\\mathfrak{s}) \\right|^2 d\\omega, \\tag{11}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 381,
+      "bottomRightX": 501,
+      "bottomRightY": 400,
+      "content": "in which one calculates $f_0$, either rigorously from the formula:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 317,
+      "topLeftY": 419,
+      "bottomRightX": 677,
+      "bottomRightY": 459,
+      "content": "$$f_0(\\mathfrak{k}) = \\frac{1}{(2\\pi)^3} \\int F_0(\\mathfrak{r}) e^{-i(\\mathfrak{k}\\mathfrak{r})} dS \\tag{12}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 477,
+      "bottomRightX": 468,
+      "bottomRightY": 497,
+      "content": "or one can employ the asymptotic expression [from (8)]:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 514,
+      "bottomRightX": 677,
+      "bottomRightY": 552,
+      "content": "$$f_0^{\\infty}(-k\\mathfrak{s}) = \\frac{1}{4\\pi^2 i k} \\int_0^{\\infty} \\rho \\, d\\rho \\{ F_0(\\rho\\mathfrak{s}) e^{ik\\rho} - F_0(-\\rho\\mathfrak{s}) e^{-ik\\rho} \\}. \\tag{13}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 589,
+      "bottomRightX": 677,
+      "bottomRightY": 672,
+      "content": "§ 7. Inelastic electron collisions. Let an atom (or a molecule; however, we will still say “atom”) be given by the Hamiltonian function $H^a(p, q)$ ($^1$); let Schrödinger’s differential equation for this system be solved, so one knows the eigenvalues $W_n^a$ and eigenfunctions $\\psi_n^a(q)$ that satisfy the equations:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 328,
+      "topLeftY": 693,
+      "bottomRightX": 677,
+      "bottomRightY": 714,
+      "content": "$$[H^a - W_n^a, \\psi_n^a] = 0 \\tag{1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 716,
+      "bottomRightX": 187,
+      "bottomRightY": 734,
+      "content": "identically.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 733,
+      "bottomRightX": 668,
+      "bottomRightY": 751,
+      "content": "An electron collides with this atom; the Hamiltonian function for the free electron is:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 314,
+      "topLeftY": 770,
+      "bottomRightX": 473,
+      "bottomRightY": 811,
+      "content": "$$H^e = \\frac{1}{2\\mu} (p_x^2 + p_y^2 + p_z^2),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 830,
+      "bottomRightX": 562,
+      "bottomRightY": 850,
+      "content": "the eigenvalues are all positive numbers $W^e$, and the eigenfunctions are:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 913,
+      "bottomRightX": 442,
+      "bottomRightY": 933,
+      "content": "($^1$) We briefly write $p, q$, instead of $p_1, p_2, \\dots, p_f, q_1, \\dots, q_f$.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

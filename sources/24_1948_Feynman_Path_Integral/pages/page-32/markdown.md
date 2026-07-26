@@ -1,0 +1,13 @@
+describe measurements of quantities other than position. Measurements of momentum, for example, of one particle, can be defined in terms of measurements of positions of other particles. The result of the analysis of such a situation does show the connection of momentum measurements to the Fourier transform of the wave function. But this is a rather roundabout method to obtain such an important physical result. It is to be expected that the postulates can be generalized by the replacement of the idea of “paths in a region of space-time $R$” to “paths of class $R$,” or “paths having property $R$.” But which properties correspond to which physical measurements has not been formulated in a general way.
+
+## 12. A Possibility Generalization
+
+The formulation suggests an obvious generalization. There are interesting classical problems which satisfy a principle of least action but for which the action cannot be written as an integral of a function of positions and velocities. The action may involve accelerations, for example. Or, again, if interactions are not instantaneous, it may involve the product of coordinates at two different times, such as $\int x(t)x(t+T)dt$. The action, then, cannot be broken up into a sum of small contributions as in (10). As a consequence, no wave function is available to describe a state. Nevertheless, a transition probability can be defined for getting from a region $R'$ into another $R''$. Most of the theory of the transition elements $\langle \chi_{t''}|F|\psi_{t'} \rangle_S$ can be carried over. One simply invents a symbol, such as $\langle R''|F|R' \rangle_S$ by an equation such as (39) but with the expressions (19) and (20) for $\psi$ and $\chi$ substituted, and the more general action substituted for $S$. Hamiltonian and momentum functionals can be defined as in section (10). Further details may be found in a thesis by the author.$^{23}$
+
+## 13. Application to Eliminate Field Oscillators
+
+One characteristic of the present formulation is that it can give one a sort of bird's-eye view of the space-time relationships in a given situation. Before
+
+$^{23}$The theory of electromagnetism described by J. A. Wheeler and R. P. Feynman, *Rev. Mod. Phys.* **17**, 157 (1945) can be expressed in a principle of least action involving the coordinates of particles alone. It was an attempt to quantize this theory, without reference to the fields, which led the author to study the formulation of quantum mechanics given here. The extension of the ideas to cover the case of more general action functions was developed in his Ph.D. thesis, “The principle of least action in quantum mechanics” submitted to Princeton University, 1942.
+
+32

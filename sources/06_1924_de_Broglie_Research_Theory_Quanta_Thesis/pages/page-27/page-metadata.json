@@ -1,0 +1,128 @@
+{
+  "index": 26,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 133,
+      "topLeftY": 32,
+      "bottomRightX": 470,
+      "bottomRightY": 54,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 532,
+      "topLeftY": 34,
+      "bottomRightX": 556,
+      "bottomRightY": 56,
+      "content": "47",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 70,
+      "bottomRightX": 556,
+      "bottomRightY": 152,
+      "content": "les équations de Lagrange sous la forme générale donnée plus haut, admettent une intégrale première dite « énergie du système » et égale à :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 158,
+      "bottomRightX": 385,
+      "bottomRightY": 211,
+      "content": "$$W = - \\mathcal{L} + \\sum_i \\frac{\\partial \\mathcal{L}}{\\partial q_i} \\dot{q}_i$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 223,
+      "bottomRightX": 554,
+      "bottomRightY": 303,
+      "content": "à condition toutefois que la fonction $\\mathcal{L}$ ne dépende pas explicitement du temps, ce que nous supposerons toujours dans la suite. On a en effet alors :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 67,
+      "topLeftY": 312,
+      "bottomRightX": 528,
+      "bottomRightY": 429,
+      "content": "$$\\begin{aligned} \\frac{dW}{dt} &= - \\sum_i \\frac{\\partial \\mathcal{L}}{\\partial q_i} \\dot{q}_i - \\sum_i \\frac{\\partial \\mathcal{L}}{\\partial q_i} \\ddot{q}_i + \\sum_i \\frac{\\partial \\mathcal{L}}{\\partial q_i} \\ddot{q}_i + \\sum_i \\frac{d}{dt} \\left( \\frac{\\partial \\mathcal{L}}{\\partial \\dot{q}_i} \\right) \\dot{q}_i \\\\ &= \\sum_i \\dot{q}_i \\left[ \\frac{d}{dt} \\left( \\frac{\\partial \\mathcal{L}}{\\partial \\dot{q}_i} \\right) - \\frac{\\partial \\mathcal{L}}{\\partial q_i} \\right] \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 442,
+      "bottomRightX": 520,
+      "bottomRightY": 472,
+      "content": "quantité nulle d'après les équations de Lagrange. Donc :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 482,
+      "bottomRightX": 332,
+      "bottomRightY": 504,
+      "content": "$$W = C^{\\text{te}}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 521,
+      "bottomRightX": 550,
+      "bottomRightY": 651,
+      "content": "Appliquons maintenant le principe Hamiltonien à toutes les trajectoires « variées » qui conduisent de l'état initial donné A à l'état final donné B et qui correspondent à une valeur déterminée de l'énergie W. On peut écrire puisque W, $t_1$ et $t_2$ sont constants :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 147,
+      "topLeftY": 662,
+      "bottomRightX": 436,
+      "bottomRightY": 706,
+      "content": "$$\\delta \\int_{t_1}^{t_2} \\mathcal{L} dt = \\delta \\int_{t_1}^{t_2} (\\mathcal{L} + W) dt = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 717,
+      "bottomRightX": 176,
+      "bottomRightY": 739,
+      "content": "ou bien encore :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 754,
+      "bottomRightX": 462,
+      "bottomRightY": 811,
+      "content": "$$\\delta \\int_{t_1}^{t_2} \\sum_i \\frac{\\partial \\mathcal{L}}{\\partial q_i} \\dot{q}_i dt = \\delta \\int_{\\Lambda}^{\\Lambda} \\sum_i \\frac{\\partial \\mathcal{L}}{\\partial q_i} dq_i = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 33,
+      "topLeftY": 824,
+      "bottomRightX": 547,
+      "bottomRightY": 956,
+      "content": "la dernière intégrale étant étendue à toutes les valeurs des $q_i$ comprises entre celles qui définissent les états A et B de sorte que le temps se trouve éliminé ; il n'y a donc plus lieu dans la nouvelle forme obtenue d'imposer aucune restriction relative aux limites du temps. Par contre, les trajec-",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

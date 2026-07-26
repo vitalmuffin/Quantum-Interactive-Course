@@ -1,0 +1,101 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 178,
+      "topLeftY": 40,
+      "bottomRightX": 442,
+      "bottomRightY": 61,
+      "content": "Quantisierung als Eigenwertproblem",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 518,
+      "topLeftY": 40,
+      "bottomRightX": 551,
+      "bottomRightY": 59,
+      "content": "115",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 76,
+      "bottomRightX": 552,
+      "bottomRightY": 221,
+      "content": "[Das untere Vorzeichen, d. h. die zweite Gleichung (7), lassen wir fortan beiseite, sie würde nichts Neues liefern.] Das Zusatzglied $w(x, t)$ darf als klein angesehen, sein Produkt mit dem Störungspotential darf vernachlässigt werden. Berücksichtigt man das beim Einsetzen von (10) in (7) und berücksichtigt man, daß $u_k(x)$ und $E_k$ Eigenfunktion und Eigenwert des ungestörten Problems sind, so kommt:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 226,
+      "bottomRightX": 551,
+      "bottomRightY": 317,
+      "content": "$$(11) \\begin{cases} \\Delta w - \\frac{8\\pi^2}{h^2} V_0 w - \\frac{4\\pi i}{h} \\frac{\\partial w}{\\partial t} = \\frac{8\\pi^2}{h^2} A \\cos 2\\pi v t \\cdot u_k e^{\\frac{2\\pi i E_k t}{h}} \\\\ = \\frac{4\\pi^2}{h^2} A u_k \\cdot \\left( e^{\\frac{2\\pi i t}{h} (E_k + h\\nu)} + e^{\\frac{2\\pi i t}{h} (E_k - h\\nu)} \\right). \\end{cases}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 330,
+      "bottomRightX": 552,
+      "bottomRightY": 372,
+      "content": "Dieser Gleichung ist leicht und wesentlich *nur* durch den Ansatz zu genügen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 376,
+      "bottomRightX": 505,
+      "bottomRightY": 414,
+      "content": "$$(12) \\quad w = w_+(x) e^{\\frac{2\\pi i t}{h} (E_k + h\\nu)} + w_-(x) e^{\\frac{2\\pi i t}{h} (E_k - h\\nu)},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 425,
+      "bottomRightX": 553,
+      "bottomRightY": 466,
+      "content": "wenn man die zwei Funktionen $w_\\pm$ bzw. den zwei Gleichungen unterwirft",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 465,
+      "bottomRightX": 481,
+      "bottomRightY": 497,
+      "content": "$$(13) \\quad \\Delta w_\\pm + \\frac{8\\pi^2}{h^2} (E_k \\pm h\\nu - V_0) w_\\pm = \\frac{4\\pi^2}{h^2} A u_k.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 511,
+      "bottomRightX": 554,
+      "bottomRightY": 653,
+      "content": "Dieser Schritt ist wesentlich *eindeutig*. Zwar scheint es zunächst, daß man zu (12) noch ein beliebiges Aggregat ungestörter Eigenschwingungen hinzufügen kann. Allein dieses Aggregat müßte klein von erster Ordnung angenommen werden (da diese Annahme über $w$ gemacht ist) und bietet dann vorläufig kein Interesse, da es höchstens Störungen von der zweiten Ordnung hervorruft.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 653,
+      "bottomRightX": 557,
+      "bottomRightY": 878,
+      "content": "In den Gleichungen (13) haben wir nun endlich jene *inhomogenen* Gleichungen vor uns, auf die zu stoßen wir füglich erwarten durften — trotz des oben betonten Mangels an Analogie mit eigentlichen erzwungenen Schwingungen. Dieser Mangel an Analogie ist außerordentlich wichtig und gibt sich in den Gleichungen (13) in folgenden zwei Umständen kund. *Erstens* tritt als „zweites Glied“ („erregende Kraft“) nicht die Störungsfunktion $A(x)$ *allein* auf, sondern ihr *Produkt* mit der schon vorhandenen freien Schwingungsamplitude. Das ist unerläßlich, um den physikalischen Tatsachen gerecht zu werden, denn die Reaktion des Atoms auf eine einfallende Lichtwelle",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

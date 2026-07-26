@@ -1,0 +1,101 @@
+{
+  "index": 12,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 156,
+      "bottomRightX": 585,
+      "bottomRightY": 187,
+      "content": "wave function $\\psi(x,t)$ is sufficient to define those attributes which are left from past history which determine future behavior.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 190,
+      "bottomRightX": 587,
+      "bottomRightY": 384,
+      "content": "Likewise, the function $\\chi(x,t)$ characterizes the experience, or, let us say, experiment to which the system is to be subjected. If a different region, $r''$ and different Lagrangian after $t$, were to give the same $\\chi^*(x,t)$ *via* Eq. (16), as does region $R''$, then no matter what the preparation, $\\psi$, Eq. (14) says that the chance of finding the system in $R''$ is always the same as finding it in $r''$. The two “experiments” $R''$ and $r''$ are equivalent, as they yield the same results. We shall say loosely that these experiments are to determine with what probability the system is in state $\\chi$. Actually, this terminology is poor. The system is really in state $\\psi$. The reason we can associate a state with an experiment is, of course, that for an ideal experiment there turns out to be a unique state (whose wave function is $\\chi(x,t)$), for which the experiment succeeds with certainty.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 384,
+      "bottomRightX": 587,
+      "bottomRightY": 433,
+      "content": "Thus, we can say: the probability that a system in state $\\psi$ will be found by an experiment whose characteristic state is $\\chi$ (or, more loosely, the chance that a system in state $\\psi$ will appear to be in $\\chi$) is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 300,
+      "topLeftY": 439,
+      "bottomRightX": 585,
+      "bottomRightY": 475,
+      "content": "$$\\left| \\int \\chi^*(x,t)\\psi(x,t)dx \\right|^2. \\quad (17)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 481,
+      "bottomRightX": 587,
+      "bottomRightY": 529,
+      "content": "These results agree, of course, with the principles of ordinary quantum mechanics. They are a consequence of the fact that the Lagrangian is a function of position, velocity, and time only.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 550,
+      "bottomRightX": 345,
+      "bottomRightY": 570,
+      "content": "## 6. The Wave Equation",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 583,
+      "bottomRightX": 587,
+      "bottomRightY": 697,
+      "content": "To complete the proof of the equivalence with the ordinary formulation we shall have to show that the wave function defined in the previous section by Eq. (15) actually satisfies the Schroedinger wave equation. Actually, we shall only succeed in doing this when the Lagrangian $L$ in (11) is a quadratic, but perhaps inhomogeneous, form in the velocities $\\dot{x}(t)$. This is not a limitation, however, as it includes all the cases for which the Schroedinger equation has been verified by experiment.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 698,
+      "bottomRightX": 587,
+      "bottomRightY": 763,
+      "content": "The wave equation describes the development of the wave function with time. We may expect to approach it by noting that, for finite $\\epsilon$, Eq. (15) permits a simple recursive relation to be developed. Consider the appearance of Eq. (15) if we were to compute $\\psi$ at the next instant of time:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 173,
+      "topLeftY": 769,
+      "bottomRightX": 585,
+      "bottomRightY": 812,
+      "content": "$$\\psi(x_{k+1}, t+\\epsilon) = \\int_{R'} \\exp\\left[ \\frac{i}{\\hbar} \\sum_{i=-\\infty}^k S(x_{i+1}, x_i) \\right] \\times \\frac{dx_k}{A} \\frac{dx_{k-1}}{A} \\dots \\quad (15')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "13",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

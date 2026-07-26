@@ -1,0 +1,110 @@
+{
+  "index": 44,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 137,
+      "topLeftY": 37,
+      "bottomRightX": 474,
+      "bottomRightY": 57,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 538,
+      "topLeftY": 36,
+      "bottomRightX": 561,
+      "bottomRightY": 56,
+      "content": "65",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 77,
+      "bottomRightX": 561,
+      "bottomRightY": 322,
+      "content": "fermé sur lui-même et de profondeur variable. Il est physiquement évident que, pour avoir un régime stable, la longueur du canal doit être en résonance avec l'onde; autrement dit, les portions d'onde qui se suivent à une distance égale à un multiple entier de la longueur $l$ du canal et qui se trouvent par suite au même point de celui-ci, doivent être en phase. La condition de résonance est $l = n\\lambda$ si la longueur d'onde est constante et $\\oint \\frac{\\nu}{\\nu} dl = n$ (entier) dans le cas général.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 324,
+      "bottomRightX": 558,
+      "bottomRightY": 450,
+      "content": "L'intégrale qui intervient ici est celle du principe de Fermat; or, nous avons montré qu'on devait la considérer comme égale à l'intégrale d'action Maupertuisienne divisée par $h$. La condition de résonance est donc identique à la condition de stabilité exigée par la théorie des quanta.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 452,
+      "bottomRightX": 557,
+      "bottomRightY": 554,
+      "content": "Ce beau résultat dont la démonstration est si immédiate quand on a admis les idées du précédent chapitre est la meilleure justification que nous puissions donner de notre manière d'attaquer le problème des quanta.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 557,
+      "bottomRightX": 555,
+      "bottomRightY": 652,
+      "content": "Dans le cas particulier des trajectoires circulaires dans l'atome de Bohr, on obtient $m_0 \\oint v dl = 2\\pi R m_0 v = nh$ ou, puisque l'on a $v = \\omega R$ si $\\omega$ est la vitesse angulaire,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 673,
+      "bottomRightX": 362,
+      "bottomRightY": 711,
+      "content": "$$m_0 \\omega R^2 = n \\frac{h}{2\\pi}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 735,
+      "bottomRightX": 553,
+      "bottomRightY": 783,
+      "content": "C'est bien là la forme simple primitivement envisagée par Bohr.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 786,
+      "bottomRightX": 553,
+      "bottomRightY": 938,
+      "content": "Nous voyons donc bien pourquoi certaines orbites sont stables, mais nous ignorons encore comment a lieu le passage d'une orbite stable à une autre. Le régime troublé qui accompagne ce passage ne pourra être étudié qu'à l'aide d'une théorie électromagnétique convenablement modifiée et nous ne la possédons pas encore.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 957,
+      "bottomRightX": 458,
+      "bottomRightY": 981,
+      "content": "Ann. de Phys., 10^{}[] $^{e}$^{}[] série, t. III (Janvier-Février 1925)",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 520,
+      "topLeftY": 961,
+      "bottomRightX": 534,
+      "bottomRightY": 979,
+      "content": "5",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

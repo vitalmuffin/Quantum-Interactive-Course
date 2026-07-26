@@ -1,0 +1,47 @@
+{
+  "index": 24,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 537,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 659,
+      "topLeftY": 46,
+      "bottomRightX": 675,
+      "bottomRightY": 60,
+      "content": "25",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 93,
+      "bottomRightX": 679,
+      "bottomRightY": 203,
+      "content": "a boundary-value problem, but an initial-value problem for the coupled wave equations for the Schrödinger ψ-quantity and the electromagnetic field. Finding the law of this coupling is certainly one of the most pressing problems; as I am aware, it has been addressed in several places (¹). Once that law has been formulated, it will perhaps be possible to devise a rational theory of the lifetimes of states, the transition probabilities for radiation processes, and the damping and line widths.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 912,
+      "bottomRightX": 547,
+      "bottomRightY": 933,
+      "content": "(¹) See, e.g., the soon-to-appear treatise of O. Klein, Zeit. Phys. 37 (1926), 895.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

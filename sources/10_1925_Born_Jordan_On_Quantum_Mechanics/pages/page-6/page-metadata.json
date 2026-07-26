@@ -1,0 +1,191 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 277,
+      "topLeftY": 105,
+      "bottomRightX": 410,
+      "bottomRightY": 122,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 557,
+      "topLeftY": 106,
+      "bottomRightX": 585,
+      "bottomRightY": 121,
+      "content": "863",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 142,
+      "bottomRightX": 586,
+      "bottomRightY": 222,
+      "content": "$x_1 x_1 x_2 x_2$); man greife irgend einen Faktor $x_k$ heraus und bilde das Produkt aller ihm folgenden Faktoren und aller ihm voraufgehenden Faktoren (in dieser Reihenfolge). Die Summe aller so gebildeten Glieder ist der Differentialquotient des Produkts nach diesem $x_k$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 224,
+      "bottomRightX": 460,
+      "bottomRightY": 242,
+      "content": "Einige Beispiele mögen das Verfahren erläutern:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 123,
+      "topLeftY": 250,
+      "bottomRightX": 351,
+      "bottomRightY": 284,
+      "content": "$$y = x^n, \\quad \\frac{dy}{dx} = nx^{n-1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 290,
+      "bottomRightX": 581,
+      "bottomRightY": 327,
+      "content": "$$y = x_1^n x_2^m, \\quad \\frac{\\partial y}{\\partial x_1} = x_1^{n-1} x_2^m + x_1^{n-2} x_2^m x_1 + \\dots + x_k^m x_1^{n-1},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 123,
+      "topLeftY": 330,
+      "bottomRightX": 521,
+      "bottomRightY": 367,
+      "content": "$$y = x_1^2 x_2 x_1 x_3, \\quad \\frac{\\partial y}{\\partial x_1} = x_1 x_2 x_1 x_3 + x_2 x_1 x_3 x_1 + x_3 x_1^2 x_2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 371,
+      "bottomRightX": 265,
+      "bottomRightY": 389,
+      "content": "Fordern wir ferner",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 254,
+      "topLeftY": 396,
+      "bottomRightX": 581,
+      "bottomRightY": 434,
+      "content": "$$\\frac{\\partial(y_1 + y_2)}{\\partial x_k} = \\frac{\\partial y_1}{\\partial x_k} + \\frac{\\partial y_2}{\\partial x_k}, \\tag{15}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 441,
+      "bottomRightX": 581,
+      "bottomRightY": 492,
+      "content": "so ist die Ableitung $\\frac{\\partial y}{\\partial x}$ für allgemeinste analytische Funktionen $y$ definiert.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 496,
+      "bottomRightX": 581,
+      "bottomRightY": 533,
+      "content": "Mit diesen Definitionen und der der Diagonalsumme (9) gilt die Beziehung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 266,
+      "topLeftY": 533,
+      "bottomRightX": 579,
+      "bottomRightY": 571,
+      "content": "$$\\frac{\\partial D(y)}{\\partial x_k (nm)} = \\frac{\\partial y}{\\partial x_k} (mn), \\tag{16}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 572,
+      "bottomRightX": 581,
+      "bottomRightY": 684,
+      "content": "wobei rechts die $mn$-Komponente der Matrix $\\frac{\\partial y}{\\partial x_k}$ steht. Diese Beziehung kann auch zur Definition der Ableitung $\\frac{\\partial y}{\\partial x_k}$ benutzt werden. Zum Beweis von (16) genügt es offenbar, eine Funktion $y$ der Form (13) zu betrachten. Nach (14) und (3) wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 141,
+      "topLeftY": 693,
+      "bottomRightX": 577,
+      "bottomRightY": 738,
+      "content": "$$\\frac{\\partial y}{\\partial x_k} (mn) = \\sum_{r=1}^s \\delta_{l_r k} \\sum_{\\tau} \\prod_{p=r+1}^s x_{l_p} (\\tau_p \\tau_{p+1}) \\prod_{p=1}^{r-1} x_{l_p} (\\tau_p \\tau_{p+1}); \\tag{17}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 745,
+      "bottomRightX": 473,
+      "bottomRightY": 761,
+      "content": "$$\\tau_{r+1} = m, \\quad \\tau_{s+1} = \\tau_1, \\quad \\tau_r = n.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 132,
+      "topLeftY": 767,
+      "bottomRightX": 443,
+      "bottomRightY": 786,
+      "content": "Andererseits ist aus (3) und (9) zu entnehmen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 793,
+      "bottomRightX": 577,
+      "bottomRightY": 839,
+      "content": "$$\\frac{\\partial D(y)}{\\partial x_k (mn)} = \\sum_{r=1}^s \\delta_{l_r k} \\sum_{\\tau} \\prod_{p=1}^{r-1} x_{l_p} (\\tau_p \\tau_{p+1}) \\prod_{p=r+1}^s x_{l_p} (\\tau_p \\tau_{p+1}); \\tag{17'}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 846,
+      "bottomRightX": 471,
+      "bottomRightY": 861,
+      "content": "$$\\tau_1 = \\tau_{s+1}, \\quad \\tau_r = n, \\quad \\tau_{r+1} = m.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 867,
+      "bottomRightX": 361,
+      "bottomRightY": 886,
+      "content": "Vergleich von (17) und (17') gibt (16).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 888,
+      "bottomRightX": 577,
+      "bottomRightY": 928,
+      "content": "Hervorgehoben sei gleich hier eine für später wichtige Tatsache, die aus der Definition (14) abzulesen ist: Die partiellen Ableitungen",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

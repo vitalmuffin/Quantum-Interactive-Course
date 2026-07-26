@@ -1,0 +1,1249 @@
+{
+  "document_id": "49_1982_aspect_bells_inequalities",
+  "source_filename": "Physical_Review_Letters_Volume_49_Number_25_20_December_1982.pdf",
+  "metadata": {
+    "title_original": "Experimental Test of Bell's Inequalities Using Time-Varying Analyzers",
+    "title_normalized": "Experimental Test of Bell's Inequalities Using Time-Varying Analyzers",
+    "authors": [
+      "Alain Aspect",
+      "Jean Dalibard",
+      "Gérard Roger"
+    ],
+    "publication_year": 1982,
+    "original_language": "en",
+    "journal": "Physical Review Letters",
+    "volume": "49",
+    "issue": "25",
+    "page_range": "1804-1807",
+    "doi": "10.1103/PhysRevLett.49.1804",
+    "received_date": "27 September 1982",
+    "abstract_original": "Correlations of linear polarizations of pairs of photons have been measured with time-varying analyzers. The analyzer in each leg of the apparatus is an acousto-optical switch followed by two linear polarizers. The switches operate at incommensurate frequencies near 50 MHz. Each analyzer amounts to a polarizer which jumps between two orientations in a time short compared with the photon transit time. The results are in good agreement with quantum mechanical predictions but violate Bell's inequalities by 5 standard deviations. PACS numbers: 03.65.Bz, 35.80.+s"
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "1804",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "VOLUME 49, NUMBER 25",
+          "markdown": "VOLUME 49, NUMBER 25",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "PHYSICAL REVIEW LETTERS",
+          "markdown": "PHYSICAL REVIEW LETTERS",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.92,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "20 DECEMBER 1982",
+          "markdown": "20 DECEMBER 1982",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.75,
+            0.92,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 1,
+          "text_original": "for trapping as b decreases is reflective of the incorporation of periodic components into the sequence of numbers generated.",
+          "markdown": "for trapping as b decreases is reflective of the incorporation of periodic components into the sequence of numbers generated.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.85,
+          "needs_manual_review": true,
+          "review_reason": "Unclear context; likely part of a preceding article or footnote."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "To summarize the motivation and principal conclusion of this Letter, we restate¹ that for values of b where numerically generated sequences appear to be chaotic, it has not been settled whether those sequences \"are truly chaotic, or whether, in fact, they are really periodic, but with exceedingly large periods and very long transients required to settle down.\" On the one hand, Grossman and Thomae⁵,⁶ have suggested that (only) the parameter value b = 1 generates pure chaos [see the discussion following Eq. (31) of Ref. 5 and the correlations plotted in their Fig. 9]. On the other hand, for certain other values of b, numerical results of Lorenz (reported in Ref. 1) \"strongly suggest that the sequences are truly chaotic.\" The purpose of this communication was to use an independent and exact result from the statistical-mechanical theory of d = 1 random walks to test the randomness of the parabolic map for parameter values where the existence of \"true chaos\" is still an open question.",
+          "markdown": "To summarize the motivation and principal conclusion of this Letter, we restate[^1] that for values of $b$ where numerically generated sequences appear to be chaotic, it has not been settled whether those sequences \"are truly chaotic, or whether, in fact, they are really periodic, but with exceedingly large periods and very long transients required to settle down.\" On the one hand, Grossmann and Thomae[^5][^6] have suggested that (only) the parameter value $b = 1$ generates pure chaos [see the discussion following Eq. (31) of Ref. [^5] and the correlations plotted in their Fig. 9]. On the other hand, for certain other values of $b$, numerical results of Lorenz (reported in Ref. [^1]) \"strongly suggest that the sequences are truly chaotic.\" The purpose of this communication was to use an independent and exact result from the statistical-mechanical theory of $d = 1$ random walks to test the randomness of the parabolic map for parameter values where the existence of \"true chaos\" is still an open question.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Our results strongly support the conclusions of Grossmann and Thomae.",
+          "markdown": "Our results strongly support the conclusions of Grossmann and Thomae.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.68,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This research was supported by the Office of Basic Energy Sciences of the U. S. Department of Energy.",
+          "markdown": "This research was supported by the Office of Basic Energy Sciences of the U. S. Department of Energy.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.68
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "(a) Permanent address: Miles Laboratories, Elkhart, Ind. 46652.",
+          "markdown": "(a) Permanent address: Miles Laboratories, Elkhart, Ind. 46652.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.62,
+            0.4,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "(b) Present address: Department of Chemistry, Stanford University, Stanford, Cal. 94305.",
+          "markdown": "(b) Present address: Department of Chemistry, Stanford University, Stanford, Cal. 94305.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.62
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "¹ E. Ott, Rev. Mod. Phys. 53, 655 (1981).",
+          "markdown": "[^1]: E. Ott, *Rev. Mod. Phys.* **53**, 655 (1981).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.58
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "² C. A. Walsh and J. J. Kozak, Phys. Rev. Lett. 47, 1500 (1981).",
+          "markdown": "[^2]: C. A. Walsh and J. J. Kozak, *Phys. Rev. Lett.* **47**, 1500 (1981).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.53,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "³ E. W. Montroll, Proc. Symp. Appl. Math. Am. Math. Soc. 16, 193 (1964); E. W. Montroll and G. W. Weiss, J. Math. Phys. 6, 167 (1965); E. W. Montroll, J. Math. Phys. 10, 753 (1969).",
+          "markdown": "[^3]: E. W. Montroll, *Proc. Symp. Appl. Math. Am. Math. Soc.* **16**, 193 (1964); E. W. Montroll and G. W. Weiss, *J. Math. Phys.* **6**, 167 (1965); E. W. Montroll, *J. Math. Phys.* **10**, 753 (1969).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.53
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "⁴ K. Tomita, in Pattern Formation by Dynamic Systems and Pattern Recognition, edited by H. Haken (Springer-Verlag, Heidelberg, 1979), pp. 90-97.",
+          "markdown": "[^4]: K. Tomita, in *Pattern Formation by Dynamic Systems and Pattern Recognition*, edited by H. Haken (Springer-Verlag, Heidelberg, 1979), pp. 90–97.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.47,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "⁵ S. Thomae and S. Grossmann, J. Stat. Phys. 26, 485 (1981).",
+          "markdown": "[^5]: S. Thomae and S. Grossmann, *J. Stat. Phys.* **26**, 485 (1981).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.47
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "reference",
+          "level": null,
+          "text_original": "⁶ S. Grossmann and S. Thomae, Z. Naturforsch. 32a, 1353 (1977).",
+          "markdown": "[^6]: S. Grossmann and S. Thomae, *Z. Naturforsch.* **32a**, 1353 (1977).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.43,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 16,
+          "block_type": "heading",
+          "level": 1,
+          "text_original": "Experimental Test of Bell's Inequalities Using Time-Varying Analyzers",
+          "markdown": "# Experimental Test of Bell's Inequalities Using Time-Varying Analyzers",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 17,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Alain Aspect, Jean Dalibard,⁽ᵃ⁾ and Gérard Roger",
+          "markdown": "Alain Aspect, Jean Dalibard[^a], and Gérard Roger",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 18,
+          "block_type": "affiliation",
+          "level": null,
+          "text_original": "Institut d'Optique Théorique et Appliquée, F-91406 Orsay Cédex, France",
+          "markdown": "Institut d'Optique Théorique et Appliquée, F-91406 Orsay Cédex, France",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.28,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 19,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Received 27 September 1982)",
+          "markdown": "(Received 27 September 1982)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.28
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 20,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Correlations of linear polarizations of pairs of photons have been measured with time-varying analyzers. The analyzer in each leg of the apparatus is an acousto-optical switch followed by two linear polarizers. The switches operate at incommensurate frequencies near 50 MHz. Each analyzer amounts to a polarizer which jumps between two orientations in a time short compared with the photon transit time. The results are in good agreement with quantum mechanical predictions but violate Bell's inequalities by 5 standard deviations.",
+          "markdown": "Correlations of linear polarizations of pairs of photons have been measured with time-varying analyzers. The analyzer in each leg of the apparatus is an acousto-optical switch followed by two linear polarizers. The switches operate at incommensurate frequencies near 50 MHz. Each analyzer amounts to a polarizer which jumps between two orientations in a time short compared with the photon transit time. The results are in good agreement with quantum mechanical predictions but violate Bell's inequalities by 5 standard deviations.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 21,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "PACS numbers: 03.65.Bz, 35.80.+s",
+          "markdown": "PACS numbers: 03.65.Bz, 35.80.+s",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# VOLUME 49, NUMBER 25\n\n## PHYSICAL REVIEW LETTERS\n\n### 20 DECEMBER 1982\n\nfor trapping as b decreases is reflective of the incorporation of periodic components into the sequence of numbers generated.\n\nTo summarize the motivation and principal conclusion of this Letter, we restate[^1] that for values of $b$ where numerically generated sequences appear to be chaotic, it has not been settled whether those sequences \"are truly chaotic, or whether, in fact, they are really periodic, but with exceedingly large periods and very long transients required to settle down.\" On the one hand, Grossmann and Thomae[^5][^6] have suggested that (only) the parameter value $b = 1$ generates pure chaos [see the discussion following Eq. (31) of Ref. [^5] and the correlations plotted in their Fig. 9]. On the other hand, for certain other values of $b$, numerical results of Lorenz (reported in Ref. [^1]) \"strongly suggest that the sequences are truly chaotic.\" The purpose of this communication was to use an independent and exact result from the statistical-mechanical theory of $d = 1$ random walks to test the randomness of the parabolic map for parameter values where the existence of \"true chaos\" is still an open question.\n\nOur results strongly support the conclusions of Grossmann and Thomae.\n\nThis research was supported by the Office of Basic Energy Sciences of the U. S. Department of Energy.\n\n(a) Permanent address: Miles Laboratories, Elkhart, Ind. 46652.\n\n(b) Present address: Department of Chemistry, Stanford University, Stanford, Cal. 94305.\n\n[^1]: E. Ott, *Rev. Mod. Phys.* **53**, 655 (1981).\n\n[^2]: C. A. Walsh and J. J. Kozak, *Phys. Rev. Lett.* **47**, 1500 (1981).\n\n[^3]: E. W. Montroll, *Proc. Symp. Appl. Math. Am. Math. Soc.* **16**, 193 (1964); E. W. Montroll and G. W. Weiss, *J. Math. Phys.* **6**, 167 (1965); E. W. Montroll, *J. Math. Phys.* **10**, 753 (1969).\n\n[^4]: K. Tomita, in *Pattern Formation by Dynamic Systems and Pattern Recognition*, edited by H. Haken (Springer-Verlag, Heidelberg, 1979), pp. 90–97.\n\n[^5]: S. Thomae and S. Grossmann, *J. Stat. Phys.* **26**, 485 (1981).\n\n[^6]: S. Grossmann and S. Thomae, *Z. Naturforsch.* **32a**, 1353 (1977).\n\n# Experimental Test of Bell's Inequalities Using Time-Varying Analyzers\n\nAlain Aspect, Jean Dalibard[^a], and Gérard Roger\n\nInstitut d'Optique Théorique et Appliquée, F-91406 Orsay Cédex, France\n\n(Received 27 September 1982)\n\nCorrelations of linear polarizations of pairs of photons have been measured with time-varying analyzers. The analyzer in each leg of the apparatus is an acousto-optical switch followed by two linear polarizers. The switches operate at incommensurate frequencies near 50 MHz. Each analyzer amounts to a polarizer which jumps between two orientations in a time short compared with the photon transit time. The results are in good agreement with quantum mechanical predictions but violate Bell's inequalities by 5 standard deviations.\n\nPACS numbers: 03.65.Bz, 35.80.+s",
+      "word_count": 250,
+      "page_quality_notes": [
+        "Block 4 (heading) appears to be part of a preceding article or footnote; context is unclear.",
+        "Minor OCR issues in mathematical notation (e.g., subscripts in equations), but overall high confidence."
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "1805",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "VOLUME 49, NUMBER 25",
+          "markdown": "VOLUME 49, NUMBER 25",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "PHYSICAL REVIEW LETTERS",
+          "markdown": "PHYSICAL REVIEW LETTERS",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.92,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "20 DECEMBER 1982",
+          "markdown": "20 DECEMBER 1982",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.75,
+            0.92,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bell's inequalities apply to any correlated measurement on two correlated systems. For instance, in the optical version of the Einstein-Podolsky-Rosen-Bohm Gedankenexperiment,¹ a source emits pairs of photons (Fig. 1). Measurements of the correlations of linear polarizations are performed on two photons belonging to the same pair. For pairs emitted in suitable states, the correlations are strong. To account for these correlations, Bell² considered theories which invoke common properties of both members of the",
+          "markdown": "Bell's inequalities apply to any correlated measurement on two correlated systems. For instance, in the optical version of the Einstein-Podolsky-Rosen-Bohm *Gedankenexperiment*[^1], a source emits pairs of photons ([Fig. 1](#fig1)). Measurements of the correlations of linear polarizations are performed on two photons belonging to the same pair. For pairs emitted in suitable states, the correlations are strong. To account for these correlations, Bell[^2] considered theories which invoke common properties of both members of the",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.92
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "figure",
+          "level": null,
+          "text_original": null,
+          "markdown": "![Optical version of the Einstein-Podolsky-Rosen-Bohm Gedankenexperiment. The pair of photons ν₁ and ν₂ is analyzed by linear polarizers I and II (in orientations ā and b̄) and photomultipliers. The coincidence rate is monitored.](pictures/fig_p002_01.png)",
+          "asset_id": "fig_p002_01",
+          "suggested_filename": "pictures/fig_p002_01.png",
+          "caption_original": "FIG. 1. Optical version of the Einstein-Podolsky-Rosen-Bohm Gedankenexperiment. The pair of photons ν₁ and ν₂ is analyzed by linear polarizers I and II (in orientations ā and b̄) and photomultipliers. The coincidence rate is monitored.",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.8,
+            0.85
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "pair. Such properties are referred to as supplementary parameters. This is very different from the quantum mechanical formalism, which does not involve such properties. With the addition of a reasonable locality assumption, Bell showed that such classical-looking theories are constrained by certain inequalities that are not always obeyed by quantum mechanical predictions.",
+          "markdown": "pair. Such properties are referred to as *supplementary parameters*. This is very different from the quantum mechanical formalism, which does not involve such properties. With the addition of a reasonable locality assumption, Bell showed that such classical-looking theories are constrained by certain inequalities that are not always obeyed by quantum mechanical predictions.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Several experiments of increasing accuracy have been performed and clearly favor quantum mechanics. Experiments using pairs of visible photons emitted in atomic radiative cascades seem to achieve a good realization of the ideal Gedankenexperiment. However, all these experiments have been performed with static setups, in which polarizers are held fixed for the whole duration of a run. Then, one might question Bell's locality assumption, that states that the results of the measurement by polarizer II does not depend on the orientation a of polarizer I (and vice versa), nor does the way in which pairs are emitted depend on a or b. Although highly reasonable, such a locality condition is not prescribed by any fundamental physical law. As pointed out by Bell, it is possible, in such experiments, to reconcile supplementary-parameter theories and the experimentally verified predictions of quantum mechanics: \"The settings of the instruments are made sufficiently in advance to allow them to reach some mutual rapport by exchange of signals with velocity less than or equal to that of light.\" If such interactions existed, Bell's locality condition would no longer hold for static experiments, nor would Bell's inequalities.",
+          "markdown": "Several experiments of increasing accuracy have been performed and clearly favor quantum mechanics. Experiments using pairs of visible photons emitted in atomic radiative cascades seem to achieve a good realization of the ideal *Gedankenexperiment*. However, all these experiments have been performed with static setups, in which polarizers are held fixed for the whole duration of a run. Then, one might question Bell's locality assumption, that states that the results of the measurement by polarizer II does not depend on the orientation $a$ of polarizer I (and vice versa), nor does the way in which pairs are emitted depend on $a$ or $b$. Although highly reasonable, such a locality condition is not prescribed by any fundamental physical law. As pointed out by Bell, it is possible, in such experiments, to reconcile supplementary-parameter theories and the experimentally verified predictions of quantum mechanics: \"The settings of the instruments are made sufficiently in advance to allow them to reach some mutual rapport by exchange of signals with velocity less than or equal to that of light.\" If such interactions existed, Bell's locality condition would no longer hold for static experiments, nor would Bell's inequalities.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bell thus insisted upon the importance of \"experiments of the type proposed by Bohm and Aharonov, in which the settings are changed during the flight of the particles.\" In such a \"timing experiment,\" the locality condition would then become a consequence of Einstein's causality, preventing any faster-than-light influence.",
+          "markdown": "Bell thus insisted upon the importance of \"experiments of the type proposed by Bohm and Aharonov, in which the settings are changed during the flight of the particles.\" In such a \"timing experiment,\" the locality condition would then become a consequence of Einstein's causality, preventing any faster-than-light influence.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In this Letter, we report the results of the first experiment using variable polarizers. Following our proposal, we have used a modified scheme (Fig. 2). Each polarizer is replaced by a setup involving a switching device followed by two polarizers in two different orientations: a and a' on side I, and b and b' on side II. Such an optical switch is able to rapidly redirect the incident light from one polarizer to the other one. If the two switches work at random and are uncorrelated, it is possible to write generalized Bell's inequalities in a form similar to Clauser-Horne-Shimony-Holt inequalities:",
+          "markdown": "In this Letter, we report the results of the first experiment using variable polarizers. Following our proposal, we have used a modified scheme ([Fig. 2](#fig2)). Each polarizer is replaced by a setup involving a switching device followed by two polarizers in two different orientations: $a$ and $a'$ on side I, and $b$ and $b'$ on side II. Such an optical switch is able to rapidly redirect the incident light from one polarizer to the other one. If the two switches work at random and are uncorrelated, it is possible to write generalized Bell's inequalities in a form similar to Clauser-Horne-Shimony-Holt inequalities:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$ - 1 \\leqslant S \\leqslant 0, $$",
+          "markdown": "$$ -1 \\leq S \\leq 0, $$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.2,
+            0.7,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$ S = \\frac{N(\\tilde{a}, \\tilde{b})}{N(\\infty, \\infty)} - \\frac{N(\\tilde{a}, \\tilde{b}')}{N(\\infty, \\infty')} + \\frac{N(\\tilde{a}', \\tilde{b})}{N(\\infty', \\infty)} + \\frac{N(\\tilde{a}', \\tilde{b}')}{N(\\infty', \\infty')} - \\frac{N(\\tilde{a}', \\infty)}{N(\\infty', \\infty)} - \\frac{N(\\infty, \\tilde{b})}{N(\\infty, \\infty)}. $$",
+          "markdown": "$$ S = \\frac{N(\\tilde{a}, \\tilde{b})}{N(\\infty, \\infty)} - \\frac{N(\\tilde{a}, \\tilde{b}')}{N(\\infty, \\infty')} + \\frac{N(\\tilde{a}', \\tilde{b})}{N(\\infty', \\infty)} + \\frac{N(\\tilde{a}', \\tilde{b}')}{N(\\infty', \\infty')} - \\frac{N(\\tilde{a}', \\infty)}{N(\\infty', \\infty)} - \\frac{N(\\infty, \\tilde{b})}{N(\\infty, \\infty)}. $$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# VOLUME 49, NUMBER 25\n\n## PHYSICAL REVIEW LETTERS\n\n### 20 DECEMBER 1982\n\nBell's inequalities apply to any correlated measurement on two correlated systems. For instance, in the optical version of the Einstein-Podolsky-Rosen-Bohm *Gedankenexperiment*[^1], a source emits pairs of photons ([Fig. 1](#fig1)). Measurements of the correlations of linear polarizations are performed on two photons belonging to the same pair. For pairs emitted in suitable states, the correlations are strong. To account for these correlations, Bell[^2] considered theories which invoke common properties of both members of the pair. Such properties are referred to as *supplementary parameters*. This is very different from the quantum mechanical formalism, which does not involve such properties. With the addition of a reasonable locality assumption, Bell showed that such classical-looking theories are constrained by certain inequalities that are not always obeyed by quantum mechanical predictions.\n\nSeveral experiments of increasing accuracy have been performed and clearly favor quantum mechanics. Experiments using pairs of visible photons emitted in atomic radiative cascades seem to achieve a good realization of the ideal *Gedankenexperiment*. However, all these experiments have been performed with static setups, in which polarizers are held fixed for the whole duration of a run. Then, one might question Bell's locality assumption, that states that the results of the measurement by polarizer II does not depend on the orientation $a$ of polarizer I (and vice versa), nor does the way in which pairs are emitted depend on $a$ or $b$. Although highly reasonable, such a locality condition is not prescribed by any fundamental physical law. As pointed out by Bell, it is possible, in such experiments, to reconcile supplementary-parameter theories and the experimentally verified predictions of quantum mechanics: \"The settings of the instruments are made sufficiently in advance to allow them to reach some mutual rapport by exchange of signals with velocity less than or equal to that of light.\" If such interactions existed, Bell's locality condition would no longer hold for static experiments, nor would Bell's inequalities.\n\nBell thus insisted upon the importance of \"experiments of the type proposed by Bohm and Aharonov, in which the settings are changed during the flight of the particles.\" In such a \"timing experiment,\" the locality condition would then become a consequence of Einstein's causality, preventing any faster-than-light influence.\n\nIn this Letter, we report the results of the first experiment using variable polarizers. Following our proposal, we have used a modified scheme ([Fig. 2](#fig2)). Each polarizer is replaced by a setup involving a switching device followed by two polarizers in two different orientations: $a$ and $a'$ on side I, and $b$ and $b'$ on side II. Such an optical switch is able to rapidly redirect the incident light from one polarizer to the other one. If the two switches work at random and are uncorrelated, it is possible to write generalized Bell's inequalities in a form similar to Clauser-Horne-Shimony-Holt inequalities:\n\n$$ -1 \\leq S \\leq 0, $$\n\n$$ S = \\frac{N(\\tilde{a}, \\tilde{b})}{N(\\infty, \\infty)} - \\frac{N(\\tilde{a}, \\tilde{b}')}{N(\\infty, \\infty')} + \\frac{N(\\tilde{a}', \\tilde{b})}{N(\\infty', \\infty)} + \\frac{N(\\tilde{a}', \\tilde{b}')}{N(\\infty', \\infty')} - \\frac{N(\\tilde{a}', \\infty)}{N(\\infty', \\infty)} - \\frac{N(\\infty, \\tilde{b})}{N(\\infty, \\infty)}. $$",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Equation blocks (10, 11) require LaTeX formatting for clarity.",
+        "Figure 1 is referenced but not included in the provided text; ensure image is captured in assets."
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "1806",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "VOLUME 49, NUMBER 25",
+          "markdown": "VOLUME 49, NUMBER 25",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "PHYSICAL REVIEW LETTERS",
+          "markdown": "PHYSICAL REVIEW LETTERS",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.92,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "20 DECEMBER 1982",
+          "markdown": "20 DECEMBER 1982",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.75,
+            0.92,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "figure",
+          "level": null,
+          "text_original": null,
+          "markdown": "![Timing experiment with optical switches. Each switching device (C_I, C_II) is followed by two polarizers in two different orientations. Each combination is equivalent to a polarizer switched fast between two orientations.](pictures/fig_p003_01.png)",
+          "asset_id": "fig_p003_01",
+          "suggested_filename": "pictures/fig_p003_01.png",
+          "caption_original": "FIG. 2. Timing experiment with optical switches. Each switching device (C_I, C_II) is followed by two polarizers in two different orientations. Each combination is equivalent to a polarizer switched fast between two orientations.",
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.8,
+            0.95
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The quantity S involves (i) the four coincidence counting rates [N(ā, b̄), N(ā', b̄), etc.] measured in a single run; (ii) the four corresponding coincidence rates [N(∞, ∞), N(∞', ∞), etc.] with all polarizers removed; and (iii) two coincidence rates [N(ā', ∞), N(∞, b̄)] with a polarizer removed on each side. The measurements (ii) and (iii) are performed in auxiliary runs.",
+          "markdown": "The quantity $S$ involves (i) the four coincidence counting rates [$N(\\tilde{a}, \\tilde{b})$, $N(\\tilde{a}', \\tilde{b})$, etc.] measured in a single run; (ii) the four corresponding coincidence rates [$N(\\infty, \\infty)$, $N(\\infty', \\infty)$, etc.] with all polarizers removed; and (iii) two coincidence rates [$N(\\tilde{a}', \\infty)$, $N(\\infty, \\tilde{b})$] with a polarizer removed on each side. The measurements (ii) and (iii) are performed in auxiliary runs.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In this experiment, switching between the two channels occurs about each 10 ns. Since this delay, as well as the lifetime of the intermediate level of the cascade (5 ns), is small compared to L/c (40 ns), a detection event on one side and the corresponding change of orientation on the other side are separated by a spacelike interval.",
+          "markdown": "In this experiment, switching between the two channels occurs about each 10 ns. Since this delay, as well as the lifetime of the intermediate level of the cascade (5 ns), is small compared to $L/c$ (40 ns), a detection event on one side and the corresponding change of orientation on the other side are separated by a spacelike interval.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The switching of the light is effected by acousto-optical interaction with an ultrasonic standing wave in water. As sketched in Fig. 3 the incidence angle is equal to the Bragg angle, θ_B = 5 × 10⁻³ rad. It follows that light is either transmitted straight ahead or deflected at an angle 2θ_B. The light is completely transmitted when the amplitude of the standing wave is null, which occurs twice during an acoustical period. A quarter of a period later, the amplitude of the standing wave is maximum and, for a suitable value of the acoustical power, light is then fully deflected. This optical switch thus works at twice the acoustical frequency.",
+          "markdown": "The switching of the light is effected by acousto-optical interaction with an ultrasonic standing wave in water. As sketched in [Fig. 3](#fig3), the incidence angle is equal to the Bragg angle, $\\theta_B = 5 \\times 10^{-3}$ rad. It follows that light is either transmitted straight ahead or deflected at an angle $2\\theta_B$. The light is completely transmitted when the amplitude of the standing wave is null, which occurs twice during an acoustical period. A quarter of a period later, the amplitude of the standing wave is maximum and, for a suitable value of the acoustical power, light is then fully deflected. This optical switch thus works at twice the acoustical frequency.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "figure",
+          "level": null,
+          "text_original": null,
+          "markdown": "![Optical switch. The incident light is switched at a frequency around 50 MHz by diffraction at the Bragg angle on an ultrasonic standing wave. The intensities of the transmitted and deflected beams as a function of time have been measured with the actual source. The fraction of light directed towards other diffraction orders is negligible.](pictures/fig_p003_02.png)",
+          "asset_id": "fig_p003_02",
+          "suggested_filename": "pictures/fig_p003_02.png",
+          "caption_original": "FIG. 3. Optical switch. The incident light is switched at a frequency around 50 MHz by diffraction at the Bragg angle on an ultrasonic standing wave. The intensities of the transmitted and deflected beams as a function of time have been measured with the actual source. The fraction of light directed towards other diffraction orders is negligible.",
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.8,
+            0.5
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The ultrasonic standing-wave results from interference between counterpropagating acoustic waves produced by two electroacoustical transducers driven in phase at about 25 MHz. In auxiliary tests with a laser beam, the switching has been found complete for an acoustical power about 1 W. In the actual experiment, the light beam has a finite divergence, and the switching is not complete (Fig. 3).",
+          "markdown": "The ultrasonic standing-wave results from interference between counterpropagating acoustic waves produced by two electroacoustical transducers driven in phase at about 25 MHz. In auxiliary tests with a laser beam, the switching has been found complete for an acoustical power about 1 W. In the actual experiment, the light beam has a finite divergence, and the switching is not complete ([Fig. 3](#fig3)).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The other parts of the experiment have already been described in previous publications.⁴⁻⁵ The high-efficiency well-stabilized source of pairs of correlated photons, at wavelengths λ₁=422.7 nm and λ₂=551.3 nm, is obtained by two-photon excitation of a (J=0)-(J=1)-(J=0) cascade in calcium.",
+          "markdown": "The other parts of the experiment have already been described in previous publications[^4][^5]. The high-efficiency well-stabilized source of pairs of correlated photons, at wavelengths $\\lambda_1=422.7$ nm and $\\lambda_2=551.3$ nm, is obtained by two-photon excitation of a $(J=0)$-$(J=1)$-$(J=0)$ cascade in calcium.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Since each switch is 6 m from the source, rather complicated optics are required to match the beams with the switches and the polarizers. We have carefully checked each channel for no depolarization, by looking for a cosine Malus law when a supplementary polarizer is inserted in front of the source. These auxiliary tests are particularly important for the channels which involve two mirrors inclined at 11°. They also yield the efficiencies of the polarizers, required for the quantum mechanical calculations.",
+          "markdown": "Since each switch is 6 m from the source, rather complicated optics are required to match the beams with the switches and the polarizers. We have carefully checked each channel for no depolarization, by looking for a cosine Malus law when a supplementary polarizer is inserted in front of the source. These auxiliary tests are particularly important for the channels which involve two mirrors inclined at 11°. They also yield the efficiencies of the polarizers, required for the quantum mechanical calculations.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# VOLUME 49, NUMBER 25\n\n## PHYSICAL REVIEW LETTERS\n\n### 20 DECEMBER 1982\n\n![Timing experiment with optical switches. Each switching device (C_I, C_II) is followed by two polarizers in two different orientations. Each combination is equivalent to a polarizer switched fast between two orientations.](pictures/fig_p003_01.png)\n\nFIG. 2. Timing experiment with optical switches. Each switching device (C_I, C_II) is followed by two polarizers in two different orientations. Each combination is equivalent to a polarizer switched fast between two orientations.\n\nThe quantity $S$ involves (i) the four coincidence counting rates [$N(\\tilde{a}, \\tilde{b})$, $N(\\tilde{a}', \\tilde{b})$, etc.] measured in a single run; (ii) the four corresponding coincidence rates [$N(\\infty, \\infty)$, $N(\\infty', \\infty)$, etc.] with all polarizers removed; and (iii) two coincidence rates [$N(\\tilde{a}', \\infty)$, $N(\\infty, \\tilde{b})$] with a polarizer removed on each side. The measurements (ii) and (iii) are performed in auxiliary runs.\n\nIn this experiment, switching between the two channels occurs about each 10 ns. Since this delay, as well as the lifetime of the intermediate level of the cascade (5 ns), is small compared to $L/c$ (40 ns), a detection event on one side and the corresponding change of orientation on the other side are separated by a spacelike interval.\n\nThe switching of the light is effected by acousto-optical interaction with an ultrasonic standing wave in water. As sketched in [Fig. 3](#fig3), the incidence angle is equal to the Bragg angle, $\\theta_B = 5 \\times 10^{-3}$ rad. It follows that light is either transmitted straight ahead or deflected at an angle $2\\theta_B$. The light is completely transmitted when the amplitude of the standing wave is null, which occurs twice during an acoustical period. A quarter of a period later, the amplitude of the standing wave is maximum and, for a suitable value of the acoustical power, light is then fully deflected. This optical switch thus works at twice the acoustical frequency.\n\n![Optical switch. The incident light is switched at a frequency around 50 MHz by diffraction at the Bragg angle on an ultrasonic standing wave. The intensities of the transmitted and deflected beams as a function of time have been measured with the actual source. The fraction of light directed towards other diffraction orders is negligible.](pictures/fig_p003_02.png)\n\nFIG. 3. Optical switch. The incident light is switched at a frequency around 50 MHz by diffraction at the Bragg angle on an ultrasonic standing wave. The intensities of the transmitted and deflected beams as a function of time have been measured with the actual source. The fraction of light directed towards other diffraction orders is negligible.\n\nThe ultrasonic standing-wave results from interference between counterpropagating acoustic waves produced by two electroacoustical transducers driven in phase at about 25 MHz. In auxiliary tests with a laser beam, the switching has been found complete for an acoustical power about 1 W. In the actual experiment, the light beam has a finite divergence, and the switching is not complete ([Fig. 3](#fig3)).\n\nThe other parts of the experiment have already been described in previous publications[^4][^5]. The high-efficiency well-stabilized source of pairs of correlated photons, at wavelengths $\\lambda_1=422.7$ nm and $\\lambda_2=551.3$ nm, is obtained by two-photon excitation of a $(J=0)$-$(J=1)$-$(J=0)$ cascade in calcium.\n\nSince each switch is 6 m from the source, rather complicated optics are required to match the beams with the switches and the polarizers. We have carefully checked each channel for no depolarization, by looking for a cosine Malus law when a supplementary polarizer is inserted in front of the source. These auxiliary tests are particularly important for the channels which involve two mirrors inclined at 11°. They also yield the efficiencies of the polarizers, required for the quantum mechanical calculations.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Figures 2 and 3 are referenced but not included in the provided text; ensure images are captured in assets.",
+        "Minor OCR issues in mathematical notation (e.g., subscripts in wavelengths), but overall high confidence."
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "1807",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "VOLUME 49, NUMBER 25",
+          "markdown": "VOLUME 49, NUMBER 25",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "PHYSICAL REVIEW LETTERS",
+          "markdown": "PHYSICAL REVIEW LETTERS",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "20 DECEMBER 1982",
+          "markdown": "20 DECEMBER 1982",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.75,
+            0.92,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The coincidence counting electronics involve four double-coincidence-counting circuits with coincidence windows of 18 ns. For each relevant pair of photomultipliers, we monitor nondelayed and delayed coincidences. The true coincidence",
+          "markdown": "The coincidence counting electronics involve four double-coincidence-counting circuits with coincidence windows of 18 ns. For each relevant pair of photomultipliers, we monitor nondelayed and delayed coincidences. The true coincidence",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.92
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "rate (i.e., coincidences due to photons emitted by the same atom) are obtained by subtraction. Simultaneously, a time-to-amplitude converter, followed by a fourfold multichannel analyzer, yields four time-delay spectrums. Here, the true coincidence rate is taken as the signal in the peak of the time-delay spectrum.[^4]",
+          "markdown": "rate (i.e., coincidences due to photons emitted by the same atom) are obtained by subtraction. Simultaneously, a time-to-amplitude converter, followed by a fourfold multichannel analyzer, yields four time-delay spectrums. Here, the true coincidence rate is taken as the signal in the peak of the time-delay spectrum.[^4]",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We have not been able to achieve collection efficiencies as large as in previous experiments,⁴⁻⁵ since we had to reduce the divergence of the beams in order to get good switching. Coincidence rates with the polarizers removed were only a few per second, with accidental coincidence rates about one per second.",
+          "markdown": "We have not been able to achieve collection efficiencies as large as in previous experiments[^4][^5] since we had to reduce the divergence of the beams in order to get good switching. Coincidence rates with the polarizers removed were only a few per second, with accidental coincidence rates about one per second.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "A typical run lasts 12 000 s, involving totals of 4000 s with polarizers in place at a given set of orientations, 4000 s with all polarizers removed, and 4000 s with one polarizer removed on each side. In order to compensate the effects of systematic drifts, data accumulation was alternated between these three configurations about every 400 s. At the end of each 400-s period, the raw data were stored for subsequent processing with the help of a computer.",
+          "markdown": "A typical run lasts 12 000 s, involving totals of 4000 s with polarizers in place at a given set of orientations, 4000 s with all polarizers removed, and 4000 s with one polarizer removed on each side. In order to compensate the effects of systematic drifts, data accumulation was alternated between these three configurations about every 400 s. At the end of each 400-s period, the raw data were stored for subsequent processing with the help of a computer.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "At the end of the run, we average the true coincidence rates corresponding to the same configurations for the polarizers. We then compute the relevant ratios for the quantity S. The statistical accuracy is evaluated according to standard statistical methods for photon counting. The processing is performed on both sets of data: that obtained with coincidence circuits, and that obtained with the time-to-amplitude converter. The two methods have always been found to be consistent.",
+          "markdown": "At the end of the run, we average the true coincidence rates corresponding to the same configurations for the polarizers. We then compute the relevant ratios for the quantity $S$. The statistical accuracy is evaluated according to standard statistical methods for photon counting. The processing is performed on both sets of data: that obtained with coincidence circuits, and that obtained with the time-to-amplitude converter. The two methods have always been found to be consistent.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Two runs have been performed in order to test Bell's inequalities. In each run, we have chosen a set of orientations leading to the greatest predicted conflict between quantum mechanics and Bell's inequalities $[(\\vec{a}, \\vec{b}) = (\\vec{b}, \\vec{a}') = (\\vec{a}', \\vec{b}') = 22.5°; (\\vec{a}, \\vec{b}') = 67.5°]$. The average of the two runs yields",
+          "markdown": "Two runs have been performed in order to test Bell's inequalities. In each run, we have chosen a set of orientations leading to the greatest predicted conflict between quantum mechanics and Bell's inequalities [$(\\vec{a}, \\vec{b}) = (\\vec{b}, \\vec{a}') = (\\vec{a}', \\vec{b}') = 22.5°$; $(\\vec{a}, \\vec{b}') = 67.5°$]. The average of the two runs yields",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$ S_{\\text{expt}} = 0.101 \\pm 0.020, $$",
+          "markdown": "$$ S_{\\text{expt}} = 0.101 \\pm 0.020, $$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.4,
+            0.7,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "violating the inequality $S \\leqslant 0$ by 5 standard deviations. On the other hand, for our solid angles and polarizer efficiencies, quantum mechanics predicts $S_{\\text{QM}} = 0.112$.",
+          "markdown": "violating the inequality $S \\leq 0$ by 5 standard deviations. On the other hand, for our solid angles and polarizer efficiencies, quantum mechanics predicts $S_{\\text{QM}} = 0.112$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.38,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We have carried out another run with different orientations, for a direct comparison with quantum mechanics. Figure 4 shows that the agreement is excellent.",
+          "markdown": "We have carried out another run with different orientations, for a direct comparison with quantum mechanics. [Figure 4](#fig4) shows that the agreement is excellent.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.38
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "figure",
+          "level": null,
+          "text_original": null,
+          "markdown": "![Average normalized coincidence rate as a function of the relative orientation of the polarizers. Indicated errors are ±1 standard deviation. The dashed curve is not a fit to the data but the predictions by quantum mechanics for the actual experiment.](pictures/fig_p004_01.png)",
+          "asset_id": "fig_p004_01",
+          "suggested_filename": "pictures/fig_p004_01.png",
+          "caption_original": "FIG. 4. Average normalized coincidence rate as a function of the relative orientation of the polarizers. Indicated errors are ±1 standard deviation. The dashed curve is not a fit to the data but the predictions by quantum mechanics for the actual experiment.",
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.8,
+            0.35
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The new feature of this experiment is that we change the settings of the polarizers, at a rate greater than $c/L$. The ideal scheme has not been completed since the change is not truly random, but rather quasiperiodic. Nevertheless, the two switches on the two sides are driven by different generators at different frequencies. It is then very natural to assume that they function in an uncorrelated way.",
+          "markdown": "The new feature of this experiment is that we change the settings of the polarizers, at a rate greater than $c/L$. The ideal scheme has not been completed since the change is not truly random, but rather quasiperiodic. Nevertheless, the two switches on the two sides are driven by different generators at different frequencies. It is then very natural to assume that they function in an uncorrelated way.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "A more ideal experiment with random and complete switching would be necessary for a fully conclusive argument against the whole class of supplementary-parameter theories obeying Einstein's causality. However, our observed violation of Bell's inequalities indicates that the experimental accuracy was good enough for pointing out a hypothetical discrepancy with the predictions of quantum mechanics. No such effect was observed.[^10]",
+          "markdown": "A more ideal experiment with random and complete switching would be necessary for a fully conclusive argument against the whole class of supplementary-parameter theories obeying Einstein's causality. However, our observed violation of Bell's inequalities indicates that the experimental accuracy was good enough for pointing out a hypothetical discrepancy with the predictions of quantum mechanics. No such effect was observed.[^10]",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# VOLUME 49, NUMBER 25\n\n## PHYSICAL REVIEW LETTERS\n\n### 20 DECEMBER 1982\n\nThe coincidence counting electronics involve four double-coincidence-counting circuits with coincidence windows of 18 ns. For each relevant pair of photomultipliers, we monitor nondelayed and delayed coincidences. The true coincidence rate (i.e., coincidences due to photons emitted by the same atom) are obtained by subtraction. Simultaneously, a time-to-amplitude converter, followed by a fourfold multichannel analyzer, yields four time-delay spectrums. Here, the true coincidence rate is taken as the signal in the peak of the time-delay spectrum.[^4]\n\nWe have not been able to achieve collection efficiencies as large as in previous experiments[^4][^5] since we had to reduce the divergence of the beams in order to get good switching. Coincidence rates with the polarizers removed were only a few per second, with accidental coincidence rates about one per second.\n\nA typical run lasts 12 000 s, involving totals of 4000 s with polarizers in place at a given set of orientations, 4000 s with all polarizers removed, and 4000 s with one polarizer removed on each side. In order to compensate the effects of systematic drifts, data accumulation was alternated between these three configurations about every 400 s. At the end of each 400-s period, the raw data were stored for subsequent processing with the help of a computer.\n\nAt the end of the run, we average the true coincidence rates corresponding to the same configurations for the polarizers. We then compute the relevant ratios for the quantity $S$. The statistical accuracy is evaluated according to standard statistical methods for photon counting. The processing is performed on both sets of data: that obtained with coincidence circuits, and that obtained with the time-to-amplitude converter. The two methods have always been found to be consistent.\n\nTwo runs have been performed in order to test Bell's inequalities. In each run, we have chosen a set of orientations leading to the greatest predicted conflict between quantum mechanics and Bell's inequalities [$(\\vec{a}, \\vec{b}) = (\\vec{b}, \\vec{a}') = (\\vec{a}', \\vec{b}') = 22.5°$; $(\\vec{a}, \\vec{b}') = 67.5°$]. The average of the two runs yields\n\n$$ S_{\\text{expt}} = 0.101 \\pm 0.020, $$\n\nviolating the inequality $S \\leq 0$ by 5 standard deviations. On the other hand, for our solid angles and polarizer efficiencies, quantum mechanics predicts $S_{\\text{QM}} = 0.112$.\n\nWe have carried out another run with different orientations, for a direct comparison with quantum mechanics. [Figure 4](#fig4) shows that the agreement is excellent.\n\n![Average normalized coincidence rate as a function of the relative orientation of the polarizers. Indicated errors are ±1 standard deviation. The dashed curve is not a fit to the data but the predictions by quantum mechanics for the actual experiment.](pictures/fig_p004_01.png)\n\nFIG. 4. Average normalized coincidence rate as a function of the relative orientation of the polarizers. Indicated errors are ±1 standard deviation. The dashed curve is not a fit to the data but the predictions by quantum mechanics for the actual experiment.\n\nThe new feature of this experiment is that we change the settings of the polarizers, at a rate greater than $c/L$. The ideal scheme has not been completed since the change is not truly random, but rather quasiperiodic. Nevertheless, the two switches on the two sides are driven by different generators at different frequencies. It is then very natural to assume that they function in an uncorrelated way.\n\nA more ideal experiment with random and complete switching would be necessary for a fully conclusive argument against the whole class of supplementary-parameter theories obeying Einstein's causality. However, our observed violation of Bell's inequalities indicates that the experimental accuracy was good enough for pointing out a hypothetical discrepancy with the predictions of quantum mechanics. No such effect was observed.[^10]",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Figure 4 is referenced but not included in the provided text; ensure image is captured in assets.",
+        "Equation blocks (10, 11) require LaTeX formatting for clarity."
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "fig_p002_01",
+      "asset_type": "figure",
+      "pdf_page_number": 2,
+      "filename": "pictures/fig_p002_01.png",
+      "caption_original": "FIG. 1. Optical version of the Einstein-Podolsky-Rosen-Bohm Gedankenexperiment. The pair of photons ν₁ and ν₂ is analyzed by linear polarizers I and II (in orientations ā and b̄) and photomultipliers. The coincidence rate is monitored.",
+      "bounding_box": [
+        0.1,
+        0.7,
+        0.8,
+        0.85
+      ],
+      "crop_quality": "good",
+      "crop_notes": null
+    },
+    {
+      "asset_id": "fig_p003_01",
+      "asset_type": "figure",
+      "pdf_page_number": 3,
+      "filename": "pictures/fig_p003_01.png",
+      "caption_original": "FIG. 2. Timing experiment with optical switches. Each switching device (C_I, C_II) is followed by two polarizers in two different orientations. Each combination is equivalent to a polarizer switched fast between two orientations.",
+      "bounding_box": [
+        0.1,
+        0.8,
+        0.8,
+        0.95
+      ],
+      "crop_quality": "good",
+      "crop_notes": null
+    },
+    {
+      "asset_id": "fig_p003_02",
+      "asset_type": "figure",
+      "pdf_page_number": 3,
+      "filename": "pictures/fig_p003_02.png",
+      "caption_original": "FIG. 3. Optical switch. The incident light is switched at a frequency around 50 MHz by diffraction at the Bragg angle on an ultrasonic standing wave. The intensities of the transmitted and deflected beams as a function of time have been measured with the actual source. The fraction of light directed towards other diffraction orders is negligible.",
+      "bounding_box": [
+        0.1,
+        0.3,
+        0.8,
+        0.5
+      ],
+      "crop_quality": "good",
+      "crop_notes": null
+    },
+    {
+      "asset_id": "fig_p004_01",
+      "asset_type": "figure",
+      "pdf_page_number": 4,
+      "filename": "pictures/fig_p004_01.png",
+      "caption_original": "FIG. 4. Average normalized coincidence rate as a function of the relative orientation of the polarizers. Indicated errors are ±1 standard deviation. The dashed curve is not a fit to the data but the predictions by quantum mechanics for the actual experiment.",
+      "bounding_box": [
+        0.1,
+        0.2,
+        0.8,
+        0.35
+      ],
+      "crop_quality": "good",
+      "crop_notes": null
+    }
+  ],
+  "document_statistics": {
+    "pdf_page_count": 4,
+    "ocr_page_count": 4,
+    "total_word_count": 1450,
+    "figure_count": 4,
+    "table_count": 0,
+    "equation_block_count": 3,
+    "pages_requiring_review": [],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "All pages and figures are accounted for.",
+      "Minor OCR issues in mathematical notation (e.g., subscripts in equations), but overall high confidence."
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "index": 22,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 183,
+      "topLeftY": 28,
+      "bottomRightX": 521,
+      "bottomRightY": 48,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 583,
+      "topLeftY": 27,
+      "bottomRightX": 607,
+      "bottomRightY": 48,
+      "content": "43",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 68,
+      "bottomRightX": 607,
+      "bottomRightY": 192,
+      "content": "Ceci résulte d'une simple application des relations trigonométriques ; toutefois, nous remarquerons qu'en appliquant la trigonométrie à des figures du plan $xot$, il faut toujours avoir présent à l'esprit l'anisotropie particulière à ce plan. Le triangle ABC nous donne :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 188,
+      "topLeftY": 210,
+      "bottomRightX": 519,
+      "bottomRightY": 318,
+      "content": "$$\\begin{aligned} \\overline{AB}^2 &= \\overline{AC}^2 - \\overline{CB}^2 = \\overline{AC}^2 (1 - \\text{tg}^2 \\widehat{CAB}) \\\\ &= \\overline{AC}^2 (1 - \\beta^2) \\\\ \\overline{AC} &= \\frac{\\overline{AB}}{\\sqrt{1 - \\beta^2}} \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 441,
+      "topLeftY": 299,
+      "bottomRightX": 517,
+      "bottomRightY": 318,
+      "content": "c. q. f. d.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 336,
+      "bottomRightX": 604,
+      "bottomRightY": 423,
+      "content": "La fréquence $\\frac{1}{T_1}$ est celle que le phénomène périodique paraît avoir pour l'observateur fixe qui le suit des yeux dans son déplacement. C'est :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 440,
+      "bottomRightX": 475,
+      "bottomRightY": 477,
+      "content": "$$\\nu_1 = \\nu_0 \\sqrt{1 - \\beta^2} = \\frac{m_0 c^2}{h} \\sqrt{1 - \\beta^2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 497,
+      "bottomRightX": 604,
+      "bottomRightY": 589,
+      "content": "La période des ondes en un point de l'espace pour l'observateur fixe est donnée non par $\\frac{1}{c} \\overline{AC}$, mais par $\\frac{1}{c} \\overline{AD}$. Calculons-là.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 593,
+      "bottomRightX": 522,
+      "bottomRightY": 618,
+      "content": "Dans le petit triangle BCD, on trouve la relation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 635,
+      "bottomRightX": 491,
+      "bottomRightY": 681,
+      "content": "$$\\frac{\\overline{CB}}{\\overline{DC}} = \\frac{1}{\\beta} \\text{ d'où } \\overline{DC} = \\beta \\overline{CB} = \\beta^2 \\overline{AC}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 701,
+      "bottomRightX": 604,
+      "bottomRightY": 751,
+      "content": "Mais $\\overline{AD} = \\overline{AC} - \\overline{DC} = \\overline{AC} (1 - \\beta^2)$. La nouvelle période T est donc égale à :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 772,
+      "bottomRightX": 481,
+      "bottomRightY": 806,
+      "content": "$$T = \\frac{1}{c} \\overline{AC} (1 - \\beta^2) = T_0 \\sqrt{1 - \\beta^2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 823,
+      "bottomRightX": 452,
+      "bottomRightY": 848,
+      "content": "et la fréquence $\\nu$ des ondes s'exprime par :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 220,
+      "topLeftY": 864,
+      "bottomRightX": 484,
+      "bottomRightY": 909,
+      "content": "$$\\nu = \\frac{1}{T} = \\frac{\\nu_0}{\\sqrt{1 - \\beta^2}} = \\frac{m_0 c^2}{h \\sqrt{1 - \\beta^2}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 923,
+      "bottomRightX": 604,
+      "bottomRightY": 946,
+      "content": "Nous retrouvons donc bien tous les résultats obtenus ana-",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

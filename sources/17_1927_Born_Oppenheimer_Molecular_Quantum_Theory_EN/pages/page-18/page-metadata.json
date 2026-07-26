@@ -1,0 +1,227 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 135,
+      "bottomRightX": 644,
+      "bottomRightY": 167,
+      "content": "$H_0^{(0)}, H_0^{(1)}, \\ldots$ are the operators given earlier. All the formulas of Part II are valid without modification. The approximation equations are:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 167,
+      "bottomRightX": 642,
+      "bottomRightY": 236,
+      "content": "$$\n\\begin{array}{l}\na) \\quad \\left(\\mathsf{H}^{(0)} - \\mathsf{E}^{(0)}\\right) \\Psi_r^{(0)} = 0 \\\\\nb) \\quad \\left(\\mathsf{H}^{(0)} - \\mathsf{E}^{(0)}\\right) \\Psi_r^{(1)} = \\left(\\mathsf{E}^{(1)} - \\mathsf{H}^{(1)}\\right) \\Psi_r^{(0)} \\\\\nc) \\quad \\left(\\mathsf{H}^{(0)} - \\mathsf{E}^{(0)}\\right) \\Psi_r^{(2)} = \\left(\\mathsf{E}^{(2)} - \\mathsf{H}^{(2)}\\right) \\Psi_r^{(0)} + \\left(\\mathsf{E}^{(1)} - \\mathsf{H}^{(1)}\\right) \\Psi_r^{(1)}\n\\end{array}\n\\tag{103}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 243,
+      "bottomRightX": 202,
+      "bottomRightY": 256,
+      "content": "The first has the solution:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 259,
+      "bottomRightX": 642,
+      "bottomRightY": 276,
+      "content": "$$\n\\mathsf{E}^{(0)} = V_n(\\xi), \\quad \\Psi_r^{(0)} = \\Psi_{rn}^{(0)} = \\sigma_{rn}^{(0)}(\\zeta) \\phi_n^{(0)}(x; \\xi),\n\\tag{104}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 282,
+      "bottomRightX": 644,
+      "bottomRightY": 314,
+      "content": "where $V_n(\\xi)$ and $\\phi_n^{(0)}(x; \\xi)$ are the previously introduced functions and $\\sigma_{rn}^{(0)}(\\zeta)$ is, to begin with, arbitrary. The condition for integrability of (103b) is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 300,
+      "topLeftY": 316,
+      "bottomRightX": 419,
+      "bottomRightY": 334,
+      "content": "$$\n\\left(\\mathsf{E}^{(1)} - \\mathsf{H}^{(1)}\\right) \\sigma_{rn}^{(0)}(\\zeta) = 0.\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 341,
+      "bottomRightX": 192,
+      "bottomRightY": 356,
+      "content": "Now, by (26a) (Part II):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 355,
+      "bottomRightX": 481,
+      "bottomRightY": 383,
+      "content": "$$\n\\mathsf{H}_{nn}^{(1)} = \\left(H_0^{(1)}\\right)_{nn} + \\zeta R' = V_n^{(1)} + \\zeta R' = \\zeta \\frac{\\partial}{\\partial \\xi}(V_n + R).\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 387,
+      "bottomRightX": 209,
+      "bottomRightY": 401,
+      "content": "Hence, as before (Part IV),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 400,
+      "bottomRightX": 642,
+      "bottomRightY": 429,
+      "content": "$$\n\\mathsf{E}^{(1)} = 0, \\quad \\frac{\\partial}{\\partial \\xi}(V_n + R) = 0.\n\\tag{105}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 433,
+      "bottomRightX": 644,
+      "bottomRightY": 483,
+      "content": "This condition obviously states that for the unperturbed rotation, equilibrium must prevail between the centrifugal force and the quasi-electric force, which, as a consequence of the electronic motion, resists a displacement of the nuclei. The centrifugal force is:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 490,
+      "bottomRightX": 478,
+      "bottomRightY": 524,
+      "content": "$$\n-\\left(\\frac{1}{M_1} + \\frac{1}{M_2}\\right) \\frac{p_r^2}{\\xi^3} = -\\left(\\frac{1}{M_1} + \\frac{1}{M_2}\\right) \\frac{h^2}{4\\pi^2} \\frac{r(r+1)}{\\xi^3},\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 531,
+      "bottomRightX": 642,
+      "bottomRightY": 564,
+      "content": "where the quantum mechanical value $\\frac{h}{2\\pi} \\sqrt{r(r+1)}$ for the angular momentum is substituted for $p_r$; by (99) and (95), this agrees with $R'$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 567,
+      "bottomRightX": 642,
+      "bottomRightY": 599,
+      "content": "From relation (105), how to calculate the equilibrium separation $\\xi_r$; depends on the rotational quantum number $r$. For small values of the rotational energy $R$, one can develop $\\xi_r$ in powers of $\\beta$, where:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 607,
+      "bottomRightX": 642,
+      "bottomRightY": 639,
+      "content": "$$\n\\beta = \\kappa^4 \\frac{\\mu}{m} \\frac{h^2}{4\\pi^2} r(r+1) = \\left(\\frac{1}{M_1} + \\frac{1}{M_2}\\right) \\frac{h^2}{4\\pi^2} r(r+1);\n\\tag{106}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 647,
+      "bottomRightX": 123,
+      "bottomRightY": 661,
+      "content": "we find:⁶",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 659,
+      "bottomRightX": 642,
+      "bottomRightY": 692,
+      "content": "$$\n\\xi_r = \\xi + \\frac{1}{\\xi^3 V_n''} \\beta - \\frac{3}{\\xi^7 V_n''^2} \\left(1 + \\frac{\\xi}{6} \\frac{V_n''}{V_n''}\\right) \\beta^2 + \\cdots\n\\tag{107}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 697,
+      "bottomRightX": 642,
+      "bottomRightY": 729,
+      "content": "Since $\\beta$ is of order $\\kappa^4$, we will use by systematic procedure only as many terms of this set as correspond to the order of the approximation in the perturbation method.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 732,
+      "bottomRightX": 642,
+      "bottomRightY": 763,
+      "content": "Since we consider this again, we will shortly see that this is the same method as before, only simplified by the previous consideration of the rotation. The solution of (103b) is:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 300,
+      "topLeftY": 774,
+      "bottomRightX": 642,
+      "bottomRightY": 792,
+      "content": "$$\n\\Psi_{rn}^{(1)} = \\sigma_{rn}^{(0)} \\phi_n^{(1)} + \\sigma_{rn}^{(1)} \\phi_n^{(0)}\n\\tag{108}\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 803,
+      "bottomRightX": 413,
+      "bottomRightY": 817,
+      "content": "this corresponds to (42); and the condition for integrability of (102c):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 281,
+      "topLeftY": 826,
+      "bottomRightX": 438,
+      "bottomRightY": 853,
+      "content": "$$\n\\left\\{ \\mathsf{H}_{nn}^{(2)} + \\left(\\mathsf{H}_{nn}^{(1)}\\right)_{nn}^{(1)} - \\mathsf{E}_n^{(2)} \\right\\} \\sigma_{rn}^{(0)} = 0.\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 872,
+      "bottomRightX": 391,
+      "bottomRightY": 886,
+      "content": "⁶One can easily deduce this formula from the cited work of Born and Hückel.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 354,
+      "topLeftY": 895,
+      "bottomRightX": 366,
+      "bottomRightY": 906,
+      "content": "18",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

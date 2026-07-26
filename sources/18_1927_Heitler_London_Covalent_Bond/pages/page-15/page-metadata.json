@@ -1,0 +1,138 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 162,
+      "topLeftY": 94,
+      "bottomRightX": 513,
+      "bottomRightY": 110,
+      "content": "Wechselwirkung neutraler Atome und homöopolare Bindung.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 548,
+      "topLeftY": 94,
+      "bottomRightX": 577,
+      "bottomRightY": 110,
+      "content": "469",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 131,
+      "bottomRightX": 578,
+      "bottomRightY": 250,
+      "content": "Kerne sich befinden (analog den Störungen im He-Atom!). Wir erhalten für getrennte Ionen statt der $2 E_0$ ($-27$ Volt) der neutralen Atome eine um die Ionisierungsarbeit (13,5 Volt) höhere Energie (korrigiert um den Betrag der Elektronenaffinität, der aber nur sehr geringfügig ist. Als Eigenfunktionen sind dementsprechend sogleich statt (21) He-artig gestörte Funktionen zu benutzen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 290,
+      "topLeftY": 261,
+      "bottomRightX": 386,
+      "bottomRightY": 279,
+      "content": "$$\\psi_{12} \\text{ bzw. } \\varphi_{12},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 285,
+      "bottomRightX": 578,
+      "bottomRightY": 324,
+      "content": "welche jedenfalls in 1 und 2 symmetrisch sind und sich nur der Lage im $q$-Raum, nicht der Gestalt nach unterscheiden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 327,
+      "bottomRightX": 578,
+      "bottomRightY": 427,
+      "content": "Berücksichtigen wir jetzt die Störung des He-artigen Ions H$^-$ durch das H$^+$, so erhalten wir wegen des Symmetriecharakters der Wellengleichung (1) in üblicher Weise als Eigenfunktionen nullter Ordnung (ohne Normierung):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 433,
+      "bottomRightX": 321,
+      "bottomRightY": 472,
+      "content": "$$\\left. \\begin{aligned} \\alpha^* &= \\psi_{12} + \\varphi_{12}, \\\\ \\beta^* &= \\psi_{12} - \\varphi_{12}. \\end{aligned} \\right\\} \\quad (22)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 475,
+      "bottomRightX": 322,
+      "bottomRightY": 592,
+      "content": "Bei gegenseitiger Annäherung der beiden Ionen werden die zugehörigen Eigenwerte $E_\\alpha^*$ und $E_\\beta^*$ zunächst abnehmen, ungefähr wie das Ionenpotential $-\\frac{\\varepsilon^2}{R}$ (Fig. 2).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 595,
+      "bottomRightX": 322,
+      "bottomRightY": 695,
+      "content": "Hierbei wird $E_\\alpha^*$, als zum knotenlosen $\\alpha^*$ gehörig, stets tiefer als $E_\\beta^*$ sein. Der Unterschied $E_\\beta^* - E_\\alpha^*$ ist proportional der Frequenz des Austauschs der Ionenladungen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 697,
+      "bottomRightX": 322,
+      "bottomRightY": 755,
+      "content": "Solange die Eigenwerte $E_\\alpha^*$ und $E_\\beta^*$ nicht in die Nähe unserer Energiekurven von § 2 (sie sind",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 757,
+      "bottomRightX": 580,
+      "bottomRightY": 835,
+      "content": "in Fig. 2 noch einmal eingezeichnet$^1$) kommen, sind die Rechnungen des § 1 als Störungen des Eigenwertes $2 E_0 = -27$ Volt aufzufassen und nicht zu beanstanden. Etwas Neues tritt aber ein, wenn die neuen Kurven den alten sehr nahe kommen. Für diese Werte von $R$ wird der",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 388,
+      "bottomRightX": 573,
+      "bottomRightY": 684,
+      "content": "![img-1.jpeg](img-1.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-1.jpeg"
+    },
+    {
+      "topLeftX": 345,
+      "topLeftY": 692,
+      "bottomRightX": 573,
+      "bottomRightY": 740,
+      "content": "Fig. 2. Ionenpotential ($E_\\alpha^*, E_\\beta^*$), verglichen mit dem Potential neutraler Atome ($E_\\alpha, E_\\beta$).",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 853,
+      "bottomRightX": 580,
+      "bottomRightY": 915,
+      "content": "$^1$ Auf Grund der nachfolgenden Überlegungen ziehen wir die hier angegebene Zuordnung der Terme der von F. Hund, i. e., Fig. 12, vorgeschlagenen vor, denn aus den Überlegungen des § 4 geht hervor, daß durchaus nicht alle Zustände des 2-H-Problems in Zustände der H$_2$-Molekel, geschweige des He übergehen.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

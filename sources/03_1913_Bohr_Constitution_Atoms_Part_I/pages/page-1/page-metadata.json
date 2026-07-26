@@ -1,0 +1,174 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 50,
+      "topLeftY": 52,
+      "bottomRightX": 402,
+      "bottomRightY": 67,
+      "content": "This article was downloaded by: [German National Licence 2007]",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 67,
+      "bottomRightX": 176,
+      "bottomRightY": 83,
+      "content": "On: 18 November 2010",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 83,
+      "bottomRightX": 392,
+      "bottomRightY": 99,
+      "content": "Access details: Access Details: [subscription number 777306420]",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 99,
+      "bottomRightX": 199,
+      "bottomRightY": 114,
+      "content": "Publisher Taylor & Francis",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 114,
+      "bottomRightX": 654,
+      "bottomRightY": 147,
+      "content": "Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 168,
+      "bottomRightX": 196,
+      "bottomRightY": 390,
+      "content": "![img-0.jpeg](img-0.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-0.jpeg"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 174,
+      "bottomRightX": 402,
+      "bottomRightY": 192,
+      "content": "# Philosophical Magazine Series 6",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 191,
+      "bottomRightX": 584,
+      "bottomRightY": 207,
+      "content": "Publication details, including instructions for authors and subscription information:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 205,
+      "bottomRightX": 489,
+      "bottomRightY": 220,
+      "content": "http://www.informaworld.com/smpp/title~content=t910323447",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 239,
+      "bottomRightX": 489,
+      "bottomRightY": 258,
+      "content": "# I. On the constitution of atoms and molecules",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 257,
+      "bottomRightX": 240,
+      "bottomRightY": 270,
+      "content": "N. Bohr",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 411,
+      "bottomRightX": 661,
+      "bottomRightY": 437,
+      "content": "To cite this Article Bohr, N.(1913) 'I. On the constitution of atoms and molecules', Philosophical Magazine Series 6, 26: 151, 1 – 25",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 439,
+      "bottomRightX": 319,
+      "bottomRightY": 454,
+      "content": "To link to this Article: DOI: 10.1080/14786441308634955",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 454,
+      "bottomRightX": 302,
+      "bottomRightY": 470,
+      "content": "URL: http://dx.doi.org/10.1080/14786441308634955",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 557,
+      "bottomRightX": 494,
+      "bottomRightY": 575,
+      "content": "# PLEASE SCROLL DOWN FOR ARTICLE",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 596,
+      "bottomRightX": 612,
+      "bottomRightY": 610,
+      "content": "Full terms and conditions of use: http://www.informaworld.com/terms-and-conditions-of-access.pdf",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 614,
+      "bottomRightX": 618,
+      "bottomRightY": 649,
+      "content": "This article may be used for research, teaching and private study purposes. Any substantial or systematic reproduction, re-distribution, re-selling, loan or sub-licensing, systematic supply or distribution in any form to anyone is expressly forbidden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 655,
+      "bottomRightX": 660,
+      "bottomRightY": 707,
+      "content": "The publisher does not give any warranty express or implied or make any representation that the contents will be complete or accurate or up to date. The accuracy of any instructions, formulae and drug doses should be independently verified with primary sources. The publisher shall not be liable for any loss, actions, claims, proceedings, demand or costs or damages whatsoever or howsoever caused arising directly or indirectly in connection with or arising out of the use of this material.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

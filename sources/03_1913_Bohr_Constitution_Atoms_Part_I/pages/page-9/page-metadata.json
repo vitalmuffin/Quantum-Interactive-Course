@@ -1,0 +1,119 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 600
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 0,
+      "topLeftY": 288,
+      "bottomRightX": 12,
+      "bottomRightY": 724,
+      "content": "Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 87,
+      "bottomRightX": 86,
+      "bottomRightY": 104,
+      "content": "8",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 87,
+      "bottomRightX": 418,
+      "bottomRightY": 104,
+      "content": "Dr. N. Bohr^{}[] *on the Constitution*",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 113,
+      "bottomRightX": 526,
+      "bottomRightY": 360,
+      "content": "of the more special assumptions, viz. that the different stationary states correspond to the emission of a different number of Planck's energy-quanta, and that the frequency of the radiation emitted during the passing of the system from a state in which no energy is yet radiated out to one of the stationary states, is equal to half the frequency of revolution of the electron in the latter state. We can, however (see § 3), also arrive at the expressions (3) for the stationary states by using assumptions of somewhat different form. We shall, therefore, postpone the discussion of the special assumptions, and first show how by the help of the above principal assumptions, and of the expressions (3) for the stationary states, we can account for the line-spectrum of hydrogen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 369,
+      "bottomRightX": 412,
+      "bottomRightY": 390,
+      "content": "### § 2. *Emission of Line-spectra.*",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 395,
+      "bottomRightX": 529,
+      "bottomRightY": 572,
+      "content": "*Spectrum of Hydrogen.*—General evidence indicates that an atom of hydrogen consists simply of a single electron rotating round a positive nucleus of charge $e^*$. The reformation of a hydrogen atom, when the electron has been removed to great distances away from the nucleus—*e. g.* by the effect of electrical discharge in a vacuum tube—will accordingly correspond to the binding of an electron by a positive nucleus considered on p. 5. If in (3) we put $E=e$, we get for the total amount of energy radiated out by the formation of one of the stationary states,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 581,
+      "bottomRightX": 360,
+      "bottomRightY": 619,
+      "content": "$$W_\\tau = \\frac{2\\pi^2 m e^4}{h^2 \\tau^2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 633,
+      "bottomRightX": 530,
+      "bottomRightY": 690,
+      "content": "The amount of energy emitted by the passing of the system from a state corresponding to $\\tau=\\tau_1$ to one corresponding to $\\tau=\\tau_2$, is consequently",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 698,
+      "bottomRightX": 422,
+      "bottomRightY": 739,
+      "content": "$$W_{\\tau_2} - W_{\\tau_1} = \\frac{2\\pi^2 m e^4}{h^2} \\left( \\frac{1}{\\tau_2^2} - \\frac{1}{\\tau_1^2} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 747,
+      "bottomRightX": 532,
+      "bottomRightY": 803,
+      "content": "If now we suppose that the radiation in question is homogeneous, and that the amount of energy emitted is equal to $h\\nu$, where $\\nu$ is the frequency of the radiation, we get",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 810,
+      "bottomRightX": 366,
+      "bottomRightY": 830,
+      "content": "$$W_{\\tau_2} - W_{\\tau_1} = h\\nu,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 840,
+      "bottomRightX": 534,
+      "bottomRightY": 916,
+      "content": "\\* See f. inst. N. Bohr, Phil. Mag. xxv. p. 24 (1913). The conclusion drawn in the paper cited is strongly supported by the fact that hydrogen, in the experiments on positive rays of Sir J. J. Thomson, is the only element which never occurs with a positive charge corresponding to the loss of more than one electron (comp. Phil. Mag. xxiv. p. 672 (1912)).",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

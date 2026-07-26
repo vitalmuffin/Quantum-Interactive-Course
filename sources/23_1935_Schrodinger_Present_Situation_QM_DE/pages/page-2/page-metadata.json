@@ -1,0 +1,128 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 95,
+    "height": 1016,
+    "width": 737
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 85,
+      "topLeftY": 93,
+      "bottomRightX": 106,
+      "bottomRightY": 104,
+      "content": "808",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 92,
+      "bottomRightX": 541,
+      "bottomRightY": 106,
+      "content": "SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 584,
+      "topLeftY": 92,
+      "bottomRightX": 646,
+      "bottomRightY": 112,
+      "content": "Die Naturwissenschaften",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 121,
+      "bottomRightX": 359,
+      "bottomRightY": 277,
+      "content": "Methode der Glaube zugrunde, daß irgendwie der Anfangszustand den Ablauf wirklich eindeutig bestimmt, oder daß ein vollkommenes Modell, welches mit der Wirklichkeit ganz genau übereinstimmte, den Ausgang aller Experimente ganz genau vorausberechnen lassen würde. Vielleicht auch gründet sich umgekehrt dieser Glaube auf die Methode. Es ist aber ziemlich wahrscheinlich, daß die Anpassung des Denkens an die Erfahrung ein infiniter Prozeß ist und daß „vollkommenes Modell“ einen Widerspruch im Beiwort enthält, etwa wie „größte ganze Zahl“.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 277,
+      "bottomRightX": 359,
+      "bottomRightY": 845,
+      "content": "Eine klare Vorstellung davon, was unter einem klassischen Modell, seinen Bestimmungsstücken, seinem Zustand gemeint sei, ist die Grundlage für alles Folgende. Vor allem darf ein bestimmtes Modell und ein bestimmter Zustand desselben nicht vermengt werden. Am besten wird ein Beispiel dienen. Das RUTHERFORDsche Modell des Wasserstoffatoms besteht aus zwei Massenpunkten. Als Bestimmungsstücke kann man beispielsweise die zwei mal drei rechtwinkeligen Koordinaten der zwei Punkte und die zweimal drei Komponenten ihrer Geschwindigkeiten in Richtung der Koordinatenachsen verwenden — also zwölf im ganzen. Statt dessen könnte man auch wählen: die Koordinaten und Geschwindigkeitskomponenten des Schwerpunktes, dazu die Entfernung der zwei Punkte, zwei Winkel, welche die Richtung ihrer Verbindungslinie im Raum festlegen, und die Geschwindigkeiten (= Differentialquotienten nach der Zeit), mit welchen die Entfernung und die zwei Winkel sich in dem betreffenden Augenblick verändern; das sind natürlich wieder zwölf. Es gehört nicht mit zum Begriff „R.sches Modell des H-Atoms“, daß die Bestimmungsstücke bestimmte Zahlwerte haben sollen. Indem man ihnen solche zuschreibt, gelangt man zu einem bestimmten Zustand des Modells. Die klare Übersicht über die Gesamtheit der möglichen Zustände — noch ohne Beziehung zueinander — bildet „das Modell“ oder „das Modell in irgendeinem Zustand“. Aber zum Begriff des Modells gehört dann noch mehr als bloß: die zwei Punkte in beliebiger Lage und mit beliebigen Geschwindigkeiten begabt. Es gehört dazu noch, daß für jeden Zustand bekannt ist, wie er sich mit der Zeit verändern wird, solange kein äußerer Eingriff stattfindet. (Für die eine Hälfte der Bestimmungsstücke gibt zwar die andere darüber Auskunft, aber für die andere muß es erst gesagt werden.) Diese Kenntnis ist latent in den Aussagen: die Punkte haben die Massen m bzw. M und die Ladungen -e bzw. +e und ziehen sich daher mit der Kraft e²/r² an, wenn ihre Entfernung r ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 844,
+      "bottomRightX": 359,
+      "bottomRightY": 921,
+      "content": "Diese Angaben, mit bestimmten Zahlwerten für m, M und e (aber natürlich nicht für r), gehören mit zur Beschreibung des Modells (nicht erst zu der eines bestimmten Zustands). m, M und e heißen nicht Bestimmungsstücke. Dagegen ist die Entfernung r eines. In dem zweiten „Satz“, den",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 369,
+      "topLeftY": 121,
+      "bottomRightX": 646,
+      "bottomRightY": 186,
+      "content": "wir oben beispielsweise angeführt hatten, kommt sie als siebentes vor. Auch wenn man den ersten verwendet, ist r kein unabhängiges dreizehntes, es läßt sich ja aus den 6 rechtwinkeligen Koordinaten ausrechnen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 401,
+      "topLeftY": 190,
+      "bottomRightX": 612,
+      "bottomRightY": 206,
+      "content": "$$r = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2 + (z_1 - z_2)^2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 369,
+      "topLeftY": 208,
+      "bottomRightX": 648,
+      "bottomRightY": 442,
+      "content": "Die Zahl der Bestimmungsstücke (die oft auch Variable genannt werden im Gegensatz zu den Modellkonstanten wie m, M, e) ist unbegrenzt. Zwölf passend ausgewählte bestimmen alle übrigen oder den Zustand. Keine zwölf haben das Privileg, die Bestimmungsstücke zu sein. Beispiele anderer, besonders wichtiger Bestimmungsstücke sind: die Energie, die drei Komponenten des Impulsmomentes bezüglich des Schwerpunktes, die kinetische Energie der Schwerpunktsbewegung. Die eben genannten haben noch eine besondere Eigenart. Sie sind zwar Variable, d. h. sie haben in verschiedenen Zuständen verschiedene Werte. Aber in jeder Reihe von Zuständen, die im Laufe der Zeit wirklich durchlaufen wird, behalten sie denselben Wert bei. Sie heißen darum auch Konstante der Bewegung — im Unterschied von den Modellkonstanten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 370,
+      "topLeftY": 453,
+      "bottomRightX": 648,
+      "bottomRightY": 480,
+      "content": "# § 2. Die Statistik der Modellvariablen in der Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 369,
+      "topLeftY": 482,
+      "bottomRightX": 648,
+      "bottomRightY": 585,
+      "content": "Im Angelpunkt der heutigen Quantenmechanik (Q.M.) steht eine Lehrmeinung, die vielleicht noch manche Umdeutung erfahren, aber, wie ich fest überzeugt bin, nicht aufhören wird, den Angelpunkt zu bilden. Sie besteht darin, daß Modelle mit Bestimmungsstücken, die einander, so wie die klassischen, eindeutig determinieren, der Natur nicht gerecht werden können.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 369,
+      "topLeftY": 585,
+      "bottomRightX": 648,
+      "bottomRightY": 713,
+      "content": "Man würde denken, daß für den, der das glaubt, die klassischen Modelle ihre Rolle ausgespielt haben. Aber so ist es nicht. Vielmehr verwendet man gerade sie, nicht nur um das Negative der neuen Lehrmeinung auszudrücken; sondern auch die herabgeminderte gegenseitige Determinierung, die danach noch übrigbleibt, wird so beschrieben, als bestehe sie zwischen denselben Variablen derselben Modelle, die früher benützt wurden. Folgendermaßen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 369,
+      "topLeftY": 713,
+      "bottomRightX": 648,
+      "bottomRightY": 919,
+      "content": "A. Der klassische Begriff des Zustandes geht verloren, indem sich höchstens einer wohlausgewählten Hälfte eines vollständigen Satzes von Variablen bestimmte Zahlwerte zuweisen lassen; beim RUTHERFORDschen Modell beispielsweise den 6 rechtwinkligen Koordinaten oder den Geschwindigkeitskomponenten (es sind noch andere Gruppierungen möglich). Die andere Hälfte bleibt dann völlig unbestimmt, während überzählige Stücke die verschiedensten Grade von Unbestimmtheit aufweisen können. Im allgemeinen werden in einem vollständigen Satz (beim R.schen Modell zwölf Stücke) alle nur unscharf bekannt sein. Über den Grad der Unschärfe läßt sich am besten Auskunft geben, wenn man, der klassischen Mechanik folgend, bei der Auswahl der Variablen dafür",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

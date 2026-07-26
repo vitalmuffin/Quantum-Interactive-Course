@@ -1,0 +1,146 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 250,
+      "topLeftY": 90,
+      "bottomRightX": 394,
+      "bottomRightY": 104,
+      "content": "QUANTUM MECHANICS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 532,
+      "topLeftY": 87,
+      "bottomRightX": 552,
+      "bottomRightY": 104,
+      "content": "75",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 120,
+      "bottomRightX": 181,
+      "bottomRightY": 138,
+      "content": "let $\\beta \\in \\bar{S}$, so that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 148,
+      "bottomRightX": 387,
+      "bottomRightY": 174,
+      "content": "$$\\beta = \\sum_i \\lambda_i \\beta_{i1} \\beta_{i2} \\cdots \\beta_{in_i}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 189,
+      "bottomRightX": 250,
+      "bottomRightY": 205,
+      "content": "for some $\\lambda_i \\in K$, and $\\beta_{ij} \\in S$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 205,
+      "bottomRightX": 552,
+      "bottomRightY": 289,
+      "content": "If $\\alpha \\in I$, then $\\alpha \\beta_{ij} \\in I$. Hence $\\alpha \\beta = \\Sigma_i \\lambda_i \\alpha \\beta_{i1} \\cdots \\beta_{in_i} \\in I$. Finally, $1 \\notin I$. We have shown that $I$ is a proper ideal of the algebra $\\bar{S}$. Let $C' = \\bar{S}/I$ and let $\\varphi : \\bar{S} \\to C'$ be the canonical homomorphism. Define $h : \\mathfrak{N} \\to C'$ by $h(x) = \\varphi(\\alpha)$ where $\\alpha \\in S$ is such that $R(x, \\alpha)$. Then it is easily checked that $h$ is well-defined and a homomorphism.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 289,
+      "bottomRightX": 552,
+      "bottomRightY": 340,
+      "content": "If we now take $\\mathfrak{N}$ to be the partial algebra $Q$, it follows from this theorem that there is no non-trivial homomorphic relation with domain $Q$ between $Q$ and a commutative algebra.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 361,
+      "bottomRightX": 552,
+      "bottomRightY": 479,
+      "content": "**6. A classical model of electron spin.** We prove here that the problem of hidden variables as we have formulated it in Section 1 has a positive solution for a restricted part of quantum mechanics. The portion of quantum mechanics with which we deal is obtained by restricting our Hilbert space to be two-dimensional. Thus, the state vectors are assumed to range over two-dimensional unitary space $U^2$, and the observables to range over the set $H_2$ of two-dimensional self-adjoint operators.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 479,
+      "bottomRightX": 552,
+      "bottomRightY": 598,
+      "content": "As will be seen, the problem reduces to considering the case of spin operators. Thus, our problem becomes essentially that of constructing a classical model for a single particle of spin $\\frac{1}{2}$, say an electron. Needless to say, we do not maintain that this classical model of electron spin remains valid in the general context of quantum mechanics. In fact, as was shown in Section 4, there exists a system of two electrons in a suitable external field such that there is no classical model for the spin of the system.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 598,
+      "bottomRightX": 552,
+      "bottomRightY": 732,
+      "content": "Our aim in constructing a classical model for electron spin is two-fold. In the first place, we wish to exhibit a classical interpretation of a part of quantum mechanics so that it may be compared with various attempts to introduce hidden variables into quantum mechanics. We believe these attempts to be unsuccessful, so it would be as well if we could give an example of what is for us a successful introduction of hidden variables into a theory. In the second place, we shall use this model in discussing von Neumann's proof in [19] of the non-existence of hidden variables.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 732,
+      "bottomRightX": 552,
+      "bottomRightY": 784,
+      "content": "As formulated in Section 1, our problem is to define a \"phase\" space $\\Omega$ such that for each operator $A \\in H_2$ there is a real-valued function $f_A : \\Omega \\to \\mathbb{R}$ and for each vector $\\psi \\in U^2$ there exists a probability measure $\\mu_\\psi$ on $\\Omega$ such that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 784,
+      "bottomRightX": 394,
+      "bottomRightY": 802,
+      "content": "(I) $f_{u(A)} = u(f_A)$ for each (Borel) function $u$; and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 802,
+      "bottomRightX": 342,
+      "bottomRightY": 819,
+      "content": "(II) the quantum mechanical expectation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 833,
+      "bottomRightX": 394,
+      "bottomRightY": 867,
+      "content": "$$\\langle A \\psi, \\psi \\rangle = \\int_\\Omega f_A(\\omega) \\, d\\mu_\\psi(\\omega).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 944,
+      "bottomRightX": 419,
+      "bottomRightY": 978,
+      "content": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

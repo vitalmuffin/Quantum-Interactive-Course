@@ -1,0 +1,84 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 183,
+      "topLeftY": 144,
+      "bottomRightX": 340,
+      "bottomRightY": 158,
+      "content": "Simulating Physics with Computers",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 588,
+      "topLeftY": 144,
+      "bottomRightX": 605,
+      "bottomRightY": 156,
+      "content": "481",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 175,
+      "bottomRightX": 583,
+      "bottomRightY": 191,
+      "content": "## 7. POLARIZATION OF PHOTONS—TWO-STATES SYSTEMS",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 207,
+      "bottomRightX": 607,
+      "bottomRightY": 409,
+      "content": "I would like to show you why such minus signs cannot be avoided, or at least that you have some sort of difficulty. You probably have all heard this example of the Einstein-Podolsky-Rosen paradox, but I will explain this little example of a physical experiment which can be done, and which has been done, which does give the answers quantum theory predicts, and the answers are really right, there's no mistake, if you do the experiment, it actually comes out. And I'm going to use the example of polarizations of photons, which is an example of a two-state system. When a photon comes, you can say it's either $x$ polarized or $y$ polarized. You can find that out by putting in a piece of calcite, and the photon goes through the calcite either out in one direction, or out in another—actually slightly separated, and then you put in some mirrors, that's not important. You get two beams, two places out, where the photon can go. (See Figure 2.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 410,
+      "bottomRightX": 607,
+      "bottomRightY": 562,
+      "content": "If you put a polarized photon in, then it will go to one beam called the ordinary ray, or another, the extraordinary one. If you put detectors there you find that each photon that you put in, it either comes out in one or the other 100% of the time, and not half and half. You either find a photon in one or the other. The probability of finding it in the ordinary ray plus the probability of finding it in the extraordinary ray is always 1—you have to have that rule. That works. And further, it's never found at both detectors. (If you might have put two photons in, you could get that, but you cut the intensity down—it's a technical thing, you don't find them in both detectors.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 563,
+      "bottomRightX": 607,
+      "bottomRightY": 705,
+      "content": "Now the next experiment: Separation into 4 polarized beams (see Figure 3). You put two calcites in a row so that their axes have a relative angle $\\phi$, I happen to have drawn the second calcite in two positions, but it doesn't make a difference if you use the same piece or not, as you care. Take the ordinary ray from one and put it through another piece of calcite and look at its ordinary ray, which I'll call the ordinary-ordinary $(O-O)$ ray, or look at its extraordinary ray, I have the ordinary-extraordinary $(O-E)$ ray. And then the extraordinary ray from the first one comes out as the $E-O$ ray, and then there's an $E-E$ ray, alright. Now you can ask what happens.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 296,
+      "topLeftY": 739,
+      "bottomRightX": 486,
+      "bottomRightY": 809,
+      "content": "![img-1.jpeg](img-1.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-1.jpeg"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 815,
+      "bottomRightX": 405,
+      "bottomRightY": 828,
+      "content": "Fig. 2.",
+      "confidenceScores": null,
+      "type": "caption"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "index": 43,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 46,
+      "topLeftY": 20,
+      "bottomRightX": 71,
+      "bottomRightY": 42,
+      "content": "64",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 22,
+      "bottomRightX": 386,
+      "bottomRightY": 40,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 63,
+      "bottomRightX": 574,
+      "bottomRightY": 347,
+      "content": "pes valeurs limites (librations) et il existe une infinité de pseudo-périodes égales approximativement à des multiples entiers des périodes de libration. A la fin de chacune de ces pseudo-périodes, le mobile est revenu dans un état aussi voisin que l'on veut de l'état initial. L'équation d'Einstein appliquée à chacune de ces pseudo-périodes conduit à une infinité de conditions qui sont compatibles seulement si les conditions multiples de Sommerfeld sont vérifiées ; celles-ci étant en nombre égal à celui des degrés de liberté, toutes les constantes se trouvent fixées et il ne reste plus aucune indétermination.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 350,
+      "bottomRightX": 579,
+      "bottomRightY": 684,
+      "content": "Pour le calcul des intégrales de Sommerfeld, on s'est servi avec succès de l'équation de Jacobi et du théorème des résidus ainsi que de la conception des variables angulaires. Ces questions ont fait l'objet de nombreux travaux depuis quelques années et sont résumés dans le beau livre de M. Sommerfeld *Atombau und Spectrallinien* (édition française, traduction Bellenot, Blanchard éditeur, 1923). Nous n'y insisterons pas ici et nous nous bornerons à remarquer qu'en fin de compte, le problème de la quantification se ramène entièrement en principe à la condition d'Einstein pour les orbites fermées. Si l'on parvient à interpréter cette condition, on aura du même coup éclairé toute la question des trajectoires stables.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 715,
+      "bottomRightX": 532,
+      "bottomRightY": 738,
+      "content": "## II. — INTERPRÉTATION DE LA CONDITION D'EINSTEIN",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 51,
+      "topLeftY": 767,
+      "bottomRightX": 581,
+      "bottomRightY": 975,
+      "content": "La notion d'onde de phase va nous permettre de fournir une explication de la condition d'Einstein. Il résulte des considérations du chapitre II que la trajectoire du mobile est un des rayons de son onde de phase, celle-ci doit courir le long de la trajectoire avec une fréquence constante (puisque l'énergie totale est constante) et une vitesse variable dont nous avons appris à calculer la valeur. La propagation est donc analogue à celle d'une onde liquide dans un canal",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

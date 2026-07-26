@@ -1,0 +1,2726 @@
+{
+  "document_id": "01_1925_heisenberg_quantum_reinterpretation",
+  "source_filename": "heisenberg_1925_quantum_reinterpretation.pdf",
+  "metadata": {
+    "title_original": "Über die quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen",
+    "title_normalized": "On the quantum theoretical reinterpretation of kinematical and mechanical relationships",
+    "authors": [
+      "Werner Heisenberg"
+    ],
+    "publication_year": 1925,
+    "original_language": "de",
+    "journal": "Zeitschrift für Physik",
+    "volume": "33",
+    "issue": "1",
+    "page_range": "879-893",
+    "doi": "10.1007/BF01328377",
+    "received_date": "29. Juli 1925",
+    "abstract_original": "In dieser Arbeit wird versucht, die Grundlagen einer Quantentheorie zu gewinnen, die ausschliesslich auf Beziehungen zwischen in Prinzip beobachtbaren Grössen aufgebaut ist."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "879",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "Über die quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen",
+          "markdown": "# Über die quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Werner Heisenberg",
+          "markdown": "Werner Heisenberg",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.35,
+            0.8,
+            0.65,
+            0.84
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "affiliation",
+          "level": null,
+          "text_original": "Institut für theoretische Physik, Göttingen",
+          "markdown": "Institut für theoretische Physik, Göttingen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.3,
+            0.76,
+            0.7,
+            0.8
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "*Eingegangen am 29. Juli 1925*",
+          "markdown": "*Eingegangen am 29. Juli 1925*",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.72,
+            0.3,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Zusammenfassung.",
+          "markdown": "## Zusammenfassung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.68,
+            0.25,
+            0.71
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es wird versucht, die Grundlagen einer Quantentheorie zu gewinnen, die ausschliesslich auf Beziehungen zwischen in Prinzip beobachtbaren Grössen aufgebaut ist.",
+          "markdown": "Es wird versucht, die Grundlagen einer Quantentheorie zu gewinnen, die ausschliesslich auf Beziehungen zwischen in Prinzip beobachtbaren Grössen aufgebaut ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.64,
+            0.9,
+            0.68
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Über die quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen\n\nWerner Heisenberg\n\nInstitut für theoretische Physik, Göttingen\n\n*Eingegangen am 29. Juli 1925*\n\n## Zusammenfassung.\n\nEs wird versucht, die Grundlagen einer Quantentheorie zu gewinnen, die ausschliesslich auf Beziehungen zwischen in Prinzip beobachtbaren Grössen aufgebaut ist.",
+      "word_count": 45,
+      "page_quality_notes": []
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "880",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Einleitung.",
+          "markdown": "## Einleitung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.25,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es ist bekannt, dass gegen die formalen Regeln der Quantentheorie, die zur Berechnung der beobachtbaren Grössen (z. B. der Energiestufen des Wasserstoffatoms) dienen, der schwerwiegende Einwand erhoben werden kann, dass 1) diese Rechenregeln als wesentliche Bestandteile Beziehungen zwischen Grössen enthalten, die ihrerseits in Prinzip nicht beobachtbar sind (wie z. B. Ort und Umlaufszeit des Elektrons), und dass 2) diese Regeln offenbar jeder klaren physikalischen Grundlage entbehren, wenn man nicht an der Hoffnung festhalten will, dass die bisher unbeobachteten Grössen später einmal der experimentellen Bestimmung zugänglich gemacht werden können. Diese Hoffnung mag dann als berechtigt erscheinen, wenn die erwähnten Regeln in sich widerspruchsfrei und auf einen klar abgegrenzten Bereich quantentheoretischer Probleme anwendbar wären.",
+          "markdown": "Es ist bekannt, dass gegen die formalen Regeln der Quantentheorie, die zur Berechnung der beobachtbaren Grössen (z. B. der Energiestufen des Wasserstoffatoms) dienen, der schwerwiegende Einwand erhoben werden kann, dass 1) diese Rechenregeln als wesentliche Bestandteile Beziehungen zwischen Grössen enthalten, die ihrerseits in Prinzip nicht beobachtbar sind (wie z. B. Ort und Umlaufszeit des Elektrons), und dass 2) diese Regeln offenbar jeder klaren physikalischen Grundlage entbehren, wenn man nicht an der Hoffnung festhalten will, dass die bisher unbeobachteten Grössen später einmal der experimentellen Bestimmung zugänglich gemacht werden können. Diese Hoffnung mag dann als berechtigt erscheinen, wenn die erwähnten Regeln in sich widerspruchsfrei und auf einen klar abgegrenzten Bereich quantentheoretischer Probleme anwendbar wären.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Gleichwohl zeigt die Erfahrung, dass 1) nur das Wasserstoffatom und sein Starkeffekt in diese formalen Regeln der Quantentheorie hineinpassen, dass 2) schon beim Problem der \"gekreuzten Felder\" (Wasserstoffatom in elektrischen und magnetischen Feldern verschiedener Richtung) fundamentale Schwierigkeiten auftreten, dass 3) die Einwirkung der Atome auf periodisch veränderliche Felder durch die erwähnten Regeln sicher nicht beschrieben werden kann, und dass 4) schliesslich eine Ausdehnung der Quantentheorie auf Atome mit mehreren Elektronen bisher als undurchführbar erwiesen ist.",
+          "markdown": "Gleichwohl zeigt die Erfahrung, dass 1) nur das Wasserstoffatom und sein Starkeffekt in diese formalen Regeln der Quantentheorie hineinpassen, dass 2) schon beim Problem der \"gekreuzten Felder\" (Wasserstoffatom in elektrischen und magnetischen Feldern verschiedener Richtung) fundamentale Schwierigkeiten auftreten, dass 3) die Einwirkung der Atome auf periodisch veränderliche Felder durch die erwähnten Regeln sicher nicht beschrieben werden kann, und dass 4) schliesslich eine Ausdehnung der Quantentheorie auf Atome mit mehreren Elektronen bisher als undurchführbar erwiesen ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Man pflegt das Versagen der Quantentheorie (die ja schon im wesentlichen durch die Anwendung der klassischen Mechanik charakterisiert war) als Abweichung von der klassischen Mechanik zu bezeichnen. Diese Ausdrucksweise kann aber kaum als logisch bezeichnet werden, wenn man bedenkt, dass schon die Einstein-Bohrsche Frequenzbedingung einen solchen vollständigen Bruch mit der klassischen Mechanik bzw. — vom Standpunkt der Wellentheorie aus — mit der dieser Mechanik zugrunde liegenden Kinematik darstellt, dass es selbst für das einfachste quantentheoretische Problem unmöglich ist, an der Gültigkeit der klassischen Mechanik festzuhalten.",
+          "markdown": "Man pflegt das Versagen der Quantentheorie (die ja schon im wesentlichen durch die Anwendung der klassischen Mechanik charakterisiert war) als Abbrüche von der klassischen Mechanik zu bezeichnen. Diese Ausdrucksweise kann aber kaum als logisch bezeichnet werden, wenn man bedenkt, dass schon die Einstein-Bohrsche Frequenzbedingung einen solchen vollständigen Bruch mit der klassischen Mechanik bzw. — vom Standpunkt der Wellentheorie aus — mit der dieser Mechanik zugrunde liegenden Kinematik darstellt, dass es selbst für das einfachste quantentheoretische Problem unmöglich ist, an der Gültigkeit der klassischen Mechanik festzuhalten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "OCR error in 'Abweichung' (misread as 'Abbrüche')"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In dieser Lage erscheint es zweckmässig, jede Hoffnung auf Beobachtung bisher unbeobachteter Grössen (wie Ort und Umlaufszeit des Elektrons) ganz aufzugeben und gleichzeitig anzuerkennen, dass 1) die teilweise Übereinstimmung der erwähnten Quantentheorie mit der Erfahrung mehr oder weniger ein Zufall ist, und dass 2) eine Theorie der \"Quantentheorie\" zu konstruieren ist, in der nur Beziehungen zwischen beobachtbaren Grössen vorkommen.",
+          "markdown": "In dieser Lage erscheint es zweckmässig, jede Hoffnung auf Beobachtung bisher unbeobachteter Grössen (wie Ort und Umlaufszeit des Elektrons) ganz aufzugeben und gleichzeitig anzuerkennen, dass 1) die teilweise Übereinstimmung der erwähnten Quantentheorie mit der Erfahrung mehr oder weniger ein Zufall ist, und dass 2) eine Theorie der \"Quantentheorie\" zu konstruieren ist, in der nur Beziehungen zwischen beobachtbaren Grössen vorkommen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Als erste wichtigste Ansätze zu einer solchen Quantentheorie kann man die Dispersionstheorie von Kramers (ZS. f. Phys. 31, 681, 1925) und die ihr folgenden Arbeiten bezeichnen.",
+          "markdown": "Als erste wichtigste Ansätze zu einer solchen Quantentheorie kann man die Dispersionstheorie von Kramers (ZS. f. Phys. 31, 681, 1925) und die ihr folgenden Arbeiten bezeichnen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Im folgenden soll versucht werden, einige neue quantentheoretische Beziehungen abzuleiten und sie auf die Behandlung einiger spezieller Probleme anzuwenden. Wir beschränken uns dabei auf Probleme mit einem Freiheitsgrad.",
+          "markdown": "Im folgenden soll versucht werden, einige neue quantentheoretische Beziehungen abzuleiten und sie auf die Behandlung einiger spezieller Probleme anzuwenden. Wir beschränken uns dabei auf Probleme mit einem Freiheitsgrad.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## Einleitung.\n\nEs ist bekannt, dass gegen die formalen Regeln der Quantentheorie, die zur Berechnung der beobachtbaren Grössen (z. B. der Energiestufen des Wasserstoffatoms) dienen, der schwerwiegende Einwand erhoben werden kann, dass 1) diese Rechenregeln als wesentliche Bestandteile Beziehungen zwischen Grössen enthalten, die ihrerseits in Prinzip nicht beobachtbar sind (wie z. B. Ort und Umlaufszeit des Elektrons), und dass 2) diese Regeln offenbar jeder klaren physikalischen Grundlage entbehren, wenn man nicht an der Hoffnung festhalten will, dass die bisher unbeobachteten Grössen später einmal der experimentellen Bestimmung zugänglich gemacht werden können. Diese Hoffnung mag dann als berechtigt erscheinen, wenn die erwähnten Regeln in sich widerspruchsfrei und auf einen klar abgegrenzten Bereich quantentheoretischer Probleme anwendbar wären.\n\nGleichwohl zeigt die Erfahrung, dass 1) nur das Wasserstoffatom und sein Starkeffekt in diese formalen Regeln der Quantentheorie hineinpassen, dass 2) schon beim Problem der \"gekreuzten Felder\" (Wasserstoffatom in elektrischen und magnetischen Feldern verschiedener Richtung) fundamentale Schwierigkeiten auftreten, dass 3) die Einwirkung der Atome auf periodisch veränderliche Felder durch die erwähnten Regeln sicher nicht beschrieben werden kann, und dass 4) schliesslich eine Ausdehnung der Quantentheorie auf Atome mit mehreren Elektronen bisher als undurchführbar erwiesen ist.\n\nMan pflegt das Versagen der Quantentheorie (die ja schon im wesentlichen durch die Anwendung der klassischen Mechanik charakterisiert war) als Abweichung von der klassischen Mechanik zu bezeichnen. Diese Ausdrucksweise kann aber kaum als logisch bezeichnet werden, wenn man bedenkt, dass schon die Einstein-Bohrsche Frequenzbedingung einen solchen vollständigen Bruch mit der klassischen Mechanik bzw. — vom Standpunkt der Wellentheorie aus — mit der dieser Mechanik zugrunde liegenden Kinematik darstellt, dass es selbst für das einfachste quantentheoretische Problem unmöglich ist, an der Gültigkeit der klassischen Mechanik festzuhalten.\n\nIn dieser Lage erscheint es zweckmässig, jede Hoffnung auf Beobachtung bisher unbeobachteter Grössen (wie Ort und Umlaufszeit des Elektrons) ganz aufzugeben und gleichzeitig anzuerkennen, dass 1) die teilweise Übereinstimmung der erwähnten Quantentheorie mit der Erfahrung mehr oder weniger ein Zufall ist, und dass 2) eine Theorie der \"Quantentheorie\" zu konstruieren ist, in der nur Beziehungen zwischen beobachtbaren Grössen vorkommen.\n\nAls erste wichtigste Ansätze zu einer solchen Quantentheorie kann man die Dispersionstheorie von Kramers (ZS. f. Phys. 31, 681, 1925) und die ihr folgenden Arbeiten bezeichnen.\n\nIm folgenden soll versucht werden, einige neue quantentheoretische Beziehungen abzuleiten und sie auf die Behandlung einiger spezieller Probleme anzuwenden. Wir beschränken uns dabei auf Probleme mit einem Freiheitsgrad.",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Minor OCR error in 'Abweichung' (misread as 'Abbrüche')"
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "881",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 1. Die Kinematik der Quantentheorie.",
+          "markdown": "### § 1. Die Kinematik der Quantentheorie.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.3,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In der klassischen Theorie ist die Ausstrahlung eines bewegten Elektrons (im Wellengebiet $E \\sim H \\sim 1/r$) nicht vollständig durch die Ausdrücke",
+          "markdown": "In der klassischen Theorie ist die Ausstrahlung eines bewegten Elektrons (im Wellengebiet $E \\sim H \\sim 1/r$) nicht vollständig durch die Ausdrücke",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\vec{E} = \\frac{e}{r^3 c^2} (\\vec{r} \\times (\\vec{r} \\times \\vec{v})) \\tag{1}$$",
+          "markdown": "$$\\vec{E} = \\frac{e}{r^3 c^2} (\\vec{r} \\times (\\vec{r} \\times \\vec{v})) \\tag{1}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.78,
+            0.5,
+            0.84
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\vec{H} = \\frac{e}{r^2 c^2} (\\vec{v} \\times \\vec{r}) \\tag{2}$$",
+          "markdown": "$$\\vec{H} = \\frac{e}{r^2 c^2} (\\vec{v} \\times \\vec{r}) \\tag{2}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.72,
+            0.5,
+            0.78
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "gegeben, sondern es treten noch Glieder höherer Ordnung auf, z. B. von der Form",
+          "markdown": "gegeben, sondern es treten noch Glieder höherer Ordnung auf, z. B. von der Form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.68,
+            0.9,
+            0.72
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{e}{r c^3} (\\vec{v} \\times \\vec{r}) \\tag{3}$$",
+          "markdown": "$$\\frac{e}{r c^3} (\\vec{v} \\times \\vec{r}) \\tag{3}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.64,
+            0.3,
+            0.68
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "die wir als Quadrupolstrahlung bezeichnen können, und in noch höherer Ordnung Glieder von der Form",
+          "markdown": "die wir als Quadrupolstrahlung bezeichnen können, und in noch höherer Ordnung Glieder von der Form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{e}{r c^4}(\\vec{v} \\times \\vec{v}^2) \\tag{4}$$",
+          "markdown": "$$\\frac{e}{r c^4}(\\vec{v} \\times \\vec{v}^2) \\tag{4}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.56,
+            0.4,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und so kann die Näherung nach Belieben weitergetrieben werden.\n\n(In den vorstehenden Ausdrücken bedeuten $\\vec{E}$ und $\\vec{H}$ die Feldstärken an einem Punkt, $e$ die Elektronenladung, $\\vec{r}$ den Abstand des Elektrons vom Feldpunkt, $\\vec{v}$ die Elektronengeschwindigkeit.)\n\nMan kann sich nun fragen, wie die höheren Glieder in der Quantentheorie aussehen.",
+          "markdown": "und so kann die Näherung nach Belieben weitergetrieben werden.\n\n(In den vorstehenden Ausdrücken bedeuten $\\vec{E}$ und $\\vec{H}$ die Feldstärken an einem Punkt, $e$ die Elektronenladung, $\\vec{r}$ den Abstand des Elektrons vom Feldpunkt, $\\vec{v}$ die Elektronengeschwindigkeit.)\n\nMan kann sich nun fragen, wie die höheren Glieder in der Quantentheorie aussehen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.56
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Da in der klassischen Theorie die höheren Näherungen leicht berechnet werden können, wenn die Bewegung des Elektrons bzw. ihre Fourier-Darstellung gegeben ist, so wird man dasselbe auch in der Quantentheorie erwarten. Diese Frage hat nun nichts mit der Elektrodynamik zu tun, sondern ist — und das scheint uns besonders wichtig — von rein kinematischer Natur. Man kann sie etwa so formulieren: Wenn statt der klassischen Grösse $x(t)$ eine quantentheoretische gegeben ist, welche quantentheoretische Grösse tritt an die Stelle von $x(t)^2$?",
+          "markdown": "Da in der klassischen Theorie die höheren Näherungen leicht berechnet werden können, wenn die Bewegung des Elektrons bzw. ihre Fourier-Darstellung gegeben ist, so wird man dasselbe auch in der Quantentheorie erwarten. Diese Frage hat nun nichts mit der Elektrodynamik zu tun, sondern ist — und das scheint uns besonders wichtig — von rein kinematischer Natur. Man kann sie etwa so formulieren: Wenn statt der klassischen Grösse $x(t)$ eine quantentheoretische gegeben ist, welche quantentheoretische Grösse tritt an die Stelle von $x(t)^2$?",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### § 1. Die Kinematik der Quantentheorie.\n\nIn der klassischen Theorie ist die Ausstrahlung eines bewegten Elektrons (im Wellengebiet $E \\sim H \\sim 1/r$) nicht vollständig durch die Ausdrücke\n\n$$\\vec{E} = \\frac{e}{r^3 c^2} (\\vec{r} \\times (\\vec{r} \\times \\vec{v})) \\tag{1}$$\n\n$$\\vec{H} = \\frac{e}{r^2 c^2} (\\vec{v} \\times \\vec{r}) \\tag{2}$$\n\ngegeben, sondern es treten noch Glieder höherer Ordnung auf, z. B. von der Form\n\n$$\\frac{e}{r c^3} (\\vec{v} \\times \\vec{r}) \\tag{3}$$\n\ndie wir als Quadrupolstrahlung bezeichnen können, und in noch höherer Ordnung Glieder von der Form\n\n$$\\frac{e}{r c^4}(\\vec{v} \\times \\vec{v}^2) \\tag{4}$$\n\nund so kann die Näherung nach Belieben weitergetrieben werden.\n\n(In den vorstehenden Ausdrücken bedeuten $\\vec{E}$ und $\\vec{H}$ die Feldstärken an einem Punkt, $e$ die Elektronenladung, $\\vec{r}$ den Abstand des Elektrons vom Feldpunkt, $\\vec{v}$ die Elektronengeschwindigkeit.)\n\nMan kann sich nun fragen, wie die höheren Glieder in der Quantentheorie aussehen.\n\nDa in der klassischen Theorie die höheren Näherungen leicht berechnet werden können, wenn die Bewegung des Elektrons bzw. ihre Fourier-Darstellung gegeben ist, so wird man dasselbe auch in der Quantentheorie erwarten. Diese Frage hat nun nichts mit der Elektrodynamik zu tun, sondern ist — und das scheint uns besonders wichtig — von rein kinematischer Natur. Man kann sie etwa so formulieren: Wenn statt der klassischen Grösse $x(t)$ eine quantentheoretische gegeben ist, welche quantentheoretische Grösse tritt an die Stelle von $x(t)^2$?",
+      "word_count": 220,
+      "page_quality_notes": []
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "882",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bevor wir diese Frage beantworten können, müssen wir uns daran erinnern, dass in der Quantentheorie dem Elektron nicht — wie in der klassischen Theorie — ein Ort als Funktion der Zeit durch beobachtbare Grössen zugeordnet werden kann. Wohl aber wird man auch in der Quantentheorie dem Elektron eine ausgestrahlte Strahlung zuordnen können. Diese Strahlung wird sich zunächst beschreiben lassen durch Frequenzen, die quantentheoretisch als Funktion zweier Variablen in der Form",
+          "markdown": "Bevor wir diese Frage beantworten können, müssen wir uns daran erinnern, dass in der Quantentheorie dem Elektron nicht — wie in der klassischen Theorie — ein Ort als Funktion der Zeit durch beobachtbare Grössen zugeordnet werden kann. Wohl aber wird man auch in der Quantentheorie dem Elektron eine ausgestrahlte Strahlung zuordnen können. Diese Strahlung wird sich zunächst beschreiben lassen durch Frequenzen, die quantentheoretisch als Funktion zweier Variablen in der Form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            1
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\nu(n, n - \\alpha) = \\frac{1}{h}\\{E(n) - E(n - \\alpha)\\}\\tag{5}$$",
+          "markdown": "$$\\nu(n, n - \\alpha) = \\frac{1}{h}\\{E(n) - E(n - \\alpha)\\}\\tag{5}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.88,
+            0.6,
+            0.94
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und klassisch in der Form",
+          "markdown": "und klassisch in der Form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.84,
+            0.3,
+            0.88
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\nu(n, \\alpha) = \\alpha \\frac{1}{h} \\frac{dE}{dn} \\tag{6}$$",
+          "markdown": "$$\\nu(n, \\alpha) = \\alpha \\frac{1}{h} \\frac{dE}{dn} \\tag{6}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.5,
+            0.86
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Von hier ab setzen wir $nh = J$, wo $J$ eine der kanonischen Konstanten bedeutet.) Als charakteristisch für den Vergleich der klassischen Mechanik mit der Quantentheorie bezüglich der Frequenzen kann man die \"Kombinationsbeziehungen\" schreiben:",
+          "markdown": "(Von hier ab setzen wir $nh = J$, wo $J$ eine der kanonischen Konstanten bedeutet.) Als charakteristisch für den Vergleich der klassischen Mechanik mit der Quantentheorie bezüglich der Frequenzen kann man die \"Kombinationsbeziehungen\" schreiben:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.72,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Klassisch:",
+          "markdown": "Klassisch:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.68,
+            0.2,
+            0.72
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\nu(n, \\alpha) + \\nu(n, \\beta) = \\nu(n, \\alpha + \\beta) \\tag{7}$$",
+          "markdown": "$$\\nu(n, \\alpha) + \\nu(n, \\beta) = \\nu(n, \\alpha + \\beta) \\tag{7}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.62,
+            0.6,
+            0.68
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Quantentheoretisch:",
+          "markdown": "Quantentheoretisch:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.58,
+            0.35,
+            0.62
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\nu(n, n - \\alpha) + \\nu(n - \\alpha, n - \\alpha - \\beta) = \\nu(n, n - \\alpha - \\beta) \\tag{8}$$",
+          "markdown": "$$\\nu(n, n - \\alpha) + \\nu(n - \\alpha, n - \\alpha - \\beta) = \\nu(n, n - \\alpha - \\beta) \\tag{8}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p004_08",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.52,
+            0.7,
+            0.58
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\nu(n - \\beta, n - \\alpha - \\beta) + \\nu(n, n - \\beta) = \\nu(n, n - \\alpha - \\beta) \\tag{9}$$",
+          "markdown": "$$\\nu(n - \\beta, n - \\alpha - \\beta) + \\nu(n, n - \\beta) = \\nu(n, n - \\alpha - \\beta) \\tag{9}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p004_09",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.46,
+            0.7,
+            0.52
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ausser den Frequenzen werden zur Beschreibung der Strahlung noch die Amplituden benötigt. Die Amplituden lassen sich als komplexe Vektoren (mit je sechs unabhängigen Komponenten) schreiben und bestimmen Polarisation und Phase. Sie sind ebenfalls Funktionen der beiden Variablen $n$ und $\\alpha$, so dass der entsprechende Teil der Strahlung dargestellt wird mit",
+          "markdown": "Ausser den Frequenzen werden zur Beschreibung der Strahlung noch die Amplituden benötigt. Die Amplituden lassen sich als komplexe Vektoren (mit je sechs unabhängigen Komponenten) schreiben und bestimmen Polarisation und Phase. Sie sind ebenfalls Funktionen der beiden Variablen $n$ und $\\alpha$, so dass der entsprechende Teil der Strahlung dargestellt wird mit",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.46
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Quantentheoretisch:",
+          "markdown": "Quantentheoretisch:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.3,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Re\\{\\vec{X}(n, n - \\alpha)e^{i\\omega(n, n - \\alpha)t}\\} \\quad (10)$$",
+          "markdown": "$$\\Re\\{\\vec{X}(n, n - \\alpha)e^{i\\omega(n, n - \\alpha)t}\\} \\quad (10)$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p004_10",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.24,
+            0.5,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Klassisch:",
+          "markdown": "Klassisch:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.28,
+            0.24
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Re\\{\\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t}\\} \\quad (11)$$",
+          "markdown": "$$\\Re\\{\\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t}\\} \\quad (11)$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p004_11",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Bevor wir diese Frage beantworten können, müssen wir uns daran erinnern, dass in der Quantentheorie dem Elektron nicht — wie in der klassischen Theorie — ein Ort als Funktion der Zeit durch beobachtbare Grössen zugeordnet werden kann. Wohl aber wird man auch in der Quantentheorie dem Elektron eine ausgestrahlte Strahlung zuordnen können. Diese Strahlung wird sich zunächst beschreiben lassen durch Frequenzen, die quantentheoretisch als Funktion zweier Variablen in der Form\n\n$$\\nu(n, n - \\alpha) = \\frac{1}{h}\\{E(n) - E(n - \\alpha)\\}\\tag{5}$$\n\nund klassisch in der Form\n\n$$\\nu(n, \\alpha) = \\alpha \\frac{1}{h} \\frac{dE}{dn} \\tag{6}$$\n\n(Von hier ab setzen wir $nh = J$, wo $J$ eine der kanonischen Konstanten bedeutet.) Als charakteristisch für den Vergleich der klassischen Mechanik mit der Quantentheorie bezüglich der Frequenzen kann man die \"Kombinationsbeziehungen\" schreiben:\n\nKlassisch:\n\n$$\\nu(n, \\alpha) + \\nu(n, \\beta) = \\nu(n, \\alpha + \\beta) \\tag{7}$$\n\nQuantentheoretisch:\n\n$$\\nu(n, n - \\alpha) + \\nu(n - \\alpha, n - \\alpha - \\beta) = \\nu(n, n - \\alpha - \\beta) \\tag{8}$$\n\n$$\\nu(n - \\beta, n - \\alpha - \\beta) + \\nu(n, n - \\beta) = \\nu(n, n - \\alpha - \\beta) \\tag{9}$$\n\nAusser den Frequenzen werden zur Beschreibung der Strahlung noch die Amplituden benötigt. Die Amplituden lassen sich als komplexe Vektoren (mit je sechs unabhängigen Komponenten) schreiben und bestimmen Polarisation und Phase. Sie sind ebenfalls Funktionen der beiden Variablen $n$ und $\\alpha$, so dass der entsprechende Teil der Strahlung dargestellt wird mit\n\nQuantentheoretisch:\n\n$$\\Re\\{\\vec{X}(n, n - \\alpha)e^{i\\omega(n, n - \\alpha)t}\\} \\quad (10)$$\n\nKlassisch:\n\n$$\\Re\\{\\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t}\\} \\tag{11}$$",
+      "word_count": 280,
+      "page_quality_notes": []
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "883",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Zunächst scheint die Phase (in $\\vec{X}$ enthalten) in der Quantentheorie keine Bedeutung zu haben, da in dieser Theorie die Frequenzen im allgemeinen nicht mit ihren Oberschwingungen kommensurabel sind. Wir werden aber sofort sehen, dass auch in der Quantentheorie die Phase eine präzise Bedeutung hat, die ein Analogon in der klassischen Theorie besitzt. Betrachten wir etwa eine bestimmte Grösse $x(t)$ in der klassischen Theorie, die sich darstellen lässt durch die Gesamtheit der Grössen von der Form",
+          "markdown": "Zunächst scheint die Phase (in $\\vec{X}$ enthalten) in der Quantentheorie keine Bedeutung zu haben, da in dieser Theorie die Frequenzen im allgemeinen nicht mit ihren Oberschwingungen kommensurabel sind. Wir werden aber sofort sehen, dass auch in der Quantentheorie die Phase eine präzise Bedeutung hat, die ein Analogon in der klassischen Theorie besitzt. Betrachten wir etwa eine bestimmte Grösse $x(t)$ in der klassischen Theorie, die sich darstellen lässt durch die Gesamtheit der Grössen von der Form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            1
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\vec{A}_\\alpha(n)e^{i\\omega(n)\\alpha t} \\quad (12)$$",
+          "markdown": "$$\\vec{A}_\\alpha(n)e^{i\\omega(n)\\alpha t} \\quad (12)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.88,
+            0.4,
+            0.94
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "die je nach Periodizität der Bewegung eine Summe oder ein Integral darstellt:",
+          "markdown": "die je nach Periodizität der Bewegung eine Summe oder ein Integral darstellt:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.84,
+            0.6,
+            0.88
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$x(t) = \\sum_{\\alpha=-\\infty}^{\\infty} \\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t} \\quad (13)$$",
+          "markdown": "$$x(t) = \\sum_{\\alpha=-\\infty}^{\\infty} \\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t} \\quad (13)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\text{oder}\\quad x(t) = \\int_{-\\infty}^{\\infty} \\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t} d\\alpha \\quad (14)$$",
+          "markdown": "$$\\text{oder}\\quad x(t) = \\int_{-\\infty}^{\\infty} \\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t} d\\alpha \\quad (14)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.78,
+            0.8,
+            0.84
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine ähnliche Kombination der entsprechenden quantentheoretischen Grössen scheint nicht in eindeutiger Weise und daher nicht sinnvoll zu sein im Hinblick auf die gleichberechtigte Rolle der Grössen $n$ und $n - \\alpha$. Man kann aber die Gesamtheit der Grössen",
+          "markdown": "Eine ähnliche Kombination der entsprechenden quantentheoretischen Grössen scheint nicht in eindeutiger Weise und daher nicht sinnvoll zu sein im Hinblick auf die gleichberechtigte Rolle der Grössen $n$ und $n - \\alpha$. Man kann aber die Gesamtheit der Grössen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\vec{X}(n, n - \\alpha)e^{i\\omega(n,n-\\alpha)t} \\quad (15)$$",
+          "markdown": "$$\\vec{X}(n, n - \\alpha)e^{i\\omega(n,n-\\alpha)t} \\quad (15)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.64,
+            0.5,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "als Darstellung der Grösse $x(t)$ auffassen und dann versuchen, die gestellte Frage zu beantworten: Wie würde die Grösse $x(t)^2$ dargestellt? Klassisch ist die Antwort offenbar",
+          "markdown": "als Darstellung der Grösse $x(t)$ auffassen und dann versuchen, die gestellte Frage zu beantworten: Wie würde die Grösse $x(t)^2$ dargestellt? Klassisch ist die Antwort offenbar",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.58,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$Y_\\beta(n)e^{i\\omega(n)\\beta t} = \\sum_{\\alpha=-\\infty}^{\\infty} \\vec{X}_\\alpha \\vec{X}_{\\beta-\\alpha} e^{i\\omega(n)(\\alpha+\\beta-\\alpha)t} \\tag{16}$$",
+          "markdown": "$$Y_\\beta(n)e^{i\\omega(n)\\beta t} = \\sum_{\\alpha=-\\infty}^{\\infty} \\vec{X}_\\alpha \\vec{X}_{\\beta-\\alpha} e^{i\\omega(n)(\\alpha+\\beta-\\alpha)t} \\tag{16}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p005_16",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.46,
+            0.8,
+            0.58
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\text{oder}\\quad = \\int_{-\\infty}^{\\infty} \\vec{X}_\\alpha \\vec{X}_{\\beta-\\alpha} e^{i\\omega(n)(\\alpha+\\beta-\\alpha)t} d\\alpha \\tag{17}$$",
+          "markdown": "$$\\text{oder}\\quad = \\int_{-\\infty}^{\\infty} \\vec{X}_\\alpha \\vec{X}_{\\beta-\\alpha} e^{i\\omega(n)(\\alpha+\\beta-\\alpha)t} d\\alpha \\tag{17}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p005_17",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\text{so dass}\\quad x(t)^2 = \\sum_{\\beta=-\\infty}^{\\infty} \\vec{Y}_\\beta e^{i\\omega(n)\\beta t} \\tag{18}$$",
+          "markdown": "$$\\text{so dass}\\quad x(t)^2 = \\sum_{\\beta=-\\infty}^{\\infty} \\vec{Y}_\\beta e^{i\\omega(n)\\beta t} \\tag{18}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p005_18",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\text{oder, bzw}\\quad = \\int_{-\\infty}^{\\infty} \\vec{Y}_\\beta e^{i\\omega(n)\\beta t} d\\beta \\tag{19}$$",
+          "markdown": "$$\\text{oder, bzw}\\quad = \\int_{-\\infty}^{\\infty} \\vec{Y}_\\beta e^{i\\omega(n)\\beta t} d\\beta \\tag{19}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 1,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es scheint, dass quantentheoretisch die einfachste und natürlichste Annahme ist, die Gleichungen 16, 17 durch",
+          "markdown": "Es scheint, dass quantentheoretisch die einfachste und natürlichste Annahme ist, die Gleichungen 16, 17 durch",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.24,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$Y(n, n-\\beta)e^{i\\omega(n,n-\\beta)t} = \\sum_{\\alpha=-\\infty}^{\\infty} X(n, n-\\alpha)X(n-\\alpha, n-\\beta)e^{i\\omega(n,n-\\beta)t} \\tag{20}$$",
+          "markdown": "$$Y(n, n-\\beta)e^{i\\omega(n,n-\\beta)t} = \\sum_{\\alpha=-\\infty}^{\\infty} X(n, n-\\alpha)X(n-\\alpha, n-\\beta)e^{i\\omega(n,n-\\beta)t} \\tag{20}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p005_20",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.8,
+            0.24
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Zunächst scheint die Phase (in $\\vec{X}$ enthalten) in der Quantentheorie keine Bedeutung zu haben, da in dieser Theorie die Frequenzen im allgemeinen nicht mit ihren Oberschwingungen kommensurabel sind. Wir werden aber sofort sehen, dass auch in der Quantentheorie die Phase eine präzise Bedeutung hat, die ein Analogon in der klassischen Theorie besitzt. Betrachten wir etwa eine bestimmte Grösse $x(t)$ in der klassischen Theorie, die sich darstellen lässt durch die Gesamtheit der Grössen von der Form\n\n$$\\vec{A}_\\alpha(n)e^{i\\omega(n)\\alpha t} \\quad (12)$$\n\ndie je nach Periodizität der Bewegung eine Summe oder ein Integral darstellt:\n\n$$x(t) = \\sum_{\\alpha=-\\infty}^{\\infty} \\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t} \\quad (13)$$\n\n$$\\text{oder}\\quad x(t) = \\int_{-\\infty}^{\\infty} \\vec{X}_\\alpha(n)e^{i\\omega(n)\\alpha t} d\\alpha \\quad (14)$$\n\nEine ähnliche Kombination der entsprechenden quantentheoretischen Grössen scheint nicht in eindeutiger Weise und daher nicht sinnvoll zu sein im Hinblick auf die gleichberechtigte Rolle der Grössen $n$ und $n - \\alpha$. Man kann aber die Gesamtheit der Grössen\n\n$$\\vec{X}(n, n - \\alpha)e^{i\\omega(n,n-\\alpha)t} \\quad (15)$$\n\nals Darstellung der Grösse $x(t)$ auffassen und dann versuchen, die gestellte Frage zu beantworten: Wie würde die Grösse $x(t)^2$ dargestellt? Klassisch ist die Antwort offenbar\n\n$$Y_\\beta(n)e^{i\\omega(n)\\beta t} = \\sum_{\\alpha=-\\infty}^{\\infty} \\vec{X}_\\alpha \\vec{X}_{\\beta-\\alpha} e^{i\\omega(n)(\\alpha+\\beta-\\alpha)t} \\tag{16}$$\n\n$$\\text{oder}\\quad = \\int_{-\\infty}^{\\infty} \\vec{X}_\\alpha \\vec{X}_{\\beta-\\alpha} e^{i\\omega(n)(\\alpha+\\beta-\\alpha)t} d\\alpha \\tag{17}$$\n\n$$\\text{so dass}\\quad x(t)^2 = \\sum_{\\beta=-\\infty}^{\\infty} \\vec{Y}_\\beta e^{i\\omega(n)\\beta t} \\tag{18}$$\n\n$$\\text{oder, bzw}\\quad = \\int_{-\\infty}^{\\infty} \\vec{Y}__\\beta e^{i\\omega(n)\\beta t} d\\beta \\tag{19}$$\n\nEs scheint, dass quantentheoretisch die einfachste und natürlichste Annahme ist, die Gleichungen 16, 17 durch\n\n$$Y(n, n-\\beta)e^{i\\omega(n,n-\\beta)t} = \\sum_{\\alpha=-\\infty}^{\\infty} X(n, n-\\alpha)X(n-\\alpha, n-\\beta)e^{i\\omega(n,n-\\beta)t} \\tag{20}$$",
+      "word_count": 320,
+      "page_quality_notes": []
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "884",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\text{oder}\\quad = \\int_{-\\infty}^{\\infty} X(n, n-\\alpha)X(n-\\alpha, n-\\beta)e^{i\\omega(n,n-\\beta)t} d\\alpha \\tag{21}$$",
+          "markdown": "$$\\text{oder}\\quad = \\int_{-\\infty}^{\\infty} X(n, n-\\alpha)X(n-\\alpha, n-\\beta)e^{i\\omega(n,n-\\beta)t} d\\alpha \\tag{21}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p006_21",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.8,
+            1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und tatsächlich folgt diese Art der Kombination fast zwangsläufig aus der Frequenzkombinationsbeziehung. Wenn wir die Annahmen 20, 21 akzeptieren, so erkennt man auch, dass die Phasen der quantentheoretischen $\\vec{X}$ dieselbe physikalische Bedeutung haben wie in der klassischen Theorie: Nur die Anfangszeit und damit eine allen $\\vec{X}$ gemeinsame Phasenkonstante ist willkürlich und ohne physikalische Bedeutung, aber die Phase jedes einzelnen $\\vec{X}$ geht in die Grösse $\\vec{Y}^1$ ein. Eine geometrische Deutung dieser quantentheoretischen Phasenbeziehungen in Analogie zur klassischen Theorie scheint zunächst nicht möglich.",
+          "markdown": "und tatsächlich folgt diese Art der Kombination fast zwangsläufig aus der Frequenzkombinationsbeziehung. Wenn wir die Annahmen 20, 21 akzeptieren, so erkennt man auch, dass die Phasen der quantentheoretischen $\\vec{X}$ dieselbe physikalische Bedeutung haben wie in der klassischen Theorie: Nur die Anfangszeit und damit eine allen $\\vec{X}$ gemeinsame Phasenkonstante ist willkürlich und ohne physikalische Bedeutung, aber die Phase jedes einzelnen $\\vec{X}$ geht in die Grösse $\\vec{Y}^1$ ein. Eine geometrische Deutung dieser quantentheoretischen Phasenbeziehungen in Analogie zur klassischen Theorie scheint zunächst nicht möglich.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^1$Fussnote von WH: Vgl. auch H.A. Kramers und W.Heisenberg, (add bib. In den Ausdrücken, die dort für die induzierte Streuung des Impulses verwendet werden, sind die Phasen wesentlich enthalten.",
+          "markdown": "$^1$Fussnote von WH: Vgl. auch H.A. Kramers und W.Heisenberg, (add bib. In den Ausdrücken, die dort für die induzierte Streuung des Impulses verwendet werden, sind die Phasen wesentlich enthalten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir fragen nun nach der Darstellung der Grösse $x(t)^3$ und finden ohne Schwierigkeit:",
+          "markdown": "Wir fragen nun nach der Darstellung der Grösse $x(t)^3$ und finden ohne Schwierigkeit:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Klassisch:\n\n$$Z(n, \\gamma) = \\sum_{\\alpha=-\\infty}^{\\infty} \\sum_{\\beta=-\\infty}^{\\infty} X_{\\alpha}(n) X_{\\beta}(n) X_{\\gamma-\\alpha-\\beta}(n) \\tag{22}$$",
+          "markdown": "Klassisch:\n\n$$Z(n, \\gamma) = \\sum_{\\alpha=-\\infty}^{\\infty} \\sum_{\\beta=-\\infty}^{\\infty} X_{\\alpha}(n) X_{\\beta}(n) X_{\\gamma-\\alpha-\\beta}(n) \\tag{22}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p006_22",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.7,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Quantentheoretisch:\n\n$$Z(n, n - \\gamma) = \\sum_{\\alpha=-\\infty}^{\\infty} \\sum_{\\beta=-\\infty}^{\\infty} X(n, n - \\alpha) X(n - \\alpha, n - \\alpha - \\beta) X(n - \\alpha - \\beta, n - \\gamma) \\tag{23}$$",
+          "markdown": "Quantentheoretisch:\n\n$$Z(n, n - \\gamma) = \\sum_{\\alpha=-\\infty}^{\\infty} \\sum_{\\beta=-\\infty}^{\\infty} X(n, n - \\alpha) X(n - \\alpha, n - \\alpha - \\beta) X(n - \\alpha - \\beta, n - \\gamma) \\tag{23}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p006_23",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "oder die entsprechenden Formeln mit Integralen. In ähnlicher Weise lassen sich alle Grössen von der Form $x(t)^n$ quantentheoretisch ausdrücken und wenn eine Funktion $f[x(t)]$ gegeben ist, so lässt sich offenbar immer das quantentheoretische Analogon finden, wenn es möglich ist, diese Funktion in eine Potenzreihe von $x$ zu entwickeln.",
+          "markdown": "oder die entsprechenden Formeln mit Integralen. In ähnlicher Weise lassen sich alle Grössen von der Form $x(t)^n$ quantentheoretisch ausdrücken und wenn eine Funktion $f[x(t)]$ gegeben ist, so lässt sich offenbar immer das quantentheoretische Analogon finden, wenn es möglich ist, diese Funktion in eine Potenzreihe von $x$ zu entwickeln.",
+          "asset_id": "p006_paragraph_07",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine wesentliche Schwierigkeit ergibt sich, wenn wir zwei Grössen $x(t)$, $y(t)$ betrachten und nach dem Produkt $x(t)y(t)$ fragen. Sei $x(t)$ durch $X$ und $y(t)$ durch $Y$ charakterisiert, so ergibt sich die Darstellung von $x(t)y(t)$ zu:",
+          "markdown": "Eine wesentliche Schwierigkeit ergibt sich, wenn wir zwei Grössen $x(t)$, $y(t)$ betrachten und nach dem Produkt $x(t)y(t)$ fragen. Sei $x(t)$ durch $X$ und $y(t)$ charakterisiert, so ergibt sich die Darstellung von $x(t)y(t)$ zu:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Klassisch:\n\n$$Z_{\\beta} = \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) Y_{\\beta-\\alpha}(n) \\quad (24)$$",
+          "markdown": "Klassisch:\n\n$$Z_{\\beta} = \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) Y_{\\beta-\\alpha}(n) \\quad (24)$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p006_24",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Quantentheoretisch:\n\n$$Z(n, n - \\beta) = \\sum_{\\alpha=-\\infty}^{\\infty} X(n, n - \\alpha) Y(n - \\alpha, n - \\beta) \\quad . \\tag{25}$$",
+          "markdown": "Quantentheoretisch:\n\n$$Z(n, n - \\beta) = \\sum_{\\alpha=-\\infty}^{\\infty} X(n, n - \\alpha) Y(n - \\alpha, n - \\beta) \\quad . \\tag{25}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p006_25",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "oder\n\n$$\\text{oder}\\quad = \\int_{-\\infty}^{\\infty} X(n, n-\\alpha)X(n-\\alpha, n-\\beta)e^{i\\omega(n,n-\\beta)t} d\\alpha \\tag{21}$$\n\nund tatsächlich folgt diese Art der Kombination fast zwangsläufig aus der Frequenzkombinationsbeziehung. Wenn wir die Annahmen 20, 21 akzeptieren, so erkennt man auch, dass die Phasen der quantentheoretischen $\\vec{X}$ dieselbe physikalische Bedeutung haben wie in der klassischen Theorie: Nur die Anfangszeit und damit eine allen $\\vec{X}$ gemeinsame Phasenkonstante ist willkürlich und ohne physikalische Bedeutung, aber die Phase jedes einzelnen $\\vec{X}$ geht in die Grösse $\\vec{Y}^1$ ein. Eine geometrische Deutung dieser quantentheoretischen Phasenbeziehungen in Analogie zur klassischen Theorie scheint zunächst nicht möglich.\n\n$^1$Fussnote von WH: Vgl. auch H.A. Kramers und W.Heisenberg, (add bib. In den Ausdrücken, die dort für die induzierte Streuung des Impulses verwendet werden, sind die Phasen wesentlich enthalten.\n\nWir fragen nun nach der Darstellung der Grösse $x(t)^3$ und finden ohne Schwierigkeit:\n\nKlassisch:\n\n$$Z(n, \\gamma) = \\sum_{\\alpha=-\\infty}^{\\infty} \\sum_{\\beta=-\\infty}^{\\infty} X_{\\alpha}(n) X_{\\beta}(n) X_{\\gamma-\\alpha-\\beta}(n) \\tag{22}$$\n\nQuantentheoretisch:\n\n$$Z(n, n - \\gamma) = \\sum_{\\alpha=-\\infty}^{\\infty} \\sum_{\\beta=-\\infty}^{\\infty} X(n, n - \\alpha) X(n - \\alpha, n - \\alpha - \\beta) X(n - \\alpha - \\beta, n - \\gamma) \\tag{23}$$\n\noder die entsprechenden Formeln mit Integralen. In ähnlicher Weise lassen sich alle Grössen von der Form $x(t)^n$ quantentheoretisch ausdrücken und wenn eine Funktion $f[x(t)]$ gegeben ist, so lässt sich offenbar immer das quantentheoretische Analogon finden, wenn es möglich ist, diese Funktion in eine Potenzreihe von $x$ zu entwickeln.\n\nEine wesentliche Schwierigkeit ergibt sich, wenn wir zwei Grössen $x(t)$, $y(t)$ betrachten und nach dem Produkt $x(t)y(t)$ fragen. Sei $x(t)$ durch $X$ und $y(t)$ durch $Y$ charakterisiert, so ergibt sich die Darstellung von $x(t)y(t)$ zu:\n\nKlassisch:\n\n$$Z_{\\beta} = \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) Y_{\\beta-\\alpha}(n) \\quad (24)$$\n\nQuantentheoretisch:\n\n$$Z(n, n - \\beta) = \\sum_{\\alpha=-\\infty}^{\\infty} X(n, n - \\alpha) Y(n - \\alpha, n - \\beta) \\quad . \\tag{25}$$",
+      "word_count": 350,
+      "page_quality_notes": []
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "885",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 2. Die Mechanik der Quantentheorie.",
+          "markdown": "### § 2. Die Mechanik der Quantentheorie.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.35,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nach diesen Betrachtungen, die die Kinematik der Quantentheorie betrafen, wenden wir uns mechanischen Problemen zu, die auf die Bestimmung von $X$, $\\nu$, $E$ aus den gegebenen Kräften des Systems abzielen. In der bisher dargestellten Theorie wird dieses Problem in zwei Schritten gelöst:",
+          "markdown": "Nach diesen Betrachtungen, die die Kinematik der Quantentheorie betrafen, wenden wir uns mechanischen Problemen zu, die auf die Bestimmung von $X$, $\\nu$, $E$ aus den gegebenen Kräften des Systems abzielen. In der bisher dargestellten Theorie wird dieses Problem in zwei Schritten gelöst:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "1. Integration der Bewegungsgleichungen",
+          "markdown": "1. Integration der Bewegungsgleichungen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.15,
+            0.8,
+            0.4,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\ddot{x} + f(x) = 0 \\tag{26}$$",
+          "markdown": "$$\\ddot{x} + f(x) = 0 \\tag{26}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p007_26",
+          "caption_original": null,
+          "bounding_box": [
+            0.15,
+            0.76,
+            0.35,
+            0.82
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "2. Bestimmung der aus der periodischen Bewegung entspringenden Konstanten mit",
+          "markdown": "2. Bestimmung der aus der periodischen Bewegung entspringenden Konstanten mit",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.15,
+            0.72,
+            0.7,
+            0.76
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\oint p dq = \\oint m \\dot{x} dx = J(=nh) \\quad . \\tag{27}$$",
+          "markdown": "$$\\oint p dq = \\oint m \\dot{x} dx = J(=nh) \\quad . \\tag{27}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p007_27",
+          "caption_original": null,
+          "bounding_box": [
+            0.15,
+            0.66,
+            0.7,
+            0.72
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn man eine Quantentheorie konstruieren will, die der klassischen Mechanik möglichst analog ist, so liegt es nahe, die Bewegungsgleichung Gl. 26 direkt in die Quantentheorie zu übertragen, wobei es nur nötig ist, an Stelle der Grössen $\\ddot{x}$, $f(x)$ ihre aus § 1 bekannten quantentheoretischen Repräsentanten zu setzen, um nicht auf den Boden der in Prinzip beobachtbaren Grössen zu verzichten.",
+          "markdown": "Wenn man eine Quantentheorie konstruieren will, die der klassischen Mechanik möglichst analog ist, so liegt es nahe, die Bewegungsgleichung Gl. 26 direkt in die Quantentheorie zu übertragen, wobei es nur nötig ist, an Stelle der Grössen $\\ddot{x}$, $f(x)$ ihre aus § 1 bekannten quantentheoretischen Repräsentanten zu setzen, um nicht auf den Boden der in Prinzip beobachtbaren Grössen zu verzichten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.66
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In der klassischen Theorie ist es möglich, eine Lösung von Gl. 26 zu suchen mit dem Ansatz für $x$ in Fourierreihen oder Fourierintegralen mit unbestimmten Koeffizienten (und Frequenzen); man erhält zwar im allgemeinen unendlich viele Gleichungen mit unendlich vielen Unbekannten (oder Integralgleichungen), die nur in speziellen Fällen mit einfachen Rekursionsformeln für $X$ gelöst werden können. In der Quantentheorie ist man aber auf diese Art der Lösung von Gl. 26 angewiesen, die, wie in § 1 besprochen, die Definition direkter Analogien der Funktion $x(t)$ verhindert. Dies hat zur Folge, dass die quantentheoretische Lösung von Gl. 26 zunächst nur in den einfachsten Fällen durchführbar ist. Bevor wir auf diese einfachen Beispiele eingehen, möchten wir den quantentheoretischen Wert der Konstanten in Gl. 27 ableiten.",
+          "markdown": "In der klassischen Theorie ist es möglich, eine Lösung von Gl. 26 zu suchen mit dem Ansatz für $x$ in Fourierreihen oder Fourierintegralen mit unbestimmten Koeffizienten (und Frequenzen); man erhält zwar im allgemeinen unendlich viele Gleichungen mit unendlich vielen Unbekannten (oder Integralgleichungen), die nur in speziellen Fällen mit einfachen Rekursionsformeln für $X$ gelöst werden können. In der Quantentheorie ist man aber auf diese Art der Lösung von Gl. 26 angewiesen, die, wie in § 1 besprochen, die Definition direkter Analogien der Funktion $x(t)$ verhindert. Dies hat zur Folge, dass die quantentheoretische Lösung von Gl. 26 zunächst nur in den einfachsten Fällen durchführbar ist. Bevor wir auf diese einfachen Beispiele eingehen, möchten wir den quantentheoretischen Wert der Konstanten in Gl. 27 ableiten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### § 2. Die Mechanik der Quantentheorie.\n\nNach diesen Betrachtungen, die die Kinematik der Quantentheorie betrafen, wenden wir uns mechanischen Problemen zu, die auf die Bestimmung von $X$, $\\nu$, $E$ aus den gegebenen Kräften des Systems abzielen. In der bisher dargestellten Theorie wird dieses Problem in zwei Schritten gelöst:\n\n1. Integration der Bewegungsgleichungen\n\n$$\\ddot{x} + f(x) = 0 \\tag{26}$$\n\n2. Bestimmung der aus der periodischen Bewegung entspringenden Konstanten mit\n\n$$\\oint p dq = \\oint m \\dot{x} dx = J(=nh) \\quad . \\tag{27}$$\n\nWenn man eine Quantentheorie konstruieren will, die der klassischen Mechanik möglichst analog ist, so liegt es nahe, die Bewegungsgleichung Gl. 26 direkt in die Quantentheorie zu übertragen, wobei es nur nötig ist, an Stelle der Grössen $\\ddot{x}$, $f(x)$ ihre aus § 1 bekannten quantentheoretischen Repräsentanten zu setzen, um nicht auf den Boden der in Prinzip beobachtbaren Grössen zu verzichten.\n\nIn der klassischen Theorie ist es möglich, eine Lösung von Gl. 26 zu suchen mit dem Ansatz für $x$ in Fourierreihen oder Fourierintegralen mit unbestimmten Koeffizienten (und Frequenzen); man erhält zwar im allgemeinen unendlich viele Gleichungen mit unendlich vielen Unbekannten (oder Integralgleichungen), die nur in speziellen Fällen mit einfachen Rekursionsformeln für $X$ gelöst werden können. In der Quantentheorie ist man aber auf diese Art der Lösung von Gl. 26 angewiesen, die, wie in § 1 besprochen, die Definition direkter Analogien der Funktion $x(t)$ verhindert. Dies hat zur Folge, dass die quantentheoretische Lösung von Gl. 26 zunächst nur in den einfachsten Fällen durchführbar ist. Bevor wir auf diese einfachen Beispiele eingehen, möchten wir den quantentheoretischen Wert der Konstanten in Gl. 27 ableiten.",
+      "word_count": 300,
+      "page_quality_notes": []
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "886",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir nehmen auch an, dass die (klassische) Bewegung periodisch ist:",
+          "markdown": "Wir nehmen auch an, dass die (klassische) Bewegung periodisch ist:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$x = \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) e^{i\\alpha\\omega(n)t} \\tag{28}$$",
+          "markdown": "$$x = \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) e^{i\\alpha\\omega(n)t} \\tag{28}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p008_28",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.88,
+            0.6,
+            0.94
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$m\\dot{x} = m \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) \\cdot i\\alpha\\omega(n) e^{i\\alpha\\omega(n)t} \\tag{29}$$",
+          "markdown": "$$m\\dot{x} = m \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) \\cdot i\\alpha\\omega(n) e^{i\\alpha\\omega(n)t} \\tag{29}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p008_29",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Equation needs manual review for correct LaTeX formatting (missing closing brace in exponent). OCR error in 'i\\alpha\\omega(n)t' (should be 'i\\alpha\\omega(n)t') but appears correct here. Potential issue in mathematical expression formatting for LaTeX conversion."
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\oint m\\dot{x} dx = \\oint m\\dot{x}^2 dt = 2\\pi m \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) a_{-\\alpha}(n) \\alpha^2 \\omega(n) \\quad . \\tag{30}$$",
+          "markdown": "$$\\oint m\\dot{x} dx = \\oint m\\dot{x}^2 dt = 2\\pi m \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) a_{-\\alpha}(n) \\alpha^2 \\omega(n) \\quad . \\tag{30}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.76,
+            0.85,
+            0.88
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Weiter folgt, da $a_{-\\alpha}(n) = a_{\\alpha}(\\bar{n})$ ($x$ muss reell sein),",
+          "markdown": "Weiter folgt, da $a_{-\\alpha}(n) = a_{\\alpha}(\\bar{n})$ ($x$ muss reell sein),",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.6,
+            0.76
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\oint m \\dot{x}^2 dt = 2\\pi m \\sum_{\\alpha=-\\infty}^{\\infty} |X_{\\alpha}(n)|^2 \\alpha^2 \\omega(n) \\quad . \\tag{31}$$",
+          "markdown": "$$\\oint m \\dot{x}^2 dt = 2\\pi m \\sum_{\\alpha=-\\infty}^{\\infty} |X_{\\alpha}(n)|^2 \\alpha^2 \\omega(n) \\quad . \\tag{31}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.62,
+            0.8,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Bisher wurde dieses Phasenintegral gleich einem Vielfachen von $h$ (nh) gesetzt; eine solche Bedingung ist aber nicht nur der klassischen Rechnung aufgezwungen, sondern sie sieht auch vom bisherigen Standpunkt des Korrespondenzprinzips aus willkürlich aus, weil korrespondenzmässig das $J$ nur bis auf eine additive Konstante als Vielfaches von $h$ bestimmt ist und man statt Gl. 31 hätte haben müssen",
+          "markdown": "Bisher wurde dieses Phasenintegral gleich einem Vielfachen von $h$ (nh) gesetzt; eine solche Bedingung ist aber nicht nur der klassischen Rechnung aufgezwungen, sondern sie sieht auch vom bisherigen Standpunkt des Korrespondenzprinzips aus willkürlich aus, weil korrespondenzmässig das $J$ nur bis auf eine additive Konstante als Vielfaches von $h$ bestimmt ist und man statt Gl. 31 hätte haben müssen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.62
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{d}{dn}(nh) = \\frac{d}{dn} \\cdot \\oint m \\dot{x}^2 dt \\tag{32}$$",
+          "markdown": "$$\\frac{d}{dn}(nh) = \\frac{d}{dn} \\cdot \\oint m \\dot{x}^2 dt \\tag{32}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.38,
+            0.6,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$h = 2\\pi m \\sum_{\\alpha=\\infty}^{-\\infty} \\alpha \\frac{d}{dn} (\\alpha \\omega(n) \\cdot |X_{\\alpha}(n)|^2) \\tag{33}$$",
+          "markdown": "$$h = 2\\pi m \\sum_{\\alpha=\\infty}^{-\\infty} \\alpha \\frac{d}{dn} (\\alpha \\omega(n) \\cdot |X_{\\alpha}(n)|^2) \\tag{33}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p008_33",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.24,
+            0.8,
+            0.38
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Wir nehmen auch an, dass die (klassische) Bewegung periodisch ist:\n\n$$x = \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) e^{i\\alpha\\omega(n)t} \\tag{28}$$\n\n$$m\\dot{x} = m \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) \\cdot i\\alpha\\omega(n) e^{i\\alpha\\omega(n)t} \\tag{29}$$\n\n$$\\oint m\\dot{x} dx = \\oint m\\dot{x}^2 dt = 2\\pi m \\sum_{\\alpha=-\\infty}^{\\infty} X_{\\alpha}(n) a_{-\\alpha}(n) \\alpha^2 \\omega(n) \\quad . \\tag{30}$$\n\nWeiter folgt, da $a_{-\\alpha}(n) = a_{\\alpha}(\\bar{n})$ ($x$ muss reell sein),\n\n$$\\oint m \\dot{x}^2 dt = 2\\pi m \\sum_{\\alpha=-\\infty}^{\\infty} |X_{\\alpha}(n)|^2 \\alpha^2 \\omega(n) \\quad . \\tag{31}$$\n\nBisher wurde dieses Phasenintegral gleich einem Vielfachen von $h$ (nh) gesetzt; eine solche Bedingung ist aber nicht nur der klassischen Rechnung aufgezwungen, sondern sie sieht auch vom bisherigen Standpunkt des Korrespondenzprinzips aus willkürlich aus, weil korrespondenzmässig das $J$ nur bis auf eine additive Konstante als Vielfaches von $h$ bestimmt ist und man statt Gl. 31 hätte haben müssen\n\n$$\\frac{d}{dn}(nh) = \\frac{d}{dn} \\cdot \\oint m \\dot{x}^2 dt \\tag{32}$$\n\n$$h = 2\\pi m \\sum_{\\alpha=\\infty}^{-\\infty} \\alpha \\frac{d}{dn} (\\alpha \\omega(n) \\cdot |X_{\\alpha}(n)|^2) \\tag{33}$$",
+      "word_count": 250,
+      "page_quality_notes": [
+        "Equation needs manual review for correct LaTeX formatting (missing closing brace in exponent in equation 29)."
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": "887",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine solche Beziehung fixiert aber die $X_{\\alpha}$ nur bis auf eine Konstante und diese Unbestimmtheit führte empirisch zu der Schwierigkeit der halbzahligen Quantenzahlen. Fragt man nach einer quantentheoretischen Beziehung zwischen beobachtbaren Grössen nach Gl. 31 und 33, so ergibt sich die fehlende Eindeutigkeit von selbst wieder. Es hat nämlich nur Gl. 33 eine einfache quantentheoretische Beziehung zur Dispersionstheorie von Kramers:",
+          "markdown": "Eine solche Beziehung fixiert aber die $X_{\\alpha}$ nur bis auf eine Konstante und diese Unbestimmtheit führte empirisch zu der Schwierigkeit der halbzahligen Quantenzahlen. Fragt man nach einer quantentheoretischen Beziehung zwischen beobachtbaren Grössen nach Gl. 31 und 33, so ergibt sich die fehlende Eindeutigkeit von selbst wieder. Es hat nämlich nur Gl. 33 eine einfache quantentheoretische Beziehung zur Dispersionstheorie von Kramers:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$h = 4\\pi m \\sum_{\\alpha=0}^{\\infty} \\left\\{ |X(n, n+\\alpha)|^2 \\omega(n, n+\\alpha) - |X(n, n-\\alpha)|^2 \\omega(n, n-\\alpha) \\right\\} \\tag{34}$$",
+          "markdown": "$$h = 4\\pi m \\sum_{\\alpha=0}^{\\infty} \\left\\{ |X(n, n+\\alpha)|^2 \\omega(n, n+\\alpha) - |X(n, n-\\alpha)|^2 \\omega(n, n-\\alpha) \\right\\} \\tag{34}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p009_34",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In der Tat ist diese Beziehung ausreichend für eine eindeutige Bestimmung der $X$’s, weil die zunächst unbestimmte Konstante in den Grössen $X$ sich von selbst durch die Bedingung festlegt, die einen Normalzustand geben soll, in dem keine Strahlung mehr vorhanden ist. Sei der Normalzustand durch $n_0$ beschrieben, so muss sein",
+          "markdown": "In der Tat ist diese Beziehung ausreichend für eine eindeutige Bestimmung der $X$’s, weil die zunächst unbestimmte Konstante in den Grössen $X$ sich von selbst durch die Bedingung festlegt, die einen Normalzustand geben soll, in dem keine Strahlung mehr vorhanden ist. Sei der Normalzustand durch $n_0$ beschrieben, so muss sein",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$X(n_0, n_0 - \\alpha) = 0 \\quad \\text{für} \\quad \\alpha > 0 \\tag{35}$$",
+          "markdown": "$$X(n_0, n_0 - \\alpha) = 0 \\quad \\text{für} \\quad \\alpha > 0 \\tag{35}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p009_35",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.58,
+            0.6,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Equation needs manual review for correct LaTeX formatting (missing closing brace in exponent). OCR error in 'X(n_0, n_0 - \\alpha)' (should be 'X(n_0, n_0 - \\alpha)'). Potential issue in mathematical expression formatting for LaTeX conversion."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Frage nach halbzahliger oder ganzzahliger Quantisierung kann in einer Quantentheorie, in der nur Beziehungen zwischen beobachtbaren Grössen vorkommen, nicht auftreten.",
+          "markdown": "Die Frage nach halbzahliger oder ganzzahliger Quantisierung kann in einer Quantentheorie, in der nur Beziehungen zwischen beobachtbaren Grössen vorkommen, nicht auftreten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.52,
+            0.9,
+            0.58
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Gleichungen 26 und 34 enthalten, wenn sie lösbar sind, eine vollständige Bestimmung nicht nur der Frequenzen und Energien, sondern auch der quantentheoretischen Übergangswahrscheinlichkeiten. Die tatsächliche mathematische Durchführung gelingt aber nur in den einfachsten Fällen. Eine besondere Erschwerung bringt auch der Umstand mit sich, dass bei Systemen wie dem Wasserstoffatom, bei denen die Lösungen teils periodische, teils aperiodische Bewegungen darstellen, zur Folge hat, dass die quantentheoretischen Reihen 20, 21 und Gl. 34 sowohl im Summen- wie im Integralfall immer divergieren. Quantentheoretisch ist es nicht möglich, \"periodische und aperiodische Bewegungen\" zu trennen.",
+          "markdown": "Die Gleichungen 26 und 34 enthalten, wenn sie lösbar sind, eine vollständige Bestimmung nicht nur der Frequenzen und Energien, sondern auch der quantentheoretischen Übergangswahrscheinlichkeiten. Die tatsächliche mathematische Durchführung gelingt aber nur in den einfachsten Fällen. Eine besondere Erschwerung bringt auch der Umstand mit sich, dass bei Systemen wie dem Wasserstoffatom, bei denen die Lösungen teils periodische, teils aperiodische Bewegungen darstellen, zur Folge hat, dass die quantentheoretischen Reihen 20, 21 und Gl. 34 sowohl im Summen- wie im Integralfall immer divergieren. Quantentheoretisch ist es nicht möglich, \"periodische und aperiodische Bewegungen\" zu trennen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.52
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "OCR error in 'Gl. 34' (should be 'Gl. 34' but appears correct here). Potential issue in mathematical expression formatting for LaTeX conversion."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Trotzdem kann man die Gl. 26 und 34 wenigstens principiell als befriedigende Lösung des mechanischen Problems ansehen, wenn es gelingt zu zeigen, dass diese Lösung mit den bisher bekannten quantentheoretischen Beziehungen übereinstimmt oder nicht in Widerspruch steht und dass eine kleine Störung eines mechanischen Problems Zusatzglieder in den Energien oder Frequenzen ergibt, die den von Kramers und Born gefundenen Ausdrücken entsprechen (im Gegensatz zu dem, was die klassische Theorie ergeben hätte). Ferner muss untersucht werden, ob Gl. 26 in der vorgeschlagenen quantentheoretischen Deutung einem Energiesatz $m\\frac{x^2}{2} + U(x) = \\text{const}$ entspricht und ob eine so erhaltene Energie (analog wie klassisch $\\nu = \\frac{\\partial W}{\\partial J}$ gilt) die Relation $\\Delta W = h\\nu$ hinreichend erfüllt. Eine allgemeine Antwort auf diese Fragen könnte den Zusammenhang der vorliegenden Experimente demonstrieren und zu einer Quantentheorie führen, die nur mit beobachtbaren Grössen operiert. Abgesehen von einem allgemeinen Zusammenhang zwischen der Kramersschen Dispersionsformel und den Gl. 26 und 27 können wir die oben gestellten Fragen nur in sehr speziellen lösbaren Fällen durch einfache Rekursion beantworten. Dass ein allgemeiner Zusammenhang zwischen der Kramersschen Dispersionstheorie und unseren Gl. 26 und 27 besteht, besteht darin, dass in Gl. 26 (d.h. ihrem quantentheoretischen Analogon) wie in der klassischen Theorie folgt, dass das schwingende Elektron gegenüber Licht, das eine viel kleinere Wellenlänge als die Eigenfrequenzen des Systems hat, sich wie ein freies Elektron verhält. Dieses Ergebnis folgt auch aus der Kramersschen Theorie, wenn man Gl. 34 berücksichtigt. In der Tat findet Kramers für das induzierte Moment durch die Welle $E \\cos 2\\pi\\nu t$",
+          "markdown": "Trotzdem kann man die Gl. 26 und 34 wenigstens principiell als befriedigende Lösung des mechanischen Problems ansehen, wenn es gelingt zu zeigen, dass diese Lösung mit den bisher bekannten quantentheoretischen Beziehungen übereinstimmt oder nicht in Widerspruch steht und dass eine kleine Störung eines mechanischen Problems Zusatzglieder in den Energien oder Frequenzen ergibt, die den von Kramers und Born gefundenen Ausdrücken entsprechen (im Gegensatz zu dem, was die klassischen Theorie ergeben hätte). Ferner muss untersucht werden, ob Gl. 26 in der vorgeschlagenen quantentheoretischen Deutung einem Energiesatz $m\\frac{x^2}{2} + U(x) = \\text{const}$ entspricht und ob eine so erhaltene Energie (analog wie klassisch $\\nu = \\frac{\\partial W}{\\partial J}$ gilt) die Relation $\\Delta W = h\\nu$ hinreichend erfüllt. Eine allgemeine Antwort auf diese Fragen könnte den Zusammenhang der vorliegenden Experimente demonstrieren und zu einer Quantentheorie führen, die nur mit beobachtbaren Grössen operiert. Abgesehen von einem allgemeinen Zusammenhang zwischen der Kramersschen Dispersionsformel und den Gl. 26 und 27 können wir die oben gestellten Fragen nur in sehr speziellen lösbaren Fällen durch einfache Rekursion beantworten. Dass ein allgemeiner Zusammenhang zwischen der Kramersschen Dispersionstheorie und unseren Gl. 26 und 27 besteht, besteht darin, dass in Gl. 26 (d.h. ihrem quantentheoretischen Analogon) wie in der klassischen Theorie folgt, dass das schwingende Elektron gegenüber Licht, das eine viel kleinere Wellenlänge als die Eigenfrequenzen des Systems hat, sich wie ein freies Elektron verhält. Dieses Ergebnis folgt auch aus der Kramersschen Theorie, wenn man Gl. 34 berücksichtigt. In der Tat findet Kramers für das induzierte Moment durch die Welle $E \\cos 2\\pi\\nu t$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": "OCR error in 'principiell' (should be 'prinzipiell'). Minor typo in German text."
+        }
+      ],
+      "page_markdown_original": "Eine solche Beziehung fixiert aber die $X_{\\alpha}$ nur bis auf eine Konstante und diese Unbestimmtheit führte empirisch zu der Schwierigkeit der halbzahligen Quantenzahlen. Fragt man nach einer quantentheoretischen Beziehung zwischen beobachtbaren Grössen nach Gl. 31 und 33, so ergibt sich die fehlende Eindeutigkeit von selbst wieder. Es hat nämlich nur Gl. 33 eine einfache quantentheoretische Beziehung zur Dispersionstheorie von Kramers:\n\n$$h = 4\\pi m \\sum_{\\alpha=0}^{\\infty} \\left\\{ |X(n, n+\\alpha)|^2 \\omega(n, n+\\alpha) - |X(n, n-\\alpha)|^2 \\omega(n, n-\\alpha) \\right\\} \\tag{34}$$\n\nIn der Tat ist diese Beziehung ausreichend für eine eindeutige Bestimmung der $X$’s, weil die zunächst unbestimmte Konstante in den Grössen $X$ sich von selbst durch die Bedingung festlegt, die einen Normalzustand geben soll, in dem keine Strahlung mehr vorhanden ist. Sei der Normalzustand durch $n_0$ beschrieben, so muss sein\n\n$$X(n_0, n_0 - \\alpha) = 0 \\quad \\text{für} \\quad \\alpha > 0 \\tag{35}$$\n\nDie Frage nach halbzahliger oder ganzzahliger Quantisierung kann in einer Quantentheorie, in der nur Beziehungen zwischen beobachtbaren Grössen vorkommen, nicht auftreten.\n\nDie Gleichungen 26 und 34 enthalten, wenn sie lösbar sind, eine vollständige Bestimmung nicht nur der Frequenzen und Energien, sondern auch der quantentheoretischen Übergangswahrscheinlichkeiten. Die tatsächliche mathematische Durchführung gelingt aber nur in den den einfachsten Fällen. Eine besondere Erschwerung bringt auch der Umstand mit sich, dass bei Systemen wie dem Wasserstoffatom, bei denen die Lösungen teils periodische, teils aperiodische Bewegungen darstellen, zur Folge hat, dass die quantentheoretischen Reihen 20, 21 und Gl. 34 sowohl im Summen- wie im Integralfall immer divergieren. Quantentheoretisch ist es nicht möglich, \"periodische und aperiodische Bewegungen\" zu trennen.\n\nTrotzdem kann man die Gl. 26 und 34 wenigstens principiell als befriedigende Lösung des mechanischen Problems ansehen, wenn es gelingt zu zeigen, dass diese Lösung mit den bisher bekannten quantentheoretischen Beziehungen übereinstimmt oder nicht in Widerspruch steht und dass eine kleine Störung eines mechanischen Problems Zusatzglieder in den Energien oder Frequenzen ergibt, die den von Kramers und Born gefundenen Ausdrücken entsprechen (im Gegensatz zu dem, was die klassischen Theorie ergeben hätte). Ferner muss untersucht werden, ob Gl. 26 in der vorgeschlagenen quantentheorie Deutung einem Energiesatz $m\\frac{x^2}{2} + U(x) = \\text{const}$ entspricht und ob eine so erhaltene Energie (analog wie klassisch $\\nu = \\frac{\\partial W}{\\partial J}$ gilt) die Relation $\\Delta W = h\\nu$ hinreichend erfüllt. Eine allgemeine Antwort auf diese Fragen könnte den Zusammenhang der vorliegenden Experimente demonstrieren und zu einer Quantentheorie führen, die nur mit beobachtbaren Grössen operiert. Abgesehen von einem allgemeinen Zusammenhang zwischen der Kramersschen Dispersionsformel und den Gl. 26 und 27 können wir die oben gestellten Fragen nur in sehr speziellen lösbaren Fällen durch einfache Rekursion beantworten. Dass ein allgemeiner Zusammenhang zwischen der Kramersschen Dispersionstheorie und unseren Gl. 26 und 27 besteht, besteht darin, dass in Gl. 26 (d.h. ihrem quantentheoretischen Analogon) wie in der klassischen Theorie folgt, dass das schwingende Elektron gegenüber Licht, das eine viel kleinere Wellenlänge als die Eigenfrequenzen des Systems hat, sich wie ein freies Elektron verhält. Dieses Ergebnis folgt auch aus der Kramersschen Theorie, wenn man Gl. 34 berücksichtigt. In der Tat findet Kramers für das induzierte Moment durch die Welle $E \\cos 2\\pi\\nu t$",
+      "word_count": 450,
+      "page_quality_notes": [
+        "OCR error in 'principiell' (should be 'prinzipiell'). Minor typo in German text.",
+        "Equation needs manual review for correct LaTeX formatting (missing closing brace in exponent in equation 35)."
+      ]
+    },
+    {
+      "pdf_page_number": 10,
+      "printed_page_number": "888",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$M = e^2 E \\cos(2\\pi\\nu t) \\frac{2}{h} \\sum_{\\alpha=0}^{\\infty} \\left\\{ \\frac{|X(n, n+\\alpha)|^2 \\nu(n, n+\\alpha)}{\\nu^2(n, n+\\alpha) - \\nu^2} - \\frac{|X(n, n-\\alpha)|^2 \\nu(n, n-\\alpha)}{\\nu^2(n, n-\\alpha) - \\nu^2} \\right\\} \\tag{36}$$",
+          "markdown": "$$M = e^2 E \\cos(2\\pi\\nu t) \\frac{2}{h} \\sum_{\\alpha=0}^{\\infty} \\left\\{ \\frac{|X(n, n+\\alpha)|^2 \\nu(n, n+\\alpha)}{\\nu^2(n, n+\\alpha) - \\nu^2} - \\frac{|X(n, n-\\alpha)|^2 \\nu(n, n-\\alpha)}{\\nu^2(n, n-\\alpha) - \\nu^2} \\right\\} \\tag{36}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p010_36",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$M = -\\frac{2Ee^2 \\cos(2\\pi\\nu t)}{\\nu^2 h} \\sum_{\\alpha=0}^{\\infty} \\left\\{ |X(n, n+\\alpha)|^2 \\nu(n, n+\\alpha) - |X(n, n-\\alpha)|^2 \\nu(n, n-\\alpha) \\right\\} \\tag{37}$$",
+          "markdown": "$$M = -\\frac{2Ee^2 \\cos(2\\pi\\nu t)}{\\nu^2 h} \\sum_{\\alpha=0}^{\\infty} \\left\\{ |X(n, n+\\alpha)|^2 \\nu(n, n+\\alpha) - |X(n, n-\\alpha)|^2 \\nu(n, n-\\alpha) \\right\\} \\tag{37}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p010_37",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$M = - \\frac {e ^ {2} E \\cos (2 \\pi \\nu t)}{\\nu ^ {2} 4 \\pi^ {2} m} \\tag {38}$$",
+          "markdown": "$$M = - \\frac {e ^ {2} E \\cos (2 \\pi \\nu t)}{\\nu ^ {2} 4 \\pi^ {2} m} \\tag {38}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p010_38",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.6,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 3. Anwendung auf spezielle Probleme.",
+          "markdown": "### § 3. Anwendung auf spezielle Probleme.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.4,
+            0.48
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Im folgenden sollen als einfachste Beispiele der anharmonische Oszillator und der Rotator behandelt werden.",
+          "markdown": "Im folgenden sollen als einfachste Beispiele der anharmonische Oszillator und der Rotator behandelt werden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$M = e^2 E \\cos(2\\pi\\nu t) \\frac{2}{h} \\sum_{\\alpha=0}^{\\infty} \\left\\{ \\frac{|X(n, n+\\alpha)|^2 \\nu(n, n+\\alpha)}{\\nu^2(n, n+\\alpha) - \\nu^2} - \\frac{|X(n, n-\\alpha)|^2 \\nu(n, n-\\alpha)}{\\nu^2(n, n-\\alpha) - \\nu^2} \\right\\} \\tag{36}$$\n\n$$M = -\\frac{2Ee^2 \\cos(2\\pi\\nu t)}{\\nu^2 h} \\sum_{\\alpha=0}^{\\infty} \\left\\{ |X(n, n+\\alpha)|^2 \\nu(n, n+\\alpha) - |X(n, n-\\alpha)|^2 \\nu(n, n-\\alpha) \\right\\} \\tag{37}$$\n\n$$M = - \\frac {e ^ {2} E \\cos (2 \\pi \\nu t)}{\\nu ^ {2} 4 \\pi^ {2} m} \\tag {38}$$\n\n### § 3. Anwendung auf spezielle Probleme.\n\nIm folgenden sollen als einfachste Beispiele der anharmonische Oszillator und der Rotator behandelt werden.",
+      "word_count": 120,
+      "page_quality_notes": []
+    },
+    {
+      "pdf_page_number": 11,
+      "printed_page_number": "889",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 3. Der anharmonische Oszillator.",
+          "markdown": "### § 3. Der anharmonische Oszillator.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In der klassischen Theorie lässt sich diese Gleichung befriedigen durch einen Lösungsansatz von der Form",
+          "markdown": "In der klassischen Theorie lässt sich diese Gleichung befriedigen durch einen Lösungsansatz von der Form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            1
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$x = \\lambda a _ {0} + a _ {1} \\cos \\omega t + \\lambda a _ {2} \\cos 2 \\omega t + \\lambda^ {2} a _ {3} \\cos 3 \\omega t + \\dots + \\lambda^ {\\tau - 1} a _ {\\tau} \\cos \\tau \\omega t \\tag{39}$$",
+          "markdown": "$$x = \\lambda a _ {0} + a _ {1} \\cos \\omega t + \\lambda a _ {2} \\cos 2 \\omega t + \\lambda^ {2} a _ {3} \\cos 3 \\omega t + \\dots + \\lambda^ {\\tau - 1} a _ {\\tau} \\cos \\tau \\omega t \\tag{39}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p011_39",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "wobei die $a$ Potenzreihen in $\\lambda$ sind, deren erste Glieder von $\\lambda$ unabhängig sind. Quantentheoretisch versuchen wir einen analogen Ansatz, der $x$ mit Gliedern von der Form",
+          "markdown": "wobei die $a$ Potenzreihen in $\\lambda$ sind, deren erste Glieder von $\\lambda$ unabhängig sind. Quantentheoretisch versuchen wir einen analogen Ansatz, der $x$ mit Gliedern von der Form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} \\lambda a (n, n) \\quad ; \\quad a (n, n - 1) \\cos \\omega (n, n - 1) t \\quad ; \\quad \\lambda a (n, n - 2) t \\quad ; \\\\ \\dots \\quad \\lambda^ {\\tau - 1} a (n, n - \\tau) \\cos \\omega (n, n - \\tau) t \\quad \\dots \\end{array} \\tag{41}$$",
+          "markdown": "$$\\begin{array}{l} \\lambda a (n, n) \\quad ; \\quad a (n, n - 1) \\cos \\omega (n, n - 1) t \\quad ; \\quad \\lambda a (n, n - 2) t \\quad ; \\\\ \\dots \\quad \\lambda^ {\\tau - 1} a (n, n - \\tau) \\cos \\omega (n, n - \\tau) t \\quad \\dots \\end{array} \\tag{41}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p011_41",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "darstellt. Die Rekursionsformeln zur Bestimmung von $a$ und $\\omega$ (bis zur Ordnung $\\lambda$) nach Gl. 16,17 oder Gl. 20, 21 lauten:",
+          "markdown": "darstellt. Die Rekursionsformeln zur Bestimmung von $a$ und $\\omega$ (bis zur Ordnung $\\lambda$) nach Gl. 16,17 oder Gl. 20, 21 lauten:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Klassisch:\n\n$$\\left. \\begin{array}{c} \\omega_ {0} ^ {2} a _ {0} (n) + \\frac {a _ {1} ^ {2} (n)}{2} = 0; \\\\ - \\omega^ {2} + \\omega_ {0} ^ {2} = 0; \\\\ (- 4 \\omega^ {2} + \\omega_ {0} ^ {2}) a _ {2} (n) + \\frac {a _ {1} ^ {2}}{2} = 0; \\\\ (- 9 \\omega^ {2} + \\omega_ {0} ^ {2}) a _ {3} (n) + a _ {1} a _ {2} = 0; \\\\ . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\end{array} \\right\\} \\tag{42}$$",
+          "markdown": "Klassisch:\n\n$$\\left. \\begin{array}{c} \\omega_ {0} ^ {2} a _ {0} (n) + \\frac {a _ {1} ^ {2} (n)}{2} = 0; \\\\ - \\omega^ {2} + \\omega_ {0} ^ {2} = 0; \\\\ (- 4 \\omega^ {2} + \\omega_ {0} ^ {2}) a _ {2} (n) + \\frac {a _ {1} ^ {2}}{2} = 0; \\\\ (- 9 \\omega^ {2} + \\omega_ {0} ^ {2}) a _ {3} (n) + a _ {1} a _ {2} = 0; \\\\ . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\end{array} \\right\\} \\tag{42}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p011_42",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### § 3. Der anharmonische Oszillator.\n\nIn der klassischen Theorie lässt sich diese Gleichung befriedigen durch einen Lösungsansatz von der Form\n\n$$x = \\lambda a _ {0} + a _ {1} \\cos \\omega t + \\lambda a _ {2} \\cos 2 \\omega t + \\lambda^ {2} a _ {3} \\cos 3 \\omega t + \\dots + \\lambda^ {\\tau - 1} a _ {\\tau} \\cos \\tau \\omega t \\tag{39}$$\n\nwobei die $a$ Potenzreihen in $\\lambda$ sind, deren erste Glieder von $\\lambda$ unabhängig sind. Quantentheoretisch versuchen wir einen analogen Ansatz, der $x$ mit Gliedern von der Form\n\n$$\\begin{array}{l} \\lambda a (n, n) \\quad ; \\quad a (n, n - 1) \\cos \\omega (n, n - 1) t \\quad ; \\quad \\lambda a (n, n - 2) t \\quad ; \\\\ \\dots \\quad \\lambda^ {\\tau - 1} a (n, n - \\tau) \\cos \\omega (n, n - \\tau) t \\quad \\dots \\end{array} \\tag{41}$$\n\ndarstellt. Die Rekursionsformeln zur Bestimmung von $a$ und $\\omega$ (bis zur Ordnung $\\lambda$) nach Gl. 16,17 oder Gl. 20, 21 lauten:\n\nKlassisch:\n\n$$\\left. \\begin{array}{c} \\omega_ {0} ^ {2} a _ {0} (n) + \\frac {a _ {1} ^ {2} (n)}{2} = 0; \\\\ - \\omega^ {2} + \\omega_ {0} ^ {2} = 0; \\\\ (- 4 \\omega^ {2} + \\omega_ {0} ^ {2}) a _ {2} (n) + \\frac {a _ {1} ^ {2}}{2} = 0; \\\\ (- 9 \\omega^ {2} + \\omega_ {0} ^ {2}) a _ {3} (n) + a _ {1} a _ {2} = 0; \\\\ . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\end{array} \\right\\} \\tag{42}$$",
+      "word_count": 200,
+      "page_quality_notes": []
+    },
+    {
+      "pdf_page_number": 12,
+      "printed_page_number": "890",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Quantentheoretisch:\n\n$$\\left. \\begin{array}{c} \\omega_ {0} ^ {2} a _ {0} (n) + \\frac {a ^ {2} (n + 1 , n) + a ^ {2} (n , n - 1)}{4} = 0; \\\\ - \\omega^ {2} (n, n - 1) + \\omega_ {0} ^ {2} = 0; \\\\ \\left[ - \\omega^ {2} (n, n - 2) + \\omega_ {0} ^ {2} \\right] a (n, n - 2) + \\frac {a (n , n - 1) a (n - 1 , n - 2)}{2} = 0; \\\\ \\left[ - \\omega^ {2} (n, n - 3) + \\omega_ {0} ^ {2} \\right] a (n, n - 3) + \\frac {a (n , n - 2) a (n - 1 , n - 3)}{2} + \\frac {a (n , n - 2) a (n - 2 , n - 3)}{2} = 0; \\\\ . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\end{array} \\right\\} \\tag{43}$$",
+          "markdown": "Quantentheoretisch:\n\n$$\\left. \\begin{array}{c} \\omega_ {0} ^ {2} a _ {0} (n) + \\frac {a ^ {2} (n + 1 , n) + a ^ {2} (n , n - 1)}{4} = 0; \\\\ - \\omega^ {2} (n, n - 1) + \\omega_ {0} ^ {2} = 0; \\\\ \\left[ - \\omega^ {2} (n, n - 2) + \\omega_ {0} ^ {2} \\right] a (n, n - 2) + \\frac {a (n , n - 1) a (n - 1 , n - 2)}{2} = 0; \\\\ \\left[ - \\omega^ {2} (n, n - 3) + \\omega_ {0} ^ {2} \\right] a (n, n - 3) + \\frac {a (n , n - 2) a (n - 1 , n - 3)}{2} + \\frac {a (n , n - 2) a (n - 2 , n - 3)}{2} = 0; \\\\ . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\end{array} \\right\\} \\tag{43}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p012_43",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.95,
+            1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Mit dieser kommt die Quantenbedingung:",
+          "markdown": "Mit dieser kommt die Quantenbedingung:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.4,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Klassisch (J = nh):\n\n$$1 = 2 \\pi m \\frac {d}{d J} \\sum_ {- \\infty} ^ {\\infty} \\tau^ {2} \\frac {| a _ {\\tau} | ^ {2} \\omega}{4} \\tag{44}$$",
+          "markdown": "Klassisch (J = nh):\n\n$$1 = 2 \\pi m \\frac {d}{d J} \\sum_ {- \\infty} ^ {\\infty} \\tau^ {2} \\frac {| a _ {\\tau} | ^ {2} \\omega}{4} \\tag{44}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p012_44",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.7,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Quantentheoretisch:\n\n$$h = \\pi m \\sum_ {0} ^ {\\infty} \\left[ | a (n + \\tau , n) | ^ {2} \\omega (n + \\tau , n) - | a (n, n - \\tau) | ^ {2} \\omega (n, n - \\tau) \\right] \\quad . \\tag{45}$$",
+          "markdown": "Quantentheoretisch:\n\n$$h = \\pi m \\sum_ {0} ^ {\\infty} \\left[ | a (n + \\tau , n) | ^ {2} \\omega (n + \\tau , n) - | a (n, n - \\tau) | ^ {2} \\omega (n, n - \\tau) \\right] \\quad . \\tag{45}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p012_45",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In erster Ordnung ergibt sich daraus, sowohl klassisch wie quantentheoretisch:",
+          "markdown": "In erster Ordnung ergibt sich daraus, sowohl klassisch wie quantentheoretisch:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.6,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a _ {1} ^ {2} (n) \\quad \\text { oder } \\quad a ^ {2} (n, n - 1) = \\frac {n + \\operatorname{const} h}{\\pi m \\omega_ {0}} \\tag{46}$$",
+          "markdown": "$$a _ {1} ^ {2} (n) \\quad \\text { oder } \\quad a ^ {2} (n, n - 1) = \\frac {n + \\operatorname{const} h}{\\pi m \\omega_ {0}} \\tag{46}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p012_46",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Quantentheoretisch lässt sich die Konstante in Gl. 46 bestimmen durch die Bedingung, dass $a(n_0, n_0 - 1)$ im Grundzustand verschwinden muss. Wenn wir $n$ so nummerieren, dass $n$ im Grundzustand gleich Null ist, d.h. $n_0 = 0$, so folgt",
+          "markdown": "Quantentheoretisch lässt sich die Konstante in Gl. 46 bestimmen durch die Bedingung, dass $a(n_0, n_0 - 1)$ im Grundzustand verschwinden muss. Wenn wir $n$ so nummerieren, dass $n$ im Grundzustand gleich Null ist, d.h. $n_0 = 0$, so folgt",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Quantentheoretisch:\n\n$$\\left. \\begin{array}{c} \\omega_ {0} ^ {2} a _ {0} (n) + \\frac {a ^ {2} (n + 1 , n) + a ^ {2} (n , n - 1)}{4} = 0; \\\\ - \\omega^ {2} (n, n - 1) + \\omega_ {0} ^ {2} = 0; \\\\ \\left[ - \\omega^ {2} (n, n - 2) + \\omega_ {0} ^ {2} \\right] a (n, n - 2) + \\frac {a (n , n - 1) a (n - 1 , n - 2)}{2} = 0; \\\\ \\left[ - \\omega^ {2} (n, n - 3) + \\omega_ {0} ^ {2} \\right] a (n, n - 3) + \\frac {a (n , n - 2) a (n - 1 , n - 3)}{2} + \\frac {a (n , n - 2) a (n - 2 , n - 3)}{2} = 0; \\\\ . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\quad . \\end{array} \\right\\} \\tag{43}$$\n\nMit dieser kommt die Quantenbedingung:\n\nKlassisch (J = nh):\n\n$$1 = 2 \\pi m \\frac {d}{d J} \\sum_ {- \\infty} ^ {\\infty} \\tau^ {2} \\frac {| a _ {\\tau} | ^ {2} \\omega}{4} \\tag{44}$$\n\nQuantentheoretisch:\n\n$$h = \\pi m \\sum_ {0} ^ {\\infty} \\left[ | a (n + \\tau , n) | ^ {2} \\omega (n + \\tau , n) - | a (n, n - \\tau) | ^ {2} \\omega (n, n - \\tau) \\right] \\quad . \\tag{45}$$\n\nIn erster Ordnung ergibt sich daraus, sowohl klassisch wie quantentheoretisch:\n\n$$a _ {1} ^ {2} (n) \\quad \\text { oder } \\quad a ^ {2} (n, n - 1) = \\frac {n + \\operatorname{const} h}{\\pi m \\omega_ {0}} \\tag{46}$$\n\nQuantentheoretisch lässt sich die Konstante in Gl. 46 bestimmen durch die Bedingung, dass $a(n_0, n_0 - 1)$ im Grundzustand verschwinden muss. Wenn wir $n$ so nummerieren, dass $n$ im Grundzustand gleich Null ist, d.h. $n_0 = 0$, so folgt",
+      "word_count": 250,
+      "page_quality_notes": []
+    },
+    {
+      "pdf_page_number": 13,
+      "printed_page_number": "891",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a ^ {2} (n, n - 1) = \\frac {n h}{\\pi m \\omega_ {0}} \\tag{47}$$",
+          "markdown": "$$a ^ {2} (n, n - 1) = \\frac {n h}{\\pi m \\omega_ {0}} \\tag{47}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p013_47",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.5,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Damit folgt aus den Rekursionsgleichungen 42, dass in der klassischen Theorie $a_{\\tau}$ (bis zur Ordnung $\\lambda$) die Form $\\chi(\\tau)n^{\\frac{\\tau}{2}}$ hat, wo $\\chi(\\tau)$ einen von $n$ unabhängigen Faktor darstellt. In der Quantentheorie ergibt Gl. 43",
+          "markdown": "Damit folgt aus den Rekursionsgleichungen 42, dass in der klassischen Theorie $a_{\\tau}$ (bis zur Ordnung $\\lambda$) die Form $\\chi(\\tau)n^{\\frac{\\tau}{2}}$ hat, wo $\\chi(\\\\tau)$ einen von $n$ unabhängigen Faktor darstellt. In der Quantentheorie ergibt Gl. 43",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "OCR error in 'chi(\\tau)' (should be 'χ(τ)'). LaTeX formatting issue in mathematical expression."
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a (n, n - \\tau) = \\chi (\\tau) \\sqrt {\\frac {n !}{(n - \\tau) !}} \\quad , \\tag{48}$$",
+          "markdown": "$$a (n, n - \\tau) = \\chi (\\tau) \\sqrt {\\frac {n !}{(n - \\tau) !}} \\quad , \\tag{48}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p013_48",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "wobei $\\chi(\\tau)$ selbst einen von $n$ unabhängigen Proportionalitätsfaktor darstellt. Natürlich nähert sich für grosse Werte von $n$ der quantentheoretische Wert von $a_{\\tau}$ asymptotisch dem klassischen an.",
+          "markdown": "wobei $\\chi(\\tau)$ selbst einen von $n$ unabhängigen Proportionalitätsfaktor darstellt. Natürlich nähert sich für grosse Werte von $n$ der quantentheoretische Wert von $a_{\\tau}$ asymptotisch dem klassischen an.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Für die Energie liegt es nahe, den klassischen Ansatz",
+          "markdown": "Für die Energie liegt es nahe, den klassischen Ansatz",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.5,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$E = \\frac {m \\dot {x} ^ {2}}{2} + m \\omega_ {0} ^ {2} \\frac {x ^ {2}}{2} + \\frac {m \\lambda}{3} x ^ {3} \\tag{49}$$",
+          "markdown": "$$E = \\frac {m \\dot {x} ^ {2}}{2} + m \\omega_ {0} ^ {2} \\frac {x ^ {2}}{2} + \\frac {m \\lambda}{3} x ^ {3} \\tag{49}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p013_49",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.8,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "zu versuchen, da sie in der bisher berechneten Näherung auch quantentheoretisch wirklich konstant ist. Ihr Wert ergibt sich aus Gl. 43, 46 und ?? als:",
+          "markdown": "zu versuchen, da sie in der bisher berechneten Näherung auch quantentheoretisch wirklich konstant ist. Ihr Wert ergibt sich aus Gl. 43, 46 und ?? als:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Klassisch:\n\n$$E = \\frac{nh\\omega_0}{2\\pi} \\quad . \\tag{50}$$",
+          "markdown": "Klassisch:\n\n$$E = \\frac{nh\\omega_0}{2\\pi} \\quad . \\tag{50}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p013_50",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.4,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Quantentheoretisch (aus Gl. 20, 21):\n\n$$E = \\frac{(n + \\frac{1}{2})h\\omega_0}{2\\pi} \\tag{51}$$",
+          "markdown": "Quantentheoretisch (aus Gl. 20, 21):\n\n$$E = \\frac{(n + \\frac{1}{2})h\\omega_0}{2\\pi} \\tag{51}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p013_51",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$a ^ {2} (n, n - 1) = \\frac {n h}{\\pi m \\omega_ {0}} \\tag{47}$$\n\nDamit folgt aus den Rekursionsgleichungen 42, dass in der klassischen Theorie $a_{\\tau}$ (bis zur Ordnung $\\lambda$) die Form $\\chi(\\tau)n^{\\frac{\\tau}{2}}$ hat, wo $\\chi(\\tau)$ einen von $n$ unabhängigen Faktor darstellt. In der Quantentheorie ergibt Gl. 43\n\n$$a (n, n - \\tau) = \\chi (\\tau) \\sqrt {\\frac {n !}{(n - \\tau) !}} \\quad , \\tag{48}$$\n\nwobei $\\chi(\\tau)$ selbst einen von $n$ unabhängigen Proportionalitätsfaktor darstellt. Natürlich nähert sich für grosse Werte von $n$ der quantentheoretische Wert von $a_{\\tau}$ asymptotisch dem klassischen an.\n\nFür die Energie liegt es nahe, den klassischen Ansatz\n\n$$E = \\frac {m \\dot {x} ^ {2}}{2} + m \\omega_ {0} ^ {2} \\frac {x ^ {2}}{2} + \\frac {m \\lambda}{3} x ^ {3} \\tag{49}$$\n\nzu versuchen, da sie in der bisher berechneten Näherung auch quantentheoretisch wirklich konstant ist. Ihr Wert ergibt sich aus Gl. 43, 46 und ?? als:\n\nKlassisch:\n\n$$E = \\frac{nh\\omega_0}{2\\pi} \\quad . \\tag{50}$$\n\nQuantentheoretisch (aus Gl. 20, 21):\n\n$$E = \\frac{(n + \\frac{1}{2})h\\omega_0}{2\\pi} \\tag{51}$$",
+      "word_count": 220,
+      "page_quality_notes": [
+        "OCR error in 'chi(\\tau)' (should be 'χ(τ)'). LaTeX formatting issue in mathematical expression."
+      ]
+    },
+    {
+      "pdf_page_number": 14,
+      "printed_page_number": "892",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "§ 3. Der Rotator.",
+          "markdown": "### § 3. Der Rotator.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Als nächstes Beispiel soll der Rotator behandelt werden. Der Rotator soll dargestellt werden durch ein Elektron, das einen Kern in konstantem Abstand $a$ umkreist. Die \"Bewegungsgleichungen\" sagen sowohl klassisch wie quantentheoretisch voraus, dass das Elektron einfach eine ebene, gleichförmige Rotation im Abstand $a$ mit der Winkelgeschwindigkeit $\\omega$ um den Kern beschreibt.",
+          "markdown": "Als nächstes Beispiel soll der Rotator behandelt werden. Der Rotator soll dargestellt werden durch ein Elektron, das einen Kern in konstantem Abstand $a$ umkreist. Die \"Bewegungsgleichungen\" sagen sowohl klassisch wie quantentheoretisch voraus, dass das Elektron einfach eine ebene, gleichförmige Rotation im Abstand $a$ mit der Winkelgeschwindigkeit $\\omega$ um den Kern beschreibt.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die \"Quantenbedingung\" in Gl. 34 ergibt nach Gl. 27:",
+          "markdown": "Die \"Quantenbedingung\" in Gl. 34 ergibt nach Gl. 27:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.5,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$h = \\frac{d}{dn}(2\\pi m a^2 \\omega) \\quad , \\tag{63}$$",
+          "markdown": "$$h = \\frac{d}{dn}(2\\pi m a^2 \\omega) \\quad , \\tag{63}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p014_63",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.5,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und nach Gl. 34:",
+          "markdown": "und nach Gl. 34:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.3,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$h = 2\\pi m \\left\\{ a^2 \\omega(n+1, n) - a^2 \\omega(n, n-1) \\right\\} \\quad , \\tag{64}$$",
+          "markdown": "$$h = 2\\pi m \\left\\{ a^2 \\omega(n+1, n) - a^2 \\omega(n, n-1) \\right\\} \\quad , \\tag{64}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p014_64",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Equation needs manual review for correct LaTeX formatting (missing closing brace in exponent). OCR error in 'omega(n+1, n)' (should be 'ω(n+1, n)'). Potential issue in mathematical expression formatting for LaTeX conversion."
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "woraus in beiden Fällen folgt:",
+          "markdown": "woraus in beiden Fällen folgt:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\omega(n, n-1) = \\frac{h(n + \\text{const})}{2\\pi m a^2} \\quad . \\tag{65}$$",
+          "markdown": "$$\\omega(n, n-1) = \\frac{h(n + \\text{const})}{2\\pi m a^2} \\quad . \\tag{65}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p014_65",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Bedingung, dass die Strahlung im Grundzustand ($n_0 = 0$) verschwinden soll, führt zu der Formel:",
+          "markdown": "Die Bedingung, dass die Strahlung im Grundzustand ($n_0 = 0$) verschwinden soll, führt zu der Formel:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.8,
+            0.65
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\omega(n, n-1) = \\frac{h n}{2\\pi m a^2} \\quad . \\tag{66}$$",
+          "markdown": "$$\\omega(n, n-1) = \\frac{h n}{2\\pi m a^2} \\quad . \\tag{66}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p014_66",
+          "caption_original": "equation_p014_66",
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.6,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Energie ist",
+          "markdown": "Die Energie ist",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.25,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W = \\frac{m}{2} v^2 \\tag{67}$$",
+          "markdown": "$$W = \\frac{m}{2} v^2 \\tag{67}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p014_67",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W = \\frac{m}{2} a^2 \\frac{\\omega^2(n, n-1) + \\omega^2(n+1, n)}{2} = \\frac{h^2}{8\\pi^2 m a^2} (n^2 + n + \\frac{1}{2}) \\tag{68}$$",
+          "markdown": "$$W = \\frac{m}{2} a^2 \\frac{\\omega^2(n, n-1) + \\omega^2(n+1, n)}{2} = \\frac{h^2}{8\\pi^2 m a^2} (n^2 + n + \\frac{1}{2}) \\tag{68}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p014_68",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Equation needs manual review for correct LaTeX formatting (missing closing brace in exponent). OCR error in 'omega^2(n, n-1)' (should be 'ω²(n, n-1)'). Potential issue in mathematical expression formatting for LaTeX conversion."
+        }
+      ],
+      "page_markdown_original": "### § 3. Der Rotator.\n\nAls nächstes Beispiel soll der Rotator behandelt werden. Der Rotator soll dargestellt werden durch ein Elektron, das einen Kern in konstantem Abstand $a$ umkreist. Die \"Bewegungsgleichungen\" sagen sowohl klassisch wie quantentheoretisch voraus, dass das Elektron einfach eine ebene, gleichförmige Rotation im Abstand $a$ mit der Winkelgeschwindigkeit $\\omega$ um den Kern beschreibt.\n\nDie \"Quantenbedingung\" in Gl. 34 ergibt nach Gl. 27:\n\n$$h = \\frac{d}{dn}(2\\pi m a^2 \\omega) \\quad , \\tag{63}$$\n\nund nach Gl. 34:\n\n$$h = 2\\pi m \\left\\{ a^2 \\omega(n+1, n) - a^2 \\omega(n, n-1) \\right\\} \\quad , \\tag{64}$$\n\nworaus in beiden Fällen folgt:\n\n$$\\omega(n, n-1) = \\frac{h(n + \\text{const})}{2\\pi m a^2} \\quad . \\tag{65}$$\n\nDie Bedingung, dass die Strahlung im Grundzustand ($n_0 = 0$) verschwinden soll, führt zu der Formel:\n\n$$\\omega(n, n-1) = \\frac{h n}{2\\pi m a^2} \\quad . \\tag{66}$$\n\nDie Energie ist\n\n$$W = \\frac{m}{2} v^2 \\tag{67}$$\n\n$$W = \\frac{m}{2} a^2 \\frac{\\omega^2(n, n-1) + \\omega^2(n+1, n)}{2} = \\frac{h^2}{8\\pi^2 m a^2} (n^2 + n + \\frac{1}{2}) \\tag{68}$$",
+      "word_count": 250,
+      "page_quality_notes": [
+        "Equation needs manual review for correct LaTeX formatting (missing closing braces in exponents in equations 64, 66, 68). OCR errors in 'omega' (should be 'ω')."
+      ]
+    },
+    {
+      "pdf_page_number": 15,
+      "printed_page_number": "893",
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "die wieder die Relation $\\omega(n, n-1) = \\frac{2\\pi}{h} [W(n) - W(n-1)]$ erfüllt. Als Stütze für die Gültigkeit der Gl. 66 und 68, die sich von den üblichen Theorien unterscheiden, kann man darauf hinweisen, dass nach Kratzer$^4$ viele Bandenspektren (auch solche, bei denen die Existenz eines Elektronenimpulsmoments unwahrscheinlich ist) Formeln von der Art der Gl. 66, 68 zu verlangen scheinen (die wir bisher im Rahmen der klassischen Mechanik mit halbzahliger Quantisierung zu erklären versucht haben). Um die Goudsmit-Kronig-Hönlsche Formel für den Rotator zu erhalten, müssen wir das Gebiet der Probleme mit einem Freiheitsgrad verlassen und annehmen, dass der Rotator einer sehr langsamen Präzession um die z-Achse eines äusseren Feldes unterworfen ist, gleichgültig welche Richtung im Raum dieses hat. Sei die Quantenzahl der entsprechenden Präzession $m$. Die Bewegung wird dann dargestellt durch die Grössen",
+          "markdown": "die wieder die Relation $\\omega(n, n-1) = \\frac{2\\pi}{h} [W(n) - W(n-1)]$ erfüllt. Als Stütze für die Gültigkeit der Gl. 66 und 68, die sich von den üblichen Theorien unterscheiden, kann man darauf hinweisen, dass nach Kratzer$^4$ viele Bandenspektren (auch solche, bei denen die Existenz eines Elektronenimpulsmoments unwahrscheinlich ist) Formeln von der Art der Gl. 66, 68 zu verlangen scheinen (die wir bisher im Rahmen der klassischen Mechanik mit halbzahliger Quantisierung zu erklären versucht haben). Um die Goudsmit-Kronig-Hönlsche Formel für den Rotator zu erhalten, müssen wir das Gebiet der Probleme mit einem Freiheitsgrad verlassen und annehmen, dass der Rotator einer sehr langsamen Präzession um die z-Achse eines äusseren Feldes unterworfen ist, gleichgültig welche Richtung im Raum dieses hat. Sei die Quantenzahl der entsprechenden Präzession $m$. Die Bewegung wird dann dargestellt durch die Grössen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$z : a(n, n - 1; m, m) \\cos \\omega(n, n - 1)t; \\tag{69}$$",
+          "markdown": "$$z : a(n, n - 1; m, m) \\cos \\omega(n, n - 1)t; \\tag{69}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p015_69",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.6,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$x + iz : b(n, n - 1; m, m - 1)e^{i[\\omega(n, n - 1) + \\phi]t}; \\tag{70}$$",
+          "markdown": "$$x + iz : b(n, n - 1; m, m - 1)e^{i[\\omega(n, n - 1) + \\phi]t}; \\tag{70}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p015_70",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.78,
+            0.8,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$b(n, n - 1; m - 1, m)e^{i[-\\omega(n, n - 1) + \\phi]t} \\quad . \\tag{71}$$",
+          "markdown": "$$b(n, n - 1; m - 1, m)e^{i[-\\omega(n, n - 1) + \\phi]t} \\quad . \\tag{71}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p015_71",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.8,
+            0.78
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Equation needs manual review for correct LaTeX formatting (missing closing brace in exponent). OCR error in 'omega(n, n - 1)' (should be 'ω(n, n - 1)'). Potential issue in mathematical expression formatting for LaTeX conversion."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(72)",
+          "markdown": "(72)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.15,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$x^2 + y^2 + z^2 = a^2 \\quad , \\tag{73}$$",
+          "markdown": "$$x^2 + y^2 + z^2 = a^2 \\quad , \\tag{73}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p015_73",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.4,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "und wegen Gl. 20 führt dies zu den Gleichungen:$^5$",
+          "markdown": "und wegen Gl. 20 führt dies zu den Gleichungen:$^5$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.5,
+            0.6
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{1}{2} \\left\\{ \\frac{1}{2} a^2(n, n - 1; m, m) + b^2(n, n - 1; m, m - 1) + b^2(n, n - 1; m, m + 1) \\right.$$",
+          "markdown": "$$\\frac{1}{2} \\left\\{ \\frac{1}{2} a^2(n, n - 1; m, m) + b^2(n, n - 1; m, m - 1) + b^2(n, n - 1; m, m + 1) \\right.$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p015_74",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$+ \\frac{1}{2} a^2(n + 1, n; m, m) + b^2(n + 1, n; m - 1, m) + b^2(n + 1, n; m + 1, m) \\right\\} = a^2 \\quad . \\tag{75}$$",
+          "markdown": "$$+ \\frac{1}{2} a^2(n + 1, n; m, m) + b^2(n + 1, n; m - 1, m) + b^2(n + 1, n; m + 1, m) \\right\\} = a^2 \\quad . \\tag{75}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p015_75",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{1}{2} a(n, n - 1; m, m)a(n - 1, n - 2; m, m) = $$\n\n$$b(n, n - 1; m, m + 1)b(n - 1, n - 2; m + 1, m) $$\n\n$$+ b(n, n - 1; m, m - 1)b(n - 1, n - 2; m - 1, m) \\quad . \\tag{76, 77, 78}$$",
+          "markdown": "$$\\frac{1}{2} a(n, n - 1; m, m)a(n - 1, n - 2; m, m) = $$\n\n$$b(n, n - 1; m, m + 1)b(n - 1, n - 2; m + 1, m) $$\n\n$$+ b(n, n - 1; m, m - 1)b(n - 1, n - 2; m - 1, m) \\quad . \\tag{76, 77, 78}$$",
+          "asset_id": null,
+          "suggested_filename": "equation_p015_76_78",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": "Equation needs manual review for correct LaTeX formatting (missing closing braces in exponents). OCR errors in 'a(n, n - 1; m, m)' (should be 'a(n, n - 1; m, m)'). Potential issue in mathematical expression formatting for LaTeX conversion."
+        }
+      ],
+      "page_markdown_original": "die wieder die Relation $\\omega(n, n-1) = \\frac{2\\pi}{h} [W(n) - W(n-1)]$ erfüllt. Als Stütze für die Gültigkeit der Gl. 66 und 68, die sich von den üblichen Theorien unterscheiden, kann man darauf hinweisen, dass nach Kratzer$^4$ viele Bandenspektren (auch solche, bei denen die Existenz eines Elektronenimpulsmoments unwahrscheinlich ist) Formeln von der Art der Gl. 66, 68 zu verlangen scheinen (die wir bisher im Rahmen der klassischen Mechanik mit halbzahliger Quantisierung zu erklären versucht haben). Um die Goudsmit-Kronig-Hönlsche Formel für den Rotator zu erhalten, müssen wir das Gebiet der Probleme mit einem Freiheitsgrad verlassen und annehmen, dass der Rotator einer sehr langsamen Präzession um die z-Achse eines äusseren Feldes unterworfen ist, gleichgültig welche Richtung im Raum dieses hat. Sei die Quantenzahl der entsprechenden Präzession $m$. Die Bewegung wird dann dargestellt durch die Grössen\n\n$$z : a(n, n - 1; m, m) \\cos \\omega(n, n - 1)t; \\tag{69}$$\n\n$$x + iz : b(n, n - 1; m, m - 1)e^{i[\\omega(n, n - 1) + \\phi]t}; \\tag{70}$$\n\n$$b(n, n - 1; m - 1, m)e^{i[-\\omega(n, n - 1) + \\phi]t} \\quad . \\tag{71}$$\n\n(72)\n\n$$x^2 + y^2 + z^2 = a^2 \\quad , \\tag{73}$$\n\nund wegen Gl. 20 führt dies zu den Gleichungen:$^5$\n\n$$\\frac{1}{2} \\left\\{ \\frac{1}{2} a^2(n, n - 1; m, m) + b^2(n, n - 1; m, m - 1) + b^2(n, n - 1; m, m + 1) \\right.$$ \n\n$$+ \\frac{1}{2} a^2(n + 1, n; m, m) + b^2(n + 1, n; m - 1, m) + b^2(n + 1, n; m + 1, m) \\right\\} = a^2 \\quad . \\tag{75}$$\n\n$$\\frac{1}{2} a(n, n - 1; m, m)a(n - 1, n - 2; m, m) = $$\n\n$$b(n, n - 1; m, m + 1)b(n - 1, n - 2; m + 1, m) $$\n\n$$+ b(n, n - 1; m, m - 1)b(n - 1, n - 2; m - 1, m) \\quad . \\tag{76, 77, 78}$$",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Equation needs manual review for correct LaTeX formatting (missing closing braces in exponents in equations 70, 71, 73, 75, 76-78). OCR errors in 'omega' (should be 'ω')."
+      ]
+    },
+    {
+      "pdf_page_number": 16,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_footer",
+          "level": null,
+          "text_original": "Göttingen, Institut für theoretische Physik.",
+          "markdown": "Göttingen, Institut für theoretische Physik.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.9,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Göttingen, Institut für theoretische Physik.",
+      "word_count": 5,
+      "page_quality_notes": []
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 16,
+    "ocr_page_count": 16,
+    "total_word_count": 4800,
+    "figure_count": 0,
+    "table_count": 0,
+    "equation_block_count": 38,
+    "pages_requiring_review": [
+      2,
+      8,
+      9,
+      13,
+      14,
+      15
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "All pages processed successfully.",
+      "Minor OCR errors in German text and mathematical expressions require manual review.",
+      "Equations with missing closing braces in exponents detected in multiple locations.",
+      "LaTeX formatting issues in mathematical expressions (e.g., 'chi' instead of 'χ')."
+    ]
+  }
+}

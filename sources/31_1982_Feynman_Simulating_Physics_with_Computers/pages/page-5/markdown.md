@@ -1,0 +1,17 @@
+Simulating Physics with Computers
+
+471
+
+the position at two different times in the past (either way, you need two pieces of information at each point) calculate the future in principle. So classical physics is *local*, *causal*, and *reversible*, and therefore apparently quite adaptable (except for the discreteness and so on, which I already mentioned) to computer simulation. We have no difficulty, in principle, apparently, with that.
+
+### 3. SIMULATING PROBABILITY
+
+Turning to quantum mechanics, we know immediately that here we get only the ability, apparently, to predict probabilities. Might I say immediately, so that you know where I really intend to go, that we always have had (secret, secret, close..the doors!) we always have had a great deal of difficulty in understanding the world view that quantum mechanics represents. At least I do, because I'm an old enough man that I haven't got to the point that this stuff is obvious to me. Okay, I still get nervous with it. And therefore, some of the younger students ... you know how it always is, every new idea, it takes a generation or two until it becomes obvious that there's no real problem. It has not yet become obvious to me that there's no real problem. I cannot define the real problem, therefore I suspect there's no real problem, but I'm note sure there's no real problem. So that's why I like to investigate things. Can I learn anything from asking this question about computers—about this may or may not be mystery as to what the world view of quantum mechanics is? So I know that quantum mechanics seem to involve probability—and I therefore want to talk about simulating probability.
+
+Well, one way that we could have a computer that simulates a probabilistic theory, something that has a probability in it, would be to calculate the probability and then interpret this number to represent nature. For example, let's suppose that a particle has a probability $P(x, t)$ to be at $x$ at a time $t$. A typical example of such a probability might satisfy a differential equation, as, for example, if the particle is diffusing:
+
+$$
+\frac{\partial P(x, t)}{\partial t} = - \nabla^2 P(x, t)
+$$
+
+Now we could discretize $t$ and $x$ and perhaps even the probability itself and solve this differential equation like we solve any old field equation, and make an algorithm for it, making it exact by discretization. First there'd be a problem about discretizing probability. If you are only going to take $k$ digits it would mean that when the probability is less that $2^{-k}$ of something happening, you say it doesn't happen at all. In practice we do that. If the

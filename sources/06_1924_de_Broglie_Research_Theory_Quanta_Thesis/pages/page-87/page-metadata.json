@@ -1,0 +1,119 @@
+{
+  "index": 86,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 104,
+      "topLeftY": 25,
+      "bottomRightX": 442,
+      "bottomRightY": 44,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 494,
+      "topLeftY": 25,
+      "bottomRightX": 526,
+      "bottomRightY": 44,
+      "content": "107",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 18,
+      "topLeftY": 68,
+      "bottomRightX": 131,
+      "bottomRightY": 90,
+      "content": "et, parce que",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 172,
+      "topLeftY": 94,
+      "bottomRightX": 377,
+      "bottomRightY": 226,
+      "content": "$$\\mathcal{H} \\frac{\\sum_{i=1}^m e^{-\\beta \\varepsilon_i}}{\\sum_{i=1}^m e^{-\\beta \\varepsilon_i}} = \\mathcal{H} \\bar{\\varepsilon} = E$$\n$$\\frac{1}{T} = k\\beta, \\quad \\beta = \\frac{1}{kT}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 243,
+      "bottomRightX": 383,
+      "bottomRightY": 267,
+      "content": "L'énergie libre se calcule par la relation :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 277,
+      "bottomRightX": 456,
+      "bottomRightY": 368,
+      "content": "$$F = E - TS = E - k \\mathcal{H} T \\log \\left[ \\sum_{1}^m e^{-\\beta \\varepsilon_i} \\right] - \\beta k T E$$\n$$= - k \\mathcal{H} T \\log \\left[ \\sum_{1}^m e^{-\\beta \\varepsilon_i} \\right].$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 15,
+      "topLeftY": 384,
+      "bottomRightX": 525,
+      "bottomRightY": 432,
+      "content": "La valeur moyenne de l'énergie libre rapportée à l'un des objets est donc :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 437,
+      "bottomRightX": 366,
+      "bottomRightY": 479,
+      "content": "$$\\bar{F} = - kT \\log \\left[ \\sum_{1}^m e^{-\\beta \\varepsilon_i} \\right].$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 12,
+      "topLeftY": 495,
+      "bottomRightX": 525,
+      "bottomRightY": 850,
+      "content": "Appliquons ces considérations générales à un gaz formé de molécules identiques de masse $m_0$. Le théorème de Liouville (valable également dans la dynamique de la relativité) nous apprend que l'élément d'extension en phase d'une molécule égale à $dxdydzdpdqdr$ (où $xy$ et $z$ sont les coordonnées, $p, q, r$ les moments correspondants) est un invariant des équations du mouvement dont la valeur est indépendante du choix des coordonnées. On a été par suite amené à admettre que le nombre des états d'égale probabilité représentés par un élément de cette extension en phase était proportionnel à la grandeur de celui-ci. Ceci conduit immédiatement à la loi de répartition de Maxwell donnant le nombre d'atomes dont le point représentatif tombe dans l'élément $dxdydzdpdqdr$ :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 854,
+      "bottomRightX": 388,
+      "bottomRightY": 889,
+      "content": "$$dn = Cte. e^{-\\frac{w}{kT}} dxdydzdpdqdr$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 32,
+      "topLeftY": 901,
+      "bottomRightX": 383,
+      "bottomRightY": 926,
+      "content": "$w$ étant l'énergie cinétique de ces atomes.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 32,
+      "topLeftY": 927,
+      "bottomRightX": 522,
+      "bottomRightY": 952,
+      "content": "Supposons les vitesses assez faibles pour légitimer l'em-",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

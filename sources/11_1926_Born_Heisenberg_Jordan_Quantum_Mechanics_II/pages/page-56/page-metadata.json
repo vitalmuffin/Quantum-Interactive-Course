@@ -1,0 +1,146 @@
+{
+  "index": 55,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 100,
+      "bottomRightX": 132,
+      "bottomRightY": 117,
+      "content": "612",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 100,
+      "bottomRightX": 457,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 137,
+      "bottomRightX": 581,
+      "bottomRightY": 194,
+      "content": "bedeutet, geht aus (43), Kap. 4, hervor, indem die Summanden mit $j = k$ ausgelassen werden. Dieses Phasenmittel ist mit dem Zeitmittel identisch. Man erhält dann durch Ausführung der Integration",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 197,
+      "topLeftY": 198,
+      "bottomRightX": 579,
+      "bottomRightY": 257,
+      "content": "$$\\Delta = \\frac{1}{4} \\sum_{\\substack{j,k=1 \\\\ j \\neq k}}^{\\infty} \\left\\{ \\dot{q}_j \\dot{q}_k K_{jk} + j k q_j q_k \\left( \\frac{\\pi}{l} \\right)^2 K'_{jk} \\right\\} \\quad (45)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 248,
+      "bottomRightX": 128,
+      "bottomRightY": 263,
+      "content": "mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 258,
+      "bottomRightX": 579,
+      "bottomRightY": 500,
+      "content": "$$\\begin{aligned} K_{jk} &= \\frac{\\sin(j-k)\\frac{\\pi}{l}a}{(j-k)\\frac{\\pi}{l}} - \\frac{\\sin(j+k)\\frac{\\pi}{l}a}{(j+k)\\frac{\\pi}{l}} \\\\ &= \\frac{\\sin(\\omega_j - \\omega_k)a}{\\omega_j - \\omega_k} - \\frac{\\sin(\\omega_j + \\omega_k)a}{\\omega_j + \\omega_k}, \\\\ K'_{jk} &= \\frac{\\sin(j-k)\\frac{\\pi}{l}a}{(j-k)\\frac{\\pi}{l}} + \\frac{\\sin(j+k)\\frac{\\pi}{l}a}{(j+k)\\frac{\\pi}{l}} \\\\ &= \\frac{\\sin(\\omega_j - \\omega_k)a}{\\omega_j - \\omega_k} + \\frac{\\sin(\\omega_j + \\omega_k)a}{\\omega_j + \\omega_k}. \\end{aligned} \\quad (45')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 501,
+      "bottomRightX": 579,
+      "bottomRightY": 541,
+      "content": "Das Quadrat $\\overline{\\Delta}^2$ soll in Rücksicht auf die spätere quantenmechanische Rechnung ausführlich angeschrieben werden. Es ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 166,
+      "topLeftY": 545,
+      "bottomRightX": 578,
+      "bottomRightY": 567,
+      "content": "$$\\Delta^2 = (\\Delta_1 + \\Delta_2)^2 = \\Delta_1^2 + \\Delta_2^2 + \\Delta_1\\Delta_2 + \\Delta_2\\Delta_1 \\quad (46)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 568,
+      "bottomRightX": 126,
+      "bottomRightY": 583,
+      "content": "mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 570,
+      "bottomRightX": 578,
+      "bottomRightY": 663,
+      "content": "$$\\begin{aligned} \\Delta_1^2 + \\Delta_2^2 &= \\frac{1}{16} \\sum_{\\substack{j,k=1 \\\\ j \\neq k}}^{\\infty} \\sum_{\\substack{i,\\kappa=1 \\\\ i \\neq \\kappa}}^{\\infty} \\left\\{ \\dot{q}_j \\dot{q}_k \\dot{q}_i \\dot{q}_\\kappa K_{jk} K_{i\\kappa} \\right. \\\\ &\\quad + j k i \\kappa \\left( \\frac{\\pi}{l} \\right)^4 q_j q_k q_i q_k K'_{jk} K'_{ik}; \\end{aligned} \\quad (46')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 669,
+      "bottomRightX": 578,
+      "bottomRightY": 747,
+      "content": "$$\\begin{aligned} \\Delta_1\\Delta_2 + \\Delta_2\\Delta_1 &= \\frac{1}{16} \\sum_{\\substack{j,k=1 \\\\ j \\neq k}}^{\\infty} \\sum_{\\substack{i,\\kappa=1 \\\\ i \\neq \\kappa}}^{\\infty} \\left( \\frac{\\pi}{l} \\right)^4 \\left\\{ j k q_j q_k \\dot{q}_i \\dot{q}_\\kappa K'_{jk} K_{i\\kappa} \\right. \\\\ &\\quad + i \\kappa \\dot{q}_j \\dot{q}_k q_i q_\\kappa K_{jk} K'_{i\\kappa} \\}. \\end{aligned} \\quad (46'')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 132,
+      "topLeftY": 751,
+      "bottomRightX": 457,
+      "bottomRightY": 772,
+      "content": "Aus (44), Kap. 4, folgt $\\overline{\\Delta_1\\Delta_2 + \\Delta_2\\Delta_1} = 0$ und",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 121,
+      "topLeftY": 774,
+      "bottomRightX": 578,
+      "bottomRightY": 820,
+      "content": "$$\\overline{\\Delta}^2 = \\overline{\\Delta_1^2} + \\overline{\\Delta_2^2} = \\frac{1}{8} \\sum_{j,k=1}^{\\infty} \\left\\{ \\overline{q}_j^2 \\overline{q}_k^2 K_{jk}^2 + j^2 k^2 \\left( \\frac{\\pi}{l} \\right)^4 \\overline{q}_j^2 \\overline{q}_k^2 K'_{jk}^2 \\right\\}. \\quad (47)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 821,
+      "bottomRightX": 579,
+      "bottomRightY": 879,
+      "content": "Lassen wir nun die Seitenlänge $l$ sehr groß werden, so rücken die $\\omega_k$ nach (44), Kap. 4, immer enger zusammen, so daß die Summe (47) in ein Integral übergeht:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 871,
+      "bottomRightX": 578,
+      "bottomRightY": 922,
+      "content": "$$\\overline{\\Delta}^2 = \\overline{\\Delta_1^2} + \\overline{\\Delta_2^2} = \\frac{1}{8} \\int_{0}^{\\infty} \\int_{0}^{\\infty} d\\omega_j d\\omega_k \\frac{l^2}{\\pi^2} \\left\\{ \\overline{q}_j^2 \\overline{q}_k^2 K_{jk}^2 + j^2 k^2 \\left( \\frac{\\pi}{l} \\right)^4 \\overline{q}_j^2 \\overline{q}_k^2 K'_{jk}^2 \\right\\}. \\quad (47')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

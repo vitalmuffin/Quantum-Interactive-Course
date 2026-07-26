@@ -1,0 +1,146 @@
+{
+  "index": 24,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 103,
+      "bottomRightX": 133,
+      "bottomRightY": 119,
+      "content": "882",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 103,
+      "bottomRightX": 413,
+      "bottomRightY": 119,
+      "content": "M. Born und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 140,
+      "bottomRightX": 532,
+      "bottomRightY": 159,
+      "content": "Oszillators einsetzt. Diese lautet in der Normalform nach (63):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 175,
+      "topLeftY": 164,
+      "bottomRightX": 583,
+      "bottomRightY": 203,
+      "content": "$$a_n = \\sqrt{C(n+1)} e^{i\\varphi_n}, \\quad C = \\frac{h}{4\\pi\\omega_0} = \\frac{h}{8\\pi^2 v_0}. \\quad (82)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 203,
+      "bottomRightX": 372,
+      "bottomRightY": 222,
+      "content": "Damit erhält man nach (76), (79), (81):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 227,
+      "bottomRightX": 583,
+      "bottomRightY": 427,
+      "content": "$$\\left. \\begin{aligned} x_n &= -\\frac{C}{2\\omega_0^3}(2n+1), \\\\ x_n' &= \\frac{C}{3\\omega_0^3}\\sqrt{(n+1)(n+2)}e^{i(\\varphi_n + \\varphi_{n+1})}, \\\\ y_n &= \\frac{\\sqrt{C^3}}{12\\omega_0^4}\\sqrt{(n+1)(n+2)(n+3)}e^{i(\\varphi_n + \\varphi_{n+1} + \\varphi_{n+2})}; \\\\ &\\omega_{n,n-1}^{(1)} = 0, \\quad \\omega_{n,n-2}^{(1)} = 0, \\\\ &\\omega_{n,n-1}^{(2)} = -\\frac{5}{3}\\frac{C}{\\omega_0^3}n; \\end{aligned} \\right\\} \\quad (83) \\quad (84)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 426,
+      "bottomRightX": 133,
+      "bottomRightY": 442,
+      "content": "also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 442,
+      "bottomRightX": 455,
+      "bottomRightY": 480,
+      "content": "$$\\eta_n - \\eta_{n-1} = \\frac{11}{9}\\frac{C^2}{\\omega_0^4}(2n+1),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 485,
+      "bottomRightX": 475,
+      "bottomRightY": 524,
+      "content": "$$\\eta_n = a_n\\bar{y}_n + \\bar{a}_n y_n = \\frac{11}{9}\\frac{C^2}{\\omega_0^4}(n+1)^2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 528,
+      "bottomRightX": 341,
+      "bottomRightY": 547,
+      "content": "Setzt man $y_n = |y_n|e^{i\\psi_n}$, so wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 172,
+      "topLeftY": 552,
+      "bottomRightX": 583,
+      "bottomRightY": 594,
+      "content": "$$|y_n|\\cos(\\varphi_n - \\psi_n) = \\frac{\\eta_n}{2|a_n|} = \\frac{11}{18}\\frac{\\sqrt{C^3}}{\\omega_0^4}\\sqrt{n+1}^3. \\quad (85)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 599,
+      "bottomRightX": 491,
+      "bottomRightY": 618,
+      "content": "Mehr läßt sich in dieser Näherung über $y_n$ nicht aussagen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 619,
+      "bottomRightX": 584,
+      "bottomRightY": 678,
+      "content": "Wir wollen aber die Schlußformeln unter der Annahme $\\psi_n = \\varphi_n$ ausschreiben. Dann lauten sie (bis auf Glieder von höherer als zweiter Ordnung in $\\lambda$):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 209,
+      "topLeftY": 681,
+      "bottomRightX": 583,
+      "bottomRightY": 745,
+      "content": "$$\\left. \\begin{aligned} \\omega(n,n-1) &= \\omega_0 - \\lambda^2\\frac{5}{3}\\frac{C}{\\omega_0^3}n + \\dots, \\\\ \\omega(n,n-2) &= 2\\omega_0 + \\dots; \\end{aligned} \\right\\} \\quad (86)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 750,
+      "bottomRightX": 583,
+      "bottomRightY": 921,
+      "content": "$$\\left. \\begin{aligned} q(n,n) &= -\\lambda\\frac{C}{\\omega_0^3}(2n+1) + \\dots, \\\\ q(n,n-1) &= \\sqrt{Cn}e^{i\\varphi_{n-1}}\\left(1 + \\lambda^2\\frac{11}{18}\\frac{Cn}{\\omega_0^4} + \\dots\\right), \\\\ q(n,n-2) &= \\lambda\\frac{C}{3\\omega_0^3}\\sqrt{n(n-1)}e^{i(\\varphi_{n-1} + \\varphi_{n-2})} + \\dots, \\\\ q(n,n-3) &= \\lambda^2\\frac{\\sqrt{C^3}}{12\\omega_0^4}\\sqrt{n(n-1)(n-2)}e^{i(\\varphi_{n-1} + \\varphi_{n-2} + \\varphi_{n-3})} + \\dots \\end{aligned} \\right\\} \\quad (87)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

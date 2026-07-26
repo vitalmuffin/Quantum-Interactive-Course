@@ -1,0 +1,173 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 333,
+      "topLeftY": 165,
+      "bottomRightX": 406,
+      "bottomRightY": 181,
+      "content": "Classically:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 328,
+      "topLeftY": 194,
+      "bottomRightX": 605,
+      "bottomRightY": 226,
+      "content": "$$E = \\frac{nh\\omega_0}{2\\pi} \\quad . \\tag{50}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 235,
+      "bottomRightX": 498,
+      "bottomRightY": 253,
+      "content": "Quantum theoretically (from Eq. 20, 21):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 319,
+      "topLeftY": 263,
+      "bottomRightX": 605,
+      "bottomRightY": 299,
+      "content": "$$E = \\frac{(n + \\frac{1}{2})h\\omega_0}{2\\pi} \\tag{51}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 304,
+      "bottomRightX": 238,
+      "bottomRightY": 321,
+      "content": "(up to $\\lambda^2$ order).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 322,
+      "bottomRightX": 605,
+      "bottomRightY": 373,
+      "content": "From this point of view, it is already not possible to represent the energy of the harmonic oscillator with \"classical mechanics\", i.e. Eq. ?? but it has instead the form given in Eq. ??.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 374,
+      "bottomRightX": 606,
+      "bottomRightY": 409,
+      "content": "The precise calculation of the higher orders for E, $a$, and $\\omega$ will now be carried out for the simpler example of the anharmonic oscillator of the type:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 303,
+      "topLeftY": 423,
+      "bottomRightX": 605,
+      "bottomRightY": 443,
+      "content": "$$\\ddot{x} + \\omega_0^2 x + \\lambda x^3 = 0 \\quad . \\tag{52}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 456,
+      "bottomRightX": 372,
+      "bottomRightY": 472,
+      "content": "Classically, we can set in this case:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 211,
+      "topLeftY": 487,
+      "bottomRightX": 605,
+      "bottomRightY": 505,
+      "content": "$$x = a_1 \\cos \\omega t + \\lambda a_3 \\cos 3\\omega t + \\lambda^2 a_5 \\cos 5\\omega t + \\quad ... \\quad , \\tag{53}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 519,
+      "bottomRightX": 491,
+      "bottomRightY": 536,
+      "content": "and quantum theoretically, we try by analogy the Ansatz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 551,
+      "bottomRightX": 605,
+      "bottomRightY": 570,
+      "content": "$$a(n, n - 1) \\cos \\omega(n, n - 1)t \\quad ; \\quad \\lambda a(n, n - 3) \\cos \\omega(n, n - 3)t \\quad ... \\tag{54}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 582,
+      "bottomRightX": 605,
+      "bottomRightY": 614,
+      "content": "The quantities $a$ are again power series in $\\lambda$ whose first term (as in Eq. ??) has the form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 270,
+      "topLeftY": 614,
+      "bottomRightX": 605,
+      "bottomRightY": 652,
+      "content": "$$a(n, n - \\tau) = \\chi(\\tau) \\sqrt{\\frac{n!}{(n - \\tau)!}} \\quad , \\tag{55}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 656,
+      "bottomRightX": 606,
+      "bottomRightY": 709,
+      "content": "as one finds from the evaluation of the equations corresponding to Eq. ?? and 43. If the calculation of $\\omega$ and $a$ from Eq. 42 and ?? is carried out to order $\\lambda^2$ or $\\lambda$ respectively, one obtains:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 721,
+      "bottomRightX": 605,
+      "bottomRightY": 761,
+      "content": "$$\\omega(n, n - 1) = \\omega_0 + \\lambda \\frac{3nh}{8\\pi\\omega_0^2 m} - \\lambda^2 \\frac{3h^2}{256\\omega_0^5 m^2 \\pi^2} (17n^2 + 7) + \\quad ... \\tag{56}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 772,
+      "bottomRightX": 605,
+      "bottomRightY": 814,
+      "content": "$$a(n, n - 1) = \\sqrt{\\frac{nh}{\\pi\\omega_0 m}} \\left( 1 - \\lambda \\frac{3nh}{16\\pi\\omega^3 m} + \\quad ... \\right) \\quad . \\tag{57}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 831,
+      "bottomRightX": 377,
+      "bottomRightY": 845,
+      "content": "12",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

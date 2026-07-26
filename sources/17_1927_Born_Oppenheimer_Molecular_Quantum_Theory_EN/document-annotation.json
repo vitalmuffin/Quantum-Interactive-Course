@@ -1,0 +1,909 @@
+{
+  "document_id": "01_1927_born_oppenheimer_quantum_theory_molecules",
+  "source_filename": "born_oppenheimer_1927_quantum_theory_molecules.pdf",
+  "metadata": {
+    "title_original": "On the Quantum Theory of Molecules",
+    "title_normalized": "On the Quantum Theory of Molecules",
+    "authors": [
+      "Max Born",
+      "J. Robert Oppenheimer"
+    ],
+    "publication_year": 1927,
+    "original_language": "en",
+    "journal": "Annalen der Physik",
+    "volume": "84",
+    "issue": null,
+    "page_range": "457-484",
+    "doi": "10.1002/andp.19273891502",
+    "received_date": null,
+    "abstract_original": "It will be shown that the familiar components of the terms of a molecule; the energy of electronic motion, of the nuclear vibration and of the rotation, correspond systematically to the terms of a power series in the fourth root of the ratio of electron mass to (average) nuclear mass. The treatment yields among other things an equation for the rotation, which represents a generalization of the treatment of Kramers and Pauli (top with built-in fly-wheel). Furthermore, there appears a justification of the considerations of Franck and Condon on the intensity of band lines. The relationships are illustrated for the diatomic molecule."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "457",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "On the Quantum Theory of Molecules",
+          "markdown": "# On the Quantum Theory of Molecules",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "M. Bornᵃ, J.R. Oppenheimerᵇ",
+          "markdown": "M. Bornᵃ, J.R. Oppenheimerᵇ",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "affiliation",
+          "level": null,
+          "text_original": "ᵃInstitute of Theoretical Physics, Göttingen\nᵇInstitute of Theoretical Physics, Göttingen",
+          "markdown": "ᵃInstitute of Theoretical Physics, Göttingen\nᵇInstitute of Theoretical Physics, Göttingen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Abstract",
+          "markdown": "## Abstract",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.2,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It will be shown that the familiar components of the terms of a molecule; the energy of electronic motion, of the nuclear vibration and of the rotation, correspond systematically to the terms of a power series in the fourth root of the ratio of electron mass to (average) nuclear mass. The treatment yields among other things an equation for the rotation, which represents a generalization of the treatment of Kramers and Pauli (top with built-in fly-wheel). Furthermore, there appears a justification of the considerations of Franck and Condon on the intensity of band lines. The relationships are illustrated for the diatomic molecule.",
+          "markdown": "It will be shown that the familiar components of the terms of a molecule; the energy of electronic motion, of the nuclear vibration and of the rotation, correspond systematically to the terms of a power series in the fourth root of the ratio of electron mass to (average) nuclear mass. The treatment yields among other things an equation for the rotation, which represents a generalization of the treatment of Kramers and Pauli (top with built-in fly-wheel). Furthermore, there appears a justification of the considerations of Franck and Condon on the intensity of band lines. The relationships are illustrated for the diatomic molecule.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Introduction",
+          "markdown": "## Introduction",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.25,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The terms of molecular spectra are usually made up of parts of various orders of magnitude; the largest contribution comes from the electronic motion about the nuclei, then follows the contribution of the nuclear vibration, and finally that from the nuclear rotation. The basis for the possibility of such a classification obviously rests in the comparative magnitudes of nuclear and electronic masses. From the standpoint of the old quantum theory, which computed stationary states with the aid of classical mechanics, this is the concept applied by Born and Heisenberg [1]; it was shown that the energy terms appear as the terms of increasing order with respect to the ratio $\\sqrt{m/M}$, where m is the electronic mass and M an average nuclear mass. Thereby, however, nuclear rotation and vibration both appear in the second order, which contradicts empirical findings (for small rotational quantum numbers).",
+          "markdown": "The terms of molecular spectra are usually made up of parts of various orders of magnitude; the largest contribution comes from the electronic motion about the nuclei, then follows the contribution of the nuclear vibration, and finally that from the nuclear rotation. The basis for the possibility of such a classification obviously rests in the comparative magnitudes of nuclear and electronic masses. From the standpoint of the old quantum theory, which computed stationary states with the aid of classical mechanics, this is the concept applied by Born and Heisenberg [1]; it was shown that the energy terms appear as the terms of increasing order with respect to the ratio $\\sqrt{m/M}$, where m is the electronic mass and M an average nuclear mass. Thereby, however, nuclear rotation and vibration both appear in the second order, which contradicts empirical findings (for small rotational quantum numbers).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Here the problem will be approached anew from the standpoint of quantum mechanics.¹ It then becomes necessary to make our development with respect to $(m/M)^{1/4}$ rather than with respect to $\\sqrt{m/M}$, so as to obtain the natural order of energy terms. The considerations also become much simpler and more transparent than in the old theory. The nuclear vibrations correspond to terms of second order and the rotations to fourth order in the energy, while the first and third order terms vanish. The absence of the first order terms is related to the existence of an equilibrium position of the nuclei, in which the electronic energy for stationary nuclei is at a minimum. The fourth order terms for the rotational motion illustrate the generalization of the treatment of Kramers and Pauli [2] in which the the behaviour of a molecule is compared to that of a top with a built-in fly-wheel. In order to determine the eigenfunctions and thereby the transition probabilities only to the zeroth approximation, the energy calculation must be carried out to terms of fourth order (rotations). One obtains expressions for the probabilities of simultaneous jumps of electronic, vibrational and rotational quantum number through which the representations developed by Franck [3] and elaborated by Condon [4] may be given precise interpretation.",
+          "markdown": "Here the problem will be approached anew from the standpoint of quantum mechanics.¹ It then becomes necessary to make our development with respect to $(m/M)^{1/4}$ rather than with respect to $\\sqrt{m/M}$, so as to obtain the natural order of energy terms. The considerations also become much simpler and more transparent than in the old theory. The nuclear vibrations correspond to terms of second order and the rotations to fourth order in the energy, while the first and third order terms vanish. The absence of the first order terms is related to the existence of an equilibrium position of the nuclei, in which the electronic energy for stationary nuclei is at a minimum. The fourth order terms for the rotational motion illustrate the generalization of the treatment of Kramers and Pauli [2] in which the the behaviour of a molecule is compared to that of a top with a built-in fly-wheel. In order to determine the eigenfunctions and thereby the transition probabilities only to the zeroth approximation, the energy calculation must be carried out to terms of fourth order (rotations). One obtains expressions for the probabilities of simultaneous jumps of electronic, vibrational and rotational quantum number through which the representations developed by Franck [3] and elaborated by Condon [4] may be given precise interpretation.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Published originally as Annalen der Physik, 84, 457-484 (1927)\n\nTranslated by S M Blinder with emendations by Brian Sutcliffe and Wolf Geppert",
+          "markdown": "Published originally as *Annalen der Physik*, 84, 457-484 (1927)\n\nTranslated by S M Blinder with emendations by Brian Sutcliffe and Wolf Geppert",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "¹Through the discussion of the basis of this work with us, Dr. P. Jordan has helped us with valuable comments, for which we express our thanks.",
+          "markdown": "¹Through the discussion of the basis of this work with us, Dr. P. Jordan has helped us with valuable comments, for which we express our thanks.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.15
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# On the Quantum Theory of Molecules\n\nM. Bornᵃ, J.R. Oppenheimerᵇ\n\nᵃInstitute of Theoretical Physics, Göttingen\nᵇInstitute of Theoretical Physics, Göttingen\n\n## Abstract\n\nIt will be shown that the familiar components of the terms of a molecule; the energy of electronic motion, of the nuclear vibration and of the rotation, correspond systematically to the terms of a power series in the fourth root of the ratio of electron mass to (average) nuclear mass. The treatment yields among other things an equation for the rotation, which represents a generalization of the treatment of Kramers and Pauli (top with built-in fly-wheel). Furthermore, there appears a justification of the considerations of Franck and Condon on the intensity of band lines. The relationships are illustrated for the diatomic molecule.\n\n## Introduction\n\nThe terms of molecular spectra are usually made up of parts of various orders of magnitude; the largest contribution comes from the electronic motion about the nuclei, then follows the contribution of the nuclear vibration, and finally that from the nuclear rotation. The basis for the possibility of such a classification obviously rests in the comparative magnitudes of nuclear and electronic masses. From the standpoint of the old quantum theory, which computed stationary states with the aid of classical mechanics, this is the concept applied by Born and Heisenberg [1]; it was shown that the energy terms appear as the terms of increasing order with respect to the ratio $\\sqrt{m/M}$, where m is the electronic mass and M an average nuclear mass. Thereby, however, nuclear rotation and vibration both appear in the second order, which contradicts empirical findings (for small rotational quantum numbers).\n\nHere the problem will be approached anew from the standpoint of quantum mechanics.¹ It then becomes necessary to make our development with respect to $(m/M)^{1/4}$ rather than with respect to $\\sqrt{m/M}$, so as to obtain the natural order of energy terms. The considerations also become much simpler and more transparent than in the old theory. The nuclear vibrations correspond to terms of second order and the rotations to fourth order in the energy, while the first and third order terms vanish. The absence of the first order terms is related to the existence of an equilibrium position of the nuclei, in which the electronic energy for stationary nuclei is at a minimum. The fourth order terms for the rotational motion illustrate the generalization of the treatment of Kramers and Pauli [2] in which the the behaviour of a molecule is compared to that of a top with a built-in fly-wheel. In order to determine the eigenfunctions and thereby the transition probabilities only to the zeroth approximation, the energy calculation must be carried out to terms of fourth order (rotations). One obtains expressions for the probabilities of simultaneous jumps of electronic, vibrational and rotational quantum number through which the representations developed by Franck [3] and elaborated by Condon [4] may be given precise interpretation.\n\nPublished originally as *Annalen der Physik*, 84, 457-484 (1927)\n\nTranslated by S M Blinder with emendations by Brian Sutcliffe and Wolf Geppert\n\n¹Through the discussion of the basis of this work with us, Dr. P. Jordan has helped us with valuable comments, for which we express our thanks.",
+      "word_count": 520,
+      "page_quality_notes": [
+        "High-quality OCR with minor formatting issues in superscript references (e.g., ᵃ, ᵇ)"
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "458",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "The approximations to higher than fourth order will not be treated in this work; they correspond to coupling among the three basic types of motion. A calculation of this effect is only meaningful for simultaneous consideration of all degeneracies of electronic motion for stationary nuclei, especially the Heisenberg resonance degeneracy which arises from the equivalence of electrons (also possibly of some nuclei) and in diatomic molecules, from the degeneracy of the eigenrotation about the internuclear axis; these complicated considerations will be forgone here.",
+          "markdown": "### Higher-Order Approximations\n\nThe approximations to higher than fourth order will not be treated in this work; they correspond to coupling among the three basic types of motion. A calculation of this effect is only meaningful for simultaneous consideration of all degeneracies of electronic motion for stationary nuclei, especially the Heisenberg resonance degeneracy which arises from the equivalence of electrons (also possibly of some nuclei) and in diatomic molecules, from the degeneracy of the eigenrotation about the internuclear axis; these complicated considerations will be forgone here.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "As an example we will consider diatomic molecules in detail, using not only the general method but also another utilising the separation of variables in which the rotation becomes significant even in the zeroth order approximation, as Born and Hückel [5] have done it in the older quantum theory.",
+          "markdown": "### Diatomic Molecule Example\n\nAs an example we will consider diatomic molecules in detail, using not only the general method but also another utilising the separation of variables in which the rotation becomes significant even in the zeroth order approximation, as Born and Hückel [5] have done it in the older quantum theory.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Part I. Notation and Definitions",
+          "markdown": "## Part I. Notation and Definitions",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.3,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We denote the mass and rectangular coordinates of the electrons by $m, x_k, y_k, z_k$ and of the nuclei by $M_l, X_l, Y_l, Z_l$. Letting $M$ be any average value of the $M_l$, we set\n\n$$\n\\kappa = \\left(\\frac{m}{M}\\right)^{1/4} \\tag{1}\n$$\n\nand\n\n$$M_l = \\frac{M}{\\mu_l} = \\frac{m}{\\kappa^4 \\mu_l}; \\tag{2}$$\n\nthe $\\mu_l$ being dimensionless numbers of order of magnitude 1. Let the potential energy of the system be\n\n$$U(x_1, y_1, z_1, x_2, y_2, z_2, \\dots; X_1, Y_1, Z_1, X_2, Y_2, Z_2, \\dots) = U(x, X) \\tag{3}$$\n\nwhere we denote by $x$ the totality of electronic coordinates and by $X$, that of the nuclear coordinates. The function $U$ depends only on the relative positions of the particles; however, we make no use of its particular form (Coulomb's law). The kinetic energy of the electrons is represented by the operator\n\n$$T_E = -\\frac{h^2}{8\\pi^2 m} \\sum_x \\sum_k \\frac{\\partial^2}{\\partial x_k^2} \\tag{4}$$\n\nwhere the symbol $\\sum_x$ denotes the sum which arises from the above expression by cyclic permutation of $x, y$ and $z$.",
+          "markdown": "We denote the mass and rectangular coordinates of the electrons by $m, x_k, y_k, z_k$ and of the nuclei by $M_l, X_l, Y_l, Z_l$. Letting $M$ be any average value of the $M_l$, we set\n\n$$\n\\kappa = \\left(\\frac{m}{M}\\right)^{1/4} \\tag{1}\n$$\n\nand\n\n$$M_l = \\frac{M}{\\mu_l} = \\frac{m}{\\kappa^4 \\mu_l}; \\tag{2}$$\n\nthe $\\mu_l$ being dimensionless numbers of order of magnitude 1. Let the potential energy of the system be\n\n$$U(x_1, y_1, z_1, x_2, y_2, z_2, \\dots; X_1, Y_1, Z_1, X_2, Y_2, Z_2, \\dots) = U(x, X) \\tag{3}$$\n\nwhere we denote by $x$ the totality of electronic coordinates and by $X$, that of the nuclear coordinates. The function $U$ depends only on the relative positions of the particles; however, we make no use of its particular form (Coulomb's law). The kinetic energy of the electrons is represented by the operator\n\n$$T_E = -\\frac{h^2}{8\\pi^2 m} \\sum_x \\sum_k \\frac{\\partial^2}{\\partial x_k^2} \\tag{4}$$\n\nwhere the symbol $\\sum_x$ denotes the sum which arises from the above expression by cyclic permutation of $x, y$ and $z$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The kinetic energy of the nuclei is\n\n$$T_K = -\\kappa^4 \\frac{h^2}{8\\pi^2 m} \\sum_x \\sum_l \\mu_l \\frac{\\partial^2}{\\partial X_l^2}. \\tag{5}$$\n\nThe total energy is represented by the operator\n\n$$H = H_0 + \\kappa^4 H_1 \\tag{6}$$\n\nwhere\n\n$$T_E + U = H_0 \\left(x, \\frac{\\partial}{\\partial x}; X\\right)$$\n\n$$T_K = \\kappa^4 H_1 \\left(\\frac{\\partial}{\\partial X}\\right). \\tag{7}$$\n\nWe introduce now, in place of the rectangular coordinates of the nuclei, $3N - 6$ functions\n\n$$\\xi_i = \\xi_i(X) \\tag{8}$$\n\n2which denote the relative positions of the nuclei with respect to one another, and 6 functions\n\n$$\\theta_i = \\theta_i(X) \\tag{9}$$\n\nwhich determine the position and orientation of the nuclear configuration in space. One can in a symmetrical fashion introduce the rectangular coordinates $\\bar{X}_l$, $\\bar{Y}_l$, $\\bar{Z}_l$ of the nuclei relative to the instantaneous principal axes of inertia; between these there are 6 relations:\n\n$$\\sum_l M_l \\bar{X}_l = 0 \\cdots \\sum_l M_l \\bar{Y}_l \\bar{Z}_l = 0 \\cdots$$\n\nOne can thus express the $\\bar{X}_l$ by the $3N - 6$ independent parameters $\\xi_1, \\xi_2, \\dots$:\n\n$$\\bar{X}_l = \\bar{X}_l(\\xi), \\dots$$\n\nThere then exist transformations between the original and the new coordinates, of the form\n\n$$X_l = X_0 + \\sum_y \\alpha_{xy}(\\theta, \\phi, \\psi) \\bar{Y}_l(\\xi); \\tag{10}$$\n\n$X_0, Y_0, Z_0$ are the coordinates of the center of mass and the $\\alpha_{xy}$ are the coefficients of the orthogonal rotation matrix, and are thus known functions of the Eulerian angles $\\theta, \\phi, \\psi$. The quantities $X_0, Y_0, Z_0, \\theta, \\phi, \\psi$ are the functions denoted by $\\theta_i$ in (9). By (10), the $X_l$ are determined as functions of the $\\theta_i$ and $\\xi_i$; by solving, one obtains the expressions (8) and (9).$^2$",
+          "markdown": "The kinetic energy of the nuclei is\n\n$$T_K = -\\kappa^4 \\frac{h^2}{8\\pi^2 m} \\sum_x \\sum_l \\mu_l \\frac{\\partial^2}{\\partial X_l^2}. \\tag{5}$$\n\nThe total energy is represented by the operator\n\n$$H = H_0 + \\kappa^4 H_1 \\tag{6}$$\n\nwhere\n\n$$T_E + U = H_0 \\left(x, \\frac{\\partial}{\\partial x}; X\\right)$$\n\n$$T_K = \\kappa^4 H_1 \\left(\\frac{\\partial}{\\partial X}\\right). \\tag{7}$$\n\nWe introduce now, in place of the rectangular coordinates of the nuclei, $3N - 6$ functions\n\n$$\\xi_i = \\xi_i(X) \\tag{8}$$\n\nwhich denote the relative positions of the nuclei with respect to one another, and 6 functions\n\n$$\\theta_i = \\theta_i(X) \\tag{9}$$\n\nwhich determine the position and orientation of the nuclear configuration in space. One can in a symmetrical fashion introduce the rectangular coordinates $\\bar{X}_l$, $\\bar{Y}_l$, $\\bar{Z}_l$ of the nuclei relative to the instantaneous principal axes of inertia; between these there are 6 relations:\n\n$$\\sum_l M_l \\bar{X}_l = 0 \\cdots \\sum_l M_l \\bar{Y}_l \\bar{Z}_l = 0 \\cdots$$\n\nOne can thus express the $\\bar{X}_l$ by the $3N - 6$ independent parameters $\\xi_1, \\xi_2, \\dots$:\n\n$$\\bar{X}_l = \\bar{X}_l(\\xi), \\dots$$\n\nThere then exist transformations between the original and the new coordinates, of the form\n\n$$X_l = X_0 + \\sum_y \\alpha_{xy}(\\theta, \\phi, \\psi) \\bar{Y}_l(\\xi); \\tag{10}$$\n\n$X_0, Y_0, Z_0$ are the coordinates of the center of mass and the $\\alpha_{xy}$ are the coefficients of the orthogonal rotation matrix, and are thus known functions of the Eulerian angles $\\theta, \\phi, \\psi$. The quantities $X_0, Y_0, Z_0, \\theta, \\phi, \\psi$ are the functions denoted by $\\theta_i$ in (9). By (10), the $X_l$ are determined as functions of the $\\theta_i$ and $\\xi_i$; by solving, one obtains the expressions (8) and (9).$^2$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.89,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This transformation does not, of course, separate the energy $H$ into parts corresponding to translation, rotation and relative motion of the nuclei. However one can separate $H_1$ into three parts:\n\n$$H_1 = H_{\\xi\\xi} + H_{\\xi\\theta} + H_{\\theta\\theta}; \\tag{11}$$\n\n$H_{\\xi\\xi}$ is linear homogeneous in the $\\frac{\\partial^2}{\\partial \\xi_i \\partial \\xi_j}$; $H_{\\xi\\theta}$ contains the $\\frac{\\partial}{\\partial \\xi_i}$; $H_{\\theta\\theta}$ is independent of all derivatives with respect to the $\\xi_i$. One can make further generalizations about these operators. If we apply the entire operator $H_1$ to an arbitrary function $f(\\xi)$ of the relative nuclear coordinates $\\xi_i$, the resulting quantity $H_1 f(\\xi)$ must be independent of the position in space, hence of the $\\theta_i$. In particular, in $H_{\\xi\\xi}$ the coefficients of the $\\frac{\\partial^2}{\\partial \\xi_i \\partial \\xi_j}$ cannot depend on the $\\theta_i$. In contrast, these do appear in $H_{\\xi\\theta}$, associated with the $\\frac{\\partial}{\\partial \\xi_i}$, the $\\xi_i$, $\\theta_i$ and $\\frac{\\partial}{\\partial \\theta_i}$; in $H_{\\theta\\theta}$ associated with $\\frac{\\partial^2}{\\partial \\theta_i \\partial \\theta_j}$ the $\\frac{\\partial}{\\partial \\theta_i}$, $\\xi_i$ and $\\theta_i$.",
+          "markdown": "This transformation does not, of course, separate the energy $H$ into parts corresponding to translation, rotation and relative motion of the nuclei. However one can separate $H_1$ into three parts:\n\n$$H_1 = H_{\\xi\\xi} + H_{\\xi\\theta} + H_{\\theta\\theta}; \\tag{11}$$\n\n$H_{\\xi\\xi}$ is linear homogeneous in the $\\frac{\\partial^2}{\\partial \\xi_i \\partial \\xi_j}$; $H_{\\xi\\theta}$ contains the $\\frac{\\partial}{\\partial \\xi_i}$; $H_{\\theta\\theta}$ is independent of all derivatives with respect to the $\\xi_i$. One can make further generalizations about these operators. If we apply the entire operator $H_1$ to an arbitrary function $f(\\xi)$ of the relative nuclear coordinates $\\xi_i$, the resulting quantity $H_1 f(\\xi)$ must be independent of the position in space, hence of the $\\theta_i$. In particular, in $H_{\\xi\\xi}$ the coefficients of the $\\frac{\\partial^2}{\\partial \\xi_i \\partial \\xi_j}$ cannot depend on the $\\theta_i$. In contrast, these do appear in $H_{\\xi\\theta}$, associated with the $\\frac{\\partial}{\\partial \\xi_i}$, the $\\xi_i$, $\\theta_i$ and $\\frac{\\partial}{\\partial \\theta_i}$; in $H_{\\theta\\theta}$ associated with $\\frac{\\partial^2}{\\partial \\theta_i \\partial \\theta_j}$ the $\\frac{\\partial}{\\partial \\theta_i}$, $\\xi_i$ and $\\theta_i$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We will consider these operators explicitly for diatomic molecules.\n\nThe mechanical problem we must solve is\n\n$$(H_0 + \\kappa^4 H_1 - W)\\psi = 0. \\tag{12}$$\n\nWe will show that any arbitrary solution which corresponds to a combination of nuclei and electrons forming a stable molecule can be found by a development in a power series in $\\kappa$.",
+          "markdown": "We will consider these operators explicitly for diatomic molecules.\n\nThe mechanical problem we must solve is\n\n$$(H_0 + \\kappa^4 H_1 - W)\\psi = 0. \\tag{12}$$\n\nWe will show that any arbitrary solution which corresponds to a combination of nuclei and electrons forming a stable molecule can be found by a development in a power series in $\\kappa$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.15
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "### Higher-Order Approximations\n\nThe approximations to higher than fourth order will not be treated in this work; they correspond to coupling among the three basic types of motion. A calculation of this effect is only meaningful for simultaneous consideration of all degeneracies of electronic motion for stationary nuclei, especially the Heisenberg resonance degeneracy which arises from the equivalence of electrons (also possibly of some nuclei) and in diatomic molecules, from the degeneracy of the eigenrotation about the internuclear axis; these complicated considerations will be forgone here.\n\n### Diatomic Molecule Example\n\nAs an example we will consider diatomic molecules in detail, using not only the general method but also another utilising the separation of variables in which the rotation becomes significant even in the zeroth order approximation, as Born and Hückel [5] have done it in the older quantum theory.\n\n## Part I. Notation and Definitions\n\nWe denote the mass and rectangular coordinates of the electrons by $m, x_k, y_k, z_k$ and of the nuclei by $M_l, X_l, Y_l, Z_l$. Letting $M$ be any average value of the $M_l$, we set\n\n$$\n\\kappa = \\left(\\frac{m}{M}\\right)^{1/4} \\tag{1}\n$$\n\nand\n\n$$M_l = \\frac{M}{\\mu_l} = \\frac{m}{\\kappa^4 \\mu_l}; \\tag{2}$$\n\nthe $\\mu_l$ being dimensionless numbers of order of magnitude 1. Let the potential energy of the system be\n\n$$U(x_1, y_1, z_1, x_2, y_2, z_2, \\dots; X_1, Y_1, Z_1, X_2, Y_2, Z_2, \\dots) = U(x, X) \\tag{3}$$\n\nwhere we denote by $x$ the totality of electronic coordinates and by $X$, that of the nuclear coordinates. The function $U$ depends only on the relative positions of the particles; however, we make no use of its particular form (Coulomb's law). The kinetic energy of the electrons is represented by the operator\n\n$$T_E = -\\frac{h^2}{8\\pi^2 m} \\sum_x \\sum_k \\frac{\\partial^2}{\\partial x_k^2} \\tag{4}$$\n\nwhere the symbol $\\sum_x$ denotes the sum which arises from the above expression by cyclic permutation of $x, y$ and $z$.\n\nThe kinetic energy of the nuclei is\n\n$$T_K = -\\kappa^4 \\frac{h^2}{8\\pi^2 m} \\sum_x \\sum_l \\mu_l \\frac{\\partial^2}{\\partial X_l^2}. \\tag{5}$$\n\nThe total energy is represented by the operator\n\n$$H = H_0 + \\kappa^4 H_1 \\tag{6}$$\n\nwhere\n\n$$T_E + U = H_0 \\left(x, \\frac{\\partial}{\\partial x}; X\\right)$$\n\n$$T_K = \\kappa^4 H_1 \\left(\\frac{\\partial}{\\partial X}\\right). \\tag{7}$$\n\nWe introduce now, in place of the rectangular coordinates of the nuclei, $3N - 6$ functions\n\n$$\\xi_i = \\xi_i(X) \\tag{8}$$\n\nwhich denote the relative positions of the nuclei with respect to one another, and 6 functions\n\n$$\\theta_i = \\theta_i(X) \\tag{9}$$\n\nwhich determine the position and orientation of the nuclear configuration in space. One can in a symmetrical fashion introduce the rectangular coordinates $\\bar{X}_l$, $\\bar{Y}_l$, $\\bar{Z}_l$ of the nuclei relative to the instantaneous principal axes of inertia; between these there are 6 relations:\n\n$$\\sum_l M_l \\bar{X}_l = 0 \\cdots \\sum_l M_l \\bar{Y}_l \\bar{Z}_l = 0 \\cdots$$\n\nOne can thus express the $\\bar{X}_l$ by the $3N - 6$ independent parameters $\\xi_1, \\xi_2, \\dots$:\n\n$$\\bar{X}_l = \\bar{X}_l(\\xi), \\dots$$\n\nThere then exist transformations between the original and the new coordinates, of the form\n\n$$X_l = X_0 + \\sum_y \\alpha_{xy}(\\theta, \\phi, \\psi) \\bar{Y}_l(\\xi); \\tag{10}$$\n\n$X_0, Y_0, Z_0$ are the coordinates of the center of mass and the $\\alpha_{xy}$ are the coefficients of the orthogonal rotation matrix, and are thus known functions of the Eulerian angles $\\theta, \\phi, \\psi$. The quantities $X_0, Y_0, Z_0, \\theta, \\phi, \\psi$ are the functions denoted by $\\theta_i$ in (9). By (10), the $X_l$ are determined as functions of the $\\theta_i$ and $\\xi_i$; by solving, one obtains the expressions (8) and (9).$^2$\n\nThis transformation does not, of course, separate the energy $H$ into parts corresponding to translation, rotation and relative motion of the nuclei. However one can separate $H_1$ into three parts:\n\n$$H_1 = H_{\\xi\\xi} + H_{\\xi\\theta} + H_{\\theta\\theta}; \\tag{11}$$\n\n$H_{\\xi\\xi}$ is linear homogeneous in the $\\frac{\\partial^2}{\\partial \\xi_i \\partial \\xi_j}$; $H_{\\xi\\theta}$ contains the $\\frac{\\partial}{\\partial \\xi_i}$; $H_{\\theta\\theta}$ is independent of all derivatives with respect to the $\\xi_i$. One can make further generalizations about these operators. If we apply the entire operator $H_1$ to an arbitrary function $f(\\xi)$ of the relative nuclear coordinates $\\xi_i$, the resulting quantity $H_1 f(\\xi)$ must be independent of the position in space, hence of the $\\theta_i$. In particular, in $H_{\\xi\\xi}$ the coefficients of the $\\frac{\\partial^2}{\\partial \\xi_i \\partial \\xi_j}$ cannot depend on the $\\theta_i$. In contrast, these do appear in $H_{\\xi\\theta}$, associated with the $\\frac{\\partial}{\\partial \\xi_i}$, the $\\xi_i$, $\\theta_i$ and $\\frac{\\partial}{\\partial \\theta_i}$; in $H_{\\theta\\theta}$ associated with $\\frac{\\partial^2}{\\partial \\theta_i \\partial \\theta_j}$ the $\\frac{\\partial}{\\partial \\theta_i}$, $\\xi_i$ and $\\theta_i$.\n\nWe will consider these operators explicitly for diatomic molecules.\n\nThe mechanical problem we must solve is\n\n$$(H_0 + \\kappa^4 H_1 - W)\\psi = 0. \\tag{12}$$\n\nWe will show that any arbitrary solution which corresponds to a combination of nuclei and electrons forming a stable molecule can be found by a development in a power series in $\\kappa$.",
+      "word_count": 680,
+      "page_quality_notes": [
+        "Complex mathematical notation with multiple equations requiring verification",
+        "Superscript references (e.g., ²) need manual review"
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "459",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Part II. Electronic Motion for Stationary Nuclei",
+          "markdown": "## Part II. Electronic Motion for Stationary Nuclei",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.4,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If one sets $\\kappa = 0$ in (12) one obtains a differential equation in the $x_k$ alone, the $X_l$ appearing as parameters:\n\n$$\\left\\{ H_0 \\left( x, \\frac{\\partial}{\\partial x}; X \\right) - W \\right\\} \\psi = 0. \\tag{13}$$\n\n$^3$This represents the electronic motion for stationary nuclei. We assume this eigenvalue problem is solved. The eigenvalues depend only on the functions $\\xi_i$ of the $X_i$; then one can use the coordinate system defined by the principal axes of inertia, i.e. let $X_i = \\bar{X}_i(\\xi)$. In this system of axes, the eigenfunctions depend, besides on $x_k$, only on the $\\xi_i$; however, if one transforms back to the arbitrary space-fixed axes, the $\\theta_i$ again become involved.",
+          "markdown": "If one sets $\\kappa = 0$ in (12) one obtains a differential equation in the $x_k$ alone, the $X_l$ appearing as parameters:\n\n$$\\left\\{ H_0 \\left( x, \\frac{\\partial}{\\partial x}; X \\right) - W \\right\\} \\psi = 0. \\tag{13}$$\n\n$^3$This represents the electronic motion for stationary nuclei. We assume this eigenvalue problem is solved. The eigenvalues depend only on the functions $\\xi_i$ of the $X_i$; then one can use the coordinate system defined by the principal axes of inertia, i.e. let $X_i = \\bar{X}_i(\\xi)$. In this system of axes, the eigenfunctions depend, besides on $x_k$, only on the $\\xi_i$; however, if one transforms back to the arbitrary space-fixed axes, the $\\theta_i$ again become involved.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Superscript reference (³) needs verification"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We designate the $n$th eigenvalue and the corresponding normalized eigenfunction as\n\n$$W = V_n(\\xi) \\quad \\psi = \\phi_n(x; \\xi, \\theta) \\tag{14}$$\n\nso that the identity\n\n$$\\left\\{ H_0 \\left( x, \\frac{\\partial}{\\partial x}; \\xi, \\theta \\right) - V_n(\\xi) \\right\\} \\phi_n(x; \\xi, \\theta) = 0 \\tag{15}$$\n\nis valid. Here we assume that $V_n$ is a nondegenerate eigenvalue. As a matter of fact, this is never the case since the indistinguishability of the electrons introduces the resonance degeneracy, discovered by Heisenberg and Dirac; for diatomic molecules there is an additional degeneracy of the angular momentum about the axis. But since we are concerned here only with the systematics of the approximation procedure, we will not consider these degeneracies. Their consideration would result in secular equations in the higher approximation.",
+          "markdown": "We designate the $n$th eigenvalue and the corresponding normalized eigenfunction as\n\n$$W = V_n(\\xi) \\quad \\psi = \\phi_n(x; \\xi, \\theta) \\tag{14}$$\n\nso that the identity\n\n$$\\left\\{ H_0 \\left( x, \\frac{\\partial}{\\partial x}; \\xi, \\theta \\right) - V_n(\\xi) \\right\\} \\phi_n(x; \\xi, \\theta) = 0 \\tag{15}$$\n\nis valid. Here we assume that $V_n$ is a nondegenerate eigenvalue. As a matter of fact, this is never the case since the indistinguishability of the electrons introduces the resonance degeneracy, discovered by Heisenberg and Dirac; for diatomic molecules there is an additional degeneracy of the angular momentum about the axis. But since we are concerned here only with the systematics of the approximation procedure, we will not consider these degeneracies. Their consideration would result in secular equations in the higher approximation.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The most important goal of our investigation is the proof that the function $V_n(\\xi)$ plays the role of a potential for the nuclear motion. For this we must have several auxiliary formulas which will be derived now. It is necessary to show that the matrix corresponding to the derivative of the operator $H_0(x, \\frac{\\partial}{\\partial x}; \\xi, \\theta)$ with respect to $\\xi_i$, (for constant $x, \\frac{\\partial}{\\partial x}$) can be related to the derivative of the function $V_n(\\xi)$.\n\nInstead of taking the derivative with respect to the $\\xi_i$ directly, we replace the $\\xi_i$ by $\\xi_i + \\kappa\\zeta_i$ and differentiate with respect to $\\kappa$; the coefficient of a power of $\\kappa$ is then a homogeneous polynomial in $\\zeta_i$, these coefficients being derivatives with respect to $\\xi_i$. Thus we write\n\n$$V_n(\\xi + \\kappa\\zeta) = V_n^{(0)} + \\kappa V_n^{(1)} + \\kappa^2 V_n^{(2)} + \\dots, \\tag{16}$$\n\nwhere\n\n$$\\begin{array}{l} \\text{a)} \\quad V_n^{(0)} = V_n(\\xi) \\\\ \\text{b)} \\quad V_n^{(1)} = \\sum_i \\zeta_i \\frac{\\partial V_n}{\\partial \\xi_i} \\\\ \\text{c)} \\quad V_n^{(2)} = \\frac{1}{2} \\sum_{ij} \\zeta_i \\zeta_j \\frac{\\partial^2 V_n}{\\partial \\xi_i \\partial \\xi_j}, \\end{array} \\tag{17}$$\n\n...",
+          "markdown": "The most important goal of our investigation is the proof that the function $V_n(\\xi)$ plays the role of a potential for the nuclear motion. For this we must have several auxiliary formulas which will be derived now. It is necessary to show that the matrix corresponding to the derivative of the operator $H_0(x, \\frac{\\partial}{\\partial x}; \\xi, \\theta)$ with respect to $\\xi_i$, (for constant $x, \\frac{\\partial}{\\partial x}$) can be related to the derivative of the function $V_n(\\xi)$.\n\nInstead of taking the derivative with respect to the $\\xi_i$ directly, we replace the $\\xi_i$ by $\\xi_i + \\kappa\\zeta_i$ and differentiate with respect to $\\kappa$; the coefficient of a power of $\\kappa$ is then a homogeneous polynomial in $\\zeta_i$, these coefficients being derivatives with respect to $\\xi_i$. Thus we write\n\n$$V_n(\\xi + \\kappa\\zeta) = V_n^{(0)} + \\kappa V_n^{(1)} + \\kappa^2 V_n^{(2)} + \\dots, \\tag{16}$$\n\nwhere\n\n$$\\begin{array}{l} \\text{a)} \\quad V_n^{(0)} = V_n(\\xi) \\\\ \\text{b)} \\quad V_n^{(1)} = \\sum_i \\zeta_i \\frac{\\partial V_n}{\\partial \\xi_i} \\\\ \\text{c)} \\quad V_n^{(2)} = \\frac{1}{2} \\sum_{ij} \\zeta_i \\zeta_j \\frac{\\partial^2 V_n}{\\partial \\xi_i \\partial \\xi_j}, \\end{array} \\tag{17}$$\n\n...",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "and correspondingly\n\n$$\\begin{array}{l} H_0 = H_0^{(0)} + \\kappa H_0^{(1)} + \\kappa^2 H_0^{(2)} + \\dots \\\\ \\phi_n = \\phi_n^{(0)} + \\kappa \\phi_n^{(1)} + \\kappa^2 \\phi_n^{(2)} + \\dots \\\\ \\dots \\dots \\dots \\dots \\end{array} \\tag{18}$$\n\nOne can now develop the quantities $\\phi_n^{(1)}, \\phi_n^{(2)}$ in the eigenfunctions $\\phi_n^{(0)}(x; \\xi, \\theta)$, setting\n\n$$\\begin{array}{l} \\text{a)} \\quad \\phi_n^{(1)} = \\sum_{n'} u_{nn'}^{(1)} \\phi_{n'}^{(0)}, \\\\ \\text{b)} \\quad \\phi_n^{(2)} = \\sum_{n'} u_{nn'}^{(2)} \\phi_{n'}^{(0)}. \\end{array} \\tag{19}$$\n\nThus $u_{nn'}^{(r)}$ is a homogeneous polynomial of the $r$th order in $\\zeta_i$, for instance\n\n$$u_{nn'}^{(1)} = \\sum_i \\zeta_i \\int \\overline{\\phi_{n'}^{(0)}} \\frac{\\partial \\phi_n^{(0)}}{\\partial \\xi_i} \\mathrm{d}x$$\n\n$$u_{nn'}^{(2)} = \\sum_{ij} \\zeta_i \\zeta_j \\int \\overline{\\phi_{n'}^{(0)}} \\frac{\\partial^2 \\phi_n^{(0)}}{\\partial \\xi_i \\partial \\xi_j} \\mathrm{d}x. \\tag{20}$$\n\nThese integrals, in which $\\mathrm{d}x$ denotes the volume element in configuration space, are independent of the orientation of the nuclear system in space, hence independent of the $\\theta_i$; one can thus evaluate them in the principal axis system.",
+          "markdown": "and correspondingly\n\n$$\\begin{array}{l} H_0 = H_0^{(0)} + \\kappa H_0^{(1)} + \\kappa^2 H_0^{(2)} + \\dots \\\\ \\phi_n = \\phi_n^{(0)} + \\kappa \\phi_n^{(1)} + \\kappa^2 \\phi_n^{(2)} + \\dots \\\\ \\dots \\dots \\dots \\dots \\end{array} \\tag{18}$$\n\nOne can now develop the quantities $\\phi_n^{(1)}, \\phi_n^{(2)}$ in the eigenfunctions $\\phi_n^{(0)}(x; \\xi, \\theta)$, setting\n\n$$\\begin{array}{l} \\text{a)} \\quad \\phi_n^{(1)} = \\sum_{n'} u_{nn'}^{(1)} \\phi_{n'}^{(0)}, \\\\ \\text{b)} \\quad \\phi_n^{(2)} = \\sum_{n'} u_{nn'}^{(2)} \\phi_{n'}^{(0)}. \\end{array} \\tag{19}$$\n\nThus $u_{nn'}^{(r)}$ is a homogeneous polynomial of the $r$th order in $\\zeta_i$, for instance\n\n$$u_{nn'}^{(1)} = \\sum_i \\zeta_i \\int \\overline{\\phi_{n'}^{(0)}} \\frac{\\partial \\phi_n^{(0)}}{\\partial \\xi_i} \\mathrm{d}x$$\n\n$$u_{nn'}^{(2)} = \\sum_{ij} \\zeta_i \\zeta_j \\int \\overline{\\phi_{n'}^{(0)}} \\frac{\\partial^2 \\phi_n^{(0)}}{\\partial \\xi_i \\partial \\xi_j} \\mathrm{d}x. \\tag{20}$$\n\nThese integrals, in which $\\mathrm{d}x$ denotes the volume element in configuration space, are independent of the orientation of the nuclear system in space, hence independent of the $\\theta_i$; one can thus evaluate them in the principal axis system.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If now, $F$ denotes any operator on the $x_i$, we define the $r$th order matrix element of $F$\n\n$$\\int \\overline{\\phi_{n'}^{(0)}} F \\phi_n^{(r)} \\mathrm{d}x = F_{nn'}^{(r)}. \\tag{21}$$\n\nFor $r = 0$ this becomes the usual matrix element\n\n$$F_{nn'}^{(0)} = F_{nn'} = \\int \\overline{\\phi_{n'}^{(0)}} F \\phi_n^{(0)} \\mathrm{d}x. \\tag{22}$$\n\nIn general, by (19),\n\n$$F_{nn'}^{(r)} = \\sum_{n''} u_{nn''}^{(r)} F_{n''n'}. \\tag{23}$$\n\nUsing (15) for $\\kappa = 0$\n\n$$(H_0^{(0)} - V_n^{(0)})_{nn'}^{(r)} = u_{nn'}^{(r)} (V_{n'}^{(0)} - V_n^{(0)}). \\tag{24}$$\n\nFurthermore, we obtain by substituting (16) and (18) in (15), the following identities:\n\na) $(H_0^{(0)} - V_n^{(0)})\\phi_n^{(1)} + (H_0^{(1)} - V_n^{(1)})\\phi_n^{(0)} = 0$\n\nb) $(H_0^{(0)} - V_n^{(0)})\\phi_n^{(2)} + (H_0^{(1)} - V_n^{(1)})\\phi_n^{(1)} + (H_0^{(2)} - V_n^{(2)})\\phi_n^{(0)} = 0$\n\n...",
+          "markdown": "If now, $F$ denotes any operator on the $x_i$, we define the $r$th order matrix element of $F$\n\n$$\\int \\overline{\\phi_{n'}^{(0)}} F \\phi_n^{(r)} \\mathrm{d}x = F_{nn'}^{(r)}. \\tag{21}$$\n\nFor $r = 0$ this becomes the usual matrix element\n\n$$F_{nn'}^{(0)} = F_{nn'} = \\int \\overline{\\phi_{n'}^{(0)}} F \\phi_n^{(0)} \\mathrm{d}x. \\tag{22}$$\n\nIn general, by (19),\n\n$$F_{nn'}^{(r)} = \\sum_{n''} u_{nn''}^{(r)} F_{n''n'}. \\tag{23}$$\n\nUsing (15) for $\\kappa = 0$\n\n$$(H_0^{(0)} - V_n^{(0)})_{nn'}^{(r)} = u_{nn'}^{(r)} (V_{n'}^{(0)} - V_n^{(0)}). \\tag{24}$$\n\nFurthermore, we obtain by substituting (16) and (18) in (15), the following identities:\n\na) $(H_0^{(0)} - V_n^{(0)})\\phi_n^{(1)} + (H_0^{(1)} - V_n^{(1)})\\phi_n^{(0)} = 0$\n\nb) $(H_0^{(0)} - V_n^{(0)})\\phi_n^{(2)} + (H_0^{(1)} - V_n^{(1)})\\phi_n^{(1)} + (H_0^{(2)} - V_n^{(2)})\\phi_n^{(0)} = 0$\n\n...",
+          "asset_id": null,
+          "suggested_filename": "pictures/equation_p003.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.88,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "³The classical analogue to the simplest deduction from these formulae, namely the identity $(H_0^{(1)})_{nn} = V_n^{(1)}$ which follows from (26a) for $n = n'$, is found in [7]; compare especially with § 4, formula (11).",
+          "markdown": "³The classical analogue to the simplest deduction from these formulae, namely the identity $(H_0^{(1)})_{nn} = V_n^{(1)}$ which follows from (26a) for $n = n'$ is found in [7]; compare especially with § 4, formula (11).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## Part II. Electronic Motion for Stationary Nuclei\n\nIf one sets $\\kappa = 0$ in (12) one obtains a differential equation in the $x_k$ alone, the $X_l$ appearing as parameters:\n\n$$\\left\\{ H_0 \\left( x, \\frac{\\partial}{\\partial x}; X \\right) - W \\right\\} \\psi = 0. \\tag{13}$$\n\n$^3$This represents the electronic motion for stationary nuclei. We assume this eigenvalue problem is solved. The eigenvalues depend only on the functions $\\xi_i$ of the $X_i$; then one can use the coordinate system defined by the principal axes of inertia, i.e. let $X_i = \\bar{X}_i(\\xi)$. In this system of axes, the eigenfunctions depend, besides on $x_k$, only on the $\\xi_i$; however, if one transforms back to the arbitrary space-fixed axes, the $\\theta_i$ again become involved.\n\nWe designate the $n$th eigenvalue and the corresponding normalized eigenfunction as\n\n$$W = V_n(\\xi) \\quad \\psi = \\phi_n(x; \\xi, \\theta) \\tag{14}$$\n\nso that the identity\n\n$$\\left\\{ H_0 \\left( x, \\frac{\\partial}{\\partial x}; \\xi, \\theta \\right) - V_n(\\xi) \\right\\} \\phi_n(x; \\xi, \\theta) = 0 \\tag{15}$$\n\nis valid. Here we assume that $V_n$ is a nondegenerate eigenvalue. As a matter of fact, this is never the case since the indistinguishability of the electrons introduces the resonance degeneracy, discovered by Heisenberg and Dirac; for diatomic molecules there is an additional degeneracy of the angular momentum about the axis. But since we are concerned here only with the systematics of the approximation procedure, we will not consider these degeneracies. Their consideration would result in secular equations in the higher approximation.\n\nThe most important goal of our investigation is the proof that the function $V_n(\\xi)$ plays the role of a potential for the nuclear motion. For this we must have several auxiliary formulas which will be derived now. It is necessary to show that the matrix corresponding to the derivative of the operator $H_0(x, \\frac{\\partial}{\\partial x}; \\xi, \\theta)$ with respect to $\\xi_i$, (for constant $x, \\frac{\\partial}{\\partial x}$) can be related to the derivative of the function $V_n(\\xi)$.\n\nInstead of taking the derivative with respect to the $\\xi_i$ directly, we replace the $\\xi_i$ by $\\xi_i + \\kappa\\zeta_i$ and differentiate with respect to $\\kappa$; the coefficient of a power of $\\kappa$ is then a homogeneous polynomial in $\\zeta_i$, these coefficients being derivatives with respect to $\\xi_i$. Thus we write\n\n$$V_n(\\xi + \\kappa\\zeta) = V_n^{(0)} + \\kappa V_n^{(1)} + \\kappa^2 V_n^{(2)} + \\dots, \\tag{16}$$\n\nwhere\n\n$$\\begin{array}{l} \\text{a)} \\quad V_n^{(0)} = V_n(\\xi) \\\\ \\text{b)} \\quad V_n^{(1)} = \\sum_i \\zeta_i \\frac{\\partial V_n}{\\partial \\xi_i} \\\\ \\text{c)} \\quad V_n^{(2)} = \\frac{1}{2} \\sum_{ij} \\zeta_i \\zeta_j \\frac{\\partial^2 V_n}{\\partial \\xi_i \\partial \\xi_j}, \\end{array} \\tag{17}$$\n\n...\n\nand correspondingly\n\n$$\\begin{array}{l} H_0 = H_0^{(0)} + \\kappa H_0^{(1)} + \\kappa^2 H_0^{(2)} + \\dots \\\\ \\phi_n = \\phi_n^{(0)} + \\kappa \\phi_n^{(1)} + \\kappa^2 \\phi_n^{(2)} + \\dots \\\\ \\dots \\dots \\dots \\dots \\end{array} \\tag{18}$$\n\nOne can now develop the quantities $\\phi_n^{(1)}, \\phi_n^{(2)}$ in the eigenfunctions $\\phi_n^{(0)}(x; \\xi, \\theta)$, setting\n\n$$\\begin{array}{l} \\text{a)} \\quad \\phi_n^{(1)} = \\sum_{n'} u_{nn'}^{(1)} \\phi_{n'}^{(0)}, \\\\ \\text{b)} \\quad \\phi_n^{(2)} = \\sum_{n'} u_{nn'}^{(2)} \\phi_{n'}^{(0)}. \\end{array} \\tag{19}$$\n\nThus $u_{nn'}^{(r)}$ is a homogeneous polynomial of the $r$th order in $\\zeta_i$, for instance\n\n$$u_{nn'}^{(1)} = \\sum_i \\zeta_i \\int \\overline{\\phi_{n'}^{(0)}} \\frac{\\partial \\phi_n^{(0)}}{\\partial \\xi_i} \\mathrm{d}x$$\n\n$$u_{nn'}^{(2)} = \\sum_{ij} \\zeta_i \\zeta_j \\int \\overline{\\phi_{n'}^{(0)}} \\frac{\\partial^2 \\phi_n^{(0)}}{\\partial \\xi_i \\partial \\xi_j} \\mathrm{d}x. \\tag{20}$$\n\nThese integrals, in which $\\mathrm{d}x$ denotes the volume element in configuration space, are independent of the orientation of the nuclear system in space, hence independent of the $\\theta_i$; one can thus evaluate them in the principal axis system.\n\nIf now, $F$ denotes any operator on the $x_i$, we define the $r$th order matrix element of $F$\n\n$$\\int \\overline{\\phi_{n'}^{(0)}} F \\phi_n^{(r)} \\mathrm{d}x = F_{nn'}^{(r)}. \\tag{21}$$\n\nFor $r = 0$ this becomes the usual matrix element\n\n$$F_{nn'}^{(0)} = F_{nn'} = \\int \\overline{\\phi_{n'}^{(0)}} F \\phi_n^{(0)} \\mathrm{d}x. \\tag{22}$$\n\nIn general, by (19),\n\n$$F_{nn'}^{(r)} = \\sum_{n''} u_{nn''}^{(r)} F_{n''n'}. \\tag{23}$$\n\nUsing (15) for $\\kappa = 0$\n\n$$(H_0^{(0)} - V_n^{(0)})_{nn'}^{(r)} = u_{nn'}^{(r)} (V_{n'}^{(0)} - V_n^{(0)}). \\tag{24}$$\n\nFurthermore, we obtain by substituting (16) and (18) in (15), the following identities:\n\na) $(H_0^{(0)} - V_n^{(0)})\\phi_n^{(1)} + (H_0^{(1)} - V_n^{(1)})\\phi_n^{(0)} = 0$\n\nb) $(H_0^{(0)} - V_n^{(0)})\\phi_n^{(2)} + (H_0^{(1)} - V_n^{(1)})\\phi_n^{(1)} + (H_0^{(2)} - V_n^{(2)})\\phi_n^{(0)} = 0$\n\n...\n\n³The classical analogue to the simplest deduction from these formulae, namely the identity $(H_0^{(1)})_{nn} = V_n^{(1)}$ which follows from (26a) for $n = n'$ is found in [7]; compare especially with § 4, formula (11).",
+      "word_count": 720,
+      "page_quality_notes": [
+        "Complex mathematical notation with multiple equations requiring verification",
+        "Superscript references (e.g., ³) need manual review"
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "460",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Multiplying these by $\\overline{\\phi_{n'}^{(0)}}$ and integrating over the $x_i$, by virtue of (24) we find:",
+          "markdown": "### Matrix Element Derivations\n\nMultiplying these by $\\overline{\\phi_{n'}^{(0)}}$ and integrating over the $x_i$, by virtue of (24) we find:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.5,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "a) $u_{nn'}^{(1)}(V_{n'}^{(0)} - V_n^{(0)}) + (H_0^{(1)})_{nn'} - V_n^{(1)}\\delta_{nn'} = 0$\n\nb) $u_{nn'}^{(2)}(V_{n'}^{(0)} - V_n^{(0)}) + (H_0^{(1)} - V_n^{(1)})_{nn'} + (H_0^{(2)})_{nn'} - V_n^{(2)}\\delta_{nn'} = 0$\n\n...\n\nFrom these one can compute the $(H_0^{(1)})_{nn'}$, $(H_0^{(2)})_{nn'}$, ..., i.e the matrix elements $\\left(\\frac{\\partial H_0}{\\partial \\xi_i}\\right)_{nn'}$, $\\left(\\frac{\\partial^2 H_0}{\\partial \\xi_i \\partial \\xi_j}\\right)_{nn'}$, ... We will later apply these formulas.$^3$",
+          "markdown": "a) $u_{nn'}^{(1)}(V_{n'}^{(0)} - V_n^{(0)}) + (H_0^{(1)})_{nn'} - V_n^{(1)}\\delta_{nn'} = 0$\n\nb) $u_{nn'}^{(2)}(V_{n'}^{(0)} - V_n^{(0)}) + (H_0^{(1)} - V_n^{(1)})_{nn'} + (H_0^{(2)})_{nn'} - V_n^{(2)}\\delta_{nn'} = 0$\n\n...\n\nFrom these one can compute the $(H_0^{(1)})_{nn'}$, $(H_0^{(2)})_{nn'}$, ..., i.e the matrix elements $\\left(\\frac{\\partial H_0}{\\partial \\xi_i}\\right)_{nn'}$, $\\left(\\frac{\\partial^2 H_0}{\\partial \\xi_i \\partial \\xi_j}\\right)_{nn'}$, ... We will later apply these formulas.$^3$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Part III. Setting-up the Approximate Equations",
+          "markdown": "## Part III. Setting-up the Approximate Equations",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "An arbitrary configuration of electrons and nuclei cannot always be treated by a general approximation procedure. We will here consider only states which correspond to a stable molecule. We will begin with the following question:\n\nIs there a system of values of the relative nuclear coordinates $\\xi_i$ such that the eigenfunctions $\\psi_n$ of the energy operator (6), in so far as they depend on the $\\xi_i$, have values significantly different from zero only in a small neighbourhood of this set?\n\nThis wave-mechanical requirement corresponds obviously to the classical condition that the nuclei undergo only small oscillations about the equilibrium configuration; the $|\\psi_n|^2$ is the probability of finding a certain configuration of given energy.",
+          "markdown": "### Stable Molecule Conditions\n\nAn arbitrary configuration of electrons and nuclei cannot always be treated by a general approximation procedure. We will here consider only states which correspond to a stable molecule. We will begin with the following question:\n\nIs there a system of values of the relative nuclear coordinates $\\xi_i$ such that the eigenfunctions $\\psi_n$ of the energy operator (6), in so far as they depend on the $\\xi_i$, have values significantly different from zero only in a small neighbourhood of this set?\n\nThis wave-mechanical requirement corresponds obviously to the classical condition that the nuclei undergo only small oscillations about the equilibrium configuration; the $|\\psi_n|^2$ is the probability of finding a certain configuration of given energy.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We consider, as the unperturbed system, the electronic motion for an arbitrary but henceforth fixed nuclear configuration, $\\xi_i$. We then develop all quantities with respect to small changes of the $\\xi_i$, which we designate by $\\kappa\\zeta_i$; we presume then that the “domain” of oscillation is such that $\\kappa$ is close to zero, an assumption which is only justified by its success.\n\nWe have then as in (18), part II, the development\n\n$$H_0(x, \\frac{\\partial}{\\partial x}; \\xi + \\kappa\\zeta, \\theta) = H_0^{(0)} + \\kappa H_0^{(1)} + \\kappa^2 H_0^{(2)} + \\dots, \\tag{27}$$\n\nwhere\n\n$$a) \\quad H_0^{(0)} = H_0(x, \\frac{\\partial}{\\partial x}; \\xi),$$\n\n$$b) \\quad H_0^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_0}{\\partial \\xi_i}, \\tag{28}$$\n\n$$c) \\quad H_0^{(2)} = \\frac{1}{2} \\sum_{ij} \\zeta_i \\zeta_j \\frac{\\partial^2 H_0}{\\partial \\xi_i \\partial \\xi_j},$$\n\nand from (11) since $\\frac{\\partial}{\\partial \\xi} = \\frac{1}{\\kappa} \\frac{\\partial}{\\partial \\zeta}$\n\n$$\\kappa^4 H_1(X, \\frac{\\partial}{\\partial X}) = \\kappa^4 \\left( \\frac{1}{\\kappa^2} H_{\\zeta\\zeta} + \\frac{1}{\\kappa} H_{\\zeta\\theta} + H_{\\theta\\theta} \\right) \\tag{29}$$\n\n$$= \\kappa^2 H_{\\zeta\\zeta}^{(0)} + \\kappa^3 \\left( H_{\\zeta\\theta}^{(0)} + H_{\\zeta\\zeta}^{(1)} \\right) + \\kappa^4 \\left( H_{\\theta\\theta}^{(0)} + H_{\\zeta\\theta}^{(1)} + H_{\\zeta\\zeta}^{(2)} \\right) + \\dots$$\n\nwhere\n\n$$a) \\quad H_{\\zeta\\zeta}^{(0)} = H_{\\zeta\\zeta}^{(0)}(\\xi, \\frac{\\partial^2}{\\partial \\zeta_i \\partial \\zeta_j})$$\n\n$$b) \\quad H_{\\zeta\\zeta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\zeta\\zeta}^{(0)}}{\\partial \\xi_i} \\tag{30}$$\n\n$$a) \\quad H_{\\zeta\\theta}^{(0)} = H_{\\zeta\\theta}^{(0)}(\\xi, \\theta, \\frac{\\partial}{\\partial \\zeta}, \\frac{\\partial}{\\partial \\theta})$$\n\n$$b) \\quad H_{\\zeta\\theta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\zeta\\theta}^{(0)}}{\\partial \\xi_i} \\tag{31}$$\n\n$$a) \\quad H_{\\theta\\theta}^{(0)} = H_{\\theta\\theta}^{(0)}(\\xi, \\theta, \\frac{\\partial^2}{\\partial \\theta_i \\partial \\theta_j})$$\n\n$$b) \\quad H_{\\theta\\theta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\theta\\theta}^{(0)}}{\\partial \\xi_i} \\tag{32}$$\n\nThe arguments $\\xi_i$ are hereafter to be considered constants.",
+          "markdown": "We consider, as the unperturbed system, the electronic motion for an arbitrary but henceforth fixed nuclear configuration, $\\xi_i$. We then develop all quantities with respect to small changes of the $\\xi_i$, which we designate by $\\kappa\\zeta_i$; we presume then that the “domain” of oscillation is such that $\\kappa$ is close to zero, an assumption which is only justified by its success.\n\nWe have then as in (18), part II, the development\n\n$$H_0(x, \\frac{\\partial}{\\partial x}; \\xi + \\kappa\\zeta, \\theta) = H_0^{(0)} + \\kappa H_0^{(1)} + \\kappa^2 H_0^{(2)} + \\dots, \\tag{27}$$\n\nwhere\n\n$$a) \\quad H_0^{(0)} = H_0(x, \\frac{\\partial}{\\partial x}; \\xi),$$\n\n$$b) \\quad H_0^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_0}{\\partial \\xi_i}, \\tag{28}$$\n\n$$c) \\quad H_0^{(2)} = \\frac{1}{2} \\sum_{ij} \\zeta_i \\zeta_j \\frac{\\partial^2 H_0}{\\partial \\xi_i \\partial \\xi_j},$$\n\nand from (11) since $\\frac{\\partial}{\\partial \\xi} = \\frac{1}{\\kappa} \\frac{\\partial}{\\partial \\zeta}$\n\n$$\\kappa^4 H_1(X, \\frac{\\partial}{\\partial X}) = \\kappa^4 \\left( \\frac{1}{\\kappa^2} H_{\\zeta\\zeta} + \\frac{1}{\\kappa} H_{\\zeta\\theta} + H_{\\theta\\theta} \\right) \\tag{29}$$\n\n$$= \\kappa^2 H_{\\zeta\\zeta}^{(0)} + \\kappa^3 \\left( H_{\\zeta\\theta}^{(0)} + H_{\\zeta\\zeta}^{(1)} \\right) + \\kappa^4 \\left( H_{\\theta\\theta}^{(0)} + H_{\\zeta\\theta}^{(1)} + H_{\\zeta\\zeta}^{(2)} \\right) + \\dots$$\n\nwhere\n\n$$a) \\quad H_{\\zeta\\zeta}^{(0)} = H_{\\zeta\\zeta}^{(0)}(\\xi, \\frac{\\partial^2}{\\partial \\zeta_i \\partial \\zeta_j})$$\n\n$$b) \\quad H_{\\zeta\\zeta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\zeta\\zeta}^{(0)}}{\\partial \\xi_i} \\tag{30}$$\n\n$$a) \\quad H_{\\zeta\\theta}^{(0)} = H_{\\zeta\\theta}^{(0)}(\\xi, \\theta, \\frac{\\partial}{\\partial \\zeta}, \\frac{\\partial}{\\partial \\theta})$$\n\n$$b) \\quad H_{\\zeta\\theta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\zeta\\theta}^{(0)}}{\\partial \\xi_i} \\tag{31}$$\n\n$$a) \\quad H_{\\theta\\theta}^{(0)} = H_{\\theta\\theta}^{(0)}(\\xi, \\theta, \\frac{\\partial^2}{\\partial \\theta_i \\partial \\theta_j})$$\n\n$$b) \\quad H_{\\theta\\theta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\theta\\theta}^{(0)}}{\\partial \\xi_i} \\tag{32}$$\n\nThe arguments $\\xi_i$ are hereafter to be considered constants.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The total energy operator is then\n\n$$\\begin{array}{l} H = H_0 + \\kappa H_0^{(1)} + \\kappa^2 \\left(H_0^{(2)} + H_{\\zeta\\zeta}^{(0)}\\right) \\\\ + \\kappa^3 \\left(H_0^{(3)} + H_{\\zeta\\theta}^{(0)} + H_{\\zeta\\zeta}^{(1)}\\right) \\\\ + \\kappa^4 \\left(H_0^{(4)} + H_{\\theta\\theta}^{(0)} + H_{\\zeta\\theta}^{(1)} + H_{\\zeta\\zeta}^{(2)}\\right) + \\dots \\end{array} \\tag{33}$$\n\nThe succeeding terms all have the same form and can be formed from the term in $\\kappa^4$ by increasing the superscript by 1.\n\nWe also develop the desired eigenfunction and energy parameter with respect to $\\kappa$ :\n\n$$\\begin{array}{l} \\psi = \\psi^{(0)} + \\kappa\\psi^{(1)} + \\kappa^2\\psi^{(2)} + \\dots \\\\ W = W^{(0)} + \\kappa W^{(1)} + \\kappa^2 W^{(2)} + \\dots \\end{array} \\tag{34}$$\n\nWe then obtain the following approximation equations:",
+          "markdown": "The total energy operator is then\n\n$$\\begin{array}{l} H = H_0 + \\kappa H_0^{(1)} + \\kappa^2 \\left(H_0^{(2)} + H_{\\zeta\\zeta}^{(0)}\\right) \\\\ + \\kappa^3 \\left(H_0^{(3)} + H_{\\zeta\\theta}^{(0)} + H_{\\zeta\\zeta}^{(1)}\\right) \\\\ + \\kappa^4 \\left(H_0^{(4)} + H_{\\theta\\theta}^{(0)} + H_{\\zeta\\theta}^{(1)} + H_{\\zeta\\zeta}^{(2)}\\right) + \\dots \\end{array} \\tag{33}$$\n\nThe succeeding terms all have the same form and can be formed from the term in $\\kappa^4$ by increasing the superscript by 1.\n\nWe also develop the desired eigenfunction and energy parameter with respect to $\\kappa$ :\n\n$$\\begin{array}{l} \\psi = \\psi^{(0)} + \\kappa\\psi^{(1)} + \\kappa^2\\psi^{(2)} + \\dots \\\\ W = W^{(0)} + \\kappa W^{(1)} + \\kappa^2 W^{(2)} + \\dots \\end{array} \\tag{34}$$\n\nWe then obtain the following approximation equations:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "a) $(H_0^{(0)} - W^{(0)})\\psi^{(0)} = 0$\n\nb) $(H_0^{(0)} - W^{(0)})\\psi^{(1)} = (W^{(1)} - H_0^{(1)})\\psi^{(0)}$\n\nc) $(H_0^{(0)} - W^{(0)})\\psi^{(2)} = (W^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)})\\psi^{(0)} + (W^{(1)} - H_0^{(1)})\\psi^{(1)}$\n\nd) $(H_0^{(0)} - W^{(0)})\\psi^{(3)} = (W^{(3)} - H_0^{(3)} - H_{\\zeta\\theta}^{(0)} - H_{\\zeta\\zeta}^{(1)})\\psi^{(0)}$\n\n$$\\quad + (W^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)})\\psi^{(1)} + (W^{(1)} - H_0^{(1)})\\psi^{(2)}$$\n\ne) $(H_0^{(0)} - W^{(0)})\\psi^{(4)} = (W^{(4)} - H_0^{(4)} - H_{\\theta\\theta}^{(0)} - H_{\\zeta\\theta}^{(1)} - H_{\\zeta\\zeta}^{(2)})\\psi^{(0)}$\n\n$$\\quad + (W^{(3)} - H_0^{(3)} - H_{\\zeta\\theta}^{(0)} - H_{\\zeta\\zeta}^{(1)})\\psi^{(1)}$$\n\n$$\\quad + (W^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)})\\psi^{(2)} + (W^{(1)} - H_0^{(1)})\\psi^{(3)}$$\n\n...",
+          "markdown": "a) $(H_0^{(0)} - W^{(0)})\\psi^{(0)} = 0$\n\nb) $(H_0^{(0)} - W^{(0)})\\psi^{(1)} = (W^{(1)} - H_0^{(1)})\\psi^{(0)}$\n\nc) $(H_0^{(0)} - W^{(0)})\\psi^{(2)} = (W^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)})\\psi^{(0)} + (W^{(1)} - H_0^{(1)})\\psi^{(1)}$\n\nd) $(H_0^{(0)} - W^{(0)})\\psi^{(3)} = (W^{(3)} - H_0^{(3)} - H_{\\zeta\\theta}^{(0)} - H_{\\zeta\\zeta}^{(1)})\\psi^{(0)}$\n\n$$\\quad + (W^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)})\\psi^{(1)} + (W^{(1)} - H_0^{(1)})\\psi^{(2)}$$\n\ne) $(H_0^{(0)} - W^{(0)})\\psi^{(4)} = (W^{(4)} - H_0^{(4)} - H_{\\theta\\theta}^{(0)} - H_{\\zeta\\theta}^{(1)} - H_{\\zeta\\zeta}^{(2)})\\psi^{(0)}$\n\n$$\\quad + (W^{(3)} - H_0^{(3)} - H_{\\zeta\\theta}^{(0)} - H_{\\zeta\\zeta}^{(1)})\\psi^{(1)}$$\n\n$$\\quad + (W^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)})\\psi^{(2)} + (W^{(1)} - H_0^{(1)})\\psi^{(3)}$$\n\n...",
+          "asset_id": null,
+          "suggested_filename": "pictures/equation_p004.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.89,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        }
+      ],
+      "page_markdown_original": "### Matrix Element Derivations\n\nMultiplying these by $\\overline{\\phi_{n'}^{(0)}}$ and integrating over the $x_i$, by virtue of (24) we find:\n\na) $u_{nn'}^{(1)}(V_{n'}^{(0)} - V_n^{(0)}) + (H_0^{(1)})_{nn'} - V_n^{(1)}\\delta_{nn'} = 0$\n\nb) $u_{nn'}^{(2)}(V_{n'}^{(0)} - V_n^{(0)}) + (H_0^{(1)} - V_n^{(1)})_{nn'} + (H_0^{(2)})_{nn'} - V_n^{(2)}\\delta_{nn'} = 0$\n\n...\n\nFrom these one can compute the $(H_0^{(1)})_{nn'}$, $(H_0^{(2)})_{nn'}$, ..., i.e the matrix elements $\\left(\\frac{\\partial H_0}{\\partial \\xi_i}\\right)_{nn'}$, $\\left(\\frac{\\partial^2 H_0}{\\partial \\xi_i \\partial \\xi_j}\\right)_{nn'}$, ... We will later apply these formulas.$^3$\n\n## Part III. Setting-up the Approximate Equations\n\n### Stable Molecule Conditions\n\nAn arbitrary configuration of electrons and nuclei cannot always be treated by a general approximation procedure. We will here consider only states which correspond to a stable molecule. We will begin with the following question:\n\nIs there a system of values of the relative nuclear coordinates $\\xi_i$ such that the eigenfunctions $\\psi_n$ of the energy operator (6), in so far as they depend on the $\\xi_i$, have values significantly different from zero only in a small neighbourhood of this set?\n\nThis wave-mechanical requirement corresponds obviously to the classical condition that the nuclei undergo only small oscillations about the equilibrium configuration; the $|\\psi_n|^2$ is the probability of finding a certain configuration of given energy.\n\nWe consider, as the unperturbed system, the electronic motion for an arbitrary but henceforth fixed nuclear configuration, $\\xi_i$. We then develop all quantities with respect to small changes of the $\\xi_i$, which we designate by $\\kappa\\zeta_i$; we presume then that the “domain” of oscillation is such that $\\kappa$ is close to zero, an assumption which is only justified by its success.\n\nWe have then as in (18), part II, the development\n\n$$H_0(x, \\frac{\\partial}{\\partial x}; \\xi + \\kappa\\zeta, \\theta) = H_0^{(0)} + \\kappa H_0^{(1)} + \\kappa^2 H_0^{(2)} + \\dots, \\tag{27}$$\n\nwhere\n\n$$a) \\quad H_0^{(0)} = H_0(x, \\frac{\\partial}{\\partial x}; \\xi),$$\n\n$$b) \\quad H_0^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_0}{\\partial \\xi_i}, \\tag{28}$$\n\n$$c) \\quad H_0^{(2)} = \\frac{1}{2} \\sum_{ij} \\zeta_i \\zeta_j \\frac{\\partial^2 H_0}{\\partial \\xi_i \\partial \\xi_j},$$\n\nand from (11) since $\\frac{\\partial}{\\partial \\xi} = \\frac{1}{\\kappa} \\frac{\\partial}{\\partial \\zeta}$\n\n$$\\kappa^4 H_1(X, \\frac{\\partial}{\\partial X}) = \\kappa^4 \\left( \\frac{1}{\\kappa^2} H_{\\zeta\\zeta} + \\frac{1}{\\kappa} H_{\\zeta\\theta} + H_{\\theta\\theta} \\right) \\tag{29}$\n\n$$= \\kappa^2 H_{\\zeta\\zeta}^{(0)} + \\kappa^3 \\left( H_{\\zeta\\theta}^{(0)} + H_{\\zeta\\zeta}^{(1)} \\right) + \\kappa^4 \\left( H_{\\theta\\theta}^{(0)} + H_{\\zeta\\theta}^{(1)} + H_{\\zeta\\zeta}^{(2)} \\right) + \\dots$$\n\nwhere\n\n$$a) \\quad H_{\\zeta\\zeta}^{(0)} = H_{\\zeta\\zeta}^{(0)}(\\xi, \\frac{\\partial^2}{\\partial \\zeta_i \\partial \\zeta_j})$$\n\n$$b) \\quad H_{\\zeta\\zeta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\zeta\\zeta}^{(0)}}{\\partial \\xi_i} \\tag{30}$\n\n$$a) \\quad H_{\\zeta\\theta}^{(0)} = H_{\\zeta\\theta}^{(0)}(\\xi, \\theta, \\frac{\\partial}{\\partial \\zeta}, \\frac{\\partial}{\\partial \\theta})$$\n\n$$b) \\quad H_{\\zeta\\theta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\zeta\\theta}^{(0)}}{\\partial \\xi_i} \\tag{31}$\n\n$$a) \\quad H_{\\theta\\theta}^{(0)} = H_{\\theta\\theta}^{(0)}(\\xi, \\theta, \\frac{\\partial^2}{\\partial \\theta_i \\partial \\theta_j})$$\n\n$$b) \\quad H_{\\theta\\theta}^{(1)} = \\sum_i \\zeta_i \\frac{\\partial H_{\\theta\\theta}^{(0)}}{\\partial \\xi_i} \\tag{32}$\n\nThe arguments $\\xi_i$ are hereafter to be considered constants.\n\nThe total energy operator is then\n\n$$\\begin{array}{l} H = H_0 + \\kappa H_0^{(1)} + \\kappa^2 \\left(H_0^{(2)} + H_{\\zeta\\zeta}^{(0)}\\right) \\\\ + \\kappa^3 \\left(H_0^{(3)} + H_{\\zeta\\theta}^{(0)} + H_{\\zeta\\zeta}^{(1)}\\right) \\\\ + \\kappa^4 \\left(H_0^{(4)} + H_{\\theta\\theta}^{(0)} + H_{\\zeta\\theta}^{(1)} + H_{\\zeta\\zeta}^{(2)}\\right) + \\dots \\end{array} \\tag{33}$$\n\nThe succeeding terms all have the same form and can be formed from the term in $\\kappa^4$ by increasing the superscript by 1.\n\nWe also develop the desired eigenfunction and energy parameter with respect to $\\kappa$ :\n\n$$\\begin{array}{l} \\psi = \\psi^{(0)} + \\kappa\\psi^{(1)} + \\kappa^2\\psi^{(2)} + \\dots \\\\ W = W^{(0)} + \\kappa W^{(1)} + \\kappa^2 W^{(2)} + \\dots \\end{array} \\tag{34}$$\n\na) $(H_0^{(0)} - W^{(0)})\\psi^{(0)} = 0$\n\nb) $(H_0^{(0)} - W^{(0)})\\psi^{(1)} = (W^{(1)} - H_0^{(1)})\\psi^{(0)}$\n\nc) $(H_0^{(0)} - W^{(0)})\\psi^{(2)} = (W^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)})\\psi^{(0)} + (W^{(1)} - H_0^{(1)})\\psi^{(1)}$\n\nd) $(H_0^{(0)} - W^{(0)})\\psi^{(3)} = (W^{(3)} - H_0^{(3)} - H_{\\zeta\\theta}^{(0)} - H_{\\zeta\\zeta}^{(1)})\\psi^{(0)}$\n\n$$\\quad + (W^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)})\\psi^{(1)} + (W^{(1)} - H_0^{(1)})\\psi^{(2)}$$\n\ne) $(H_0^{(0)} - W^{(0)})\\psi^{(4)} = (W^{(4)} - H_0^{(4)} - H_{\\theta\\theta}^{(0)} - H_{\\zeta\\theta}^{(1)} - H_{\\zeta\\zeta}^{(2)})\\psi^{(0)}$\n\n$$\\quad + (W^{(3)} - H_0^{(3)} - H_{\\zeta\\theta}^{(0)} - H_{\\zeta\\zeta}^{(1)})\\psi^{(1)}$$\n\n$$\\quad + (W^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)})\\psi^{(2)} + (W^{(1)} - H_0^{(1)})\\psi^{(3)}$\n\n...",
+      "word_count": 750,
+      "page_quality_notes": [
+        "Complex mathematical notation with multiple equations requiring verification"
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "461",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Part IV. Solution of the Approximate Equations of zeroth and first Order: Equilibrium of the Nuclei",
+          "markdown": "## Part IV. Solution of the Approximate Equations of zeroth and first Order: Equilibrium of the Nuclei",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.55,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The zeroth order equation (35a) describes the electronic motion for stationary nuclei as discussed in Part II. From the normalized eigensolution $\\phi_n^{(0)}(x; \\xi, \\theta)$ belonging to the eigenvalue $V_n^{(0)} = V_n(\\xi)$, we find the general solution in the form:\n\n$$\\psi_n^{(0)} = \\chi_n^{(0)}(\\zeta, \\theta)\\phi_n^{(0)}(x; \\xi, \\theta) \\tag{36}$$\n\nwhere $\\chi_n^{(0)}$ is an, as yet, arbitrary function of the arguments $\\zeta_i, \\theta_j$; this must be included in order to enable solutions of the following approximation equations.",
+          "markdown": "### Zeroth Order Solution\n\nThe zeroth order equation (35a) describes the electronic motion for stationary nuclei as discussed in Part II. From the normalized eigensolution $\\phi_n^{(0)}(x; \\xi, \\theta)$ belonging to the eigenvalue $V_n^{(0)} = V_n(\\xi)$, we find the general solution in the form:\n\n$$\\psi_n^{(0)} = \\chi_n^{(0)}(\\zeta, \\theta)\\phi_n^{(0)}(x; \\xi, \\theta) \\tag{36}$$\n\nwhere $\\chi_n^{(0)}$ is an, as yet, arbitrary function of the arguments $\\zeta_i, \\theta_j$; this must be included in order to enable solutions of the following approximation equations.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.95
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The following approximation equation (35b)\n\n$$(H_0^{(0)} - W^{(0)})\\psi^{(1)} = (W^{(1)} - H_0^{(1)})\\psi^{(0)} \\tag{37}$$\n\nis soluble only when the right-hand side is orthogonal to $\\psi_n^{(0)}$ (relative to the electronic coordinates $x_i$).$^4$\n\nThis gives the condition\n\n$$\\left\\{\\left(H_0^{(1)}\\right)_{nn} - W^{(1)}\\right\\}\\chi_n^{(0)}(\\zeta, \\theta) = 0 \\tag{38}$$\n\n$^4$We define the orthogonality of two functions $f(x)$ and $g(x)$ by $\\int \\overline{f(x)}g(x)\\mathrm{d}x = 0$.",
+          "markdown": "### First Order Solution\n\nThe following approximation equation (35b)\n\n$$(H_0^{(0)} - W^{(0)})\\psi^{(1)} = (W^{(1)} - H_0^{(1)})\\psi^{(0)} \\tag{37}$$\n\nis soluble only when the right-hand side is orthogonal to $\\psi_n^{(0)}$ (relative to the electronic coordinates $x_i$).$^4$\n\nThis gives the condition\n\n$$\\left\\{\\left(H_0^{(1)}\\right)_{nn} - W^{(1)}\\right\\}\\chi_n^{(0)}(\\zeta, \\theta) = 0 \\tag{38}$$\n\n$^4$We define the orthogonality of two functions $f(x)$ and $g(x)$ by $\\int \\overline{f(x)}g(x)\\mathrm{d}x = 0$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Superscript reference (⁴) needs verification"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where $\\left(H_{0}^{(1)}\\right)_{nn}$ is the diagonal matrix element of the operator $H_{0}^{(1)}$ relative to the $x_{i}$, thus by (28b) a homogeneous linear function of $\\zeta_{i}$. This must however, by (38), be constant, since $\\chi_{n}^{(0)}(\\zeta,\\theta)$ cannot vanish identically without the same being true for $\\psi_{n}^{(0)}$.",
+          "markdown": "where $\\left(H_{0}^{(1)}\\right)_{nn}$ is the diagonal matrix element of the operator $H_{0}^{(1)}$ relative to the $x_{i}$, thus by (28b) a homogeneous linear function of $\\zeta_{i}$. This must however, by (38), be constant, since $\\chi_{n}^{(0)}(\\zeta,\\theta)$ cannot vanish identically without the same being true for $\\psi_{n}^{(0)}$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Thus it follows that\n\n$$W^{(1)} = 0, \\quad \\left(H_{0}^{(1)}\\right)_{nn} = 0. \\tag{39}$$\n\nFrom (26a) and (17) we have however\n\n$$\\left(H_{0}^{(1)}\\right)_{nn} = V_{n}^{(1)} = \\sum_{i} \\zeta_{i} \\frac{\\partial V_{n}}{\\partial \\xi_{i}}.$$",
+          "markdown": "Thus it follows that\n\n$$W^{(1)} = 0, \\quad \\left(H_{0}^{(1)}\\right)_{nn} = 0. \\tag{39}$$\n\nFrom (26a) and (17) we have however\n\n$$\\left(H_{0}^{(1)}\\right)_{nn} = V_{n}^{(1)} = \\sum_{i} \\zeta_{i} \\frac{\\partial V_{n}}{\\partial \\xi_{i}}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Thus:\n\n$$\\frac{\\partial V_{n}}{\\partial \\xi_{i}} = 0. \\tag{40}$$\n\nThe validity of continuing our approximation procedure requires that the relative nuclear coordinates $\\xi_{i}$ must not be arbitrarily chosen, but must correspond to an extremum of the electronic energy $V_{n}(\\xi)$. The existence of this is therefore the condition for the existence of the molecule, a law which is usually assumed to be self-evident. We will show later that it must necessarily be a minimum as well.",
+          "markdown": "Thus:\n\n$$\\frac{\\partial V_{n}}{\\partial \\xi_{i}} = 0. \\tag{40}$$\n\nThe validity of continuing our approximation procedure requires that the relative nuclear coordinates $\\xi_{i}$ must not be arbitrarily chosen, but must correspond to an extremum of the electronic energy $V_{n}(\\xi)$. The existence of this is therefore the condition for the existence of the molecule, a law which is usually assumed to be self-evident. We will show later that it must necessarily be a minimum as well.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The function $\\chi_{n}^{(0)}(\\zeta,\\theta)$ remains, as yet, undetermined. Setting in (37) $W_{n}^{(0)} = V_{n}(\\xi)$, $W_{n}^{(1)} = 0$ and $\\psi_{n}^{(0)} = \\chi_{n}^{(0)}\\phi_{n}^{(0)}$ we find the equation which determines $\\phi_{n}^{(1)}$\n\n$$\\left(H_0^{(0)} - V_n^{(0)}\\right)\\psi_n^{(1)} = -H_0^{(1)}\\phi_n^{(0)}\\chi_n^{(0)}. \\tag{41}$$\n\nA solution of this by (25a) is $\\psi_n^{(1)} = \\chi_n^{(0)}\\phi_n^{(1)}$ where $\\phi_n^{(1)}$ is the function (19a) defined by (18). The general solution is obtained by adding a solution $\\phi_n^{(0)}$ of the homogeneous equation with the yet undetermined factor $\\chi_n^{(1)}(\\xi,\\theta)$:\n\n$$\\psi_n^{(1)} = \\chi_n^{(0)}\\phi_n^{(1)} + \\chi_n^{(1)}\\phi_n^{(0)}. \\tag{42}$$",
+          "markdown": "The function $\\chi_{n}^{(0)}(\\zeta,\\theta)$ remains, as yet, undetermined. Setting in (37) $W_{n}^{(0)} = V_{n}(\\xi)$, $W_{n}^{(1)} = 0$ and $\\psi_{n}^{(0)} = \\chi_{n}^{(0)}\\phi_{n}^{(0)}$ we find the equation which determines $\\phi_{n}^{(1)}$\n\n$$\\left(H_0^{(0)} - V_n^{(0)}\\right)\\psi_n^{(1)} = -H_0^{(1)}\\phi_n^{(0)}\\chi_n^{(0)}. \\tag{41}$$\n\nA solution of this by (25a) is $\\psi_n^{(1)} = \\chi_n^{(0)}\\phi_n^{(1)}$ where $\\phi_n^{(1)}$ is the function (19a) defined by (18). The general solution is obtained by adding a solution $\\phi_n^{(0)}$ of the homogeneous equation with the yet undetermined factor $\\chi_n^{(1)}(\\xi,\\theta)$:\n\n$$\\psi_n^{(1)} = \\chi_n^{(0)}\\phi_n^{(1)} + \\chi_n^{(1)}\\phi_n^{(0)}. \\tag{42}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Part V. Solution of the Approximate Equations of second and third Order:Nuclear Vibration",
+          "markdown": "## Part V. Solution of the Approximate Equations of second and third Order: Nuclear Vibration",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.55,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now reach the approximation equation (35c), which after substitution of the solutions for the lower order approximations is\n\n$$\\begin{array}{l} \\left(H_0^{(0)} - V_n^{(0)}\\right)\\psi_n^{(2)} = \\left(W_n^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)}\\right)\\chi_n^{(0)}\\phi_n^{(0)} \\\\ \\quad - H_0^{(1)}\\left(\\chi_n^{(0)}\\phi_n^{(1)} + \\chi_n^{(1)}\\phi_n^{(0)}\\right). \\tag{43} \\end{array}$$",
+          "markdown": "### Second Order Solution: Nuclear Vibration\n\nWe now reach the approximation equation (35c), which after substitution of the solutions for the lower order approximations is\n\n$$\\begin{array}{l} \\left(H_0^{(0)} - V_n^{(0)}\\right)\\psi_n^{(2)} = \\left(W_n^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)}\\right)\\chi_n^{(0)}\\phi_n^{(0)} \\\\ \\quad - H_0^{(1)}\\left(\\chi_n^{(0)}\\phi_n^{(1)} + \\chi_n^{(1)}\\phi_n^{(0)}\\right). \\tag{43} \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In order for this to be solvable, the right-hand side must again be orthogonal to $\\phi_n^{(0)}$; using the notation of part II this yields, because of (39):\n\n$$\\left\\{\\left(H_0^{(2)} + H_{\\zeta\\zeta}^{(0)}\\right)_{nn} + \\left(H_0^{(1)}\\right)_{nn}^{(1)} - W_n^{(2)}\\right\\}\\chi_n^{(0)} = 0.$$",
+          "markdown": "In order for this to be solvable, the right-hand side must again be orthogonal to $\\phi_n^{(0)}$; using the notation of part II this yields, because of (39):\n\n$$\\left\\{\\left(H_0^{(2)} + H_{\\zeta\\zeta}^{(0)}\\right)_{nn} + \\left(H_0^{(1)}\\right)_{nn}^{(1)} - W_n^{(2)}\\right\\}\\chi_n^{(0)} = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It follows from (26b) with $V_{n}^{(1)} = 0$ that\n\n$$\\left(H_0^{(2)}\\right)_{nn} + \\left(H_0^{(1)}\\right)_{nn}^{(1)} = V_{n}^{(2)}. \\tag{44}$$\n\nSince $H_{\\zeta\\zeta}^{(0)}$ by (30a) is seen to be independent of the $x_{k}$ we find:\n\n$$\\left\\{H_{\\xi\\xi}^{(0)} + V_{n}^{(2)} - W_{n}^{(2)}\\right\\}\\chi_n^{(0)} = 0. \\tag{45}$$\n\nNoting the meanings of $H_{\\zeta\\zeta}^{(0)}$ and $V_{n}^{(2)}$ given by (17c) and (30a) we see that (45) represents the equation for harmonic nuclear vibration:",
+          "markdown": "It follows from (26b) with $V_{n}^{(1)} = 0$ that\n\n$$\\left(H_0^{(2)}\\right)_{nn} + \\left(H_0^{(1)}\\right)_{nn}^{(1)} = V_{n}^{(2)}. \\tag{44}$$\n\nSince $H_{\\zeta\\zeta}^{(0)}$ by (30a) is seen to be independent of the $x_{k}$ we find:\n\n$$\\left\\{H_{\\xi\\xi}^{(0)} + V_{n}^{(2)} - W_{n}^{(2)}\\right\\}\\chi_n^{(0)} = 0. \\tag{45}$$\n\nNoting the meanings of $H_{\\zeta\\zeta}^{(0)}$ and $V_{n}^{(2)}$ given by (17c) and (30a) we see that (45) represents the equation for harmonic nuclear vibration:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with multiple equations requiring verification"
+        }
+      ],
+      "page_markdown_original": "## Part IV. Solution of the Approximate Equations of zeroth and first Order: Equilibrium of the Nuclei\n\n### Zeroth Order Solution\n\nThe zeroth order equation (35a) describes the electronic motion for stationary nuclei as discussed in Part II. From the normalized eigensolution $\\phi_n^{(0)}(x; \\xi, \\theta)$ belonging to the eigenvalue $V_n^{(0)} = V_n(\\xi)$, we find the general solution in the form:\n\n$$\\psi_n^{(0)} = \\chi_n^{(0)}(\\zeta, \\theta)\\phi_n^{(0)}(x; \\xi, \\theta) \\tag{36}$$\n\nwhere $\\chi_n^{(0)}$ is an, as yet, arbitrary function of the arguments $\\zeta_i, \\theta_j$; this must be included in order to enable solutions of the following approximation equations.\n\n### First Order Solution\n\nThe following approximation equation (35b)\n\n$$(H_0^{(0)} - W^{(0)})\\psi^{(1)} = (W^{(1)} - H_0^{(1)})\\psi^{(0)} \\tag{37}$$\n\nis soluble only when the right-hand side is orthogonal to $\\psi_n^{(0)}$ (relative to the electronic coordinates $x_i$).$^4$\n\nThis gives the condition\n\n$$\\left\\{\\left(H_0^{(1)}\\right)_{nn} - W^{(1)}\\right\\}\\chi_n^{(0)}(\\zeta, \\theta) = 0 \\tag{38}$\n\n$^4$We define the orthogonality of two functions $f(x)$ and $g(x)$ by $\\int \\overline{f(x)}g(x)\\mathrm{d}x = 0$.\n\nwhere $\\left(H_{0}^{(1)}\\right)_{nn}$ is the diagonal matrix element of the operator $H_{0}^{(1)}$ relative to the $x_{i}$, thus by (28b) a homogeneous linear function of $\\zeta_{i}$. This must however, by (38), be constant, since $\\chi_{n}^{(0)}(\\zeta,\\theta)$ cannot vanish identically without the same being true for $\\psi_{n}^{(0)}$. Thus it follows that\n\n$$W^{(1)} = 0, \\quad \\left(H_{0}^{(1)}\\right)_{nn} = 0. \\tag{39}$$\n\nFrom (26a) and (17) we have however\n\n$$\\left(H_{0}^{(1)}\\right)_{nn} = V_{n}^{(1)} = \\sum_{i} \\zeta_{i} \\frac{\\partial V_{n}}{\\partial \\xi_{i}}.$$ Thus:\n\n$$\\frac{\\partial V_{n}}{\\partial \\xi_{i}} = 0. \\tag{40}$$\n\nThe validity of continuing our approximation procedure requires that the relative nuclear coordinates $\\xi_{i}$ must not be arbitrarily chosen, but must correspond to an extremum of the electronic energy $V_{n}(\\xi)$. The existence of this is therefore the condition for the existence of the molecule, a law which is usually assumed to be self-evident. We will show later that it must necessarily be a minimum as well.\n\nThe function $\\chi_{n}^{(0)}(\\zeta,\\theta)$ remains, as yet, undetermined. Setting in (37) $W_{n}^{(0)} = V_{n}(\\xi)$, $W_{n}^{(1)} = 0$ and $\\psi_{n}^{(0)} = \\chi_{n}^{(0)}\\phi_{n}^{(0)}$ we find the equation which determines $\\phi_{n}^{(1)}$\n\n$$\\left(H_0^{(0)} - V_n^{(0)}\\right)\\psi_n^{(1)} = -H_0^{(1)}\\phi_n^{(0)}\\chi_n^{(0)}. \\tag{41}$$\n\nA solution of this by (25a) is $\\psi_n^{(1)} = \\chi_n^{(0)}\\phi_n^{(1)}$ where $\\phi_n^{(1)}$ is the function (19a) defined by (18). The general solution is obtained by adding a solution $\\phi_n^{(0)}$ of the homogeneous equation with the yet undetermined factor $\\chi_n^{(1)}(\\xi,\\theta)$:\n\n$$\\psi_n^{(1)} = \\chi_n^{(0)}\\phi_n^{(1)} + \\chi_n^{(1)}\\phi_n^{(0)}. \\tag{42}$$\n\n## Part V. Solution of the Approximate Equations of second and third Order: Nuclear Vibration\n\n### Second Order Solution: Nuclear Vibration\n\nWe now reach the approximation equation (35c), which after substitution of the solutions for the lower order approximations is\n\n$$\\begin{array}{l} \\left(H_0^{(0)} - V_n^{(0)}\\right)\\psi_n^{(2)} = \\left(W_n^{(2)} - H_0^{(2)} - H_{\\zeta\\zeta}^{(0)}\\right)\\chi_n^{(0)}\\phi_n^{(0)} \\\\ \\quad - H_0^{(1)}\\left(\\chi_n^{(0)}\\phi_n^{(1)} + \\chi_n^{(1)}\\phi_n^{(0)}\\right). \\tag{43} \\end{array}$$\n\nIn order for this to be solvable, the right-hand side must again be orthogonal to $\\phi_n^{(0)}$; using the notation of part II this yields, because of (39):\n\n$$\\left\\{\\left(H_0^{(2)} + H_{\\zeta\\zeta}^{(0)}\\right)_{nn} + \\left(H_0^{(1)}\\right)_{nn}^{(1)} - W_n^{(2)}\\right\\}\\chi_n^{(0)} = 0.$$ It follows from (26b) with $V_{n}^{(1)} = 0$ that\n\n$$\\left(H_0^{(2)}\\right)_{nn} + \\left(H_0^{(1)}\\right)_{nn}^{(1)} = V_{n}^{(2)}. \\tag{44}$$\n\nSince $H_{\\zeta\\zeta}^{(0)}$ by (30a) is seen to be independent of the $x_{k}$ we find:\n\n$$\\left\\{H_{\\xi\\xi}^{(0)} + V_{n}^{(2)} - W_{n}^{(2)}\\right\\}\\chi_n^{(0)} = 0. \\tag{45}\n\nNoting the meanings of $H_{\\zeta\\zeta}^{(0)}$ and $V_{n}^{(2)}$ given by (17c) and (30a) we see that (45) represents the equation for harmonic nuclear vibration:",
+      "word_count": 780,
+      "page_quality_notes": [
+        "Complex mathematical notation with multiple equations requiring verification",
+        "Superscript reference (⁴) needs manual review"
+      ]
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 19,
+    "ocr_page_count": 19,
+    "total_word_count": 12500,
+    "figure_count": 0,
+    "table_count": 0,
+    "equation_block_count": 35,
+    "pages_requiring_review": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "All pages processed",
+      "Complex mathematical notation requires manual verification for accuracy",
+      "Superscript references need verification"
+    ]
+  }
+}

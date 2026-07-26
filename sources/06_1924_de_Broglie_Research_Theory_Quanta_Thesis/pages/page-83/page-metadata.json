@@ -1,0 +1,119 @@
+{
+  "index": 82,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 25,
+      "bottomRightX": 443,
+      "bottomRightY": 47,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 496,
+      "topLeftY": 28,
+      "bottomRightX": 529,
+      "bottomRightY": 47,
+      "content": "103",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 18,
+      "topLeftY": 65,
+      "bottomRightX": 528,
+      "bottomRightY": 119,
+      "content": "terme en $\\alpha$ subsiste mais amoindri ; de plus, il s'y ajoute un effet Doppler. Si l'effet Compton est négligeable, on trouve :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 176,
+      "topLeftY": 141,
+      "bottomRightX": 365,
+      "bottomRightY": 186,
+      "content": "$$\\nu_2 = \\nu_1 \\frac{1 - \\beta_1 \\cos \\theta_1}{1 - \\beta_1 \\cos \\varphi}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 15,
+      "topLeftY": 208,
+      "bottomRightX": 528,
+      "bottomRightY": 388,
+      "content": "Comme, dans ce cas, la diffusion du quantum ne trouble pas le mouvement de l'électron, on peut s'attendre à trouver un résultat identique à celui de la théorie électromagnétique. C'est effectivement ce qui a lieu. Calculons la fréquence diffusée d'après la théorie électromagnétique (en tenant compte de la Relativité). La radiation incidente possède pour l'électron la fréquence :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 175,
+      "topLeftY": 406,
+      "bottomRightX": 362,
+      "bottomRightY": 453,
+      "content": "$$\\nu' = \\nu_1 \\frac{1 - \\beta_1 \\cos \\theta_1}{\\sqrt{1 - \\beta_1^2}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 12,
+      "topLeftY": 475,
+      "bottomRightX": 524,
+      "bottomRightY": 581,
+      "content": "Si l'électron, tout en gardant la vitesse de translation $\\beta_1 c$, se met à vibrer à la fréquence $\\nu'$, l'observateur qui reçoit la radiation diffusée dans une direction faisant l'angle $\\varphi$ avec la vitesse $\\beta_1 c$ de la source, lui attribue la fréquence :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 600,
+      "bottomRightX": 355,
+      "bottomRightY": 646,
+      "content": "$$\\nu_2 = \\nu' \\frac{\\sqrt{1 - \\beta_1^2}}{1 - \\beta_1 \\cos \\varphi}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 11,
+      "topLeftY": 652,
+      "bottomRightX": 138,
+      "bottomRightY": 674,
+      "content": "et l'on a bien :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 178,
+      "topLeftY": 688,
+      "bottomRightX": 368,
+      "bottomRightY": 731,
+      "content": "$$\\nu_2 = \\nu_1 \\frac{1 - \\beta_1 \\cos \\theta_1}{1 - \\beta_1 \\cos \\varphi}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 8,
+      "topLeftY": 748,
+      "bottomRightX": 520,
+      "bottomRightY": 878,
+      "content": "L'effet Compton reste en général assez faible, au contraire, l'effet Doppler peut atteindre pour des électrons accélérés par des chutes de potentiel de quelques centaines de kilovolts de très fortes valeurs (augmentation d'un tiers de la fréquence pour 200 kilovolts).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 8,
+      "topLeftY": 875,
+      "bottomRightX": 519,
+      "bottomRightY": 953,
+      "content": "Nous avons ici affaire à une élévation du quantum parce que le corps diffusant étant animé d'une grande vitesse, peut céder de l'énergie à l'atome de radiation. Les conditions",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

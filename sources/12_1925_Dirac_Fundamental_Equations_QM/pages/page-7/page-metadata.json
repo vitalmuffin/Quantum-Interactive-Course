@@ -1,0 +1,173 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 106,
+    "height": 1015,
+    "width": 668
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 144,
+      "topLeftY": 91,
+      "bottomRightX": 514,
+      "bottomRightY": 114,
+      "content": "Fundamental Equations of Quantum Mechanics.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 552,
+      "topLeftY": 93,
+      "bottomRightX": 582,
+      "bottomRightY": 110,
+      "content": "647",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 129,
+      "bottomRightX": 286,
+      "bottomRightY": 147,
+      "content": "Equation (5) now reduces to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 155,
+      "bottomRightX": 572,
+      "bottomRightY": 268,
+      "content": "$$\\begin{array}{l} dx/dv(nm) = \\Sigma_{m' \\neq m} a(nm; nm') x(nm') + \\Sigma_{n' \\neq n} a(nm; n'm) x(n'm) \\\\ \\hspace{2.5em} + a(nm; nm) x(nm) \\\\ \\hspace{2.5em} = \\Sigma_{m' \\neq m} a(m'm) x(nm') - \\Sigma_{n' \\neq n} a(nn') x(n'm) \\\\ \\hspace{2.5em} + \\{a(mm) - a(nn)\\} x(nm) \\\\ \\hspace{2.5em} = \\Sigma_k \\{x(nk) a(km) - a(nk) x(km)\\}. \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 265,
+      "bottomRightX": 124,
+      "bottomRightY": 281,
+      "content": "Hence",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 277,
+      "topLeftY": 281,
+      "bottomRightX": 588,
+      "bottomRightY": 301,
+      "content": "$$dx/dv = xa - ax. \\tag{8}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 312,
+      "bottomRightX": 589,
+      "bottomRightY": 393,
+      "content": "Thus the most general operation satisfying the laws I and II that one can perform upon a quantum variable is that of taking the difference of its Heisenberg products with some other quantum variable. It is easily seen that one cannot in general change the order of differentiations, i.e.,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 284,
+      "topLeftY": 404,
+      "bottomRightX": 384,
+      "bottomRightY": 440,
+      "content": "$$\\frac{d^2x}{du dv} \\neq \\frac{d^2x}{dv du}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 452,
+      "bottomRightX": 589,
+      "bottomRightY": 492,
+      "content": "As an example in quantum differentiation we may take the case when (a) is a constant, so that a (nm) = 0 except when n = m. We get",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 503,
+      "bottomRightX": 480,
+      "bottomRightY": 522,
+      "content": "$$dx/dv(nm) = x(nm) a(mm) - a(nn) x(nm).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 530,
+      "bottomRightX": 589,
+      "bottomRightY": 568,
+      "content": "In particular, if ia (mm) = Ω (m), the frequency level previously introduced, we have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 569,
+      "bottomRightX": 435,
+      "bottomRightY": 588,
+      "content": "$$dx/dv(nm) = i\\omega(nm) x(nm),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 597,
+      "bottomRightX": 589,
+      "bottomRightY": 637,
+      "content": "and our differentiation with respect to v becomes ordinary differentiation with respect to t.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 643,
+      "bottomRightX": 431,
+      "bottomRightY": 662,
+      "content": "# § 4. The Quantum Conditions.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 669,
+      "bottomRightX": 589,
+      "bottomRightY": 749,
+      "content": "We shall now consider to what the expression (xy - yx) corresponds on the classical theory. To do this we suppose that x (n, n - α) varies only slowly with the n's, the n's being large numbers and the α's small ones, so that we can put",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 749,
+      "bottomRightX": 395,
+      "bottomRightY": 767,
+      "content": "$$x(n, n - \\alpha) = x_{\\alpha\\kappa}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 777,
+      "bottomRightX": 589,
+      "bottomRightY": 797,
+      "content": "where κ_r = n_r h or (n_r + α_r) h, these being practically equivalent. We now have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 803,
+      "bottomRightX": 588,
+      "bottomRightY": 914,
+      "content": "$$\\begin{array}{l} x(n, n - \\alpha) y(n - \\alpha, n - \\alpha - \\beta) - y(n, n - \\beta) x(n - \\beta, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} = \\{x(n, n - \\alpha) - x(n - \\beta, n - \\beta - \\alpha)\\} y(n - \\alpha, n - \\alpha - \\beta) \\\\ \\hspace{2.5em} - \\{y(n, n - \\beta) - y(n - \\alpha, n - \\alpha - \\beta)\\} x(n - \\beta, n - \\alpha - \\beta). \\\\ \\hspace{2.5em} = h\\Sigma_r \\left\\{ \\beta_r \\frac{\\partial x_{\\alpha\\kappa}}{\\partial \\kappa_r} y_{\\beta\\kappa} - \\alpha_r \\frac{\\partial y_{\\beta\\kappa}}{\\partial \\kappa_r} x_{\\alpha\\kappa} \\right\\}. \\tag{9} \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

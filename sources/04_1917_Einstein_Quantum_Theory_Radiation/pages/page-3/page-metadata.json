@@ -1,0 +1,164 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 98,
+    "height": 1017,
+    "width": 675
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 22,
+      "topLeftY": 11,
+      "bottomRightX": 211,
+      "bottomRightY": 30,
+      "content": "Physik. Zeitschr. XVIII, 1917.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 234,
+      "topLeftY": 13,
+      "bottomRightX": 521,
+      "bottomRightY": 32,
+      "content": "Einstein, Zur Quantentheorie der Strahlung.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 637,
+      "topLeftY": 19,
+      "bottomRightX": 664,
+      "bottomRightY": 34,
+      "content": "123",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 17,
+      "topLeftY": 54,
+      "bottomRightX": 332,
+      "bottomRightY": 102,
+      "content": "Strahlung sei von der für die betrachtete Index-Kombination (m, n) charakteristischen Frequenz ν.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 16,
+      "topLeftY": 102,
+      "bottomRightX": 332,
+      "bottomRightY": 213,
+      "content": "Über die Gesetze, welche für diesen Übergang maßgebend sind, führen wir einige Hypothesen ein, welche durch Übertragung der für einen Planckschen Resonator nach der klassischen Theorie bekannten Verhältnisse auf die noch unbekannten der Quantentheorie gewonnen sind.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 16,
+      "topLeftY": 214,
+      "bottomRightX": 331,
+      "bottomRightY": 391,
+      "content": "a) Ausstrahlung. Ein in Schwingung befindlicher Planckscher Resonator strahlt nach Hertz in bekannter Weise Energie aus, unabhängig davon, ob er durch ein äußeres Feld angeregt wird oder nicht. Dementsprechend möge ein Molekül aus dem Zustande Z_m unter Emission der Strahlungs-Energie ε_m - ε_n von der Frequenz μ ohne Anregung durch äußere Ursachen in den Zustand Z_n übergehen können. Die Wahrscheinlichkeit dW dafür, daß dies im Zeitelement dt wirklich stattfindet, sei,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 393,
+      "bottomRightX": 329,
+      "bottomRightY": 414,
+      "content": "$$dW = A_m^n dt, \\tag{A}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 14,
+      "topLeftY": 415,
+      "bottomRightX": 328,
+      "bottomRightY": 449,
+      "content": "wobei A_m^n eine für die betrachtete Indexkombination charakteristische Konstante bedeutet.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 11,
+      "topLeftY": 449,
+      "bottomRightX": 328,
+      "bottomRightY": 590,
+      "content": "Das angenommene statistische Gesetz entspricht dem einer radioaktiven Reaktion, der vorausgesetzte Elementarprozeß einer derartigen Reaktion, bei welcher nur γ-Strahlen emittiert werden. Es braucht nicht angenommen zu werden, daß dieser Vorgang keine Zeit beanspruche; diese Zeit muß nur vernachlässigbar sein gegenüber den Zeiten, in denen das Molekül in den Zuständen Z_1 usw. ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 9,
+      "topLeftY": 591,
+      "bottomRightX": 326,
+      "bottomRightY": 815,
+      "content": "b) Einstrahlung. Befindet sich ein Planckscher Resonator in einem Strahlungsfelde, so ändert sich die Energie des Resonators dadurch, daß das elektromagnetische Feld der Strahlung auf den Resonator Arbeit überträgt; diese Arbeit kann je nach den Phasen des Resonators und des oszillierenden Feldes positiv oder negativ sein. Dementsprechend führen wir die folgende quantentheoretische Hypothese ein. Unter der Wirkung der Strahlungsdichte ρ der Frequenz ν kann ein Molekül vom Zustand Z_n in den Zustand Z_m übergehen, indem das Molekül die Strahlungsenergie ε_m - ε_n aufnimmt, gemäß dem Wahrscheinlichkeitsgesetz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 817,
+      "bottomRightX": 322,
+      "bottomRightY": 839,
+      "content": "$$dW = B_n^m \\rho dt. \\tag{B}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 7,
+      "topLeftY": 839,
+      "bottomRightX": 322,
+      "bottomRightY": 904,
+      "content": "Ebenso sei ein Übergang Z_m → Z_n unter der Einwirkung der Strahlung möglich, wobei die Strahlungsenergie ε_m - ε_n frei wird, gemäß dem Wahrscheinlichkeitsgesetz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 905,
+      "bottomRightX": 321,
+      "bottomRightY": 926,
+      "content": "$$dW = B_m^n \\rho dt. \\tag{B'}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 6,
+      "topLeftY": 926,
+      "bottomRightX": 321,
+      "bottomRightY": 977,
+      "content": "B_n^m und B_m^n sind Konstante. Beide Vorgänge nennen wir „Zustandsänderungen durch Einstrahlung“.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 56,
+      "bottomRightX": 655,
+      "bottomRightY": 573,
+      "content": "Es fragt sich nun, was für ein Impuls bei diesen betrachteten Zustandsänderungen auf das Molekül übertragen wird. Beginnen wir mit den Vorgängen der Einstrahlung. Leistet ein Strahlenbündel von bestimmter Richtung Arbeit auf einen Planckschen Resonator, so wird der Strahlenbündel die entsprechende Energie entzogen. Dieser Energieübertragung entspricht nach dem Impulssatz auch eine Impulsübertragung vom Strahlenbündel auf den Resonator. Der letztere erleidet also eine Kraftwirkung in der Richtung des Strahles des Strahlenbündels. Ist die übertragene Energie negativ, so ist auch die Kraftwirkung auf den Resonator von entgegengesetzter Richtung. Im Falle der Quantentheorie hypothese bedeutet dies offenbar folgendes: Findet durch Bestrahlung mit einem Strahlenbündel durch Einstrahlung der Vorgang Z_n → Z_n statt, so wird auf das Molekül der Impuls $$\\frac{\\varepsilon_m - \\varepsilon_n}{c}$$ in der Fortpflanzungsrichtung des Bündels übertragen. Bei dem Einstrahlungsvorgang Z_m → Z_n hat der übertragene Impuls dieselbe Größe, aber die entgegengesetzte Richtung. Für den Fall, daß das Molekül gleichzeitig mehrerer Strahlenbündeln ausgesetzt ist, setzen wir voraus, daß die ganze Energie ε_m - ε_n eines Elementarprozesses einem dieser Strahlenbündel entnommen bzw. zugefügt wird, so daß auch in diesem Falle der Impuls $$\\frac{\\varepsilon_m - \\varepsilon_n}{c}$$ auf das Molekül übertragen wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 340,
+      "topLeftY": 574,
+      "bottomRightX": 655,
+      "bottomRightY": 783,
+      "content": "Bei der Energieabgabe durch Ausstrahlung wird im Falle des Planckschen Resonators im ganzen kein Impuls auf den Resonator übertragen, weil nach der klassischen Theorie die Ausstrahlung in einer Kugelwelle erfolgt. Es wurde aber bereits bemerkt, daß wir zu einer widerspruchsfreien Quantentheorie nur gelangen können, indem wir voraussetzen, daß auch der Prozeß der Ausstrahlung ein gerichteter Prozeß sei. Es wird dann bei jedem Elementarprozeß der Ausstrahlung (Z_m → Z_n) ein Impuls von der Größe $$\\frac{\\varepsilon_m - \\varepsilon_n}{c}$$ auf das Molekül übertragen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 338,
+      "topLeftY": 785,
+      "bottomRightX": 654,
+      "bottomRightY": 982,
+      "content": "Ist letzteres isotrop, so müssen wir alle Ausstrahlungsrichtungen als gleich wahrscheinlich annehmen. Ist das Molekül nicht isotrop, so gegelangen wir zu derselben Aussage, wenn die Orientierung im Laufe der Zeit nach den Gesetzen des Zufalls wechselt. Eine derartige Voraussetzung muß übrigens auch für die statistischen Gesetze (B) und (B') der Einstrahlung gemacht werden, da sonst die Konstanten B_n^m und B_m^n von der Richtung abhängen müßten, was wir durch diese Annahme der Isotropie oder Pseudoisotropie (durch zeit-",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

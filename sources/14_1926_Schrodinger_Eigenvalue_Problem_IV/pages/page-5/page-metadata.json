@@ -1,0 +1,137 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 177,
+      "topLeftY": 40,
+      "bottomRightX": 441,
+      "bottomRightY": 62,
+      "content": "Quantisierung als Eigenwertproblem",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 520,
+      "topLeftY": 42,
+      "bottomRightX": 554,
+      "bottomRightY": 61,
+      "content": "113",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 76,
+      "bottomRightX": 554,
+      "bottomRightY": 116,
+      "content": "Koordinaten) zur potentiellen Energie gestört werden. Wir machen also den Ansatz:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 120,
+      "bottomRightX": 388,
+      "bottomRightY": 143,
+      "content": "$$(5) \\quad V = V_0(x) + r(x, t),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 146,
+      "bottomRightX": 554,
+      "bottomRightY": 229,
+      "content": "wo $x$, wie schon früher öfters, als Vertreter der Gesamtheit der Konfigurationskoordinaten steht. Das ungestörte Eigenwertproblem ($r = 0$) sehen wir als gelöst an. Dann läßt sich das Störungsproblem durch Quadraturen lösen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 229,
+      "bottomRightX": 554,
+      "bottomRightY": 454,
+      "content": "Wir wollen jedoch nicht sogleich das allgemeine Problem behandeln, sondern greifen aus der großen Zahl wichtiger Anwendungen, die unter die obige Fragestellung fallen, wegen seiner hervorstechenden Bedeutung, die eine getrennte Behandlung wohl auf alle Fälle rechtfertigt, das Problem der Dispersionstheorie heraus. Hier rühren die störenden Kräfte her von einem im Bereich des Atoms homogenen und synchron schwingenden elektrischen Wechselfeld, wir haben also, wenn es sich um linear polarisiertes monochromatisches Licht von der Frequenz $\\nu$ handelt, für das Störungspotential den Ansatz zu machen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 462,
+      "bottomRightX": 403,
+      "bottomRightY": 483,
+      "content": "$$(6) \\quad r(x, t) = A(x) \\cos 2\\pi \\nu t$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 485,
+      "bottomRightX": 107,
+      "bottomRightY": 501,
+      "content": "also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 504,
+      "bottomRightX": 420,
+      "bottomRightY": 527,
+      "content": "$$(5') \\quad V = V_0(x) + A(x) \\cos 2\\pi \\nu t.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 537,
+      "bottomRightX": 554,
+      "bottomRightY": 744,
+      "content": "Hier ist $A(x)$ das negative Produkt der Lichtamplitude in diejenige Koordinatenfunktion, welche nach der gewöhnlichen Mechanik die Komponente des elektrischen Moments des Atoms in Richtung des elektrischen Lichtvektors bedeutet (etwa $-F \\sum e_i z_i$, wenn $F$ die Lichtamplitude, $e_i, z_i$ die Ladungen und $z$-Koordinaten der Massenpunkte, und das Licht in der $z$-Richtung polarisiert ist (wir entnehmen den zeitlich variablen Teil der Potentialfunktion mit ebensoviel oder ebensowenig Recht der gewöhnlichen Mechanik, wie früher, z. B. beim Keplerproblem, den konstanten).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 744,
+      "bottomRightX": 439,
+      "bottomRightY": 766,
+      "content": "Mit dem Ansatz (5') lautet Gleichung (4''):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 770,
+      "bottomRightX": 504,
+      "bottomRightY": 803,
+      "content": "$$(7) \\quad \\Delta \\psi - \\frac{8\\pi^2}{h^2} (V_0 + A \\cos 2\\pi \\nu t) \\psi \\mp \\frac{4\\pi i}{h} \\frac{\\partial \\psi}{\\partial t} = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 808,
+      "bottomRightX": 553,
+      "bottomRightY": 847,
+      "content": "Für $A = 0$ verwandeln sich diese Gleichungen durch den Ansatz:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 847,
+      "bottomRightX": 388,
+      "bottomRightY": 882,
+      "content": "$$(8) \\quad \\psi = u(x) e^{\\pm \\frac{2\\pi i E t}{h}},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

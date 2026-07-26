@@ -1,0 +1,65 @@
+{
+  "index": 80,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 108,
+      "topLeftY": 43,
+      "bottomRightX": 447,
+      "bottomRightY": 66,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 500,
+      "topLeftY": 49,
+      "bottomRightX": 531,
+      "bottomRightY": 66,
+      "content": "101",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 20,
+      "topLeftY": 82,
+      "bottomRightX": 533,
+      "bottomRightY": 138,
+      "content": "constaté ce phénomène pour les rayons X et son interprétation nous a longtemps intrigué.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 12,
+      "topLeftY": 132,
+      "bottomRightX": 532,
+      "bottomRightY": 694,
+      "content": "La nouvelle théorie de la diffusion paraît bien expliquer cette anomalie. Si, en effet, au moins dans le cas des rayons durs, une partie de l'énergie des quanta de lumière est transportée à l'électron diffusant, il y aura non seulement éparpillement de la radiation, mais aussi « absorption par diffusion ». L'ionisation du gaz sera due à la fois aux électrons expulsés de l'atome par le mécanisme de l'absorption proprement dite et aux électrons mis en mouvement de recul par la diffusion. Dans un gaz lourd (CH³I), l'absorption de Bragg est intense et celle de Compton est en regard presque négligeable. Pour un gaz léger (air), il n'en va plus du tout de même; la première absorption à cause de sa variation en N⁴ est très faible et la seconde qui est indépendante de N devient la plus importante. Le rapport des absorptions totales et par suite des ionisations dans les deux gaz, doit donc être beaucoup plus petit qu'on ne le prévoyait auparavant. Il est même possible de rendre compte ainsi d'une façon quantitative du rapport des ionisations. On voit donc sur cet exemple le très gros intérêt pratique des idées nouvelles de MM. Compton et Debye. Le recul des électrons diffuseurs semble du reste donner la clef de beaucoup d'autres phénomènes inexpliqués.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 719,
+      "bottomRightX": 485,
+      "bottomRightY": 747,
+      "content": "#### IV. — DIFFUSION PAR LES ÉLECTRONS EN MOUVEMENT",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 9,
+      "topLeftY": 766,
+      "bottomRightX": 525,
+      "bottomRightY": 975,
+      "content": "On peut généraliser la théorie de Compton-Debye en considérant la diffusion d'un quantum de radiation par un électron en mouvement. Prenons pour axe des $x$ la direction de propagation primitive d'un quantum de fréquence initiale $\\nu_1$, les axes des $y$ et des $z$ étant choisis arbitrairement à angle droit l'un de l'autre dans un plan normal à $ox$ et passant par le point où se produit la diffusion. La direction de la vitesse $\\beta_1c$ de l'électron *avant* le choc étant définie par",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

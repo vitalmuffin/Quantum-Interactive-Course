@@ -1,0 +1,119 @@
+{
+  "index": 99,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 39,
+      "topLeftY": 19,
+      "bottomRightX": 72,
+      "bottomRightY": 35,
+      "content": "120",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 19,
+      "bottomRightX": 376,
+      "bottomRightY": 35,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 59,
+      "bottomRightX": 560,
+      "bottomRightY": 107,
+      "content": "et, par identification avec l'expression antérieurement trouvée :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 122,
+      "bottomRightX": 402,
+      "bottomRightY": 163,
+      "content": "$$\\log \\left( \\frac{e}{A} \\right) = 1 \\quad A = 1.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 180,
+      "bottomRightX": 390,
+      "bottomRightY": 202,
+      "content": "C'est là ce que nous voulions démontrer.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 205,
+      "bottomRightX": 565,
+      "bottomRightY": 333,
+      "content": "L'hypothèse de cohérence adoptée ci-dessus nous a donc conduit à bon port en nous évitant de venir échouer sur la loi de Rayleigh ou sur celle de Wien. L'étude des fluctuations du rayonnement noir va nous fournir une nouvelle preuve de son importance.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 362,
+      "bottomRightX": 459,
+      "bottomRightY": 411,
+      "content": "#### IV. — LES FLUCTUATIONS D'ÉNERGIE DANS LE RAYONNEMENT NOIR (¹)",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 440,
+      "bottomRightX": 569,
+      "bottomRightY": 666,
+      "content": "Si des grains d'énergie de valeur $q$ sont distribués en très grand nombre dans un certain espace et si leurs positions varient sans cesse suivant les lois du hasard, un élément de volume contiendra normalement $\\overline{n}$ grains, soit une énergie $\\overline{E} = \\overline{n}q$. Mais la valeur réelle de $n$ s'écartera constamment de $\\overline{n}$ et l'on aura $(n - \\overline{n})^2 = \\overline{n}$ d'après un théorème connu de la théorie des probabilités et, par suite, la fluctuation quadratique moyenne de l'énergie sera :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 684,
+      "bottomRightX": 428,
+      "bottomRightY": 711,
+      "content": "$$\\overline{s^2} = \\overline{(n - \\overline{n})^2} q^2 = \\overline{n} q^2 = \\overline{E} q.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 725,
+      "bottomRightX": 571,
+      "bottomRightY": 800,
+      "content": "D'autre part, on sait que les fluctuations d'énergie dans un volume $V$ de rayonnement noir sont régies par la loi de thermodynamique statistique :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 812,
+      "bottomRightX": 385,
+      "bottomRightY": 861,
+      "content": "$$\\overline{s^2} = k T^2 V \\frac{d(u, dv)}{dT}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 891,
+      "bottomRightX": 572,
+      "bottomRightY": 973,
+      "content": "(¹) *La théorie du Rayonnement noir et les quanta*, Réunion Solvay, rapport de M. EINSTEIN, p. 419; *Les théories statistiques en thermodynamique*, Conférences de M. H.-A. LORENTZ au Collège de France, Teubner, 1916, pp. 70 et 114.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

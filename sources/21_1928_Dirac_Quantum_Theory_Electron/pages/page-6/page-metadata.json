@@ -1,0 +1,290 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 250,
+      "topLeftY": 96,
+      "bottomRightX": 476,
+      "bottomRightY": 116,
+      "content": "Quantum Theory of Electron.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 587,
+      "topLeftY": 97,
+      "bottomRightX": 616,
+      "bottomRightY": 113,
+      "content": "615",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 131,
+      "bottomRightX": 230,
+      "bottomRightY": 148,
+      "content": "If we now take",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 191,
+      "topLeftY": 161,
+      "bottomRightX": 535,
+      "bottomRightY": 177,
+      "content": "$$\\alpha_1 = \\rho_1 \\sigma_1, \\quad \\alpha_2 = \\rho_1 \\sigma_2, \\quad \\alpha_3 = \\rho_1 \\sigma_3, \\quad \\alpha_4 = \\rho_3,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 186,
+      "bottomRightX": 358,
+      "bottomRightY": 206,
+      "content": "all the conditions (6) are satisfied, e.g.,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 216,
+      "bottomRightX": 390,
+      "bottomRightY": 236,
+      "content": "$$\\alpha_1^2 = \\rho_1 \\sigma_1 \\rho_1 \\sigma_1 = \\rho_1^2 \\sigma_1^2 = 1$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 243,
+      "bottomRightX": 522,
+      "bottomRightY": 263,
+      "content": "$$\\alpha_1 \\alpha_2 = \\rho_1 \\sigma_1 \\rho_1 \\sigma_2 = \\rho_1^2 \\sigma_1 \\sigma_2 = -\\rho_1^2 \\sigma_2 \\sigma_1 = -\\alpha_2 \\alpha_1.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 272,
+      "bottomRightX": 484,
+      "bottomRightY": 290,
+      "content": "The following equations are to be noted for later reference",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 303,
+      "bottomRightX": 617,
+      "bottomRightY": 350,
+      "content": "$$\\left. \\begin{array}{l} \\rho_1 \\rho_2 = i \\rho_3 = -\\rho_2 \\rho_1 \\\\ \\sigma_1 \\sigma_2 = i \\sigma_3 = -\\sigma_2 \\sigma_1 \\end{array} \\right\\}, \\tag{8}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 358,
+      "bottomRightX": 596,
+      "bottomRightY": 377,
+      "content": "together with the equations obtained by cyclic permutation of the suffixes.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 125,
+      "topLeftY": 387,
+      "bottomRightX": 402,
+      "bottomRightY": 406,
+      "content": "The wave equation (4) now takes the form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 417,
+      "bottomRightX": 618,
+      "bottomRightY": 437,
+      "content": "$$[p_0 + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p}) + \\rho_3 mc] \\psi = 0, \\tag{9}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 447,
+      "bottomRightX": 370,
+      "bottomRightY": 466,
+      "content": "where $\\boldsymbol{\\sigma}$ denotes the vector $(\\sigma_1, \\sigma_2, \\sigma_3)$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 487,
+      "bottomRightX": 547,
+      "bottomRightY": 507,
+      "content": "# § 3. Proof of Invariance under a Lorentz Transformation.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 512,
+      "bottomRightX": 618,
+      "bottomRightY": 551,
+      "content": "Multiply equation (9) by $\\rho_3$ on the left-hand side. It becomes, with the help of (8),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 216,
+      "topLeftY": 551,
+      "bottomRightX": 512,
+      "bottomRightY": 570,
+      "content": "$$[\\rho_3 p_0 + i \\rho_2 (\\sigma_1 p_1 + \\sigma_2 p_2 + \\sigma_3 p_3) + mc] \\psi = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 566,
+      "bottomRightX": 166,
+      "bottomRightY": 584,
+      "content": "Putting",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 333,
+      "topLeftY": 584,
+      "bottomRightX": 393,
+      "bottomRightY": 602,
+      "content": "$$p_0 = i p_4,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 613,
+      "bottomRightX": 618,
+      "bottomRightY": 632,
+      "content": "$$\\rho_3 = \\gamma_4, \\quad \\rho_2 \\sigma_r = \\gamma_r, \\quad r = 1, 2, 3, \\tag{10}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 629,
+      "bottomRightX": 171,
+      "bottomRightY": 644,
+      "content": "we have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 644,
+      "bottomRightX": 618,
+      "bottomRightY": 664,
+      "content": "$$[i \\Sigma \\gamma_\\mu p_\\mu + mc] \\psi = 0, \\quad \\mu = 1, 2, 3, 4. \\tag{11}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 675,
+      "bottomRightX": 561,
+      "bottomRightY": 694,
+      "content": "The $p_\\mu$ transform under a Lorentz transformation according to the law",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 700,
+      "bottomRightX": 410,
+      "bottomRightY": 720,
+      "content": "$$p_\\mu' = \\Sigma_\\nu a_{\\mu\\nu} p_\\nu,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 730,
+      "bottomRightX": 435,
+      "bottomRightY": 749,
+      "content": "where the coefficients $a_{\\mu\\nu}$ are c-numbers satisfying",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 754,
+      "bottomRightX": 476,
+      "bottomRightY": 774,
+      "content": "$$\\Sigma_\\mu a_{\\mu\\nu} a_{\\mu\\nu} = \\delta_{\\nu r}, \\quad \\Sigma_\\nu a_{\\mu\\nu} a_{\\nu\\nu} = \\delta_{\\mu\\nu}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 785,
+      "bottomRightX": 404,
+      "bottomRightY": 803,
+      "content": "The wave equation therefore transforms into",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 814,
+      "bottomRightX": 619,
+      "bottomRightY": 834,
+      "content": "$$[i \\Sigma \\gamma_\\mu' p_\\mu' + mc] \\psi = 0, \\tag{12}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 831,
+      "bottomRightX": 153,
+      "bottomRightY": 846,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 313,
+      "topLeftY": 847,
+      "bottomRightX": 420,
+      "bottomRightY": 866,
+      "content": "$$\\gamma_\\mu' = \\Sigma_\\nu a_{\\mu\\nu} \\gamma_\\nu.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 125,
+      "topLeftY": 875,
+      "bottomRightX": 328,
+      "bottomRightY": 895,
+      "content": "Now the $\\gamma_\\mu$, like the $\\alpha_\\mu$, satisfy",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 901,
+      "bottomRightX": 500,
+      "bottomRightY": 921,
+      "content": "$$\\gamma_\\mu^2 = 1, \\quad \\gamma_\\mu \\gamma_\\nu + \\gamma_\\nu \\gamma_\\mu = 0, \\quad (\\mu \\neq \\nu).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

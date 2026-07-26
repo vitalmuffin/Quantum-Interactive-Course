@@ -1,0 +1,137 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 332,
+      "topLeftY": 165,
+      "bottomRightX": 404,
+      "bottomRightY": 182,
+      "content": "Classically:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 192,
+      "bottomRightX": 604,
+      "bottomRightY": 231,
+      "content": "$$Z(n, \\gamma) = \\sum_{\\alpha=-\\infty}^{+\\infty} \\sum_{\\beta=-\\infty}^{+\\infty} X_{\\alpha}(n) X_{\\beta}(n) X_{\\gamma-\\alpha-\\beta}(n) \\quad (22)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 296,
+      "topLeftY": 238,
+      "bottomRightX": 439,
+      "bottomRightY": 257,
+      "content": "Quantum theoretically:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 264,
+      "bottomRightX": 604,
+      "bottomRightY": 321,
+      "content": "$$Z(n, n - \\gamma) = \\sum_{\\alpha=-\\infty}^{+\\infty} \\sum_{\\beta=-\\infty}^{+\\infty} X(n, n - \\alpha) X(n - \\alpha, n - \\alpha - \\beta) X(n - \\alpha - \\beta, n - \\gamma) \\quad (23)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 321,
+      "bottomRightX": 605,
+      "bottomRightY": 444,
+      "content": "or the corresponding formulae with integrals. In a similar way, all the quantities of the form $x(t)^n$ can be expressed quantum theoretically and when a function $f[x(t)]$ is given, one can always obviously find the quantum theoretical analog if it is possible to expand this function in powers of $x$. A substantial difficulty arises when we consider two quantities $x(t)$, $y(t)$ and we ask about the product $x(t)y(t)$. Let be $x(t)$ characterized with $X$ and $y(t)$ with $Y$ so the representation of $x(t)y(t)$ results:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 332,
+      "topLeftY": 453,
+      "bottomRightX": 404,
+      "bottomRightY": 470,
+      "content": "Classically:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 479,
+      "bottomRightX": 604,
+      "bottomRightY": 517,
+      "content": "$$Z_{\\beta} = \\sum_{\\alpha=-\\infty}^{+\\infty} X_{\\alpha}(n) Y_{\\beta-\\alpha}(n) \\quad (24)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 296,
+      "topLeftY": 526,
+      "bottomRightX": 439,
+      "bottomRightY": 542,
+      "content": "Quantum theoretically:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 551,
+      "bottomRightX": 604,
+      "bottomRightY": 588,
+      "content": "$$Z(n, n - \\beta) = \\sum_{\\alpha=-\\infty}^{+\\infty} X(n, n - \\alpha) Y(n - \\alpha, n - \\beta) \\quad . \\quad (25)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 595,
+      "bottomRightX": 605,
+      "bottomRightY": 647,
+      "content": "While classically $x(t)y(t)$ always equal to $y(t)x(t)$ is, in general it must not be the case in the quantum theory. In special cases, for example when one considers $x(t)x(t)^2$, the difficulty does not arise.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 647,
+      "bottomRightX": 605,
+      "bottomRightY": 701,
+      "content": "As in the question posed at the beginning of this paragraph, when one considers a form like $v(t)v(t)$ one has to substitute $v\\dot{v}$ quantum theoretically with $\\frac{v\\dot{v}+\\dot{v}v}{2}$ for reaching that $v\\dot{v}$ enters as the derivative of $\\frac{v^2}{2}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 321,
+      "topLeftY": 710,
+      "bottomRightX": 413,
+      "bottomRightY": 728,
+      "content": "## Paragraph 2",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 741,
+      "bottomRightX": 605,
+      "bottomRightY": 809,
+      "content": "After these considerations which subject was the kinematic of the quantum theory, we will turn to mechanical problems aiming at the determination of $X, \\nu, E$ from the given forces of the system. In the previously presented theory, this problem will be solved in two steps:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 828,
+      "bottomRightX": 373,
+      "bottomRightY": 844,
+      "content": "6",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

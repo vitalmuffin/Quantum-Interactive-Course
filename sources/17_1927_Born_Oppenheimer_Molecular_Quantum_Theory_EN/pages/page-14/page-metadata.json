@@ -1,0 +1,236 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 75,
+      "topLeftY": 136,
+      "bottomRightX": 97,
+      "bottomRightY": 148,
+      "content": "and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 157,
+      "bottomRightX": 411,
+      "bottomRightY": 190,
+      "content": "$$\\Delta_{0} = \\frac{\\partial^{2}}{\\partial X_{0}^{2}} + \\frac{\\partial^{2}}{\\partial Y_{0}^{2}} + \\frac{\\partial^{2}}{\\partial Z_{0}^{2}},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 258,
+      "topLeftY": 193,
+      "bottomRightX": 642,
+      "bottomRightY": 224,
+      "content": "$$\\Delta_{\\theta} = \\frac{1}{\\sin^{2}\\theta} \\frac{\\partial^{2}}{\\partial \\omega^{2}} + \\frac{1}{\\sin\\theta} \\frac{\\partial}{\\partial \\theta} \\left( \\sin\\theta \\frac{\\partial}{\\partial \\theta} \\right). \\tag{80}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 234,
+      "bottomRightX": 106,
+      "bottomRightY": 247,
+      "content": "Thus:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 281,
+      "topLeftY": 256,
+      "bottomRightX": 398,
+      "bottomRightY": 287,
+      "content": "$$H_{\\xi\\xi} = -\\frac{h^{2}}{8\\pi^{2}m} \\mu \\frac{\\partial^{2}}{\\partial \\xi^{2}},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 290,
+      "bottomRightX": 641,
+      "bottomRightY": 322,
+      "content": "$$H_{\\xi\\theta} = -\\frac{h^{2}}{8\\pi^{2}m} \\frac{2\\mu}{\\xi} \\frac{\\partial}{\\partial \\xi}, \\tag{81}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 325,
+      "bottomRightX": 435,
+      "bottomRightY": 357,
+      "content": "$$H_{\\theta\\theta} = -\\frac{h^{2}}{8\\pi^{2}m} \\left( \\Delta_{0} + \\frac{\\mu}{\\xi^{2}} \\Delta_{\\theta} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 366,
+      "bottomRightX": 338,
+      "bottomRightY": 381,
+      "content": "Substituting $\\xi + \\kappa\\zeta$ for $\\xi$ and developing in $\\kappa$, we find:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 391,
+      "bottomRightX": 412,
+      "bottomRightY": 423,
+      "content": "$$H_{\\zeta\\zeta}^{(0)} = -\\frac{h^{2}}{8\\pi^{2}m} \\mu \\frac{\\partial^{2}}{\\partial \\zeta^{2}},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 425,
+      "bottomRightX": 641,
+      "bottomRightY": 445,
+      "content": "$$H_{\\zeta\\zeta}^{(p)} = 0, \\quad p = 1, 2, \\dots \\tag{82}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 298,
+      "topLeftY": 468,
+      "bottomRightX": 427,
+      "bottomRightY": 499,
+      "content": "$$H_{\\zeta\\theta}^{(0)} = -\\frac{h^{2}}{8\\pi^{2}m} \\frac{2\\mu}{\\xi} \\frac{\\partial}{\\partial \\zeta},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 298,
+      "topLeftY": 501,
+      "bottomRightX": 641,
+      "bottomRightY": 533,
+      "content": "$$H_{\\zeta\\theta}^{(1)} = \\frac{h^{2}}{8\\pi^{2}m} \\frac{\\mu}{\\xi^{2}} \\zeta \\frac{\\partial}{\\partial \\zeta}, \\tag{83}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 289,
+      "topLeftY": 535,
+      "bottomRightX": 386,
+      "bottomRightY": 544,
+      "content": "...",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 565,
+      "bottomRightX": 443,
+      "bottomRightY": 597,
+      "content": "$$H_{\\theta\\theta}^{(0)} = -\\frac{h^{2}}{8\\pi^{2}m} \\left( \\Delta_{0} + \\frac{\\mu}{\\xi^{2}} \\Delta_{\\theta} \\right),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 600,
+      "bottomRightX": 641,
+      "bottomRightY": 632,
+      "content": "$$H_{\\theta\\theta}^{(1)} = \\frac{h^{2}}{8\\pi^{2}m} \\frac{2\\mu}{\\xi^{3}} \\zeta \\Delta_{\\theta}. \\tag{84}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 635,
+      "bottomRightX": 368,
+      "bottomRightY": 643,
+      "content": "...",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 659,
+      "bottomRightX": 334,
+      "bottomRightY": 675,
+      "content": "The nuclear separation is determined by the equation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 321,
+      "topLeftY": 684,
+      "bottomRightX": 641,
+      "bottomRightY": 713,
+      "content": "$$V_{n}^{\\prime} = \\frac{\\partial V_{n}}{\\partial \\xi} = 0. \\tag{85}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 724,
+      "bottomRightX": 255,
+      "bottomRightY": 738,
+      "content": "The equation for nuclear vibration is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 748,
+      "bottomRightX": 641,
+      "bottomRightY": 782,
+      "content": "$$\\left\\{ -\\frac{h^{2}}{8\\pi^{2}m} \\mu \\frac{\\partial^{2}}{\\partial \\zeta^{2}} + \\frac{1}{2} \\zeta^{2} V_{n}^{\\prime\\prime}(\\xi) W_{n}^{(2)} \\right\\} \\chi_{n}^{(0)} = 0. \\tag{86}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 791,
+      "bottomRightX": 120,
+      "bottomRightY": 803,
+      "content": "If we set",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 800,
+      "bottomRightX": 641,
+      "bottomRightY": 834,
+      "content": "$$a = \\frac{8\\pi^{2}m}{h^{2}\\mu} W_{n}^{(2)} \\quad b = \\frac{8\\pi^{2}m}{h^{2}\\mu} V_{n}^{\\prime\\prime} \\quad \\eta = \\zeta b^{1/4} \\tag{87}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 838,
+      "bottomRightX": 135,
+      "bottomRightY": 852,
+      "content": "we have [8]",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 287,
+      "topLeftY": 849,
+      "bottomRightX": 430,
+      "bottomRightY": 883,
+      "content": "$$\\left\\{ \\frac{\\partial^{2}}{\\partial \\eta^{2}} + \\left( \\frac{a}{\\sqrt{b}} - \\eta^{2} \\right) \\right\\} \\chi_{n}^{(0)} = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 353,
+      "topLeftY": 895,
+      "bottomRightX": 366,
+      "bottomRightY": 906,
+      "content": "14",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

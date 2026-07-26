@@ -1,0 +1,119 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 71,
+      "topLeftY": 40,
+      "bottomRightX": 103,
+      "bottomRightY": 58,
+      "content": "110",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 258,
+      "topLeftY": 40,
+      "bottomRightX": 367,
+      "bottomRightY": 61,
+      "content": "E. Schrödinger",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 77,
+      "bottomRightX": 550,
+      "bottomRightY": 116,
+      "content": "von der *Zeit* ausschließlich durch einen *bestimmten* periodischen Faktor abhängen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 114,
+      "bottomRightX": 404,
+      "bottomRightY": 150,
+      "content": "$$(2) \\quad \\psi \\sim P \\cdot R \\cdot \\left( e^{\\pm \\frac{2\\pi i E t}{h}} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 154,
+      "bottomRightX": 551,
+      "bottomRightY": 216,
+      "content": "Gleichung (1) ist daher in Wirklichkeit um nichts allgemeiner als die Gleichung (1'), welche dem eben genannten Umstand Rechnung trägt und die Zeit gar nicht mehr enthält.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 216,
+      "bottomRightX": 552,
+      "bottomRightY": 403,
+      "content": "Wenn wir also Gleichung (1) oder (1') gelegentlich als „Wellengleichung“ bezeichnet haben, so geschah das eigentlich zu Unrecht, sie wäre richtiger als „Schwingungs-“ oder „Amplituden“gleichung zu bezeichnen. Wir fanden aber mit ihr das Auslangen, weil ja an *diese* das Sturm-Liouvillesche Eigenwertproblem sich knüpft — ganz ebenso wie bei dem mathematisch völlig analogen Problem der freien Schwingungen von Saiten und Membranen — und nicht an die *eigentliche* Wellengleichung.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 403,
+      "bottomRightX": 554,
+      "bottomRightY": 672,
+      "content": "Dabei hatten wir bisher stets vorausgesetzt, daß die potentielle Energie $V$ eine reine Koordinatenfunktion ist und *nicht* explizite von der Zeit abhängt. Es besteht aber das dringende Bedürfnis, die Theorie auf *nichtkonservative* Systeme auszudehnen, weil sich nur auf diese Weise das Verhalten des Systems unter der Einwirkung vorgegebener äußerer Kräfte, z. B. einer Lichtwelle oder eines vorüberfliegenden fremden Atoms, studieren läßt. Sobald nun aber $V$ die Zeit explizite enthält, ist es offenbar *unmöglich*, der Gleichung (1) bzw. (1') zu genügen durch eine Funktion $\\psi$, welche nur nach (2) von der Zeit abhängt. Man findet also dann mit der Amplitudengleichung nicht mehr das Auslangen, sondern muß auf die eigentliche Wellengleichung greifen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 672,
+      "bottomRightX": 554,
+      "bottomRightY": 713,
+      "content": "Für konservative Systeme läßt sich dieselbe leicht angeben. (2) ist ja gleichbedeutend mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 716,
+      "bottomRightX": 390,
+      "bottomRightY": 750,
+      "content": "$$(3) \\quad \\frac{\\partial^2 \\psi}{\\partial t^2} = - \\frac{4\\pi^2 E^2}{h^2} \\psi.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 756,
+      "bottomRightX": 555,
+      "bottomRightY": 797,
+      "content": "Aus (1') und (3) kann man $E$ durch Differentiationen eliminieren und erhält in leichtverständlicher symbolischer Schreibweise",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 802,
+      "bottomRightX": 457,
+      "bottomRightY": 836,
+      "content": "$$(4) \\quad \\left( \\Delta - \\frac{8\\pi^2}{h^2} V \\right)^2 \\psi + \\frac{16\\pi^2}{h^2} \\frac{\\partial^2 \\psi}{\\partial t^2} = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 843,
+      "bottomRightX": 555,
+      "bottomRightY": 885,
+      "content": "Dieser Gleichung hat jedes $\\psi$ zu genügen, welches nach (2), jedoch *mit beliebigem* $E$, von der Zeit abhängt; folglich auch",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

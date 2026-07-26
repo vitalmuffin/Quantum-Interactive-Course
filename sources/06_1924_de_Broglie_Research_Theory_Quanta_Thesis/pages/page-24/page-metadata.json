@@ -1,0 +1,83 @@
+{
+  "index": 23,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1015,
+    "width": 627
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 47,
+      "topLeftY": 24,
+      "bottomRightX": 72,
+      "bottomRightY": 46,
+      "content": "44",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 24,
+      "bottomRightX": 387,
+      "bottomRightY": 44,
+      "content": "LQUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 65,
+      "bottomRightX": 575,
+      "bottomRightY": 223,
+      "content": "lytiquement dans le 1$^{er}$ paragraphe, mais maintenant nous voyons mieux comment ils se relient à la conception générale de l'espace-temps et pourquoi le déphasage des mouvements périodiques ayant lieu en des points différents de l'espace dépend de la façon dont est définie la simultanéité par la théorie de Relativité.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 265,
+      "bottomRightX": 377,
+      "bottomRightY": 287,
+      "content": "## CHAPITRE II",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 308,
+      "bottomRightX": 550,
+      "bottomRightY": 334,
+      "content": "### Principe de Maupertuis et principe de Fermat.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 198,
+      "topLeftY": 360,
+      "bottomRightX": 429,
+      "bottomRightY": 380,
+      "content": "#### I. — BUT DE CE CHAPITRE",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 53,
+      "topLeftY": 401,
+      "bottomRightX": 585,
+      "bottomRightY": 794,
+      "content": "Nous voulons dans ce chapitre tâcher de généraliser les résultats du chapitre premier pour le cas d'un mobile dont le mouvement n'est pas rectiligne et uniforme. Le mouvement varié suppose l'existence d'un champ de force auquel le mobile est soumis. Dans l'état actuel de nos connaissances il semble y avoir seulement deux sortes de champs : les champs de gravitation et les champs électromagnétiques. La théorie de Relativité généralisée interprète le champ de gravitation comme dû à une courbure de l'espace-temps. Dans la présente thèse, nous laisserons systématiquement de côté tout ce qui concerne la gravitation, quitte à y revenir dans un autre travail. Pour nous donc, en ce moment, un champ de force sera un champ électromagnétique et la dynamique du mouvement varié sera l'étude du mouvement d'un corps portant une charge électrique dans un champ électromagnétique.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 792,
+      "bottomRightX": 589,
+      "bottomRightY": 977,
+      "content": "Nous devons nous attendre à rencontrer dans ce chapitre d'assez grandes difficultés parce que la théorie de Relativité, guide très sûr quand il s'agit de mouvements uniformes, est encore assez hésitante dans ses conclusions sur le mouvement non uniforme. Lors du récent séjour de M. Einstein à Paris, M. Painlevé a soulevé contre la Relativité d'amusantes objections ; M. Langevin a pu les écarter sans peine parce",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

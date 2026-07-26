@@ -1,0 +1,155 @@
+{
+  "index": 56,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 266,
+      "topLeftY": 102,
+      "bottomRightX": 420,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 102,
+      "bottomRightX": 582,
+      "bottomRightY": 118,
+      "content": "613",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 139,
+      "bottomRightX": 582,
+      "bottomRightY": 177,
+      "content": "Endlich nehmen wir auch das „Volum“ $a$ als sehr groß an und machen Gebrauch von der Beziehung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 181,
+      "bottomRightX": 582,
+      "bottomRightY": 240,
+      "content": "$$\\lim_{a \\to \\infty} \\frac{1}{a} \\int_{-\\Omega}^{\\Omega'} \\frac{\\sin^2 \\omega a}{\\omega^2} f(\\omega) \\, d\\omega = \\pi f(0) \\quad \\text{für} \\quad \\Omega, \\Omega' > 0. \\quad (48)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 242,
+      "bottomRightX": 582,
+      "bottomRightY": 319,
+      "content": "Man sieht dann, daß nur die ersten Summanden $\\frac{\\sin (\\omega_j - \\omega_k) a}{\\omega_j - \\omega_k}$ in (45) einen in Betracht kommenden Beitrag liefern; und zwar ergibt sich in (47'):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 310,
+      "bottomRightX": 582,
+      "bottomRightY": 366,
+      "content": "$$\\overline{A^2} = \\frac{a l}{8 \\pi} \\int_0^\\infty d\\omega \\left\\{ (\\overline{q_\\omega^2})^2 + (\\omega^2 \\overline{q_\\omega^2})^2 \\right\\}. \\quad (49)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 373,
+      "bottomRightX": 582,
+      "bottomRightY": 411,
+      "content": "Andererseits wird die mittlere Energie im Volumen $a$ nach (42), Kap. 4, gleich",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 412,
+      "bottomRightX": 582,
+      "bottomRightY": 472,
+      "content": "$$\\overline{E} = \\frac{a}{l} \\cdot \\frac{l}{4} \\cdot \\int_0^\\infty d\\omega \\frac{l}{\\pi} \\cdot \\left\\{ \\overline{q_\\omega^2} + \\omega^2 \\overline{q_\\omega^2} \\right\\} = \\frac{a l}{4 \\pi} \\int_0^\\infty d\\omega \\left\\{ \\overline{q_\\omega^2} + \\omega^2 \\overline{q_\\omega^2} \\right\\}. \\quad (50)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 471,
+      "bottomRightX": 174,
+      "bottomRightY": 488,
+      "content": "Dabei gilt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 308,
+      "topLeftY": 486,
+      "bottomRightX": 582,
+      "bottomRightY": 507,
+      "content": "$$\\overline{q_\\omega^2} = \\omega^2 \\overline{q_\\omega^2}, \\quad (51)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 518,
+      "bottomRightX": 582,
+      "bottomRightY": 637,
+      "content": "eine Beziehung, die — woran gleich hier erinnert sei — nach Kap. 1 auch in der Quantenmechanik gültig bleibt. Um zu den in (39), (40), Kap. 4, gebrauchten Größen $\\overline{A^2}$, $\\overline{E}$ überzugehen, haben wir in (49), (50), Kap. 4 nur die auf $d\\nu = \\frac{d\\omega}{2\\pi}$ bezüglichen Anteile zu entnehmen und diese durch $d\\nu$ zu dividieren. Dann ergibt sich mit $v = a$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 310,
+      "topLeftY": 648,
+      "bottomRightX": 582,
+      "bottomRightY": 684,
+      "content": "$$\\overline{A^2} = \\frac{\\overline{E^2}}{2v} \\quad (52)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 696,
+      "bottomRightX": 582,
+      "bottomRightY": 732,
+      "content": "Aus (44), Kap. 4, entnimmt man, daß in unserem Falle $z_v = 2$ ist; denn es wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 731,
+      "bottomRightX": 428,
+      "bottomRightY": 760,
+      "content": "$$d\\omega_k = 2 \\pi \\, d\\nu_k = \\frac{\\pi}{l} \\, dk.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 772,
+      "bottomRightX": 582,
+      "bottomRightY": 810,
+      "content": "Daher gibt also (52), Kap. 4, in der Tat gerade das zweite Glied in (40), Kap. 4.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 818,
+      "bottomRightX": 582,
+      "bottomRightY": 917,
+      "content": "Beim Übergang zur Quantenmechanik sind (41), (41'), (42), (43), Kap. 4, als Matrizengleichungen für $u, H, q, E$ aufzufassen. Dabei bleibt jedoch $x$ eine Zahl; denn betrachten wir statt der kontinuierlichen Saite eine elastische Punktreihe, so bedeutet $x$ die (mit der Gitterkonstanten multiplizierte) Nummer jeweils eines bestimmten Punktes.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

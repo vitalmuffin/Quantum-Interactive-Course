@@ -1,0 +1,137 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 78,
+      "topLeftY": 0,
+      "bottomRightX": 115,
+      "bottomRightY": 21,
+      "content": "146",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 306,
+      "topLeftY": 1,
+      "bottomRightX": 405,
+      "bottomRightY": 23,
+      "content": "A. Einstein.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 41,
+      "bottomRightX": 636,
+      "bottomRightY": 237,
+      "content": "versehenes Elektron wird, wenn es die Oberfläche erreicht hat, einen Teil seiner kinetischen Energie eingebüßt haben. Außerdem wird anzunehmen sein, daß jedes Elektron beim Verlassen des Körpers eine (für den Körper charakteristische) Arbeit $P$ zu leisten hat, wenn es den Körper verläßt. Mit der größten Normalgeschwindigkeit werden die unmittelbar an der Oberfläche normal zu dieser erregten Elektronen den Körper verlassen. Die kinetische Energie solcher Elektronen ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 301,
+      "topLeftY": 236,
+      "bottomRightX": 408,
+      "bottomRightY": 275,
+      "content": "$$\\frac{R}{N} \\beta v - P.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 280,
+      "bottomRightX": 634,
+      "bottomRightY": 380,
+      "content": "Ist der Körper zum positiven Potential $\\Pi$ geladen und von Leitern vom Potential Null umgeben und ist $\\Pi$ eben imstande, einen Elektrizitätsverlust des Körpers zu verhindern, so muß sein:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 368,
+      "bottomRightX": 437,
+      "bottomRightY": 407,
+      "content": "$$\\Pi \\varepsilon = \\frac{R}{N} \\beta v - P,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 412,
+      "bottomRightX": 612,
+      "bottomRightY": 440,
+      "content": "wobei $\\varepsilon$ die elektrische Masse des Elektrons bedeutet, oder",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 444,
+      "bottomRightX": 436,
+      "bottomRightY": 470,
+      "content": "$$\\Pi E = R \\beta v - P',$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 473,
+      "bottomRightX": 633,
+      "bottomRightY": 549,
+      "content": "wobei $E$ die Ladung eines Grammäquivalentes eines einwertigen Ions und $P'$ das Potential dieser Menge negativer Elektrizität in bezug auf den Körper bedeutet.¹⁾",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 544,
+      "bottomRightX": 633,
+      "bottomRightY": 597,
+      "content": "Setzt man $E = 9,6 \\cdot 10^3$, so ist $\\Pi \\cdot 10^{-8}$ das Potential in Volts, welches der Körper bei Bestrahlung im Vakuum annimmt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 592,
+      "bottomRightX": 633,
+      "bottomRightY": 764,
+      "content": "Um zunächst zu sehen, ob die abgeleitete Beziehung der Größenordnung nach mit der Erfahrung übereinstimmt, setzen wir $P' = 0$, $v = 1,03 \\cdot 10^{15}$ (entsprechend der Grenze des Sonnenspektrums nach dem Ultraviolett hin) und $\\beta = 4,866 \\cdot 10^{-11}$. Wir erhalten $\\Pi \\cdot 10^7 = 4,3$ Volt, welches Resultat der Größenordnung nach mit den Resultaten von Hrn. Lenard übereinstimmt.²⁾",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 760,
+      "bottomRightX": 631,
+      "bottomRightY": 861,
+      "content": "Ist die abgeleitete Formel richtig, so muß $\\Pi$, als Funktion der Frequenz des erregenden Lichtes in kartesischen Koordinaten dargestellt, eine Gerade sein, deren Neigung von der Natur der untersuchten Substanz unabhängig ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 876,
+      "bottomRightX": 630,
+      "bottomRightY": 962,
+      "content": "1) Nimmt man an, daß das einzelne Elektron durch das Licht aus einem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst werden muß, so hat man an der abgeleiteten Beziehung nichts zu ändern; nur ist dann $P'$ als Summe von zwei Summanden aufzufassen.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 957,
+      "bottomRightX": 630,
+      "bottomRightY": 983,
+      "content": "2) P. Lenard, Ann. d. Phys. 8. p. 165 u. 184. Taf. I, Fig. 2. 1902.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

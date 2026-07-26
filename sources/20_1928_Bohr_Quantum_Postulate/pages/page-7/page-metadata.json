@@ -1,0 +1,110 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 91,
+    "height": 1019,
+    "width": 776
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 118,
+      "topLeftY": 95,
+      "bottomRightX": 142,
+      "bottomRightY": 108,
+      "content": "586",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 94,
+      "bottomRightX": 520,
+      "bottomRightY": 111,
+      "content": "Supplement to \"Nature,\" April 14, 1928",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 120,
+      "bottomRightX": 382,
+      "bottomRightY": 613,
+      "content": "importance for the great progress in atomic physics during the last years. Indeed, the proper vibrations of the Schrödinger wave equation have been found to furnish a representation of the stationary states of an atom meeting all requirements. The energy of each state is connected with the corresponding period of vibration according to the general quantum relation (1). Furthermore, the number of nodes in the various characteristic vibrations gives a simple interpretation to the concept of quantum number which was already known from the older methods, but at first did not seem to appear in the matrix formulation. In addition, Schrödinger could associate with the solutions of the wave equation a continuous distribution of charge and current, which, if applied to a characteristic vibration, represents the electrostatic and magnetic properties of an atom in the corresponding stationary state. Similarly, the superposition of two characteristic solutions corresponds to a continuous vibrating distribution of electrical charge, which on classical electrodynamics would give rise to an emission of radiation, illustrating instructively the consequences of the quantum postulate and the correspondence requirement regarding the transition process between two stationary states formulated in matrix mechanics. Another application of the method of Schrödinger, important for the further development, has been made by Born in his investigation of the problem of collisions between atoms and free electric particles. In this connexion he succeeded in obtaining a statistical interpretation of the wave functions, allowing a calculation of the probability of the individual transition processes required by the quantum postulate. This includes a wave-mechanical formulation of the adiabatic principle of Ehrenfest, the fertility of which appears strikingly in the promising investigations of Hund on the problem of formation of molecules.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 613,
+      "bottomRightX": 382,
+      "bottomRightY": 921,
+      "content": "In view of these results, Schrödinger has expressed the hope that the development of the wave theory will eventually remove the irrational element expressed by the quantum postulate and open the way for a complete description of atomic phenomena along the line of the classical theories. In support of this view, Schrödinger, in a recent paper (Ann. d. Phys., 83, p. 956; 1927), emphasises the fact that the discontinuous exchange of energy between atoms required by the quantum postulate, from the point of view of the wave theory, is replaced by a simple resonance phenomenon. In particular, the idea of individual stationary states would be an illusion and its applicability only an illustration of the resonance mentioned. It must be kept in mind, however, that just in the resonance problem mentioned we are concerned with a closed system which, according to the view presented here, is not accessible to observation. In fact, wave mechanics just as the matrix theory on this view represents a symbolic transcription of the problem of motion of classical mechanics adapted to the requirements of quantum theory and only to be interpreted by an explicit use of the quantum postulate. Indeed, the two formulations of the",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 389,
+      "topLeftY": 120,
+      "bottomRightX": 671,
+      "bottomRightY": 207,
+      "content": "interaction problem might be said to be complementary in the same sense as the wave and particle idea in the description of the free individuals. The apparent contrast in the utilisation of the energy concept in the two theories is just connected with this difference in the starting-point.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 389,
+      "topLeftY": 207,
+      "bottomRightX": 671,
+      "bottomRightY": 392,
+      "content": "The fundamental difficulties opposing a space-time description of a system of particles in interaction appear at once from the inevitability of the superposition principle in the description of the behaviour of individual particles. Already for a free particle the knowledge of energy and momentum excludes, as we have seen, the exact knowledge of its space-time co-ordinates. This implies that an immediate utilisation of the concept of energy in connexion with the classical idea of the potential energy of the system is excluded. In the Schrödinger wave equation these difficulties are avoided by replacing the classical expression of the Hamiltonian by a differential operator by means of the relation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 489,
+      "topLeftY": 394,
+      "bottomRightX": 671,
+      "bottomRightY": 423,
+      "content": "$$p = \\sqrt{-1} \\frac{\\hbar}{2\\pi} \\frac{\\delta}{\\delta q}, \\quad . \\quad . \\quad (5)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 389,
+      "topLeftY": 427,
+      "bottomRightX": 671,
+      "bottomRightY": 514,
+      "content": "where p denotes a generalised component of momentum and q the canonically conjugated variable. Hereby the negative value of the energy is regarded as conjugated to the time. So far, in the wave equation, time and space as well as energy and momentum are utilised in a purely formal way.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 389,
+      "topLeftY": 514,
+      "bottomRightX": 671,
+      "bottomRightY": 723,
+      "content": "The symbolical character of Schrödinger's method appears not only from the circumstance that its simplicity, similarly to that of the matrix theory, depends essentially upon the use of imaginary arithmetic quantities. But above all there can be no question of an immediate connexion with our ordinary conceptions because the 'geometrical' problem represented by the wave equation is associated with the so-called co-ordinate space, the number of dimensions of which is equal to the number of degrees of freedom of the system, and hence in general greater than the number of dimensions of ordinary space. Further, Schrödinger's formulation of the interaction problem, just as the formulation offered by matrix theory, involves a neglect of the finite velocity of propagation of the forces claimed by relativity theory.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 389,
+      "topLeftY": 723,
+      "bottomRightX": 673,
+      "bottomRightY": 921,
+      "content": "On the whole, it would scarcely seem justifiable, in the case of the interaction problem, to demand a visualisation by means of ordinary space-time pictures. In fact, all our knowledge concerning the internal properties of atoms is derived from experiments on their radiation or collision reactions, such that the interpretation of experimental facts ultimately depends on the abstractions of radiation in free space, and free material particles. Hence, our whole space-time view of physical phenomena, as well as the definition of energy and momentum, depends ultimately upon these abstractions. In judging the applications of these auxiliary ideas we should only demand inner consistency, in which connexion special regard has to be paid to the possibilities of definition and observation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 335,
+      "topLeftY": 952,
+      "bottomRightX": 475,
+      "bottomRightY": 964,
+      "content": "© 1928 Nature Publishing Group",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

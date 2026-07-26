@@ -1,0 +1,110 @@
+{
+  "index": 34,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 158,
+      "bottomRightX": 582,
+      "bottomRightY": 174,
+      "content": "action for the forced harmonic oscillator (see reference 15). Explicitly it is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 216,
+      "topLeftY": 184,
+      "bottomRightX": 521,
+      "bottomRightY": 318,
+      "content": "$$\\begin{array}{l} Q(q_{j},q_{0})=\\frac{\\omega}{2\\sin\\omega T}\\left[(\\cos\\omega T)(q_{j}^{2}+q_{0}^{2})-2q_{j}q_{0}\\right. \\\\ +\\frac{2q_{0}}{\\omega}\\int_{t'}^{t''}\\gamma(t)\\sin\\omega(t-t')dt+\\frac{2q_{j}}{\\omega}\\int_{t'}^{t''}\\gamma(t)\\sin\\omega(t''-t)dt \\\\ \\left.-\\frac{2}{\\omega^{2}}\\int_{t'}^{t''}\\int_{t'}^{t}\\gamma(t)\\gamma(s)\\sin\\omega(t''-t)\\times\\sin\\omega(s-t')dsdt\\right]. \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 327,
+      "bottomRightX": 587,
+      "bottomRightY": 408,
+      "content": "It has been written as though $\\gamma(t)$ were a continuous function of time. The integrals really should be split into Riemann sums and the quantity $\\gamma(x_{i},t_{i})$ substituted for $\\gamma(t_{i})$. Thus, $Q$ depends on the coordinates of the particle at all times through the $\\gamma(x_{i},t_{i})$ and on that of the oscillator at times $t'$ and $t''$ only. Thus, the quantity (61) becomes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 209,
+      "topLeftY": 419,
+      "bottomRightX": 528,
+      "bottomRightY": 485,
+      "content": "$$\\begin{array}{l} \\langle\\chi_{t''}\\varphi_{m}|1|\\psi_{t'}\\varphi_{n}\\rangle_{Sp+S_{0}+S_{j}}=\\int\\dots\\int\\chi_{t''}^{*}(x_{i})G_{mn}\\times \\\\ \\times\\exp\\left(\\frac{iS_{p}}{\\hbar}\\right)\\psi_{t'}(x_{0})\\frac{dx_{0}}{A}\\dots\\frac{dx_{j-1}}{A}dx_{i}=\\langle\\chi_{t''}|G_{mn}|\\psi_{t'}\\rangle_{S_{p}} \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 493,
+      "bottomRightX": 585,
+      "bottomRightY": 525,
+      "content": "which now contains the coordinates of the particle only, the quantity $G_{mn}$ being given by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 533,
+      "bottomRightX": 579,
+      "bottomRightY": 566,
+      "content": "$$G_{mn}=(2\\pi i\\hbar\\sin\\omega T/\\omega)^{-1/2}\\int\\int\\varphi_{m}^{*}(q_{i})\\times\\exp(iQ(q_{i},q_{0})/\\hbar)\\varphi_{n}(q_{0})dq_{j}dq_{0}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 573,
+      "bottomRightX": 587,
+      "bottomRightY": 622,
+      "content": "Proceeding in an analogous manner one finds that all of the oscillators of the electromagnetic field can be eliminated from a description of the motion of the charges.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 644,
+      "bottomRightX": 333,
+      "bottomRightY": 661,
+      "content": "## Statistical Mechanics",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 183,
+      "topLeftY": 669,
+      "bottomRightX": 305,
+      "bottomRightY": 685,
+      "content": "### Spin and Relativity",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 698,
+      "bottomRightX": 587,
+      "bottomRightY": 813,
+      "content": "Problems in the theory of measurement and statistical quantum mechanics are often simplified when set up from the point of view described here. For example, the influence of a perturbing measuring instrument can be integrated out in principle as we did in detail for the oscillator. The statistical density matrix has a fairly obvious and useful generalization. It results from considering the square of (38). It is an expression similar to (38) but containing integrations over two sets of variables $dx_{i}$, and $dx_{i}'$. The exponential",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 835,
+      "bottomRightX": 376,
+      "bottomRightY": 847,
+      "content": "35",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

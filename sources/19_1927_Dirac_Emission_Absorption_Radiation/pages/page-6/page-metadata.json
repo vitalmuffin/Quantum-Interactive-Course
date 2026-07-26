@@ -1,0 +1,110 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 158,
+      "topLeftY": 164,
+      "bottomRightX": 511,
+      "bottomRightY": 207,
+      "content": "## § 2. The Perturbation of an Assembly of Independent Systems.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 221,
+      "bottomRightX": 628,
+      "bottomRightY": 412,
+      "content": "We shall now consider the transitions produced in an atomic system by an arbitrary perturbation. The method we shall adopt will be that previously given by the author,⁷ which leads in a simple way to equations which determine the probability of the system being in any stationary state of the unperturbed system at any time⁸ This, of course, gives immediately the probable number of systems in that state at that time for an assembly of the systems that are independent of one another and are all perturbed in the same way. The object of the present section is to show that the equations for the rates of change of these probable numbers can be put in the Hamiltonian form in a simple manner, which will enable further developments in the theory to be made.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 414,
+      "bottomRightX": 628,
+      "bottomRightY": 500,
+      "content": "Let $H_0$ be the Hamiltonian for the unperturbed system and $V$ the perturbing energy, which can be an arbitrary function of the dynamical variables and may or may not involve the time explicitly, so that the Hamiltonian for the perturbed system is $H = H_0 + V$. The eigenfunctions for the perturbed system must satisfy the wave equation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 319,
+      "topLeftY": 516,
+      "bottomRightX": 464,
+      "bottomRightY": 531,
+      "content": "$$ih\\partial\\psi/\\partial t = (H_0 + V)\\psi,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 547,
+      "bottomRightX": 628,
+      "bottomRightY": 704,
+      "content": "where $(H_0 + V)$ is an operator. If $\\psi = \\Sigma_r a_r \\psi_r$ is the solution of this equation that satisfies the proper initial conditions, where the $\\psi_r$'s are the eigenfunctions for the unperturbed system, each associated with one stationary state labelled by the suffix $r$, and the $a_r$'s are functions of the time only, then $|a_r|^2$ is the probability of the system being in the state $r$ at any time. The $a_r$'s must be normalised initially, and will then always remain normalised. The theory will apply directly to an assembly of $N$ similar independent systems if we multiply each of these $a_r$'s by $n^{1/2}$ so as to make $\\Sigma_r |a_r|^2$. We shall now have that $|a_r|^2$ is the probable number of systems in the state $r$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 705,
+      "bottomRightX": 572,
+      "bottomRightY": 721,
+      "content": "The equation that determines the rate of change of the $a_r$'s is⁹",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 341,
+      "topLeftY": 736,
+      "bottomRightX": 625,
+      "bottomRightY": 753,
+      "content": "$$ih\\dot{a}_r = \\Sigma_s V_{rs} a_s, \\quad (4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 765,
+      "bottomRightX": 242,
+      "bottomRightY": 778,
+      "content": "⁷Loc. cit., I.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 779,
+      "bottomRightX": 628,
+      "bottomRightY": 835,
+      "content": "⁸The theory has recently been extended by Born [“Z. f. Physik,” vol. 40, p. 167 (1926)] so as to take into account the adiabatic changes in the stationary states that may be produced by the perturbation as well as the transitions. This extension is not used in the present paper.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 835,
+      "bottomRightX": 320,
+      "bottomRightY": 849,
+      "content": "⁹Loc. cit., I, equation (25).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 386,
+      "topLeftY": 889,
+      "bottomRightX": 398,
+      "bottomRightY": 903,
+      "content": "6",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

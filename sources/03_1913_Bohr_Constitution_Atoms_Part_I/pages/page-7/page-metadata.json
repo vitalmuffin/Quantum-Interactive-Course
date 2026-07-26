@@ -1,0 +1,83 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 600
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 0,
+      "topLeftY": 288,
+      "bottomRightX": 12,
+      "bottomRightY": 724,
+      "content": "Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 87,
+      "bottomRightX": 85,
+      "bottomRightY": 104,
+      "content": "6",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 86,
+      "bottomRightX": 414,
+      "bottomRightY": 104,
+      "content": "Dr. N. Bohr on the Constitution",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 112,
+      "bottomRightX": 528,
+      "bottomRightY": 289,
+      "content": "have been developed and applied on a number of different phenomena, especially by Stark, Nernst, and Sommerfeld. The agreement as to the order of magnitude between values observed for the frequencies and dimensions of the atoms, and values for these quantities calculated by considerations similar to those given above, has been the subject of much discussion. It was first pointed out by Haas*, in an attempt to explain the meaning and the value of Planck's constant on the basis of J. J. Thomson's atom-model, by help of the linear dimensions and frequency of an hydrogen atom.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 287,
+      "bottomRightX": 528,
+      "bottomRightY": 740,
+      "content": "Systems of the kind considered in this paper, in which the forces between the particles vary inversely as the square of the distance, are discussed in relation to Planck's theory by J. W. Nicholson†. In a series of papers this author has shown that it seems to be possible to account for lines of hitherto unknown origin in the spectra of the stellar nebulae and that of the solar corona, by assuming the presence in these bodies of certain hypothetical elements of exactly indicated constitution. The atoms of these elements are supposed to consist simply of a ring of a few electrons surrounding a positive nucleus of negligibly small dimensions. The ratios between the frequencies corresponding to the lines in question are compared with the ratios between the frequencies corresponding to different modes of vibration of the ring of electrons. Nicholson has obtained a relation to Planck's theory showing that the ratios between the wave-length of different sets of lines of the coronal spectrum can be accounted for with great accuracy by assuming that the ratio between the energy of the system and the frequency of rotation of the ring is equal to an entire multiple of Planck's constant. The quantity Nicholson refers to as the energy is equal to twice the quantity which we have denoted above by W. In the latest paper cited Nicholson has found it necessary to give the theory a more complicated form, still, however, representing the ratio of energy to frequency by a simple function of whole numbers.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 739,
+      "bottomRightX": 526,
+      "bottomRightY": 811,
+      "content": "The excellent agreement between the calculated and observed values of the ratios between the wave-lengths in question seems a strong argument in favour of the validity of the foundation of Nicholson's calculations. Serious",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 815,
+      "bottomRightX": 526,
+      "bottomRightY": 888,
+      "content": "* A. E. Haas, Jahrb. d. Rad. u. Fl. vii. p. 261 (1910). See further, A. Schidlof, Ann. d. Phys. xxxv. p. 90 (1911); E. Wertheimer, Phys. Zeitschr. xii. p. 409 (1911), Verh. deutsch. Phys. Ges. 1912, p. 431; F. A. Lindemann, Verh. deutsch. Phys. Ges. 1911, pp. 482, 1107; F. Haber, Verh. deutsch. Phys. Ges. 1911, p. 1117.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 885,
+      "bottomRightX": 526,
+      "bottomRightY": 917,
+      "content": "† J. W. Nicholson, Month. Not. Roy. Astr. Soc. lxxii. pp. 49, 139, 677, 693, 729 (1912).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

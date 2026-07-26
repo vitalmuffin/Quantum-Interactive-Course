@@ -1,0 +1,164 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 242,
+      "topLeftY": 92,
+      "bottomRightX": 466,
+      "bottomRightY": 112,
+      "content": "Quantum Theory of Electron.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 577,
+      "topLeftY": 93,
+      "bottomRightX": 609,
+      "bottomRightY": 110,
+      "content": "613",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 132,
+      "bottomRightX": 466,
+      "bottomRightY": 150,
+      "content": "# § 2.*The Hamiltonian for No Field.*",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 157,
+      "bottomRightX": 610,
+      "bottomRightY": 237,
+      "content": "Our problem is to obtain a wave equation of the form (2) which shall be invariant under a Lorentz transformation and shall be equivalent to (1) in the limit of large quantum numbers. We shall consider first the case of no field, when equation (1) reduces to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 248,
+      "bottomRightX": 610,
+      "bottomRightY": 267,
+      "content": "$$\\left(-p_0^2 + \\mathbf{p}^2 + m^2c^2\\right) \\psi = 0 \\quad (3)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 265,
+      "bottomRightX": 178,
+      "bottomRightY": 282,
+      "content": "if one puts",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 279,
+      "bottomRightX": 410,
+      "bottomRightY": 315,
+      "content": "$$p_0 = \\frac{W}{c} = ih \\frac{\\partial}{c \\partial t}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 328,
+      "bottomRightX": 610,
+      "bottomRightY": 389,
+      "content": "The symmetry between $p_0$ and $p_1$, $p_2$, $p_3$ required by relativity shows that, since the Hamiltonian we want is linear in $p_0$, it must also be linear in $p_1$, $p_2$ and $p_3$. Our wave equation is therefore of the form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 396,
+      "bottomRightX": 610,
+      "bottomRightY": 415,
+      "content": "$$(p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta) \\psi = 0, \\quad (4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 421,
+      "bottomRightX": 610,
+      "bottomRightY": 627,
+      "content": "where for the present all that is known about the dynamical variables or operators $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ is that they are independent of $p_0, p_1, p_2, p_3$, *i.e.*, that they commute with $t, x_1, x_2, x_3$. Since we are considering the case of a particle moving in empty space, so that all points in space are equivalent, we should expect the Hamiltonian not to involve $t, x_1, x_2, x_3$. This means that $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ are independent of $t, x_1, x_2, x_3$, *i.e.*, that they commute with $p_0, p_1, p_2, p_3$. We are therefore obliged to have other dynamical variables besides the co-ordinates and momenta of the electron, in order that $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ may be functions of them. The wave function $\\psi$ must then involve more variables than merely $x_1, x_2, x_3, t$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 629,
+      "bottomRightX": 256,
+      "bottomRightY": 647,
+      "content": "Equation (4) leads to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 658,
+      "bottomRightX": 610,
+      "bottomRightY": 704,
+      "content": "$$\\begin{aligned} 0 &= \\left(-p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta\\right) \\left(p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta\\right) \\psi \\\\ &= \\left[-p_0^2 + \\sum \\alpha_1^2 p_1^2 + \\sum (\\alpha_1 \\alpha_2 + \\alpha_2 \\alpha_1) p_1 p_2 + \\beta^2 + \\sum (\\alpha_1 \\beta + \\beta \\alpha_1) p_1\\right] \\psi, \\quad (5) \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 713,
+      "bottomRightX": 610,
+      "bottomRightY": 753,
+      "content": "where the $\\Sigma$ refers to cyclic permutation of the suffixes 1, 2, 3. This agrees with (3) if",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 755,
+      "bottomRightX": 548,
+      "bottomRightY": 807,
+      "content": "$$\\left. \\begin{array}{l} \\alpha_r^2 = 1, \\quad \\alpha_r \\alpha_s + \\alpha_s \\alpha_r = 0 \\quad (r \\neq s) \\\\ \\beta^2 = m^2c^2, \\quad \\alpha_r \\beta + \\beta \\alpha_r = 0 \\end{array} \\right\\} \\quad r, s = 1, 2, 3.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 817,
+      "bottomRightX": 394,
+      "bottomRightY": 837,
+      "content": "If we put $\\beta = \\alpha_4 mc$, these conditions become",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 847,
+      "bottomRightX": 610,
+      "bottomRightY": 866,
+      "content": "$$\\alpha_\\mu^2 = 1 \\quad \\alpha_\\mu \\alpha_r + \\alpha_r \\alpha_\\mu = 0 \\quad (\\mu \\neq \\nu) \\quad \\mu, \\nu = 1, 2, 3, 4. \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 876,
+      "bottomRightX": 610,
+      "bottomRightY": 916,
+      "content": "We can suppose the $\\alpha_\\mu$'s to be expressed as matrices in some matrix scheme, the matrix elements of $\\alpha_\\mu$ being, say, $\\alpha_\\mu (\\zeta' \\zeta'')$. The wave function $\\psi$ must",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

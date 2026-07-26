@@ -1,0 +1,164 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 272,
+      "topLeftY": 46,
+      "bottomRightX": 537,
+      "bottomRightY": 62,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 666,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "9",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 93,
+      "bottomRightX": 676,
+      "bottomRightY": 164,
+      "content": "One can express $b$ in terms of $a$ using the second one, and one will then get $A$ expressed in terms of $a$ from the first one. However, that means that the constants of the reflected wave and the constants of the transmitted wave can be calculated from the amplitude of the incoming wave.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 165,
+      "bottomRightX": 675,
+      "bottomRightY": 201,
+      "content": "One can now show that a relation exists between the intensities of the three waves. One obtains it most simply with the help of the energy theorem.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 237,
+      "bottomRightX": 676,
+      "bottomRightY": 307,
+      "content": "§ 4. The theorem of the conservation of energy. In order to derive this theorem, we return to the form of Schrödinger's differential equation for which the assumption of vibrations that are purely periodic in time is still not made, so one will have a wave equation of the form:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 328,
+      "topLeftY": 308,
+      "bottomRightX": 676,
+      "bottomRightY": 349,
+      "content": "$$\\frac{\\partial^2 \\psi}{\\partial x^2} - \\frac{1}{v^2} \\frac{\\partial^2 \\psi}{\\partial t^2} = 0. \\tag{1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 369,
+      "bottomRightX": 676,
+      "bottomRightY": 404,
+      "content": "In this, $v$ is the wave velocity. One comes to Schrödinger's equation when one, with de Broglie, sets (1):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 209,
+      "topLeftY": 424,
+      "bottomRightX": 578,
+      "bottomRightY": 462,
+      "content": "$$h\\nu = W = \\frac{\\mu}{2} u^2 + U, \\qquad v = \\lambda v, \\qquad \\frac{h}{\\lambda} = p = \\mu u;$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 480,
+      "bottomRightX": 236,
+      "bottomRightY": 497,
+      "content": "one will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 502,
+      "bottomRightX": 477,
+      "bottomRightY": 555,
+      "content": "$$\\frac{1}{v^2} = \\frac{h^2}{\\lambda^2} \\frac{1}{h^2 v^2} = \\frac{\\mu^2 u^2}{W^2} = \\frac{\\frac{\\mu}{2} u^2 \\cdot 2\\mu}{W^2},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 573,
+      "bottomRightX": 676,
+      "bottomRightY": 612,
+      "content": "$$\\frac{1}{v^2} = \\frac{2\\mu}{W^2} (W - U). \\tag{2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 633,
+      "bottomRightX": 672,
+      "bottomRightY": 680,
+      "content": "If one now seeks solutions whose time dependency is given by the factor $e^{2\\pi i u} = e^{\\frac{2\\pi i}{h} W}$ then one will get:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 305,
+      "topLeftY": 682,
+      "bottomRightX": 484,
+      "bottomRightY": 723,
+      "content": "$$\\frac{d^2 \\psi}{dx^2} + \\frac{8\\pi^2 \\mu}{h^2} (W - U) \\psi = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 741,
+      "bottomRightX": 676,
+      "bottomRightY": 777,
+      "content": "However, we now fix our attention on the general formula (1) and multiply the equation by $\\partial \\psi / \\partial t$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 778,
+      "bottomRightX": 225,
+      "bottomRightY": 794,
+      "content": "One now has:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 253,
+      "topLeftY": 797,
+      "bottomRightX": 489,
+      "bottomRightY": 839,
+      "content": "$$\\frac{\\partial^2 \\psi}{\\partial x^2} \\frac{\\partial \\psi}{\\partial t} = \\frac{\\partial}{\\partial x} \\left( \\frac{\\partial \\psi}{\\partial x} \\frac{\\partial \\psi}{\\partial t} \\right) - \\frac{\\partial \\psi}{\\partial x} \\frac{\\partial^2 \\psi}{\\partial x \\partial t}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 913,
+      "bottomRightX": 466,
+      "bottomRightY": 932,
+      "content": "(1) We neglect relativity and calculate with classical mechanics.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

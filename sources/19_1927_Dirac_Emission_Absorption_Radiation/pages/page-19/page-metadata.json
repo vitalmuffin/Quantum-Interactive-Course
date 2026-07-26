@@ -1,0 +1,119 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 158,
+      "topLeftY": 169,
+      "bottomRightX": 334,
+      "bottomRightY": 184,
+      "content": "and the transformation rule",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 195,
+      "bottomRightX": 496,
+      "bottomRightY": 228,
+      "content": "$$\\psi(x') = \\int (x'/p') \\psi(p') dp'_x dp'_y dp'_z,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 239,
+      "bottomRightX": 616,
+      "bottomRightY": 256,
+      "content": "we obtain for the initial wave function in the coordinates $x, y, z$ the value",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 266,
+      "bottomRightX": 489,
+      "bottomRightY": 286,
+      "content": "$$a^0(2\\pi h)^{-3/2} e^{i\\Sigma_{xyz} p_x^0 x'/h} e^{-W't/h}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 299,
+      "bottomRightX": 627,
+      "bottomRightY": 370,
+      "content": "This corresponds to an initial distribution of $|a^0|^2(2\\pi h)^{-3}$ electrons per unit volume. Since their velocity is $P^0 c^2/E^0$, the number per unit time striking a unit surface at right-angles to their direction of motion is $|a^0|^2 P^0 c^2/(2\\pi h)^3$. Dividing this into the expression (24) we obtain, with the help of (25),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 383,
+      "bottomRightX": 626,
+      "bottomRightY": 417,
+      "content": "$$4\\pi^2(2\\pi h)^2 \\frac{E'E^0}{c^4} |v(p'; p^0)|^2 \\frac{P'}{p^0} \\sin \\Theta' d\\Theta' d\\phi'. \\quad (26)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 429,
+      "bottomRightX": 627,
+      "bottomRightY": 532,
+      "content": "This is the effective area that must be bit by an electron in order that it shall be scattered in the solid angle $\\sin \\Theta' d\\Theta' d\\phi'$ with the energy $E'$. This result differs by the factor $(2\\pi h)^2/2mE' \\cdot P'/P^0$ from Born's.$^{16}$ The necessity for the factor $P'/p^0$ in (26) could have been predicted from the principle of detailed balancing, as the factor $|v(p'; p^0)|^2$ is symmetrical between the direct and reverse processes.$^{17}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 558,
+      "bottomRightX": 470,
+      "bottomRightY": 579,
+      "content": "## § 6. Application to Light-Quanta.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 593,
+      "bottomRightX": 627,
+      "bottomRightY": 784,
+      "content": "We shall now apply the theory of § 4 to the case when the systems of the assembly are light-quanta, the theory being applicable to this case since light-quanta obey the Einstein-Bose statistics and have no mutual interaction. A light-quantum is in a stationary state when it is moving with constant momentum in a straight line. Thus a stationary state $r$ is fixed by the three components of momentum of the light-quantum and a variable that specifies its state of polarisation. We shall work on the assumption that there are a finite number of these stationary states, lying very close to one another, as it would be inconvenient to use continuous ranges. The interaction of the light-quanta with an atomic system will be described by a Hamiltonian of the form (20), in which $H_P(J)$ is the Hamiltonian for the",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 794,
+      "bottomRightX": 627,
+      "bottomRightY": 852,
+      "content": "$^{16}$In a more recent paper (\"Nachr. Gesell. d. Wiss.,\" Gottingen, p. 146 (1926)) Born has obtained a result in agreement with that of the present paper for non-relativity mechanics, by using an interpretation of the analysis based on the conservation theorems. I am indebted to Prof. N. Bohr for seeing an advance copy of this work.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 170,
+      "topLeftY": 851,
+      "bottomRightX": 576,
+      "bottomRightY": 866,
+      "content": "$^{17}$See Klein and Rosseland, \"Z. f. Physik,\" vol. 4, p. 46, equation (4) (1921).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 382,
+      "topLeftY": 888,
+      "bottomRightX": 401,
+      "bottomRightY": 903,
+      "content": "19",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

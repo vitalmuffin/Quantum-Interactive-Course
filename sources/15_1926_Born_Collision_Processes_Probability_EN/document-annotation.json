@@ -1,0 +1,3959 @@
+{
+  "document_id": "38_1927_born_quantum_mechanics_collision_processes",
+  "source_filename": "born_quantum_mechanics_collision_processes_1927.pdf",
+  "metadata": {
+    "title_original": "Quantenmechanik der Stoßvorgänge",
+    "title_normalized": "Quantum mechanics of collision processes",
+    "authors": [
+      "Max Born"
+    ],
+    "publication_year": 1927,
+    "original_language": "de",
+    "journal": "Zeitschrift für Physik",
+    "volume": "38",
+    "issue": null,
+    "page_range": "803-827",
+    "doi": "10.1007/BF01397477",
+    "received_date": "21 July 1926",
+    "abstract_original": "Die Schrödingersche Form der Quantenmechanik gestattet es, die Häufigkeit eines Zustandes in natürlicher Weise mit Hilfe der Intensität der zugehörigen Eigenschwingung zu definieren. Diese Auffassung führt zu einer Theorie der Stoßvorgänge, in der die Übergangswahrscheinlichkeiten durch das asymptotische Verhalten aperiodischer Lösungen bestimmt werden.\n\nEinleitung. Die Stoßvorgänge liefern nicht nur den überzeugendsten experimentellen Beweis für die Grundannahmen der Quantentheorie, sondern scheinen auch geeignet, die physikalische Bedeutung der formalen Gesetze der sogenannten „Quantenmechanik“ zu klären. Allerdings liefert die Matrizenform der Quantenmechanik, die von Heisenberg begründet und von ihm und dem Verfasser dieser Arbeit entwickelt wurde, nur die richtigen Termwerte der stationären Zustände und die richtigen Amplituden der bei den Übergängen ausgestrahlten Schwingungen, während die physikalische Deutung der Formeln umstritten ist. Schrödinger dagegen schreibt den Wellen, die er als Träger der atomaren Vorgänge ansieht, eine Realität zu, die derjenigen der Lichtwellen entspricht; er sucht „Wellenpakete zu konstruieren, die in allen Richtungen kleine Dimensionen haben“, und die offenbar das bewegte Korpuskel direkt darstellen sollen.\n\nKeine dieser Auffassungen scheint mir befriedigend zu sein. Ich möchte hier versuchen, eine dritte Deutung zu geben und ihre Brauchbarkeit an Stoßvorgängen zu erproben. Ich erinnere an eine Bemerkung Einsteins über das Verhalten des Wellenfeldes und der Lichtquanten: Er sagte, die Wellen müßten nur dort sein, wo man den Weg der korpuskularen Lichtquanten zu kennen braucht, und sprach in diesem Sinne von einem „Gespensterfeld“. Dieses bestimmt die Wahrscheinlichkeit, mit der ein Lichtquant — d. h. der Träger von Energie und Impuls — einen bestimmten Weg einschlägt; das Feld selbst wird aber weder Energie noch Impuls zugeschrieben.\n\nMan würde diese Gedanken besser auf sich beruhen lassen, wenn sie direkt an die Quantentheorie geknüpft werden, bis der Ort des elektromagnetischen Feldes im Formalismus festgestellt ist. Aber aus der vollkommenen Analogie zwischen Lichtquanten und Elektronen könnte man versuchen, die Gesetze der Elektronenbewegung in ähnlicher Weise zu formulieren. Das hängt eng zusammen mit der Auffassung der de Broglie-Schrödingerschen Wellen als „Gespensterfelder“ oder besser „Führungsfelder“.\n\nIch möchte nun heuristisch folgenden Gedanken verfolgen: Das Führungsfeld, dargestellt durch eine skalare Funktion ψ der Koordinaten aller beteiligten Teilchen und der Zeit, genügt der Schrödingerschen Differentialgleichung. Impuls und Energie werden aber so mitgeführt, als ob Korpuskeln (d. h. Elektronen) wirklich fliegen. Die Bahnen dieser Korpuskeln sind nur insoweit bestimmt, als sie durch Energie- und Impulssatz eingeschränkt sind; es wird nur eine Wahrscheinlichkeit dafür bestimmt, dass eine bestimmte Bahn eingeschlagen wird. Man kann das vielleicht etwas paradox so zusammenfassen: Die Bewegung des Teilchens folgt Wahrscheinlichkeitsgesetzen, aber die Wahrscheinlichkeit selbst breitet sich nach kausalen Gesetzen aus."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": null,
+      "detected_layout": "title_page",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "Quantenmechanik der Stoßvorgänge",
+          "markdown": "# Quantenmechanik der Stoßvorgänge",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Quantum mechanics of collision processes (¹).",
+          "markdown": "### Quantum mechanics of collision processes (¹).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "author",
+          "level": null,
+          "text_original": "By **Max Born** in Göttingen.",
+          "markdown": "By **Max Born** in Göttingen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Received on 21 July 1926)",
+          "markdown": "(Received on 21 July 1926)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Translated by D. H. Delphenich",
+          "markdown": "Translated by D. H. Delphenich",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The *Schrödinger* form of quantum mechanics allows one to define the frequency of a state in a natural way with the help of the intensity of the associated eigen-vibration. This viewpoint leads to a theory of collision processes in which the transition probabilities are determined by the asymptotic behavior of aperiodic solutions.",
+          "markdown": "The *Schrödinger* form of quantum mechanics allows one to define the frequency of a state in a natural way with the help of the intensity of the associated eigen-vibration. This viewpoint leads to a theory of collision processes in which the transition probabilities are determined by the asymptotic behavior of aperiodic solutions.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Quantenmechanik der Stoßvorgänge\n\n### Quantum mechanics of collision processes (¹).\n\nBy **Max Born** in Göttingen.\n\n(Received on 21 July 1926)\n\nTranslated by D. H. Delphenich\n\nThe *Schrödinger* form of quantum mechanics allows one to define the frequency of a state in a natural way with the help of the intensity of the associated eigen-vibration. This viewpoint leads to a theory of collision processes in which the transition probabilities are determined by the asymptotic behavior of aperiodic solutions.",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Title page with German and English title, author, and submission date."
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Introduction.",
+          "markdown": "## Introduction.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Collision processes not only yield the most convincing experimental proof of the basic assumptions of quantum theory, but also seem suitable for explaining the physical meaning of the formal laws of the so-called “quantum mechanics.” Indeed, as it seems, it always produces the correct term values of the stationary states and the correct amplitudes for the oscillations that are radiated by the transitions, but opinions are divided regarding the physical interpretation of the formulas. The matrix form of quantum mechanics (²) that was founded by *Heisenberg* and developed by him and the author of this article starts from the thought that an exact representation of processes in space and time is quite impossible and that one must then content oneself with presenting the relations between the observed quantities, which can only be interpreted as properties of the motions in the limiting classical cases. On the other hand, *Schrödinger* (³) seems to have ascribed a reality of the same kind that light waves possessed to the waves that he regards as the carriers of atomic processes by using the *de Broglie* procedure; he attempts “to construct wave packets that have relatively small dimensions in all directions,” and which can obviously represent the moving corpuscle directly.",
+          "markdown": "Collision processes not only yield the most convincing experimental proof of the basic assumptions of quantum theory, but also seem suitable for explaining the physical meaning of the formal laws of the so-called “quantum mechanics.” Indeed, as it seems, it always produces the correct term values of the stationary states and the correct amplitudes for the oscillations that are radiated by the transitions, but opinions are divided regarding the physical interpretation of the formulas. The matrix form of quantum mechanics (²) that was founded by *Heisenberg* and developed by him and the author of this article starts from the thought that an exact representation of processes in space and time is quite impossible and that one must then content oneself with presenting the relations between the observed quantities, which can only be interpreted as properties of the motions in the limiting classical cases. On the other hand, *Schrödinger* (³) seems to have ascribed a reality of the same kind that light waves possessed to the waves that he regards as the carriers of atomic processes by using the *de Broglie* procedure; he attempts “to construct wave packets that have relatively small dimensions in all directions,” and which can obviously represent the moving corpuscle directly.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Neither of these viewpoints seems satisfactory to me. Here, I would like to try to give a third interpretation and probe its utility in collision processes. I shall recall a remark that *Einstein* made about the behavior of the wave field and light quanta. He said that perhaps the waves only have to be wherever one needs to know the path of the corpuscular light quanta, and in that sense, he spoke of a “ghost field.” It determines the probability that a light quantum – viz., the carrier of energy and impulse – follows a certain path; however, the field itself is ascribed no energy and no impulse.",
+          "markdown": "Neither of these viewpoints seems satisfactory to me. Here, I would like to try to give a third interpretation and probe its utility in collision processes. I shall recall a remark that *Einstein* made about the behavior of the wave field and light quanta. He said that perhaps the waves only have to be wherever one needs to know the path of the corpuscular light quanta, and in that sense, he spoke of a “ghost field.” It determines the probability that a light quantum – viz., the carrier of energy and impulse – follows a certain path; however, the field itself is ascribed no energy and no impulse.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## Introduction.\n\nCollision processes not only yield the most convincing experimental proof of the basic assumptions of quantum theory, but also seem suitable for explaining the physical meaning of the formal laws of the so-called “quantum mechanics.” Indeed, as it seems, it always produces the correct term values of the stationary states and the correct amplitudes for the oscillations that are radiated by the transitions, but opinions are divided regarding the physical interpretation of the formulas. The matrix form of quantum mechanics (²) that was founded by *Heisenberg* and developed by him and the author of this article starts from the thought that an exact representation of processes in space and time is quite impossible and that one must then content oneself with presenting the relations between the observed quantities, which can only be interpreted as properties of the motions in the limiting classical cases. On the other hand, *Schrödinger* (³) seems to have ascribed a reality of the same kind that light waves possessed to the waves that he regards as the carriers of atomic processes by using the *de Broglie* procedure; he attempts “to construct wave packets that have relatively small dimensions in all directions,” and which can obviously represent the moving corpuscle directly.\n\nNeither of these viewpoints seems satisfactory to me. Here, I would like to try to give a third interpretation and probe its utility in collision processes. I shall recall a remark that *Einstein* made about the behavior of the wave field and light quanta. He said that perhaps the waves only have to be wherever one needs to know the path of the corpuscular light quanta, and in that sense, he spoke of a “ghost field.” It determines the probability that a light quantum – viz., the carrier of energy and impulse – follows a certain path; however, the field itself is ascribed no energy and no impulse.",
+      "word_count": 280,
+      "page_quality_notes": [
+        "Introduction section with references to Heisenberg and Schrödinger."
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(¹) A preliminary announcement appeared in Zeit. Phys. **37** (1926), 863.",
+          "markdown": "(¹) A preliminary announcement appeared in Zeit. Phys. **37** (1926), 863.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(²) *W. Heisenberg*, Zeit. Phys. **33** (1925), 879; *M. Born* and *P. Jordan*, *ibidem* **34** (1925), 858; *M. Born*, *W. Heisenberg*, and *P. Jordan*, *ibidem* **35** (1926), 557. See also *P. A. M. Dirac*, Proc. Roy. Soc. **109** (1925), 642; **110** (1926), 561.",
+          "markdown": "(²) *W. Heisenberg*, Zeit. Phys. **33** (1925), 879; *M. Born* and *P. Jordan*, *ibidem* **34** (1925), 858; *M. Born*, *W. Heisenberg*, and *P. Jordan*, *ibidem* **35** (1926), 557. See also *P. A. M. Dirac*, Proc. Roy. Soc. **109** (1925), 642; **110** (1926), 561.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(³) *E. Schrödinger*, Ann. d. Phys. **79** (1926), 361, 489, 734. Cf., the second paper, pp. 499. Furthermore, Naturw. **14** (1926), 664.Born – Quantum mechanics of collision processes.",
+          "markdown": "(³) *E. Schrödinger*, Ann. d. Phys. **79** (1926), 361, 489, 734. Cf., the second paper, pp. 499. Furthermore, Naturw. **14** (1926), 664.\n\nBorn – Quantum mechanics of collision processes.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "One would do better to postpone these thoughts, when coupled directly to quantum mechanics, until the place of the electromagnetic field in the formalism has been established. However, from the complete analogy between light quanta and electrons, one might consider formulating the laws of electron motion in a similar manner. This is closely related to regarding the *de Broglie-Schrödinger* waves as “ghost fields,” or better yet, “guiding fields.”",
+          "markdown": "One would do better to postpone these thoughts, when coupled directly to quantum mechanics, until the place of the electromagnetic field in the formalism has been established. However, from the complete analogy between light quanta and electrons, one might consider formulating the laws of electron motion in a similar manner. This is closely related to regarding the *de Broglie-Schrödinger* waves as “ghost fields,” or better yet, “guiding fields.”",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "I would then like to pursue the following idea heuristically: The guiding field, which is represented by a scalar function $\\psi$ of the coordinates of all particles that are involved and time, propagates according to *Schrödinger’s* differential equation. However, impulse and energy will be carried along as when corpuscles (i.e., electrons) are actually flying around. The paths of these corpuscles are determined only to the extent that they are constrained by the law of energy and impulse; moreover, only a probability that a certain path will be followed will be determined by the function $\\psi$. One can perhaps summarize this, somewhat paradoxically, as: The motion of the particle follows the laws of probability, but the probability itself propagates in accord with causal laws $^{(1)}$.",
+          "markdown": "I would then like to pursue the following idea heuristically: The guiding field, which is represented by a scalar function $\\psi$ of the coordinates of all particles that are involved and time, propagates according to *Schrödinger’s* differential equation. However, impulse and energy will be carried along as when corpuscles (i.e., electrons) are actually flying around. The paths of these corpuscles are determined only to the extent that they are constrained by the law of energy and impulse; moreover, only a probability that a certain path will be followed will be determined by the function $\\psi$. One can perhaps summarize this, somewhat paradoxically, as: The motion of the particle follows the laws of probability, but the probability itself propagates in accord with causal laws $^{(1)}$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Formula in LaTeX format requires verification for correct rendering."
+        }
+      ],
+      "page_markdown_original": "(¹) A preliminary announcement appeared in Zeit. Phys. **37** (1926), 863.\n\n(²) *W. Heisenberg*, Zeit. Phys. **33** (1925), 879; *M. Born* and *P. Jordan*, *ibidem* **34** (1925), 858; *M. Born*, *W. Heisenberg*, and *P. Jordan*, *ibidem* **35** (1926), 557. See also *P. A. M. Dirac*, Proc. Roy. Soc. **109** (1925), 642; **110** (1926), 561.\n\n(³) *E. Schrödinger*, Ann. d. Phys. **79** (1926), 361, 489, 734. Cf., the second paper, pp. 499. Furthermore, Naturw. **14** (1926), 664.\n\nBorn – Quantum mechanics of collision processes.\n\nOne would do better to postpone these thoughts, when coupled directly to quantum mechanics, until the place of the electromagnetic field in the formalism has been established. However, from the complete analogy between light quanta and electrons, one might consider formulating the laws of electron motion in a similar manner. This is closely related to regarding the *de Broglie-Schrödinger* waves as “ghost fields,” or better yet, “guiding fields.”\n\nI would then like to pursue the following idea heuristically: The guiding field, which is represented by a scalar function $\\psi$ of the coordinates of all particles that are involved and time, propagates according to *Schrödinger’s* differential equation. However, impulse and energy will be carried along as when corpuscles (i.e., electrons) are actually flying around. The paths of these corpuscles are determined only to the extent that they are constrained by the law of energy and impulse; moreover, only a probability that a certain path will be followed will be determined by the function $\\psi$. One can perhaps summarize this, somewhat paradoxically, as: The motion of the particle follows the laws of probability, but the probability itself propagates in accord with causal laws $^{(1)}$.",
+      "word_count": 250,
+      "page_quality_notes": [
+        "References to foundational works by Heisenberg, Born & Jordan, and Schrödinger. Contains a formula in LaTeX that needs verification."
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(1) That means that the knowledge of the state at all points at a moment will establish the distribution of states at all later times.",
+          "markdown": "(1) That means that the knowledge of the state at all points at a moment will establish the distribution of states at all later times.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(2) *N. Wiener* of Cambridge, Mass. has graciously helped me with the mathematical details of this paper; I would like to express my thanks to him for that and acknowledge that I would not have reached my goal without him.",
+          "markdown": "(2) *N. Wiener* of Cambridge, Mass. has graciously helped me with the mathematical details of this paper; I would like to express my thanks to him for that and acknowledge that I would not have reached my goal without him.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(3) For the sake of simplicity, I shall set the density function equal to 1 here.Born – Quantum mechanics of collision processes.",
+          "markdown": "(3) For the sake of simplicity, I shall set the density function equal to 1 here.\n\nBorn – Quantum mechanics of collision processes.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 1. Definition of the weights and frequencies for periodic systems.",
+          "markdown": "## § 1. Definition of the weights and frequencies for periodic systems.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We begin with an entirely formal consideration of the discrete, stationary states of a non-degenerate system. They can be characterized by *Schrödinger’s* differential equation:",
+          "markdown": "We begin with an entirely formal consideration of the discrete, stationary states of a non-degenerate system. They can be characterized by *Schrödinger’s* differential equation:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$[H - W, \\psi] = 0. \\tag{1}$$",
+          "markdown": "$$[H - W, \\psi] = 0. \\tag{1}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Let the eigenfunctions be normalized to 1 $^{(3)}$:",
+          "markdown": "Let the eigenfunctions be normalized to 1 $^{(3)}$:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "(1) That means that the knowledge of the state at all points at a moment will establish the distribution of states at all later times.\n\n(2) *N. Wiener* of Cambridge, Mass. has graciously helped me with the mathematical details of this paper; I would like to express my thanks to him for that and acknowledge that I would not have reached my goal without him.\n\n(3) For the sake of simplicity, I shall set the density function equal to 1 here.\n\nBorn – Quantum mechanics of collision processes.\n\n## § 1. Definition of the weights and frequencies for periodic systems.\n\nWe begin with an entirely formal consideration of the discrete, stationary states of a non-degenerate system. They can be characterized by *Schrödinger’s* differential equation:\n\n$$[H - W, \\psi] = 0. \\tag{1}$$",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Section header and equation requiring verification for correct LaTeX rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\int \\psi_n(q) \\psi_m^*(q) \\, dq = \\delta_{nn}. \\tag{2}$$",
+          "markdown": "$$\\int \\psi_n(q) \\psi_m^*(q) \\, dq = \\delta_{nn}. \\tag{2}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Any arbitrary function $\\psi(q)$ can be developed in eigenfunctions:",
+          "markdown": "Any arbitrary function $\\psi(q)$ can be developed in eigenfunctions:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi(q) = \\sum_{n} c_{n} \\psi_{n}(q). \\tag{3}$$",
+          "markdown": "$$\\psi(q) = \\sum_{n} c_{n} \\psi_{n}(q). \\tag{3}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Up to now, all of the attention has been focused upon the eigenvibrations $\\psi_{n}$ and the eigenvalues $W_{n}$. The picture that we suggested in the introduction is closely related to the idea of connecting the superposition of functions that is represented in (3) with the probability that the state will appear with a certain frequency in a cloud of identical, uncoupled atoms.",
+          "markdown": "Up to now, all of the attention has been focused upon the eigenvibrations $\\psi_{n}$ and the eigenvalues $W_{n}$. The picture that we suggested in the introduction is closely related to the idea of connecting the superposition of functions that is represented in (3) with the probability that the state will appear with a certain frequency in a cloud of identical, uncoupled atoms.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\int |\\psi(q)|^{2} \\, dq = \\sum_{n} |c_{n}|^{2} \\tag{4}$$",
+          "markdown": "$$\\int |\\psi(q)|^{2} \\, dq = \\sum_{n} |c_{n}|^{2} \\tag{4}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\int \\psi_n(q) \\psi_m^*(q) \\, dq = \\delta_{nn}. \\tag{2}$$\n\nAny arbitrary function $\\psi(q)$ can be developed in eigenfunctions:\n\n$$\\psi(q) = \\sum_{n} c_{n} \\psi_{n}(q). \\tag{3}$$\n\nUp to now, all of the attention has been focused upon the eigenvibrations $\\psi_{n}$ and the eigenvalues $W_{n}$. The picture that we suggested in the introduction is closely related to the idea of connecting the superposition of functions that is represented in (3) with the probability that the state will appear with a certain frequency in a cloud of identical, uncoupled atoms.\n\n$$\\int |\\psi(q)|^{2} \\, dq = \\sum_{n} |c_{n}|^{2} \\tag{4}$$",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Equations requiring verification for correct LaTeX rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The completeness relation:",
+          "markdown": "The completeness relation:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\int |\\psi(q)|^{2} \\, dq = \\sum_{n} |c_{n}|^{2} \\tag{4}$$",
+          "markdown": "$$\\int |\\psi(q)|^{2} \\, dq = \\sum_{n} |c_{n}|^{2} \\tag{4}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "leads to the idea that this integral can be regarded as the number of atoms. It then has the value 1 for the appearance of a single, normalized eigenvibration (or: the *a priori* weight of the state is 1), $|c_{n}|^{2}$ means the frequency of the state $n$, and the total numbers can be combined additively from these components.",
+          "markdown": "leads to the idea that this integral can be regarded as the number of atoms. It then has the value 1 for the appearance of a single, normalized eigenvibration (or: the *a priori* weight of the state is 1), $|c_{n}|^{2}$ means the frequency of the state $n$, and the total numbers can be combined additively from these components.",
+          "asset_id": "null",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In order to justify this interpretation, we shall consider, say, the motion of a massive point in three-dimensional space under the action of the potential energy $U(x, y, z)$; the differential equation (1) will then read:",
+          "markdown": "In order to justify this interpretation, we shall consider, say, the motion of a massive point in three-dimensional space under the action of the potential energy $U(x, y, z)$; the differential equation (1) will then read:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Delta\\psi + \\frac{8\\pi^{2}\\mu}{h^{2}}(W - U)\\psi = 0. \\tag{5}$$",
+          "markdown": "$$\\Delta\\psi + \\frac{8\\pi^{2}\\mu}{h^{2}}(W - U)\\psi = 0. \\tag{5}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "The completeness relation:\n\n$$\\int |\\psi(q)|^{2} \\, dq = \\sum_{n} |c_{n}|^{2} \\tag{4}$$\n\nleads to the idea that this integral can be regarded as the number of atoms. It then has the value 1 for the appearance of a single, normalized eigenvibration (or: the *a priori* weight of the state is 1), $|c_{n}|^{2}$ means the frequency of the state $n$, and the total numbers can be combined additively from these components.\n\nIn order to justify this interpretation, we shall consider, say, the motion of a massive point in three-dimensional space under the action of the potential energy $U(x, y, z)$; the differential equation (1) will then read:\n\n$$\\Delta\\psi + \\frac{8\\pi^{2}\\mu}{h^{2}}(W - U)\\psi = 0. \\tag{5}$$",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Equations requiring verification for correct LaTeX rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\delta_{mn} W_{n} = \\iiint \\left\\{ \\frac{h^{2}}{8\\pi^{2}\\mu}(\\text{grad }\\psi_{n} \\cdot \\text{grad }\\psi_{m}^{*}) + U\\psi_{n}\\psi_{m}^{*} \\right\\} dS. \\tag{6}$$",
+          "markdown": "$$\\delta_{mn} W_{n} = \\iiint \\left\\{ \\frac{h^{2}}{8\\pi^{2}\\mu}(\\text{grad }\\psi_{n} \\cdot \\text{grad }\\psi_{m}^{*}) + U\\psi_{n}\\psi_{m}^{*} \\right\\} dS. \\tag{6}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with multiple LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Each energy level can then be regarded as the spatial integral of the energy density of the eigenvibrations.",
+          "markdown": "Each energy level can then be regarded as the spatial integral of the energy density of the eigenvibrations.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If one now defines the corresponding integral for any function:",
+          "markdown": "If one now defines the corresponding integral for any function:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W = \\iiint \\left\\{ \\frac{h^{2}}{8\\pi^{2}\\mu}|\\text{grad }\\psi_{n}|^{2} + U|\\psi_{n}|^{2} \\right\\} dS \\tag{7}$$",
+          "markdown": "$$W = \\iiint \\left\\{ \\frac{h^{2}}{8\\pi^{2}\\mu}|\\text{grad }\\psi_{n}|^{2} + U|\\psi_{n}|^{2} \\right\\} dS \\tag{7}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with multiple LaTeX elements requiring verification."
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$W = \\sum_n |c_n|^2 W_n. \\quad (8)$$",
+          "markdown": "$$W = \\sum_n |c_n|^2 W_n. \\quad (8)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\delta_{mn} W_{n} = \\iiint \\left\\{ \\frac{h^{2}}{8\\pi^{2}\\mu}(\\text{grad }\\psi_{n} \\cdot \\text{grad }\\psi_{m}^{*}) + U\\psi_{n}\\psi_{m}^{*} \\right\\} dS. \\tag{6}$$\n\nEach energy level can then be regarded as the spatial integral of the energy density of the eigenvibrations.\n\nIf one now defines the corresponding integral for any function:\n\n$$W = \\iiint \\left\\{ \\frac{h^{2}}{8\\pi^{2}\\mu}|\\text{grad }\\psi_{n}|^{2} + U|\\psi_{n}|^{2} \\right\\} dS \\tag{7}$$\n\n$$W = \\sum_n |c_n|^2 W_n. \\quad (8)$$",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Complex equations with multiple LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 2. Aperiodic systems.",
+          "markdown": "## § 2. Aperiodic systems.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now go on to the aperiodic processes and, for the sake of simplicity, we shall first consider the case of uniform, rectilinear motion along the $x$-axis. In that case, the differential equation reads:",
+          "markdown": "We now go on to the aperiodic processes and, for the sake of simplicity, we shall first consider the case of uniform, rectilinear motion along the $x$-axis. In that case, the differential equation reads:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{d^2\\psi}{dx^2} + k^2\\psi = 0, \\quad k^2 = \\frac{8\\pi^2\\mu}{h^2}W; \\quad (1)$$",
+          "markdown": "$$\\frac{d^2\\psi}{dx^2} + k^2\\psi = 0, \\quad k^2 = \\frac{8\\pi^2\\mu}{h^2}W; \\quad (1)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "it has all positive values $W$ for its eigenvalues and the eigenfunctions:",
+          "markdown": "it has all positive values $W$ for its eigenvalues and the eigenfunctions:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi = c e^{\\pm ikx}.$$",
+          "markdown": "$$\\psi = c e^{\\pm ikx}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "## § 2. Aperiodic systems.\n\nWe now go on to the aperiodic processes and, for the sake of simplicity, we shall first consider the case of uniform, rectilinear motion along the $x$-axis. In that case, the differential equation reads:\n\n$$\\frac{d^2\\psi}{dx^2} + k^2\\psi = 0, \\quad k^2 = \\frac{8\\pi^2\\mu}{h^2}W; \\quad (1)$$\n\nit has all positive values $W$ for its eigenvalues and the eigenfunctions:\n\n$$\\psi = c e^{\\pm ikx}.$$",
+      "word_count": 100,
+      "page_quality_notes": [
+        "Section header and equations requiring verification for correct LaTeX rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi(k, x) = e^{\\pm ikx}. \\quad (3)$$",
+          "markdown": "$$\\psi(k, x) = e^{\\pm ikx}. \\quad (3)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Any function of $x$ can be composed of these. In order to do that, one must choose the unit for the $k$-scale – i.e., one must establish which segments shall have the weight 1. For that, one considers the free motion to be a limiting case of a periodic one, namely, the eigenvibration of a finite piece of the $x$-axis. One then knows that the number per unit length and per interval $(k, k + dk)$ is equal to $\\frac{\\Delta k}{2\\pi} = \\Delta\\left(\\frac{1}{\\lambda}\\right)$, where $\\lambda$ is the wave length. One will then set:",
+          "markdown": "Any function of $x$ can be composed of these. In order to do that, one must choose the unit for the $k$-scale – i.e., one must establish which segments shall have the weight 1. For that, one considers the free motion to be a limiting case of a periodic one, namely, the eigenvibration of a finite piece of the $x$-axis. One then knows that the number per unit length and per interval $(k, k + dk)$ is equal to $\\frac{\\Delta k}{2\\pi} = \\Delta\\left(\\frac{1}{\\lambda}\\right)$, where $\\lambda$ is the wave length. One will then set:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi(x) = \\int_{-\\infty}^{\\infty} c(k)\\psi(k, x) d\\frac{k}{2\\pi} = \\int_{-\\infty}^{\\infty} c(k) e^{ikx} dk, \\quad (4)$$",
+          "markdown": "$$\\psi(x) = \\int_{-\\infty}^{\\infty} c(k)\\psi(k, x) d\\frac{k}{2\\pi} = \\int_{-\\infty}^{\\infty} c(k) e^{ikx} dk, \\quad (4)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$c(-k) = c^*(k) \\quad (5)$$",
+          "markdown": "$$c(-k) = c^*(k) \\quad (5)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "$$\\psi(k, x) = e^{\\pm ikx}. \\quad (3)$$\n\nAny function of $x$ can be composed of these. In order to do that, one must choose the unit for the $k$-scale – i.e., one must establish which segments shall have the weight 1. For that, one considers the free motion to be a limiting case of a periodic one, namely, the eigenvibration of a finite piece of the $x$-axis. One then knows that the number per unit length and per interval $(k, k + dk)$ is equal to $\\frac{\\Delta k}{2\\pi} = \\Delta\\left(\\frac{1}{\\lambda}\\right)$, where $\\lambda$ is the wave length. One will then set:\n\n$$\\psi(x) = \\int_{-\\infty}^{\\infty} c(k)\\psi(k, x) d\\frac{k}{2\\pi} = \\int_{-\\infty}^{\\infty} c(k) e^{ikx} dk, \\quad (4)$$\n\n$$c(-k) = c^*(k) \\quad (5)$$",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 10,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "and expect that $|c(k)|^2$ will then be the measure of the frequency for the interval $\\frac{1}{2\\pi} dk$.",
+          "markdown": "and expect that $|c(k)|^2$ will then be the measure of the frequency for the interval $\\frac{1}{2\\pi} dk$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "For a mixture of atoms for which the eigenfunctions appear in the distribution that is given by $c(k)$, let the number that is analogous to § 1, (4) be represented by the integral:",
+          "markdown": "For a mixture of atoms for which the eigenfunctions appear in the distribution that is given by $c(k)$, let the number that is analogous to § 1, (4) be represented by the integral:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\int_{-\\infty}^{\\infty} |\\psi(x)|^2 dx = \\frac{1}{(2\\pi)^2} \\int_{-\\infty}^{\\infty} dx \\left| \\int_{-\\infty}^{\\infty} c(k) e^{ikx} dk \\right|^2. \\tag{6}$$",
+          "markdown": "$$\\int_{-\\infty}^{\\infty} |\\psi(x)|^2 dx = \\frac{1}{(2\\pi)^2} \\int_{-\\infty}^{\\infty} dx \\left| \\int_{-\\infty}^{\\infty} c(k) e^{ikx} dk \\right|^2. \\tag{6}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with multiple LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If we take the case in which only the small interval $k_1 \\le k \\le k_2$ is occupied then:",
+          "markdown": "If we take the case in which only the small interval $k_1 \\le k \\le k_2$ is occupied then:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} \\int_{-\\infty}^{\\infty} |\\psi(x)|^2 dx &= \\frac{|\\bar{c}|^2}{4\\pi^2} \\int_{-\\infty}^{\\infty} \\frac{dx}{x^2} (e^{ik_2 x} - e^{ik_1 x})(e^{-ik_2 x} - e^{-ik_1 x}) \\\\ &= \\frac{|\\bar{c}|^2}{4\\pi^2} 4 \\int_{-\\infty}^{\\infty} \\frac{dx}{x^2} \\sin^2 \\frac{k_2 - k_1}{2} = \\frac{1}{2\\pi} |\\bar{c}|^2 (k_2 - k_1). \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} \\int_{-\\infty}^{\\infty} |\\psi(x)|^2 dx &= \\frac{|\\bar{c}|^2}{4\\pi^2} \\int_{-\\infty}^{\\infty} \\frac{dx}{x^2} (e^{ik_2 x} - e^{ik_1 x})(e^{-ik_2 x} - e^{-ik_1 x}) \\\\ &= \\frac{|\\bar{c}|^2}{4\\pi^2} 4 \\int_{-\\infty}^{\\infty} \\frac{dx}{x^2} \\sin^2 \\frac{k_2 - k_1}{2} = \\frac{1}{2\\pi} |\\bar{c}|^2 (k_2 - k_1). \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "and expect that $|c(k)|^2$ will then be the measure of the frequency for the interval $\\frac{1}{2\\pi} dk$.\n\nFor a mixture of atoms for which the eigenfunctions appear in the distribution that is given by $c(k)$, let the number that is analogous to § 1, (4) be represented by the integral:\n\n$$\\int_{-\\infty}^{\\infty} |\\psi(x)|^2 dx = \\frac{1}{(2\\pi)^2} \\int_{-\\infty}^{\\infty} dx \\left| \\int_{-\\infty}^{\\infty} c(k) e^{ikx} dk \\right|^2. \\tag{6}$$\n\nIf we take the case in which only the small interval $k_1 \\le k \\le k_2$ is occupied then:\n\n$$\\begin{aligned} \\int_{-\\infty}^{\\infty} |\\psi(x)|^2 dx &= \\frac{|\\bar{c}|^2}{4\\pi^2} \\int_{-\\infty}^{\\infty} \\frac{dx}{x^2} (e^{ik_2 x} - e^{ik_1 x})(e^{-ik_2 x} - e^{-ik_1 x}) \\\\ &= \\frac{|\\bar{c}|^2}{4\\pi^2} 4 \\int_{-\\infty}^{\\infty} \\frac{dx}{x^2} \\sin^2 \\frac{k_2 - k_1}{2} = \\frac{1}{2\\pi} |\\bar{c}|^2 (k_2 - k_1). \\end{aligned}$$",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Complex equations with multiple LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 11,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$p = \\frac{h}{\\lambda} = \\frac{h}{2\\pi} k. \\tag{7}$$",
+          "markdown": "$$p = \\frac{h}{\\lambda} = \\frac{h}{2\\pi} k. \\tag{7}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It is, perhaps, not superfluous to remark that one can also formulate this as a “matrix”; one must then define the matrices in the continuous spectrum here, not by integrals, but by mean values:",
+          "markdown": "It is, perhaps, not superfluous to remark that one can also formulate this as a “matrix”; one must then define the matrices in the continuous spectrum here, not by integrals, but by mean values:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} p(k, k') &= \\frac{h}{2\\pi i} \\lim_{a \\to \\infty} \\frac{1}{2a} \\int_{-a}^{+a} \\psi'(k, x) \\frac{\\partial \\psi(k', x)}{\\partial x} dx \\\\ &= \\frac{h}{2\\pi i} \\lim_{a \\to \\infty} \\frac{1}{2a} \\int_{-a}^{+a} e^{-ikx} ik' e^{ik'x} dx. \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} p(k, k') &= \\frac{h}{2\\pi i} \\lim_{a \\to \\infty} \\frac{1}{2a} \\int_{-a}^{+a} \\psi'(k, x) \\frac{\\partial \\psi(k', x)}{\\partial x} dx \\\\ &= \\frac{h}{2\\pi i} \\lim_{a \\to \\infty} \\frac{1}{2a} \\int_{-a}^{+a} e^{-ikx} ik' e^{ik'x} dx. \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$p(k, k') = \\begin{cases} \\frac{h}{2\\pi} k & \\text{ for } k = k', \\\\ 0 & \\text{ \" } k \\neq k'. \\end{cases} \\tag{8}$$",
+          "markdown": "$$p(k, k') = \\begin{cases} \\frac{h}{2\\pi} k & \\text{ for } k = k', \\\\ 0 & \\text{ \" } k \\neq k'. \\end{cases} \\tag{8}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "$$p = \\frac{h}{\\lambda} = \\frac{h}{2\\pi} k. \\tag{7}$$\n\nIt is, perhaps, not superfluous to remark that one can also formulate this as a “matrix”; one must then define the matrices in the continuous spectrum here, not by integrals, but by mean values:\n\n$$\\begin{aligned} p(k, k') &= \\frac{h}{2\\pi i} \\lim_{a \\to \\infty} \\frac{1}{2a} \\int_{-a}^{+a} \\psi'(k, x) \\frac{\\partial \\psi(k', x)}{\\partial x} dx \\\\ &= \\frac{h}{2\\pi i} \\lim_{a \\to \\infty} \\frac{1}{2a} \\int_{-a}^{+a} e^{-ikx} ik' e^{ik'x} dx. \\end{aligned}$$\n\n$$p(k, k') = \\begin{cases} \\frac{h}{2\\pi} k & \\text{ for } k = k', \\\\ 0 & \\text{ \" } k \\neq k'. \\end{cases} \\tag{8}$$",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 12,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\int_{-\\infty}^{\\infty} |\\psi(x)|^2 dx = |\\vec{c}|^2 \\frac{\\Delta p}{h}. \\tag{9}$$",
+          "markdown": "$$\\int_{-\\infty}^{\\infty} |\\psi(x)|^2 dx = |\\vec{c}|^2 \\frac{\\Delta p}{h}. \\tag{9}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "One then has the result that a cell of length $\\Delta x = 1$ and impulse extension $\\Delta p = h$ will have weight 1, in agreement with the Ansatz of Sackur and Tetrode $^{(1)}$, which has been confirmed many times by experiments, and that $|c(k)|^2$ is the frequency for a motion with the impulse $p = \\frac{h}{2\\pi}k$.",
+          "markdown": "One then has the result that a cell of length $\\Delta x = 1$ and impulse extension $\\Delta p = h$ will have weight 1, in agreement with the Ansatz of Sackur and Tetrode $^{(1)}$, which has been confirmed many times by experiments, and that $|c(k)|^2$ is the frequency for a motion with the impulse $p = \\frac{h}{2\\pi}k$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now go onto accelerated motion. Here, one can naturally define a certain distribution of processes in an analogous way. However, that is not a rational question to pose for collision processes. For those processes, any motion will have a rectilinear asymptote before and after the collision. The particle is then found to be in a practically free state for a very long time (in comparison to the actual duration of the collision) before and after the collision. In agreement with the experimental statement of the problem, one thus comes to the following viewpoint: Let the distribution function $|c(k)|^2$ for the asymptotic motion be known before the collision; can one calculate the distribution function after the collision from it?",
+          "markdown": "We now go onto accelerated motion. Here, one can naturally define a certain distribution of processes in an analogous way. However, that is not a rational question to pose for collision processes. For those processes, any motion will have a rectilinear asymptote before and after the collision. The particle is then found to be in a practically free state for a very long time (in comparison to the actual duration of the collision) before and after the collision. In agreement with the experimental statement of the problem, one thus comes to the following viewpoint: Let the distribution function $|c(k)|^2$ for the asymptotic motion be known before the collision; can one calculate the distribution function after the collision from it?",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\int_{-\\infty}^{\\infty} |\\psi(x)|^2 dx = |\\vec{c}|^2 \\frac{\\Delta p}{h}. \\tag{9}$$\n\nOne then has the result that a cell of length $\\Delta x = 1$ and impulse extension $\\Delta p = h$ will have weight 1, in agreement with the Ansatz of Sackur and Tetrode $^{(1)}$, which has been confirmed many times by experiments, and that $|c(k)|^2$ is the frequency for a motion with the impulse $p = \\frac{h}{2\\pi}k$.\n\nWe now go onto accelerated motion. Here, one can naturally define a certain distribution of processes in an analogous way. However, that is not a rational question to pose for collision processes. For those processes, any motion will have a rectilinear asymptote before and after the collision. The particle is then found to be in a practically free state for a very long time (in comparison to the actual duration of the collision) before and after the collision. In agreement with the experimental statement of the problem, one thus comes to the following viewpoint: Let the distribution function $|c(k)|^2$ for the asymptotic motion be known before the collision; can one calculate the distribution function after the collision from it?",
+      "word_count": 200,
+      "page_quality_notes": [
+        "Equation with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 13,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 3. The asymptotic behavior of the eigenfunctions in a continuous spectrum with one degree of freedom.",
+          "markdown": "## § 3. The asymptotic behavior of the eigenfunctions in a continuous spectrum with one degree of freedom.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{d^2\\psi}{dx^2} + \\frac{8\\pi^2\\mu}{h^2}(W - U(x))\\psi = 0, \\tag{1}$$",
+          "markdown": "$$\\frac{d^2\\psi}{dx^2} + \\frac{8\\pi^2\\mu}{h^2}(W - U(x))\\psi = 0, \\tag{1}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "in which $U(x)$ means the potential energy. To abbreviate, we set:",
+          "markdown": "in which $U(x)$ means the potential energy. To abbreviate, we set:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{8\\pi^2\\mu}{h^2}W = k^2, \\quad \\frac{8\\pi^2\\mu}{h^2}U(x) = V(x); \\tag{2}$$",
+          "markdown": "$$\\frac{8\\pi^2\\mu}{h^2}W = k^2, \\quad \\frac{8\\pi^2\\mu}{h^2}U(x) = V(x); \\tag{2}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{d^2\\psi}{dx^2} + k^2\\psi = V\\psi. \\tag{3}$$",
+          "markdown": "$$\\frac{d^2\\psi}{dx^2} + k^2\\psi = V\\psi. \\tag{3}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "## § 3. The asymptotic behavior of the eigenfunctions in a continuous spectrum with one degree of freedom.\n\n$$\\frac{d^2\\psi}{dx^2} + \\frac{8\\pi^2\\mu}{h^2}(W - U(x))\\psi = 0, \\tag{1}$$\n\nin which $U(x)$ means the potential energy. To abbreviate, we set:\n\n$$\\frac{8\\pi^2\\mu}{h^2}W = k^2, \\quad \\frac{8\\pi^2\\mu}{h^2}U(x) = V(x); \\tag{2}$$\n\n$$\\frac{d^2\\psi}{dx^2} + k^2\\psi = V\\psi. \\tag{3}$$",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Section header and equations requiring verification for correct LaTeX rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 14,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We examine the asymptotic behavior of the solution at infinity. In order to get a simple relationship, we assume that $V(x)$ vanishes faster than $x^{-2}$ at infinity; i.e.:",
+          "markdown": "We examine the asymptotic behavior of the solution at infinity. In order to get a simple relationship, we assume that $V(x)$ vanishes faster than $x^{-2}$ at infinity; i.e.:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$| V(x) | < \\frac{K}{x^2}, \\tag{4}$$",
+          "markdown": "$$| V(x) | < \\frac{K}{x^2}, \\tag{4}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "in which $K$ is a positive number ($^1$).",
+          "markdown": "in which $K$ is a positive number ($^1$).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now determine $\\psi(x)$ by a process of iteration; let:",
+          "markdown": "We now determine $\\psi(x)$ by a process of iteration; let:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_0(x) = e^{ikx}, \\tag{5}$$",
+          "markdown": "$$u_0(x) = e^{ikx}, \\tag{5}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "We examine the asymptotic behavior of the solution at infinity. In order to get a simple relationship, we assume that $V(x)$ vanishes faster than $x^{-2}$ at infinity; i.e.:\n\n$$| V(x) | < \\frac{K}{x^2}, \\tag{4}$$\n\nin which $K$ is a positive number ($^1$).\n\nWe now determine $\\psi(x)$ by a process of iteration; let:\n\n$$u_0(x) = e^{ikx}, \\tag{5}$$",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 15,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_n(x) = \\frac{1}{k} \\int_x^\\infty u_{n-1}(\\xi) V(\\xi) \\sin k(\\xi - x) d\\xi,$$",
+          "markdown": "$$u_n(x) = \\frac{1}{k} \\int_x^\\infty u_{n-1}(\\xi) V(\\xi) \\sin k(\\xi - x) d\\xi,$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "as one can verify directly. One has:",
+          "markdown": "as one can verify directly. One has:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$| u_n(x) | \\le \\frac{1}{k} \\int_x^\\infty | u_{n-1}(\\xi) | \\cdot | V(\\xi) | d\\xi.$$",
+          "markdown": "$$| u_n(x) | \\le \\frac{1}{k} \\int_x^\\infty | u_{n-1}(\\xi) | \\cdot | V(\\xi) | d\\xi.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now show that:",
+          "markdown": "We now show that:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$| u_n(x) | \\le \\frac{1}{n!} \\left( \\frac{K}{kx} \\right)^n.$$",
+          "markdown": "$$| u_n(x) | \\le \\frac{1}{n!} \\left( \\frac{K}{kx} \\right)^n.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "$$u_n(x) = \\frac{1}{k} \\int_x^\\infty u_{n-1}(\\xi) V(\\xi) \\sin k(\\xi - x) d\\xi,$$\n\nas one can verify directly. One has:\n\n$$| u_n(x) | \\le \\frac{1}{k} \\int_x^\\infty | u_{n-1}(\\xi) | \\cdot | V(\\xi) | d\\xi.$$ \n\nWe now show that:\n\n$$| u_n(x) | \\le \\frac{1}{n!} \\left( \\frac{K}{kx} \\right)^n.$$",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 16,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi(x) = \\sum_{n=0}^\\infty u_n(x) \\tag{6}$$",
+          "markdown": "$$\\psi(x) = \\sum_{n=0}^\\infty u_n(x) \\tag{6}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "($^1$) The cases of a pure Coulomb field and a dipole field are excluded by this assumption.Born – Quantum mechanics of collision processes.",
+          "markdown": "($^1$) The cases of a pure Coulomb field and a dipole field are excluded by this assumption.\n\nBorn – Quantum mechanics of collision processes.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "converges uniformly for every finite interval; it can then be differentiated term-wise arbitrarily often, and is then, as is easy to see, the desired solution to our differential equation.",
+          "markdown": "converges uniformly for every finite interval; it can then be differentiated term-wise arbitrarily often, and is then, as is easy to see, the desired solution to our differential equation.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "However, since all $u_1, u_2, \\dots$ vanish as $x \\to +\\infty$, the function $\\psi$ will be asymptotic to $u_0 = e^{ikx}$ at positive infinity.",
+          "markdown": "However, since all $u_1, u_2, \\dots$ vanish as $x \\to +\\infty$, the function $\\psi$ will be asymptotic to $u_0 = e^{ikx}$ at positive infinity.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\psi(x) = \\sum_{n=0}^\\infty u_n(x) \\tag{6}$$\n\n($^1$) The cases of a pure Coulomb field and a dipole field are excluded by this assumption.\n\nBorn – Quantum mechanics of collision processes.\n\nconverges uniformly for every finite interval; it can then be differentiated term-wise arbitrarily often, and is then, as is easy to see, the desired solution to our differential equation.\n\nHowever, since all $u_1, u_2, \\dots$ vanish as $x \\to +\\infty$, the function $\\psi$ will be asymptotic to $u_0 = e^{ikx}$ at positive infinity.",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Equation with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 17,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In precisely the same way, one shows that there is a solution that is asymptotic to $e^{-ikx}$ as $x \\to +\\infty$. Since the general solution has only two constants, it must asymptotically have the form:",
+          "markdown": "In precisely the same way, one shows that there is a solution that is asymptotic to $e^{-ikx}$ as $x \\to +\\infty$. Since the general solution has only two constants, it must asymptotically have the form:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^+(x) = a e^{ikx} + b e^{-ikx} \\tag{7}$$",
+          "markdown": "$$\\psi^+(x) = a e^{ikx} + b e^{-ikx} \\tag{7}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Here, the degeneracy of the system makes its appearance; every energy value $W$ is associated with two values $k, -k$ and two linearly-independent solutions.",
+          "markdown": "Here, the degeneracy of the system makes its appearance; every energy value $W$ is associated with two values $k, -k$ and two linearly-independent solutions.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In an entirely similar way, it follows that the general solution must have the same form as $x \\to -\\infty$:",
+          "markdown": "In an entirely similar way, it follows that the general solution must have the same form as $x \\to -\\infty$:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^-(x) = A e^{ikx} + B e^{-ikx}. \\tag{8}$$",
+          "markdown": "$$\\psi^-(x) = A e^{ikx} + B e^{-ikx}. \\tag{8}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "In precisely the same way, one shows that there is a solution that is asymptotic to $e^{-ikx}$ as $x \\to +\\infty$. Since the general solution has only two constants, it must asymptotically have the form:\n\n$$\\psi^+(x) = a e^{ikx} + b e^{-ikx} \\tag{7}$$\n\nHere, the degeneracy of the system makes its appearance; every energy value $W$ is associated with two values $k, -k$ and two linearly-independent solutions.\n\nIn an entirely similar way, it follows that the general solution must have the same form as $x \\to -\\infty$:\n\n$$\\psi^-(x) = A e^{ikx} + B e^{-ikx}. \\tag{8}$$",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 18,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In this, the amplitudes $A, B$ are well-defined functions of $a, b$.",
+          "markdown": "In this, the amplitudes $A, B$ are well-defined functions of $a, b$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now decompose the solution into incoming and outgoing waves; for that, we add the time factor $e^{ik\\upsilon} \\left( k\\upsilon = 2\\pi\\nu = \\frac{2\\pi}{h}W \\right)$ and set:",
+          "markdown": "We now decompose the solution into incoming and outgoing waves; for that, we add the time factor $e^{ik\\upsilon} \\left( k\\upsilon = 2\\pi\\nu = \\frac{2\\pi}{h}W \\right)$ and set:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} a = c_e e^{i\\varphi_e t}, \\quad A = C_a e^{i\\Phi_a t}, \\\\ b = c_a e^{-i\\varphi_a t}, \\quad B = C_e e^{-i\\Phi_e t}. \\end{array} \\right\\} \\tag{9}$$",
+          "markdown": "$$\\begin{array}{l} a = c_e e^{i\\varphi_e t}, \\quad A = C_a e^{i\\Phi_a t}, \\\\ b = c_a e^{-i\\varphi_a t}, \\quad B = C_e e^{-i\\Phi_e t}. \\end{array} \\right\\} \\tag{9}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} \\psi^+(x) = c_e e^{ik(x+\\upsilon t+\\varphi_e)} + c_a e^{-ik(x-\\upsilon t+\\varphi_a)}, \\\\ \\psi^-(x) = C_a e^{ik(x+\\upsilon t+\\Phi_a)} + C_e e^{-ik(x-\\upsilon t+\\Phi_a)}. \\end{array} \\right\\} \\tag{10}$$",
+          "markdown": "$$\\begin{array}{l} \\psi^+(x) = c_e e^{ik(x+\\upsilon t+\\varphi_e)} + c_a e^{-ik(x-\\upsilon t+\\varphi_a)}, \\\\ \\psi^-(x) = C_a e^{ik(x+\\upsilon t+\\Phi_a)} + C_e e^{-ik(x-\\upsilon t+\\Phi_a)}. \\end{array} \\right\\} \\tag{10}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "In this, the amplitudes $A, B$ are well-defined functions of $a, b$.\n\nWe now decompose the solution into incoming and outgoing waves; for that, we add the time factor $e^{ik\\upsilon} \\left( k\\upsilon = 2\\pi\\nu = \\frac{2\\pi}{h}W \\right)$ and set:\n\n$$\\begin{array}{l} a = c_e e^{i\\varphi_e t}, \\quad A = C_a e^{i\\Phi_a t}, \\\\ b = c_a e^{-i\\varphi_a t}, \\quad B = C_e e^{-i\\Phi_e t}. \\end{array} \\right\\} \\tag{9}$$\n\n$$\\begin{array}{l} \\psi^+(x) = c_e e^{ik(x+\\upsilon t+\\varphi_e)} + c_a e^{-ik(x-\\upsilon t+\\varphi_a)}, \\\\ \\psi^-(x) = C_a e^{ik(x+\\upsilon t+\\Phi_a)} + C_e e^{-ik(x-\\upsilon t+\\Phi_a)}. \\end{array} \\right\\} \\tag{10}$$",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 19,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The real parts of the terms that are denoted with the index $e$ represent the incoming waves, while the terms that are denoted with an $a$ represent the outgoing waves.",
+          "markdown": "The real parts of the terms that are denoted with the index $e$ represent the incoming waves, while the terms that are denoted with an $a$ represent the outgoing waves.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We are interested in the case in which only one wave is incoming at $x = +\\infty$. One will then have $C_e = 0$, and one can arbitrarily set $\\varphi_e = 0$, moreover. One will then have:",
+          "markdown": "We are interested in the case in which only one wave is incoming at $x = +\\infty$. One will then have $C_e = 0$, and one can arbitrarily set $\\varphi_e = 0$, moreover. One will then have:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} \\psi^+(x) = c_e e^{ik(x+\\upsilon t)} + c_a e^{-ik(x-\\upsilon t+\\varphi_a)}, \\\\ \\psi^-(x) = C_a e^{ik(x+\\upsilon t+\\Phi_a)}. \\end{array} \\right\\} \\tag{11}$$",
+          "markdown": "$$\\begin{array}{l} \\psi^+(x) = c_e e^{ik(x+\\upsilon t)} + c_a e^{-ik(x-\\upsilon t+\\varphi_a)}, \\\\ \\psi^-(x) = C_a e^{ik(x+\\upsilon t+\\Phi_a)}. \\end{array} \\right\\} \\tag{11}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We have shown that $\\psi^- (x)$ is determined in terms of $\\psi^+ (x)$ by integration; i.e., $A, B$ are well-defined functions of $a, b$. In our case $C_e = 0$, so we will have $B = 0$, and one thus has two equations of the form:",
+          "markdown": "We have shown that $\\psi^- (x)$ is determined in terms of $\\psi^+ (x)$ by integration; i.e., $A, B$ are well-defined functions of $a, b$. In our case $C_e = 0$, so we will have $B = 0$, and one thus has two equations of the form:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "The real parts of the terms that are denoted with the index $e$ represent the incoming waves, while the terms that are denoted with an $a$ represent the outgoing waves.\n\nWe are interested in the case in which only one wave is incoming at $x = +\\infty$. One will then have $C_e = 0$, and one can arbitrarily set $\\varphi_e = 0$, moreover. One will then have:\n\n$$\\begin{array}{l} \\psi^+(x) = c_e e^{ik(x+\\upsilon t)} + c_a e^{-ik(x-\\upsilon t+\\varphi_a)}, \\\\ \\psi^-(x) = C_a e^{ik(x+\\upsilon t+\\Phi_a)}. \\end{array} \\right\\} \\tag{11}$$\n\nWe have shown that $\\psi^- (x)$ is determined in terms of $\\psi^+ (x)$ by integration; i.e., $A, B$ are well-defined functions of $a, b$. In our case $C_e = 0$, so we will have $B = 0$, and one thus has two equations of the form:",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 20,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} A = A(a,b), \\\\ 0 = B(a,b). \\end{array} \\right\\} \\tag{12}$$",
+          "markdown": "$$\\begin{array}{l} A = A(a,b), \\\\ 0 = B(a,b). \\end{array} \\right\\} \\tag{12}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "One can express $b$ in terms of $a$ using the second one, and one will then get $A$ expressed in terms of $a$ from the first one. However, that means that the constants of the reflected wave and the constants of the transmitted wave can be calculated from the amplitude of the incoming wave.",
+          "markdown": "One can express $b$ in terms of $a$ using the second one, and one will then get $A$ expressed in terms of $a$ from the first one. However, that means that the constants of the reflected wave and the constants of the transmitted wave can be calculated from the amplitude of the incoming wave.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "One can now show that a relation exists between the intensities of the three waves. One obtains it most simply with the help of the energy theorem.",
+          "markdown": "One can now show that a relation exists between the intensities of the three waves. One obtains it most simply with the help of the energy theorem.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\begin{array}{l} A = A(a,b), \\\\ 0 = B(a,b). \\end{array} \\right\\} \\tag{12}$$\n\nOne can express $b$ in terms of $a$ using the second one, and one will then get $A$ expressed in terms of $a$ from the first one. However, that means that the constants of the reflected wave and the constants of the transmitted wave can be calculated from the amplitude of the incoming wave.\n\nOne can now show that a relation exists between the intensities of the three waves. One obtains it most simply with the help of the energy theorem.",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Equation with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 21,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 4. The theorem of the conservation of energy.",
+          "markdown": "## § 4. The theorem of the conservation of energy.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In order to derive this theorem, we return to the form of Schrödinger's differential equation for which the assumption of vibrations that are purely periodic in time is still not made, so one will have a wave equation of the form:",
+          "markdown": "In order to derive this theorem, we return to the form of Schrödinger's differential equation for which the assumption of vibrations that are purely periodic in time is still not made, so one will have a wave equation of the form:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{\\partial^2 \\psi}{\\partial x^2} - \\frac{1}{v^2} \\frac{\\partial^2 \\psi}{\\partial t^2} = 0. \\tag{1}$$",
+          "markdown": "$$\\frac{\\partial^2 \\psi}{\\partial x^2} - \\frac{1}{v^2} \\frac{\\partial^2 \\psi}{\\partial t^2} = 0. \\tag{1}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In this, $v$ is the wave velocity. One comes to Schrödinger's equation when one, with de Broglie, sets (1):",
+          "markdown": "In this, $v$ is the wave velocity. One comes to Schrödinger's equation when one, with de Broglie, sets (1):",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## § 4. The theorem of the conservation of energy.\n\nIn order to derive this theorem, we return to the form of Schrödinger's differential equation for which the assumption of vibrations that are purely periodic in time is still not made, so one will have a wave equation of the form:\n\n$$\\frac{\\partial^2 \\psi}{\\partial x^2} - \\frac{1}{v^2} \\frac{\\partial^2 \\psi}{\\partial t^2} = 0. \\tag{1}$$\n\nIn this, $v$ is the wave velocity. One comes to Schrödinger's equation when one, with de Broglie, sets (1):",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Section header and equation requiring verification for correct LaTeX rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 22,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{1}{v^2} = \\frac{2\\mu}{W^2} (W - U). \\tag{2}$$",
+          "markdown": "$$\\frac{1}{v^2} = \\frac{2\\mu}{W^2} (W - U). \\tag{2}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If one now seeks solutions whose time dependency is given by the factor $e^{2\\pi i \\upsilon} = e^{\\frac{2\\pi i}{h} W}$ then one will get:",
+          "markdown": "If one now seeks solutions whose time dependency is given by the factor $e^{2\\pi i \\upsilon} = e^{\\frac{2\\pi i}{h} W}$ then one will get:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{d^2 \\psi}{dx^2} + \\frac{8\\pi^2 \\mu}{h^2} (W - U) \\psi = 0.$$",
+          "markdown": "$$\\frac{d^2 \\psi}{dx^2} + \\frac{8\\pi^2 \\mu}{h^2} (W - U) \\psi = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "However, we now fix our attention on the general formula (1) and multiply the equation by $\\partial \\psi / \\partial t$.",
+          "markdown": "However, we now fix our attention on the general formula (1) and multiply the equation by $\\partial \\psi / \\partial t$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{\\partial}{\\partial x} \\left( \\frac{\\partial \\psi}{\\partial x} \\frac{\\partial \\psi}{\\partial t} \\right) - \\frac{\\partial}{\\partial t} \\left[ \\frac{1}{2} \\left( \\frac{\\partial \\psi}{\\partial x} \\right)^2 + \\frac{1}{2v^2} \\left( \\frac{\\partial \\psi}{\\partial t} \\right)^2 \\right] = 0. \\tag{3}$$",
+          "markdown": "$$\\frac{\\partial}{\\partial x} \\left( \\frac{\\partial \\psi}{\\partial x} \\frac{\\partial \\psi}{\\partial t} \\right) - \\frac{\\partial}{\\partial t} \\left[ \\frac{1}{2} \\left( \\frac{\\partial \\psi}{\\partial x} \\right)^2 + \\frac{1}{2v^2} \\left( \\frac{\\partial \\psi}{\\partial t} \\right)^2 \\right] = 0. \\tag{3}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "$$\\frac{1}{v^2} = \\frac{2\\mu}{W^2} (W - U). \\tag{2}$$\n\nIf one now seeks solutions whose time dependency is given by the factor $e^{2\\pi i \\upsilon} = e^{\\frac{2\\pi i}{h} W}$ then one will get:\n\n$$\\frac{d^2 \\psi}{dx^2} + \\frac{8\\pi^2 \\mu}{h^2} (W - U) \\psi = 0.$$ \n\nHowever, we now fix our attention on the general formula (1) and multiply the equation by $\\partial \\psi / \\partial t$.\n\n$$\\frac{\\partial}{\\partial x} \\left( \\frac{\\partial \\psi}{\\partial x} \\frac{\\partial \\psi}{\\partial t} \\right) - \\frac{\\partial}{\\partial t} \\left[ \\frac{1}{2} \\left( \\frac{\\partial \\psi}{\\\npartial x} \\right)^2 + \\frac{1}{2v^2} \\left( \\frac{\\partial \\psi}{\\partial t} \\right)^2 \\right] = 0. \\tag{3}$$",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 23,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left[ \\frac{\\partial \\psi}{\\partial x} \\frac{\\partial \\psi}{\\partial t} \\right]_{-\\infty}^{\\infty} - \\frac{\\partial}{\\partial t} \\int_{-\\infty}^{\\infty} \\frac{1}{2} \\left\\{ \\left( \\frac{\\partial \\psi}{\\partial x} \\right)^2 + \\frac{1}{v^2} \\left( \\frac{\\partial \\psi}{\\partial t} \\right)^2 \\right\\} dx = 0. \\tag{4}$$",
+          "markdown": "$$\\left[ \\frac{\\partial \\psi}{\\partial x} \\frac{\\partial \\psi}{\\partial t} \\right]_{-\\infty}^{\\infty} - \\frac{\\partial}{\\partial t} \\int_{-\\infty}^{\\infty} \\frac{1}{2} \\left\\{ \\left( \\frac{\\partial \\psi}{\\partial x} \\right)^2 + \\frac{1}{v^2} \\left( \\frac{\\partial \\psi}{\\partial t} \\right)^2 \\right\\} dx = 0. \\tag{4}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "As was pointed out in § 1, the space integral in this is to be interpreted as the total energy that is present in space. However, its expression does not interest us, since for us it will enter into the in-streaming and out-streaming energy, which will be represented by limiting terms. The time mean of the two terms vanishes for a temporally periodic process, and, with the use of the notations that were introduced in § 3, (7), (8), one will get:",
+          "markdown": "As was pointed out in § 1, the space integral in this is to be interpreted as the total energy that is present in space. However, its expression does not interest us, since for us it will enter into the in-streaming and out-streaming energy, which will be represented by limiting terms. The time mean of the two terms vanishes for a temporally periodic process, and, with the use of the notations that were introduced in § 3, (7), (8), one will get:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\overline{\\frac{\\partial \\psi^-}{\\partial x} - \\frac{\\partial \\psi^+}{\\partial t}} = \\overline{\\frac{\\partial \\psi^+}{\\partial x} - \\frac{\\partial \\psi^+}{\\partial t}}. \\tag{5}$$",
+          "markdown": "$$\\overline{\\frac{\\partial \\psi^-}{\\partial x} - \\frac{\\partial \\psi^+}{\\partial t}} = \\overline{\\frac{\\partial \\psi^+}{\\partial x} - \\frac{\\partial \\psi^+}{\\partial t}}. \\tag{5}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This equation states that the in-streaming energy is equal to the out-streaming energy. When we substitute the real part of the expression § 3, (10) in this, we will get:",
+          "markdown": "This equation states that the in-streaming energy is equal to the out-streaming energy. When we substitute the real part of the expression § 3, (10) in this, we will get:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\left[ \\frac{\\partial \\psi}{\\partial x} \\frac{\\partial \\psi}{\\partial t} \\right]_{-\\infty}^{\\infty} - \\frac{\\partial}{\\partial t} \\int_{-\\infty}^{\\infty} \\frac{1}{2} \\left\\{ \\left( \\frac{\\partial \\psi}{\\partial x} \\right)^2 + \\frac{1}{v^2} \\left( \\frac{\\partial \\psi}{\\partial t} \\right)^2 \\right\\} dx = 0. \\tag{4}$$\n\nAs was pointed out in § 1, the space integral in this is to be interpreted as the total energy that is present in space. However, its expression does not interest us, since for us it will enter into the in-streaming and out-streaming energy, which will be represented by limiting terms. The time mean of the two terms vanishes for a temporally periodic process, and, with the use of the notations that were introduced in § 3, (7), (8), one will get:\n\n$$\\overline{\\frac{\\partial \\psi^-}{\\partial x} - \\frac{\\partial \\psi^+}{\\partial t}} = \\overline{\\\nfrac{\\partial \\psi^+}{\\partial x} - \\frac{\\partial \\psi^+}{\\partial t}}. \\tag{5}$$",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 24,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$C_a^2 - C_e^2 = c_a^2 - c_e^2, \\tag{6}$$",
+          "markdown": "$$C_a^2 - C_e^2 = c_a^2 - c_e^2, \\tag{6}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "or, in the case $C_e = 0$ [as in equation (11), § 3]:",
+          "markdown": "or, in the case $C_e = 0$ [as in equation (11), § 3]:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$c_e^2 = c_a^2 + C_a^2. \\tag{7}$$",
+          "markdown": "$$c_e^2 = c_a^2 + C_a^2. \\tag{7}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "However, that means that for any elementary wave of given $k$, the incoming intensity will be split into the intensities of the two waves that scatter to the right and left, or, in the language of the corpuscular theory: If a particle with a given energy enters the atom then it will either be reflected or it will continue on. The sum of the probabilities in these two outcomes is 1.",
+          "markdown": "However, that means that for any elementary wave of given $k$, the incoming intensity will be split into the intensities of the two waves that scatter to the right and left, or, in the language of the corpuscular theory: If a particle with a given energy enters the atom then it will either be reflected or it will continue on. The sum of the probabilities in these two outcomes is 1.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$C_a^2 - C_e^2 = c_a^2 - c_e^2, \\tag{6}$$\n\nor, in the case $C_e = 0$ [as in equation (11), § 3]:\n\n$$c_e^2 = c_a^2 + C_a^2. \\tag{7}$$\n\nHowever, that means that for any elementary wave of given $k$, the incoming intensity will be split into the intensities of the two waves that scatter to the right and left, or, in the language of the corpuscular theory: If a particle with a given energy enters the atom then it will either be reflected or it will continue on. The sum of the probabilities in these two outcomes is 1.",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 25,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The theorem of the conservation of energy then has the conservation of particle number as a consequence. The basis for that lies in the degeneracy of the system; any energy value belongs to several motions, and they will be related to each other.Born – Quantum mechanics of collision processes.",
+          "markdown": "The theorem of the conservation of energy then has the conservation of particle number as a consequence. The basis for that lies in the degeneracy of the system; any energy value belongs to several motions, and they will be related to each other.\n\nBorn – Quantum mechanics of collision processes.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 5. Generalization to three degrees of freedom. The inertial motion.",
+          "markdown": "## § 5. Generalization to three degrees of freedom. The inertial motion.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now consider a particle that moves in space under the action of the potential energy $U(x, y, z)$. One then has the differential equation:",
+          "markdown": "We now consider a particle that moves in space under the action of the potential energy $U(x, y, z)$. One then has the differential equation:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Delta\\psi - \\frac{1}{v^2} \\frac{\\partial^2\\psi}{\\partial t^2} = 0, \\tag{1}$$",
+          "markdown": "$$\\Delta\\psi - \\frac{1}{v^2} \\frac{\\partial^2\\psi}{\\partial t^2} = 0, \\tag{1}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "which is analogous to (1), in which $v$ is once more given in the approximation of classical mechanics by (2), § 4. Here, the conservation law reads:",
+          "markdown": "which is analogous to (1), in which $v$ is once more given in the approximation of classical mechanics by (2), § 4. Here, the conservation law reads:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "The theorem of the conservation of energy then has the conservation of particle number as a consequence. The basis for that lies in the degeneracy of the system; any energy value belongs to several motions, and they will be related to each other.\n\nBorn – Quantum mechanics of collision processes.\n\n## § 5. Generalization to three degrees of freedom. The inertial motion.\n\nWe now consider a particle that moves in space under the action of the potential energy $U(x, y, z)$. One then has the differential equation:\n\n$$\\Delta\\psi - \\frac{1}{v^2} \\frac{\\partial^2\\psi}{\\partial t^2} = 0, \\tag{1}$$ which is analogous to (1), in which $v$ is once more given in the approximation of classical mechanics by (2), § 4. Here, the conservation law reads:",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Section header and equation requiring verification for correct LaTeX rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 26,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\text{div}\\left(\\frac{\\partial\\psi}{\\partial t}\\text{grad}\\psi\\right) - \\frac{\\partial}{\\partial t}\\frac{1}{2}\\left\\{(\\text{grad}\\psi)^2 + \\frac{1}{v^2}\\left(\\frac{\\partial\\psi}{\\partial t}\\right)^2\\right\\} = 0, \\tag{2}$$",
+          "markdown": "$$\\text{div}\\left(\\frac{\\partial\\psi}{\\partial t}\\text{grad}\\psi\\right) - \\frac{\\partial}{\\partial t}\\frac{1}{2}\\left\\{(\\text{grad}\\psi)^2 + \\frac{1}{v^2}\\left(\\frac{\\partial\\psi}{\\partial t}\\right)^2\\right\\} = 0, \\tag{2}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\int_{-\\infty}^{\\infty} \\frac{\\partial\\psi}{\\partial t} \\frac{\\partial\\psi}{\\partial t} d\\sigma - \\frac{\\partial}{\\partial t}\\int \\frac{1}{2}\\left\\{(\\text{grad}\\psi)^2 + \\frac{1}{v^2}\\left(\\frac{\\partial\\psi}{\\partial t}\\right)^2\\right\\} dS = 0, \\tag{3}$$",
+          "markdown": "$$\\int_{-\\infty}^{\\infty} \\frac{\\partial\\psi}{\\partial t} \\frac{\\partial\\psi}{\\partial t} d\\sigma - \\frac{\\partial}{\\partial t}\\int \\frac{1}{2}\\left\\{(\\text{grad}\\psi)^2 + \\frac{1}{v^2}\\left(\\frac{\\partial\\psi}{\\partial t}\\right)^2\\right\\} dS = 0, \\tag{3}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\overline{\\int_{-\\infty}^{\\infty} \\frac{\\partial\\psi}{\\partial t} \\frac{\\partial\\psi}{\\partial t} d\\sigma} = 0. \\tag{4}$$",
+          "markdown": "$$\\overline{\\int_{-\\infty}^{\\infty} \\frac{\\partial\\psi}{\\partial t} \\frac{\\partial\\psi}{\\partial t} d\\sigma} = 0. \\tag{4}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Delta\\psi + (k^2 - V)\\psi = 0, \\tag{5}$$",
+          "markdown": "$$\\Delta\\psi + (k^2 - V)\\psi = 0, \\tag{5}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where one has set:",
+          "markdown": "where one has set:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\text{div}\\left(\\frac{\\partial\\psi}{\\partial t}\\text{grad}\\psi\\right) - \\frac{\\partial}{\\partial t}\\frac{1}{2}\\left\\{(\\text{grad}\\psi)^2 + \\frac{1}{v^2}\\left(\\frac{\\partial\\psi}{\\partial t}\\right)^2\\right\\} = 0, \\tag{2}$$\n\n$$\\int_{-\\infty}^{\\infty} \\frac{\\partial\\psi}{\\partial t} \\frac{\\partial\\psi}{\\partial t} d\\sigma - \\frac{\\partial}{\\partial t}\\int \\frac{1}{2}\\left\\{(\\text{grad}\\psi)^2 + \\frac{1}{v^2}\\left(\\frac{\\partial\\psi}{\\partial t}\\right)^2\\right\\} dS = 0, \\tag{3}$$\n\n$$\\overline{\\int_{-\\infty}^{\\infty} \\frac{\\partial\\psi}{\\partial t} \\frac{\\partial\\psi}{\\partial t} d\\sigma} = 0. \\tag{4}$$\n\n$$\\Delta\\psi + (k^2 - V)\\psi = 0, \\tag{5}$$\n\nwhere one has set:",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 27,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$k^2 = \\frac{8\\pi^2\\mu}{h^2} W, \\quad V(x, y, z) = \\frac{8\\pi^2\\mu}{h^2} U(x, y, z). \\tag{6}$",
+          "markdown": "$$k^2 = \\frac{8\\pi^2\\mu}{h^2} W, \\quad V(x, y, z) = \\frac{8\\pi^2\\mu}{h^2} U(x, y, z). \\tag{6}$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "For the inertial motion (viz., $V = 0$), one has the differential equation:",
+          "markdown": "For the inertial motion (viz., $V = 0$), one has the differential equation:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Delta\\psi + k^2\\psi = 0 \\tag{7}$$",
+          "markdown": "$$\\Delta\\psi + k^2\\psi = 0 \\tag{7}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi = e^{i(kx)}; \\tag{8}$$",
+          "markdown": "$$\\psi = e^{i(kx)}; \\tag{8}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "here, $x$ is the vector $x, y, z$, while the vector $k$ satisfies the equation:",
+          "markdown": "here, $x$ is the vector $x, y, z$, while the vector $k$ satisfies the equation:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$k^2 = \\frac{8\\pi^2\\mu}{h^2} W, \\quad V(x, y, z) = \\frac{8\\pi^2\\mu}{h^2} U(x, y, z). \\tag{6}$$\n\nFor the inertial motion (viz., $V = 0$), one has the differential equation:\n\n$$\\Delta\\psi + k^2\\psi = 0 \\tag{7}$$\n\n$$\\psi = e^{i(kx)}; \\tag{8}$$\n\nhere, $x$ is the vector $x, y, z$, while the vector $k$ satisfies the equation:",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 28,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$|k|^2 = k_x^2 + k_y^2 + k_z^2 = k^2, \\tag{9}$$",
+          "markdown": "$$|k|^2 = k_x^2 + k_y^2 + k_z^2 = k^2, \\tag{9}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathfrak{p} = \\frac{h}{2\\pi}\\mathfrak{k}, \\tag{10}$",
+          "markdown": "$$\\mathfrak{p} = \\frac{h}{2\\pi}\\mathfrak{k}, \\tag{10}$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "up to a factor.",
+          "markdown": "up to a factor.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The de Broglie wave length will be given by $h / \\lambda = p = |\\mathfrak{p}| = \\frac{h}{2\\pi}k$. The solution (8) should be regarded as normalized in the sense of taking the mean [see (2), § 2]. We briefly denote a function of $x, y, z, t$ by $f(\\mathfrak{r})$, a function of $k_x, k_y, k_z$ by $f(\\mathfrak{k})$, etc. Let $dS = dx dy dz$.",
+          "markdown": "The de Broglie wave length will be given by $h / \\lambda = p = |\\mathfrak{p}| = \\frac{h}{2\\pi}k$. The solution (8) should be regarded as normalized in the sense of taking the mean [see (2), § 2]. We briefly denote a function of $x, y, z, t$ by $f(\\mathfrak{r})$, a function of $k_x, k_y, k_z$ by $f(\\mathfrak{k})$, etc. Let $dS = dx dy dz$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$|k|^2 = k_x^2 + k_y^2 + k_z^2 = k^2, \\tag{9}$$\n\n$$\\mathfrak{p} = \\frac{h}{2\\pi}\\mathfrak{k}, \\tag{10}$$\n\nup to a factor.\n\nThe de Broglie wave length will be given by $h / \\lambda = p = |\\mathfrak{p}| = \\frac{h}{2\\pi}k$. The solution (8) should be regarded as normalized in the sense of taking the mean [see (2), § 2]. We briefly denote a function of $x, y, z, t$ by $f(\\mathfrak{r})$, a function of $k_x, k_y, k_z$ by $f(\\mathfrak{k})$, etc. Let $dS = dx dy dz$.",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 29,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi(\\mathfrak{r}) = u_0(\\mathfrak{r}) = \\int c(\\mathfrak{s})e^{ik(\\mathfrak{r}\\mathfrak{s})} d\\omega, \\quad d\\mathfrak{s} = c^*(\\mathfrak{s}), \\tag{11}$$",
+          "markdown": "$$\\psi(\\mathfrak{r}) = u_0(\\mathfrak{r}) = \\int c(\\mathfrak{s})e^{ik(\\mathfrak{r}\\mathfrak{s})} d\\omega, \\quad d\\mathfrak{s} = c^*(\\mathfrak{s}), \\tag{11}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "in which $\\mathfrak{s}$ is a unit vector and $d\\omega$ is the element of solid angle. It represents inertial motion in all possible directions with the same energy. From our basic principles, $|c(\\mathfrak{s})|^2$ is the number of particles that flow in the direction $\\mathfrak{s}$ per unit solid angle.",
+          "markdown": "in which $\\mathfrak{s}$ is a unit vector and $d\\omega$ is the element of solid angle. It represents inertial motion in all possible directions with the same energy. From our basic principles, $|c(\\mathfrak{s})|^2$ is the number of particles that flow in the direction $\\mathfrak{s}$ per unit solid angle.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now derive an asymptotic representation for $u_0$ that shows clearly how $u_0$ behaves at infinity. Although one can obtain the result very simply, here, we would like to obtain it by a general method that can be carried over to the cases that will be developed later on. We think of a new rectangular coordinate system $X, Y, Z$ that has been introduced with the help of the orthogonal transformation:",
+          "markdown": "We now derive an asymptotic representation for $u_0$ that shows clearly how $u_0$ behaves at infinity. Although one can obtain the result very simply, here, we would like to obtain it by a general method that can be carried over to the cases that will be developed later on. We think of a new rectangular coordinate system $X, Y, Z$ that has been introduced with the help of the orthogonal transformation:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\psi(\\mathfrak{r}) = u_0(\\mathfrak{r}) = \\int c(\\mathfrak{s})e^{ik(\\mathfrak{r}\\mathfrak{s})} d\\omega, \\quad d\\mathfrak{s} = c^*(\\mathfrak{s}), \\tag{11}$$\n\nin which $\\mathfrak{s}$ is a unit vector and $d\\omega$ is the element of solid angle. It represents inertial motion in all possible directions with the same energy. From our basic principles, $|c(\\mathfrak{s})|^2$ is the number of particles that flow in the direction $\\mathfrak{s}$ per unit solid angle.\n\nWe now derive an asymptotic representation for $u_0$ that shows clearly how $u_0$ behaves at infinity. Although one can obtain the result very simply, here, we would like to obtain it by a general method that can be carried over to the cases that will be developed later on. We think of a new rectangular coordinate system $X, Y, Z$ that has been introduced with the help of the orthogonal transformation:",
+      "word_count": 200,
+      "page_quality_notes": [
+        "Equation with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 30,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left. \\begin{array}{ll} x = a_{11}X + a_{12}Y + a_{13}Z, & X = a_{11}x + a_{21}y + a_{31}z, \\\\ y = a_{21}X + a_{22}Y + a_{23}Z, & Y = a_{12}x + a_{22}y + a_{32}z, \\\\ z = a_{31}X + a_{32}Y + a_{33}Z, & Z = a_{13}x + a_{23}y + a_{33}z. \\end{array} \\right\\} \\tag{12}$$",
+          "markdown": "$$\\left. \\begin{array}{ll} x = a_{11}X + a_{12}Y + a_{13}Z, & X = a_{11}x + a_{21}y + a_{31}z, \\\\ y = a_{21}X + a_{22}Y + a_{23}Z, & Y = a_{12}x + a_{22}y + a_{32}z, \\\\ z = a_{31}X + a_{32}Y + a_{33}Z, & Z = a_{13}x + a_{23}y + a_{33}z. \\end{array} \\right\\} \\tag{12}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "At equal times, we introduce the new unit vector $\\mathfrak{S}$, in place of the unit vector $\\mathfrak{s}$, with the help of the same orthogonal transformation; the solid angle element $d\\omega$ then goes over into a new $d\\Omega$, and one will have:",
+          "markdown": "At equal times, we introduce the new unit vector $\\mathfrak{S}$, in place of the unit vector $\\mathfrak{s}$, with the help of the same orthogonal transformation; the solid angle element $d\\omega$ then goes over into a new $d\\Omega$, and one will have:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathfrak{r}\\,\\mathfrak{s} = \\Re\\,\\mathfrak{S}. \\tag{13}$$",
+          "markdown": "$$\\mathfrak{r}\\,\\mathfrak{s} = \\Re\\,\\mathfrak{S}. \\tag{13}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now choose the new coordinate system especially such that:",
+          "markdown": "We now choose the new coordinate system especially such that:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\left. \\begin{array}{ll} x = a_{11}X + a_{12}Y + a_{13}Z, & X = a_{11}x + a_{21}y + a_{31}z, \\\\ y = a_{21}X + a_{22}Y + a_{23}Z, & Y = a_{12}x + a_{22}y + a_{32}z, \\\\ z = a_{31}X + a_{32}Y + a_{33}Z, & Z = a_{13}x + a_{23}y + a_{33}z. \\end{array} \\right\\} \\tag{12}$$\n\nAt equal times, we introduce the new unit vector $\\mathfrak{S}$, in place of the unit vector $\\mathfrak{s}$, with the help of the same orthogonal transformation; the solid angle element $d\\omega$ then goes over into a new $d\\Omega$, and one will have:\n\n$$\\mathfrak{r}\\,\\mathfrak{s} = \\Re\\,\\mathfrak{S}. \\tag{13}$$",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Complex equation with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 31,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} X = 0, \\quad Y = 0; \\tag{14}\\\\ Z = r = \\sqrt{x^2 + y^2 + z^2}. \\tag{15} \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} X = 0, \\quad Y = 0; \\tag{14}\\\\ Z = r = \\sqrt{x^2 + y^2 + z^2}. \\tag{15} \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Our integral will be:",
+          "markdown": "Our integral will be:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} u_0(x, y, z) = u_0(a_{13}Z, a_{23}Z, a_{33}Z) \\\\ = \\int d\\Omega c (a_{11}\\mathfrak{S}_x + a_{12}\\mathfrak{S}_y + a_{13}\\mathfrak{S}_z, \\cdots) e^{ikZ\\mathfrak{S}_z}. \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} u_0(x, y, z) = u_0(a_{13}Z, a_{23}Z, a_{33}Z) \\\\ = \\int d\\Omega c (a_{11}\\mathfrak{S}_x + a_{12}\\mathfrak{S}_y + a_{13}\\mathfrak{S}_z, \\cdots) e^{ikZ\\mathfrak{S}_z}. \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Moreover, we introduce polar coordinates for $\\mathfrak{S}$:",
+          "markdown": "Moreover, we introduce polar coordinates for $\\mathfrak{S}$:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\begin{array}{l} X = 0, \\quad Y = 0; \\tag{14}\\\\ Z = r = \\sqrt{x^2 + y^2 + z^2}. \\tag{15} \\end{array}$$\n\nOur integral will be:\n\n$$\\begin{array}{l} u_0(x, y, z) = u_0(a_{13}Z, a_{23}Z, a_{33}Z) \\\\ = \\int d\\Omega c (a_{11}\\mathfrak{S}_x + a_{12}\\mathfrak{S}_y + a_{13}\\mathfrak{S}_z, \\cdots) e^{ikZ\\mathfrak{S}_z}. \\end{array}$$\n\nMoreover, we introduce polar coordinates for $\\mathfrak{S}$:",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 32,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathfrak{S}_x = \\sin \\vartheta \\cos \\varphi, \\quad \\mathfrak{S}_y = \\sin \\vartheta \\sin \\varphi, \\quad \\mathfrak{S}_z = \\cos \\vartheta \\tag{16}$$",
+          "markdown": "$$\\mathfrak{S}_x = \\sin \\vartheta \\cos \\varphi, \\quad \\mathfrak{S}_y = \\sin \\vartheta \\sin \\varphi, \\quad \\mathfrak{S}_z = \\cos \\vartheta \\tag{16}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": "null",
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\cos \\vartheta = \\mu$$",
+          "markdown": "$$\\cos \\vartheta = \\mu$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "we will then have:",
+          "markdown": "we will then have:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_0 = \\int_0^{2\\pi} d\\varphi \\int_{-1}^{+1} d\\mu c \\left[ \\sqrt{1-\\mu^2} (a_{11} \\cos \\varphi + a_{12} \\sin \\varphi) + \\mu a_{13}, \\cdots \\right] e^{ikZ\\mu}.$$",
+          "markdown": "$$u_0 = \\int_0^{2\\pi} d\\varphi \\int_{-1}^{+1} d\\mu c \\left[ \\sqrt{1-\\mu^2} (a_{11} \\cos \\varphi + a_{12} \\sin \\varphi) + \\mu a_{13}, \\cdots \\right] e^{ikZ\\mu}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "$$\\mathfrak{S}_x = \\sin \\vartheta \\cos \\varphi, \\quad \\mathfrak{S}_y = \\sin \\vartheta \\sin \\varphi, \\quad \\mathfrak{S}_z = \\cos \\vartheta \\tag{16}$$\n\n$$\\cos \\vartheta = \\mu$$\n\nwe will then have:\n\n$$u_0 = \\int_0^{2\\pi} d\\varphi \\int_{-1}^{+1} d\\mu c \\left[ \\sqrt{1-\\mu^2} (a_{11} \\cos \\varphi + a_{12} \\sin \\varphi) + \\mu a_{13}, \\cdots \\right] e^{ikZ\\mu}.$$",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 33,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_0 = \\frac{1}{ikZ} \\int_0^{2\\pi} d\\varphi \\left[ c(a_{13}, a_{23}, a_{33}) e^{ikZ} - c(-a_{13}, -a_{23}, -a_{33}) e^{-ikZ} \\right] - \\frac{1}{ikZ} \\int_0^{2\\pi} d\\varphi \\frac{d}{d\\mu} c \\left[ \\sqrt{1-\\mu^2} (a_{11} \\cos \\varphi + a_{12} \\sin \\varphi) + \\mu a_{13}, \\cdots \\right] e^{ikZ\\mu} d\\mu.$$",
+          "markdown": "$$u_0 = \\frac{1}{ikZ} \\int_0^{2\\pi} d\\varphi \\left[ c(a_{13}, a_{23}, a_{33}) e^{ikZ} - c(-a_{13}, -a_{23}, -a_{33}) e^{-ikZ} \\right] - \\frac{1}{ikZ} \\int_0^{2\\pi} d\\varphi \\frac{d}{d\\mu} c \\left[ \\sqrt{1-\\mu^2} (a_{11} \\cos \\varphi + a_{12} \\sin \\varphi) + \\mu a_{13}, \\cdots \\right] e^{ikZ\\mu} d\\mu.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Repeated application of the same process shows that the second term vanishes like $Z^{-2}$. If one now introduces $Z = r$, $a_{13} = \\frac{x}{Z} = \\frac{x}{r}$, ... then one will get the asymptotic representation:",
+          "markdown": "Repeated application of the same process shows that the second term vanishes like $Z^{-2}$. If one now introduces $Z = r$, $a_{13} = \\frac{x}{Z} = \\frac{x}{r}$, ... then one will get the asymptotic representation:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_0^\\infty(x, y, z) = \\frac{2\\pi}{ikr} \\left\\{ c\\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) e^{ikr} - c\\left(-\\frac{x}{r}, -\\frac{y}{r}, -\\frac{z}{r}\\right) e^{-ikr} \\right\\}, \\tag{17}$$",
+          "markdown": "$$u_0^\\infty(x, y, z) = \\frac{2\\pi}{ikr} \\left\\{ c\\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) e^{ikr} - c\\left(-\\frac{x}{r}, -\\frac{y}{r}, -\\frac{z}{r}\\right) e^{-ikr} \\right\\}, \\tag{17}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "$$u_0 = \\frac{1}{ikZ} \\int_0^{2\\pi} d\\varphi \\left[ c(a_{13}, a_{23}, a_{33}) e^{ikZ} - c(-a_{13}, -a_{23}, -a_{33}) e^{-ikZ} \\right] - \\frac{1}{ikZ} \\int_0^{2\\pi} d\\varphi \\frac{d}{d\\mu} c \\left[ \\sqrt{1-\\mu^2} (a_{11} \\cos \\varphi + a_{12} \\sin \\varphi) + \\mu a_{13}, \\cdots \\right] e^{ikZ\\mu} d\\mu.$$ \n\nRepeated application of the same process shows that the second term vanishes like $Z^{-2}$. If one now introduces $Z = r$, $a_{13} = \\frac{x}{Z} = \\frac{x}{r}$, ... then one will get the asymptotic representation:\n\n$$u_0^\\infty(x, y, z) = \\frac{2\\pi}{ikr} \\left\\{ c\\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) e^{ikr} - c\\left(-\\frac{x}{r}, -\\frac{y}{r}, -\\frac{z}{r}\\right) e^{-ikr} \\right\\}, \\tag{17}$$",
+      "word_count": 220,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 34,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_0^\\infty(x, y, z) = \\frac{4\\pi}{k} \\left| c\\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) \\right| \\frac{\\sin k \\left[ r + \\gamma \\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) \\right]}{r}. \\tag{18}$$",
+          "markdown": "$$u_0^\\infty(x, y, z) = \\frac{4\\pi}{k} \\left| c\\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) \\right| \\frac{\\sin k \\left[ r + \\gamma \\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) \\right]}{r}. \\tag{18}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "That means that $u_0$ behaves asymptotically like a spherical wave with an amplitude and phase that depends upon the direction. The intensity, as a function of the direction $\\mathfrak{s} = \\mathfrak{r} / r$, determines the flux of the particles that flow through the solid angle element $d\\omega$ with the axis $\\mathfrak{s}$:",
+          "markdown": "That means that $u_0$ behaves asymptotically like a spherical wave with an amplitude and phase that depends upon the direction. The intensity, as a function of the direction $\\mathfrak{s} = \\mathfrak{r} / r$, determines the flux of the particles that flow through the solid angle element $d\\omega$ with the axis $\\mathfrak{s}$:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Phi_0 d\\omega = |c(\\mathfrak{s})|^2 d\\omega \\tag{19}$$",
+          "markdown": "$$\\Phi_0 d\\omega = |c(\\mathfrak{s})|^2 d\\omega \\tag{19}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "$$u_0^\\infty(x, y, z) = \\frac{4\\pi}{k} \\left| c\\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) \\right| \\frac{\\sin k \\left[ r + \\gamma \\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) \\right]}{r}. \\tag{18}$$\n\nThat means that $u_0$ behaves asymptotically like a spherical wave with an amplitude and phase that depends upon the direction. The intensity, as a function of the direction $\\mathfrak{s} = \\mathfrak{r} / r$, determines the flux of the particles that flow through the solid angle element $d\\omega$ with the axis $\\mathfrak{s}$:\n\n$$\\Phi_0 d\\omega = |c(\\mathfrak{s})|^2 d\\omega \\tag{19}$$",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 35,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 6. Elastic collisions.",
+          "markdown": "## § 6. Elastic collisions.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now go on to the integration of the general equation (5), § 5:",
+          "markdown": "We now go on to the integration of the general equation (5), § 5:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Delta\\psi + (k^2 - V) \\psi = 0; \\tag{1}$$",
+          "markdown": "$$\\Delta\\psi + (k^2 - V) \\psi = 0; \\tag{1}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "physically, it represents the case in which an electron collides with an atom that cannot be excited by that.",
+          "markdown": "physically, it represents the case in which an electron collides with an atom that cannot be excited by that.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "As in § 3, we determine $\\psi$ by a process of iteration in which the function $u_0$ that we just introduced in (11), § 5 will serve as the initial function. We then calculate $u_1, u_2, \\ldots$ in succession from the approximation equations:",
+          "markdown": "As in § 3, we determine $\\psi$ by a process of iteration in which the function $u_0$ that we just introduced in (11), § 5 will serve as the initial function. We then calculate $u_1, u_2, \\ldots$ in succession from the approximation equations:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## § 6. Elastic collisions.\n\nWe now go on to the integration of the general equation (5), § 5:\n\n$$\\Delta\\psi + (k^2 - V) \\psi = 0; \\tag{1}$$\n\nphysically, it represents the case in which an electron collides with an atom that cannot be excited by that.\n\nAs in § 3, we determine $\\psi$ by a process of iteration in which the function $u_0$ that we just introduced in (11), § 5 will serve as the initial function. We then calculate $u_1, u_2, \\ldots$ in succession from the approximation equations:",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Section header and equation requiring verification for correct LaTeX rendering."
+      ]
+    },
+    {
+      "pdf_page_number": 36,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\Delta u_n + k^2 u_n = V u_{n-1} = F_{n-1} \\tag{2}$$",
+          "markdown": "$$\\Delta u_n + k^2 u_n = V u_{n-1} = F_{n-1} \\tag{2}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Green's theorem yields the solution that corresponds to the outgoing waves with the time factor $e^{ik\\upsilon t}$ in the form of:",
+          "markdown": "Green's theorem yields the solution that corresponds to the outgoing waves with the time factor $e^{ik\\upsilon t}$ in the form of:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_n(\\tau) = -\\frac{1}{4\\pi} \\int F_{n-1}(\\tau') \\frac{e^{-ik[\\tau-\\tau']}}{\\tau - \\tau'} dS', \\tag{3}$$",
+          "markdown": "$$u_n(\\tau) = -\\frac{1}{4\\pi} \\int F_{n-1}(\\tau') \\frac{e^{-ik[\\tau-\\tau']}}{\\tau - \\tau'} dS', \\tag{3}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "in which $\\tau'$ means the vector with the components $x', y', z'$, and $dS' = dx' dy' dz'$. The convergence of the process can be proved on the basis of the assumption that $V$ goes to zero like $r^{-2}$ ($^1$); however, we shall not go into that, but assume that the series:",
+          "markdown": "in which $\\tau'$ means the vector with the components $x', y', z'$, and $dS' = dx' dy' dz'$. The convergence of the process can be proved on the basis of the assumption that $V$ goes to zero like $r^{-2}$ ($^1$); however, we shall not go into that, but assume that the series:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "$$\\Delta u_n + k^2 u_n = V u_{n-1} = F_{n-1} \\tag{2}$$\n\nGreen's theorem yields the solution that corresponds to the outgoing waves with the time factor $e^{ik\\upsilon t}$ in the form of:\n\n$$u_n(\\tau) = -\\frac{1}{4\\pi} \\int F_{n-1}(\\tau') \\frac{e^{-ik[\\tau-\\tau']}}{\\tau - \\tau'} dS', \\tag{3}$$\n\nin which $\\tau'$ means the vector with the components $x', y', z'$, and $dS' = dx' dy' dz'$. The convergence of the process can be proved on the basis of the assumption that $V$ goes to zero like $r^{-2}$ ($^1$); however, we shall not go into that, but assume that the series:",
+      "word_count": 200,
+      "page_quality_notes": [
+        "Equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 37,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi(\\tau) = \\sum_{n=0}^{\\infty} u_n(\\tau)$$",
+          "markdown": "$$\\psi(\\tau) = \\sum_{n=0}^{\\infty} u_n(\\tau)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "represents the solution.",
+          "markdown": "represents the solution.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We investigate the asymptotic behavior of $u_n(\\tau)$. We write, more thoroughly:",
+          "markdown": "We investigate the asymptotic behavior of $u_n(\\tau)$. We write, more thoroughly:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$u_n(x, y, z) = -\\frac{1}{4\\pi} \\int F_{n-1}(x', y', z') \\frac{e^{-ik\\sqrt{(x-x')^2 + (y-y')^2 + (z-z')^2}}}{\\sqrt{(x-x')^2 + (y-y')^2 + (z-z')^2}} dx' dy' dz'.$",
+          "markdown": "$$u_n(x, y, z) = -\\frac{1}{4\\pi} \\int F_{n-1}(x', y', z') \\frac{e^{-ik\\sqrt{(x-x')^2 + (y-y')^2 + (z-z')^2}}}{\\sqrt{(x-x')^2 + (y-y')^2 + (z-z')^2}} dx' dy' dz'.$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "$$\\psi(\\tau) = \\sum_{n=0}^{\\infty} u_n(\\tau)$$ represents the solution.\n\nWe investigate the asymptotic behavior of $u_n(\\tau)$. We write, more thoroughly:\n\n$$u_n(x, y, z) = -\\frac{1}{4\\pi} \\int F_{n-1}(x', y', z') \\frac{e^{-ik\\sqrt{(x-x')^2 + (y-y')^2 + (z-z')^2}}}{\\sqrt{(x-x')^2 + (y-y')^2 + (z-z')^2}} dx' dy' dz'.$",
+      "word_count": 150,
+      "page_quality_notes": [
+        "Equation with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 38,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now once more introduce the rotation of the coordinate system that was given in § 5 and subject the integration variables to that rotation. One will then have:",
+          "markdown": "We now once more introduce the rotation of the coordinate system that was given in § 5 and subject the integration variables to that rotation. One will then have:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} u_n(x, y, z) = u_n(a_{13}Z, a_{23}Z, a_{33}Z) \\\\ = -\\frac{1}{4\\pi} \\int F'_{n-1}(X', Y', Z') \\frac{e^{-ik\\sqrt{X'^2 + Y'^2 + Z'^2}}}{\\sqrt{X'^2 + Y'^2 + (Z-Z')^2}} dX' dY' dZ'; \\tag{4} \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} u_n(x, y, z) = u_n(a_{13}Z, a_{23}Z, a_{33}Z) \\\\ = -\\frac{1}{4\\pi} \\int F'_{n-1}(X', Y', Z') \\frac{e^{-ik\\sqrt{X'^2 + Y'^2 + Z'^2}}}{\\sqrt{X'^2 + Y'^2 + (Z-Z')^2}} dX' dY' dZ'; \\tag{4} \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "in this, one has:",
+          "markdown": "in this, one has:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$F'_{n-1}(X', Y', Z') = F_{n-1}(a_{11}X' + a_{11}Y' + a_{13}Z', \\ldots). \\tag{5}$$",
+          "markdown": "$$F'_{n-1}(X', Y', Z') = F_{n-1}(a_{11}X' + a_{11}Y' + a_{13}Z', \\ldots). \\tag{5}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "We now once more introduce the rotation of the coordinate system that was given in § 5 and subject the integration variables to that rotation. One will then have:\n\n$$\\begin{array}{l} u_n(x, y, z) = u_n(a_{13}Z, a_{23}Z, a_{33}Z) \\\\ = -\\frac{1}{4\\pi} \\int F'_{n-1}(X', Y', Z') \\frac{e^{-ik\\sqrt{X'^2 + Y'^2 + Z'^2}}}{\\sqrt{X'^2 + Y'^2 + (Z-Z')^2}} dX' dY' dZ'; \\tag{4} \\end{array}$$\n\nin this, one has:\n\n$$F'_{n-1}(X', Y', Z') = F_{n-1}(a_{11}X' + a_{11}Y' + a_{13}Z', \\ldots). \\tag{5}$$",
+      "word_count": 200,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 39,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now introduce polar coordinates:",
+          "markdown": "We now introduce polar coordinates:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.15
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} X' = \\rho \\sin \\vartheta \\cos \\varphi, \\quad Y' = \\rho \\sin \\vartheta \\sin \\varphi, \\quad Z' = \\rho \\cos \\vartheta. \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} X' = \\rho \\sin \\vartheta \\cos \\varphi, \\quad Y' = \\rho \\sin \\vartheta \\sin \\varphi, \\quad Z' = \\rho \\cos \\vartheta. \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "One will then have:",
+          "markdown": "One will then have:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} u _ { n } = - \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho ^ { 2 } d \\rho \\int _ { 0 } ^ { \\pi } \\sin \\vartheta d \\vartheta F _ { n - 1 } ^ { \\prime } ( \\rho \\sin \\vartheta , \\cdots ) \\frac { e ^ { - i k \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } } { \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } }. \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} u _ { n } = - \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho ^ { 2 } d \\rho \\int _ { 0 } ^ { \\pi } \\sin \\vartheta d \\vartheta F _ { n - 1 } ^ { \\prime } ( \\rho \\sin \\vartheta , \\cdots ) \\frac { e ^ { - i k \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } } { \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } }. \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "We now introduce polar coordinates:\n\n$$\\begin{array}{l} X' = \\rho \\sin \\vartheta \\cos \\varphi, \\quad Y' = \\rho \\sin \\vartheta \\sin \\varphi, \\quad Z' = \\rho \\cos \\vartheta. \\end{array}$$\n\nOne will then have:\n\n$$\\begin{array}{l} u _ { n } = - \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho ^ { 2 } d \\rho \\int _ { 0 } ^ { \\pi } \\sin \\vartheta d \\vartheta F _ { n - 1 } ^ { \\prime } ( \\rho \\sin \\vartheta , \\cdots ) \\frac { e ^ { - i k \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } } { \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } }. \\end{array}$$",
+      "word_count": 200,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 40,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Finally, we introduce the integration variable $\\mu$ in place of $\\vartheta$ by way of:",
+          "markdown": "Finally, we introduce the integration variable $\\mu$ in place of $\\vartheta$ by way of:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array} { l } { { \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } = Z \\mu , } } \\\\ { { \\sin \\vartheta d \\vartheta = \\displaystyle \\frac { Z } { \\rho } \\mu d \\mu ; } } \\end{array}$$",
+          "markdown": "$$\\begin{array} { l } { { \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } = Z \\mu , } } \\\\ { { \\sin \\vartheta d \\vartheta = \\displaystyle \\frac { Z } { \\rho } \\mu d \\mu ; } } \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "the limits of integration will then become:",
+          "markdown": "the limits of integration will then become:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} \\vartheta = 0 ; \\mu = \\left| \\frac { \\rho } { Z } - 1 \\right| ; \\qquad \\vartheta = \\pi ; \\mu = \\frac { \\rho } { Z } + 1 , \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} \\vartheta = 0 ; \\mu = \\left| \\frac { \\rho } { Z } - 1 \\right| ; \\qquad \\vartheta = \\pi ; \\mu = \\frac { \\rho } { Z } + 1 , \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "and $\\cos \\vartheta , \\sin \\vartheta$ will be certain functions $c ( \\rho , Z , \\mu ) , s ( \\rho , Z , \\mu )$ that will assume the values $c = 1 , s = 0$ at the lower limits and the values $c = - 1 , s = 0$ at the upper ones. One will then obtain:",
+          "markdown": "and $\\cos \\vartheta , \\sin \\vartheta$ will be certain functions $c ( \\rho , Z , \\mu ) , s ( \\rho , Z , \\mu )$ that will assume the values $c = 1 , s = 0$ at the lower limits and the values $c = - 1 , s = 0$ at the upper ones. One will then obtain:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Finally, we introduce the integration variable $\\mu$ in place of $\\vartheta$ by way of:\n\n$$\\begin{array} { l } { { \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } = Z \\mu , } } \\\\ { { \\sin \\vartheta d \\vartheta = \\displaystyle \\frac { Z } { \\rho } \\mu d \\mu ; } } \\end{array}$$\n\nthe limits of integration will then become:\n\n$$\\begin{array}{l} \\vartheta = 0 ; \\mu = \\left| \\frac { \\rho } { Z } - 1 \\right| ; \\qquad \\vartheta = \\pi ; \\mu = \\frac { \\rho } { Z } + 1 , \\end{array}$$\n\nand $\\cos \\vartheta , \\sin \\vartheta$ will be certain functions $c ( \\rho , Z , \\mu ) , s ( \\rho , Z , \\mu )$ that will assume the values $c = 1 , s = 0$ at the lower limits and the values $c = - 1 , s = 0$ at the upper ones. One will then obtain:",
+      "word_count": 220,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 41,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} u _ { n } = - \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho d \\rho \\int _ { \\left| \\frac { \\rho } { Z } - 1 \\right| } ^ { \\frac { \\rho } { Z } + 1 } F _ { n - 1 } ^ { \\prime } ( \\rho s \\cos \\vartheta , \\rho s \\sin \\vartheta , \\rho c ) e ^ { - i k \\mu Z } d \\mu . \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} u _ { n } = - \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho d \\rho \\int _ { \\left| \\frac { \\rho } { Z } - 1 \\right| } ^ { \\frac { \\rho } { Z } + 1 } F _ { n - 1 } ^ { \\prime } ( \\rho s \\cos \\vartheta , \\rho s \\sin \\vartheta , \\rho c ) e ^ { - i k \\mu Z } d \\mu . \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "As in § 5, one will obtain the asymptotic representation from this by partial integration:",
+          "markdown": "As in § 5, one will obtain the asymptotic representation from this by partial integration:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} u _ { n } ^ { \\infty } = \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho d \\rho \\frac { 1 } { i k Z } \\Big [ F _ { n - 1 } ^ { \\prime } ( 0 , 0 , \\rho ) e ^ { - i k ( Z + \\rho ) } - F _ { n - 1 } ^ { \\prime } ( 0 , 0 , - \\rho ) e ^ { - i k | Z - \\rho | } \\Big ] . \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} u _ { n } ^ { \\infty } = \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho d \\rho \\frac { 1 } { i k Z } \\Big [ F _ { n - 1 } ^ { \\prime } ( 0 , 0 , \\rho ) e ^ { - i k ( Z + \\rho ) } - F _ { n - 1 } ^ { \\prime } ( 0 , 0 , - \\rho ) e ^ { - i k | Z - \\rho | } \\Big ] . \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTeX elements requiring verification."
+        }
+      ],
+      "page_markdown_original": "As in § 5, one will obtain the asymptotic representation from this by partial integration:\n\n$$\\begin{array}{l} u _ { n } ^ { \\infty } = \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho d \\rho \\frac { 1 } { i k Z } \\Big [ F _ { n - 1 } ^ { \\prime } ( 0 , 0 , \\rho ) e ^ { - i k ( Z + \\rho ) } - F _ { n - 1 } ^ { \\prime } ( 0 , 0 , - \\rho ) e ^ { - i k | Z - \\rho | } \\Big ] . \\end{array}$$",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    },
+    {
+      "pdf_page_number": 42,
+      "printed_page_number": null,
+      "detected_layout": "single_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} { F _ { n - 1 } ^ { \\prime } ( 0 , 0 , \\rho ) = F _ { n - 1 } ( a _ { 1 3 } \\rho , a _ { 2 3 } \\rho , a _ { 3 3 } \\rho ) = F _ { n - 1 } \\left( \\frac { \\rho x } { r } , \\frac { \\rho y } { r } , \\frac { \\rho z } { r } \\right) , } \\\\ { F _ { n - 1 } ^ { \\prime } ( 0 , 0 , - \\rho ) = F _ { n - 1 } ( - a _ { 1 3 } \\rho , - a _ { 2 3 } \\rho , - a _ { 3 3 } \\rho ) = F _ { n - 1 } \\left( - \\frac { \\rho x } { r } , - \\frac { \\rho y } { r } , - \\frac { \\rho z } { r } \\right) . } \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} { F _ { n - 1 } ^ { \\prime } ( 0 , 0 , \\rho ) = F _ { n - 1 } ( a _ { 1 3 } \\rho , a _ { 2 3 } \\rho , a _ { 3 3 } \\rho ) = F _ { n - 1 } \\left( \\frac { \\rho x } { r } , \\frac { \\rho y } { r } , \\frac { \\rho z } { r } \\right) , } \\\\ { F _ { n - 1 } ^ { \\prime } ( 0 , 0 , - \\rho ) = F _ { n - 1 } ( - a _ { 1 3 } \\rho , - a _ { 2 3 } \\rho , - a _ { 3 3 } \\rho ) = F _ { n - 1 } \\left( - \\frac { \\rho x } { r } , - \\frac { \\rho y } { r } , - \\frac { \\rho z } { r } \\right) . } \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": true,
+          "review_reason": "Complex multi-line equation with LaTe "
+        }
+      ],
+      "page_markdown_original": "$$\\begin{array}{l} { F _ { n - 1 } ^ { \\prime } ( 0 , 0 , \\rho ) = F _ { n - 1 } ( a _ { 1 3 } \\rho , a _ { 2 3 } \\rho , a _ { 3 3 } \\rho ) = F _ { n - 1 } \\left( \\frac { \\rho x } { r } , \\frac { \\rho y } { r } , \\frac { \\rho z } { r } \\right) , } \\\\ { F _ { n - 1 } ^ { \\prime } ( 0 , 0 , - \\rho ) = F _ { n - 1 } ( - a _ { 1 3 } \\rho , - a _ ",
+      "word_count": 180,
+      "page_quality_notes": [
+        "Complex equations with LaTeX elements requiring verification."
+      ]
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 42,
+    "ocr_page_count": 42,
+    "total_word_count": 12500,
+    "figure_count": 0,
+    "table_count": 0,
+    "equation_block_count": 85,
+    "pages_requiring_review": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "All pages processed. Equations and LaTeX formatting require verification for correct rendering.",
+      "Title page, introduction, and mathematical derivations are complete.",
+      "No figures or tables detected in the document."
+    ]
+  }
+}

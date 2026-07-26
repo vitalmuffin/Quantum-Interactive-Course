@@ -1,0 +1,182 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 101,
+      "bottomRightX": 132,
+      "bottomRightY": 117,
+      "content": "574",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 101,
+      "bottomRightX": 456,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 579,
+      "bottomRightY": 176,
+      "content": "Wenn $H$ die (symmetrisierte) Energiefunktion bedeutet, kann auf Grund dieser Beziehungen (2), Kap. 2, ersetzt werden durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 180,
+      "bottomRightX": 579,
+      "bottomRightY": 220,
+      "content": "$$\\dot{q}_k = \\frac{\\partial H}{\\partial p_k}, \\quad \\dot{p}_k = -\\frac{\\partial H}{\\partial q_k}. \\quad (2')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 225,
+      "bottomRightX": 579,
+      "bottomRightY": 242,
+      "content": "Ferner folgt aus diesen Relationen ¹), wie oben in Kap. 1 dieser Arbeit:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 176,
+      "topLeftY": 248,
+      "bottomRightX": 579,
+      "bottomRightY": 326,
+      "content": "$$\\left. \\begin{aligned} p_k f(q_1 \\dots q_f, p_1 \\dots p_f) - f p_k &= \\frac{h}{2\\pi i} \\frac{\\partial f}{\\partial q_k}, \\\\ f q_k - q_k f &= \\frac{h}{2\\pi i} \\frac{\\partial f}{\\partial p_k}. \\end{aligned} \\right\\} \\quad (4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 331,
+      "bottomRightX": 579,
+      "bottomRightY": 451,
+      "content": "Der Beweis von Energiesatz und Frequenzbedingung wird dann aus (2') und (4), Kap. 2, wie in Kap. 1 geführt. Ebenso läßt sich auf Grund von (3) und (4) zeigen, daß immer dann, wenn für ein System $P_k, Q_k$ die Relationen (3), Kap. 2, erfüllt sind und die Energiefunktion als analytische Funktion der $P_k$ und $Q_k$ gegeben ist, die kanonischen Bewegungsgleichungen (2'), Kap. 2, gelten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 452,
+      "bottomRightX": 579,
+      "bottomRightY": 512,
+      "content": "Man wird also eine Transformation der Variablen $p_k, q_k$ in neue Variablen $P_k, Q_k$ dann als „kanonisch“ bezeichnen, wenn sie die Relation (3), Kap. 2, ungeändert läßt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 513,
+      "bottomRightX": 579,
+      "bottomRightY": 550,
+      "content": "Eine sehr allgemeine Klasse solcher Transformationen ist wieder durch die Formeln",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 276,
+      "topLeftY": 542,
+      "bottomRightX": 577,
+      "bottomRightY": 581,
+      "content": "$$\\left. \\begin{aligned} P_k &= S p_k S^{-1}, \\\\ Q_k &= S q_k S^{-1} \\end{aligned} \\right\\} \\quad (5)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 586,
+      "bottomRightX": 577,
+      "bottomRightY": 624,
+      "content": "gegeben. Diese Transformation hat auch wieder die Eigenschaft, jede Funktion $f(PQ)$ überzuführen in",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 120,
+      "topLeftY": 629,
+      "bottomRightX": 577,
+      "bottomRightY": 650,
+      "content": "$$f(P_1, \\dots, P_f, Q_1, \\dots, Q_f) = S f(p_1, \\dots, p_f, q_1, \\dots, q_f) S^{-1}. \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 654,
+      "bottomRightX": 577,
+      "bottomRightY": 731,
+      "content": "Wenn ein System $p_1^0, \\dots, p_f^0, q_1^0, \\dots, q_f^0$ bekannt ist, das den Gleichungen (3), Kap. 2, genügt, so reduziert sich das Problem der Integration der Gleichungen (2), Kap. 2, wieder auf das andere Problem: Es ist eine Funktion $S$ zu suchen, die den Gleichungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 270,
+      "topLeftY": 737,
+      "bottomRightX": 577,
+      "bottomRightY": 775,
+      "content": "$$\\left. \\begin{aligned} p_k &= S p_k^0 S^{-1}, \\\\ q_k &= S q_k^0 S^{-1} \\end{aligned} \\right\\} \\quad (5a)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 775,
+      "bottomRightX": 206,
+      "bottomRightY": 792,
+      "content": "genügt, und die",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 789,
+      "bottomRightX": 577,
+      "bottomRightY": 809,
+      "content": "$$H(pq) = S H(p^0 q^0) S^{-1} = W \\quad (7)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 813,
+      "bottomRightX": 321,
+      "bottomRightY": 831,
+      "content": "in eine Diagonalmatrix überführt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 832,
+      "bottomRightX": 577,
+      "bottomRightY": 871,
+      "content": "Gleichung (7) stellt wieder das Analogon zur Hamiltonschen partiellen Differentialgleichung dar.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 886,
+      "bottomRightX": 577,
+      "bottomRightY": 918,
+      "content": "¹) Die physikalische Bedeutung dieser Relationen bei der Dispersionstheorie wird diskutiert von H. A. Kramers, Physika, Dez. 1925.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

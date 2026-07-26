@@ -1,0 +1,92 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 550,
+      "topLeftY": 87,
+      "bottomRightX": 580,
+      "bottomRightY": 102,
+      "content": "765",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 162,
+      "bottomRightX": 580,
+      "bottomRightY": 204,
+      "content": "## Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 212,
+      "bottomRightX": 428,
+      "bottomRightY": 228,
+      "content": "Von W. Pauli jr. in Hamburg.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 235,
+      "bottomRightX": 442,
+      "bottomRightY": 251,
+      "content": "(Eingegangen am 16. Januar 1925.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 262,
+      "bottomRightX": 581,
+      "bottomRightY": 609,
+      "content": "Es wird, namentlich im Hinblick auf den Millikan-Landéschen Befund der Darstellbarkeit der Alkalidubletts durch relativistische Formeln und auf Grund von in einer früheren Arbeit erhaltenen Resultaten, die Auffassung vorgeschlagen, daß in diesen Dubletts und ihrem anomalen Zeemaneffekt eine klassisch nicht beschreibbare Zweideutigkeit der quantentheoretischen Eigenschaften des Leuchtelektrons zum Ausdruck kommt, ohne daß hierbei die abgeschlossene Edelgaskonfiguration des Atomrestes in Form eines Rumpfimpulses oder als Sitz der magneto-mechanischen Anomalie des Atoms beteiligt ist. Sodann wird versucht, diesen als provisorische Arbeitshypothese eingenommenen Standpunkt trotz ihm entgegenstehender prinzipieller Schwierigkeiten auch bei anderen Atomen als den Alkalien in seinen Konsequenzen möglichst weit zu verfolgen. Dabei zeigt sich zunächst, daß er es im Gegensatz zur üblichen Auffassung ermöglicht, im Falle eines starken äußeren Magnetfeldes, wo von den Kopplungskräften zwischen Atomrest und Leuchtelektron abgesehen werden kann, diesen beiden Teilsystemen hinsichtlich der Anzahl ihrer stationären Zustände sowie der Werte ihrer Quantenzahlen und ihrer magnetischen Energie keine anderen Eigenschaften zuzuschreiben als dem freien Atomrest bzw. dem Leuchtelektron bei den Alkalien. Auf Grund dieses Ergebnisses gelangt man ferner zu einer allgemeinen Klassifikation jedes Elektrons im Atom durch die Hauptquantenzahl $n$ und zwei Nebenquantenzahlen $k_1$ und $k_2$, zu denen bei Anwesenheit eines äußeren Feldes noch eine weitere Quantenzahl $m_1$ hinzutritt. In Anknüpfung an eine neuere Arbeit von E. C. Stoner führt diese Klassifikation zu einer allgemeinen quantentheoretischen Formulierung des Abschlusses der Elektronengruppen im Atom.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 619,
+      "bottomRightX": 581,
+      "bottomRightY": 858,
+      "content": "§ 1. Die Permanenz der Quantenzahlen (Aufbauprinzip) bei Komplexstruktur und Zeemaneffekt. In einer früheren Arbeit¹⁾ wurde hervorgehoben, daß die übliche Vorstellung, nach der die inneren abgeschlossenen Elektronenschalen im Atom in Form von Rumpfimpulsen und als eigentlicher Sitz der magneto-mechanischen Anomalie an der Komplexstruktur der optischen Spektren und ihrem anomalen Zeemaneffekt wesentlich beteiligt sein sollen, zu verschiedenen ernstlichen Schwierigkeiten Anlaß gibt. Hierdurch wird es nahe gelegt, dieser Vorstellung die andere gegenüber zu stellen, daß insbesondere die Dublettstruktur der Alkalispektren sowie ihr anomaler Zeemaneffekt in einer klassisch nicht beschreibbaren Zweideutigkeit der quantentheoretischen Eigenschaften des Leuchtelektrons seine Ursache hat. Diese Auffassung stützt sich über-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 873,
+      "bottomRightX": 580,
+      "bottomRightY": 905,
+      "content": "¹⁾ ZS. f. Phys. 31, 373, 1925. Am Schlusse dieser Arbeit ist auf die vorliegende Note Bezug genommen.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 113,
+      "topLeftY": 907,
+      "bottomRightX": 284,
+      "bottomRightY": 921,
+      "content": "Zeitschrift für Physik. Bd. XXXI.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 493,
+      "topLeftY": 909,
+      "bottomRightX": 510,
+      "bottomRightY": 922,
+      "content": "51",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

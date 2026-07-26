@@ -1,0 +1,92 @@
+{
+  "index": 28,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 156,
+      "bottomRightX": 587,
+      "bottomRightY": 204,
+      "content": "the integral being taken along the classical path between $x_i$, at $t_i$ and $x_{i+1}$ at $t_{i+1}$. For the simple one-dimensional example this becomes, with sufficient accuracy,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 215,
+      "bottomRightX": 585,
+      "bottomRightY": 257,
+      "content": "$$S(x_{i+1}, t_{i+1}; x_i, t_i) = \\left\\{ \\frac{m}{2} \\left( \\frac{x_{i+1} - x_i}{t_{i+1} - t_i} \\right)^2 - V(x_{i+1}) \\right\\} (t_{i+1} - t_i); \\quad (56)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 267,
+      "bottomRightX": 585,
+      "bottomRightY": 300,
+      "content": "the corresponding normalization constant for integration on $dx_i$ is $A = (2\\pi\\hbar i(t_{i+1} - t_i)/m)^{-1/2}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 300,
+      "bottomRightX": 587,
+      "bottomRightY": 626,
+      "content": "The relation of $H$ to the change in a state with displacement in time can now be studied. Consider a state $\\psi(t)$ defined by a space-time region $R'$. Now imagine that we consider another state at time $t$, $\\psi_\\delta(t)$, denned by another region $R'_\\delta$. Suppose the region $R'_\\delta$ is exactly the same as $R'$ except that it is earlier by a time $\\delta$, i.e., displaced bodily toward the past by a time $\\delta$. All the apparatus to prepare the system for $R'_\\delta$ is identical to that for $R'$ but is operated a time $\\delta$ sooner. If $L$ depends explicitly on time, it, too, is to be displaced, i.e., the state $\\psi_\\delta$ is obtained from the $L$ used for state $\\psi$ except that the time $t$ in $L_\\delta$ is replaced by $t + \\delta$. We ask how does the state $\\psi_\\delta$ differ from $\\psi$? In any measurement the chance of finding the system in a fixed region $R''$ is different for $R'$ and $R'_\\delta$. Consider the change in the transition element $\\langle \\chi | 1 | \\psi_\\delta \\rangle_{S_\\delta}$ produced by the shift $\\delta$. We can consider this shift as effected by decreasing all values of $t_i$ by $\\delta$ for $i \\leq k$ and leaving all $t_i$ fixed for $i > k$, where the time $t$ lies in the interval between $t_{k+1}$ and $t_k$. $^{20}$ This change will have no effect on $S(x_{i+1}, t_{i+1}; x_i, t_i)$ as defined by (55) as long as both $t_{i+1}$ and $t_i$ are changed by the same amount. On the other hand, $S(x_{k+1}, t_{k+1}; x_k, t_k)$ is changed to $S(x_{k+1}, t_{k+1}; x_k, t_k - \\delta)$. The constant $1/A$ for the integration on $dx_k$, is also altered to $(2\\pi\\hbar i(t_{k+1} - t_k + \\delta)/m)^{-1/2}$. The effect of these changes on the transition element is given to the first order in $\\delta$ by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 624,
+      "bottomRightX": 585,
+      "bottomRightY": 654,
+      "content": "$$\\langle \\chi | 1 | \\psi \\rangle_S - \\langle \\chi | 1 | \\psi_\\delta \\rangle_{S_\\delta} = \\frac{i\\delta}{\\hbar} \\langle \\chi | H_k | \\psi \\rangle_S, \\quad (57)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 659,
+      "bottomRightX": 436,
+      "bottomRightY": 675,
+      "content": "here the Hamiltonian functional $H_k$ is defined by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 686,
+      "bottomRightX": 585,
+      "bottomRightY": 719,
+      "content": "$$H_k = \\frac{\\partial S(x_{k+1}, t_{k+1}; x_k t_k)}{\\partial t_k} + \\frac{\\hbar}{2i(t_{k+1} - t_k)}. \\quad (58)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 729,
+      "bottomRightX": 587,
+      "bottomRightY": 810,
+      "content": "$^{20}$From the point of view of mathematical rigor, if $\\delta$ is finite, as $\\epsilon \\rightarrow 0$ one gets into difficulty in that, for example, the interval $t_{k+1} - t_k$ is kept finite. This can be straightened out by assuming $\\delta$ to vary with time and to be turned on smoothly before $t = t_k$ and turned off smoothly after $t = t_k$. Then keeping the time variation of $\\delta$ fixed, let $\\epsilon \\rightarrow 0$. Then seek the first-order change as $\\delta \\rightarrow 0$. The result is essentially the same as that of the crude procedure used above.",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "29",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

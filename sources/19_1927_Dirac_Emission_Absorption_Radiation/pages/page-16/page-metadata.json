@@ -1,0 +1,92 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 158,
+      "topLeftY": 169,
+      "bottomRightX": 628,
+      "bottomRightY": 237,
+      "content": "apply to a non-periodic physical phenomenon such as a collision. (The more definite method that will now be given shows that Born's assumption is not quite right, it being necessary to multiply the square of the amplitude by a certain factor.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 238,
+      "bottomRightX": 628,
+      "bottomRightY": 411,
+      "content": "An alternative method of solving a collision problem is to find a *non-periodic* solution of the wave equation which consists initially simply of plane waves moving over the whole of space in the necessary direction with the necessary frequency to represent the incident electron. In course of time waves moving in other directions must appear in order that the wave equation may remain satisfied. The probability of the electron being scattered in any direction with any energy will then be determined by the rate of growth of the corresponding harmonic component of these waves. The way the mathematics is to be interpreted is by this method quite definite, being the same as that of the beginning of § 2.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 412,
+      "bottomRightX": 628,
+      "bottomRightY": 534,
+      "content": "We shall apply this method to the general problem of a system which makes transitions from one state to others of the same energy under the action of a perturbation. Let $H_0$ be the Hamiltonian of the unperturbed system and $V$ the perturbing energy, which must not involve the time explicitly. If we take the case of a continuous range of stationary states, specified by the first integrals, $\\alpha_k$ say, of the unperturbed motion, then, following the method of § 2, we obtain",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 287,
+      "topLeftY": 546,
+      "bottomRightX": 626,
+      "bottomRightY": 579,
+      "content": "$$ih\\dot{a}(\\alpha') = \\int V(\\alpha'\\alpha'')d\\alpha'' \\cdot a(\\alpha''), \\quad (21)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 592,
+      "bottomRightX": 628,
+      "bottomRightY": 732,
+      "content": "corresponding to equation (4). The probability of the system being in a state for which each $\\alpha_k$ lies between $\\alpha_{k'}$ and $\\alpha'_k + d\\alpha'_k$ at any time is $|a(\\alpha')|^2 d\\alpha'_1 \\cdot d\\alpha'_2 \\dots$ when a $a(\\alpha')$ is properly normalised and satisfies the proper initial conditions. If initially the system is in the state $\\alpha^0$ we must take the initial value of $a(\\alpha')$ to be of the form $a^0 \\cdot \\delta(\\alpha' - \\alpha^0)$. We shall keep $a^0$ arbitrary, as it would be inconvenient to normalise $a(\\alpha')$ in the present case. For a first approximation we may substitute for $a(\\alpha'')$ in the right-hand side of (21) its initial value. This gives",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 744,
+      "bottomRightX": 551,
+      "bottomRightY": 765,
+      "content": "$$ih\\dot{a}(\\alpha') = a^0 V(\\alpha'\\alpha^0) = \\alpha^0 v(\\alpha'\\alpha^0)e^{i[W(\\alpha') - W(\\alpha^0)]t/h},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 779,
+      "bottomRightX": 622,
+      "bottomRightY": 797,
+      "content": "where $v(\\alpha'\\alpha^0)$ is a constant and $W(\\alpha')$ is the energy of the state $\\alpha'$. Hence",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 809,
+      "bottomRightX": 626,
+      "bottomRightY": 849,
+      "content": "$$iha(\\alpha') = a^0 \\delta(\\alpha' - \\alpha^0) + a^0 v(\\alpha'\\alpha^0)\\frac{e^{i[W(\\alpha') - W(\\alpha^0)]t/h} - 1}{i[W(\\alpha') - W(\\alpha^0)]/h}. \\quad (22)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 382,
+      "topLeftY": 888,
+      "bottomRightX": 402,
+      "bottomRightY": 904,
+      "content": "16",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

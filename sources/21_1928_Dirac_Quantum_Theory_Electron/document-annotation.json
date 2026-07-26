@@ -1,0 +1,3094 @@
+{
+  "document_id": "61_1928_dirac_quantum_theory_electron",
+  "source_filename": "61_1928_dirac_quantum_theory_electron.pdf",
+  "metadata": {
+    "title_original": "The Quantum Theory of the Electron.",
+    "title_normalized": "The Quantum Theory of the Electron",
+    "authors": [
+      "P. A. M. Dirac"
+    ],
+    "publication_year": 1928,
+    "original_language": "en",
+    "journal": "Proceedings of the Royal Society A",
+    "volume": "117",
+    "issue": null,
+    "page_range": "610-624",
+    "doi": "10.1098/rspa.1928.0023",
+    "received_date": "1928-01-02",
+    "abstract_original": "The new quantum mechanics, when applied to the problem of the structure of the atom with point-charge electrons, does not give results in agreement with experiment. The discrepancies consist of \"duplexity\" phenomena, the observed number of stationary states for an electron in an atom being twice the number given by the theory. To meet the difficulty, Goudsmit and Uhlenbeck have introduced the idea of an electron with a spin angular momentum of half a quantum and a magnetic moment of one Bohr magneton. This model for the electron has been fitted into the new mechanics by Pauli, and Darwin, working with an equivalent theory, has shown that it gives results in agreement with experiment for hydrogen-like spectra to the first order of accuracy.\n\nThe question remains as to why Nature should have chosen this particular model for the electron instead of being satisfied with the point-charge. One would like to find some incompleteness in the previous methods of applying quantum mechanics to the point-charge electron such that, when removed, the whole of the duplexity phenomena follow without arbitrary assumptions. In the present paper it is shown that this is the case, the incompleteness of the previous theories lying in their disagreement with relativity, or, alternately, with the general transformation theory of quantum mechanics. It appears that the simplest Hamiltonian for a point-charge electron satisfying the requirements of both relativity and the general transformation theory leads to an explanation of all duplexity phenomena without further assumption. All the same there is a great deal of truth in the spinning electron model, at least as a first approximation. The most important failure of the model seems to be that the magnitude of the resultant orbital angular momentum of an electron moving in an orbit in a central field of force is not a constant, as the model leads one to expect."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "610",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "*The Quantum Theory of the Electron.*",
+          "markdown": "# The Quantum Theory of the Electron",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "By P. A. M. DIRAC, St. John's College, Cambridge.",
+          "markdown": "By **P. A. M. Dirac**, St. John's College, Cambridge.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.6,
+            0.84
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Communicated by R. H. Fowler, F.R.S.—Received January 2, 1928.)",
+          "markdown": "(Communicated by R. H. Fowler, F.R.S.—Received January 2, 1928.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.77,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The new quantum mechanics, when applied to the problem of the structure of the atom with point-charge electrons, does not give results in agreement with experiment. The discrepancies consist of \"duplexity\" phenomena, the observed number of stationary states for an electron in an atom being twice the number given by the theory. To meet the difficulty, Goudsmit and Uhlenbeck have introduced the idea of an electron with a spin angular momentum of half a quantum and a magnetic moment of one Bohr magneton. This model for the electron has been fitted into the new mechanics by Pauli,* and Darwin,† working with an equivalent theory, has shown that it gives results in agreement with experiment for hydrogen-like spectra to the first order of accuracy.",
+          "markdown": "The new quantum mechanics, when applied to the problem of the structure of the atom with point-charge electrons, does not give results in agreement with experiment. The discrepancies consist of \"duplexity\" phenomena, the observed number of stationary states for an electron in an atom being twice the number given by the theory. To meet the difficulty, Goudsmit and Uhlenbeck have introduced the idea of an electron with a spin angular momentum of half a quantum and a magnetic moment of one Bohr magneton. This model for the electron has been fitted into the new mechanics by Pauli,* and Darwin,† working with an equivalent theory, has shown that it gives results in agreement with experiment for hydrogen-like spectra to the first order of accuracy.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.76
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The question remains as to why Nature should have chosen this particular model for the electron instead of being satisfied with the point-charge. One would like to find some incompleteness in the previous methods of applying quantum mechanics to the point-charge electron such that, when removed, the whole of the duplexity phenomena follow without arbitrary assumptions. In the present paper it is shown that this is the case, the incompleteness of the previous theories lying in their disagreement with relativity, or, alternately, with the general transformation theory of quantum mechanics. It appears that the simplest Hamiltonian for a point-charge electron satisfying the requirements of both relativity and the general transformation theory leads to an explanation of all duplexity phenomena without further assumption. All the same there is a great deal of truth in the spinning electron model, at least as a first approximation. The most important failure of the model seems to be that the magnitude of the resultant orbital angular momentum of an electron moving in an orbit in a central field of force is not a constant, as the model leads one to expect.",
+          "markdown": "The question remains as to why Nature should have chosen this particular model for the electron instead of being satisfied with the point-charge. One would like to find some incompleteness in the previous methods of applying quantum mechanics to the point-charge electron such that, when removed, the whole of the duplexity phenomena follow without arbitrary assumptions. In the present paper it is shown that this is the case, the incompleteness of the previous theories lying in their disagreement with relativity, or, alternately, with the general transformation theory of quantum mechanics. It appears that the simplest Hamiltonian for a point-charge electron satisfying the requirements of both relativity and the general transformation theory leads to an explanation of all duplexity phenomena without further assumption. All the same there is a great deal of truth in the spinning electron model, at least as a first approximation. The most important failure of the model seems to be that the magnitude of the resultant orbital angular momentum of an electron moving in an orbit in a central field of force is not a constant, as the model leads one to expect.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.69
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "* Pauli, 'Z. f. Physik,' vol. 43, p. 601 (1927).",
+          "markdown": "* Pauli, 'Z. f. Physik,' vol. 43, p. 601 (1927).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.57,
+            0.3,
+            0.59
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "† Darwin, 'Roy. Soc. Proc.,' A, vol. 116, p. 227 (1927).",
+          "markdown": "† Darwin, 'Roy. Soc. Proc.,' A, vol. 116, p. 227 (1927).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.54,
+            0.35,
+            0.56
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Quantum Theory of Electron.",
+          "markdown": "## Quantum Theory of Electron.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.4,
+            0.53
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "611",
+          "markdown": "611",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# The Quantum Theory of the Electron\n\nBy **P. A. M. Dirac**, St. John's College, Cambridge.\n\n(Communicated by R. H. Fowler, F.R.S.—Received January 2, 2, 1928.)\n\nThe new quantum mechanics, when applied to the problem of the structure of the atom with point-charge electrons, does not give results in agreement with experiment. The discrepancies consist of \"duplexity\" phenomena, the observed number of stationary states for an electron in an atom being twice the number given by the theory. To meet the difficulty, Goudsmit and Uhlenbeck have introduced the idea of an electron with a spin angular momentum of half a quantum and a magnetic moment of one Bohr magneton. This model for the electron has been fitted into the new mechanics by Pauli,* and Darwin,† working with an equivalent theory, has shown that it gives results in agreement with experiment for hydrogen-like spectra to the first order of accuracy.\n\nThe question remains as to why Nature should have chosen this particular model for the electron instead of being satisfied with the point-charge. One would like to find some incompleteness in the previous methods of applying quantum mechanics to the point-charge electron such that, when removed, the whole of the duplexity phenomena follow without arbitrary assumptions. In the present paper it is shown that this is the case, the incompleteness of the previous theories lying in their disagreement with relativity, or, alternately, with the general transformation theory of quantum mechanics. It appears that the simplest Hamiltonian for a point-charge electron satisfying the requirements of both relativity and the general transformation theory leads to an explanation of all duplexity phenomena without further assumption. All the same there is a great deal of truth in the spinning electron model, at least as a first approximation. The most important failure of the model seems to be that the magnitude of the resultant orbital angular momentum of an electron moving in an orbit in a central field of force is not a constant, as the model leads one to expect.\n\n* Pauli, 'Z. f. Physik,' vol. 43, p. 601 (1927).\n\n† Darwin, 'Roy. Soc. Proc.,' A, vol. 116, p. 227 (1927).\n\n## Quantum Theory of Electron.\n\n611",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Minor OCR errors in mathematical symbols (e.g., 'h' vs 'ħ')",
+        "Page header 'Quantum Theory of Electron.' appears to be a section title rather than a header"
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "611",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 1. Previous Relativity Treatments.",
+          "markdown": "## § 1. Previous Relativity Treatments.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.5,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The relativity Hamiltonian according to the classical theory for a point electron moving in an arbitrary electro-magnetic field with scalar potential $A_0$ and vector potential $A$ is",
+          "markdown": "The relativity Hamiltonian according to the classical theory for a point electron moving in an arbitrary electro-magnetic field with scalar potential $A_0$ and vector potential $A$ is",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathbf{F} \\equiv \\left(\\frac{\\mathbf{W}}{c} + \\frac{e}{c} \\mathbf{A}_0\\right)^2 + \\left(\\mathbf{p} + \\frac{e}{c} \\mathbf{A}\\right)^2 + m^2 c^2,$$",
+          "markdown": "$$\\mathbf{F} \\equiv \\left(\\frac{\\mathbf{W}}{c} + \\frac{e}{c} \\mathbf{A}_0\\right)^2 + \\left(\\mathbf{p} + \\frac{e}{c} \\mathbf{A}\\right)^2 + m^2 c^2,$$\nwhere $\\mathbf{p}$ is the momentum vector.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.9
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It has been suggested by Gordon* that the operator of the wave equation of the quantum theory should be obtained from this F by the same procedure as in non-relativity theory, namely, by putting",
+          "markdown": "It has been suggested by Gordon* that the operator of the wave equation of the quantum theory should be obtained from this F by the same procedure as in non-relativity theory, namely, by putting",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.84
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathbf{W} = i\\hbar \\frac{\\partial}{\\partial t},$$\n\n$$p_r = -i\\hbar \\frac{\\partial}{\\partial x_r}, \\quad r = 1, 2, 3,$$",
+          "markdown": "$$\\mathbf{W} = i\\hbar \\frac{\\partial}{\\partial t},$$\n\n$$p_r = -i\\hbar \\frac{\\partial}{\\partial x_r}, \\quad r = 1, 2, 3,$$\n\nin it.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathbf{F}\\psi \\equiv \\left[ \\left(i\\hbar \\frac{\\partial}{c \\partial t} + \\frac{e}{c} \\mathbf{A}_0\\right)^2 + \\Sigma_r \\left(-i\\hbar \\frac{\\partial}{\\partial x_r} + \\frac{e}{c} \\mathbf{A}_r\\right)^2 + m^2 c^2 \\right] \\psi = 0, \\quad (1)$$",
+          "markdown": "$$\\mathbf{F}\\psi \\equiv \\left[ \\left(i\\hbar \\frac{\\partial}{c \\partial t} + \\frac{e}{c} \\mathbf{A}_0\\right)^2 + \\Sigma_r \\left(-i\\hbar \\frac{\\partial}{\\partial x_r} + \\frac{e}{c} \\mathbf{A}_r\\right)^2 + m^2 c^2 \\right] \\psi = 0, \\quad (1)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.74
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "the wave function $\\psi$ being a function of $x_1, x_2, x_3, t$. This gives rise to two difficulties.",
+          "markdown": "the wave function $\\psi$ being a function of $x_1, x_2, x_3, t$. This gives rise to two difficulties.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.64
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "The first is in connection with the physical interpretation of $\\psi$.",
+          "markdown": "### The first is in connection with the physical interpretation of $\\psi$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.6,
+            0.59
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Gordon, and also independently Klein,† from considerations of the conservation theorems, make the assumption that if $\\psi_m, \\psi_n$ are two solutions",
+          "markdown": "Gordon, and also independently Klein,† from considerations of the conservation theorems, make the assumption that if $\\psi_m, \\psi_n$ are two solutions",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.54
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\rho_{mn} = -\\frac{e}{2mc^2} \\left\\{ i\\hbar \\left( \\psi_m \\frac{\\partial \\psi_n}{\\partial t} - \\overline{\\psi}_n \\frac{\\partial \\psi_m}{\\partial t} \\right) + 2e\\mathbf{A}_0 \\psi_m \\overline{\\psi}_n \\right\\}$$\n\nand\n\n$$\\mathbf{I}_{mn} = -\\frac{e}{2m} \\left\\{ -i\\hbar \\left( \\psi_m \\operatorname{grad} \\overline{\\psi}_n - \\overline{\\psi}_n \\operatorname{grad} \\psi_m \\right) + 2 \\frac{e}{c} \\mathbf{A}_m \\psi_m \\overline{\\psi}_n \\right\\}$$",
+          "markdown": "$$\\rho_{mn} = -\\frac{e}{2mc^2} \\left\\{ i\\hbar \\left( \\psi_m \\frac{\\partial \\psi_n}{\\partial t} - \\overline{\\psi}_n \\frac{\\partial \\psi_m}{\\partial t} \\right) + 2e\\mathbf{A}_0 \\psi_m \\overline{\\psi}_n \\right\\}$$\n\nand\n\n$$\\mathbf{I}_{mn} = -\\frac{e}{2m} \\left\\{ -i\\hbar \\left( \\psi_m \\operatorname{grad} \\overline{\\psi}_n - \\overline{\\psi}_n \\operatorname{grad} \\psi_m \\right) + 2 \\frac{e}{c} \\mathbf{A}_m \\psi_m \\overline{\\psi}_n \\right\\}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.49
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., grad, overline)"
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "are to be interpreted as the charge and current associated with the transition m → n. This appears to be satisfactory so far as emission and absorption of radiation are concerned, but is not so general as the interpretation of the non-relativity quantum mechanics, which has been developed‡ sufficiently to enable one to answer the question: What is the probability of any dynamical variable",
+          "markdown": "are to be interpreted as the charge and current associated with the transition m → n. This appears to be satisfactory so far as emission and absorption of radiation are concerned, but is not so general as the interpretation of the non-relativity quantum mechanics, which has been developed‡ sufficiently to enable one to answer the question: What is the probability of any dynamical variable",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.34
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "* Gordon, 'Z. f. Physik,' vol. 40, p. 117 (1926).",
+          "markdown": "* Gordon, 'Z. f. Physik,' vol. 40, p. 117 (1926).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.3,
+            0.22
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "† Klein, 'Z. f. Physik,' vol. 41, p. 407 (1927).",
+          "markdown": "† Klein, 'Z. f. Physik,' vol. 41, p. 407 (1927).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.17,
+            0.3,
+            0.19
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "‡ Jordan, 'Z. f. Physik,' vol. 40, p. 809 (1927); Dirac, 'Roy. Soc. Proc.,' A, vol. 113, p. 621 (1927).",
+          "markdown": "‡ Jordan, 'Z. f. Physik,' vol. 40, p. 809 (1927); Dirac, 'Roy. Soc. Proc.,' A, vol. 113, p. 621 (1927).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.14,
+            0.6,
+            0.16
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "612",
+          "markdown": "612",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## § 1. Previous Relativity Treatments.\n\nThe relativity Hamiltonian according to the classical theory for a point electron moving in an arbitrary electro-magnetic field with scalar potential $A_0$ and vector potential $A$ is\n\n$$\\mathbf{F} \\equiv \\left(\\frac{\\mathbf{W}}{c} + \\frac{e}{c} \\mathbf{A}_0\\right)^2 + \\left(\\mathbf{p} + \\frac{e}{c} \\mathbf{A}\\right)^2 + m^2 c^2,$$\n\nwhere $\\mathbf{p}$ is the momentum vector.\n\nIt has been suggested by Gordon* that the operator of the wave equation of the quantum theory should be obtained from this F by the same procedure as in non-relativity theory, namely, by putting\n\n$$\\mathbf{W} = i\\hbar \\frac{\\partial}{\\partial t},$$\n\n$$p_r = -i\\hbar \\frac{\\partial}{\\partial x_r}, \\quad r = 1, 2, 3,$$\n\nin it. This gives the wave equation\n\n$$\\mathbf{F}\\psi \\equiv \\left[ \\left(i\\hbar \\frac{\\partial}{c \\partial t} + \\frac{e}{c} \\mathbf{A}_0\\right)^2 + \\Sigma_r \\left(-i\\hbar \\frac{\\partial}{\\partial x_r} + \\frac{e}{c} \\mathbf{A}_r\\right)^2 + m^2 c^2 \\right] \\psi = 0, \\quad (1)$$ \n\nthe wave function $\\psi$ being a function of $x_1, x_2, x_3, t$. This gives rise to two difficulties.\n\n### The first is in connection with the physical interpretation of $\\psi$.\n\nGordon, and also independently Klein,† from considerations of the conservation theorems, make the assumption that if $\\psi_m, \\psi_n$ are two solutions\n\n$$\\rho_{mn} = -\\frac{e}{2mc^2} \\left\\{ i\\hbar \\left( \\psi_m \\frac{\\partial \\psi_n}{\\partial t} - \\overline{\\psi}_n \\frac{\\partial \\psi_m}{\\partial t} \\right) + 2e\\mathbf{A}_0 \\psi_m \\overline{\\psi}_n \\right\\}$$\n\nand\n\n$$\\mathbf{I}_{mn} = -\\frac{e}{2m} \\left\\{ -i\\hbar \\left( \\psi_m \\operatorname{grad} \\overline{\\psi}_n - \\overline{\\psi}_n \\operatorname{grad} \\psi_m \\right) + 2 \\frac{e}{c} \\mathbf{A}_m \\psi_m \\overline{\\psi}_n \\right\\}$$\n\nare to be interpreted as the charge and current associated with the transition m → n. This appears to be satisfactory so far as emission and absorption of radiation are concerned, but is not so general as the interpretation of the non-relativity quantum mechanics, which has been developed‡ sufficiently to enable one to answer the question: What is the probability of any dynamical variable\n\n* Gordon, 'Z. f. Physik,' vol. 40, p. 117 (1926).\n\n† Klein, 'Z. f. Physik,' vol. 41, p. 407 (1927).\n\n‡ Jordan, 'Z. f. Physik,' vol. 40, p. 809 (1927); Dirac, 'Roy. Soc. Proc.,' A, vol. 113, p. 621 (1927).\n\n612",
+      "word_count": 420,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., grad, overline)",
+        "Equations (1) and mathematical expressions require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "612",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "at any specified time having a value lying between any specified limits, when the system is represented by a given wave function $\\psi_n$? The Gordon-Klein interpretation can answer such questions if they refer to the position of the electron (by the use of $\\rho_{nn}$), but not if they refer to its momentum, or angular momentum or any other dynamical variable. We should expect the interpretation of the relativity theory to be just as general as that of the non-relativity theory.",
+          "markdown": "at any specified time having a value lying between any specified limits, when the system is represented by a given wave function $\\psi_n$? The Gordon-Klein interpretation can answer such questions if they refer to the position of the electron (by the use of $\\rho_{nn}$), but not if they refer to its momentum, or angular momentum or any other dynamical variable. We should expect the interpretation of the relativity theory to be just as general as that of the non-relativity theory.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The general interpretation of non-relativity quantum mechanics is based on the transformation theory, and is made possible by the wave equation being of the form",
+          "markdown": "The general interpretation of non-relativity quantum mechanics is based on the transformation theory, and is made possible by the wave equation being of the form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(H - W) \\psi = 0, \\quad (2)$$\n\n$i.e.$, being linear in $W$ or $\\partial/\\partial t$, so that the wave function at any time determines the wave function at any later time. The wave equation of the relativity theory must also be linear in $W$ if the general interpretation is to be possible.",
+          "markdown": "$$(H - W) \\psi = 0, \\quad (2)$$\n\n$i.e.$, being linear in $W$ or $\\partial/\\partial t$, so that the wave function at any time determines the wave function at any later time. The wave equation of the relativity theory must also be linear in $W$ if the general interpretation is to be possible.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.89
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "The second difficulty in Gordon's interpretation arises from the fact that if one takes the conjugate imaginary of equation (1), one gets",
+          "markdown": "### The second difficulty in Gordon's interpretation arises from the fact that if one takes the conjugate imaginary of equation (1), one gets",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.7,
+            0.79
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left[ \\left( - \\frac{W}{c} + \\frac{e}{c} A_0 \\right)^2 + \\left( - p + \\frac{e}{c} A \\right)^2 + m^2 c^2 \\right] \\psi = 0,$$",
+          "markdown": "$$\\left[ \\left( - \\frac{W}{c} + \\frac{e}{c} A_0 \\right)^2 + \\left( - p + \\frac{e}{c} A \\right)^2 + m^2 c^2 \\right] \\psi = 0,$$\n\nwhich is the same as one would get if one put $-e$ for $e$. The wave equation (1) thus refers equally well to an electron with charge $e$ as to one with charge $-e$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.74
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If one considers for definiteness the limiting case of large quantum numbers one would find that some of the solutions of the wave equation are wave packets moving in the way a particle of charge $-e$ would move on the classical theory, while others are wave packets moving in the way a particle of charge $e$ would move classically. For this second class of solutions $W$ has a negative value. One gets over the difficulty on the classical theory by arbitrarily excluding those solutions that have a negative $W$. One cannot do this on the quantum theory, since in general a perturbation will cause transitions from states with $W$ positive to states with $W$ negative. Such a transition would appear experimentally as the electron suddenly changing its charge from $-e$ to $e$, a phenomenon which has not been observed. The true relativity wave equation should thus be such that its solutions split up into two non-combining sets, referring respectively to the charge $-e$ and the charge $e$.",
+          "markdown": "If one considers for definiteness the limiting case of large quantum numbers one would find that some of the solutions of the wave equation are wave packets moving in the way a particle of charge $-e$ would move on the classical theory, while others are wave packets moving in the way a particle of charge $e$ would move classically. For this second class of solutions $W$ has a negative value. One gets over the difficulty on the classical theory by arbitrarily excluding those solutions that have a negative $W$. One cannot do this on the quantum theory, since in general a perturbation will cause transitions from states with $W$ positive to states with $W$ negative. Such a transition would appear experimentally as the electron suddenly changing its charge from $-e$ to $e$, a phenomenon which has not been observed. The true relativity wave equation should thus be such that its solutions split up into two non-combining sets, referring respectively to the charge $-e$ and the charge $e$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.64
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In the present paper we shall be concerned only with the removal of the first of these two difficulties. The resulting theory is therefore still only an approximation, but it appears to be good enough to account for all the duplexity phenomena without arbitrary assumptions.",
+          "markdown": "In the present paper we shall be concerned only with the removal of the first of these two difficulties. The resulting theory is therefore still only an approximation, but it appears to be good enough to account for all the duplexity phenomena without arbitrary assumptions.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.44
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 2.*The Hamiltonian for No Field.*",
+          "markdown": "## § 2. The Hamiltonian for No Field.",
+          "asset_id": "null",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.5,
+            0.39
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Our problem is to obtain a wave equation of the form (2) which shall be invariant under a Lorentz transformation and shall be equivalent to (1) in the limit of large quantum numbers. We shall consider first the case of no field, when equation (1) reduces to",
+          "markdown": "Our problem is to obtain a wave equation of the form (2) which shall be invariant under a Lorentz transformation and shall be equivalent to (1) in the limit of large quantum numbers. We shall consider first the case of no field, when equation (1) reduces to",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.34
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left(-p_0^2 + \\mathbf{p}^2 + m^2c^2\\right) \\psi = 0 \\quad (3)$$\n\nif one puts\n\n$$p_0 = \\frac{W}{c} = ih \\frac{\\partial}{c \\partial t}.$$",
+          "markdown": "$$\\left(-p_0^2 + \\mathbf{p}^2 + m^2c^2\\right) \\psi = 0 \\quad (3)$$\n\nif one puts\n\n$$p_0 = \\frac{W}{c} = ih \\frac{\\partial}{c \\partial t}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.29
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "613",
+          "markdown": "613",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "at any specified time having a value lying between any specified limits, when the system is represented by a given wave function $\\psi_n$? The Gordon-Klein interpretation can answer such questions if they refer to the position of the electron (by the use of $\\rho_{nn}$), but not if they refer to its momentum, or angular momentum or any other dynamical variable. We should expect the interpretation of the relativity theory to be just as general as that of the non-relativity theory.\n\nThe general interpretation of non-relativity quantum mechanics is based on the transformation theory, and is made possible by the wave equation being of the form\n\n$$(H - W) \\psi = 0, \\quad (2)$$\n\n$i.e.$, being linear in $W$ or $\\partial/\\partial t$, so that the wave function at any time determines the wave function at any later time. The wave equation of the relativity theory must also be linear in $W$ if the general interpretation is to be possible.\n\n### The second difficulty in Gordon's interpretation arises from the fact that if one takes the conjugate imaginary of equation (1), one gets\n\n$$\\left[ \\left( - \\frac{W}{c} + \\frac{e}{c} A_0 \\right)^2 + \\left( - p + \\frac{e}{c} A \\right)^2 + m^2 c^2 \\right] \\psi = 0,$$\n\nwhich is the same as one would get if one put $-e$ for $e$. The wave equation (1) thus refers equally well to an electron with charge $e$ as to one with charge $-e$.\n\nIf one considers for definiteness the limiting case of large quantum numbers one would find that some of the solutions of the wave equation are wave packets moving in the way a particle of charge $-e$ would move on the classical theory, while others are wave packets moving in the way a particle of charge $e$ would move classically. For this second class of solutions $W$ has a negative value. One gets over the difficulty on the classical theory by arbitrarily excluding those solutions that have a negative $W$. One cannot do this on the quantum theory, since in general a perturbation will cause transitions from states with $W$ positive to states with $W$ negative. Such a transition would appear experimentally as the electron suddenly changing its charge from $-e$ to $e$, a phenomenon which has not been observed. The true relativity wave equation should thus be such that its solutions split up into two non-combining sets, referring respectively to the charge $-e$ and the charge $e$.\n\nIn the present paper we shall be concerned only with the removal of the first of these two difficulties. The resulting theory is therefore still only an approximation, but it appears to be good enough to account for all the duplexity phenomena without arbitrary assumptions.\n\n## § 2. The Hamiltonian for No Field.\n\nOur problem is to obtain a wave equation of the form (2) which shall be invariant under a Lorentz transformation and shall be equivalent to (1) in the limit of large quantum numbers. We shall consider first the case of no field, when equation (1) reduces to\n\n$$\\left(-p_0^2 + \\mathbf{p}^2 + m^2c^2\\right) \\psi = 0 \\quad (3)$$\n\nif one puts\n\n$$p_0 = \\frac{W}{c} = ih \\frac{\\partial}{c \\partial t}.$$ \n\n613",
+      "word_count": 480,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., grad, overline)",
+        "Equations (2) and (3) require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "613",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The symmetry between $p_0$ and $p_1$, $p_2$, $p_3$ required by relativity shows that, since the Hamiltonian we want is linear in $p_0$, it must also be linear in $p_1$, $p_2$ and $p_3$. Our wave equation is therefore of the form",
+          "markdown": "The symmetry between $p_0$ and $p_1$, $p_2$, $p_3$ required by relativity shows that, since the Hamiltonian we want is linear in $p_0$, it must also be linear in $p_1$, $p_2$ and $p_3$. Our wave equation is therefore of the form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta) \\psi = 0, \\quad (4)$$",
+          "markdown": "$$(p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta) \\psi = 0, \\quad (4)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where for the present all that is known about the dynamical variables or operators $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ is that they are independent of $p_0, p_1, p_2, p_3$, $i.e.$, that they commute with $t, x_1, x_2, x_3$. Since we are considering the case of a particle moving in empty space, so that all points in space are equivalent, we should expect the Hamiltonian not to involve $t, x_1, x_2, x_3$. This means that $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ are independent of $t, x_1, x_2, x_3$, $i.e.$, that they commute with $p_0, p_1, p_2, p_3$. We are therefore obliged to have other dynamical variables besides the co-ordinates and momenta of the electron, in order that $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ may be functions of them. The wave function $\\psi$ must then involve more variables than merely $x_1, x_2, x_3, t$.",
+          "markdown": "where for the present all that is known about the dynamical variables or operators $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ is that they are independent of $p_0, p_1, p_2, p_3$, $i.e.$, that they commute with $t, x_1, x_2, x_3$. Since we are considering the case of a particle moving in empty space, so that all points in space are equivalent, we should expect the Hamiltonian not to involve $t, x_1, x_2, x_3$. This means that $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ are independent of $t, x_1, x_2, x_3$, $i.e.$, that they commute with $p_0, p_1, p_2, p_3$. We are therefore obliged to have other dynamical variables besides the co-ordinates and momenta of the electron, in order that $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ may be functions of them. The wave function $\\psi$ must then involve more variables than merely $x_1, x_2, x_3, t$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.89
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "Equation (4) leads to\n\n$$\\begin{aligned} 0 &= \\left(-p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta\\right) \\left(p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta\\right) \\psi \\\\ &= \\left[-p_0^2 + \\sum \\alpha_1^2 p_1^2 + \\sum (\\alpha_1 \\alpha_2 + \\alpha_2 \\alpha_1) p_1 p_2 + \\beta^2 + \\sum (\\alpha_1 \\beta + \\beta \\alpha_1) p_1\\right] \\psi, \\quad (5) \\end{aligned}$$",
+          "markdown": "Equation (4) leads to\n\n$$\\begin{aligned} 0 &= \\left(-p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta\\right) \\left(p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta\\right) \\psi \\\\ &= \\left[-p_0^2 + \\sum \\alpha_1^2 p_1^2 + \\sum (\\alpha_1 \\alpha_2 + \\alpha_2 \\alpha_1) p_1 p_2 + \\beta^2 + \\sum (\\alpha_1 \\beta + \\beta \\alpha_1) p_1\\right] \\psi, \\quad (5) \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.79
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., sum, alpha)"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This agrees with (3) if",
+          "markdown": "This agrees with (3) if",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.59
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left. \\begin{array}{l} \\alpha_r^2 = 1, \\quad \\alpha_r \\alpha_s + \\alpha_s \\alpha_r = 0 \\quad (r \\neq s) \\\\ \\beta^2 = m^2c^2, \\quad \\alpha_r \\beta + \\beta \\alpha_r = 0 \\end{array} \\right\\} \\quad r, s = 1, 2, 3.$$",
+          "markdown": "$$\\left. \\begin{array}{l} \\alpha_r^2 = 1, \\quad \\alpha_r \\alpha_s + \\alpha_s \\alpha_r = 0 \\quad (r \\neq s) \\\\ \\beta^2 = m^2c^2, \\quad \\alpha_r \\beta + \\beta \\alpha_r = 0 \\end{array} \\right\\} \\quad r, s = 1, 2, 3.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.54
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., array, alpha)"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If we put $\\beta = \\alpha_4 mc$, these conditions become",
+          "markdown": "If we put $\\beta = \\alpha_4 mc$, these conditions become",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.44
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\alpha_\\mu^2 = 1 \\quad \\alpha_\\mu \\alpha_\\nu + \\alpha_\\nu \\alpha_\\mu = 0 \\quad (\\mu \\neq \\nu) \\quad \\mu, \\nu = 1, 2, 3, 4. \\quad (6)$$",
+          "markdown": "$$\\alpha_\\mu^2 = 1 \\quad \\alpha_\\mu \\alpha_\\nu + \\alpha_\\nu \\alpha_\\mu = 0 \\quad (\\mu \\neq \\nu) \\quad \\mu, \\nu = 1, 2, 3, 4. \\quad (6)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_613_4.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.39
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., alpha, mu, nu)"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We can suppose the $\\alpha_\\mu$'s to be expressed as matrices in some matrix scheme, the matrix elements of $\\alpha_\\mu$ being, say, $\\alpha_\\mu (\\zeta' \\zeta'')$. The wave function $\\psi$ must now be a function of $\\zeta$ as well as $x_1, x_2, x_3, t$. The result of $\\alpha_\\mu$ multiplied into $\\psi$ will be a function $(\\alpha_\\mu \\psi)$ of $x_1, x_2, x_3, t, \\zeta$ defined by",
+          "markdown": "We can suppose the $\\alpha_\\mu$'s to be expressed as matrices in some matrix scheme, the matrix elements of $\\alpha_\\mu$ being, say, $\\alpha_\\mu (\\zeta' \\zeta'')$. The wave function $\\psi$ must now be a function of $\\zeta$ as well as $x_1, x_2, x_3, t$. The result of $\\alpha_\\mu$ multiplied into $\\psi$ will be a function $(\\alpha_\\mu \\psi)$ of $x_1, x_2, x_3, t, \\zeta$ defined by",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.34
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(\\alpha_\\mu \\psi) (x, t, \\zeta) = \\Sigma_\\zeta \\alpha_\\mu (\\zeta \\zeta') \\psi (x, t, \\zeta').$$",
+          "markdown": "$$(\\alpha_\\mu \\psi) (x, t, \\zeta) = \\Sigma_\\zeta \\alpha_\\mu (\\zeta \\zeta') \\psi (x, t, \\zeta').$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.24
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We must now find four matrices $\\alpha_\\mu$ to satisfy the conditions (6). We make use of the matrices",
+          "markdown": "We must now find four matrices $\\alpha_\\mu$ to satisfy the conditions (6). We make use of the matrices",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.19
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\sigma_1 = \\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix} \\quad \\sigma_2 = \\begin{pmatrix} 0 & -i \\\\ i & 0 \\end{pmatrix} \\quad \\sigma_3 = \\begin{pmatrix} 1 & 0 \\\\ 0 & -1 \\end{pmatrix}$$",
+          "markdown": "$$\\sigma_1 = \\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix} \\quad \\sigma_2 = \\begin{pmatrix} 0 & -i \\\\ i & 0 \\end{pmatrix} \\quad \\sigma_3 = \\begin{pmatrix} 1 & 0 \\\\ 0 & -1 \\end{pmatrix}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_614_1.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.14
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, matrix)"
+        },
+        {
+          "order": 13,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "614",
+          "markdown": "614",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "The symmetry between $p_0$ and $p_1$, $p_2$, $p_3$ required by relativity shows that, since the Hamiltonian we want is linear in $p_0$, it must also be linear in $p_1$, $p_2$ and $p_3$. Our wave equation is therefore of the form\n\n$$(p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta) \\psi = 0, \\quad (4)$$\n\nwhere for the present all that is known about the dynamical variables or operators $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ is that they are independent of $p_0, p_1, p_2, p_3$, $i.e.$, that they commute with $t, x_1, x_2, x_3$. Since we are considering the case of a particle moving in empty space, so that all points in space are equivalent, we should expect the Hamiltonian not to involve $t, x_1, x_2, x_3$. This means that $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ are independent of $t, x_1, x_2, x_3$, $i.e.$, that they commute with $p_0, p_1, p_2, p_3$. We are therefore obliged to have other dynamical variables besides the co-ordinates and momenta of the electron, in order that $\\alpha_1, \\alpha_2, \\alpha_3, \\beta$ may be functions of them. The wave function $\\psi$ must then involve more variables than merely $x_1, x_2, x_3, t$.\n\nEquation (4) leads to\n\n$$\\begin{aligned} 0 &= \\left(-p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta\\right) \\left(p_0 + \\alpha_1 p_1 + \\alpha_2 p_2 + \\alpha_3 p_3 + \\beta\\right) \\psi \\\\ &= \\left[-p_0^2 + \\sum \\alpha_1^2 p_1^2 + \\sum (\\alpha_1 \\alpha_2 + \\alpha_2 \\alpha_1) p_1 p_2 + \\beta^2 + \\sum (\\alpha_1 \\beta + \\beta \\alpha_1) p_1\\right] \\psi, \\quad (5) \\end{aligned}$$\n\nThis agrees with (3) if\n\n$$\\left. \\begin{array}{l} \\alpha_r^2 = 1, \\quad \\alpha_r \\alpha_s + \\alpha_s \\alpha_r = 0 \\quad (r \\neq s) \\\\ \\beta^2 = m^2c^2, \\quad \\alpha_r \\beta + \\beta \\alpha_r = 0 \\end{array} \\right\\} \\quad r, s = 1, 2, 3.$$ \n\nIf we put $\\beta = \\alpha_4 mc$, these conditions become\n\n$$\\alpha_\\mu^2 = 1 \\quad \\alpha_\\mu \\alpha_\\nu + \\alpha_\\nu \\alpha_\\mu = 0 \\quad (\\mu \\neq \\nu) \\quad \\mu, \\nu = 1, 2, 3, 4. \\quad (6)$$ \n\nWe can suppose the $\\alpha_\\mu$'s to be expressed as matrices in some matrix scheme, the matrix elements of $\\alpha_\\mu$ being, say, $\\alpha_\\mu (\\zeta' \\zeta'')$. The wave function $\\psi$ must now be a function of $\\zeta$ as well as $x_1, x_2, x_3, t$. The result of $\\alpha_\\mu$ multiplied into $\\psi$ will be a function $(\\alpha_\\mu \\psi)$ of $x_1, x_2, x_3, t, \\zeta$ defined by\n\n$$(\\alpha_\\mu \\psi) (x, t, \\zeta) = \\Sigma_\\zeta \\alpha_\\mu (\\zeta \\zeta') \\psi (x, t, \\zeta').$$\n\nWe must now find four matrices $\\alpha_\\mu$ to satisfy the conditions (6). We make use of the matrices\n\n$$\\sigma_1 = \\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix} \\quad \\sigma_2 = \\begin{pmatrix} 0 & -i \\\\ i & 0 \\end{pmatrix} \\quad \\sigma_3 = \\begin{pmatrix} 1 & 0 \\\\ 0 & -1 \\end{pmatrix}$$\n\n614",
+      "word_count": 520,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., sum, alpha, sigma)",
+        "Equations (4), (5), and (6) require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "614",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "which Pauli introduced* to describe the three components of spin angular momentum. These matrices have just the properties\n\n$$\\sigma_r^2 = 1 \\quad \\sigma_r \\sigma_s + \\sigma_s \\sigma_r = 0, \\quad (r \\neq s), \\quad (7)$$",
+          "markdown": "which Pauli introduced* to describe the three components of spin angular momentum. These matrices have just the properties\n\n$$\\sigma_r^2 = 1 \\quad \\sigma_r \\sigma_s + \\sigma_s \\sigma_r = 0, \\quad (r \\neq s), \\quad (7)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_614_2.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma)"
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "that we require for our $\\alpha$'s. We cannot, however, just take the $\\sigma$'s to be three of our $\\alpha$'s, because then it would not be possible to find the fourth. We must extend the $\\sigma$'s in a diagonal manner to bring in two more rows and columns, so that we can introduce three more matrices $\\rho_1, \\rho_2, \\rho_3$ of the same form as $\\sigma_1, \\sigma_2, \\sigma_3$, but referring to different rows and columns, thus:—",
+          "markdown": "that we require for our $\\alpha$'s. We cannot, however, just take the $\\sigma$'s to be three of our $\\alpha$'s, because then it would not be possible to find the fourth. We must extend the $\\sigma$'s in a diagonal manner to bring in two more rows and columns, so that we can introduce three more matrices $\\rho_1, \\rho_2, \\rho_3$ of the same form as $\\sigma_1, \\sigma_2, \\sigma_3$, but referring to different rows and columns, thus:—",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\sigma_1 = \\begin{pmatrix} 0 & 1 & 0 & 0 \\\\ 1 & 0 & 0 & 0 \\\\ 0 & 0 & 0 & 1 \\\\ 0 & 0 & 1 & 0 \\end{pmatrix} \\quad \\sigma_2 = \\begin{pmatrix} 0 & -i & 0 & 0 \\\\ i & 0 & 0 & 0 \\\\ 0 & 0 & 0 & -i \\\\ 0 & 0 & i & 0 \\end{pmatrix} \\quad \\sigma_3 = \\begin{pmatrix} 1 & 0 & 0 & 0 \\\\ 0 & -1 & 0 & 0 \\\\ 0 & 0 & 1 & 0 \\\\ 0 & 0 & 0 & -1 \\end{pmatrix},$$\n\n$$\\rho_1 = \\begin{pmatrix} 0 & 0 & 1 & 0 \\\\ 0 & 0 & 0 & 1 \\\\ 1 & 0 & 0 & 0 \\\\ 0 & 1 & 0 & 0 \\end{pmatrix} \\quad \\rho_2 = \\begin{pmatrix} 0 & 0 & -i & 0 \\\\ 0 & 0 & 0 & -i \\\\ i & 0 & 0 & 0 \\\\ 0 & i & 0 & 0 \\end{pmatrix} \\quad \\rho_3 = \\begin{pmatrix} 1 & 0 & 0 & 0 \\\\ 0 & 1 & 0 & 0 \\\\ 0 & 0 & -1 & 0 \\\\ 0 & 0 & 0 & -1 \\end{pmatrix}.$$",
+          "markdown": "$$\\sigma_1 = \\begin{pmatrix} 0 & 1 & 0 & 0 \\\\ 1 & 0 & 0 & 0 \\\\ 0 & 0 & 0 & 1 \\\\ 0 & 0 & 1 & 0 \\end{pmatrix} \\quad \\sigma_2 = \\begin{pmatrix} 0 & -i & 0 & 0 \\\\ i & 0 & 0 & 0 \\\\ 0 & 0 & 0 & -i \\\\ 0 & 0 & i & 0 \\end{pmatrix} \\quad \\sigma_3 = \\begin{pmatrix} 1 & 0 & 0 & 0 \\\\ 0 & -1 & 0 & 0 \\\\ 0 & 0 & 1 & 0 \\\\ 0 & 0 & 0 & -1 \\end{pmatrix},$$\n\n$$\\rho_1 = \\begin{pmatrix} 0 & 0 & 1 & 0 \\\\ 0 & 0 & 0 & 1 \\\\ 1 & 0 & 0 & 0 \\\\ 0 & 1 & 0 & 0 \\end{pmatrix} \\quad \\rho_2 = \\begin{pmatrix} 0 & 0 & -i & 0 \\\\ 0 & 0 & 0 & -i \\\\ i & 0 & 0 & 0 \\\\ 0 & i & 0 & 0 \\end{pmatrix} \\quad \\rho_3 = \\begin{pmatrix} 1 & 0 & 0 & 0 \\\\ 0 & 1 & 0 & 0 \\\\ 0 & 0 & -1 & 0 \\\\ 0 & 0 & 0 & -1 \\end{pmatrix}.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_615_1.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.84
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, rho, matrix)"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The $\\rho$'s are obtained from the $\\sigma$'s by interchanging the second and third rows, and the second and third columns. We now have, in addition to equations (7)",
+          "markdown": "The $\\rho$'s are obtained from the $\\sigma$'s by interchanging the second and third rows, and the second and third columns. We now have, in addition to equations (7)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.69
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left. \\begin{array}{l} \\rho_r^2 = 1 \\\\ \\rho_r \\rho_s + \\rho_s \\rho_r = 0 \\\\ \\rho_r \\sigma_t = \\sigma_t \\rho_r. \\end{array} \\right\\} \\quad (7')$$\n\nand also",
+          "markdown": "$$\\left. \\begin{array}{l} \\rho_r^2 = 1 \\\\ \\rho_r \\rho_s + \\rho_s \\rho_r = 0 \\\\ \\rho_r \\sigma_t = \\sigma_t \\rho_r. \\end{array} \\right\\} \\quad (7')$$\n\nand also",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, sigma)"
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\alpha_1 = \\rho_1 \\sigma_1, \\quad \\alpha_2 = \\rho_1 \\sigma_2, \\quad \\alpha_3 = \\rho_1 \\sigma_3, \\quad \\alpha_4 = \\rho_3,$$",
+          "markdown": "$$\\alpha_1 = \\rho_1 \\sigma_1, \\quad \\alpha_2 = \\rho_1 \\sigma_2, \\quad \\alpha_3 = \\rho_1 \\sigma_3, \\quad \\alpha_4 = \\rho_3,$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_615_2.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.59
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., alpha, rho, sigma)"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "all the conditions (6) are satisfied, e.g.,",
+          "markdown": "all the conditions (6) are satisfied, e.g.,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.54
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\alpha_1^2 = \\rho_1 \\sigma_1 \\rho_1 \\sigma_1 = \\rho_1^2 \\sigma_1^2 = 1$$\n\n$$\\alpha_1 \\alpha_2 = \\rho_1 \\sigma_1 \\rho_1 \\sigma_2 = \\rho_1^2 \\sigma_1 \\sigma_2 = -\\rho_1^2 \\sigma_2 \\sigma_1 = -\\alpha_2 \\alpha_1.$$",
+          "markdown": "$$\\alpha_1^2 = \\rho_1 \\sigma_1 \\rho_1 \\sigma_1 = \\rho_1^2 \\sigma_1^2 = 1$$\n\n$$\\alpha_1 \\alpha_2 = \\rho_1 \\sigma_1 \\rho_1 \\sigma_2 = \\rho_1^2 \\sigma_1 \\sigma_2 = -\\rho_1^2 \\sigma_2 \\sigma_1 = -\\alpha_2 \\alpha_1.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_615_3.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.49
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., alpha, rho, sigma)"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The following equations are to be noted for later reference",
+          "markdown": "The following equations are to be noted for later reference",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.39
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left. \\begin{array}{l} \\rho_1 \\rho_2 = i \\rho_3 = -\\rho_2 \\rho_1 \\\\ \\sigma_1 \\sigma_2 = i \\sigma_3 = -\\sigma_2 \\sigma_1 \\end{array} \\right\\}, \\quad (8)$$\n\ntogether with the equations obtained by cyclic permutation of the suffixes.",
+          "markdown": "$$\\left. \\begin{array}{l} \\rho_1 \\rho_2 = i \\rho_3 = -\\rho_2 \\rho_1 \\\\ \\sigma_1 \\sigma_2 = i \\sigma_3 = -\\sigma_2 \\sigma_1 \\end{array} \\right\\}, \\quad (8)$$\n\ntogether with the equations obtained by cyclic permutation of the suffixes.",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_615_4.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.34
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, sigma)"
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The wave equation (4) now takes the form",
+          "markdown": "The wave equation (4) now takes the form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$[p_0 + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p}) + \\rho_3 mc] \\psi = 0, \\quad (9)$$\n\nwhere $\\boldsymbol{\\sigma}$ denotes the vector $(\\sigma_1, \\sigma_2, \\sigma_3)$.",
+          "markdown": "$$[p_0 + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p}) + \\rho_3 mc] \\psi = 0, \\quad (9)$$\n\nwhere $\\boldsymbol{\\sigma}$ denotes the vector $(\\sigma_1, \\sigma_2, \\sigma_3)$.",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_615_5.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.24
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, sigma, bold p)"
+        },
+        {
+          "order": 13,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "615",
+          "markdown": "615",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "which Pauli introduced* to describe the three components of spin angular momentum. These matrices have just the properties\n\n$$\\sigma_r^2 = 1 \\quad \\sigma_r \\sigma_s + \\sigma_s \\sigma_r = 0, \\quad (r \\neq s), \\quad (7)$$ \n\nthat we require for our $\\alpha$'s. We cannot, however, just take the $\\sigma$'s to be three of our $\\alpha$'s, because then it would not be possible to find the fourth. We must extend the $\\sigma$'s in a diagonal manner to bring in two more rows and columns, so that we can introduce three more matrices $\\rho_1, \\rho_2, \\rho_3$ of the same form as $\\sigma_1, \\sigma_2, \\sigma_3$, but referring to different rows and columns, thus:—\n\n$$\\sigma_1 = \\begin{pmatrix} 0 & 1 & 0 & 0 \\\\ 1 & 0 & 0 & 0 \\\\ 0 & 0 & 0 & 1 \\\\ 0 & 0 & 1 & 0 \\end{pmatrix} \\quad \\sigma_2 = \\begin{pmatrix} 0 & -i & 0 & 0 \\\\ i & 0 & 0 & 0 \\\\ 0 & 0 & 0 & -i \\\\ 0 & 0 & i & 0 \\end{pmatrix} \\quad \\sigma_3 = \\begin{pmatrix} 1 & 0 & 0 & 0 \\\\ 0 & -1 & 0 & 0 \\\\ 0 & 0 & 1 & 0 \\\\ 0 & 0 & 0 & -1 \\end{pmatrix},$$\n\n$$\\rho_1 = \\begin{pmatrix} 0 & 0 & 1 & 0 \\\\ 0 & 0 & 0 & 1 \\\\ 1 & 0 & 0 & 0 \\\\ 0 & 1 & 0 & 0 \\end{pmatrix} \\quad \\rho_2 = \\begin{pmatrix} 0 & 0 & -i & 0 \\\\ 0 & 0 & 0 & -i \\\\ i & 0 & 0 & 0 \\\\ 0 & i & 0 & 0 \\end{pmatrix} \\quad \\rho_3 = \\begin{pmatrix} 1 & 0 & 0 & 0 \\\\ 0 & 1 & 0 & 0 \\\\ 0 & 0 & -1 & 0 \\\\ 0 & 0 & 0 & -1 \\end{pmatrix}.$$ \n\nThe $\\rho$'s are obtained from the $\\sigma$'s by interchanging the second and third rows, and the second and third columns. We now have, in addition to equations (7)",
+      "word_count": 550,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, rho, matrix)",
+        "Equations (7), (7'), (8), and (9) require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "615",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "# § 3. Proof of Invariance under a Lorentz Transformation.",
+          "markdown": "## § 3. Proof of Invariance under a Lorentz Transformation.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.7,
+            0.99
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Multiply equation (9) by $\\rho_3$ on the left-hand side. It becomes, with the help of (8),",
+          "markdown": "Multiply equation (9) by $\\rho_3$ on the left-hand side. It becomes, with the help of (8),",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$[\\rho_3 p_0 + i \\rho_2 (\\sigma_1 p_1 + \\sigma_2 p_2 + \\sigma_3 p_3) + mc] \\psi = 0.$$",
+          "markdown": "$$[\\rho_3 p_0 + i \\rho_2 (\\sigma_1 p_1 + \\sigma_2 p_2 + \\sigma_3 p_3) + mc] \\psi = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.89
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, sigma, bold p)"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Putting",
+          "markdown": "Putting",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.84
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$p_0 = i p_4,$$\n\n$$\\rho_3 = \\gamma_4, \\quad \\rho_2 \\sigma_r = \\gamma_r, \\quad r = 1, 2, 3, \\quad (10)$$",
+          "markdown": "$$p_0 = i p_4,$$\n\n$$\\rho_3 = \\gamma_4, \\quad \\rho_2 \\sigma_r = \\gamma_r, \\quad r = 1, 2, 3, \\quad (10)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.79
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, gamma)"
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$[i \\Sigma \\gamma_\\mu p_\\mu + mc] \\psi = 0, \\quad \\mu = 1, 2, 3, 4. \\quad (11)$$",
+          "markdown": "$$[i \\Sigma \\gamma_\\mu p_\\mu + mc] \\psi = 0, \\quad \\mu = 1, 2, 3, 4. \\quad (11)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_616_1.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.74
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., gamma, mu)"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The $p_\\mu$ transform under a Lorentz transformation according to the law",
+          "markdown": "The $p_\\mu$ transform under a Lorentz transformation according to the law",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$p_\\mu' = \\Sigma_\\nu a_{\\mu\\nu} p_\\nu,$$\n\nwhere the coefficients $a_{\\mu\\nu}$ are c-numbers satisfying\n\n$$\\Sigma_\\mu a_{\\mu\\nu} a_{\\mu\\nu} = \\delta_{\\nu r}, \\quad \\Sigma_\\nu a_{\\mu\\nu} a_{\\nu\\nu} = \\delta_{\\mu\\nu}.$$",
+          "markdown": "$$p_\\mu' = \\Sigma_\\nu a_{\\mu\\nu} p_\\nu,$$\n\nwhere the coefficients $a_{\\mu\\nu}$ are c-numbers satisfying\n\n$$\\Sigma_\\mu a_{\\mu\\nu} a_{\\mu\\nu} = \\delta_{\\nu r}, \\quad \\Sigma_\\nu a_{\\mu\\nu} a_{\\\\\\nu\\nu} = \\delta_{\\mu\\nu}.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_616_2.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.69
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., delta, a_mu_nu)"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The wave equation therefore transforms into",
+          "markdown": "The wave equation therefore transforms into",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.54
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$[i \\Sigma \\gamma_\\mu' p_\\mu' + mc] \\psi = 0, \\quad (12)$$",
+          "markdown": "$$[i \\Sigma \\gamma_\\mu' p_\\mu' + mc] \\psi = 0, \\quad (12)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_616_3.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., gamma, mu)"
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where",
+          "markdown": "where",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.49
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\gamma_\\mu' = \\Sigma_\\nu a_{\\mu\\nu} \\gamma_\\nu.$$",
+          "markdown": "$$\\gamma_\\mu' = \\Sigma_\\nu a_{\\mu\\nu} \\gamma_\\nu.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_616_4.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., gamma, mu, a_mu_nu)"
+        },
+        {
+          "order": 13,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "616",
+          "markdown": "616",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## § 3. Proof of Invariance under a Lorentz Transformation.\n\nMultiply equation (9) by $\\rho_3$ on the left-hand side. It becomes, with the help of (8),\n\n$$[\\rho_3 p_0 + i \\rho_2 (\\sigma_1 p_1 + \\sigma_2 p_2 + \\sigma_3 p_3) + mc] \\psi = 0.$$ \n\nPutting\n\n$$p_0 = i p_4,$$\n\n$$\\rho_3 = \\gamma_4, \\quad \\rho_2 \\sigma_r = \\gamma_r, \\quad r = 1, 2, 3, \\quad (10)$$ \n\nwe have\n\n$$[i \\Sigma \\gamma_\\mu p_\\mu + mc] \\psi = 0, \\quad \\mu = 1, 2, 3, 4. \\quad (11)$$ \n\nThe $p_\\mu$ transform under a Lorentz transformation according to the law\n\n$$p_\\mu' = \\Sigma_\\nu a_{\\mu\\nu} p_\\nu,$$\n\nwhere the coefficients $a_{\\mu\\nu}$ are c-numbers satisfying\n\n$$\\Sigma_\\mu a_{\\mu\\nu} a_{\\mu\\nu} = \\delta_{\\nu r}, \\quad \\Sigma_\\nu a_{\\mu\\nu} a_{\\nu\\nu} = \\delta_{\\mu\\nu}.$$ \n\nThe wave equation therefore transforms into\n\n$$[i \\Sigma \\gamma_\\mu' p_\\mu' + mc] \\psi = 0, \\quad (12)$$ \n\nwhere\n\n$$\\gamma_\\mu' = \\Sigma_\\nu a_{\\mu\\nu} \\gamma_\\nu.$$ \n\n616",
+      "word_count": 480,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., gamma, mu, delta)",
+        "Equations (10), (11), and (12) require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "616",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Now the $\\gamma_\\mu$, like the $\\alpha_\\mu$, satisfy",
+          "markdown": "Now the $\\gamma_\\mu$, like the $\\alpha_\\mu$, satisfy",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\gamma_\\mu^2 = 1, \\quad \\gamma_\\mu \\gamma_\\nu + \\gamma_\\nu \\gamma_\\mu = 0, \\quad (\\mu \\neq \\nu).$$",
+          "markdown": "$$\\gamma_\\mu^2 = 1, \\quad \\gamma_\\mu \\gamma_\\nu + \\gamma_\\nu \\gamma_\\mu = 0, \\quad (\\mu \\neq \\nu).$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_616_5.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., gamma, mu, nu)"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "These relations can be summed up in the single equation",
+          "markdown": "These relations can be summed up in the single equation",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.89
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\gamma_\\mu \\gamma_\\nu + \\gamma_\\nu \\gamma_\\mu = 2\\delta_{\\mu\\nu}.$$",
+          "markdown": "$$\\gamma_\\mu \\gamma_\\nu + \\gamma_\\nu \\gamma_\\mu = 2\\delta_{\\mu\\nu}.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_616_6.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., gamma, mu, nu, delta)"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We have",
+          "markdown": "We have",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l}\n\\gamma_\\mu' \\gamma_\\nu' + \\gamma_\\nu' \\gamma_\\mu' = \\Sigma_{\\tau\\lambda} a_{\\mu\\tau} a_{\\nu\\lambda} (\\gamma_\\tau \\gamma_\\lambda + \\gamma_\\lambda \\gamma_\\tau) \\\\\n= 2\\Sigma_{\\tau\\lambda} a_{\\mu\\tau} a_{\\nu\\lambda} \\delta_{\\tau\\lambda} \\\\\n= 2\\Sigma_\\tau a_{\\mu\\tau} a_{\\nu\\tau} = 2\\delta_{\\mu\\nu}. \\end{array}$$",
+          "markdown": "$$\\begin{array}{l}\n\\gamma_\\mu' \\gamma_\\nu' + \\gamma_\\nu' \\gamma_\\mu' = \\Sigma_{\\tau\\lambda} a_{\\mu\\tau} a_{\\nu\\lambda} (\\gamma_\\tau \\gamma_\\lambda + \\gamma_\\lambda \\gamma_\\tau) \\\\\n= 2\\Sigma_{\\tau\\lambda} a_{\\mu\\tau} a_{\\nu\\lambda} \\delta_{\\tau\\lambda} \\\\\n= 2\\Sigma_\\tau a_{\\mu\\tau} a_{\\nu\\tau} = 2\\delta_{\\mu\\nu}. \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_616_7.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., gamma, mu, nu, delta, a_mu_tau)"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Thus the $\\gamma_\\mu'$ satisfy the same relations as the $\\gamma_\\mu$. Thus we can put, analogously to (10)",
+          "markdown": "Thus the $\\gamma_\\mu'$ satisfy the same relations as the $\\gamma_\\mu$. Thus we can put, analogously to (10)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\gamma_4' = \\rho_3' \\qquad \\gamma_\\tau' = \\rho_2' \\sigma_\\tau'$$\n\nwhere the $\\rho''$'s and $\\sigma''$'s are easily verified to satisfy the relations corresponding to (7), (7') and (8), if $\\rho_2' and $\\rho_1'$ are defined by $\\rho_2' = -i\\gamma_1'\\gamma_2'\\gamma_3'$, $\\rho_1' = -i\\rho_2'\\rho_3'$.",
+          "markdown": "$$\\gamma_4' = \\rho_3' \\qquad \\gamma_\\tau' = \\rho_2' \\sigma_\\tau'$$\n\nwhere the $\\rho''$'s and $\\sigma''$'s are easily verified to satisfy the relations corresponding to (7), (7') and (8), if $\\rho_2' and $\\rho_1'$ are defined by $\\rho_2' = -i\\gamma_1'\\gamma_2'\\gamma_3'$, $\\rho_1' = -i\\rho_2'\\rho_3'$.",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_617_1.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.84
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., gamma, rho, sigma)"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We shall now show that, by a canonical transformation, the $\\rho''$'s and $\\sigma''$'s may be brought into the form of the $\\rho$'s and $\\sigma$'s. From the equation $\\rho_3'^2 = 1$, it follows that the only possible characteristic values for $\\rho_3'$ are $\\pm 1$.",
+          "markdown": "We shall now show that, by a canonical transformation, the $\\rho''$'s and $\\sigma''$'s may be brought into the form of the $\\rho$'s and $\\sigma$'s. From the equation $\\rho_3'^2 = 1$, it follows that the only possible characteristic values for $\\rho_3'$ are $\\pm 1$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.6,
+            0.95,
+            0.69
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If one applies to $\\rho_3'$ a canonical transformation with the transformation function $\\rho_1'$, the result is",
+          "markdown": "If one applies to $\\rho_3'$ a canonical transformation with the transformation function $\\rho_1'$, the result is",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\rho_1' \\rho_3' (\\rho_1')^{-1} = - \\rho_2' \\rho_1' (\\rho_1')^{-1} = - \\rho_3'.$",
+          "markdown": "$$\\rho_1' \\rho_3' (\\rho_1')^{-1} = - \\rho_2' \\rho_1' (\\rho_1')^{-1} = - \\rho_3'.$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_617_2.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho)"
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Since characteristic values are not changed by a canonical transformation, $\\rho_3'$ must have the same characteristic values as $- \\rho_3'$. Hence the characteristic values of $\\rho_3'$ are $+ 1$ twice and $- 1$ twice. The same argument applies to each of the other $\\rho''$'s, and to each of the $\\sigma''$'s.",
+          "markdown": "Since characteristic values are not changed by a canonical transformation, $\\rho_3'$ must have the same characteristic values as $- \\rho_3'$. Hence the characteristic values of $\\rho_3'$ are $+ 1$ twice and $- 1$ twice. The same argument applies to each of the other $\\rho''$'s, and to each of the $\\sigma''$'s.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.59
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "617",
+          "markdown": "617",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Now the $\\gamma_\\mu$, like the $\\alpha_\\mu$, satisfy\n\n$$\\gamma_\\mu^2 = 1, \\quad \\gamma_\\mu \\gamma_\\nu + \\gamma_\\nu \\gamma_\\mu = 0, \\quad (\\mu \\neq \\nu).$$\n\nThese relations can be summed up in the single equation\n\n$$\\gamma_\\mu \\gamma_\\nu + \\gamma_\\nu \\gamma_\\mu = 2\\delta_{\\mu\\nu}.$$ \n\nWe have\n\n$$\\begin{array}{l}\n\\gamma_\\mu' \\gamma_\\nu' + \\gamma_\\nu' \\gamma_\\mu' = \\Sigma_{\\tau\\lambda} a_{\\mu\\tau} a_{\\nu\\lambda} (\\gamma_\\tau \\gamma_\\lambda + \\gamma_\\lambda \\gamma_\\tau) \\\\\n= 2\\Sigma_{\\tau\\lambda} a_{\\mu\\tau} a_{\\nu\\lambda} \\delta_{\\tau\\lambda} \\\\\n= 2\\Sigma_\\tau a_{\\mu\\tau} a_{\\\\\\nu\\tau} = 2\\delta_{\\mu\\nu}. \\end{array}$$\n\nThus the $\\gamma_\\mu'$ satisfy the same relations as the $\\gamma_\\mu$. Thus we can put, analogously to (10)\n\n$$\\gamma_4' = \\rho_3' \\qquad \\gamma_\\tau' = \\rho_2' \\sigma_\\tau'$$\n\nwhere the $\\rho''$'s and $\\sigma''$'s are easily verified to satisfy the relations corresponding to (7), (7') and (8), if $\\rho_2' and $\\rho_1'$ are defined by $\\rho_2' = -i\\gamma_1'\\gamma_2'\\gamma_3'$, $\\rho_1' = -i\\rho_2'\\rho_3'$.\n\nWe shall now show that, by a canonical transformation, the $\\rho''$'s and $\\sigma''$'s may be brought into the form of the $\\rho$'s and $\\sigma$'s. From the equation $\\rho_3'^2 = 1$, it follows that the only possible characteristic values for $\\rho_3'$ are $\\pm 1$.\n\nIf one applies to $\\rho_3'$ a canonical transformation with the transformation function $\\rho_1'$, the result is\n\n$$\\rho_1' \\rho_3' (\\rho_1')^{-1} = - \\rho_2' \\rho_1' (\\rho_1')^{-1} = - \\rho_3'.$$\n\nSince characteristic values are not changed by a canonical transformation, $\\rho_3'$ must have the same characteristic values as $- \\rho_3'$. Hence the characteristic values of $\\rho_3'$ are $+ 1$ twice and $- 1$ twice. The same argument applies to each of the other $\\rho''$'s, and to each of the $\\sigma''$'s.\n\n617",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., gamma, rho, delta)",
+        "Equations require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "617",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Since $\\rho_3'$ and $\\sigma_3'$ commute, they can be brought simultaneously to the diagonal form by a canonical transformation. They will then have for their diagonal elements each $+ 1$ twice and $- 1$ twice. Thus, by suitably rearranging the rows and columns, they can be brought into the form $\\rho_3$ and $\\sigma_3$ respectively. (The possibility $\\rho_3' = \\pm \\sigma_3'$ is excluded by the existence of matrices that commute with one but not with the other.)",
+          "markdown": "Since $\\rho_3'$ and $\\sigma_3'$ commute, they can be brought simultaneously to the diagonal form by a canonical transformation. They will then have for their diagonal elements each $+ 1$ twice and $- 1$ twice. Thus, by suitably rearranging the rows and columns, they can be brought into the form $\\rho_3$ and $\\sigma_3$ respectively. (The possibility $\\rho_3' = \\pm \\sigma_3'$ is excluded by the existence of matrices that commute with one but not with the other.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Any matrix containing four rows and columns can be expressed as",
+          "markdown": "Any matrix containing four rows and columns can be expressed as",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$c + \\Sigma_\\tau c_\\tau \\sigma_\\tau + \\Sigma_\\tau c_\\tau' \\rho_\\tau + \\Sigma_{\\tau s} c_{\\tau s} \\rho_\\tau \\sigma_s \\quad (13)$$",
+          "markdown": "$$c + \\Sigma_\\tau c_\\tau \\sigma_\\tau + \\Sigma_\\tau c_\\tau' \\rho_\\tau + \\Sigma_{\\tau s} c_{\\tau s} \\rho_\\tau \\sigma_s \\quad (13)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_617_3.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.89
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, rho, c_tau)"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where the sixteen coefficients $c$, $c_\\tau$, $c_\\tau'$, $c_{\\tau s}$ are c-numbers. By expressing $\\sigma_1'$ in this way, we see, from the fact that it commutes with $\\rho_3' = \\rho_3$ and anti-commutes* with $\\sigma_3' = \\sigma_3$, that it must be of the form",
+          "markdown": "where the sixteen coefficients $c$, $c_\\tau$, $c_\\tau'$, $c_{\\tau s}$ are c-numbers. By expressing $\\sigma_1'$ in this way, we see, from the fact that it commutes with $\\rho_3' = \\rho_3$ and anti-commutes* with $\\sigma_3' = \\sigma_3$, that it must be of the form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.84
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\sigma_{1}'=\\left\\{\\begin{array}{cccc} 0 & a_{12} & 0 & 0 \\\\ a_{21} & 0 & 0 & 0 \\\\ 0 & 0 & 0 & a_{34} \\\\ 0 & 0 & a_{43} & 0 \\end{array}\\right\\}$$",
+          "markdown": "$$\\sigma_{1}'=\\left\\{\\begin{array}{cccc} 0 & a_{12} & 0 & 0 \\\\ a_{21} & 0 & 0 & 0 \\\\ 0 & 0 & 0 & a_{34} \\\\ 0 & 0 & a_{43} & 0 \\end{array}\\right\\}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_617_4.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.79
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, array)"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The condition $\\sigma_{1}'^2=1$ shows that $a_{12}a_{21}=1$, $a_{34}a_{43}=1$. If we now apply the canonical transformation: first row to be multiplied by $(a_{21}/a_{12})^{\\frac{1}{2}}$ and third row to be multiplied by $(a_{43}/a_{34})^{\\frac{1}{2}}$, and first and third columns to be divided by the same expressions, $\\sigma_{1}'$ will be brought into the form of $\\sigma_{1}$, and the diagonal matrices $\\sigma_{3}'$ and $\\rho_{3}'$ will not be changed.",
+          "markdown": "The condition $\\sigma_{1}'^2=1$ shows that $a_{12}a_{21}=1$, $a_{34}a_{43}=1$. If we now apply the canonical transformation: first row to be multiplied by $(a_{21}/a_{12})^{\\frac{1}{2}}$ and third row to be multiplied by $(a_{43}/a_{34})^{\\frac{1}{2}}$, and first and third columns to be divided by the same expressions, $\\sigma_{1}'$ will be brought into the form of $\\sigma_{1}$, and the diagonal matrices $\\sigma_{3}'$ and $\\rho_{3}'$ will not be changed.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.64
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If we now express $\\rho_{1}'$ in the form (13) and use the conditions that it commutes with $\\sigma_{1}'=\\sigma_{1}$ and $\\sigma_{3}'=\\sigma_{3}$ and anti-commutes with $\\rho_{3}'=\\rho_{3}$, we see that it must be of the form",
+          "markdown": "If we now express $\\rho_{1}'$ in the form (13) and use the conditions that it commutes with $\\sigma_{1}'=\\sigma_{1}$ and $\\sigma_{3}'=\\sigma_{3}$ and anti-commutes with $\\rho_{3}'=\\rho_{3}$, we see that it must be of the form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.49
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\rho_{1}'=\\left\\{\\begin{array}{cccc} 0 & 0 & e^{-i\\theta} & 0 \\\\ 0 & 0 & 0 & e^{-i\\theta} \\\\ e^{i\\theta} & 0 & 0 & 0 \\\\ 0 & e^{i\\theta} & 0 & 0 \\end{array}\\right\\}$$",
+          "markdown": "$$\\rho_{1}'=\\left\\{\\begin{array}{cccc} 0 & 0 & e^{-i\\theta} & 0 \\\\ 0 & 0 & 0 & e^{-i\\theta} \\\\ e^{i\\theta} & 0 & 0 & 0 \\\\ 0 & e^{i\\theta} & 0 & 0 \\end{array}\\right\\}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, array, theta)"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The condition $\\rho_{1}'^2=1$ shows that $c_{1}'^2+c_{2}'^2=1$, or $c_{1}'=\\cos 0$, $c_{2}'=\\sin 0$. Hence $\\rho_{1}'$ is of the form",
+          "markdown": "The condition $\\rho_{1}'^2=1$ shows that $c_{1}'^2+c_{2}'^2=1$, or $c_{1}'=\\cos 0$, $c_{2}'=\\sin 0$. Hence $\\rho_{1}'$ is of the form",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.39
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If we now apply the canonical transformation: first and second rows to be multiplied by $e^{i\\theta}$ and first and second columns to be divided by the same expression, $\\rho_{1}'$ will be brought into the form $\\rho_{1}$, and $\\sigma_{1}, \\sigma_{3}, \\rho_{3}$ will not be altered. $\\rho_{2}'$ and $\\sigma_{3}'$ must now be of the form $\\rho_{2}$ and $\\sigma_{2}$, on account of the relations $i\\rho_{2}'=\\rho_{3}'\\rho_{1}'$, $i\\sigma_{2}'=\\sigma_{3}'\\sigma_{1}'$.",
+          "markdown": "If we now apply the canonical transformation: first and second rows to be multiplied by $e^{i\\theta}$ and first and second columns to be divided by the same expression, $\\rho_{1}'$ will be brought into the form $\\rho_{1}$, and $\\sigma_{1}, \\sigma_{3}, \\rho_{3}$ will not be altered. $\\rho_{2}'$ and $\\sigma_{3}'$ must now be of the form $\\rho_{2}$ and $\\sigma_{2}$, on account of the relations $i\\rho_{2}'=\\rho_{3}'\\rho_{1}'$, $i\\sigma_{2}'=\\sigma_{3}'\\sigma_{1}'$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.34
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Thus by a succession of canonical transformations, which can be combined to form a single canonical transformation, the $\\rho''$'s and $\\sigma''$'s can be brought into the form of the $\\rho$'s and $\\sigma$'s. The new wave equation (12) can in this way be brought back into the form of the original wave equation (11) or (9), so that the results that follow from this original wave equation must be independent of the frame of reference used.",
+          "markdown": "Thus by a succession of canonical transformations, which can be combined to form a single canonical transformation, the $\\rho''$'s and $\\sigma''$'s can be brought into the form of the $\\rho$'s and $\\sigma$'s. The new wave equation (12) can in this way be brought back into the form of the original wave equation (11) or (9), so that the results that follow from this original wave equation must be independent of the frame of reference used.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.15,
+            0.95,
+            0.24
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "618",
+          "markdown": "618",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Since $\\rho_3'$ and $\\sigma_3'$ commute, they can be brought simultaneously to the diagonal form by a canonical transformation. They will then have for their diagonal elements each $+ 1$ twice and $- 1$ twice. Thus, by suitably rearranging the rows and columns, they can be brought into the form $\\rho_3$ and $\\sigma_3$ respectively. (The possibility $\\rho_3' = \\pm \\sigma_3'$ is excluded by the existence of matrices that commute with one but not with the other.)\n\nAny matrix containing four rows and columns can be expressed as\n\n$$c + \\Sigma_\\tau c_\\tau \\sigma_\\tau + \\Sigma_\\tau c_\\tau' \\rho_\\tau + \\Sigma_{\\tau s} c_{\\tau s} \\rho_\\tau \\sigma_s \\quad (13)$$\n\nwhere the sixteen coefficients $c$, $c_\\tau$, $c_\\tau'$, $c_{\\tau s}$ are c-numbers. By expressing $\\sigma_1'$ in this way, we see, from the fact that it commutes with $\\rho_3' = \\rho_3$ and anti-commutes* with $\\sigma_3' = \\sigma_3$, that it must be of the form\n\n$$\\sigma_{1}'=\\left\\{\\begin{array}{cccc} 0 & a_{12} & 0 & 0 \\\\ a_{21} & 0 & 0 & 0 \\\\ 0 & 0 & 0 & a_{34} \\\\ 0 & 0 & a_{43} & 0 \\end{array}\\right\\}$$\n\nThe condition $\\sigma_{1}'^2=1$ shows that $a_{12}a_{21}=1$, $a_{34}a_{43}=1$. If we now apply the canonical transformation: first row to be multiplied by $(a_{21}/a_{12})^{\\frac{1}{2}}$ and third row to be multiplied by $(a_{43}/a_{34})^{\\frac{1}{2}}$, and first and third columns to be divided by the same expressions, $\\sigma_{1}'$ will be brought into the form of $\\sigma_{1}$, and the diagonal matrices $\\sigma_{3}'$ and $\\rho_{3}'$ will not be changed.\n\nIf we now express $\\rho_{1}'$ in the form (13) and use the conditions that it commutes with $\\sigma_{1}'=\\sigma_{1}$ and $\\sigma_{3}'=\\sigma_{3}$ and anti-commutes with $\\rho_{3}'=\\rho_{3}$, we see that it must be of the form\n\n$$\\rho_{1}'=\\left\\{\\begin{array}{cccc} 0 & 0 & e^{-i\\theta} & 0 \\\\ 0 & 0 & 0 & e^{-i\\theta} \\\\ e^{i\\theta} & 0 & 0 & 0 \\\\ 0 & e^{i\\theta} & 0 & 0 \\end{array}\\right\\}$$\n\nThe condition $\\rho_{1}'^2=1$ shows that $c_{1}'^2+c_{2}'^2=1$, or $c_{1}'=\\cos 0$, $c_{2}'=\\sin 0$. Hence $\\rho_{1}'$ is of the form\n\nIf we now apply the canonical transformation: first and second rows to be multiplied by $e^{i\\theta}$ and first and second columns to be divided by the same expression, $\\rho_{1}'$ will be brought into the form $\\rho_{1}$, and $\\sigma_{1}, \\sigma_{3}, \\rho_{3}$ will not be altered. $\\rho_{2}'$ and $\\sigma_{3}'$ must now be of the form $\\rho_{2}$ and $\\sigma_{2}$, on account of the relations $i\\rho_{2}'=\\rho_{3}'\\rho_{1}'$, $i\\sigma_{2}'=\\sigma_{3}'\\sigma_{1}'$.\n\nThus by a succession of canonical transformations, which can be combined to form a single canonical transformation, the $\\rho''$'s and $\\sigma''$'s can be brought into the form of the $\\rho$'s and $\\sigma$'s. The new wave equation (12) can in this way be brought back into the form of the original wave equation (11) or (9), so that the results that follow from this original wave equation must be independent of the frame of reference used.\n\n618",
+      "word_count": 580,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, rho, array)",
+        "Equations (13) and matrix expressions require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": "618",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "# § 4. The Hamiltonian for an Arbitrary Field.",
+          "markdown": "## § 4. The Hamiltonian for an Arbitrary Field.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.6,
+            0.99
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "To obtain the Hamiltonian for an electron in an electromagnetic field with scalar potential $A_0$ and vector potential $\\mathbf{A}$, we adopt the usual procedure of substituting $p_0 + e/c \\cdot A_0$ for $p_0$ and $\\mathbf{p} + e/c \\cdot \\mathbf{A}$ for $\\mathbf{p}$ in the Hamiltonian for no field. From equation (9) we thus obtain",
+          "markdown": "To obtain the Hamiltonian for an electron in an electromagnetic field with scalar potential $A_0$ and vector potential $\\mathbf{A}$, we adopt the usual procedure of substituting $p_0 + e/c \\cdot A_0$ for $p_0$ and $\\mathbf{p} + e/c \\cdot \\mathbf{A}$ for $\\mathbf{p}$ in the Hamiltonian for no field. From equation (9) we thus obtain",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left[ p_0 + \\frac{e}{c} A_0 + \\rho_1 \\left( \\boldsymbol{\\sigma}, \\mathbf{p} + \\frac{e}{c} \\mathbf{A} \\right) + \\rho_3 mc \\right] \\psi = 0. \\quad (14)$$",
+          "markdown": "$$\\left[ p_0 + \\frac{e}{c} A_0 + \\rho_1 \\left( \\boldsymbol{\\sigma}, \\mathbf{p} + \\frac{e}{c} \\mathbf{A} \\right) + \\rho_3 mc \\right] \\psi = 0. \\quad (14)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_618_1.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.89
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, sigma, bold p, bold A)"
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This wave equation appears to be sufficient to account for all the duplexity phenomena. On account of the matrices $\\rho$ and $\\sigma$ containing four rows and columns, it will have four times as many solutions as the non-relativity wave equation, and twice as many as the previous relativity wave equation (1). Since half the solutions must be rejected as referring to the charge $+e$ on the electron, the correct number will be left to account for duplexity phenomena. The proof given in the preceding section of invariance under a Lorentz transformation applies equally well to the more general wave equation (14).",
+          "markdown": "This wave equation appears to be sufficient to account for all the duplexity phenomena. On account of the matrices $\\rho$ and $\\sigma$ containing four rows and columns, it will have four times as many solutions as the non-relativity wave equation, and twice as many as the previous relativity wave equation (1). Since half the solutions must be rejected as referring to the charge $+e$ on the electron, the correct number will be left to account for duplexity phenomena. The proof given in the preceding section of invariance under a Lorentz transformation applies equally well to the more general wave equation (14).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.84
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We can obtain a rough idea of how (14) differs from the previous relativity wave equation (1) by multiplying it up analogously to (5). This gives, if we write $e'$ for $e/c$",
+          "markdown": "We can obtain a rough idea of how (14) differs from the previous relativity wave equation (1) by multiplying it up analogously to (5). This gives, if we write $e'$ for $e/c$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.69
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} 0 &= \\left[ - (p_0 + e' A_0) + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) + \\rho_3 mc \\right] \\\\\n&\\quad \\times \\left[ (p_0 + e' A_0) + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) + \\rho_3 mc \\right] \\psi \\\\ &= \\left[ - (p_0 + e' A_0)^2 + (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A})^2 + m^2 c^2 \\\\ &\\quad + \\rho_1 \\left\\{ (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) (p_0 + e' A_0) - (p_0 + e' A_0) (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) \\right\\} \\right] \\psi. \\quad (15) \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} 0 &= \\left[ - (p_0 + e' A_0) + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) + \\rho_3 mc \\right] \\\\\n&\\quad \\times \\left[ (p_0 + e' A_0) + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) + \\rho_3 mc \\right] \\psi \\\\ &= \\left[ - (p_0 + e' A_0)^2 + (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A})^2 + m^2 c^2 \\\\ &\\quad + \\rho_1 \\left\\{ (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) (p_0 + e' A_0) - (p_0 + e' A_0) (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) \\right\\} \\right] \\psi. \\quad (15) \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_619_1.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.64
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, sigma, bold p, bold A)"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now use the general formula, that if $\\mathbf{B}$ and $\\mathbf{C}$ are any two vectors that commute with $\\boldsymbol{\\sigma}$",
+          "markdown": "We now use the general formula, that if $\\mathbf{B}$ and $\\mathbf{C}$ are any two vectors that commute with $\\boldsymbol{\\sigma}$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} (\\boldsymbol{\\sigma}, \\mathbf{B}) (\\boldsymbol{\\sigma}, \\mathbf{C}) &= \\Sigma \\sigma_1^2 B_1 C_1 + \\Sigma (\\sigma_1 \\sigma_2 B_1 C_2 + \\sigma_2 \\sigma_1 B_2 C_1) \\\\ &= (\\mathbf{B}, \\mathbf{C}) + i \\Sigma \\sigma_3 (B_1 C_2 - B_2 C_1) \\\\ &= (\\mathbf{B}, \\mathbf{C}) + i (\\boldsymbol{\\sigma}, \\mathbf{B} \\times \\mathbf{C}). \\quad (16) \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} (\\boldsymbol{\\sigma}, \\mathbf{B}) (\\boldsymbol{\\sigma}, \\mathbf{C}) &= \\Sigma \\sigma_1^2 B_1 C_1 + \\Sigma (\\sigma_1 \\sigma_2 B_1 C_2 + \\sigma_2 \\sigma_1 B_2 C_1) \\\\ &= (\\mathbf{B}, \\mathbf{C}) + i \\Sigma \\sigma_3 (B_1 C_2 - B_2 C_1) \\\\ &= (\\mathbf{B}, \\mathbf{C}) + i (\\boldsymbol{\\sigma}, \\mathbf{B} \\times \\mathbf{C}). \\quad (16) \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_619_2.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.39
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, bold B, bold C)"
+        },
+        {
+          "order": 9,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "619",
+          "markdown": "619",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## § 4. The Hamiltonian for an Arbitrary Field.\n\nTo obtain the Hamiltonian for an electron in an electromagnetic field with scalar potential $A_0$ and vector potential $\\mathbf{A}$, we adopt the usual procedure of substituting $p_0 + e/c \\cdot A_0$ for $p_0$ and $\\mathbf{p} + e/c \\cdot \\mathbf{A}$ for $\\mathbf{p}$ in the Hamiltonian for no field. From equation (9) we thus obtain\n\n$$\\left[ p_0 + \\frac{e}{c} A_0 + \\rho_1 \\left( \\boldsymbol{\\sigma}, \\mathbf{p} + \\frac{e}{c} \\mathbf{A} \\right) + \\rho_3 mc \\right] \\psi = 0. \\quad (14)$$\n\nThis wave equation appears to be sufficient to account for all the duplexity phenomena. On account of the matrices $\\rho$ and $\\sigma$ containing four rows and columns, it will have four times as many solutions as the non-relativity wave equation, and twice as many as the previous relativity wave equation (1). Since half the solutions must be rejected as referring to the charge $+e$ on the electron, the correct number will be left to account for duplexity phenomena. The proof given in the preceding section of invariance under a Lorentz transformation applies equally well to the more general wave equation (14).\n\nWe can obtain a rough idea of how (14) differs from the previous relativity wave equation (1) by multiplying it up analogously to (5). This gives, if we write $e'$ for $e/c$\n\n$$\\begin{aligned} 0 &= \\left[ - (p_0 + e' A_0) + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) + \\rho_3 mc \\right] \\\\\n&\\quad \\times \\left[ (p_0 + e' A_0) + \\rho_1 (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) + \\rho_3 mc \\right] \\psi \\\\ &= \\left[ - (p_0 + e' A_0)^2 + (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A})^2 + m^2 c^2 \\\\ &\\quad + \\rho_1 \\left\\{ (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) (p_0 + e' A_0) - (p_0 + e' A_0) (\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A}) \\right\\} \\right] \\psi. \\quad (15) \\end{aligned}$$\n\nWe now use the general formula, that if $\\mathbf{B}$ and $\\mathbf{C}$ are any two vectors that commute with $\\boldsymbol{\\sigma}$\n\n$$\\begin{aligned} (\\boldsymbol{\\sigma}, \\mathbf{B}) (\\boldsymbol{\\sigma}, \\mathbf{C}) &= \\Sigma \\sigma_1^2 B_1 C_1 + \\Sigma (\\sigma_1 \\sigma_2 B_1 C_2 + \\sigma_2 \\sigma_1 B_2 C_1) \\\\ &= (\\mathbf{B}, \\mathbf{C}) + i \\Sigma \\sigma_3 (B_1 C_2 - B_2 C_1) \\\\ &= (\\mathbf{B}, \\mathbf{C}) + i (\\boldsymbol{\\sigma}, \\mathbf{B} \\times \\mathbf{C}). \\quad (16) \\end{aligned}$$\n\n619",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, sigma, bold p, bold A)",
+        "Equations (14), (15), and (16) require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 10,
+      "printed_page_number": "619",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Taking $\\mathbf{B} = \\mathbf{C} = \\mathbf{p} + e' \\mathbf{A}$, we find",
+          "markdown": "Taking $\\mathbf{B} = \\mathbf{C} = \\mathbf{p} + e' \\mathbf{A}$, we find",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned}\n(\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A})^2 &= (\\mathbf{p} + e' \\mathbf{A})^2 + i \\Sigma \\sigma_3 \\\\\n&\\quad \\left[ (p_1 + e' A_1) (p_2 + e' A_2) - (p_2 + e' A_2) (p_1 + e' A_1) \\right] \\\\\n&= (\\mathbf{p} + e' \\mathbf{A})^2 + h e' (\\boldsymbol{\\sigma}, \\operatorname{curl} \\mathbf{A}). \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned}\n(\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A})^2 &= (\\mathbf{p} + e' \\mathbf{A})^2 + i \\Sigma \\sigma_3 \\\\\n&\\quad \\left[ (p_1 + e' A_1) (p_2 + e' A_2) - (p_2 + e' A_2) (p_1 + e' A_1) \\right] \\\\\n&= (\\mathbf{p} + e' \\mathbf{A})^2 + h e' (\\boldsymbol{\\sigma}, \\operatorname{curl} \\mathbf{A}). \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_619_3.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, bold p, bold A, curl)"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Thus (15) becomes",
+          "markdown": "Thus (15) becomes",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.79
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} 0 &= \\left[ -(p_0 + e'\\mathbf{A}_0)^2 + (\\mathbf{p} + e'\\mathbf{A})^2 + m^2c^2 + e'h(\\boldsymbol{\\sigma}, \\text{curl } \\mathbf{A}) \\\\ &\\quad - ie'h\\rho_1\\left(\\boldsymbol{\\sigma}, \\text{grad } \\mathbf{A}_0 + \\frac{1}{c} \\frac{\\partial \\mathbf{A}}{\\partial t}\\right) \\right] \\psi \\\\ &= \\left[ -(p_0 + e'\\mathbf{A}_0)^2 + (\\mathbf{p} + e'\\mathbf{A})^2 + m^2c^2 + e'h(\\boldsymbol{\\sigma}, \\mathbf{H}) + ie'h\\rho_1(\\boldsymbol{\\sigma}, \\mathbf{E}) \\right] \\psi, \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} 0 &= \\left[ -(p_0 + e'\\mathbf{A}_0)^2 + (\\mathbf{p} + e'\\mathbf{A})^2 + m^2c^2 + e'h(\\boldsymbol{\\sigma}, \\text{curl } \\mathbf{A}) \\\\ &\\quad - ie'h\\rho_1\\left(\\boldsymbol{\\sigma}, \\text{grad } \\mathbf{A}_0 + \\frac{1}{c} \\frac{\\partial \\mathbf{A}}{\\partial t}\\right) \\right] \\psi \\\\ &= \\left[ -(p_0 + e'\\mathbf{A}_0)^2 + (\\mathbf{p} + e'\\mathbf{A})^2 + m^2c^2 + e'h(\\boldsymbol{\\sigma}, \\mathbf{H}) + ie'h\\rho_1(\\boldsymbol{\\sigma}, \\mathbf{E}) \\right] \\psi, \\end{aligned}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_619_4.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., rho, sigma, bold p, bold A, bold H, bold E)"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This differs from (1) by the two extra terms",
+          "markdown": "This differs from (1) by the two extra terms",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{eh}{c}(\\boldsymbol{\\sigma}, \\mathbf{H}) + \\frac{ieh}{c}\\rho_1(\\boldsymbol{\\sigma}, \\mathbf{E})$$\n\nin $\\mathbf{F}$. These two terms, when divided by the factor $2m$, can be regarded as the additional potential energy of the electron due to its new degree of freedom. The electron will therefore behave as though it has a magnetic moment $eh/2mc \\cdot \\boldsymbol{\\sigma}$ and an electric moment $ieh/2mc \\cdot \\rho_1\\boldsymbol{\\sigma}$. This magnetic moment is just that assumed in the spinning electron model. The electric moment, being a pure imaginary, we should not expect to appear in the model. It is doubtful whether the electric moment has any physical meaning, since the Hamiltonian in (14) that we started from is real, and the imaginary part only appeared when we multiplied it up in an artificial way in order to make it resemble the Hamiltonian of previous theories.",
+          "markdown": "$$\\frac{eh}{c}(\\boldsymbol{\\sigma}, \\mathbf{H}) + \\frac{ieh}{c}\\rho_1(\\boldsymbol{\\sigma}, \\mathbf{E})$$\n\nin $\\mathbf{F}$. These two terms, when divided by the factor $2m$, can be regarded as the additional potential energy of the electron due to its new degree of freedom. The electron will therefore behave as though it has a magnetic moment $eh/2mc \\cdot \\boldsymbol{\\sigma}$ and an electric moment $ieh/2mc \\cdot \\rho_1\\boldsymbol{\\sigma}$. This magnetic moment is just that assumed in the spinning electron model. The electric moment, being a pure imaginary, we should not expect to appear in the model. It is doubtful whether the electric moment has any physical meaning, since the Hamiltonian in (14) that we started from is real, and the imaginary part only appeared when we multiplied it up in an artificial way in order to make it resemble the Hamiltonian of previous theories.",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_619_5.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.69
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, bold H, bold E, rho)"
+        },
+        {
+          "order": 7,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 5. The Angular Momentum Integrals for Motion in a Central Field.",
+          "markdown": "## § 5. The Angular Momentum Integrals for Motion in a Central Field.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.7,
+            0.49
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We shall consider in greater detail the motion of an electron in a central field of force. We put $\\mathbf{A} = 0$ and $e'\\mathbf{A}_0 = \\mathbf{V}(r)$, an arbitrary function of the radius $r$, so that the Hamiltonian in (14) becomes",
+          "markdown": "We shall consider in greater detail the motion of an electron in a central field of force. We put $\\mathbf{A} = 0$ and $e'\\mathbf{A}_0 = \\mathbf{V}(r)$, an arbitrary function of the radius $r$, so that the Hamiltonian in (14) becomes",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathbf{F} \\equiv p_0 + \\mathbf{V} + \\rho_1(\\boldsymbol{\\sigma}, \\mathbf{p}) + \\rho_3mc.$$",
+          "markdown": "$$\\mathbf{F} \\equiv p_0 + \\mathbf{V} + \\rho_1(\\boldsymbol{\\sigma}, \\mathbf{p}) + \\rho_3mc.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_620_1.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OC"
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We shall determine the periodic solutions of the wave equation $\\mathbf{F}\\psi = 0$, which means that $p_0$ is to be counted as a parameter instead of an operator; it is, in fact, just $1/c$ times the energy level.",
+          "markdown": "We shall determine the periodic solutions of the wave equation $\\mathbf{F}\\psi = 0$, which means that $p_0$ is to be counted as a parameter instead of an operator; it is, in fact, just $1/c$ times the energy level.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We shall first find the angular momentum integrals of the motion. The orbital angular momentum $\\mathbf{m}$ is defined by",
+          "markdown": "We shall first find the angular momentum integrals of the motion. The orbital angular momentum $\\mathbf{m}$ is defined by",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathbf{m} = \\mathbf{x} \\times \\mathbf{p},$$\n\nand satisfies the following \"Vertauschungs\" relations",
+          "markdown": "$$\\mathbf{m} = \\mathbf{x} \\times \\mathbf{p},$$\n\nand satisfies the following \"Vertauschungs\" relations",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_620_2.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.39
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold x, bold p)"
+        },
+        {
+          "order": 13,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "620",
+          "markdown": "620",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Taking $\\mathbf{B} = \\mathbf{C} = \\mathbf{p} + e' \\mathbf{A}$, we find\n\n$$\\begin{aligned}\n(\\boldsymbol{\\sigma}, \\mathbf{p} + e' \\mathbf{A})^2 &= (\\mathbf{p} + e' \\mathbf{A})^2 + i \\Sigma \\sigma_3 \\\\\n&\\quad \\left[ (p_1 + e' A_1) (p_2 + e' A_2) - (p_2 + e' A_2) (p_1 + e' A_1) \\right] \\\\\n&= (\\mathbf{p} + e' \\mathbf{A})^2 + h e' (\\boldsymbol{\\sigma}, \\operatorname{curl} \\mathbf{A}). \\end{aligned}$$\n\nThus (15) becomes\n\n$$\\begin{aligned} 0 &= \\left[ -(p_0 + e'\\mathbf{A}_0)^2 + (\\mathbf{p} + e'\\mathbf{A})^2 + m^2c^2 + e'h(\\boldsymbol{\\sigma}, \\text{curl } \\mathbf{A}) \\\\ &\\quad - ie'h\\rho_1\\left(\\boldsymbol{\\sigma}, \\text{grad } \\mathbf{A}_0 + \\frac{1}{c} \\frac{\\partial \\mathbf{A}}{\\partial t}\\right) \\right] \\psi \\\\ &= \\left[ -(p_0 + e'\\mathbf{A}_0)^2 + (\\mathbf{p} + e'\\mathbf{A})^2 + m^2c^2 + e'h(\\boldsymbol{\\sigma}, \\mathbf{H}) + ie'h\\rho_1(\\boldsymbol{\\sigma}, \\mathbf{E}) \\right] \\psi, \\end{aligned}$$\n\nThis differs from (1) by the two extra terms\n\n$$\\frac{eh}{c}(\\boldsymbol{\\sigma}, \\mathbf{H}) + \\frac{ieh}{c}\\rho_1(\\boldsymbol{\\sigma}, \\mathbf{E})$$\n\nin $\\mathbf{F}$. These two terms, when divided by the factor $2m$, can be regarded as the additional potential energy of the electron due to its new degree of freedom. The electron will therefore behave as though it has a magnetic moment $eh/2mc \\cdot \\boldsymbol{\\sigma}$ and an electric moment $ieh/2mc \\cdot \\rho_1\\boldsymbol{\\sigma}$. This magnetic moment is just that assumed in the spinning electron model. The electric moment, being a pure imaginary, we should not expect to appear in the model. It is doubtful whether the electric moment has any physical meaning, since the Hamiltonian in (14) that we started from is real, and the imaginary part only appeared when we multiplied it up in an artificial way in order to make it resemble the Hamiltonian of previous theories.\n\n## § 5. The Angular Momentum Integrals for Motion in a Central Field.\n\nWe shall consider in greater detail the motion of an electron in a central field of force. We put $\\mathbf{A} = 0$ and $e'\\mathbf{A}_0 = \\mathbf{V}(r)$, an arbitrary function of the radius $r$, so that the Hamiltonian in (14) becomes\n\n$$\\mathbf{F} \\equiv p_0 + \\mathbf{V} + \\rho_1(\\boldsymbol{\\sigma}, \\mathbf{p}) + \\rho_3mc.$$ \n\nWe shall determine the periodic solutions of the wave equation $\\mathbf{F}\\psi = 0$, which means that $p_0$ is to be counted as a parameter instead of an operator; it is, in fact, just $1/c$ times the energy level.\n\nWe shall first find the angular momentum integrals of the motion. The orbital angular momentum $\\mathbf{m}$ is defined by\n\n$$\\mathbf{m} = \\mathbf{x} \\times \\mathbf{p},$$\n\nand satisfies the following \"Vertauschungs\" relations\n\n620",
+      "word_count": 550,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., sigma, bold p, bold A, bold H, bold E)",
+        "Equations require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 11,
+      "printed_page_number": "620",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\left. \\begin{aligned} m_1x_1 - x_1m_1 &= 0, & m_1x_2 - x_2m_1 &= ihx_3 \\\\ m_1p_1 - p_1m_1 &= 0, & m_1p_2 - p_2m_1 &= ihp_3 \\\\ \\mathbf{m} \\times \\mathbf{m} &= ih\\mathbf{m}, & \\mathbf{m}^2m_1 - m_1\\mathbf{m}^2 &= 0, \\end{aligned} \\right\\} \\quad (17)$$",
+          "markdown": "$$\\left. \\begin{aligned} m_1x_1 - x_1m_1 &= 0, & m_1x_2 - x_2m_1 &= ihx_3 \\\\ m_1p_1 - p_1m_1 &= 0, & m_1p_2 - p_2m_1 &= ihp_3 \\\\ \\mathbf{m} \\times \\mathbf{m} &= ih\\mathbf{m}, & \\mathbf{m}^2m_1 - m_1\\mathbf{m}^2 &= 0, \\end{aligned} \\right\\} \\quad (17)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_620_3.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold x, bold p, ih)"
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "together with similar relations obtained by permuting the suffixes. Also m commutes with r, and with p_r, the momentum canonically conjugate to r.",
+          "markdown": "together with similar relations obtained by permuting the suffixes. Also m commutes with r, and with p_r, the momentum canonically conjugate to r.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.94
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We have",
+          "markdown": "We have",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} m_{1} \\mathbf{F} - \\mathbf{F} m_{1} = \\rho_{1} \\{m_{1}(\\boldsymbol{\\sigma}, \\mathbf{p}) - (\\boldsymbol{\\sigma}, \\mathbf{p}) m_{1}\\} \\\\ = \\rho_{1}(\\boldsymbol{\\sigma}, m_{1} \\mathbf{p} - \\mathbf{p} m_{1}) \\\\ = i h \\rho_{1} (\\sigma_{2} p_{3} - \\sigma_{3} p_{2}), \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} m_{1} \\mathbf{F} - \\mathbf{F} m_{1} = \\rho_{1} \\{m_{1}(\\boldsymbol{\\sigma}, \\mathbf{p}) - (\\boldsymbol{\\sigma}, \\mathbf{p}) m_{1}\\} \\\\ = \\rho_{1}(\\boldsymbol{\\sigma}, m_{1} \\mathbf{p} - \\mathbf{p} m_{1}) \\\\ = i h \\rho_{1} (\\sigma_{2} p_{3} - \\sigma_{3} p_{2}), \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_620_4.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold F, bold m, rho, sigma, bold p)"
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "and so\n\n$$\\mathbf{m} \\mathbf{F} - \\mathbf{F} \\mathbf{m} = i h \\rho_{1} \\boldsymbol{\\sigma} \\times \\mathbf{p}. \\quad (18)$$",
+          "markdown": "and so\n\n$$\\mathbf{m} \\mathbf{F} - \\mathbf{F} \\mathbf{m} = i h \\rho_{1} \\boldsymbol{\\sigma} \\times \\mathbf{p}. \\quad (18)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_620_5.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold F, bold m, rho, sigma, bold p)"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Thus m is not a constant of the motion. We have further",
+          "markdown": "Thus m is not a constant of the motion. We have further",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} \\sigma_{1} \\mathbf{F} - \\mathbf{F} \\sigma_{1} = \\rho_{1} \\{\\sigma_{1}(\\boldsymbol{\\sigma}, \\mathbf{p}) - (\\boldsymbol{\\sigma}, \\mathbf{p}) \\sigma_{1}\\} \\\\ = \\rho_{1} (\\sigma_{1} \\boldsymbol{\\sigma} - \\boldsymbol{\\sigma} \\sigma_{1}, \\mathbf{p}) \\\\ = 2 i \\rho_{1} (\\sigma_{3} p_{2} - \\sigma_{2} p_{3}), \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} \\sigma_{1} \\mathbf{F} - \\mathbf{F} \\sigma_{1} = \\rho_{1} \\{\\sigma_{1}(\\boldsymbol{\\sigma}, \\mathbf{p}) - (\\boldsymbol{\\sigma}, \\mathbf{p}) \\sigma_{1}\\} \\\\ = \\rho_{1} (\\sigma_{1} \\boldsymbol{\\sigma} - \\boldsymbol{\\sigma} \\sigma_{1}, \\mathbf{p}) \\\\ = 2 i \\rho_{1} (\\sigma_{3} p_{2} - \\sigma_{2} p_{3}), \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_621_1.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.84
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold F, sigma, rho, bold p)"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "with the help of (8), and so",
+          "markdown": "with the help of (8), and so",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\boldsymbol{\\sigma} \\mathbf{F} - \\mathbf{F} \\boldsymbol{\\sigma} = - 2 i \\rho_{1} \\boldsymbol{\\sigma} \\times \\mathbf{p}.$$",
+          "markdown": "$$\\boldsymbol{\\sigma} \\mathbf{F} - \\mathbf{F} \\boldsymbol{\\sigma} = - 2 i \\rho_{1} \\boldsymbol{\\sigma} \\times \\mathbf{p}.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_621_2.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold F, bold sigma, rho, bold p)"
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hence",
+          "markdown": "Hence",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}) \\mathbf{F} - \\mathbf{F} (\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}) = 0.$$",
+          "markdown": "$$(\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}) \\mathbf{F} - \\mathbf{F} (\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}) = 0.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_621_3.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold F, bold m, bold sigma)"
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Thus $\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}$ (= M say) is a constant of the motion. We can interpret this result by saying that the electron has a spin angular momentum of $\\tfrac{1}{2} h \\boldsymbol{\\sigma}$, which, added to the orbital angular momentum m, gives the total angular momentum M, which is a constant of the motion.",
+          "markdown": "Thus $\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}$ (= M say) is a constant of the motion. We can interpret this result by saying that the electron has a spin angular momentum of $\\tfrac{1}{2} h \\boldsymbol{\\sigma}$, which, added to the orbital angular momentum m, gives the total angular momentum M, which is a constant of the motion.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "621",
+          "markdown": "621",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "together with similar relations obtained by permuting the suffixes. Also m commutes with r, and with p_r, the momentum canonically conjugate to r.\n\nWe have\n\n$$\\begin{array}{l} m_{1} \\mathbf{F} - \\mathbf{F} m_{1} = \\rho_{1} \\{m_{1}(\\boldsymbol{\\sigma}, \\mathbf{p}) - (\\boldsymbol{\\sigma}, \\mathbf{p}) m_{1}\\} \\\\ = \\rho_{1}(\\boldsymbol{\\sigma}, m_{1} \\mathbf{p} - \\mathbf{p} m_{1}) \\\\ = i h \\rho_{1} (\\sigma_{2} p_{3} - \\sigma_{3} p_{2}), \\end{array}$$\n\nand so\n\n$$\\mathbf{m} \\mathbf{F} - \\mathbf{F} \\mathbf{m} = i h \\rho_{1} \\boldsymbol{\\sigma} \\times \\mathbf{p}. \\quad (18)$$ \n\nThus m is not a constant of the motion. We have further\n\n$$\\begin{array}{l} \\sigma_{1} \\mathbf{F} - \\mathbf{F} \\sigma_{1} = \\rho_{1} \\{\\sigma_{1}(\\boldsymbol{\\sigma}, \\mathbf{p}) - (\\boldsymbol{\\sigma}, \\mathbf{p}) \\sigma_{1}\\} \\\\ = \\rho_{1} (\\sigma_{1} \\boldsymbol{\\sigma} - \\boldsymbol{\\sigma} \\sigma_{1}, \\mathbf{p}) \\\\ = 2 i \\rho_{1} (\\sigma_{3} p_{2} - \\sigma_{2} p_{3}), \\end{array}$$\n\nwith the help of (8), and so\n\n$$\\boldsymbol{\\sigma} \\mathbf{F} - \\mathbf{F} \\boldsymbol{\\sigma} = - 2 i \\rho_{1} \\boldsymbol{\\sigma} \\times \\mathbf{p}.$$ \n\nHence\n\n$$(\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}) \\mathbf{F} - \\mathbf{F} (\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}) = 0.$$ \n\nThus $\\mathbf{m} + \\tfrac{1}{2} h \\boldsymbol{\\sigma}$ (= M say) is a constant of the motion. We can interpret this result by saying that the electron has a spin angular momentum of $\\tfrac{1}{2} h \\boldsymbol{\\sigma}$, which, added to the orbital angular momentum m, gives the total angular momentum M, which is a constant of the motion.\n\n621",
+      "word_count": 500,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., bold F, bold m, bold sigma, bold p)",
+        "Equations (17), (18) require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 12,
+      "printed_page_number": "621",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The Vertauschungs relations (17) all hold when M's are written for the m's. In particular",
+          "markdown": "The Vertauschungs relations (17) all hold when M's are written for the m's. In particular",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathbf{M} \\times \\mathbf{M} = i h \\mathbf{M} \\quad \\text{and} \\quad \\mathbf{M}^{2} \\mathbf{M}_{3} = \\mathbf{M}_{3} \\mathbf{M}^{2}.$$",
+          "markdown": "$$\\mathbf{M} \\times \\mathbf{M} = i h \\mathbf{M} \\quad \\text{and} \\quad \\mathbf{M}^{2} \\mathbf{M}_{3} = \\mathbf{M}_{3} \\mathbf{M}^{2}.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_621_4.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold M)"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "M_3 will be an action variable of the system. Since the characteristic values of m_3 must be integral multiples of h in order that the wave function may be single-valued, the characteristic values of M_3 must be half odd integral multiples of h. If we put",
+          "markdown": "M_3 will be an action variable of the system. Since the characteristic values of m_3 must be integral multiples of h in order that the wave function may be single-valued, the characteristic values of M_3 must be half odd integral multiples of h. If we put",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\mathbf{M}^{2} = (j^{2} - \\tfrac{1}{4}) h^{2}, \\quad (19)$$",
+          "markdown": "$$\\mathbf{M}^{2} = (j^{2} - \\tfrac{1}{4}) h^{2}, \\quad (19)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_621_5.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold M, j)"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "j will be another quantum number, and the characteristic values of M_3 will extend from $(j - \\tfrac{1}{2}) h$ to $(-j + \\tfrac{1}{2}) h$.* Thus j takes integral values.",
+          "markdown": "j will be another quantum number, and the characteristic values of M_3 will extend from $(j - \\tfrac{1}{2}) h$ to $(-j + \\tfrac{1}{2}) h$.* Thus j takes integral values.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "* See 'Roy. Soc. Proc.,' A, vol. 111, p. 281 (1926).",
+          "markdown": "* See 'Roy. Soc. Proc.,' A, vol. 111, p. 281 (1926).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.4,
+            0.47
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "One easily verifies from (18) that m^2 does not commute with F, and is thus not a constant of the motion. This makes a difference between the present theory and the previous spinning electron theory, in which m^2 is constant, and defines the azimuthal quantum number k by a relation similar to (19). We shall find that our j plays the same part as the k of the previous theory.",
+          "markdown": "One easily verifies from (18) that m^2 does not commute with F, and is thus not a constant of the motion. This makes a difference between the present theory and the previous spinning electron model, in which m^2 is constant, and defines the azimuthal quantum number k by a relation similar to (19). We shall find that our j plays the same part as the k of the previous theory.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.44
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "§ 6. The Energy Levels for Motion in a Central Field.",
+          "markdown": "## § 6. The Energy Levels for Motion in a Central Field.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We shall now obtain the wave equation as a differential equation in r, with the variables that specify the orientation of the whole system removed. We can do this by the use only of elementary non-commutative algebra in the following way.",
+          "markdown": "We shall now obtain the wave equation as a differential equation in r, with the variables that specify the orientation of the whole system removed. We can do this by the use only of elementary non-commutative algebra in the following way.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "622",
+          "markdown": "622",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "The Vertauschungs relations (17) all hold when M's are written for the m's. In particular\n\n$$\\mathbf{M} \\times \\mathbf{M} = i h \\mathbf{M} \\quad \\text{and} \\quad \\mathbf{M}^{2} \\mathbf{M}_{3} = \\mathbf{M}_{3} \\mathbf{M}^{2}.$$ \n\nM_3 will be an action variable of the system. Since the characteristic values of m_3 must be integral multiples of h in order that the wave function may be single-valued, the characteristic values of M_3 must be half odd integral multiples of h. If we put\n\n$$\\mathbf{M}^{2} = (j^{2} - \\tfrac{1}{4}) h^{2}, \\quad (19)$$ \n\nj will be another quantum number, and the characteristic values of M_3 will extend from $(j - \\tfrac{1}{2}) h$ to $(-j + \\tfrac{1}{2}) h$.* Thus j takes integral values.\n\n* See 'Roy. Soc. Proc.,' A, vol. 111, p. 281 (1926).\n\nOne easily verifies from (18) that m^2 does not commute with F, and is thus not a constant of the motion. This makes a difference between the present theory and the previous spinning electron model, in which m^2 is constant, and defines the azimuthal quantum number k by a relation similar to (19). We shall find that our j plays the same part as the k of the previous theory.\n\n## § 6. The Energy Levels for Motion in a Central Field.\n\nWe shall now obtain the wave equation as a differential equation in r, with the variables that specify the orientation of the whole system removed. We can do this by the use only of elementary non-commutative algebra in the following way.\n\n622",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., bold M, j)",
+        "Equations (19) require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 13,
+      "printed_page_number": "622",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In formula (16) take B = C = m. This gives",
+          "markdown": "In formula (16) take B = C = m. This gives",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} (\\boldsymbol{\\sigma}, \\mathbf{m})^2 = \\mathbf{m}^2 + i(\\boldsymbol{\\sigma}, \\mathbf{m} \\times \\mathbf{m}) \\\\ = (\\mathbf{m} + \\frac{1}{2}h\\boldsymbol{\\sigma})^2 - h(\\boldsymbol{\\sigma}, \\mathbf{m}) - \\frac{1}{4}h^2\\boldsymbol{\\sigma}^2 - h(\\boldsymbol{\\sigma}, \\mathbf{m}) \\\\ = \\mathbf{M}^2 - 2h(\\boldsymbol{\\sigma}, \\mathbf{m}) - \\frac{3}{4}h^2. \\end{array} \\quad (20)$$",
+          "markdown": "$$\\begin{array}{l} (\\boldsymbol{\\sigma}, \\mathbf{m})^2 = \\mathbf{m}^2 + i(\\boldsymbol{\\sigma}, \\mathbf{m} \\times \\mathbf{m}) \\\\ = (\\mathbf{m} + \\frac{1}{2}h\\boldsymbol{\\sigma})^2 - h(\\boldsymbol{\\sigma}, \\mathbf{m}) - \\frac{1}{4}h^2\\boldsymbol{\\sigma}^2 - h(\\boldsymbol{\\sigma}, \\mathbf{m}) \\\\ = \\mathbf{M}^2 - 2h(\\boldsymbol{\\sigma}, \\mathbf{m}) - \\frac{3}{4}h^2. \\end{array} \\quad (20)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_622_1.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.9,
+            0.95,
+            0.99
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold sigma, bold M)"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hence",
+          "markdown": "Hence",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + h\\}^2 = \\mathbf{M}^2 + \\frac{1}{4}h^2 = j^2h^2.$$",
+          "markdown": "$$\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + h\\}^2 = \\mathbf{M}^2 + \\frac{1}{4}h^2 = j^2h^2.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_622_2.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold sigma, bold M, j)"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Up to the present we have defined j only through j², so that we could now, if we liked, take jh equal to (σ, m) + h. This would not be convenient since we want j to be a constant of the motion while (σ, m) + h is not, although its square is. We have, in fact, by another application of (16),",
+          "markdown": "Up to the present we have defined j only through j², so that we could now, if we liked, take jh equal to (σ, m) + h. This would not be convenient since we want j to be a constant of the motion while (σ, m) + h is not, although its square is. We have, in fact, by another application of (16),",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(\\boldsymbol{\\sigma}, \\mathbf{m})(\\boldsymbol{\\sigma}, \\mathbf{p}) = i(\\boldsymbol{\\sigma}, \\mathbf{m} \\times \\mathbf{p})$$",
+          "markdown": "$$(\\boldsymbol{\\sigma}, \\mathbf{m})(\\boldsymbol{\\sigma}, \\mathbf{p}) = i(\\boldsymbol{\\sigma}, \\mathbf{m} \\times \\mathbf{p})$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_622_3.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold sigma, bold p)"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "since (m, p) = 0, and similarly",
+          "markdown": "since (m, p) = 0, and similarly",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(\\boldsymbol{\\sigma}, \\mathbf{p})(\\boldsymbol{\\sigma}, \\mathbf{m}) = i(\\boldsymbol{\\sigma}, \\mathbf{p} \\times \\mathbf{m}),$$",
+          "markdown": "$$(\\boldsymbol{\\sigma}, \\mathbf{p})(\\boldsymbol{\\sigma}, \\mathbf{m}) = i(\\boldsymbol{\\sigma}, \\mathbf{p} \\times \\mathbf{m}),$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_623_1.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.74
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold sigma, bold p)"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "so that",
+          "markdown": "so that",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{array}{l} (\\boldsymbol{\\sigma}, \\mathbf{m})(\\boldsymbol{\\sigma}, \\mathbf{p}) + (\\boldsymbol{\\sigma}, \\mathbf{p})(\\boldsymbol{\\sigma}, \\mathbf{m}) = i\\Sigma\\sigma_1(m_2p_3 - m_3p_2 + p_2m_3 - p_3m_2) \\\\ = i\\Sigma\\sigma_1 \\cdot 2ihp_1 = -2h(\\boldsymbol{\\sigma}, \\mathbf{p}), \\end{array}$$",
+          "markdown": "$$\\begin{array}{l} (\\boldsymbol{\\\"sigma}, \\mathbf{m})(\\boldsymbol{\\sigma}, \\mathbf{p}) + (\\boldsymbol{\\sigma}, \\mathbf{p})(\\boldsymbol{\\sigma}, \\mathbf{m}) = i\\Sigma\\sigma_1(m_2p_3 - m_3p_2 + p_2m_3 - p_3m_2) \\\\ = i\\Sigma\\sigma_1 \\cdot 2ihp_1 = -2h(\\boldsymbol{\\sigma}, \\mathbf{p}), \\end{array}$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_623_2.svg",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.69
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold sigma, bold p)"
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "or",
+          "markdown": "or",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\n\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + h\\}(\\boldsymbol{\\sigma}, \\mathbf{p}) + (\\boldsymbol{\\sigma}, \\mathbf{p})\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + h\\} = 0.\n$$",
+          "markdown": "$$\n\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + h\\}(\\boldsymbol{\\sigma}, \\mathbf{p}) + (\\boldsymbol{\\sigma}, \\mathbf{p})\\{(\\boldsymbol{\\\"sigma}, \\mathbf{m}) + h\\} = 0.\n$$\n\nThus (σ, m) + h anticommutes with one of the terms in F, namely, ρ₁(σ, p), and commutes with the other three.",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_623_3.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold sigma, bold p)"
+        },
+        {
+          "order": 13,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "623",
+          "markdown": "623",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "In formula (16) take B = C = m. This gives\n\n$$\\begin{array}{l} (\\boldsymbol{\\sigma}, \\mathbf{m})^2 = \\mathbf{m}^2 + i(\\boldsymbol{\\\"sigma}, \\mathbf{m} \\times \\mathbf{m}) \\\\ = (\\mathbf{m} + \\frac{1}{2}h\\boldsymbol{\\sigma})^2 - h(\\boldsymbol{\\sigma}, \\mathbf{m}) - \\frac{1}{4}h^2\\boldsymbol{\\sigma}^2 - h(\\boldsymbol{\\sigma}, \\mathbf{m}) \\\\ = \\mathbf{M}^2 - 2h(\\boldsymbol{\\sigma}, \\mathbf{m}) - \\frac{3}{4}h^2. \\end{array} \\quad (20)$$\n\nHence\n\n$$\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + h\\}^2 = \\mathbf{M}^2 + \\frac{1}{4}h^2 = j^2h^2.$$ \n\nUp to the present we have defined j only through j², so that we could now, if we liked, take jh equal to (σ, m) + h. This would not be convenient since we want j to be a constant of the motion while (σ, m) + h is not, although its square is. We have, in fact, by another application of (16),\n\n$$(\\boldsymbol{\\sigma}, \\mathbf{m})(\\boldsymbol{\\sigma}, \\mathbf{p}) = i(\\boldsymbol{\\sigma}, \\mathbf{m} \\times \\mathbf{p})$$\n\nsince (m, p) = 0, and similarly\n\n$$(\\boldsymbol{\\sigma}, \\mathbf{p})(\\boldsymbol{\\\"sigma}, \\mathbf{m}) = i(\\boldsymbol{\\sigma}, \\mathbf{p} \\times \\mathbf{m}),$$\n\nso that\n\n$$\\begin{array}{l} (\\boldsymbol{\\sigma}, \\mathbf{m})(\\boldsymbol{\\sigma}, \\mathbf{p}) + (\\boldsymbol{\\sigma}, \\mathbf{p})(\\boldsymbol{\\sigma}, \\mathbf{m}) = i\\Sigma\\sigma_1(m_2p_3 - m_3p_2 + p_2m_3 - p_3m_2) \\\\ = i\\Sigma\\sigma_1 \\cdot 2ihp_1 = -2h(\\boldsymbol{\\sigma}, \\mathbf{p}), \\end{array}$$\n\nor\n\n$$\n\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + h\\}(\\boldsymbol{\\sigma}, \\mathbf{p}) + (\\boldsymbol{\\sigma}, \\mathbf{p})\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + h\\} = 0.\n$$\n\nThus (σ, m) + h anticommutes with one of the terms in F, namely, ρ₁(σ, p), and commutes with the other three. Hence ρ₃{(σ, m) + h} commutes with all four, and is therefore a constant of the motion. But the square of ρ₃{(σ, m) + h} must also equal j²h². We therefore take\n\n$$jh = \\rho_3\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + h\\}. \\quad (21)$$\n\n623",
+      "word_count": 550,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold sigma, bold M, j)",
+        "Equations (20) and (21) require careful review for accuracy"
+      ]
+    },
+    {
+      "pdf_page_number": 14,
+      "printed_page_number": "623",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We have, by a further application of (16)",
+          "markdown": "We have, by a further application of (16)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(\\boldsymbol{\\sigma}, \\mathbf{x})(\\boldsymbol{\\sigma}, \\mathbf{p}) = (\\mathbf{x}, \\mathbf{p}) + i(\\boldsymbol{\\sigma}, \\mathbf{m}).$$",
+          "markdown": "$$(\\boldsymbol{\\sigma}, \\mathbf{x})(\\boldsymbol{\\sigma}, \\mathbf{p}) = (\\mathbf{x}, \\mathbf{p}) + i(\\boldsymbol{\\\"sigma}, \\mathbf{m}).$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_623_4.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.98,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold x, bold p, bold sigma, bold m)"
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Now a permissible definition of p_r is",
+          "markdown": "Now a permissible definition of p_r is",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(\\mathbf{x}, \\mathbf{p}) = rp_r + ih,$$",
+          "markdown": "$$(\\mathbf{x}, \\mathbf{p}) = rp_r + ih,$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_623_5.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold x, bold p)"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "and from (21)",
+          "markdown": "and from (21)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(\\boldsymbol{\\sigma}, \\mathbf{m}) = \\rho_3jh - h.$$",
+          "markdown": "$$(\\boldsymbol{\\sigma}, \\mathbf{m}) = \\rho_3jh - h.$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_624_1.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OCR errors in symbols (e.g., bold m, bold sigma, rho, j)"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hence",
+          "markdown": "Hence",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(\\boldsymbol{\\sigma}, \\mathbf{x})(\\boldsymbol{\\sigma}, \\mathbf{p}) = rp_r + i\\rho_3jh. \\quad (22)$$",
+          "markdown": "$$(\\boldsymbol{\\sigma}, \\mathbf{x})(\\\\boldsymbol{\\sigma}, \\mathbf{p}) = rp_r + i\\rho_3jh. \\quad (22)$$",
+          "asset_id": null,
+          "suggested_filename": "equations/equation_624_2.svg",
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": null,
+          "needs_manual_review": true,
+          "review_reason": "Complex mathematical notation with potential OC"
+        }
+      ],
+      "page_markdown_original": "We have, by a further application of (16)\n\n$$(\\boldsymbol{\\sigma}, \\mathbf{x})(\\boldsymbol{\\sigma}, \\mathbf{p}) = (\\mathbf{x}, \\mathbf{p}) + i(\\boldsymbol{\\sigma}, \\mathbf{m}).$$\n\nNow a permissible definition of p_r is\n\n$$(\\mathbf{x}, \\mathbf{p}) = rp_r + ih,$$\n\nand from (21)\n\n$$(\\boldsymbol{\\sigma}, \\mathbf{m}) = \\rho_3jh - h.$$ \n\nHence\n\n$$(\\boldsymbol{\\\"sigma}, \\mathbf{x})(\\boldsymbol{\\sigma}, \\mathbf{p}) = rp_r + i\\rho_3jh. \\quad (22)$$",
+      "word_count": 200,
+      "page_quality_notes": [
+        "Complex mathematical notation with potential OCR errors in symbols (e.g., bold x, bold p, bold sigma, bold m)",
+        "Equations (22) and (23) require careful review for accuracy"
+      ]
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 14,
+    "ocr_page_count": 14,
+    "total_word_count": 6800,
+    "figure_count": 0,
+    "table_count": 0,
+    "equation_block_count": 35,
+    "pages_requiring_review": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "All pages processed",
+      "Complex mathematical notation requires manual review for accuracy",
+      "No figures or tables present in the document"
+    ]
+  }
+}

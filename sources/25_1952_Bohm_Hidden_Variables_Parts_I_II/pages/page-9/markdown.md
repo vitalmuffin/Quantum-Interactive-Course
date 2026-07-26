@@ -1,0 +1,31 @@
+174
+
+DAVID BOHM
+
+tried to define the position of the electron as it passed the slit system more accurately by means of a measurement, the resulting disturbance of its motion produced by the measuring apparatus would destroy the interference pattern. Thus, conditions would be created in which the particle model becomes more precisely defined at the expense of a corresponding decrease in the degree of definition of the wave model. When the position of the electron is measured at the photographic plate, a similar sharpening of the degree of definition of the particle model occurs at the expense of that of the wave model.
+
+In our interpretation of the quantum theory, this experiment is described causally and continuously in terms of a single precisely definable conceptual model. As we have already shown, we must use the same wave function as is used in the usual interpretation; but instead we regard it as a mathematical representation of an objectively real field that determines part of the force acting on the particle. The initial momentum of the particle is obtained from the incident wave function, $\exp(ip_0z/h)$, as $p=\partial s/\partial z=p_0$. We do not in practice, however, control the initial location of the particle, so that although it goes through a definite slit, we cannot predict which slit this will be. The particle is at all times acted on by the "quantum-mechanical" potential, $U=(-h^2/2m)\nabla^2R/R$. While the particle is incident, this potential vanishes because $R$ is then a constant; but after it passes through the slit system, the particle encounters a quantum-mechanical potential that changes rapidly with position. The subsequent motion of the particle may therefore become quite complicated. Nevertheless, the probability that a particle shall enter a given region, $d\mathbf{x}$, is as in the usual interpretation, equal to $|\psi(\mathbf{x})|^2d\mathbf{x}$. We therefore deduce that the particle can never reach a point where the wave function vanishes. The reason is that the "quantum-mechanical" potential, $U$, becomes infinite when $R$ becomes zero. If the approach to infinity happens to be through positive values of $U$, there will be an infinite force repelling the particle away from the origin. If the approach is through negative values of $U$, the particle will go through this point with infinite speed, and thus spend no time there. In either case, we obtain a simple and precisely definable conceptual model explaining why particles can never be found at points where the wave function vanishes.
+
+If one of the slits is closed, the "quantum-mechanical" potential is correspondingly altered, because the $\psi$-field is changed, and the particle may then be able to reach certain points which it was unable to reach when both slits were open. The slit is therefore able to affect the motion of the particle only indirectly, through its effect on the Schroedinger $\psi$-field. Moreover, as we shall see in Paper II, if the position of the electron is measured while it is passing through the slit system, the measuring apparatus will, as in the usual interpretation, create a disturbance that destroys the interference
+
+pattern. In our interpretation, however, the necessity for this destruction is not inherent in the conceptual structure; and as we shall see, the destruction of the interference pattern could in principle be avoided by means of other ways of making measurements, ways which are conceivable but not now actually possible.
+
+# 6. THE MANY-BODY PROBLEM
+
+We shall now extend our interpretation of the quantum theory to the problem of many bodies. We begin with the Schroedinger equation for two particles. (For simplicity, we assume that they have equal masses, but the extension of our treatment to arbitrary masses will be obvious.)
+
+$$ih \frac{\partial \psi}{\partial t} = -\frac{h^2}{2m}(\nabla_1^2 \psi + \nabla_2^2 \psi) + V(\mathbf{x}_1, \mathbf{x}_2)\psi.$$
+
+Writing $\psi = R(\mathbf{x}_1, \mathbf{x}_2)\exp[iS(\mathbf{x}_1, \mathbf{x}_2)/h]$ and $R^2 = P$, we obtain
+
+$$\frac{\partial P}{\partial t} + \frac{1}{m}[\nabla_1 \cdot P\nabla_1 S + \nabla_2 \cdot P\nabla_2 S] = 0, \tag{16}$$
+
+$$\frac{\partial S}{\partial t} + \frac{(\nabla_1 S)^2 + (\nabla_2 S)^2}{2m} + V(\mathbf{x}_1, \mathbf{x}_2) - \frac{h^2}{2mR}[\nabla_1^2 R + \nabla_2^2 R] = 0. \tag{17}$$
+
+The above equations are simply a six-dimensional generalization of the similar three-dimensional Eqs. (5) and (6) associated with the one-body problem. In the two-body problem, the system is described therefore by a six-dimensional Schroedinger wave and by a six-dimensional trajectory, specifying the actual location of each of the two particles. The velocity of this trajectory has components, $\nabla_1 S/m$ and $\nabla_2 S/m$, respectively, in each of the three-dimensional surfaces associated with a given particle. $P(\mathbf{x}_1, \mathbf{x}_2)$ then has a dual interpretation. First, it defines a "quantum-mechanical" potential, acting on each particle
+
+$$U(\mathbf{x}_1, \mathbf{x}_2) = -(h^2/2mR)[\nabla_1^2 R + \nabla_2^2 R].$$
+
+This potential introduces an additional effective interaction between particles over and above that due to the classically inferrable potential $V(\mathbf{x})$. Secondly, the function $P(\mathbf{x}_1, \mathbf{x}_2)$ can consistently be regarded as the probability density of representative points $(\mathbf{x}_1, \mathbf{x}_2)$ in our six-dimensional ensemble.
+
+The extension to an arbitrary number of particles is straightforward, and we shall quote only the results here. We introduce the wave function, $\psi = R(\mathbf{x}_1, \mathbf{x}_2, \dots \mathbf{x}_n)\exp[iS(\mathbf{x}_1, \mathbf{x}_2 \dots \mathbf{x}_n)/h]$ and define a $3n$-dimensional trajectory, where $n$ is the number of particles, which describes the behavior of every particle in the system. The velocity of the $i$th particle is $\mathbf{v}_i = \nabla_1 S(\mathbf{x}_1, \mathbf{x}_2 \dots \mathbf{x}_n)/m$. The function $P(\mathbf{x}_1, \mathbf{x}_2 \dots \mathbf{x}_n) = R^2$ has two

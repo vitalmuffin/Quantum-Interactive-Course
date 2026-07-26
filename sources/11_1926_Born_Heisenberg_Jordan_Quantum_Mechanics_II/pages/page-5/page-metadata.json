@@ -1,0 +1,200 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 101,
+      "bottomRightX": 420,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 552,
+      "topLeftY": 101,
+      "bottomRightX": 580,
+      "bottomRightY": 118,
+      "content": "561",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 165,
+      "topLeftY": 141,
+      "bottomRightX": 521,
+      "bottomRightY": 161,
+      "content": "# Kapitel 1. Systeme von einem Freiheitsgrad.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 168,
+      "bottomRightX": 582,
+      "bottomRightY": 227,
+      "content": "§ 1. Grundprinzipien. I. Eine quantentheoretische Größe $\\boldsymbol{a}$ — sei es Koordinate oder Impuls oder irgend eine Funktion beider — wird repräsentiert durch die Gesamtheit der Größen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 232,
+      "bottomRightX": 582,
+      "bottomRightY": 251,
+      "content": "$$a (n m) e^{2 \\pi i v (n m) t} \\quad (1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 256,
+      "bottomRightX": 583,
+      "bottomRightY": 313,
+      "content": "oder auch unter Weglassung des für alle zum System gehörigen Größen gleichen (nur von den Indizes $n$ und $m$ abhängigen) Faktors $e^{2 \\pi i v (n m) t}$ durch die Gesamtheit der Zahlen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 315,
+      "topLeftY": 317,
+      "bottomRightX": 582,
+      "bottomRightY": 335,
+      "content": "$$a (n m). \\quad (2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 339,
+      "bottomRightX": 582,
+      "bottomRightY": 359,
+      "content": "Wir können also von einer (übrigens unendlichen) „Matrix“ $a$ sprechen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 362,
+      "bottomRightX": 583,
+      "bottomRightY": 420,
+      "content": "II. Die Rechenoperationen, wie Addition, Multiplikation der quantentheoretischen Größen sind entsprechend den für Matrizen gültigen Rechenregeln definiert.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 424,
+      "bottomRightX": 582,
+      "bottomRightY": 503,
+      "content": "III. Gegeben sei eine durch Additionen und Multiplikationen von Matrizen definierte Funktion $f(\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s)$, wo die $\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s$ quantentheoretische Größen bedeuten. Dann führen wir zwei Arten von Differentialquotienten der Funktion $f$ nach einer der Größen $\\boldsymbol{x}$ (etwa $\\boldsymbol{x}_1$) ein:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 503,
+      "bottomRightX": 362,
+      "bottomRightY": 522,
+      "content": "a) Differentialquotient erster Art:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 154,
+      "topLeftY": 525,
+      "bottomRightX": 582,
+      "bottomRightY": 564,
+      "content": "$$\\frac{\\partial f}{\\partial \\boldsymbol{x}_1} = \\lim_{\\alpha \\rightarrow 0} \\frac{f(\\boldsymbol{x}_1 + \\alpha \\mathbf{1}, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s) - f(\\boldsymbol{x}_1, \\boldsymbol{x}_2, \\dots, \\boldsymbol{x}_s)}{\\alpha}, \\quad (3)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 568,
+      "bottomRightX": 319,
+      "bottomRightY": 585,
+      "content": "wo $\\alpha$ eine Zahl und $\\mathbf{1}$ die durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 213,
+      "topLeftY": 588,
+      "bottomRightX": 467,
+      "bottomRightY": 626,
+      "content": "$$\\mathbf{1} = (\\delta_{n m}), \\quad \\delta_{n m} = \\begin{cases} 1 & \\text{für } n = m \\\\ 0 & \\text{„ } n \\neq m \\end{cases}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 624,
+      "bottomRightX": 292,
+      "bottomRightY": 641,
+      "content": "definierte Einheitsmatrix ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 645,
+      "bottomRightX": 487,
+      "bottomRightY": 663,
+      "content": "b) Differentialquotient zweiter Art, definiert durch ¹)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 668,
+      "bottomRightX": 582,
+      "bottomRightY": 707,
+      "content": "$$\\frac{\\partial f}{\\partial \\boldsymbol{x}_1} (n m) = \\frac{\\partial D(f)}{\\partial x_1 (m n)}, \\quad (4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 711,
+      "bottomRightX": 448,
+      "bottomRightY": 730,
+      "content": "wo $D(f)$ die Diagonalsumme der Matrix $f$ bedeutet.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 731,
+      "bottomRightX": 583,
+      "bottomRightY": 770,
+      "content": "Äußerlich werden wir die beiden Arten von Differentiationen durch den Bruchstrich [dicker Bruchstrich für a), dünner für b)] unterscheiden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 771,
+      "bottomRightX": 583,
+      "bottomRightY": 890,
+      "content": "Die Differentiation zweiter Art wurde in Teil I ausschließlich benutzt, da sie eine einfache Formulierung des Variationsprinzips der Quantenmechanik ermöglicht und daher als naturgemäß erscheint. Für manche Rechnungen ist jedoch der Differentialquotient erster Art bequemer zu handhaben. Allgemein mag bemerkt werden, daß die Einführung eines Differentialquotienten in der Quantenmechanik etwas",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 902,
+      "bottomRightX": 219,
+      "bottomRightY": 919,
+      "content": "¹) Vgl. Teil I.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

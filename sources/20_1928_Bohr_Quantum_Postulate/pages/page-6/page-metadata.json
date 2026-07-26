@@ -1,0 +1,128 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 91,
+    "height": 1022,
+    "width": 779
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 258,
+      "topLeftY": 92,
+      "bottomRightX": 529,
+      "bottomRightY": 110,
+      "content": "Supplement to \"Nature,\" April 14, 1928",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 93,
+      "bottomRightX": 660,
+      "bottomRightY": 107,
+      "content": "585",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 119,
+      "bottomRightX": 388,
+      "bottomRightY": 255,
+      "content": "Ladenburg and Kramers between the classical treatment of dispersion and the statistical laws governing the radiative transition processes formulated by Einstein should be mentioned here. Although it was just Kramers' treatment of dispersion that gave important hints for the rational development of correspondence considerations, it is only through the quantum theoretical methods created in the last few years that the general aims laid down in the principle mentioned have obtained an adequate formulation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 255,
+      "bottomRightX": 388,
+      "bottomRightY": 700,
+      "content": "As is known, the new development was commenced in a fundamental paper by Heisenberg, where he succeeded in emancipating himself completely from the classical concept of motion by replacing from the very start the ordinary kinematical and mechanical quantities by symbols, which refer directly to the individual processes demanded by the quantum postulate. This was accomplished by substituting for the Fourier development of a classical mechanical quantity a matrix scheme, the elements of which symbolise purely harmonic vibrations and are associated with the possible transitions between stationary states. By requiring that the frequencies ascribed to the elements must always obey the combination principle for spectral lines, Heisenberg could introduce simple rules of calculation for the symbols, which permit a direct quantum theoretical transcription of the fundamental equations of classical mechanics. This ingenious attack on the dynamical problem of atomic theory proved itself from the beginning to be an exceedingly powerful and fertile method for interpreting quantitatively the experimental results. Through the work of Born and Jordan as well as of Dirac, the theory was given a formulation which can compete with classical mechanics as regards generality and consistency. Especially the element characteristic of the quantum theory, Planck's constant, appears explicitly only in the algorithms to which the symbols, the so-called matrices, are subjected. In fact, matrices, which represent canonically conjugated variables in the sense of the Hamiltonian equations, do not obey the commutative law of multiplication, but two such quantities, q and p, have to fulfil the exchange rule",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 197,
+      "topLeftY": 702,
+      "bottomRightX": 386,
+      "bottomRightY": 728,
+      "content": "$$pq - qp = \\sqrt{-1} \\frac{\\hbar}{2\\pi}. \\quad . \\quad . \\quad (3)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 730,
+      "bottomRightX": 386,
+      "bottomRightY": 867,
+      "content": "Indeed, this exchange relation expresses strikingly the symbolical character of the matrix formulation of the quantum theory. The matrix theory has often been called a calculus with directly observable quantities. It must be remembered, however, that the procedure described is limited just to those problems, in which in applying the quantum postulate the space-time description may largely be disregarded, and the question of observation in the proper sense therefore placed in the background.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 867,
+      "bottomRightX": 386,
+      "bottomRightY": 918,
+      "content": "In pursuing further the correspondence of the quantum laws with classical mechanics, the stress placed on the statistical character of the quantum theoretical description, which is brought in by the",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 119,
+      "bottomRightX": 677,
+      "bottomRightY": 439,
+      "content": "quantum postulate, has been of fundamental importance. Here the generalisation of the symbolical method made by Dirac and Jordan represented a great progress by making possible the operation with matrices, which are not arranged according to the stationary states, but where the possible values of any set of variables may appear as indices of the matrix elements. In analogy to the interpretation considered in the original form of the theory of the 'diagonal elements' connected only with a single stationary state, as time averages of the quantity to be represented, the general transformation theory of matrices permits the representation of such averages of a mechanical quantity, in the calculation of which any set of variables characterising the 'state' of the system have given values, while the canonically conjugated variables are allowed to take all possible values. On the basis of the procedure developed by these authors and in close connexion with ideas of Born and Pauli, Heisenberg has in the paper already cited above attempted a closer analysis of the physical content of the quantum theory, especially in view of the apparently paradoxical character of the exchange relation (3). In this connexion he has formulated the relation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 510,
+      "topLeftY": 443,
+      "bottomRightX": 675,
+      "bottomRightY": 458,
+      "content": "$$\\Delta q \\Delta p \\sim \\hbar \\quad . \\quad . \\quad . \\quad (4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 396,
+      "topLeftY": 459,
+      "bottomRightX": 677,
+      "bottomRightY": 745,
+      "content": "as the general expression for the maximum accuracy with which two canonically conjugated variables can simultaneously be observed. In this way Heisenberg has been able to elucidate many paradoxes appearing in the application of the quantum postulate, and to a large extent to demonstrate the consistency of the symbolic method. In connexion with the complementary nature of the quantum theoretical description, we must, as already mentioned, constantly keep the possibilities of definition as well as of observation before the mind. For the discussion of just this question the method of wave mechanics developed by Schrödinger has, as we shall see, proved of great help. It permits a general application of the principle of superposition also in the problem of interaction, thus offering an immediate connexion with the above considerations concerning radiation and free particles. Below we shall return to the relation of wave mechanics to the general formulation of the quantum laws by means of the transformation theory of matrices.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 400,
+      "topLeftY": 751,
+      "bottomRightX": 670,
+      "bottomRightY": 765,
+      "content": "### 5. WAVE MECHANICS AND QUANTUM POSTULATE.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 395,
+      "topLeftY": 767,
+      "bottomRightX": 675,
+      "bottomRightY": 918,
+      "content": "Already in his first considerations concerning the wave theory of material particles, de Broglie pointed out that the stationary states of an atom may be visualised as an interference effect of the phase wave associated with a bound electron. It is true that this point of view at first did not, as regards quantitative results, lead beyond the earlier methods of quantum theory, to the development of which Sommerfeld has contributed so essentially. Schrödinger, however, succeeded in developing a wave - theoretical method which has opened up new aspects, and has proved to be of decisive",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 341,
+      "topLeftY": 952,
+      "bottomRightX": 481,
+      "bottomRightY": 966,
+      "content": "© 1928 Nature Publishing Group",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

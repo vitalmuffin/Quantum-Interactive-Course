@@ -1,0 +1,83 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 104,
+      "topLeftY": 102,
+      "bottomRightX": 133,
+      "bottomRightY": 119,
+      "content": "858",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 159,
+      "bottomRightX": 442,
+      "bottomRightY": 177,
+      "content": "## Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 186,
+      "bottomRightX": 475,
+      "bottomRightY": 203,
+      "content": "Von M. Born und P. Jordan in Göttingen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 210,
+      "bottomRightX": 461,
+      "bottomRightY": 226,
+      "content": "(Eingegangen am 27. September 1925.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 232,
+      "bottomRightX": 588,
+      "bottomRightY": 401,
+      "content": "Die kürzlich von Heisenberg gegebenen Ansätze werden (zunächst für Systeme von einem Freiheitsgrad) zu einer systematischen Theorie der Quantenmechanik entwickelt. Das mathematische Hilfsmittel ist die Matrizenrechnung. Nachdem diese kurz dargestellt ist, werden die mechanischen Bewegungsgleichungen aus einem Variationsprinzip abgeleitet und der Beweis geführt, daß auf Grund der Heisenbergschen Quantenbedingung der Energiesatz und die Bohrsche Frequenzbedingung aus den mechanischen Gleichungen folgen. Am Beispiel des anharmonischen Oszillators wird die Frage der Eindeutigkeit der Lösung und die Bedeutung der Phasen in den Partialschwingungen erörtert. Den Schluß bildet ein Versuch, die Gesetze des elektromagnetischen Feldes der neuen Theorie einzufügen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 411,
+      "bottomRightX": 588,
+      "bottomRightY": 832,
+      "content": "Einleitung. Die kürzlich von Heisenberg¹⁾ in dieser Zeitschrift mitgeteilten Ansätze zu einer neuen Kinematik und Mechanik, die den Grundforderungen der Quantentheorie entsprechen, scheinen uns von großer Tragweite zu sein. Sie bedeuten einen Versuch, den neuen Tatsachen — statt durch mehr oder weniger künstliche und gezwungene Anpassung der alten gewohnten Begriffe — durch die Schaffung eines neuen, wirklich angemessenen Begriffssystems gerecht zu werden. Heisenberg hat die physikalischen Gedanken, die ihn dabei geleitet haben, in so klarer Weise ausgesprochen, daß jede ergänzende Bemerkung überflüssig erscheint. Aber in formaler, mathematischer Hinsicht sind seine Betrachtungen, wie er selbst betont, erst im Anfangsstadium. Er hat seine Hypothesen nur an einfachen Beispielen erläutert und ist nicht zu einer allgemeinen Theorie vorgedrungen. Begünstigt durch den Umstand, daß wir seine Überlegungen schon in statu nascendi kennenlernen durften, haben wir uns nach Abschluß seiner Untersuchungen bemüht, den mathematisch-formalen Gehalt seiner Ansätze zu klären, und legen hier einige unserer Ergebnisse vor. Sie zeigen, daß es tatsächlich möglich ist, auf der von Heisenberg gegebenen Grundlage das Gebäude einer geschlossenen mathematischen Theorie der Quantenmechanik in merkwürdig enger Analogie zur klassischen Mechanik, doch unter Wahrung der für die Quantenerscheinungen kennzeichnenden Züge zu errichten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 833,
+      "bottomRightX": 588,
+      "bottomRightY": 891,
+      "content": "Wir beschränken uns dabei zunächst mit Heisenberg auf Systeme von einem Freiheitsgrad, von denen wir annehmen, daß sie — klassisch gesprochen — periodisch sind. Die Verallgemeinerung der",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 905,
+      "bottomRightX": 428,
+      "bottomRightY": 923,
+      "content": "¹⁾ W. Heisenberg, ZS. f. Phys. 33, 879, 1925.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

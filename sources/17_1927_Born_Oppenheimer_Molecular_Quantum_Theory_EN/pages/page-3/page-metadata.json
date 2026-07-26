@@ -1,0 +1,200 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 75,
+      "topLeftY": 136,
+      "bottomRightX": 522,
+      "bottomRightY": 150,
+      "content": "which denote the relative positions of the nuclei with respect to one another, and 6 functions",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 335,
+      "topLeftY": 164,
+      "bottomRightX": 641,
+      "bottomRightY": 177,
+      "content": "$$\\theta_i = \\theta_i(X) \\tag{9}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 191,
+      "bottomRightX": 643,
+      "bottomRightY": 237,
+      "content": "which determine the position and orientation of the nuclear configuration in space. One can in a symmetrical fashion introduce the rectangular coordinates $\\bar{X}_l$, $\\bar{Y}_l$, $\\bar{Z}_l$ of the nuclei relative to the instantaneous principal axes of inertia; between these there are 6 relations:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 239,
+      "bottomRightX": 443,
+      "bottomRightY": 268,
+      "content": "$$\\sum_l M_l \\bar{X}_l = 0 \\cdots \\sum_l M_l \\bar{Y}_l \\bar{Z}_l = 0 \\cdots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 275,
+      "bottomRightX": 451,
+      "bottomRightY": 290,
+      "content": "One can thus express the $\\bar{X}_l$ by the $3N - 6$ independent parameters $\\xi_1, \\xi_2, \\ldots$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 325,
+      "topLeftY": 303,
+      "bottomRightX": 393,
+      "bottomRightY": 317,
+      "content": "$$\\bar{X}_l = \\bar{X}_l(\\xi), \\ldots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 330,
+      "bottomRightX": 515,
+      "bottomRightY": 344,
+      "content": "There then exist transformations between the original and the new coordinates, of the form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 355,
+      "bottomRightX": 641,
+      "bottomRightY": 384,
+      "content": "$$X_l = X_0 + \\sum_y \\alpha_{xy}(\\theta, \\phi, \\psi) \\bar{Y}_l(\\xi); \\tag{10}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 393,
+      "bottomRightX": 643,
+      "bottomRightY": 460,
+      "content": "$X_0, Y_0, Z_0$ are the coordinates of the center of mass and the $\\alpha_{xy}$ are the coefficients of the orthogonal rotation matrix, and are thus known functions of the Eulerian angles $\\theta, \\phi, \\psi$. The quantities $X_0, Y_0, Z_0, \\theta, \\phi, \\psi$ are the functions denoted by $\\theta_i$ in (9). By (10), the $X_l$ are determined as functions of the $\\theta_i$ and $\\xi_i$; by solving, one obtains the expressions (8) and (9).$^2$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 463,
+      "bottomRightX": 643,
+      "bottomRightY": 495,
+      "content": "This transformation does not, of course, separate the energy $H$ into parts corresponding to translation, rotation and relative motion of the nuclei. However one can separate $H_1$ into three parts:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 305,
+      "topLeftY": 508,
+      "bottomRightX": 641,
+      "bottomRightY": 522,
+      "content": "$$H_1 = H_{\\xi\\xi} + H_{\\xi\\theta} + H_{\\theta\\theta}; \\tag{11}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 533,
+      "bottomRightX": 643,
+      "bottomRightY": 624,
+      "content": "$H_{\\xi\\xi}$ is linear homogeneous in the $\\frac{\\partial^2}{\\partial \\xi_i \\partial \\xi_j}$; $H_{\\xi\\theta}$ contains the $\\frac{\\partial}{\\partial \\xi_i}$; $H_{\\theta\\theta}$ is independent of all derivatives with respect to the $\\xi_i$. One can make further generalizations about these operators. If we apply the entire operator $H_1$ to an arbitrary function $f(\\xi)$ of the relative nuclear coordinates $\\xi_i$, the resulting quantity $H_1 f(\\xi)$ must be independent of the position in space, hence of the $\\theta_i$. In particular, in $H_{\\xi\\xi}$ the coefficients of the $\\frac{\\partial^2}{\\partial \\xi_i \\partial \\xi_j}$ cannot depend on the $\\theta_i$. In contrast, these do appear in $H_{\\xi\\theta}$, associated with the $\\frac{\\partial}{\\partial \\xi_i}$, the $\\xi_i$, $\\theta_i$ and $\\frac{\\partial}{\\partial \\theta_i}$; in $H_{\\theta\\theta}$ associated with $\\frac{\\partial^2}{\\partial \\theta_i \\partial \\theta_j}$ the $\\frac{\\partial}{\\partial \\theta_i}$, $\\xi_i$ and $\\theta_i$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 624,
+      "bottomRightX": 320,
+      "bottomRightY": 654,
+      "content": "We will consider these operators explicitly for diatomic molecules.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 658,
+      "bottomRightX": 300,
+      "bottomRightY": 673,
+      "content": "The mechanical problem we must solve is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 302,
+      "topLeftY": 686,
+      "bottomRightX": 641,
+      "bottomRightY": 700,
+      "content": "$$(H_0 + \\kappa^4 H_1 - W)\\psi = 0. \\tag{12}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 713,
+      "bottomRightX": 643,
+      "bottomRightY": 746,
+      "content": "We will show that any arbitrary solution which corresponds to a combination of nuclei and electrons forming a stable molecule can be found by a development in a power series in $\\kappa$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 768,
+      "bottomRightX": 324,
+      "bottomRightY": 784,
+      "content": "# Part II. Electronic Motion for Stationary Nuclei",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 796,
+      "bottomRightX": 607,
+      "bottomRightY": 811,
+      "content": "If one sets $\\kappa = 0$ in (12) one obtains a differential equation in the $x_k$ alone, the $X_l$ appearing as parameters:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 820,
+      "bottomRightX": 641,
+      "bottomRightY": 851,
+      "content": "$$\\left\\{ H_0 \\left( x, \\frac{\\partial}{\\partial x}; X \\right) - W \\right\\} \\psi = 0. \\tag{13}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 872,
+      "bottomRightX": 504,
+      "bottomRightY": 887,
+      "content": "$^2$It is of physical significance that this solution is in general made using ambiguous functions; compare [6].",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 356,
+      "topLeftY": 895,
+      "bottomRightX": 363,
+      "bottomRightY": 906,
+      "content": "3",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

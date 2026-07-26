@@ -1,0 +1,146 @@
+{
+  "index": 16,
+  "dimensions": {
+    "dpi": 95,
+    "height": 1016,
+    "width": 737
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 84,
+      "topLeftY": 92,
+      "bottomRightX": 108,
+      "bottomRightY": 106,
+      "content": "848",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 92,
+      "bottomRightX": 543,
+      "bottomRightY": 106,
+      "content": "SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 585,
+      "topLeftY": 92,
+      "bottomRightX": 648,
+      "bottomRightY": 111,
+      "content": "[ Die Naturwissenschaften",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 120,
+      "bottomRightX": 361,
+      "bottomRightY": 276,
+      "content": "bei jedem einzelnen Versuch bloß je eine Messung an jedem System nötig; bloß die jungfräuliche gilt, weitere würden ohnehin belanglos sein. Wie lange die Messung dauert, braucht uns also nicht zu kümmern, da wir doch keine zweite folgen lassen wollen. Man muß bloß die zwei Jungfernmessungen so einrichten können, daß sie die Variablenwerte für denselben bestimmten, uns vorher bekannten Zeitpunkt liefern, vorher bekannt, weil wir doch die Messungen auf ein Variablenpaar richten müssen, das gerade in diesem Zeitpunkt verschränkt ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 275,
+      "bottomRightX": 361,
+      "bottomRightY": 302,
+      "content": "— Vielleicht ist es nicht möglich, die Messungen so einzurichten?",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 301,
+      "bottomRightX": 361,
+      "bottomRightY": 418,
+      "content": "— Vielleicht. Ich vermute es sogar. Bloß: die heutige Q.M. muß das fordern. Denn sie ist nun einmal so eingerichtet, daß ihre Voraussagen stets für einen bestimmten Zeitpunkt gemacht sind. Da sie sich auf Maßzahlen beziehen sollen, hätten sie gar keinen Inhalt, wenn sich die betreffenden Variablen nicht für einen bestimmten Zeitpunkt messen ließen, mag nun die Messung selber lang oder kurz dauern.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 417,
+      "bottomRightX": 361,
+      "bottomRightY": 739,
+      "content": "Wann wir das Resultat erfahren, ist uns natürlich ganz gleichgültig. Das hat theoretisch so wenig Belang wie etwa die Tatsache, daß man einige Monate braucht, um die Differentialgleichungen des Wetters für die nächsten drei Tage zu integrieren. — Der drastische Vergleich mit dem Schülerexamen wird dem Buchstaben nach in einigen Punkten unzutreffend, dem Geist nach besteht er zu Recht. Der Ausdruck „das System weiß“ wird vielleicht nicht mehr die Bedeutung haben, daß die Antwort aus der Situation eines Augenblicks entspringt, sie mag vielleicht geschöpft sein aus einer Sukzession von Situationen, die einen endlichen Zeitraum umfaßt. Aber selbst wenn dem so wäre, brauchte es uns nicht zu bekümmern, wenn nur das System seine Antwort irgendwie aus sich heraus schöpft ohne eine andere Hilfe, als daß wir ihm (durch die Versuchsanordnung) sagen, welche Frage wir beantwortet wünschen; und wenn nur die Antwort selber einem Zeitmoment eindeutig zugeordnet ist; was bei jeder Messung, von welcher die heutige Q.M. spricht, wohl oder übel vorausgesetzt werden muß, sonst hätten die quantenmechanischen Voraussagen keinen Inhalt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 739,
+      "bottomRightX": 361,
+      "bottomRightY": 868,
+      "content": "Wir sind aber bei unserer Diskussion auf eine Möglichkeit gestoßen. Wenn sich die Auffassung durchführen ließe, daß die quantenmechanischen Vorhersagen sich nicht oder nicht immer auf einen ganz bestimmten scharfen Zeitpunkt beziehen, dann brauchte man das auch von den Maßzahlen nicht zu fordern. Dadurch würde, da die verschränkten Variablen mit der Zeit wechseln, die Aufstellung der antinomischen Behauptungen außerordentlich erschwert.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 866,
+      "bottomRightX": 361,
+      "bottomRightY": 918,
+      "content": "Daß die zeitlich scharfe Voraussage ein Mißgriff ist, ist auch aus anderen Gründen wahrscheinlich. Die Maßzahl der Zeit ist wie jede andere das Resultat einer Beobachtung. Darf man ge-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 120,
+      "bottomRightX": 650,
+      "bottomRightY": 314,
+      "content": "rade der Messung an einer Uhr eine Ausnahmestellung einräumen? Soll sie sich nicht wie jede andere auf eine Variable beziehen, die im allgemeinen keinen scharfen Wert hat und ihn jedenfalls nicht zugleich mit jeder anderen Variablen haben kann? Wenn man den Wert einer anderen für einen bestimmten Zeitpunkt voraussagt, muß man nicht befürchten, daß beide zugleich gar nicht scharf bekannt sein können? Innerhalb der heutigen Q.M. läßt sich der Befürchtung kaum recht nachgehen. Denn die Zeit wird a priori als dauernd genau bekannt angesehen, obwohl man sich sagen müßte, daß jedes Auf-die-Uhr-Sehen den Fortschritt der Uhr in unkontrollierbarer Weise stört.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 314,
+      "bottomRightX": 650,
+      "bottomRightY": 393,
+      "content": "Ich möchte wiederholen, daß wir eine Q.M., deren Aussagen nicht für scharf bestimmte Zeitpunkte gelten sollen, nicht besitzen. Mir scheint, daß dieser Mangel sich gerade in jenen Antinomien kundgibt. Womit ich nicht sagen will, daß es der einzige Mangel ist, der sich in ihnen kundgibt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 401,
+      "bottomRightX": 627,
+      "bottomRightY": 416,
+      "content": "§ 15. Naturprinzip oder Rechenkunstgriff?",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 416,
+      "bottomRightX": 650,
+      "bottomRightY": 586,
+      "content": "Daß die „scharfe Zeit“ eine Inkonsequenz innerhalb der Q.M. ist und daß außerdem, sozusagen unabhängig davon, die Sonderstellung der Zeit ein schweres Hindernis bildet für die Anpassung der Q.M. an das Relativitätsprinzip, darauf habe ich in den letzten Jahren immer wieder hingewiesen, leider ohne den Schatten eines brauchbaren Gegenvorschlags machen zu können¹. Beim Überschauen der ganzen heutigen Situation, wie ich sie hier zu schildern versucht, drängt sich noch eine Bemerkung ganz anderer Art auf in bezug auf die so heftig angestrebte, aber noch nicht wirklich erreichte „Relativisierung“ der Q.M.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 585,
+      "bottomRightX": 650,
+      "bottomRightY": 868,
+      "content": "Die merkwürdige Theorie des Messens, das scheinbare Umspringen der ψ-Funktion und schließlich die „Antinomien der Verschränkung“ entspringen alle aus der einfachen Art, in welcher der Rechenapparat der Quantenmechanik zwei getrennte Systeme gedanklich zu einem einzigen zusammenzufügen erlaubt; wofür er geradezu prädestiniert scheint. Wenn zwei Systeme in Wechselwirkung treten, treten, wie wir gesehen haben, nicht etwa ihre ψ-Funktionen in Wechselwirkung, sondern die hören sofort zu existieren auf und eine einzige für das Gesamtsystem tritt an ihre Stelle. Sie besteht, um das kurz zu erwähnen, zuerst einfach aus dem Produkt der zwei Einzelfunktionen; welches, da die eine Funktion von ganz anderen Veränderlichen abhängt als die andere, eine Funktion von allen diesen Veränderlichen ist oder „in einem Gebiet von viel höherer Dimensionszahl spielt“ als die Einzelfunktionen. Sobald die Systeme aufeinander einzuwirken beginnen, hört die Gesamtfunktion auf, ein Produkt zu sein, und zerfällt auch, wenn sie sich wieder",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 870,
+      "bottomRightX": 650,
+      "bottomRightY": 918,
+      "content": "¹ Berl. Ber. 16. April 1931; Annales de l'Institut H. POINCARÉ, S. 269 (Paris 1931); Cursos de la universidad internacional de verano en Santander, 1, S. 60 (Madrid, Signo, 1935).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

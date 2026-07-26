@@ -1,0 +1,146 @@
+{
+  "index": 20,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 101,
+      "bottomRightX": 422,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 555,
+      "topLeftY": 101,
+      "bottomRightX": 583,
+      "bottomRightY": 118,
+      "content": "577",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 138,
+      "bottomRightX": 583,
+      "bottomRightY": 177,
+      "content": "und $\\boldsymbol{E}_{\\text{pot}}$ eine homogene Funktion der Koordinaten vom Grade $n$. Es wird dann nach (3), Kap. 2:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 265,
+      "topLeftY": 183,
+      "bottomRightX": 583,
+      "bottomRightY": 222,
+      "content": "$$\\boldsymbol{E}_{\\text{pot}} = \\frac{1}{n} \\sum_k \\frac{\\partial \\boldsymbol{E}_{\\text{pot}}}{\\partial \\boldsymbol{q}_k} \\boldsymbol{q}_k \\quad (16)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 217,
+      "bottomRightX": 132,
+      "bottomRightY": 232,
+      "content": "und",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 233,
+      "bottomRightX": 526,
+      "bottomRightY": 271,
+      "content": "$$\\frac{d}{dt} \\sum_k \\boldsymbol{p}_k \\boldsymbol{q}_k = \\sum_k (\\dot{\\boldsymbol{p}}_k \\boldsymbol{q}_k + \\boldsymbol{p}_k \\dot{\\boldsymbol{q}}_k) = 2 \\boldsymbol{E}_{\\text{kin}} - n \\boldsymbol{E}_{\\text{pot}},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 282,
+      "bottomRightX": 281,
+      "bottomRightY": 300,
+      "content": "also für die Mittelwerte",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 304,
+      "bottomRightX": 583,
+      "bottomRightY": 335,
+      "content": "$$\\overline{\\boldsymbol{E}}_{\\text{kin}} = \\frac{n}{2} \\overline{\\boldsymbol{E}}_{\\text{pot}}. \\quad (17)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 345,
+      "bottomRightX": 583,
+      "bottomRightY": 388,
+      "content": "Z. B. wird für $n = 2$ (harmonische Schwingungen) $\\overline{\\boldsymbol{E}}_{\\text{kin}} = \\overline{\\boldsymbol{E}}_{\\text{pot}}$ und für $n = -1$ (Coulombsche Kräfte) $\\overline{\\boldsymbol{E}}_{\\text{kin}} = -\\frac{1}{2} \\overline{\\boldsymbol{E}}_{\\text{pot}}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 393,
+      "bottomRightX": 583,
+      "bottomRightY": 692,
+      "content": "§ 2. Entartete Systeme. Wir wollen nun die entarteten Systeme ins Auge fassen. Wird das Verschwinden einiger der Frequenzen $\\boldsymbol{v}(nm)$ zugelassen (der Einfachheit halber denken wir uns die Matrizen zweidimensional dargestellt), so kann die Energiekonstanz $\\dot{\\boldsymbol{H}} = 0$ noch immer durch die in I und hier ausgeführten Überlegungen aus den Bewegungsgleichungen und den Vertauschungsregeln (3), Kap. 2, abgeleitet werden. Aber $\\dot{\\boldsymbol{H}} = 0$ hat nicht mehr notwendig die Folge, daß $\\boldsymbol{H}$ eine Diagonalmatrix ist, und der Beweis des Frequenzsatzes wird damit undurchführbar. Es sind also bei entarteten Systemen die Bewegungsgleichungen zusammen mit (3), Kap. 2, allein nicht ausreichend zur eindeutigen Festlegung der Eigenschaften des Systems, und es ist eine Verschärfung dieser Grundgleichungen nötig. Es liegt nahe anzunehmen, daß diese Verschärfung so zu fassen ist: Als Grundgleichungen sollen allgemein gewählt werden können die Vertauschungsrelationen und",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 698,
+      "bottomRightX": 583,
+      "bottomRightY": 717,
+      "content": "$$\\boldsymbol{H} = \\boldsymbol{W} = \\text{Diagonalmatrix}. \\quad (18)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 720,
+      "bottomRightX": 583,
+      "bottomRightY": 840,
+      "content": "Durch diese Forderung ist offenbar die Gültigkeit der Frequenzbedingung auch für die entarteten Systeme gesichert. Sehr wahrscheinlich wird dabei auch (von singulären Fällen abgesehen) die Energie $\\boldsymbol{W}$ stets eindeutig bestimmt sein. Dagegen werden die Koordinaten $\\boldsymbol{q}_k$ nicht eindeutig festgelegt. Man kann sich, wenn man eine Lösung $\\boldsymbol{p}_k, \\boldsymbol{q}_k$ von $\\boldsymbol{H}(\\boldsymbol{p}\\,\\boldsymbol{q}) = \\boldsymbol{W}$ besitzt, neue Lösungen verschaffen durch den Ansatz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 844,
+      "bottomRightX": 581,
+      "bottomRightY": 886,
+      "content": "$$\\left. \\begin{array}{l} \\boldsymbol{p}' = \\boldsymbol{S} \\boldsymbol{p} \\boldsymbol{S}^{-1}, \\\\ \\boldsymbol{q}' = \\boldsymbol{S} \\boldsymbol{q} \\boldsymbol{S}^{-1}. \\end{array} \\right\\} \\quad (19)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 882,
+      "bottomRightX": 183,
+      "bottomRightY": 899,
+      "content": "Damit wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 899,
+      "bottomRightX": 445,
+      "bottomRightY": 920,
+      "content": "$$\\boldsymbol{H}(\\boldsymbol{p}'\\,\\boldsymbol{q}') = \\boldsymbol{W}' = \\boldsymbol{S} \\boldsymbol{W} \\boldsymbol{S}^{-1},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

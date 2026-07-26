@@ -1,0 +1,290 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 93,
+    "height": 791,
+    "width": 1023
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 100,
+      "topLeftY": 39,
+      "bottomRightX": 396,
+      "bottomRightY": 52,
+      "content": "SCATTERING OF X-RAYS BY LIGHT ELEMENTS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 435,
+      "topLeftY": 40,
+      "bottomRightX": 458,
+      "bottomRightY": 53,
+      "content": "493",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 66,
+      "bottomRightX": 459,
+      "bottomRightY": 96,
+      "content": "In the forward direction, where $\\theta = 0$, the intensity of the scattered beam is thus",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 178,
+      "topLeftY": 97,
+      "bottomRightX": 459,
+      "bottomRightY": 127,
+      "content": "$$I_0 = \\frac{3}{8\\pi} \\frac{nh\\nu_0}{R^2} (1 + 2\\alpha). \\tag{24}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 127,
+      "bottomRightX": 79,
+      "bottomRightY": 141,
+      "content": "Hence",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 140,
+      "bottomRightX": 459,
+      "bottomRightY": 174,
+      "content": "$$\\frac{I_\\theta}{I_0} = \\frac{1}{2} \\frac{1 + \\cos^2 \\theta + 2\\alpha(1 + \\alpha)(1 - \\cos \\theta)^2}{\\{1 + \\alpha(1 - \\cos \\theta)\\}^5}. \\tag{25}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 181,
+      "bottomRightX": 460,
+      "bottomRightY": 249,
+      "content": "On the hypothesis of recoiling electrons, however, for a ray scattered directly forward, the velocity of recoil is zero (Eq. 6). Since in this case the scattering electron is at rest, the intensity of the scattered beam should be that calculated on the basis of the classical theory, namely,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 188,
+      "topLeftY": 255,
+      "bottomRightX": 459,
+      "bottomRightY": 273,
+      "content": "$$I_0 = I(Ne^4/R^2m^2c^4), \\tag{26}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 280,
+      "bottomRightX": 460,
+      "bottomRightY": 345,
+      "content": "where $I$ is the intensity of the primary beam traversing the $N$ electrons which are effective in scattering. On combining this result with Eq. (25), we find for the intensity of the X-rays scattered at an angle $\\theta$ with the incident beam,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 348,
+      "bottomRightX": 459,
+      "bottomRightY": 382,
+      "content": "$$I = I \\frac{Ne^4}{2R^2m^2c^4} \\frac{1 + \\cos^2 \\theta + 2\\alpha(1 + \\alpha)(1 - \\cos \\theta)^2}{\\{1 + \\alpha(1 - \\cos \\theta)\\}^5}. \\tag{27}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 390,
+      "bottomRightX": 460,
+      "bottomRightY": 439,
+      "content": "The calculation of the energy removed from the primary beam may now be made without difficulty. We have supposed that $n$ quanta are scattered per second. But on comparing Eqs. (24) and (26), we find that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 173,
+      "topLeftY": 447,
+      "bottomRightX": 321,
+      "bottomRightY": 480,
+      "content": "$$n = \\frac{8\\pi}{3} \\frac{INe^4}{h\\nu_0m^2c^4(1 + 2\\alpha)}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 488,
+      "bottomRightX": 460,
+      "bottomRightY": 553,
+      "content": "The energy removed from the primary beam per second is $nh\\nu_0$. If we define the scattering absorption coefficient as the fraction of the energy of the primary beam removed by the scattering process per unit length of path through the medium, it has the value",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 561,
+      "bottomRightX": 459,
+      "bottomRightY": 594,
+      "content": "$$\\sigma = \\frac{nh\\nu_0}{I} = \\frac{8\\pi}{3} \\frac{Ne^4}{m^2c^4} \\cdot \\frac{1}{1 + 2\\alpha} = \\frac{\\sigma_0}{1 + 2\\alpha}, \\tag{28}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 602,
+      "bottomRightX": 460,
+      "bottomRightY": 634,
+      "content": "where $N$ is the number of scattering electrons per unit volume, and $\\sigma_0$ is the scattering coefficient calculated on the basis of the classical theory.¹",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 635,
+      "bottomRightX": 460,
+      "bottomRightY": 701,
+      "content": "In order to determine the total energy truly scattered, we must integrate the scattered intensity over the surface of a sphere surrounding the scattering material, i.e., $\\epsilon_s = \\int_0^\\infty I_\\theta \\cdot 2\\pi R^2 \\sin \\theta d\\theta$. On substituting the value of $I_\\theta$ from Eq. (27), and integrating, this becomes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 176,
+      "topLeftY": 705,
+      "bottomRightX": 321,
+      "bottomRightY": 736,
+      "content": "$$\\epsilon_s = \\frac{8\\pi}{3} \\frac{INe^4}{m^2c^4} \\frac{1 + \\alpha}{(1 + 2\\alpha)^2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 51,
+      "topLeftY": 740,
+      "bottomRightX": 437,
+      "bottomRightY": 755,
+      "content": "¹ Cf. J. J. Thomson, \"Conduction of Electricity through Gases,\" 2d ed., p. 325.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 548,
+      "topLeftY": 44,
+      "bottomRightX": 572,
+      "bottomRightY": 57,
+      "content": "494",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 691,
+      "topLeftY": 40,
+      "bottomRightX": 834,
+      "bottomRightY": 54,
+      "content": "ARTHUR H. COMPTON",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 547,
+      "topLeftY": 69,
+      "bottomRightX": 761,
+      "bottomRightY": 85,
+      "content": "The true scattering coefficient is thus",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 645,
+      "topLeftY": 93,
+      "bottomRightX": 978,
+      "bottomRightY": 127,
+      "content": "$$\\sigma_s = \\frac{8\\pi}{3} \\frac{Ne^4}{m^2c^4} \\frac{1 + \\alpha}{(1 + 2\\alpha)^2} = \\sigma_0 \\frac{1 + \\alpha}{(1 + 2\\alpha)^2}. \\tag{29}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 546,
+      "topLeftY": 136,
+      "bottomRightX": 979,
+      "bottomRightY": 222,
+      "content": "It is clear that the difference between the total energy removed from the primary beam and that which reappears as scattered radiation is the energy of recoil of the scattering electrons. This difference represents, therefore, a type of true absorption resulting from the scattering process. The corresponding coefficient of true absorption due to scattering is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 613,
+      "topLeftY": 230,
+      "bottomRightX": 978,
+      "bottomRightY": 264,
+      "content": "$$\\sigma_n = \\sigma - \\sigma_s = \\frac{8\\pi}{3} \\frac{Ne^4}{m^2c^4} \\frac{\\alpha}{(1 + 2\\alpha)^2} = \\sigma_0 \\frac{\\alpha}{(1 + 2\\alpha)^2}. \\tag{30}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 695,
+      "topLeftY": 278,
+      "bottomRightX": 828,
+      "bottomRightY": 294,
+      "content": "# EXPERIMENTAL TEST.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 546,
+      "topLeftY": 300,
+      "bottomRightX": 978,
+      "bottomRightY": 350,
+      "content": "Let us now investigate the agreement of these various formulas with experiments on the change of wave-length due to scattering, and on the magnitude of the scattering of X-rays and $\\gamma$-rays by light elements.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 546,
+      "topLeftY": 351,
+      "bottomRightX": 978,
+      "bottomRightY": 384,
+      "content": "Wave-length of the scattered rays.—If in Eq. (5) we substitute the accepted values of $h$, $m$, and $c$, we obtain",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 684,
+      "topLeftY": 393,
+      "bottomRightX": 977,
+      "bottomRightY": 409,
+      "content": "$$\\lambda_\\theta = \\lambda_0 + 0.0484 \\sin^2 \\frac{1}{2}\\theta, \\tag{31}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 544,
+      "topLeftY": 416,
+      "bottomRightX": 978,
+      "bottomRightY": 569,
+      "content": "if $\\lambda$ is expressed in Angström units. It is perhaps surprising that the increase should be the same for all wave-lengths. Yet, as a result of an extensive experimental study of the change in wave-length on scattering, the writer has concluded that \"over the range of primary rays from 0.7 to 0.025 A, the wave-length of the secondary X-rays at 90° with the incident beam is roughly 0.03 A greater than that of the primary beam which excites it.\"¹ Thus the experiments support the theory in showing a wave-length increase which seems independent of the incident wave-length, and which also is of the proper order of magnitude.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 544,
+      "topLeftY": 569,
+      "bottomRightX": 978,
+      "bottomRightY": 719,
+      "content": "A quantitative test of the accuracy of Eq. (31) is possible in the case of the characteristic K-rays from molybdenum when scattered by graphite. In Fig. 4 is shown a spectrum of the X-rays scattered by graphite at right angles with the primary beam, when the graphite is traversed by X-rays from a molybdenum target.² The solid line represents the spectrum of these scattered rays, and is to be compared with the broken line, which represents the spectrum of the primary rays, using the same slits and crystal, and the same potential on the tube. The primary spectrum is, of course, plotted on a much smaller scale than",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 545,
+      "topLeftY": 721,
+      "bottomRightX": 975,
+      "bottomRightY": 759,
+      "content": "¹ A. H. Compton, Bull. N. R. C., No. 20, p. 17 (1922)\n² It is hoped to publish soon a description of the experiments on which this figure is based.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

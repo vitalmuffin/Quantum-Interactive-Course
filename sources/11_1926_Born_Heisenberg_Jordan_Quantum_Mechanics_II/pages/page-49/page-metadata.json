@@ -1,0 +1,110 @@
+{
+  "index": 48,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 266,
+      "topLeftY": 99,
+      "bottomRightX": 420,
+      "bottomRightY": 114,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 99,
+      "bottomRightX": 582,
+      "bottomRightY": 115,
+      "content": "605",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 135,
+      "bottomRightX": 582,
+      "bottomRightY": 174,
+      "content": "Die Sprünge $j \\rightarrow j + 1$ geben im wesentlichen dieselben Intensitäten; es gilt dann:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 183,
+      "bottomRightX": 582,
+      "bottomRightY": 250,
+      "content": "$$\n\\left. \\begin{array}{l}\nq_{lz}(j, m; j + 1, m): (q_{lx} + i q_{ly})(j, m; j + 1, m + 1) \\\\\n: (q_{lx} - i q_{ly})(j, m + 1; j + 1, m) = \\sqrt{(j + 1)^2 - m^2} \\\\\n: \\sqrt{(j + m + 2)(j + m + 1)}: -\\sqrt{(j - m + 1)(j - m)}.\n\\end{array} \\right\\} \\quad (34)\n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 256,
+      "bottomRightX": 582,
+      "bottomRightY": 296,
+      "content": "Die Formeln (30), (33), (34), Kap. 4, stimmen mit den auf korrespondenzmäßigem Wege gefundenen Intensitätsformeln$^{1)}$ überein.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 298,
+      "bottomRightX": 584,
+      "bottomRightY": 415,
+      "content": "Auf eine einfache Folgerung aus (21), Kap. 4, müssen wir noch hinweisen: Die Sprünge $\\Delta j = 0$ kommen nur in der „$Z$-Richtung“ vor. Wenn wir die Bewegung eines einzigen Elektrons um einen Kern, also den Fall des Wasserstoffatoms betrachten, so folgt direkt aus (1), Kap. 4, daß $Z$ verschwindet. Also kommen dann Sprünge $\\Delta j = 0$ überhaupt nicht vor.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 421,
+      "bottomRightX": 585,
+      "bottomRightY": 783,
+      "content": "§ 2. Der Zeemaneffekt. Wenn man die Lorentzsche Kraft eines Magnetfeldes $\\mathfrak{H}$ auf das Elektron $e/e$ [v $\\mathfrak{H}$] in die Quantenmechanik übernimmt, so scheint es zunächst selbstverständlich, daß sich für die Atome der normale Zeemaneffekt ergibt. Denn genau unter denselben Voraussetzungen, unter denen klassisch das Larmorsche Theorem für das Kernatom abgeleitet werden kann — nämlich Vernachlässigung der Glieder mit $\\mathfrak{H}^2$ —, ergibt sich auch hier das Larmorsche Theorem. Trotzdem besteht ein gewisser Unterschied zwischen der Quantenmechanik und der klassischen Theorie in der Berechtigung der Vernachlässigung von $\\mathfrak{H}^2$. In der klassischen Theorie ist die Vernachlässigung von $\\mathfrak{H}^2$ sicher für die Bahnen kleiner Dimensionen erlaubt, sicher nicht erlaubt für sehr große Bahnen oder gar Hyperbelbahnen. In der Quantenmechanik sind alle diese Bahnen — die weit außen liegenden, wie die innersten — wegen der der Quantenmechanik eigentümlichen Kinematik so eng miteinander verknüpft, daß die Berechtigung zur Vernachlässigung der Größe $\\mathfrak{H}^2$ nicht ohne weiteres einleuchtet. Sind doch selbst vom Normalzustand aus die Wahrscheinlichkeiten von Übergängen zu freien Elektronen beträchtlich.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 787,
+      "bottomRightX": 585,
+      "bottomRightY": 868,
+      "content": "Für den Oszillator sind wir also des normalen Zeemaneffekts sicher; für das Kernatom dagegen scheint es nicht völlig ausgeschlossen, daß der enge Zusammenhang der weit außen und weit innen liegenden Bahnen zu Ergebnissen führt, die etwas vom normalen Zeemaneffekt abweichen. Wir",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 886,
+      "bottomRightX": 584,
+      "bottomRightY": 917,
+      "content": "$^{1)}$ S. Goudsmit und R. de L. Kronig, Naturwiss. 13. 90, 1925; H. Hönl, ZS. f. Phys. 32, 340, 1925.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 123,
+      "topLeftY": 918,
+      "bottomRightX": 301,
+      "bottomRightY": 933,
+      "content": "Zeitschrift für Physik. Bd. XXXV.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 500,
+      "topLeftY": 923,
+      "bottomRightX": 518,
+      "bottomRightY": 937,
+      "content": "42",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

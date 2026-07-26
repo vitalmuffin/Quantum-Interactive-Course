@@ -1,0 +1,245 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 537,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 47,
+      "bottomRightX": 676,
+      "bottomRightY": 60,
+      "content": "18",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 96,
+      "bottomRightX": 676,
+      "bottomRightY": 134,
+      "content": "$$e^{\\pm k(\\mathfrak{s})}, \\quad k^2 = \\frac{8\\pi^2\\mu}{h^2} W^\\varepsilon. \\tag{2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 154,
+      "bottomRightX": 508,
+      "bottomRightY": 172,
+      "content": "The general solution that corresponds to the incoming wave is:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 328,
+      "topLeftY": 189,
+      "bottomRightX": 676,
+      "bottomRightY": 225,
+      "content": "$$\\psi_k^\\varepsilon = \\int_{\\mathfrak{s}>0} c^0(\\mathfrak{s}) e^{ik(\\mathfrak{s})} d\\omega; \\tag{3}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 228,
+      "bottomRightX": 340,
+      "bottomRightY": 247,
+      "content": "it satisfies the differential equation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 234,
+      "topLeftY": 264,
+      "bottomRightX": 676,
+      "bottomRightY": 288,
+      "content": "$$[H^\\varepsilon - W^\\varepsilon, \\psi_k^\\varepsilon] = 0 \\quad \\text{or} \\quad \\Delta\\psi_k^\\varepsilon + k^2\\psi_k^\\varepsilon = 0. \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 307,
+      "bottomRightX": 251,
+      "bottomRightY": 326,
+      "content": "The potential energy:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 328,
+      "topLeftY": 325,
+      "bottomRightX": 676,
+      "bottomRightY": 345,
+      "content": "$$U(q; x, y, z) \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 360,
+      "bottomRightX": 374,
+      "bottomRightY": 376,
+      "content": "exists between the atom and the electron.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 378,
+      "bottomRightX": 614,
+      "bottomRightY": 396,
+      "content": "The interaction between the two particles leads to the *Hamiltonian* function:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 342,
+      "topLeftY": 412,
+      "bottomRightX": 448,
+      "bottomRightY": 433,
+      "content": "$$H = H^0 + \\lambda H^{(1)},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 434,
+      "bottomRightX": 157,
+      "bottomRightY": 450,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 325,
+      "topLeftY": 451,
+      "bottomRightX": 463,
+      "bottomRightY": 498,
+      "content": "$$\\left. \\begin{array}{c} H^0 = H^a + H^\\varepsilon, \\\\ \\lambda H^{(1)} = U. \\end{array} \\right\\}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 516,
+      "bottomRightX": 374,
+      "bottomRightY": 535,
+      "content": "The unperturbed system has the solution:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 552,
+      "bottomRightX": 510,
+      "bottomRightY": 576,
+      "content": "$$W_{nk}^0 = W_n^a + W^\\varepsilon, \\qquad \\psi_{nk}^0 = \\psi_n^a \\psi_k^\\varepsilon.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 595,
+      "bottomRightX": 557,
+      "bottomRightY": 613,
+      "content": "We solve *Schrödinger's* differential equation for the perturbed system:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 346,
+      "topLeftY": 631,
+      "bottomRightX": 444,
+      "bottomRightY": 650,
+      "content": "$$[H - W, \\psi] = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 650,
+      "bottomRightX": 207,
+      "bottomRightY": 667,
+      "content": "by the Ansatz:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 327,
+      "topLeftY": 666,
+      "bottomRightX": 463,
+      "bottomRightY": 687,
+      "content": "$$\\psi = \\psi^0 + \\lambda \\psi^{(1)} + \\dots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 705,
+      "bottomRightX": 406,
+      "bottomRightY": 723,
+      "content": "We will then get the approximation equations:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 299,
+      "topLeftY": 739,
+      "bottomRightX": 478,
+      "bottomRightY": 763,
+      "content": "$$[H^0 - W_{nk}^0, \\psi_{nk}^{(1)}] = -U \\psi_{nk}^0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 301,
+      "topLeftY": 765,
+      "bottomRightX": 478,
+      "bottomRightY": 787,
+      "content": "$$[H^0 - W_{nk}^0, \\psi_{nk}^{(2)}] = -U \\psi_{nk}^{(1)},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 824,
+      "bottomRightX": 475,
+      "bottomRightY": 843,
+      "content": "whose left-hand sides agree. We write them out in detail:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 260,
+      "topLeftY": 860,
+      "bottomRightX": 528,
+      "bottomRightY": 884,
+      "content": "$$[H^0, \\psi_{nk}^{(1)}] + [H^\\varepsilon, \\psi_{nk}^{(1)}] - W_{nk}^0 \\psi_{nk}^{(1)} = -U \\psi_{nk}^0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 113,
+      "topLeftY": 887,
+      "bottomRightX": 132,
+      "bottomRightY": 900,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

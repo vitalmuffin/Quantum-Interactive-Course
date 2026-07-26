@@ -1,0 +1,119 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 99,
+      "topLeftY": 95,
+      "bottomRightX": 128,
+      "bottomRightY": 112,
+      "content": "464",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 95,
+      "bottomRightX": 415,
+      "bottomRightY": 112,
+      "content": "W. Heitler und F. London,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 132,
+      "bottomRightX": 578,
+      "bottomRightY": 270,
+      "content": "Die Elektronen des Heliumgrundzustandes müssen hinsichtlich ihres Dralls verschieden voneinander sein. Wir wollen die Bezeichnung so wählen, daß die Elektronen 1 und 3 von gleichem Drall sind, ebenso 2 und 4, aber 1 und 2 verschiedenen Drall haben. Dann ist es nach dem Pauliprinzip ausgeschlossen, daß 1 und 3 bzw. 2 und 4 am gleichen He-Kern sich befinden. Wir können demzufolge zwei der sechs Eigenfunktionen (17) von vornherein ausschließen und uns auf",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 270,
+      "topLeftY": 287,
+      "bottomRightX": 578,
+      "bottomRightY": 330,
+      "content": "$$\\left. \\begin{array}{ll} \\psi_{12} \\varphi_{34}, & \\psi_{34} \\varphi_{12}, \\\\ \\psi_{14} \\varphi_{23}, & \\psi_{23} \\varphi_{14} \\end{array} \\right\\} \\quad (17a)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 343,
+      "bottomRightX": 530,
+      "bottomRightY": 361,
+      "content": "beschränken. Die Wellengleichung für das 2-He-Problem lautet:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 376,
+      "bottomRightX": 579,
+      "bottomRightY": 419,
+      "content": "$$\\sum_{i=1}^4 \\left[ \\Delta_i \\chi + \\frac{8 \\pi^2 m}{h^2} \\left( E - \\varepsilon^2 \\left( \\frac{4}{R} + \\sum_{k=1}^4 \\frac{1}{r_{ik}} - \\frac{1}{r_{ai}} - \\frac{1}{r_{bi}} \\right) \\right) \\chi \\right] = 0. \\quad (18)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 434,
+      "bottomRightX": 580,
+      "bottomRightY": 572,
+      "content": "Sie ist symmetrisch in allen vier Elektronen. Wir haben auch hier wieder kein Störungsproblem von der üblichen Form, da sich ebenso wenig wie in § 1 ein Störungspotential abtrennen läßt; wir entnehmen aber der Symmetrie der Differentialgleichung, daß die Eigenfunktionen nullter Näherung die gleichen sind, wie wenn ein kleines in den vier Elektronen symmetrisches Störungspotential vorhanden wäre. Wir bezeichnen es mit $H$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 574,
+      "bottomRightX": 581,
+      "bottomRightY": 713,
+      "content": "Mit dieser Hilfsbetrachtung können wir natürlich nicht die Eigenwerte erster Ordnung dem Säkularproblem entnehmen, wohl aber die richtigen Eigenfunktionen nullter Ordnung, wenn diese allein durch den Symmetriecharakter der Differentialgleichung ausgezeichnet werden. Anstatt mit den Eigenfunktionen (17a) in das Säkularproblem mit $H$ einzugehen, ist es praktischer von vornherein gewisse Linearkombinationen von (17a) zu bilden, nämlich (die Normierungsfaktoren lassen wir weg):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 728,
+      "bottomRightX": 581,
+      "bottomRightY": 769,
+      "content": "$$\\left. \\begin{array}{ll} \\Psi_1 = \\psi_{12} \\varphi_{34} + \\psi_{34} \\varphi_{12}, & \\Phi_1 = \\psi_{12} \\varphi_{34} - \\psi_{34} \\varphi_{12}, \\\\ \\Psi_2 = \\psi_{14} \\varphi_{23} + \\psi_{23} \\varphi_{14}, & \\Phi_2 = \\psi_{14} \\varphi_{23} - \\psi_{23} \\varphi_{14}. \\end{array} \\right\\} \\quad (17b)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 782,
+      "bottomRightX": 581,
+      "bottomRightY": 817,
+      "content": "Mit diesen Eigenfunktionen verschwinden alle Matrizenelemente der Form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 817,
+      "bottomRightX": 402,
+      "bottomRightY": 843,
+      "content": "$$\\int H \\Psi \\Phi \\, d\\tau = 0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 850,
+      "bottomRightX": 583,
+      "bottomRightY": 908,
+      "content": "denn $H \\Psi$ ist symmetrisch, $\\Phi$ dagegen antisymmetrisch hinsichtlich eines Austausches von 1 mit 3 und zugleich 2 mit 4, das Integral ist aber gegenüber einem Austausch der Integrationsvariablen unempfindlich, es",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

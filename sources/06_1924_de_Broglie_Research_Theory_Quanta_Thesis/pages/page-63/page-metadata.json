@@ -1,0 +1,164 @@
+{
+  "index": 62,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 107,
+      "topLeftY": 37,
+      "bottomRightX": 442,
+      "bottomRightY": 57,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 506,
+      "topLeftY": 33,
+      "bottomRightX": 530,
+      "bottomRightY": 52,
+      "content": "83",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 80,
+      "bottomRightX": 64,
+      "bottomRightY": 100,
+      "content": "D'où",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 219,
+      "topLeftY": 106,
+      "bottomRightX": 330,
+      "bottomRightY": 149,
+      "content": "$$\\frac{1'}{1} = \\left( \\frac{\\nu'}{\\nu} \\right)^2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 169,
+      "bottomRightX": 531,
+      "bottomRightY": 245,
+      "content": "Toutes ces formules sont démontrées du point de vue ondulatoire dans le livre de Laue, *Die Relativitätstheorie*, tome Ier, 3e éd., p. 119.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 245,
+      "bottomRightX": 345,
+      "bottomRightY": 270,
+      "content": "b) Réflexion sur un miroir mobile :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 270,
+      "bottomRightX": 531,
+      "bottomRightY": 372,
+      "content": "Considérons la réflexion de corpuscules de lumière tombant normalement sur un miroir plan parfaitement réfléchissant qui se déplace avec la vitesse $\\beta c$ dans la direction perpendiculaire à sa surface.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 370,
+      "bottomRightX": 532,
+      "bottomRightY": 474,
+      "content": "Soit pour l'observateur fixe, $\\nu'_1$ la fréquence des ondes de phase accompagnant les corpuscules incidents et $c(1 - \\varepsilon'_1)$ leur vitesse. Les mêmes grandeurs pour l'observateur lié seront $\\nu_1$ et $c(1 - \\varepsilon_1)$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 472,
+      "bottomRightX": 531,
+      "bottomRightY": 525,
+      "content": "Si nous considérons les corpuscules réfléchis, les valeurs correspondantes seront appelées $\\nu_2$, $c(1 - \\varepsilon_2)$, $\\nu'_2$ et $c(1 - \\varepsilon'_2)$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 524,
+      "bottomRightX": 345,
+      "bottomRightY": 550,
+      "content": "La composition des vitesses donne :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 562,
+      "bottomRightX": 508,
+      "bottomRightY": 607,
+      "content": "$$c(1 - \\varepsilon_1) = \\frac{c(1 - \\varepsilon'_1) + \\beta c}{1 + \\beta(1 - \\varepsilon'_1)}, \\quad c(1 - \\varepsilon_2) = \\frac{c(1 - \\varepsilon'_2) - \\beta c}{1 - \\beta(1 - \\varepsilon'_2)}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 628,
+      "bottomRightX": 533,
+      "bottomRightY": 704,
+      "content": "Pour l'observateur lié, il y a réflexion sur un miroir fixe sans changement de fréquence puisque l'énergie se conserve. D'où :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 717,
+      "bottomRightX": 483,
+      "bottomRightY": 761,
+      "content": "$$\\nu_1 = \\nu_2, \\quad \\varepsilon_1 = \\varepsilon_2, \\quad \\frac{1 - \\varepsilon'_1 + \\beta}{1 + \\beta(1 - \\varepsilon'_1)} = \\frac{1 - \\varepsilon'_2 - \\beta}{1 - \\beta(1 - \\varepsilon'_2)}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 781,
+      "bottomRightX": 269,
+      "bottomRightY": 807,
+      "content": "En négligeant $\\varepsilon'_1 \\varepsilon'_2$, il vient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 817,
+      "bottomRightX": 483,
+      "bottomRightY": 863,
+      "content": "$$\\frac{\\varepsilon'_1}{\\varepsilon'_2} = \\left( \\frac{\\nu'_2}{\\nu'_1} \\right)^2 = \\left( \\frac{1 + \\beta}{1 - \\beta} \\right)^2 \\quad \\text{ou} \\quad \\frac{\\nu'_2}{\\nu'_1} = \\frac{1 + \\beta}{1 - \\beta}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 881,
+      "bottomRightX": 459,
+      "bottomRightY": 908,
+      "content": "Si $\\beta$ est petit, on retombe sur la formule classique :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 216,
+      "topLeftY": 921,
+      "bottomRightX": 345,
+      "bottomRightY": 962,
+      "content": "$$\\frac{T_2}{T_1} = 1 - 2 \\frac{v}{c}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

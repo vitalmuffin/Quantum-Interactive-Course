@@ -1,0 +1,65 @@
+{
+  "index": 78,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 120,
+      "topLeftY": 43,
+      "bottomRightX": 457,
+      "bottomRightY": 66,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 518,
+      "topLeftY": 50,
+      "bottomRightX": 542,
+      "bottomRightY": 70,
+      "content": "99",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 30,
+      "topLeftY": 82,
+      "bottomRightX": 542,
+      "bottomRightY": 215,
+      "content": "de M. Ross sur la diffusion de la raie MoK$_{\\alpha}$ et de la lumière verte par la paraffine confirment cette manière de voir. La raie K$_{\\alpha}$ donne une forte raie diffusée suivant la loi de Compton et une faible raie à fréquence non modifiée, cette dernière paraît seule exister pour la lumière verte.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 26,
+      "topLeftY": 209,
+      "bottomRightX": 540,
+      "bottomRightY": 468,
+      "content": "L'existence d'une raie non déplacée paraît devoir expliquer pourquoi la réflexion cristalline (phénomène de Laue) ne s'accompagne pas d'une variation de longueur d'onde. MM. Jauncey et Wolfers ont, en effet, montré récemment que, si les raies diffusées par les cristaux usuellement employés comme réflecteurs, subissaient d'une façon appréciable l'effet Compton-Debye, les mesures de précision des longueurs d'onde Röntgen aurait déjà mis le phénomène en évidence. Il faut donc supposer que dans ce cas, la diffusion a lieu sans dégradation du quantum.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 19,
+      "topLeftY": 463,
+      "bottomRightX": 536,
+      "bottomRightY": 899,
+      "content": "Au premier abord, on est tenté d'expliquer l'existence des deux sortes de diffusion de la façon suivante : l'effet Compton se produirait chaque fois que l'électron diffuseur serait libre ou tout au moins que sa liaison avec un atome correspondrait à une énergie faible devant celle du quantum incident ; dans le cas contraire, il y aurait diffusion sans changement de longueur d'onde parce qu'alors l'atome tout entier prendrait part au processus sans acquérir de vitesse appréciable en raison de sa grosse masse. M. Compton trouve des difficultés à admettre cette idée et préfère expliquer la raie non modifiée par l'intervention de plusieurs électrons dans la déviation d'un même quantum ; ce serait alors, la valeur élevée de la somme de leurs masses qui empêcheraient le passage d'une énergie notable de la radiation à la matière. Quoi qu'il en soit, on conçoit bien pourquoi les éléments lourds et les rayons durs se comportent autrement que les éléments légers et les rayons mous.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 18,
+      "topLeftY": 894,
+      "bottomRightX": 527,
+      "bottomRightY": 976,
+      "content": "Quant à la manière de rendre compatibles la conception de la diffusion comme étant la déviation d'une particule lumineuse et la conservation de la phase nécessaire à l'explica-",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

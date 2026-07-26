@@ -1,0 +1,65 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 104,
+      "topLeftY": 99,
+      "bottomRightX": 133,
+      "bottomRightY": 116,
+      "content": "560",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 99,
+      "bottomRightX": 457,
+      "bottomRightY": 116,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 136,
+      "bottomRightX": 582,
+      "bottomRightY": 456,
+      "content": "kann; vielmehr dürfte die Quantenmechanik bei den Zeemaneffekten mit denselben Schwierigkeiten zu kämpfen haben wie die bisherige Theorie; das Problem der anomalen Zeemaneffekte ist aber neuerdings durch eine Note von Uhlenbeck und Goudsmit¹⁾ in ein neues Stadium getreten. Diese Verfasser machen die Annahme, daß das Elektron selbst ein mechanisches und magnetisches Moment besitze (deren Verhältnis doppelt so groß sein solle, wie bei Atomen), daß es also eigentlich gar keine anomalen Zeemaneffekte gebe; durch diese Annahme fallen die Schwierigkeiten bei den statistischen Gewichten fort und es ergibt sich eine qualitative Deutung sämtlicher mit dem Problem der Multiplettstruktur und der Zeemaneffekte zusammenhängenden Phänomene; die Frage, ob man dadurch schon eine quantitative Deutung dieser Erscheinungen erhält, kann allerdings erst durch genauere Untersuchungen mit den Methoden der Quantenmechanik beantwortet werden; einige Resultate des Kap. 4 scheinen bezüglich der Zeemaneffekte diese Hoffnung auf die Möglichkeit einer späteren quantitativen Deutung zu bestärken.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 457,
+      "bottomRightX": 581,
+      "bottomRightY": 876,
+      "content": "Schließlich haben wir noch versucht, ein bekanntes statistisches Problem mit den durch die Theorie gegebenen neuen Methoden zu behandeln: Bekanntlich kann man durch Quantelung der Eigenschwingungen eines (in spiegelnde Wände eingeschlossenen) Hohlraums nach den bisherigen Methoden zu Ergebnissen kommen, die eine gewisse Ähnlichkeit mit den Ansätzen der Lichtquantentheorie aufweisen und die eine Ableitung der Planckschen Formel gestatten. Man erhält aber, wie stets von Einstein²⁾ hervorgehoben wurde, bei einer solchen halbklassischen Behandlung der Hohlraumstrahlung einen falschen Wert für das mittlere Schwankungsquadrat der Energie in einem Teilvolumen. Dieses Ergebnis muß als besonders schwerwiegender Einwand gegen die bisherigen Methoden der Quantentheorie angesehen werden, weil es sich einerseits hier um ein Versagen der Theorie schon beim einfachen Problem des harmonischen Oszillators handelt, und weil andererseits die genannte Schwierigkeit auch bei jeder Statistik der Eigenschwingungen irgend eines mechanischen Systems, z. B. eines Kristallgitters, auftreten würde. Wir haben nun gefunden, daß die auf Grund der Kinematik und Mechanik der hier versuchten Theorie durchgeführte entsprechende Rechnung zum richtigen Werte des Schwankungsquadrates, wie zur Planckschen Formel führt, was wohl als wichtige Stütze für die hier versuchte Quantenmechanik anzusehen ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 886,
+      "bottomRightX": 514,
+      "bottomRightY": 902,
+      "content": "¹⁾ G. Uhlenbeck und S. Goudsmit, *Naturwiss.* **13**, 953, 1925.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 901,
+      "bottomRightX": 410,
+      "bottomRightY": 917,
+      "content": "²⁾ A. Einstein, *Phys. ZS.* **10**, 185, 817, 1909.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

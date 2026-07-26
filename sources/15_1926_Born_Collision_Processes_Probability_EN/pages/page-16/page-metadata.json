@@ -1,0 +1,173 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 537,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 47,
+      "bottomRightX": 676,
+      "bottomRightY": 59,
+      "content": "16",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 351,
+      "topLeftY": 95,
+      "bottomRightX": 438,
+      "bottomRightY": 132,
+      "content": "$$| F _ { n - 1 } | \\leq \\frac { A } { r ^ { 2 } } ,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 113,
+      "topLeftY": 136,
+      "bottomRightX": 132,
+      "bottomRightY": 148,
+      "content": "so",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 152,
+      "bottomRightX": 551,
+      "bottomRightY": 198,
+      "content": "$$\\left| \\int _ { r } ^ { \\infty } \\rho \\, d \\rho \\, F _ { n - 1 } \\left( - \\frac { \\rho x } { r } , \\dots \\right) e ^ { - i k \\rho } \\right| \\leq A \\int _ { r } ^ { \\infty } \\frac { d \\rho } { \\rho ^ { 2 } } = \\frac { A } { r } .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 215,
+      "bottomRightX": 262,
+      "bottomRightY": 233,
+      "content": "We then finally obtain:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 188,
+      "topLeftY": 250,
+      "bottomRightX": 677,
+      "bottomRightY": 298,
+      "content": "$$u _ { n } ^ { \\infty } = \\frac { e ^ { - i k r } } { 2 i k r } \\int _ { 0 } ^ { \\infty } \\rho \\, d \\rho \\left[ F _ { n - 1 } \\left( \\frac { \\rho x } { r } , \\dots \\right) e ^ { - i k \\rho } - F _ { n - 1 } \\left( - \\frac { \\rho x } { r } , \\dots \\right) e ^ { - i k \\rho } \\right] . \\tag { 6 }$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 315,
+      "bottomRightX": 678,
+      "bottomRightY": 354,
+      "content": "However, this can be put into a more transparent form. In order to do that, we introduce the Fourier coefficients of the function $F _ { n - 1 }$ :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 371,
+      "bottomRightX": 677,
+      "bottomRightY": 456,
+      "content": "$$\\begin{array} { l } { { f _ { n - 1 } ( \\mathfrak { l } ) = \\displaystyle \\frac { 1 } { ( 2 \\pi ) ^ { 3 } } \\iiint F _ { n - 1 } ( \\mathfrak { r } ) e ^ { - i \\mathfrak { l } } d S } } \\\\ { { \\qquad = \\displaystyle \\frac { 1 } { ( 2 \\pi ) ^ { 3 } } \\int _ { 0 } ^ { \\infty } r ^ { 2 } d r \\iint d \\omega F _ { n - 1 } ( \\mathfrak { r s } ) e ^ { - i k ( \\mathfrak { r s } ) } . } } \\end{array} \\tag { 7 }$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 473,
+      "bottomRightX": 677,
+      "bottomRightY": 508,
+      "content": "We determine the asymptotic value from the already twice-performed process, and obtain:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 509,
+      "bottomRightX": 624,
+      "bottomRightY": 555,
+      "content": "$$f _ { n - 1 } ^ { \\infty } ( k _ { x } , k _ { y } , k _ { z } ) = \\frac { 1 } { 4 \\pi ^ { 2 } i k } \\int _ { 0 } ^ { \\infty } r \\, d r \\left[ F _ { n - 1 } \\left( \\frac { r k _ { x } } { k } , \\dots \\right) e ^ { i k r } - F _ { n - 1 } \\left( - \\frac { r k _ { x } } { k } , \\dots \\right) e ^ { - i k r } \\right] .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 572,
+      "bottomRightX": 241,
+      "bottomRightY": 590,
+      "content": "One will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 607,
+      "bottomRightX": 677,
+      "bottomRightY": 655,
+      "content": "$$f _ { n - 1 } ^ { \\infty } \\left( - k \\frac { x } { r } , - k \\frac { y } { r } , - k \\frac { z } { r } \\right) = \\frac { 1 } { 4 \\pi ^ { 2 } i k } \\int _ { 0 } ^ { \\infty } \\rho \\, d \\rho \\left[ F _ { n - 1 } \\left( \\frac { \\rho x } { r } , \\dots \\right) e ^ { - i k \\rho } - F _ { n - 1 } \\left( - \\frac { \\rho x } { r } , \\dots \\right) e ^ { i k \\rho } \\right] . \\tag { 8 }$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 673,
+      "bottomRightX": 462,
+      "bottomRightY": 692,
+      "content": "If we substitute that into (6) then we will finally obtain:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 235,
+      "topLeftY": 710,
+      "bottomRightX": 677,
+      "bottomRightY": 754,
+      "content": "$$u _ { n } ^ { \\infty } ( x , y , z ) = 2 \\pi ^ { 2 } \\, f _ { n - 1 } ^ { \\infty } \\left( - k \\frac { x } { r } , - k \\frac { y } { r } , - k \\frac { z } { r } \\right) \\frac { e ^ { - i k r } } { r } . \\tag { 9 }$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 772,
+      "bottomRightX": 677,
+      "bottomRightY": 809,
+      "content": "If we compare that with the formulas (11) and (18) of § 5 then we will see that an observer at infinity will see the scattered radiation as a plane wave with the amplitude:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 826,
+      "bottomRightX": 515,
+      "bottomRightY": 864,
+      "content": "$$\\frac { k } { 2 \\pi } 2 \\pi ^ { 3 } \\left| f _ { n - 1 } ^ { \\infty } ( - k \\mathfrak { s } ) \\right| = k \\pi \\left| f _ { n - 1 } ^ { \\infty } ( - k \\mathfrak { s } ) \\right| ,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 884,
+      "bottomRightX": 677,
+      "bottomRightY": 927,
+      "content": "which will depend upon the direction $\\mathfrak { s }$ ; thus, the probability that an electron will be deflected into an element of solid angle $d \\omega$ with the mean direction $\\mathfrak { s }$ will be:",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

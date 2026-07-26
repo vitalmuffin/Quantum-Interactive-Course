@@ -1,0 +1,128 @@
+{
+  "index": 52,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 102,
+      "bottomRightX": 420,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 552,
+      "topLeftY": 102,
+      "bottomRightX": 581,
+      "bottomRightY": 117,
+      "content": "609",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 139,
+      "bottomRightX": 583,
+      "bottomRightY": 377,
+      "content": "übrigens diese Zuordnung noch derart durchgeführt werden, daß auch die Richtungen einer Eigenschwingung und der Lichtquanten der zugeordneten Zelle in den gleichen infinitesimalen Winkelbereich fallen. Nach (36), Kap. 4, ist dann die Quantenzahl eines Oszillators der Anzahl der Quanten in der zugehörigen Zelle gleichzusetzen. Jede Statistik der Lichtquanten ergibt eine zugeordnete Statistik der Eigenschwingungen und umgekehrt. Man sieht, daß die oben gemachte Feststellung über die Gewichte der Zustände des Oszillatorensystems durch diese Zuordnung unmittelbar in die Grundannahme der Bose-Einsteinschen Statistik übergeht. Die gleichwahrscheinlichen Komplexionen sind dadurch definiert, daß angegeben wird, wieviele Quanten in jeder Zelle sitzen¹).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 380,
+      "bottomRightX": 583,
+      "bottomRightY": 418,
+      "content": "Nach der Debyeschen Statistik ist die Anzahl der mit $r$ Quanten behafteten Oszillatoren (bis auf einen nur von $v$ abhängigen Faktor) gleich",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 306,
+      "topLeftY": 420,
+      "bottomRightX": 583,
+      "bottomRightY": 457,
+      "content": "$$\\frac{1}{r} \\cdot e^{-r \\frac{hv}{kT}}, \\quad (37)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 463,
+      "bottomRightX": 385,
+      "bottomRightY": 481,
+      "content": "und das Plancksche Gesetz kommt durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 248,
+      "topLeftY": 484,
+      "bottomRightX": 435,
+      "bottomRightY": 532,
+      "content": "$$\\sum_{r=1}^{\\infty} e^{-r \\frac{hv}{kT}} = \\frac{1}{e^{\\frac{hv}{kT}} - 1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 536,
+      "bottomRightX": 583,
+      "bottomRightY": 616,
+      "content": "zustande; unbefriedigenderweise gilt übrigens (37), Kap. 4, nur für $r > 0$ und gibt nicht auch die Anzahl der mit Null Quanten behafteten Oszillatoren an. Nach der neuen Auffassung tritt an Stelle von (37), Kap. 4, nach Bose der Ausdruck²)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 617,
+      "bottomRightX": 583,
+      "bottomRightY": 649,
+      "content": "$$\\left(1 - e^{-\\frac{hv}{kT}}\\right) e^{-r \\frac{hv}{kT}}, \\quad (38)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 653,
+      "bottomRightX": 583,
+      "bottomRightY": 691,
+      "content": "der in der Sprache der Lichtquantentheorie die Anzahl der „$r$-fach besetzten Zellen“ gibt, und die Plancksche Formel folgt aus",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 694,
+      "bottomRightX": 466,
+      "bottomRightY": 743,
+      "content": "$$\\sum_{r=0}^{\\infty} r \\left(1 - e^{\\frac{hv}{kT}}\\right) e^{-r \\frac{hv}{kT}} = \\frac{1}{e^{\\frac{hv}{kT}} - 1}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 753,
+      "bottomRightX": 584,
+      "bottomRightY": 814,
+      "content": "¹) A. Einstein, Sitzungsber. d. Preuß. Akad. d. Wiss. 1925, S. 3. Für die Beurteilung der Einsteinschen Hypothese, daß auch auf das ideale Gas diese Form der Statistik anzuwenden sei, können unsere Betrachtungen natürlich keinen neuen Gesichtspunkt ergeben.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 813,
+      "bottomRightX": 584,
+      "bottomRightY": 919,
+      "content": "²) Natürlich muß dieser Ausdruck auch beispielsweise für die elastischen Wellen in einem Kontinuum angenommen werden, wodurch eine gewisse Abänderung an einer von Schrödinger (Phys. ZS. 25, 89, 1924) gegebenen Betrachtung über das thermische Gleichgewicht zwischen Licht- und Schallstrahlen nötig wird. Diese Abänderung ist leicht auszuführen in Analogie zum Wahrscheinlichkeitsansatz für den Comptoneffekt unter Annahme der Einsteinschen Gastheorie, wie er früher (P. Jordan, ZS. f. Phys. 33, 649, 1925) mitgeteilt wurde.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

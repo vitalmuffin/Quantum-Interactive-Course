@@ -1,0 +1,110 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 106,
+      "topLeftY": 104,
+      "bottomRightX": 135,
+      "bottomRightY": 122,
+      "content": "178",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 179,
+      "bottomRightX": 539,
+      "bottomRightY": 198,
+      "content": "## Plancks Gesetz und Lichtquantenhypothese.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 206,
+      "bottomRightX": 457,
+      "bottomRightY": 222,
+      "content": "Von Bose (Dacca-University, Indien).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 226,
+      "bottomRightX": 437,
+      "bottomRightY": 241,
+      "content": "(Eingegangen am 2. Juli 1924.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 249,
+      "bottomRightX": 583,
+      "bottomRightY": 310,
+      "content": "Der Phasenraum eines Lichtquants in bezug auf ein gegebenes Volumen wird in „Zellen“ von der Größe $h^3$ aufgeteilt. Die Zahl der möglichen Verteilungen der Lichtquanten einer makroskopisch definierten Strahlung unter diese Zellen liefert die Entropie und damit alle thermodynamischen Eigenschaften der Strahlung.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 317,
+      "bottomRightX": 583,
+      "bottomRightY": 497,
+      "content": "Plancks Formel für die Verteilung der Energie in der Strahlung des schwarzen Körpers bildet den Ausgangspunkt für die Quantentheorie, welche in den letzten 20 Jahren entwickelt worden ist und in allen Gebieten der Physik reiche Früchte getragen hat. Seit der Publikation im Jahre 1901 sind viele Arten der Ableitung dieses Gesetzes vorgeschlagen worden. Es ist anerkannt, daß die fundamentalen Voraussetzungen der Quantentheorie unvereinbar sind mit den Gesetzen der klassischen Elektrodynamik. Alle bisherigen Ableitungen machen Gebrauch von der Relation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 495,
+      "bottomRightX": 415,
+      "bottomRightY": 530,
+      "content": "$$\\varrho_v dv = \\frac{8 \\pi v^2 dv}{c^3} E,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 538,
+      "bottomRightX": 583,
+      "bottomRightY": 699,
+      "content": "d. h. von der Relation zwischen der Strahlungsdichte und der mittleren Energie eines Oszillators, und sie machen Annahmen über die Zahl der Freiheitsgrade des Äthers, wie sie in obige Gleichung eingeht (erster Faktor der rechten Seite). Dieser Faktor konnte jedoch nur aus der klassischen Theorie hergeleitet werden. Dies ist der unbefriedigende Punkt in allen Ableitungen, und es kann nicht wundernehmen, daß immer wieder Anstrengungen gemacht werden, eine Ableitung zu geben, die von diesem logischen Fehler frei ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 700,
+      "bottomRightX": 581,
+      "bottomRightY": 798,
+      "content": "Eine bemerkenswert elegante Ableitung ist von Einstein angegeben worden. Dieser hat den logischen Mangel aller bisherigen Ableitungen erkannt und versucht, die Formel unabhängig von der klassischen Theorie zu deduzieren. Von sehr einfachen Annahmen über den Energieaustausch zwischen Molekülen und Strahlungsfeld ausgehend, findet er die Relation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 806,
+      "bottomRightX": 408,
+      "bottomRightY": 855,
+      "content": "$$\\varrho_v = \\frac{u_{mn}}{e^{\\frac{\\varepsilon_m - \\varepsilon_n}{kT}} - 1}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 859,
+      "bottomRightX": 580,
+      "bottomRightY": 920,
+      "content": "Indessen muß er, um diese Formel mit der Planckschen in Übereinstimmung zu bringen, von Wiens Verschiebungsgesetz und Bohrs Korrespondenzprinzip Gebrauch machen. Wiens Gesetz ist auf die klassische",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

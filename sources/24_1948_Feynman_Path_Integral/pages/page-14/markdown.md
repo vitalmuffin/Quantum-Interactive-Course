@@ -1,0 +1,15 @@
+This is similar to (15) except for the integration over the additional variable $x_k$, and the extra term in the sum in the exponent. This term means that the integral of (15') is the same as the integral of (15) except for the factor $(1/A)\exp(i/\hbar)S(x_{k+1}, x_k)$. Since this does not contain any of the variables $x_i$, for $i$ less than $k$, all of the integrations on $dx$, up to $dx_{k-1}$ can be performed with this factor left out. However, the result of these integrations is by (15) simply $\psi(x_k, t)$. Hence, we find from (15') the relation
+
+$$\psi(x_{k+1}, t + \epsilon) = \int \exp\left[\frac{i}{\hbar}S(x_{k+1}, x_k)\right] \psi(x_k, t) dx_k / A. \quad (18)$$
+
+This relation giving the development of $\psi$ with time will be shown, for simple examples, with suitable choice of $A$, to be equivalent to Schroedinger's equation. Actually, Eq. (18) is not exact, but is only true in the limit $\epsilon \rightarrow 0$ and we shall derive the Schroedinger equation by assuming (18) is valid to first order in $\epsilon$. The Eq. (18) *need* only be true for small $\epsilon$ to the first order in $\epsilon$. For if we consider the factors in (15) which carry us over a finite interval of time, $T$, the number of factors is $T/\epsilon$. If an error of order $\epsilon^2$ is made in each, the resulting error will not accumulate beyond the order $\epsilon^2(T/\epsilon)$ or $T\epsilon$, which vanishes in the limit.
+
+We shall illustrate the relation of (18) to Schroedinger's equation by applying it to the simple case of a particle moving in one dimension in a potential $V(x)$. Before we do this, however, we would like to discuss some approximations to the value $S(x_{i+1}, x_i)$ given in (11) which will be sufficient for expression (18).
+
+The expression defined in (11) for $S(x_{i+1}, x_i)$ is difficult to calculate exactly for arbitrary $\epsilon$ from classical mechanics. Actually, it is only necessary that an approximate expression for $S(x_{i+1}, x_i)$ be used in (18), provided the error of the approximation be of an order smaller than the first in $\epsilon$. We limit ourselves to the case that the Lagrangian is a quadratic, but perhaps inhomogeneous, form in the velocities $\dot{x}(t)$. As we shall see later, the paths which are important are those for which $x_{i+1} - x_i$ is of order $\epsilon^{1/2}$. Under these circumstances, it is sufficient to calculate the integral in (11) over the classical path taken by a *free* particle.$^{11}$ In *Cartesian coordinates*$^{12}$ the path of a free particle is a straight line so the integral of (11) can be taken
+
+$^{11}$It is assumed that the 'forces' enter through a scalar and vector potential and not in terms involving the square of the velocity. More generally, what is meant by a free particle is one for which the Lagrangian is altered by omission of the terms linear in, and those independent of, the velocities.
+
+$^{12}$More generally, coordinates for which the terms quadratic in the velocity in $L(\dot{x}, x)$ appear with constant coefficients.
+
+14

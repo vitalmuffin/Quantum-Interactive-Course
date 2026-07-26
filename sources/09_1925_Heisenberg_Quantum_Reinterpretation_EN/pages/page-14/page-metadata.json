@@ -1,0 +1,146 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 165,
+      "bottomRightX": 605,
+      "bottomRightY": 200,
+      "content": "about the nucleus. The \"quantum condition\" in Eq. 34 yields according to Eq. 27:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 306,
+      "topLeftY": 200,
+      "bottomRightX": 605,
+      "bottomRightY": 231,
+      "content": "$$h = \\frac{d}{dn}(2\\pi m a^2 \\omega) \\quad , \\tag{63}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 236,
+      "bottomRightX": 288,
+      "bottomRightY": 253,
+      "content": "and according to Eq. 34:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 265,
+      "bottomRightX": 605,
+      "bottomRightY": 290,
+      "content": "$$h = 2\\pi m \\left\\{ a^2 \\omega(n+1, n) - a^2 \\omega(n, n-1) \\right\\} \\quad , \\tag{64}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 301,
+      "bottomRightX": 394,
+      "bottomRightY": 317,
+      "content": "from which, in both cases, it follows that:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 329,
+      "bottomRightX": 605,
+      "bottomRightY": 364,
+      "content": "$$\\omega(n, n-1) = \\frac{h(n + \\text{const})}{2\\pi m a^2} \\quad . \\tag{65}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 374,
+      "bottomRightX": 605,
+      "bottomRightY": 406,
+      "content": "The condition that the radiation should vanish in the ground state ($n_0 = 0$) leads to the formula:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 406,
+      "bottomRightX": 605,
+      "bottomRightY": 438,
+      "content": "$$\\omega(n, n-1) = \\frac{h n}{2\\pi m a^2} \\quad . \\tag{66}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 441,
+      "bottomRightX": 221,
+      "bottomRightY": 459,
+      "content": "The energy is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 458,
+      "bottomRightX": 605,
+      "bottomRightY": 486,
+      "content": "$$W = \\frac{m}{2} v^2 \\tag{67}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 490,
+      "bottomRightX": 252,
+      "bottomRightY": 507,
+      "content": "or, from Eq. 20, 21",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 157,
+      "topLeftY": 520,
+      "bottomRightX": 605,
+      "bottomRightY": 556,
+      "content": "$$W = \\frac{m}{2} a^2 \\frac{\\omega^2(n, n-1) + \\omega^2(n+1, n)}{2} = \\frac{h^2}{8\\pi^2 m a^2} (n^2 + n + \\frac{1}{2}) \\quad , \\tag{68}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 568,
+      "bottomRightX": 607,
+      "bottomRightY": 743,
+      "content": "which again satisfies the condition $\\omega(n, n-1) = \\frac{2\\pi}{h} [W(n) - W(n-1)]$. As support for the validity of Eq. 66 and 68, which differ from those of the usual theory, it can be seen that according to Kratzer$^4$, many band spectra (also those where the existence of an electron momentum is improbable) seem to require formulae of the type of Eq. 66, 68 (which we up to now tried to explain in the context of the classical-mechanical theory with half integer quantization). In order to obtain the Goudsmit-Kronig-Hönl formula for the rotator we have to leave the field of one degree of freedom problems and assume that the rotator is subject to a very slow precession around the z-axis of an external field, whatever its direction in space is. Let the quantum",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 752,
+      "bottomRightX": 549,
+      "bottomRightY": 769,
+      "content": "$^4$Cf. for example, B.A. Kratzer, Sitzungsber. d. Bayr. Akad. (1922) p 107.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 831,
+      "bottomRightX": 377,
+      "bottomRightY": 845,
+      "content": "14",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

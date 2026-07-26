@@ -1,0 +1,155 @@
+{
+  "index": 12,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 534,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "13",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 112,
+      "bottomRightX": 677,
+      "bottomRightY": 132,
+      "content": "$$\\mathfrak{S}_x = \\sin \\vartheta \\cos \\varphi, \\quad \\mathfrak{S}_y = \\sin \\vartheta \\sin \\varphi, \\quad \\mathfrak{S}_z = \\cos \\vartheta \\tag{16}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 154,
+      "bottomRightX": 347,
+      "bottomRightY": 172,
+      "content": "and set $\\cos \\vartheta = \\mu$; we will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 189,
+      "bottomRightX": 603,
+      "bottomRightY": 224,
+      "content": "$$u_0 = \\int_0^{2\\pi} d\\varphi \\int_{-1}^{+1} d\\mu c \\left[ \\sqrt{1-\\mu^2} (a_{11} \\cos \\varphi + a_{12} \\sin \\varphi) + \\mu a_{13}, \\cdots \\right] e^{ikZ\\mu}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 244,
+      "bottomRightX": 403,
+      "bottomRightY": 262,
+      "content": "It follows from this by partial integration that:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 281,
+      "bottomRightX": 649,
+      "bottomRightY": 360,
+      "content": "$$\\begin{aligned} u_0 &= \\frac{1}{ikZ} \\int_0^{2\\pi} d\\varphi \\left[ c(a_{13}, a_{23}, a_{33}) e^{ikZ} - c(-a_{13}, -a_{23}, -a_{33}) e^{-ikZ} \\right] \\\\ &- \\frac{1}{ikZ} \\int_0^{2\\pi} d\\varphi \\frac{d}{d\\mu} c \\left[ \\sqrt{1-\\mu^2} (a_{11} \\cos \\varphi + a_{12} \\sin \\varphi) + \\mu a_{13}, \\cdots \\right] e^{ikZ\\mu} d\\mu. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 379,
+      "bottomRightX": 678,
+      "bottomRightY": 456,
+      "content": "Repeated application of the same process shows that the second term vanishes like $Z^{-2}$. If one now introduces $Z = r$, $a_{13} = \\frac{x}{Z} = \\frac{x}{r}$, ... then one will get the asymptotic representation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 457,
+      "bottomRightX": 677,
+      "bottomRightY": 502,
+      "content": "$$u_0^\\infty(x, y, z) = \\frac{2\\pi}{ikr} \\left\\{ c\\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) e^{ikr} - c\\left(-\\frac{x}{r}, -\\frac{y}{r}, -\\frac{z}{r}\\right) e^{-ikr} \\right\\}, \\tag{17}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 519,
+      "bottomRightX": 344,
+      "bottomRightY": 540,
+      "content": "or, in real notation, with $c = |c| e^{ik\\gamma}$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 540,
+      "bottomRightX": 677,
+      "bottomRightY": 606,
+      "content": "$$u_0^\\infty(x, y, z) = \\frac{4\\pi}{k} \\left| c\\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) \\right| \\frac{\\sin k \\left[ r + \\gamma \\left(\\frac{x}{r}, \\frac{y}{r}, \\frac{z}{r}\\right) \\right]}{r}. \\tag{18}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 626,
+      "bottomRightX": 678,
+      "bottomRightY": 704,
+      "content": "That means that $u_0$ behaves asymptotically like a spherical wave with an amplitude and phase that depends upon the direction. The intensity, as a function of the direction $\\mathfrak{s} = \\mathfrak{r} / r$, determines the flux of the particles that flow through the solid angle element $d\\omega$ with the axis $\\mathfrak{s}$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 709,
+      "bottomRightX": 677,
+      "bottomRightY": 731,
+      "content": "$$\\Phi_0 d\\omega = |c(\\mathfrak{s})|^2 d\\omega \\tag{19}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 768,
+      "bottomRightX": 675,
+      "bottomRightY": 804,
+      "content": "§ 6. Elastic collisions. We now go on to the integration of the general equation (5), § 5:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 804,
+      "bottomRightX": 677,
+      "bottomRightY": 824,
+      "content": "$$\\Delta\\psi + (k^2 - V) \\psi = 0; \\tag{1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 841,
+      "bottomRightX": 675,
+      "bottomRightY": 879,
+      "content": "physically, it represents the case in which an electron collides with an atom that cannot be excited by that.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

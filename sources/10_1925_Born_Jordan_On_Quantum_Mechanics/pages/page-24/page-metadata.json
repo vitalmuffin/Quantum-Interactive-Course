@@ -1,0 +1,137 @@
+{
+  "index": 23,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 281,
+      "topLeftY": 99,
+      "bottomRightX": 412,
+      "bottomRightY": 115,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 555,
+      "topLeftY": 102,
+      "bottomRightX": 583,
+      "bottomRightY": 118,
+      "content": "881",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 136,
+      "bottomRightX": 365,
+      "bottomRightY": 154,
+      "content": "Die erste der Gleichungen (73) liefert:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 159,
+      "bottomRightX": 583,
+      "bottomRightY": 233,
+      "content": "$$\\left. \\begin{aligned} 2 \\omega_0 a_n \\omega_{n,n+1}^{(2)} + 2 a_n x_{n+1} + 2 a_n x_n + \\bar{a}_{n-1} x'_{n-1} + a_{n+1} x'_n &= 0, \\\\ - 8 \\omega_0^2 y'_n + a_n x'_{n+1} + a_{n+2} x'_n &= 0, \\\\ \\omega_{n,n-2}^{(1)} &= 0, \\end{aligned} \\right\\} (77)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 239,
+      "bottomRightX": 583,
+      "bottomRightY": 279,
+      "content": "die zweite Gleichung ist nicht identisch erfüllt, sondern liefert eine Bestimmungsgleichung für $y_n$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 285,
+      "bottomRightX": 583,
+      "bottomRightY": 354,
+      "content": "$$\\left. \\begin{aligned} a_n \\bar{y}_n + \\bar{a}_n y_n - a_{n-1} \\bar{y}_{n-1} - \\bar{a}_{n-1} y_{n-1} + 2 |x'|^2 - 2 |x'_{n-2}|^2 \\\\ - \\frac{\\omega_{n,n+1}^{(2)}}{\\omega_0} |a_n|^2 - \\frac{\\omega_{n,n-1}^{(2)}}{\\omega_0} |a_{n-1}|^2 &= 0. \\end{aligned} \\right\\} (78)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 358,
+      "bottomRightX": 232,
+      "bottomRightY": 375,
+      "content": "Die Lösung lautet:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 379,
+      "bottomRightX": 583,
+      "bottomRightY": 460,
+      "content": "$$\\left. \\begin{aligned} \\omega_{n,n+1}^{(2)} &= \\frac{1}{3 \\omega_0^3} (|a_{n+1}|^2 + |a_{n-1}|^2 + 3 |a_n|^2), \\\\ y'_n &= \\frac{1}{12 \\omega_0^4} a_n a_{n+1} a_{n+2}. \\end{aligned} \\right\\} (79)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 465,
+      "bottomRightX": 321,
+      "bottomRightY": 483,
+      "content": "Setzt man ferner zur Abkürzung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 272,
+      "topLeftY": 492,
+      "bottomRightX": 583,
+      "bottomRightY": 512,
+      "content": "$$\\eta_n = a_n \\bar{y}_n + \\bar{a}_n y_n, \\quad (80)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 519,
+      "bottomRightX": 358,
+      "bottomRightY": 537,
+      "content": "so bestimmt sich $\\eta$ aus der Gleichung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 543,
+      "bottomRightX": 583,
+      "bottomRightY": 620,
+      "content": "$$\\left. \\begin{aligned} \\eta_n - \\eta_{n-1} &= \\frac{1}{\\omega_0^4} (|a_n|^4 - |a_{n-1}|^4 + \\frac{1}{9} |a_n|^2 |a_{n+1}|^2 \\\\ - \\frac{1}{9} |a_{n-1}|^2 |a_{n-2}|^2). \\end{aligned} \\right\\} (81)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 631,
+      "bottomRightX": 583,
+      "bottomRightY": 871,
+      "content": "Die Ausdrücke (76) und (79) zeigen, daß die Größen $x_n, x'_n, y'_n$ sich durch die Lösung der nullten Näherung $a_n$ ausdrücken. Ihre Phasen sind also durch die des harmonischen Oszillators festgelegt. Anders scheint es bei der Größe $y_n$ zu liegen; denn zwar ist $\\eta_n$ aus (81) eindeutig zu bestimmen, aber dann läßt sich $y_n$ aus (80) nicht völlig festlegen. Es ist wahrscheinlich, daß bei der folgenden Näherung eine ergänzende Bestimmungsgleichung für $y_n$ entsteht; wir müssen diese Frage hier offen lassen, möchten aber auf ihre prinzipielle Bedeutung für die Geschlossenheit der ganzen Theorie hinweisen. Denn es kommt für alle statistischen Fragen durchaus darauf an, ob unsere Vermutung richtig ist, daß von den Phasen der $q(nm)$ eine in jeder Zeile (oder in jeder Kolonne) der Matrix unbestimmt bleibt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 873,
+      "bottomRightX": 580,
+      "bottomRightY": 913,
+      "content": "Zum Schluß wollen wir die expliziten Formeln angeben, die man erhält, wenn man die vorher (§ 5) gefundene Lösung des harmonischen",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

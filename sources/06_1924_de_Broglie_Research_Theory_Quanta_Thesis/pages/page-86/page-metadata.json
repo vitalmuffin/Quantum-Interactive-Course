@@ -1,0 +1,155 @@
+{
+  "index": 85,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 54,
+      "topLeftY": 26,
+      "bottomRightX": 87,
+      "bottomRightY": 46,
+      "content": "106",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 29,
+      "bottomRightX": 391,
+      "bottomRightY": 47,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 69,
+      "bottomRightX": 575,
+      "bottomRightY": 169,
+      "content": "L'entropie maxima est déterminée par la relation : δS = 0.\nLa méthode des coefficients indéterminés nous apprend que,\npour réaliser cette condition il faut satisfaire à l'équation :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 178,
+      "bottomRightX": 460,
+      "bottomRightY": 224,
+      "content": "$$\\sum_{1}^{m} \\left[ \\log n_i + \\eta + \\beta s_i \\right] \\delta n_i = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 242,
+      "bottomRightX": 573,
+      "bottomRightY": 291,
+      "content": "où η et β sont des constantes, et cela quelque soient les\nδηi.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 294,
+      "bottomRightX": 573,
+      "bottomRightY": 346,
+      "content": "On en conclut que la distribution la plus probable, la\nseule réalisée dans la pratique, est régie par la loi :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 359,
+      "bottomRightX": 471,
+      "bottomRightY": 392,
+      "content": "$$n_i = \\alpha e^{-\\beta s_i} \\quad (\\alpha = e^{-\\eta})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 404,
+      "bottomRightX": 573,
+      "bottomRightY": 483,
+      "content": "C'est la distribution dite « canonique ». L'entropie thermodynamique du système correspondant à cette distribution\nla plus probable, est donnée par :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 499,
+      "bottomRightX": 487,
+      "bottomRightY": 543,
+      "content": "$$S = k \\mathfrak{H} \\log \\mathfrak{H} - \\sum_{1}^{m} \\left[ k \\alpha e^{-\\beta s_i} (\\log \\alpha - \\beta s_i) \\right]$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 547,
+      "bottomRightX": 150,
+      "bottomRightY": 571,
+      "content": "ou puisque",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 575,
+      "bottomRightX": 334,
+      "bottomRightY": 621,
+      "content": "$$\\sum_{1}^{m} n_i = \\mathfrak{H}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 626,
+      "bottomRightX": 68,
+      "bottomRightY": 644,
+      "content": "et",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 211,
+      "topLeftY": 651,
+      "bottomRightX": 405,
+      "bottomRightY": 697,
+      "content": "$$\\sum_{1}^{m} s_i n_i = \\text{énergie totale E}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 715,
+      "bottomRightX": 507,
+      "bottomRightY": 760,
+      "content": "$$S = k \\mathfrak{H} \\log \\frac{\\mathfrak{H}}{\\alpha} + k \\beta E = k \\mathfrak{H} \\log \\sum_{1}^{m} e^{-\\beta s_i} + k \\beta E$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 776,
+      "bottomRightX": 573,
+      "bottomRightY": 828,
+      "content": "Pour déterminer β nous emploierons la relation thermodynamique :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 842,
+      "bottomRightX": 570,
+      "bottomRightY": 982,
+      "content": "$$\\frac{1}{T} = \\frac{dS}{dE} = \\frac{\\partial S}{\\partial \\beta} \\cdot \\frac{\\partial \\beta}{\\partial E} + \\frac{\\partial S}{\\partial E}$$\n$$= -k \\mathfrak{H} \\frac{\\sum_{1}^{m} s_i e^{-\\beta s_i}}{\\sum_{1}^{m} e^{-\\beta s_i}} \\frac{d\\beta}{dE} + k E \\frac{d\\beta}{dE} + k \\beta$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

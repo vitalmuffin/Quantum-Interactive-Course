@@ -1,0 +1,1115 @@
+{
+  "document_id": "18_1917_einstein_quantentheorie_strahlung",
+  "source_filename": "PhysikZeitschr_XVIII_1917_Einstein_Quantentheorie_der_Strahlung.pdf",
+  "metadata": {
+    "title_original": "Zur Quantentheorie der Strahlung",
+    "title_normalized": "Zur Quantentheorie der Strahlung",
+    "authors": [
+      "A. Einstein"
+    ],
+    "publication_year": 1917,
+    "original_language": "de",
+    "journal": "Physikalische Zeitschrift",
+    "volume": "XVIII",
+    "issue": null,
+    "page_range": "121-128",
+    "doi": null,
+    "received_date": "26. Februar 1917",
+    "abstract_original": "Die formale Ähnlichkeit der Kurve der chromatischen Verteilung der Temperaturstrahlung mit Maxwellschen Geschwindigkeits-Verteilungsgesetz ist zu frappant, als daß sie lange hätte verborgen bleiben können. In der vorliegenden Arbeit wird eine Ableitung der Planckschen Strahlungsformel aus quantentheoretischen Grundannahmen über Emission und Absorption von Strahlung durch Moleküle gegeben. Dabei wird gezeigt, dass die Annahme gerichteter Elementarprozesse der Ausstrahlung und Einstrahlung notwendig ist, um eine widerspruchsfreie Theorie zu erhalten. Ferner wird nachgewiesen, dass die Impulsübertragung bei diesen Prozessen zur Maxwellschen Geschwindigkeitsverteilung der Moleküle führt, was als weitere Stütze der Hypothesen dient. Die Arbeit schließt mit einer Diskussion der photographischen Wirkung von Kanalstrahlen, wobei die Möglichkeit scharfer Schwärzungsparabeln auf Trockenplatten diskutiert wird."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "121",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Physik. Zeitschr. XVIII, 1917.",
+          "markdown": "Physik. Zeitschr. XVIII, 1917.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "Einstein, Zur Quantentheorie der Strahlung.",
+          "markdown": "# Einstein, Zur Quantentheorie der Strahlung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.92
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "table",
+          "level": null,
+          "text_original": "|  Manometer für Überdruck | $\\phi = 1$ | 6 | 12 | kg/qcm  |\n| --- | --- | --- | --- | --- |\n|  Halbmesser der Röhrenfeder | $r_0 = 5,50$ | 5,56 | 5,55 | cm  |\n|  Große Halbachse d. Ellipse | $a = 1,138$ | 0,847 | 0,850 | „  |\n|  Kleine „ „ „ | $b = 0,293$ | 0,243 | 0,241 | „  |\n|  Wandstärke „ „ „ | $h = 0,031$ | 0,048 | 0,065 | „  |\n|  Bogenlänge der Röhrenfeder | $\\chi = 270^\\circ$ | 270° | 270° |   |\n|  Aufbiegung nach Versuch | $d\\chi: \\phi = 4,575$ | 0,896 | 0,454 |   |\n|  „ „ Gl. (25a) | $d\\chi: \\phi = 0,982$ | 0,766 | 0,578 |   |",
+          "markdown": "| Manometer für Überdruck | $\\phi = 1$ | 6 | 12 | kg/qcm |\n| --- | --- | --- | --- | --- |\n| Halbmesser der Röhrenfeder | $r_0 = 5,50$ | 5,56 | 5,55 | cm |\n| Große Halbachse d. Ellipse | $a = 1,138$ | 0,847 | 0,850 | „ |\n| Kleine „ „ „ | $b = 0,293$ | 0,243 | 0,241 | „ |\n| Wandstärke „ „ „ | $h = 0,031$ | 0,048 | 0,065 | „ |\n| Bogenlänge der Röhrenfeder | $\\chi = 270^\\circ$ | 270° | 270° | |\n| Aufbiegung nach Versuch | $d\\chi: \\phi = 4,575$ | 0,896 | 0,454 | |\n| „ „ Gl. (25a) | $d\\chi: \\phi = 0,982$ | 0,766 | 0,578 | |",
+          "asset_id": "table_p001_01",
+          "suggested_filename": "tables/table_p001_01.csv",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.55,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Mit Rücksicht auf die nur unvollkommene Ellipsengestalt der Meridiankurven sowie auf die Verlötung der Enden, welche zweifellos die der Theorie zugrunde liegende Achsensymmetrie um $ZZ$ beeinträchtigt, kann man die Abweichungen der berechneten und gefundenen Aufbiegungen an der 6 kg- und 12 kg-Röhrenfeder als zulässig hinnehmen, zumal sie entgegengesetzte Vorzeichen besitzen. Bei der schwachen 1 kg Feder dagegen reicht dies zur Erklärung einer 4,8fachen Aufbiegung jedenfalls nicht aus, so daß man hierfür auf die strengere Formel (18) zurückgreifen müßte. Außerdem ist es nicht unwahrscheinlich, daß in diesem Falle die Doppelsymmetrie bei der Formänderung verloren gegangen ist, ein Umstand, dem man in Gl. (8) näherungsweise durch Hinzufügung eines oder mehrerer Terme mit geraden Vielfachen von $\\eta$ genügen könnte.",
+          "markdown": "Mit Rücksicht auf die nur unvollkommene Ellipsengestalt der Meridiankurven sowie auf die Verlötung der Enden, welche zweifellos die der Theorie zugrunde liegende Achsensymmetrie um $ZZ$ beeinträchtigt, kann man die Abweichungen der berechneten und gefundenen Aufbiegungen an der 6 kg- und 12 kg-Röhrenfeder als zulässig hinnehmen, zumal sie entgegengesetzte Vorzeichen besitzen. Bei der schwachen 1 kg Feder dagegen reicht dies zur Erklärung einer 4,8fachen Aufbiegung jedenfalls nicht aus, so dass man hierfür auf die strengere Formel (18) zurückgreifen müsste. Außerdem ist es nicht unwahrscheinlich, dass in diesem Falle die Doppelsymmetrie bei der Formänderung verloren gegangen ist, ein Umstand, dem man in Gl. (8) näherungsweise durch Hinzufügung eines oder mehrerer Terme mit geraden Vielfachen von $\\eta$ genügen könnte.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.55
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Danzig-Langfuhr, Techn. Hochschule.\n\n(Eingegangen 26. Februar 1917.)",
+          "markdown": "Danzig-Langfuhr, Techn. Hochschule.\n\n(Eingegangen 26. Februar 1917.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.35,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Zur Quantentheorie der Strahlung.",
+          "markdown": "## Zur Quantentheorie der Strahlung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.25,
+            0.95,
+            0.35
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Von A. Einstein$^{1)}$",
+          "markdown": "Von A. Einstein$^{1)}$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.25
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die formale Ähnlichkeit der Kurve der chromatischen Verteilung der Temperaturstrahlung mit Maxwellschen Geschwindigkeits-Verteilungsgesetz ist zu frappant, als daß sie lange hätte verborgen bleiben können. In der Tat wurde bereits W. Wien in der wichtigen theoretischen Arbeit, in welcher er sein Verschiebungsgesetz\n\n$$\\varrho = \\nu^3 f \\left( \\frac{\\nu}{T} \\right) \\quad (1)$$",
+          "markdown": "Die formale Ähnlichkeit der Kurve der chromatischen Verteilung der Temperaturstrahlung mit Maxwellschen Geschwindigkeits-Verteilungsgesetz ist zu frappant, als dass sie lange hätte verborgen bleiben können. In der Tat wurde bereits W. Wien in der wichtigen theoretischen Arbeit, in welcher er sein Verschiebungsgesetz\n\n$$\\varrho = \\nu^3 f \\left( \\frac{\\nu}{T} \\right) \\quad (1)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.2
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "ableitete, durch diese Ähnlichkeit auf eine weitergehende Bestimmung der Strahlungsformel geführt. Er fand hierbei bekanntlich die Formel\n\n$$\\varrho = \\alpha \\nu^3 e^{-\\frac{kr}{kT}} \\quad (2)$$",
+          "markdown": "ableitete, durch diese Ähnlichkeit auf eine weitergehende Bestimmung der Strahlungsformel geführt. Er fand hierbei bekanntlich die Formel\n\n$$\\varrho = \\alpha \\nu^3 e^{-\\frac{kr}{kT}} \\quad (2)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.05,
+            0.95,
+            0.1
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        }
+      ],
+      "page_markdown_original": "# Physik. Zeitschr. XVIII, 1917.\n\n# Einstein, Zur Quantentheorie der Strahlung.\n\n| Manometer für Überdruck | $\\phi = 1$ | 6 | 12 | kg/qcm |\n| --- | --- | --- | --- | --- |\n| Halbmesser der Röhrenfeder | $r_0 = 5,50$ | 5,56 | 5,55 | cm |\n| Große Halbachse d. Ellipse | $a = 1,138$ | 0,847 | 0,850 | „ |\n| Kleine „ „ „ | $b = 0,293$ | 0,243 | 0,241 | „ |\n| Wandstärke „ „ „ | $h = 0,031$ | 0,048 | 0,065 | „ |\n| Bogenlänge der Röhrenfeder | $\\chi = 270^\\circ$ | 270° | 270° | |\n| Aufbiegung nach Versuch | $d\\chi: \\phi = 4,575$ | 0,896 | 0,454 | |\n| „ „ Gl. (25a) | $d\\chi: \\phi = 0,982$ | 0,766 | 0,578 | |\n\nMit Rücksicht auf die nur unvollkommene Ellipsengestalt der Meridiankurven sowie auf die Verlötung der Enden, welche zweifellos die der Theorie zugrunde liegende Achsensymmetrie um $ZZ$ beeinträchtigt, kann man die Abweichungen der berechneten und gefundenen Aufbiegungen an der 6 kg- und 12 kg-Röhrenfeder als zulässig hinnehmen, zumal sie entgegengesetzte Vorzeichen besitzen. Bei der schwachen 1 kg Feder dagegen reicht dies zur Erklärung einer 4,8fachen Aufbiegung jedenfalls nicht aus, so dass man hierfür auf die strengere Formel (18) zurückgreifen müsste. Außerdem ist es nicht unwahrscheinlich, dass in diesem Falle die Doppelsymmetrie bei der Formänderung verloren gegangen ist, ein Umstand, dem man in Gl. (8) näherungsweise durch Hinzufügung eines oder mehrerer Terme mit geraden Vielfachen von $\\eta$ genügen könnte.\n\nDanzig-Langfuhr, Techn. Hochschule.\n\n(Eingegangen 26. Februar 1917.)\n\n## Zur Quantentheorie der Strahlung.\n\nVon A. Einstein$^{1)}$\n\nDie formale Ähnlichkeit der Kurve der chromatischen Verteilung der Temperaturstrahlung mit Maxwellschen Geschwindigkeits-Verteilungsgesetz ist zu frappant, als daß sie lange hätte verborgen bleiben können. In der Tat wurde bereits W. Wien in der wichtigen theoretischen Arbeit, in welcher er sein Verschiebungsgesetz\n\n$$\\varrho = \\nu^3 f \\left( \\frac{\\nu}{T} \\right) \\quad (1)$$",
+      "word_count": 120,
+      "page_quality_notes": [
+        "Tabelle mit technischen Daten zur Röhrenfeder (Seite 121) – möglicherweise Teil eines anderen Artikels oder Anhang",
+        "Formeln in Frakturschrift erfordern manuelle Überprüfung der korrekten Darstellung"
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "122",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Physik. Zeitschr. XVIII, 1917.",
+          "markdown": "Physik. Zeitschr. XVIII, 1917.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "122",
+          "markdown": "122",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "Einstein, Zur Quantentheorie der Strahlung.",
+          "markdown": "# Einstein, Zur Quantentheorie der Strahlung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.92
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Von A. Einstein$^{1)}$",
+          "markdown": "Von A. Einstein$^{1)}$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.8,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "welche als Grenzgesetz für große Werte von $\\frac{\\nu}{T}$ auch heute als richtig anerkannt wird (Wien-\n(Wiensche Strahlungsformel). Heute wissen wir, daß keine Betrachtung, welche auf die klassische Mechanik und Elektrodynamik aufgebaut ist, eine brauchbare Strahlungsformel liefern kann, sondern daß die klassische Theorie notwendig auf die Rayleighsche Formel\n\n$$\\varrho = \\frac{ka}{h} \\nu^2 T \\quad (3)$$",
+          "markdown": "welche als Grenzgesetz für große Werte von $\\frac{\\nu}{T}$ auch heute als richtig anerkannt wird (Wien-\n(Wiensche Strahlungsformel). Heute wissen wir, dass keine Betrachtung, welche auf die klassische Mechanik und Elektrodynamik aufgebaut ist, eine brauchbare Strahlungsformel liefern kann, sondern dass die klassische Theorie notwendig auf die Rayleighsche Formel\n\n$$\\varrho = \\frac{ka}{h} \\nu^2 T \\quad (3)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.8
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "führt. Als dann Planck in seiner grundlegenden Untersuchung seine Strahlungsformel\n\n$$\\varrho = \\alpha \\nu^3 \\frac{1}{e^{\\frac{kr}{kT}} - 1} \\quad (4)$$",
+          "markdown": "führt. Als dann Planck in seiner grundlegenden Untersuchung seine Strahlungsformel\n\n$$\\varrho = \\alpha \\nu^3 \\frac{1}{e^{\\frac{kr}{kT}} - 1} \\quad (4)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "auf die Voraussetzung von diskreten Energie-Elementen gegründet hatte, aus welcher sich in rascher Folge die Quantentheorie entwickelte, geriet jene Wiensche Überlegung, welche zur Gleichung (2) geführt hatte, naturgemäß wieder in Vergessenheit.\n\nVor kurzem nun fand ich eine der ursprünglichen Wienschen Betrachtung$^{1)}$ verwandte, auf die Grundvoraussetzung der Quantentheorie sich stützende Ableitung der Planckschen Strahlungsformel, in welcher die Beziehung der Maxwellschen Kurve zu der chromatischen Verteilungskurve zur Geltung kommt. Diese Ableitung verdient nicht nur wegen ihrer Einfachheit Beachtung, sondern besonders deshalb, weil sie über den für uns noch so dunklen Vorgang der Emission und Absorption der Strahlung durch die Materie einige Klarheit zu bringen scheint. Indem ich einige vom Standpunkte der Quantentheorie naheliegende Hypothesen über die Strahlungs-Emission und -Absorption von Molekülen zugrunde legte, zeigte ich, daß Moleküle mit im Sinne der Quantentheorie bei Temperaturgleichgewicht verteilten Zuständen, im dynamischen Gleichgewicht mit Planckscher Strahlung stehen; es ergab sich auf diesem Wege die Plancksche Formel (4) in verblüffend einfacher und allgemeiner Weise. Sie ergab sich aus der Bedingung, daß die von der Quantentheorie geforderte Zustandsverteilung der inneren Energie der Moleküle allein durch Absorption",
+          "markdown": "auf die Voraussetzung von diskreten Energie-Elementen gegründet hatte, aus welcher sich in rascher Folge die Quantentheorie entwickelte, geriet jene Wiensche Überlegung, welche zur Gleichung (2) geführt hatte, naturgemäß wieder in Vergessenheit.\n\nVor kurzem nun fand ich eine der ursprünglichen Wienschen Betrachtung$^{1)}$ verwandte, auf die Grundvoraussetzung der Quantentheorie sich stützende Ableitung der Planckschen Strahlungsformel, in welcher die Beziehung der Maxwellschen Kurve zu der chromatischen Verteilungskurve zur Geltung kommt. Diese Ableitung verdient nicht nur wegen ihrer Einfachheit Beachtung, sondern besonders deshalb, weil sie über den für uns noch so dunklen Vorgang der Emission und Absorption der Strahlung durch die Materie einige Klarheit zu bringen scheint. Indem ich einige vom Standpunkte der Quantentheorie naheliegende Hypothesen über die Strahlungs-Emission und -Absorption von Molekülen zugrunde legte, zeigte ich, dass Moleküle mit im Sinne der Quantentheorie bei Temperaturgleichgewicht verteilten Zuständen, im dynamischen Gleichgewicht mit Planckscher Strahlung stehen; es ergab sich auf diesem Wege die Plancksche Formel (4) in verblüffend einfacher und allgemeiner Weise. Sie ergab sich aus der Bedingung, dass die von der Quantentheorie geforderte Zustandsverteilung der inneren Energie der Moleküle allein durch Absorption",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "1) Zuerst abgedruckt in den Mitteilungen der Physikalischen Gesellschaft Zürich. Nr. 18, 1916.",
+          "markdown": "1) Zuerst abgedruckt in den Mitteilungen der Physikalischen Gesellschaft Zürich. Nr. 18, 1916.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.45,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "1) Verh. d. Deutschen physikal. Gesellschaft Nr. 13/14, 1916, S. 318. In der vorliegenden Untersuchung sind die der eben zitierten Abhandlung gegebenen Überlegungen wiederholt.122",
+          "markdown": "1) Verh. d. Deutschen physikal. Gesellschaft Nr. 13/14, 1916, S. 318. In der vorliegenden Untersuchung sind die der eben zitierten Abhandlung gegebenen Überlegungen wiederholt.122",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.45
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Physik. Zeitschr. XVIII, 1917.\n\n# Einstein, Zur Quantentheorie der Strahlung.\n\n## Von A. Einstein$^{1)}$\n\nwelche als Grenzgesetz für große Werte von $\\frac{\\nu}{T}$ auch heute als richtig anerkannt wird (Wien-\n(Wiensche Strahlungsformel). Heute wissen wir, dass keine Betrachtung, welche auf die klassische Mechanik und Elektrodynamik aufgebaut ist, eine brauchbare Strahlungsformel liefern kann, sondern dass die klassische Theorie notwendig auf die Rayleighsche Formel\n\n$$\\varrho = \\frac{ka}{h} \\nu^2 T \\quad (3)$$ führt. Als dann Planck in seiner grundlegenden Untersuchung seine Strahlungsformel\n\n$$\\varrho = \\alpha \\nu^3 \\frac{1}{e^{\\frac{kr}{kT}} - 1} \\quad (4)$$ auf die Voraussetzung von diskreten Energie-Elementen gegründet hatte, aus welcher sich in rascher Folge die Quantentheorie entwickelte, geriet jene Wiensche Überlegung, welche zur Gleichung (2) geführt hatte, naturgemäß wieder in Vergessenheit.\n\nVor kurzem nun fand ich eine der ursprünglichen Wienschen Betrachtung$^{1)}$ verwandte, auf die Grundvoraussetzung der Quantentheorie sich stützende Ableitung der Planckschen Strahlungsformel, in welcher die Beziehung der Maxwellschen Kurve zu der chromatischen Verteilungskurve zur Geltung kommt. Diese Ableitung verdient nicht nur wegen ihrer Einfachheit Beachtung, sondern besonders deshalb, weil sie über den für uns noch so dunklen Vorgang der Emission und Absorption der Strahlung durch die Materie einige Klarheit zu bringen scheint. Indem ich einige vom Standpunkte der Quantentheorie naheliegende Hypothesen über die Strahlungs-Emission und -Absorption von Molekülen zugrunde legte, zeigte ich, dass Moleküle mit im Sinne der Quantentheorie bei Temperaturgleichgewicht verteilten Zuständen, im dynamischen Gleichgewicht mit Planckscher Strahlung stehen; es ergab sich auf diesem Wege die Plancksche Formel (4) in verblüffend einfacher und allgemeiner Weise. Sie ergab sich aus der Bedingung, dass die von der Quantentheorie geforderte Zustandsverteilung der inneren Energie der Moleküle allein durch Absorption\n\n1) Zuerst abgedruckt in den Mitteilungen der Physikalischen Gesellschaft Zürich. Nr. 18, 1916.\n\n1) Verh. d. Deutschen physikal. Gesellschaft Nr. 13/14, 1916, S. 318. In der vorliegenden Untersuchung sind die der eben zitierten Abhandlung gegebenen Überlegungen wiederholt.122",
+      "word_count": 280,
+      "page_quality_notes": [
+        "Formeln in Frakturschrift erfordern manuelle Überprüfung der korrekten Darstellung",
+        "Fußnoten enthalten möglicherweise unvollständige Informationen"
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "123",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Physik. Zeitschr. XVIII, 1917.",
+          "markdown": "Physik. Zeitschr. XVIII, 1917.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "123",
+          "markdown": "123",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "und Emission von Strahlung sich einstellen muss.",
+          "markdown": "## und Emission von Strahlung sich einstellen muss.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.92
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn die eingeführten Hypothesen über die Wechselwirkung von Strahlung und Materie das Richtige treffen, so müssen sie aber noch mehr liefern als die richtige statistische Verteilung der inneren Energie der Moleküle. Bei Absorption und Emission von Strahlung findet nämlich auch eine Impuls-Übertragung auf die Moleküle statt; diese führt dazu, dass sich durch die bloße Wechselwirkung von Strahlung und Molekülen eine bestimmte Geschwindigkeitsverteilung der letzteren einstellt. Diese muss offenbar dieselbe sein wie diejenige Geschwindigkeitsverteilung, welche die Moleküle bei alleiniger Wirkung gegenseitiger Zusammenstöße annehmen, d. h. sie muss mit der Maxwellschen Verteilung übereinstimmen. Es muss gefordert werden, dass die mittlere kinetische Energie, welche ein Molekül (pro Freiheitsgrad) im Planckschen Strahlungsfelde von der Temperatur T annimmt, gleich $\\frac{kT}{2}$ sei; dies muss",
+          "markdown": "Wenn die eingeführten Hypothesen über die Wechselwirkung von Strahlung und Materie das Richtige treffen, so müssen sie aber noch mehr liefern als die richtige statistische Verteilung der inneren Energie der Moleküle. Bei Absorption und Emission von Strahlung findet nämlich auch eine Impuls-Übertragung auf die Moleküle statt; diese führt dazu, dass sich durch die bloße Wechselwirkung von Strahlung und Molekülen eine bestimmte Geschwindigkeitsverteilung der letzteren einstellt. Diese muss offenbar dieselbe sein wie diejenigen Geschwindigkeitsverteilung, welche die Moleküle bei alleiniger Wirkung gegenseitiger Zusammenstöße annehmen, d. h. sie muss mit der Maxwellschen Verteilung übereinstimmen. Es muss gefordert werden, dass die mittlere kinetische Energie, welche ein Molekül (pro Freiheitsgrad) im Planckschen Strahlungsfelde von der Temperatur T annimmt, gleich $\\frac{kT}{2}$ sei; dies muss",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "gelten unabhängig von der Natur der betrachteten Moleküle und unabhängig von den von ihnen absorbierten und emittierten Frequenzen. In dieser Abhandlung wollen wir dartun, dass dieser weitgehenden Forderung in der Tat ganz allgemein genügt wird; dadurch erhalten unsere einfachen Hypothesen über die Elementarvorgänge der Emission und Absorption eine neue Stütze.\n\nDamit das genannte Resultat sich ergebe, bedarf es aber einer gewissen Ergänzung der früher zugrunde gelegten Hypothesen, welche sich lediglich auf den Austausch der Energie bezogen. Es entsteht die Frage: Erhält das Molekül einen Stoß, wenn es die Energie $\\varepsilon$ absorbiert oder emittiert? Betrachten wir vom Standpunkte der klassischen Elektrodynamik beispielsweise die Ausstrahlung. Wenn ein Körper die Energie $\\varepsilon$ ausstrahlt, so erhält er den Rückstoß (Impuls) $\\frac{\\varepsilon}{c}$, wenn die ganze Strahlungsmenge $\\varepsilon$ nach der gleichen Richtung ausgestrahlt wird. Erfolgt aber die Ausstrahlung durch einen räumlich symmetrischen Vorgang, z. B. Kugelwellen, so kommt überhaupt kein Rückstoß zustande. Diese Alternative spielt auch bei der Quantentheorie der Strahlung eine Rolle. Nimmt ein Molekül beim Übergang von einem quantentheoretisch möglichen Zustand in einen andern die Energie $\\varepsilon$ in Form von Strahlung auf, oder gibt es hierbei die Energie in Form von Strahlung ab, so kann ein derartiger Elementarprozeß als ein teilweise oder vollständig räumlich gerichteter oder auch als ein symme-",
+          "markdown": "gelten unabhängig von der Natur der betrachteten Moleküle und unabhängig von den von ihnen absorbierten und emittierten Frequenzen. In dieser Abhandlung wollen wir dartun, dass dieser weitgehenden Forderung in der Tat ganz allgemein genügt wird; dadurch erhalten unsere einfachen Hypothesen über die Elementarvorgänge der Emission und Absorption eine neue Stütze.\n\nDamit das genannte Resultat sich ergebe, bedarf es aber einer gewissen Ergänzung der früher zugrunde gelegten Hypothesen, welche sich lediglich auf den Austausch der Energie bezogen. Es entsteht die Frage: Erhält das Molekül einen Stoß, wenn es die Energie $\\varepsilon$ absorbiert oder emittiert? Betrachten wir vom Standpunkte der klassischen Elektrodynamik beispielsweise die Ausstrahlung. Wenn ein Körper die Energie $\\varepsilon$ ausstrahlt, so erhält er den Rückstoß (Impuls) $\\frac{\\varepsilon}{c}$, wenn die ganze Strahlungsmenge $\\varepsilon$ nach der gleichen Richtung ausgestrahlt wird. Erfolgt aber die Ausstrahlung durch einen räumlich symmetrischen Vorgang, z. B. Kugelwellen, so kommt überhaupt kein Rückstoß zustande. Diese Alternative spielt auch bei der Quantentheorie der Strahlung eine Rolle. Nimmt ein Molekül beim Übergang von einem quantentheoretisch möglichen Zustand in einen andern die Energie $\\varepsilon$ in Form von Strahlung auf, oder gibt es hierbei die Energie in Form von Strahlung ab, so kann ein derartiger Elementarprozeß als ein teilweise oder vollständig räumlich gerichteter oder auch als ein symme-",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "# § 1. Grundhypothese der Quantentheorie Kanonische Zustandsverteilung.",
+          "markdown": "## § 1. Grundhypothese der Quantentheorie Kanonische Zustandsverteilung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nach der Quantentheorie vermag ein Molekül bestimmter Art, abgesehen von seiner Orientierung und Translationsbewegung, nur eine diskrete Reihe von Zuständen $Z_1, Z_2 \\dots Z_n \\dots$ anzunehmen, deren (innere) Energie $\\varepsilon_1, \\varepsilon_2 \\dots \\varepsilon_n \\dots$ sei. Gehören Moleküle dieser Art einen Gas von der Temperatur T an, so ist die relative Häufigkeit $W_n$ dieser Zustände $Z_n$ durch die der kanonischen Zustandsverteilung der statistischen Mechanik entsprechende Formel\n\n$$W_n = p_n c^{-\\frac{\\varepsilon_n}{k}} \\quad (5)$$",
+          "markdown": "Nach der Quantentheorie vermag ein Molekül bestimmter Art, abgesehen von seiner Orientierung und Translationsbewegung, nur eine diskrete Reihe von Zuständen $Z_1, Z_2 \\dots Z_n \\dots$ anzunehmen, deren (innere) Energie $\\varepsilon_1, \\varepsilon_2 \\dots \\varepsilon_n \\dots$ sei. Gehören Moleküle dieser Art einen Gas von der Temperatur T an, so ist die relative Häufigkeit $W_n$ dieser Zustände $Z_n$ durch die der kanonischen Zustandsverteilung der statistischen Mechanik entsprechende Formel\n\n$$W_n = p_n c^{-\\frac{\\varepsilon_n}{k}} \\quad (5)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "gegeben. In dieser Formel ist $k = \\frac{R}{N}$ die bekannte Boltzmannsche Konstante, $p_n$ eine für das Molekül und den n-ten Quantenzustand desselben charakteristische, von T unabhängige Zahl, die als das statistische „Gewicht“ dieses Zustandes bezeichnet werden kann. Die Formel (5) kann aus dem Boltzmannschen Prinzip oder auf rein thermodynamischem Wege abgeleitet werden. Die Gleichung (5) ist der Ausdruck der weitgehendsten Verallgemeinerung des Maxwellschen Verteilungsgesetzes der Geschwindigkeiten.\n\nDie letzten prinzipiellen Fortschritte der Quantentheorie beziehen sich auf die theoretische Ermittlung der quantentheoretisch möglichen Zustände $Z_n$ und deren Gewichte $p_n$. Für die vorliegende prinzipielle Untersuchung ist eine nähere Bestimmung der Quantenzustände nicht erforderlich.",
+          "markdown": "gegeben. In dieser Formel ist $k = \\frac{R}{N}$ die bekannte Boltzmannsche Konstante, $p_n$ eine für das Molekül und den n-ten Quantenzustand desselben charakteristische, von T unabhängige Zahl, die als das statistische „Gewicht“ dieses Zustandes bezeichnet werden kann. Die Formel (5) kann aus dem Boltzmannschen Prinzip oder auf rein thermodynamischem Wege abgeleitet werden. Die Gleichung (5) ist der Ausdruck der weitgehendsten Verallgemeinerung des Maxwellschen Verteilungsgesetzes der Geschwindigkeiten.\n\nDie letzten prinzipiellen Fortschritte der Quantentheorie beziehen sich auf die theoretische Ermittlung der quantentheoretisch möglichen Zustände $Z_n$ und deren Gewichte $p_n$. Für die vorliegende prinzipielle Untersuchung ist eine nähere Bestimmung der Quantenzustände nicht erforderlich.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Physik. Zeitschr. XVIII, 1917.\n\n# Einstein, Zur Quantentheorie der Strahlung.\n\n## und Emission von Strahlung sich einstellen muss.\n\nWenn die eingeführten Hypothesen über die Wechselwirkung von Strahlung und Materie das Richtige treffen, so müssen sie aber noch mehr liefern als die richtige statistische Verteilung der inneren Energie der Moleküle. Bei Absorption und Emission von Strahlung findet nämlich auch eine Impuls-Übertragung auf die Moleküle statt; diese führt dazu, dass sich durch die bloße Wechselwirkung von Strahlung und Molekülen eine bestimmte Geschwindigkeitsverteilung der letzteren einstellt. Diese muss offenbar dieselbe sein wie diejenigen Geschwindigkeitsverteilung, welche die Moleküle bei alleiniger Wirkung gegenseitiger Zusammenstöße annehmen, d. h. sie muss mit der Maxwellschen Verteilung übereinstimmen. Es muss gefordert werden, dass die mittlere kinetische Energie, welche ein Molekül (pro Freiheitsgrad) im Planckschen Strahlungsfelde von der Temperatur T annimmt, gleich $\\frac{kT}{2}$ sei; dies muss gelten unabhängig von der Natur der betrachteten Moleküle und unabhängig von den von ihnen absorbierten und emittierten Frequenzen. In dieser Abhandlung wollen wir dartun, dass dieser weitgehenden Forderung in der Tat ganz allgemein genügt wird; dadurch erhalten unsere einfachen Hypothesen über die Elementarvorgänge der Emission und Absorption eine neue Stütze.\n\nDamit das genannte Resultat sich ergebe, bedarf es aber einer gewissen Ergänzung der früher zugrunde gelegten Hypothesen, welche sich lediglich auf den Austausch der Energie bezogen. Es entsteht die Frage: Erhält das Molekül einen Stoß, wenn es die Energie $\\varepsilon$ absorbiert oder emittiert? Betrachten wir vom Standpunkte der klassischen Elektrodynamik beispielsweise die Ausstrahlung. Wenn ein Körper die Energie $\\varepsilon$ ausstrahlt, so erhält er den Rückstoß (Impuls) $\\frac{\\varepsilon}{c}$, wenn die ganze Strahlungsmenge $\\varepsilon$ nach der gleichen Richtung ausgestrahlt wird. Erfolgt aber die Ausstrahlung durch einen räumlich symmetrischen Vorgang, z. B. Kugelwellen, so kommt überhaupt kein Rückstoß zustande. Diese Alternative spielt auch bei der Quantentheorie der Strahlung eine Rolle. Nimmt ein Molekül beim Übergang von einem quantentheoretisch möglichen Zustand in einen andern die Energie $\\varepsilon$ in Form von Strahlung auf, oder gibt es hierbei die Energie in Form von Strahlung ab, so kann ein derartiger Elementarprozeß als ein teilweise oder vollständig räumlich gerichteter oder auch als ein symme-\n\n## § 1. Grundhypothese der Quantentheorie Kanonische Zustandsverteilung.\n\nNach der Quantentheorie vermag ein Molekül bestimmter Art, abgesehen von seiner Orientierung und Translationsbewegung, nur eine diskrete Reihe von Zuständen $Z_1, Z_2 \\dots Z_n \\dots$ anzunehmen, deren (innere) Energie $\\varepsilon_1, \\varepsilon_2 \\dots \\varepsilon_n \\dots$ sei. Gehören Moleküle dieser Art einen Gas von der Temperatur T an, so ist die relative Häufigkeit $W_n$ dieser Zustände $Z_n$ durch die der kanonischen Zustandsverteilung der statistischen Mechanik entsprechende Formel\n\n$$W_n = p_n c^{-\\frac{\\varepsilon_n}{k}} \\quad (5)$$",
+      "word_count": 350,
+      "page_quality_notes": [
+        "Seitenzahl '123' nicht erkannt (OCR-Fehler)",
+        "Formeln in Frakturschrift erfordern manuelle Überprüfung"
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "124",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Physik. Zeitschr. XVIII, 1917.",
+          "markdown": "Physik. Zeitschr. XVIII, 1917.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "124",
+          "markdown": "124",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "# § 2. Hypothesen über den Energieaustausch durch Strahlung.",
+          "markdown": "## § 2. Hypothesen über den Energieaustausch durch Strahlung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.92
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es seien $Z_n$ und $Z_m$ zwei im Sinne der Quantentheorie mögliche Zustände des Gasmoleküls, deren Energien $\\varepsilon_n$ bzw. $\\varepsilon_m$ die Ungleichung\n\n$$\\varepsilon_m > \\varepsilon_n$$\n\nerfüllen. Das Molekül möge imstande sein, aus dem Zustande $Z_n$ in den Zustand $Z_m$ übergehen unter Aufnahme der Strahlungsenergie $\\varepsilon_m - \\varepsilon_n$; ebenso sei ein Übergang aus dem Zustande $Z_m$ in den Zustand $Z_n$ unter Abgabe dieser Strahlungsenergie möglich. Die hierbei vom Molekül aufgenommene oder abgegebeneStrahlung sei von der für die betrachtete Index-Kombination (m, n) charakteristischen Frequenz $\\nu$.",
+          "markdown": "Es seien $Z_n$ und $Z_m$ zwei im Sinne der Quantentheorie mögliche Zustände des Gasmoleküls, deren Energien $\\varepsilon_n$ bzw. $\\varepsilon_m$ die Ungleichung\n\n$$\\varepsilon_m > \\varepsilon_n$$\n\nerfüllen. Das Molekül möge imstande sein, aus dem Zustande $Z_n$ in den Zustand $Z_m$ übergehen unter Aufnahme der Strahlungsenergie $\\varepsilon_m - \\varepsilon_n$; ebenso sei ein Übergang aus dem Zustande $Z_m$ in den Zustand $Z_n$ unter Abgabe dieser Strahlungsenergie möglich. Die hierbei vom Molekül aufgenommene oder abgegebeneStrahlung sei von der für die betrachtete Index-Kombination (m, n) charakteristischen Frequenz $\\nu$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Über die Gesetze, welche für diesen Übergang maßgebend sind, führen wir einige Hypothesen ein, welche durch Übertragung der für einen Planckschen Resonator nach der klassischen Theorie bekannten Verhältnisse auf die noch unbekannten der Quantentheorie gewonnen sind.\n\na) Ausstrahlung. Ein in Schwingung befindlicher Planckscher Resonator strahlt nach Hertz in bekannter Weise Energie aus, unabhängig davon, ob er durch ein äußeres Feld angeregt wird oder nicht. Dementsprechend möge ein Molekül aus dem Zustande $Z_m$ unter Emission der Strahlungs-Energie $\\varepsilon_m - \\varepsilon_n$ von der Frequenz $\\mu$ ohne Anregung durch äußere Ursachen in den Zustand $Z_n$ übergehen können. Die Wahrscheinlichkeit dW dafür, daß dies im Zeitelement dt wirklich stattfindet, sei,\n\n$$dW = A_m^n dt, \\quad (A)$$",
+          "markdown": "Über die Gesetze, welche für diesen Übergang maßgebend sind, führen wir einige Hypothesen ein, welche durch Übertragung der für einen Planckschen Resonator nach der klassischen Theorie bekannten Verhältnisse auf die noch unbekannten der Quantentheorie gewonnen sind.\n\na) Ausstrahlung. Ein in Schwingung befindlicher Planckscher Resonator strahlt nach Hertz in bekannter Weise Energie aus, unabhängig davon, ob er durch ein äußeres Feld angeregt wird oder nicht. Dementsprechend möge ein Molekül aus dem Zustande $Z_m$ unter Emission der Strahlungs-Energie $\\varepsilon_m - \\varepsilon_n$ von der Frequenz $\\mu$ ohne Anregung durch äußere Ursachen in den Zustand $Z_n$ übergehen können. Die Wahrscheinlichkeit dW dafür, daß dies im Zeitelement dt wirklich stattfindet, sei,\n\n$$dW = A_m^n dt, \\quad (A)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "wobei $A_m^n$ eine für die betrachtete Indexkombination charakteristische Konstante bedeutet.\n\nDas angenommene statistische Gesetz entspricht dem einer radioaktiven Reaktion, der vorausgesetzte Elementarprozeß einer derartigen Reaktion, bei welcher nur γ-Strahlen emittiert werden. Es braucht nicht angenommen zu werden, daß dieser Vorgang keine Zeit beanspruche; diese Zeit muss nur vernachlässigbar sein gegenüber den Zeiten, in denen das Molekül in den Zuständen $Z_1$ usw. ist.\n\nb) Einstrahlung. Befindet sich ein Planckscher Resonator in einem Strahlungsfelde, so ändert sich die Energie des Resonators dadurch, daß das elektromagnetische Feld der Strahlung auf den Resonator Arbeit überträgt; diese Arbeit kann je nach den Phasen des Resonators und des oszillierenden Feldes positiv oder negativ sein. Dementsprechend führen wir die folgende quantentheoretische Hypothese ein. Unter der Wirkung der Strahlungsdichte $\\varrho$ der Frequenz $\\nu$ kann ein Molekül vom Zustand $Z_n$ in den Zustand $Z_m$ übergehen, indem das Molekül die Strahlungsenergie $\\varepsilon_m - \\varepsilon_n$ aufnimmt, gemäß dem Wahrscheinlichkeitsgesetz\n\n$$dW = B_n^m \\varrho dt. \\quad (B)$$",
+          "markdown": "wobei $A_m^n$ eine für die betrachtete Indexkombination charakteristische Konstante bedeutet.\n\nDas angenommene statistische Gesetz entspricht dem einer radioaktiven Reaktion, der vorausgesetzte Elementarprozeß einer derartigen Reaktion, bei welcher nur γ-Strahlen emittiert werden. Es braucht nicht angenommen zu werden, dass dieser Vorgang keine Zeit beanspruche; diese Zeit muss nur vernachlässigbar sein gegenüber den Zeiten, in denen das Molekül in den Zuständen $Z_1$ usw. ist.\n\nb) Einstrahlung. Befindet sich ein Planckscher Resonator in einem Strahlungsfelde, so ändert sich die Energie des Resonators dadurch, dass das elektromagnetische Feld der Strahlung auf den Resonator Arbeit überträgt; diese Arbeit kann je nach den Phasen des Resonators und des oszillierenden Feldes positiv oder negativ sein. Dementsprechend führen wir die folgende quantentheoretische Hypothese ein. Unter der Wirkung der Strahlungsdichte $\\varrho$ der Frequenz $\\nu$ kann ein Molekül vom Zustand $Z_n$ in den Zustand $Z_m$ übergehen, indem das Molekül die Strahlungsenergie $\\varepsilon_m - \\varepsilon_n$ aufnimmt, gemäß dem Wahrscheinlichkeitsgesetz\n\n$$dW = B_n^m \\varrho dt. \\quad (B)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ebenso sei ein Übergang $Z_m \\rightarrow Z_n$ unter der Einwirkung der Strahlung möglich, wobei die Strahlungsenergie $\\varepsilon_m - \\varepsilon_n$ frei wird, gemäß dem Wahrscheinlichkeitsgesetz\n\n$$dW = B_m^n \\varrho dt. \\quad (B')$$\n\n$B_n^m$ und $B_m^n$ sind Konstante. Beide Vorgänge nennen wir „Zustandsänderungen durch Einstrahlung“.\n\nEs fragt sich nun, was für ein Impuls bei diesen betrachteten Zustandsänderungen auf das Molekül übertragen wird. Beginnen wir mit den Vorgängen der Einstrahlung. Leistet ein Strahlenbündel von bestimmter Richtung Arbeit auf einen Planckschen Resonator, so wird der Strahlenbündel die entsprechende Energie entzogen. Dieser Energieübertragung entspricht nach dem Impulssatz auch eine Impulsübertragung vom Strahlenbündel auf den Resonator. Der letztere erleidet also eine Kraftwirkung in der Richtung des Strahles des Strahlenbündels. Ist die übertragene Energie negativ, so ist auch die Kraftwirkung auf den Resonator von entgegengesetzter Richtung. Im Falle der Quantentheorie hypothese bedeutet dies offenbar folgendes: Findet durch Bestrahlung mit einem Strahlenbündel durch Einstrahlung der Vorgang $Z_n \\rightarrow Z_m$ statt, so wird auf das Molekül der Impuls $\\frac{\\varepsilon_m - \\varepsilon_n}{c}$ in der Fortpflanzungsrichtung des Bündels übertragen. Bei dem Einstrahlungsvorgang $Z_m \\rightarrow Z_n$ hat der übertragene Impuls dieselbe Größe, aber die entgegengesetzte Richtung. Für den Fall, dass das Molekül gleichzeitig mehrerer Strahlenbündeln ausgesetzt ist, setzen wir voraus, dass die ganze Energie $\\varepsilon_m - \\varepsilon_n$ eines Elementarprozesses einem dieser Strahlenbündel entnommen bzw. zugefügt wird, so dass auch in diesem Falle der Impuls $\\frac{\\varepsilon_m - \\varepsilon_n}{c}$ auf das Molekül übertragen wird.",
+          "markdown": "Ebenso sei ein Übergang $Z_m \\rightarrow Z_n$ unter der Einwirkung der Strahlung möglich, wobei die Strahlungsenergie $\\varepsilon_m - \\varepsilon_n$ frei wird, gemäß dem Wahrscheinlichkeitsgesetz\n\n$$dW = B_m^n \\varrho dt. \\quad (B')$$\n\n$B_n^m$ und $B_m^n$ sind Konstante. Beide Vorgänge nennen wir „Zustandsänderungen durch Einstrahlung“.\n\nEs fragt sich nun, was für ein Impuls bei diesen betrachteten Zustandsänderungen auf das Molekül übertragen wird. Beginnen wir mit den Vorgängen der Einstrahlung. Leistet ein Strahlenbündel von bestimmter Richtung Arbeit auf einen Planckschen Resonator, so wird der Strahlenbündel die entsprechende Energie entzogen. Dieser Energieübertragung entspricht nach dem Impulssatz auch eine Impulsübertragung vom Strahlenbündel auf den Resonator. Der letztere erleidet also eine Kraftwirkung in der Richtung des Strahles des Strahlenbündels. Ist die übertragene Energie negativ, so ist auch die Kraftwirkung auf den Resonator von entgegengesetzter Richtung. Im Falle der Quantentheorie hypothese bedeutet dies offenbar folgendes: Findet durch Bestrahlung mit einem Strahlenbündel durch Einstrahlung der Vorgang $Z_n \\rightarrow Z_m$ statt, so wird auf das Molekül der Impuls $\\frac{\\varepsilon_m - \\varepsilon_n}{c}$ in der Fortpflanzungsrichtung des Bündels übertragen. Bei dem Einstrahlungsvorgang $Z_m \\rightarrow Z_n$ hat der übertragene Impuls dieselbe Größe, aber die entgegengesetzte Richtung. Für den Fall, dass das Molekül gleichzeitig mehrerer Strahlenbündeln ausgesetzt ist, setzen wir voraus, dass die ganze Energie $\\varepsilon_m - \\varepsilon_n$ eines Elementarprozesses einem dieser Strahlenbündel entnommen bzw. zugefügt wird, so dass auch in diesem Falle der Impuls $\\frac{\\varepsilon_m - \\varepsilon_n}{c}$ auf das Molekül übertragen wird.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.1,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        }
+      ],
+      "page_markdown_original": "# Physik. Zeitschr. XVIII, 1917.\n\n# Einstein, Zur Quantentheorie der Strahlung.\n\n## § 2. Hypothesen über den Energieaustausch durch Strahlung.\n\nEs seien $Z_n$ und $Z_m$ zwei im Sinne der Quantentheorie mögliche Zustände des Gasmoleküls, deren Energien $\\varepsilon_n$ bzw. $\\varepsilon_m$ die Ungleichung\n\n$$\\varepsilon_m > \\varepsilon_n$$\n\nerfüllen. Das Molekül möge imstande sein, aus dem Zustande $Z_n$ in den Zustand $Z_m$ übergehen unter Aufnahme der Strahlungsenergie $\\varepsilon_m - \\varepsilon_n$; ebenso sei ein Übergang aus dem Zustande $Z_m$ in den Zustand $Z_n$ unter Abgabe dieser Strahlungsenergie möglich. Die hierbei vom Molekül aufgenommene oder abgegebeneStrahlung sei von der für die betrachtete Index-Kombination (m, n) charakteristischen Frequenz $\\nu$.\n\nÜber die Gesetze, welche für diesen Übergang maßgebend sind, führen wir einige Hypothesen ein, welche durch Übertragung der für einen Planckschen Resonator nach der klassischen Theorie bekannten Verhältnisse auf die noch unbekannten der Quantentheorie gewonnen sind.\n\na) Ausstrahlung. Ein in Schwingung befindlicher Planckscher Resonator strahlt nach Hertz in bekannter Weise Energie aus, unabhängig davon, ob er durch ein äußeres Feld angeregt wird oder nicht. Dementsprechend möge ein Molekül aus dem Zustande $Z_m$ unter Emission der Strahlungs-Energie $\\varepsilon_m - \\varepsilon_n$ von der Frequenz $\\mu$ ohne Anregung durch äußere Ursachen in den Zustand $Z_n$ übergehen können. Die Wahrscheinlichkeit dW dafür, dass dies im Zeitelement dt wirklich stattfindet, sei,\n\n$$dW = A_m^n dt, \\quad (A)$$\n\nwobei $A_m^n$ eine für die betrachtete Indexkombination charakteristische Konstante bedeutet.\n\nDas angenommene statistische Gesetz entspricht dem einer radioaktiven Reaktion, der vorausgesetzte Elementarprozeß einer derartigen Reaktion, bei welcher nur γ-Strahlen emittiert werden. Es braucht nicht angenommen zu werden, dass dieser Vorgang keine Zeit beanspruche; diese Zeit muss nur vernachlässigbar sein gegenüber den Zeiten, in denen das Molekül in den Zuständen $Z_1$ usw. ist.\n\nb) Einstrahlung. Befindet sich ein Planckscher Resonator in einem Strahlungsfelde, so ändert sich die Energie des Resonators dadurch, dass das elektromagnetische Feld der Strahlung auf den Resonator Arbeit überträgt; diese Arbeit kann je nach den Phasen des Resonators und des oszillierenden Feldes positiv oder negativ sein. Dementsprechend führen wir die folgende quantentheoretische Hypothese ein. Unter der Wirkung der Strahlungsdichte $\\varrho$ der Frequenz $\\nu$ kann ein Molekül vom Zustand $Z_n$ in den Zustand $Z_m$ übergehen, indem das Molekül die Strahlungsenergie $\\varepsilon_m - \\varepsilon_n$ aufnimmt, gemäß dem Wahrscheinlichkeitsgesetz\n\n$$dW = B_n^m \\varrho dt. \\quad (B)$$\n\nEbenso sei ein Übergang $Z_m \\rightarrow Z_n$ unter der Einwirkung der Strahlung möglich, wobei die Strahlungsenergie $\\varepsilon_m - \\varepsilon_n$ frei wird, gemäß dem Wahrscheinlichkeitsgesetz\n\n$$dW = B_m^n \\varrho dt. \\quad (B')$$\n\n$B_n^m$ und $B_m^n$ sind Konstante. Beide Vorgänge nennen wir „Zustandsänderungen durch Einstrahlung“.\n\nEs fragt sich nun, was für ein Impuls bei diesen betrachteten Zustandsänderungen auf das Molekül übertragen wird. Beginnen wir mit den Vorgängen der Einstrahlung. Leistet ein Strahlenbündel von bestimmter Richtung Arbeit auf einen Planckschen Resonator, so wird der Strahlenbündel die entsprechende Energie entzogen. Dieser Energieübertragung entspricht nach dem Impulssatz auch eine Impulsübertragung vom Strahlenbündel auf den Resonator. Der letztere erleidet also eine Kraftwirkung in der Richtung des Strahles des Strahlenbündels. Ist die übertragene Energie negativ, so ist auch die Kraftwirkung auf den Resonator von entgegengesetzter Richtung. Im Falle der Quantentheorie hypothese bedeutet dies offenbar folgendes: Findet durch Bestrahlung mit einem Strahlenbündel durch Einstrahlung der Vorgang $Z_n \\rightarrow Z_m$ statt, so wird auf das Molekül der Impuls $\\frac{\\varepsilon_m - \\varepsilon_n}{c}$ in der Fortpflanzungsrichtung des Bündels übertragen. Bei dem Einstrahlungsvorgang $Z_m \\rightarrow Z_n$ hat der übertragene Impuls dieselbe Größe, aber die entgegengesetzte Richtung. Für den Fall, dass das Molekül gleichzeitig mehrerer Strahlenbündeln ausgesetzt ist, setzen wir voraus, dass die ganze Energie $\\varepsilon_m - \\varepsilon_n$ eines Elementarprozesses einem dieser Strahlenbündel entnommen bzw. zugefügt wird, so dass auch in diesem Falle der Impuls $\\frac{\\varepsilon_m - \\varepsilon_n}{c}$ auf das Molekül übertragen wird.",
+      "word_count": 420,
+      "page_quality_notes": [
+        "Formeln in Frakturschrift erfordern manuelle Überprüfung der korrekten Darstellung",
+        "Seitenzahl '124' nicht erkannt (OCR-Fehler)"
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "125",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Physik. Zeitschr. XVIII, 1917.",
+          "markdown": "Physik. Zeitschr. XVIII, 1917.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "125",
+          "markdown": "125",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Bei der Energieabgabe durch Ausstrahlung wird im Falle des Planckschen Resonators im ganzen kein Impuls auf den Resonator übertragen, weil nach der klassischen Theorie die Ausstrahlung in einer Kugelwelle erfolgt. Es wurde aber bereits bemerkt, dass wir zu einer widerspruchsfreien Quantentheorie nur gelangen können, indem wir voraussetzen, dass auch der Prozeß der Ausstrahlung ein gerichteter Prozeß sei. Es wird dann bei jedem Elementarprozeß der Ausstrahlung ($Z_m \\rightarrow Z_n$) ein Impuls von der Größe $\\frac{\\varepsilon_m - \\varepsilon_n}{c}$ auf das Molekül übertragen.",
+          "markdown": "## Bei der Energieabgabe durch Ausstrahlung wird im Falle des Planckschen Resonators im ganzen kein Impuls auf den Resonator übertragen, weil nach der klassischen Theorie die Ausstrahlung in einer Kugelwelle erfolgt. Es wurde aber bereits bemerkt, dass wir zu einer widerspruchsfreien Quantentheorie nur gelangen können, indem wir voraussetzen, dass auch der Prozeß der Ausstrahlung ein gerichteter Prozeß sei. Es wird dann bei jedem Elementarprozeß der Ausstrahlung ($Z_m \\rightarrow Z_n$) ein Impuls von der Größe $\\frac{\\varepsilon_m - \\varepsilon_n}{c}$ auf das Molekül übertragen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.92
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ist letzteres isotrop, so müssen wir alle Ausstrahlungsrichtungen als gleich wahrscheinlich annehmen. Ist das Molekül nicht isotrop, so gegelangen wir zu derselben Aussage, wenn die Orientierung im Laufe der Zeit nach den Gesetzen des Zufalls wechselt. Eine derartige Voraussetzung muss übrigens auch für die statistischen Gesetze (B) und (B') der Einstrahlung gemacht werden, da sonst die Konstanten $B_n^m$ und $B_m^n$ von der Richtung abhängen müssten, was wir durch diese Annahme der Isotropie oder Pseudoisotropie (durch zeit-liche Mittelwert-Bildung) des Moleküls vermeiden können.",
+          "markdown": "Ist letzteres isotrop, so müssen wir alle Ausstrahlungsrichtungen als gleich wahrscheinlich annehmen. Ist das Molekül nicht isotrop, so gegelangen wir zu derselben Aussage, wenn die Orientierung im Laufe der Zeit nach den Gesetzen des Zufalls wechselt. Eine derartige Voraussetzung muss übrigens auch für die statistischen Gesetze (B) und (B') der Einstrahlung gemacht werden, da sonst die Konstanten $B_n^m$ und $B_m^n$ von der Richtung abhängen müssten, was wir durch diese Annahme der Isotropie oder Pseudoisotropie (durch zeit-liche Mittelwert-Bildung) des Moleküls vermeiden können.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.75,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "# § 3. Ableitung des Planckschen Strahlungsgesetzes.",
+          "markdown": "## § 3. Ableitung des Planckschen Strahlungsgesetzes.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.65,
+            0.95,
+            0.75
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir fragen jetzt nach derjenigen wirksamen Strahlungsdichte $\\varrho$, welche herrschen muss, damit der Energieaustausch zwischen Strahlung und Molekülen vermöge der statistischen Gesetze (A), (B) und (B') die Zustandsverteilung der Moleküle gemäß Gleichung (5) nicht stört. Dafür ist nötig und hinreichend, dass pro Zeiteinheit durchschnittlich ebenso viele Elementarprozesse vom Typus (B) stattfinden als von den Typen (A) und (B') zusammen. Diese Bedingung liefert vermöge (5), (A), (B), (B') für die der Indexkombination $(m, n)$ entsprechenden Elementarprozesse die Gleichung\n\n$$p_m e^{-\\frac{\\varepsilon_m}{k_1}} B_m^m \\varrho = p_m e^{-\\frac{\\varepsilon_m}{k_1}} (B_m^n \\varrho + A_m^n).$$",
+          "markdown": "Wir fragen jetzt nach derjenigen wirksamen Strahlungsdichte $\\varrho$, welche herrschen muss, damit der Energieaustausch zwischen Strahlung und Molekülen vermöge der statistischen Gesetze (A), (B) und (B') die Zustandsverteilung der Moleküle gemäß Gleichung (5) nicht stört. Dafür ist nötig und hinreichend, dass pro Zeiteinheit durchschnittlich ebenso viele Elementarprozesse vom Typus (B) stattfinden als von den Typen (A) und (B') zusammen. Diese Bedingung liefert vermöge (5), (A), (B), (B') für die der Indexkombination $(m, n)$ entsprechenden Elementarprozesse die Gleichung\n\n$$p_m e^{-\\frac{\\varepsilon_m}{k_1}} B_m^m \\varrho = p_m e^{-\\frac{\\varepsilon_m}{k_1}} (B_m^n \\varrho + A_m^n).$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.65
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Soll ferner $\\varrho$ mit $T$ ins Unendliche wachsen, was wir annehmen wollen, so muss zwischen den Konstanten $B_m^m$ und $B_m^n$ die Beziehung\n\n$$p_m B_m^m - p_m B_m^n \\quad (6)$$\n\nbestehen. Wir erhalten dann als Bedingung des dynamischen Gleichgewichts aus unserer Gleichung\n\n$$\\varrho = \\frac{\\frac{A_m^n}{B_m^n}}{e^{-\\frac{\\varepsilon_m - \\varepsilon_n}{k_1}} - 1.} \\quad (7)$$",
+          "markdown": "Soll ferner $\\varrho$ mit $T$ ins Unendliche wachsen, was wir annehmen wollen, so muss zwischen den Konstanten $B_m^m$ und $B_m^n$ die Beziehung\n\n$$p_m B_m^m - p_m B_m^n \\quad (6)$$\n\nbestehen. Wir erhalten dann als Bedingung des dynamischen Gleichgewichts aus unserer Gleichung\n\n$$\\varrho = \\frac{\\frac{A_m^n}{B_m^n}}{e^{-\\frac{\\varepsilon_m - \\varepsilon_n}{k_1}} - 1.} \\quad (7)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es ist dies die Abhängigkeit der Strahlungsdichte von der Temperatur gemäß dem Planckschen Gesetze. Aus dem Wienschen Verschiebungsgesetze (1) folgt hieraus sofort, dass\n\n$$\\frac{A_m^n}{B_m^n} = \\alpha \\nu^3 \\quad (8)$$\n\n$$\\text{und } \\varepsilon_m - \\varepsilon_n = h \\nu \\quad (9)$$\n\nsein muss, wobei $\\alpha$ und $h$ universelle Konstanten sind. Um den numerischen Wert der Konstante $\\alpha$ zu ermitteln, müßte man eine exakte Theorie der elektrodynamischen und mechanischen Vorgänge haben; man bleibt hier vorläufig auf die Behandlung des Rayleighschen Grenzfalles hoher Temperaturen angewiesen, für welchen die klassische Theorie in der Grenze gilt.\n\nGleichung (9) bildet bekanntlich die zweite Hauptregel in Bohrs Theorie der Spektra, von der man nach Sommerfelds und Epsteins Vervollständigung schon behaupten darf, dass sie zum gesicherten Bestande unserer Wissenschaft gehört. Sie enthält implizite auch das photochemische Äquivalenzgesetz, wie ich gezeigt habe.",
+          "markdown": "Es ist dies die Abhängigkeit der Strahlungsdichte von der Temperatur gemäß dem Planckschen Gesetze. Aus dem Wienschen Verschiebungsgesetze (1) folgt hieraus sofort, dass\n\n$$\\frac{A_m^n}{B_m^n} = \\alpha \\nu^3 \\quad (8)$$\n\n$$\\text{und } \\varepsilon_m - \\varepsilon_n = h \\nu \\quad (9)$$\n\nsein muss, wobei $\\alpha$ und $h$ universelle Konstanten sind. Um den numerischen Wert der Konstante $\\alpha$ zu ermitteln, müßte man eine exakte Theorie der elektrodynamischen und mechanischen Vorgänge haben; man bleibt hier vorläufig auf die Behandlung des Rayleighschen Grenzfalles hoher Temperaturen angewiesen, für welchen die klassische Theorie in der Grenze gilt.\n\nGleichung (9) bildet bekanntlich die zweite Hauptregel in Bohrs Theorie der Spektra, von der man nach Sommerfelds und Epsteins Vervollständigung schon behaupten darf, dass sie zum gesicherten Bestande unserer Wissenschaft gehört. Sie enthält implizite auch das photochemische Äquivalenzgesetz, wie ich gezeigt habe.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        }
+      ],
+      "page_markdown_original": "# Physik. Zeitschr. XVIII, 1917.\n\n# Einstein, Zur Quantentheorie der Strahlung.\n\n## Bei der Energieabgabe durch Ausstrahlung wird im Falle des Planckschen Resonators im ganzen kein Impuls auf den Resonator übertragen, weil nach der klassischen Theorie die Ausstrahlung in einer Kugelwelle erfolgt. Es wurde aber bereits bemerkt, dass wir zu einer widerspruchsfreien Quantentheorie nur gelangen können, indem wir voraussetzen, dass auch der Prozeß der Ausstrahlung ein gerichteter Prozeß sei. Es wird dann bei jedem Elementarprozeß der Ausstrahlung ($Z_m \\rightarrow Z_n$) ein Impuls von der Größe $\\frac{\\varepsilon_m - \\varepsilon_n}{c}$ auf das Molekül übertragen.\n\nIst letzteres isotrop, so müssen wir alle Ausstrahlungsrichtungen als gleich wahrscheinlich annehmen. Ist das Molekül nicht isotrop, so gegelangen wir zu derselben Aussage, wenn die Orientierung im Laufe der Zeit nach den Gesetzen des Zufalls wechselt. Eine derartige Voraussetzung muss übrigens auch für die statistischen Gesetze (B) und (B') der Einstrahlung gemacht werden, da sonst die Konstanten $B_n^m$ und $B_m^n$ von der Richtung abhängen müssten, was wir durch diese Annahme der Isotropie oder Pseudoisotropie (durch zeit-liche Mittelwert-Bildung) des Moleküls vermeiden können.\n\n## § 3. Ableitung des Planckschen Strahlungsgesetzes.\n\nWir fragen jetzt nach derjenigen wirksamen Strahlungsdichte $\\varrho$, welche herrschen muss, damit der Energieaustausch zwischen Strahlung und Molekülen vermöge der statistischen Gesetze (A), (B) und (B') die Zustandsverteilung der Moleküle gemäß Gleichung (5) nicht stört. Dafür ist nötig und hinreichend, dass pro Zeiteinheit durchschnittlich ebenso viele Elementarprozesse vom Typus (B) stattfinden als von den Typen (A) und (B') zusammen. Diese Bedingung liefert vermöge (5), (A), (B), (B') für die der Indexkombination $(m, n)$ entsprechenden Elementarprozesse die Gleichung\n\n$$p_m e^{-\\frac{\\varepsilon_m}{k_1}} B_m^m \\varrho = p_m e^{-\\frac{\\varepsilon_m}{k_1}} (B_m^n \\varrho + A_m^n).$$\n\nSoll ferner $\\varrho$ mit $T$ ins Unendliche wachsen, was wir annehmen wollen, so muss zwischen den Konstanten $B_m^m$ und $B_m^n$ die Beziehung\n\n$$p_m B_m^m - p_m B_m^n \\quad (6)$$\n\nbestehen. Wir erhalten dann als Bedingung des dynamischen Gleichgewichts aus unserer Gleichung\n\n$$\\varrho = \\frac{\\frac{A_m^n}{B_m^n}}{e^{-\\frac{\\varepsilon_m - \\varepsilon_n}{k_1}} - 1.} \\quad (7)$$\n\nEs ist dies die Abhängigkeit der Strahlungsdichte von der Temperatur gemäß dem Planckschen Gesetze. Aus dem Wienschen Verschiebungsgesetze (1) folgt hieraus sofort, dass\n\n$$\\frac{A_m^n}{B_m^n} = \\alpha \\nu^3 \\quad (8)$$\n\n$$\\text{und } \\varepsilon_m - \\varepsilon_n = h \\nu \\quad (9)$$\n\nsein muss, wobei $\\alpha$ und $h$ universelle Konstanten sind. Um den numerischen Wert der Konstante $\\alpha$ zu ermitteln, müßte man eine exakte Theorie der elektrodynamischen und mechanischen Vorgänge haben; man bleibt hier vorläufig auf die Behandlung des Rayleighschen Grenzfalles hoher Temperaturen angewiesen, für welchen die klassische Theorie in der Grenze gilt.\n\nGleichung (9) bildet bekanntlich die zweite Hauptregel in Bohrs Theorie der Spektra, von der man nach Sommerfelds und Epsteins Vervollständigung schon behaupten darf, dass sie zum gesicherten Bestande unserer Wissenschaft gehört. Sie enthält implizite auch das photochemische Äquivalenzgesetz, wie ich gezeigt habe.",
+      "word_count": 400,
+      "page_quality_notes": [
+        "Seitenzahl '125' nicht erkannt (OCR-Fehler)",
+        "Formeln in Frakturschrift erfordern manuelle Überprüfung"
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "126",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Physik. Zeitschr. XVIII, 1917.",
+          "markdown": "Physik. Zeitschr. XVIII, 1917.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "page_number",
+          "level": null,
+          "text_original": "126",
+          "markdown": "126",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.9,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "# § 4. Methode zur Berechnung der Bewegung der Moleküle im Strahlungsfelde.",
+          "markdown": "## § 4. Methode zur Berechnung der Bewegung der Moleküle im Strahlungsfelde.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.85,
+            0.95,
+            0.92
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wir wenden uns nun zur Untersuchung der Bewegungen, welche unsere Moleküle unter dem Einfluss der Strahlung ausführen. Wir bedienen uns dabei einer Methode, welche aus der Theorie der Brownischen Bewegung wohl bekannt ist, und von mir schon mehrfach zur rechnerischen Untersuchung von Bewegungen im Strahlungsraum benutzt wurde. Zur Vereinfachung der Rechnung führen wir die letztere lediglich für den Fall durch, daß Bewegungen nur in einer Richtung, der $X$-Richtung des Koordinatensystems, vorkommen. Wir begnügen uns ferner damit, den Mittelwert der kinetischen Energie der fortschreitenden Bewegung zu berechnen, verzichten also auf den Beweis dafür, daß diese Geschwindigkeiten $v$ nach dem Maxwellschen Gesetz verteilt sind. Die Masse $M$ des Moleküls sei hinreichend groß, daß höhere Potenzen von $\\frac{v}{c}$ gegen niedrigere vernachlässigt werden können; wir können dann auf das Molekül die gewöhnliche Mechanik anwenden. Wir können ferner ohne wirkliche Beschränkung der Allgemeinheit so rechnen, wie wenn die Zustände mit den Indizes $m$ und $n$ die einzigen wären, die das Molekül annehmen kann.",
+          "markdown": "Wir wenden uns nun zur Untersuchung der Bewegungen, welche unsere Moleküle unter dem Einfluss der Strahlung ausführen. Wir bedienen uns dabei einer Methode, welche aus der Theorie der Brownischen Bewegung wohl bekannt ist, und von mir schon mehrfach zur rechnerischen Untersuchung von Bewegungen im Strahlungsraum benutzt wurde. Zur Vereinfachung der Rechnung führen wir die letztere lediglich für den Fall durch, dass Bewegungen nur in einer Richtung, der $X$-Richtung des Koordinatensystems, vorkommen. Wir begnügen uns ferner damit, den Mittelwert der kinetischen Energie der fortschreitenden Bewegung zu berechnen, verzichten also auf den Beweis dafür, dass diese Geschwindigkeiten $v$ nach dem Maxwellschen Gesetz verteilt sind. Die Masse $M$ des Moleküls sei hinreichend groß, dass höhere Potenzen von $\\frac{v}{c}$ gegen niedrigere vernachlässigt werden können; wir können dann auf das Molekül die gewöhnliche Mechanik anwenden. Wir können ferner ohne wirkliche Beschränkung der Allgemeinheit so rechnen, wie wenn die Zustände mit den Indizes $m$ und $n$ die einzigen wären, die das Molekül annehmen kann.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.7,
+            0.95,
+            0.85
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Der Impuls $Mv$ eines Moleküls erfährt in der kurzen Zeit $\\tau$ zweierlei Änderungen. Trotzdem die Strahlung nach allen Richtungen gleich beschaffen ist, wird das Molekül infolge seiner Bewegung eine von der Strahlung herrührende, der Bewegung entgegenwirkende Kraft erfahren. Diese sei gleich $Rv$, wobei $R$ eine später zu berechnende Konstante bedeutet. Diese Kraft würde das Molekül zur Ruhe bringen, wenn nicht die Unregelmäßigkeit der Strahlungseinwirkungen zur Folge hätte, dass in der Zeit $\\tau$ auf das Molekül ein Impuls $\\Delta$ wechselnden Vorzeichens und wechselnder Größe übertragen würde; dieser unsystematische Einfluß wird entgegen dem vorher genannten eine gewisse Bewegung des Moleküls aufrecht erhalten. Am Ende der betrachteten kurzen Zeit $\\tau$ wird der Impuls des Moleküls den Wert\n\n$$Mv - Rv\\tau + \\Delta$$\n\nbesitzen. Da die Geschwindigkeitsverteilung zeitlich konstant bleiben soll, so muss die angegebene Größe ihrem mittleren absoluten Betrag nach ebenso groß sein wie die Größe $Mv$; die Mittelwerte der Quadrate beider Größen, erstreckt über eine lange Zeit oder über eine große Zahl Moleküle, müssen also einander gleich sein:\n\n$$(Mv - Rv\\tau + \\Delta)^2 = (Mv)^2.$$",
+          "markdown": "Der Impuls $Mv$ eines Moleküls erfährt in der kurzen Zeit $\\tau$ zweierlei Änderungen. Trotzdem die Strahlung nach allen Richtungen gleich beschaffen ist, wird das Molekül infolge seiner Bewegung eine von der Strahlung herrührende, der Bewegung entgegenwirkende Kraft erfahren. Diese sei gleich $Rv$, wobei $R$ eine später zu berechnende Konstante bedeutet. Diese Kraft würde das Molekül zur Ruhe bringen, wenn nicht die Unregelmäßigkeit der Strahlungseinwirkungen zur Folge hätte, dass in der Zeit $\\tau$ auf das Molekül ein Impuls $\\Delta$ wechselnden Vorzeichens und wechselnder Größe übertragen würde; dieser unsystematische Einfluß wird entgegen dem vorher genannten eine gewisse Bewegung des Moleküls aufrecht erhalten. Am Ende der betrachteten kurzen Zeit $\\tau$ wird der Impuls des Moleküls den Wert\n\n$$Mv - Rv\\tau + \\Delta$$\n\nbesitzen. Da die Geschwindigkeitsverteilung zeitlich konstant bleiben soll, so muss die angegebene Größe ihrem mittleren absoluten Betrag nach ebenso groß sein wie die Größe $Mv$; die Mittelwerte der Quadrate beider Größen, erstreckt über eine lange Zeit oder über eine große Zahl Moleküle, müssen also einander gleich sein:\n\n$$(Mv - Rv\\tau + \\Delta)^2 = (Mv)^2.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.5,
+            0.95,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Da wir den systematischen Einfluß von $v$ auf den Impuls des Moleküls besonders in Rechnung gezogen haben, werden wir den Mittelwert $\\overline{v\\Delta}$ zu vernachlässigen haben. Durch Entwickeln der linken Seite der Gleichung erhält man daher\n\n$$\\overline{\\Delta^2} = 2 RM \\overline{v^2} \\tau. \\quad (10)$$",
+          "markdown": "Da wir den systematischen Einfluß von $v$ auf den Impuls des Moleküls besonders in Rechnung gezogen haben, werden wir den Mittelwert $\\overline{v\\Delta}$ zu vernachlässigen haben. Durch Entwickeln der linken Seite der Gleichung erhält man daher\n\n$$\\overline{\\Delta^2} = 2 RM \\overline{v^2} \\tau. \\quad (10)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.4,
+            0.95,
+            0.5
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Der Mittelwert $\\overline{v^2}$, welchen die Strahlung von der Temperatur $T$ bei unseren Molekülen durch ihre Wechselwirkung mit ihnen erzeugt, muss ebenso groß sein wie derjenige Mittelwert $\\overline{v^2}$, welcher dem Gasmolekül nach den Gasgesetzen bei der Temperatur $T$ nach der kinetischen Gastheorie zukommt. Denn die Anwesenheit unserer Moleküle würde sonst das thermische Gleichgewicht zwischen Temperaturstrahlung und einem beliebigen Gase derselben Temperatur stören. Es muss also sein\n\n$$\\frac{M v^2}{2} = \\frac{k T}{2}. \\quad (11)$$",
+          "markdown": "Der Mittelwert $\\overline{v^2}$, welchen die Strahlung von der Temperatur $T$ bei unseren Molekülen durch ihre Wechselwirkung mit ihnen erzeugt, muss ebenso groß sein wie derjenige Mittelwert $\\overline{v^2}$, welcher dem Gasmolekül nach den Gasgesetzen bei der Temperatur $T$ nach der kinetischen Gastheorie zukommt. Denn die Anwesenheit unserer Moleküle würde sonst das thermische Gleichgewicht zwischen Temperaturstrahlung und einem beliebigen Gase derselben Temperatur stören. Es muss also sein\n\n$$\\frac{M v^2}{2} = \\frac{k T}{2}. \\quad (11)$$",
+          "asset_id": "equation_p006_01",
+          "suggested_filename": "equations/equation_p006_01.png",
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.3,
+            0.95,
+            0.4
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Gleichung (10) geht also über in\n\n$$\\frac{\\overline{\\Delta^2}}{\\tau} = 2 R k T. \\quad (12)$$",
+          "markdown": "Gleichung (10) geht also über in\n\n$$\\frac{\\overline{\\Delta^2}}{\\tau} = 2 R k T. \\quad (12)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.2,
+            0.95,
+            0.3
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Formel mit Frakturschrift und komplexer Struktur"
+        }
+      ],
+      "page_markdown_original": "# Physik. Zeitschr. XVIII, 1917.\n\n# Einstein, Zur Quantentheorie der Strahlung.\n\n## § 4. Methode zur Berechnung der Bewegung der Moleküle im Strahlungsfelde.\n\nWir wenden uns nun zur Untersuchung der Bewegungen, welche unsere Moleküle unter dem Einfluss der Strahlung ausführen. Wir bedienen uns dabei einer Methode, welche aus der Theorie der Brownischen Bewegung wohl bekannt ist, und von mir schon mehrfach zur rechnerischen Untersuchung von Bewegungen im Strahlungsraum benutzt wurde. Zur Vereinfachung der Rechnung führen wir die letztere lediglich für den Fall durch, dass Bewegungen nur in einer Richtung, der $X$-Richtung des Koordinatensystems, vorkommen. Wir begnügen uns ferner damit, den Mittelwert der kinetischen Energie der fortschreitenden Bewegung zu berechnen, verzichten also auf den Beweis dafür, dass diese Geschwindigkeiten $v$ nach dem Maxwellschen Gesetz verteilt sind. Die Masse $M$ des Moleküls sei hinreichend groß, dass höhere Potenzen von $\\frac{v}{c}$ gegen niedrigere vernachlässigt werden können; wir können dann auf das Molekül die gewöhnliche Mechanik anwenden. Wir können ferner ohne wirkliche Beschränkung der Allgemeinheit so rechnen, wie wenn die Zustände mit den Indizes $m$ und $n$ die einzigen wären, die das Molekül annehmen kann.\n\nDer Impuls $Mv$ eines Moleküls erfährt in der kurzen Zeit $\\tau$ zweierlei Änderungen. Trotzdem die Strahlung nach allen Richtungen gleich beschaffen ist, wird das Molekül infolge seiner Bewegung eine von der Strahlung herrührende, der Bewegung entgegenwirkende Kraft erfahren. Diese sei gleich $Rv$, wobei $R$ eine später zu berechnende Konstante bedeutet. Diese Kraft würde das Molekül zur Ruhe bringen, wenn nicht die Unregelmäßigkeit der Strahlungseinwirkungen zur Folge hätte, dass in der Zeit $\\tau$ auf das Molekül ein Impuls $\\Delta$ wechselnden Vorzeichens und wechselnder Größe übertragen würde; dieser unsystematische Einfluß wird entgegen dem vorher genannten eine gewisse Bewegung des Moleküls aufrecht erhalten. Am Ende der betrachteten kurzen Zeit $\\tau$ wird der Impuls des Moleküls den Wert\n\n$$Mv - Rv\\tau + \\Delta$$\n\nbesitzen. Da die Geschwindigkeitsverteilung zeitlich konstant bleiben soll, so muss die angegebene Größe ihrem mittleren absoluten Betrag nach ebenso groß sein wie die Größe $Mv$; die Mittelwerte der Quadrate beider Größen, erstreckt über eine lange Zeit oder über eine große Zahl Moleküle, müssen also einander gleich sein:\n\n$$(Mv - Rv\\tau + \\Delta)^2 = (Mv)^2.$$  \n\nDa wir den systematischen Einfluß von $v$ auf den Impuls des Moleküls besonders in Rechnung gezogen haben, werden wir den Mittelwert $\\overline{v\\Delta}$ zu vernachlässigen haben. Durch Entwickeln der linken Seite der Gleichung erhält man daher\n\n$$\\overline{\\Delta^2} = 2 RM \\overline{v^2} \\tau. \\quad (10)$$  \n\nDer Mittelwert $\\overline{v^2}$, welchen die Strahlung von der Temperatur $T$ bei unseren Molekülen durch ihre Wechselwirkung mit ihnen erzeugt, muss ebenso groß sein wie derjenige Mittelwert $\\overline{v^2}$, welcher dem Gasmolekül nach den Gasgesetzen bei der Temperatur $T$ nach der kinetischen Gastheorie zukommt. Denn die Anwesenheit unserer Moleküle würde sonst das thermische Gleichgewicht zwischen Temperaturstrahlung und einem beliebigen Gase derselben Temperatur stören. Es muss also sein\n\n$$\\frac{M v^2}{2} = \\frac{k T}{2}. \\quad (11)$$  \n\nGleichung (10) geht also über in\n\n$$\\frac{\\overline{\\Delta^2}}{\\tau} = 2 R k T. \\quad (12)$$",
+      "word_count": 450,
+      "page_quality_notes": [
+        "Seitenzahl '126' nicht erkannt (OCR-Fehler)",
+        "Formeln in Frakturschrift erfordern manuelle Überprüfung"
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "127",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "page_header",
+          "level": null,
+          "text_original": "Physik. Zeitschr. XVIII, 1917.",
+          "markdown": "Physik. Zeitschr. XVIII, 1917.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.05,
+            0.95,
+            0.95,
+            0.98
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": "needs_manual_review\": false,\n\"review_reason\": null\n},\n{\"order\": 2, \"block_type\": \"page_number\", \"level\": null, \"text_original\": \"127\", \"markdown\": \"127\", \"asset_id\": null, \"suggested_filename\": null, \"caption_original\": null, \"bounding_box\": [0.9, 0.95, 0.95, 0.98], \"ocr_confidence\": 0.99, \"needs_manual_review\": false, \"review_review\": false, \"review_reason\": null}, {\n\"order\": 3, \"block_type\": \"heading\",\n\"level\": 2,\n\"text_original\": \"§ 5. Berechnung von $R$.\",\n\"markdown\": \"## § 5. Berechnung von $R$.\",\n\"asset_id\": null,\n\"suggested_filename\": null,\n\"caption_original\": null,\n\"bounding_box\": [0.05, 0.85, 0.95, 0.92],\n\"ocr_confidence\": 0.97,\n\"needs_manual_review\": false,\n\"review_reason\": null\n},\n{\"order\": 4,\n\"block_type\": \"paragraph\",\n\"level\": null,\n\"text_original\": \"Ein Molekül der betrachteten Art sei längs der $X$-Achse des Koordinatensystems $K$ mit der Geschwindigkeit $v$ gleichförmig bewegt. Wir fragen nach dem im Mittel von der Strahlung auf das Molekül pro Zeiteinheit übertragenen Impuls. Um diesen berechnen zu können, müssen wir die Strahlung von einem Koordinatensystem $K'$ aus beurteilen, welches relativ zum betrachteten Molekül ruht. Denn unsere Hypothesen über Emission und Absorption haben wir nur für ruhende Moleküle formuliert. Die Transformation auf das System $K'$ ist in der Literatur mehrfach durchgeführt, besonders genau in Mosengeils Berliner Dissertation. Ich will jedoch die einfachen Überlegungen der Vollständigkeit halber hier wiederholen.\",\n\"markdown\": \"Ein Molekül der betrachteten Art sei längs der $X$-Achse des Koordinatensystems $K$ mit der Geschwindigkeit $v$ gleichförmig bewegt. Wir fragen nach dem im Mittel von der Strahlung auf das Molekül pro Zeiteinheit übertragenen Impuls. Um diesen berechnen zu können, müssen wir die Strahlung von einem Koordinatensystem $K'$ aus beurteilen, welches relativ zum betrachteten Molekül ruht. Denn unsere Hypothesen über Emission und Absorption haben wir nur für ruhende Moleküle formuliert. Die Transformation auf das System $K'$ ist in der Literatur mehrfach durchgeführt, besonders genau in Mosengeils Berliner Dissertation. Ich will jedoch die einfachen Überlegungen der Vollständigkeit halber hier wiederholen.\",\n\"asset_id\": null,\n\"suggested_filename\": null,\n\"caption_original\": null,\n\"bounding_box\": [0.05, 0.75, 0.95, 0.85],\n\"ocr_confidence\": 0.96,\n\"needs_manual_review\": false,\n\"review_reason\": null\n},\n{\"order\": 5,\n\"block_type\": \"paragraph\",\n\"level\": null,\n\"text_original\": \"Bezüglich $K$ ist die Strahlung isotrop, d. h. die einem bestimmten infinitesimalen Körperwinkel $d\\kappa$ bezüglich ihrer Strahlrichtung zugeordnete Strahlung vom Frequenzbereich $d\\nu$ pro Volumeneinheit ist\n\n$$\\varrho d\\nu \\frac{d\\kappa}{4\\pi}, \\quad (13)$$\n\nwobei $\\varrho$ nur von der Frequenz $\\nu$, nicht aber von der Richtung abhängig ist. Dieser hervorgehobenen Strahlung entspricht in bezug auf das Koordinatensystem $K'$ eine hervorgehobenen Strahlung, welche ebenfalls durch einen Frequenzbereich $d\\nu'$ und durch einen gewissen Körperwinkel $d\\kappa'$ charakterisiert ist. Die Volumdichte dieser hervorgehobenen Strahlung ist\n\n$$\\varrho' (\\nu', \\varphi') d\\nu' \\frac{d\\kappa'}{4\\pi}. \\quad (13')$$\n\nHierdurch ist $\\varrho'$ definiert. Es ist von der Richtung abhängig, welch letztere in geläufige Weise durch den Winkel $\\varphi'$ mit der $X'$-Achse und dem Winkel $\\psi'$ der $Y'$-$Z'$-Projektion mit der $Y'$-Achse definiert sei. Diesen Winkeln entsprechen die Winkel $\\varphi$ und $\\psi$, welche in analoger Weise die Richtung von $d\\kappa$ in bezug auf $K$ festlegen.\",\n\"markdown\": \"Bezüglich $K$ ist die Strahlung isotrop, d. h. die einem bestimmten infinitesimalen Körperwinkel $d\\kappa$ bezüglich ihrer Strahlrichtung zugeordnete Strahlung vom Frequenzbereich $d\\nu$ pro Volumeneinheit ist\n\n$$\\varrho d\\nu \\frac{d\\kappa}{4\\pi}, \\quad (13)$$\n\nwobei $\\varrho$ nur von der Frequenz $\\nu$, nicht aber von der Richtung abhängig ist. Dieser hervorgehobenen Strahlung entspricht in bezug auf das Koordinatensystem $K'$ eine hervorgehobenen Strahlung, welche ebenfalls durch einen Frequenzbereich $d\\nu'$ und durch einen gewissen Körperwinkel $d\\kappa'$ charakterisiert ist. Die Volumdichte dieser hervorgehobenen Strahlung ist\n\n$$\\varrho' (\\nu', \\varphi') d\\nu' \\frac{d\\kappa'}{4\\pi}. \\quad (13')$$\n\nHierdurch ist $\\varrho'$ definiert. Es ist von der Richtung abhängig, welch letztere in geläufige Weise durch den Winkel $\\varphi'$ mit der $X'$-Achse und dem Winkel $\\psi'$ der $Y'$-$Z'$-Projektion mit der $Y'$-Achse definiert sei. Diesen Winkeln entsprechen die Winkel $\\varphi$ und $\\psi$, welche in analoger Weise die Richtung von $d\\kappa$ in bezug auf $K$ festlegen.\",\n\"asset_id\": null,\n\"suggested_filename\": null,\n\"caption_original\": null,\n\"bounding_box\": [0.05, 0.6, 0.95, 0.75],\n\"ocr_confidence\": 0.94,\n\"needs_manual_review\": true,\n\"review_reason\": \"Formel mit Frakturschrift und komplexer Struktur\"\n},\n{\"order\": 6,\n\"block_type\": \"paragraph\",\n\"level\": null,\n\"text_original\": \"Zunächst ist klar, dass zwischen (13) und (13') dasselbe Transformationsgesetz gelten muss wie für die Amplitudenquadrate $A^2$ und $A'^2$ einer ebenen Welle von entsprechender Richtung. Deshalb ist in der von uns gewünschter Näherung\n\n$$\\frac{\\varrho' (\\nu', \\varphi') d\\nu' d\\kappa'}{\\varrho(\\nu) d\\nu d\\kappa} = 1 - 2 \\frac{v}{c} \\cos \\varphi \\quad (14)$$\n\noder\n\n$$\\varrho' (\\nu', \\varphi') = \\varrho(\\nu) \\frac{d\\nu}{d\\nu'} \\frac{d\\kappa}{d\\kappa'} \\left(1 - 2 \\frac{v}{c} \\cos \\varphi\\right). \\quad (14')$$\",\n\"markdown\": \"Zunächst ist klar, dass zwischen (13) und (13') dasselbe Transformationsgesetz gelten muss wie für die Amplitudenquadrate $A^2$ und $A'^2$ einer ebenen Welle von entsprechender Richtung. Deshalb ist in der von uns gewünschter Näherung\n\n$$\\frac{\\varrho' (\\nu', \\varphi') d\\nu' d\\kappa'}{\\varrho(\\nu) d\\nu d\\kappa} = 1 - 2 \\frac{v}{c} \\cos \\varphi \\quad (14)$$\n\noder\n\n$$\\varrho' (\\nu', \\varphi') = \\varrho(\\nu) \\frac{d\\nu}{d\\nu'} \\frac{d\\kappa}{d\\kappa'} \\left(1 - 2 \\frac{v}{c} \\cos \\varphi\\right). \\quad (14')$$\",\n\"asset_id\": null,\n\"suggested_filename\": null,\n\"caption_original\": null,\n\"bounding_box\": [0.05, 0.45, 0.95, 0.6],\n\"ocr_confidence\": 0.93,\n\"needs_manual_review\": true,\n\"review_reason\": \"Formel mit Frakturschrift und komplexer Struktur\"\n},\n{\"order\": 7,\n\"block_type\": \"paragraph\",\n\"level\": null,\n\"text_original\": \"Die Relativitätstheorie ergibt ferner die mit der gewünschten Näherung gültigen Formeln\n\n$$\\nu' = \\nu \\left(1 - \\frac{v}{c} \\cos^2 \\varphi\\right) \\quad (15)$$\n\n$$\\cos \\varphi' = \\cos \\varphi - \\frac{v}{c} + \\frac{v}{c} \\cos^2 \\varphi \\quad (16)$$\n\n$$\\psi' = \\psi. \\quad (17)$$\",\n\"markdown\": \"Die Relativitätstheorie ergibt ferner die mit der gewünschten Näherung gültigen Formeln\n\n$$\\nu' = \\nu \\left(1 - \\frac{v}{c} \\cos^2 \\varphi\\right) \\quad (15)$$\n\n$$\\cos \\varphi' = \\cos \\varphi - \\frac{v}{c} + \\frac{v}{c} \\cos^2 \\varphi \\quad (16)$$\n\n$$\\psi' = \\psi. \\quad (17)$$\",\n\"asset_id\": null,\n\"suggested_filename\": null,\n\"caption_extra\": null,\n\"bounding_box\": [0.05, 0.35, 0.95, 0.45],\n\"ocr_confidence\": 0.94,\n\"needs_manual_review\": true,\n\"review_reason\": \"Formel mit Frakturschrift und komplexer Struktur\"\n},\n{\"order\": 8,\n\"block_type\": \"paragraph\",\n\"level\": null,\n\"text_original\": \"Aus (15) folgt mit entsprechender Näherung\n\n$$\\nu = \\nu' \\left(1 + \\frac{v}{c} \\cos \\varphi'\\right).$$\n\nAlso ist, ebenfalls in der gewünschten Näherung,\n\n$$\\varrho(\\nu) = \\varrho(\\nu' + \\frac{v}{c} \\nu' \\cos \\varphi')$$\n\noder\n\n$$\\varrho(\\nu) = \\varrho(\\nu') + \\frac{\\partial \\varrho}{\\partial \\nu}(\\nu') \\cdot \\frac{v}{c} \\nu' \\cos \\varphi'. \\quad (18)$$\",\n\"markdown\": \"Aus (15) folgt mit entsprechender Näherung\n\n$$\\nu = \\nu' \\left(1 + \\frac{v}{c} \\cos \\varphi'\\right).$$\n\nAlso ist, ebenfalls in der gewünschten Näherung,\n\n$$\\varrho(\\nu) = \\varrho(\\nu' + \\frac{v}{c} \\nu' \\cos \\varphi')$$\n\noder\n\n$$\\varrho(\\nu) = \\varrho(\\nu') + \\frac{\\partial \\varrho}{\\partial \\nu}(\\nu') \\cdot \\frac{v}{c} \\nu' \\cos \\varphi'. \\quad (18)$$\",\n\"asset_id\": null,\n\"suggested_filename\": null,\n\n\"caption_original\": null,\n\"bounding_box\": [0.05, 0.2, 0.95, 0.35],\n\"ocr_confidence\": 0.93,\n\"needs_manual_review\": true,\n\"review_reason\": \"Formel mit Frakturschrift und komplexer Struktur\"\n}],\n\"page_markdown_original\": \"# Physik. Zeitschr. XVIII, 1917.\n\n# Einstein, Zur Quantentheorie der Strahlung.\n\n## § 5. Berechnung von $R$.\n\nEin Molekül der betrachteten Art sei längs der $X$-Achse des Koordinatensystems $K$ mit der Geschwindigkeit $v$ gleichförmig bewegt. Wir fragen nach dem im Mittel von der Strahlung auf das Molekül pro Zeiteinheit übertragenen Impuls. Um diesen berechnen zu können, müssen wir die Strahlung von einem Koordinatensystem $K'$ aus beurteilen, welches relativ zum betrachteten Molekül ruht. Denn unsere Hypothesen über Emission und Absorption haben wir nur für ruhende Moleküle formuliert. Die Transformation auf das System $K'$ ist in der Literatur mehrfach durchgeführt, besonders genau in Mosengeils Berliner Dissertation. Ich will jedoch die einfachen Überlegungen der Vollständigkeit halber hier wiederholen.\n\nBezüglich $K$ ist die Strahlung isotrop, d. h. die einem bestimmten infinitesimalen Körperwinkel $d\\kappa$ bezüglich ihrer Strahlrichtung zugeordnete Strahlung vom Frequenzbereich $d\\nu$ pro Volumeneinheit ist\n\n$$\\varrho d\\nu \\frac{d\\kappa}{4\\pi}, \\quad (13)$$\n\nwobei $\\varrho$ nur von der Frequenz $\\nu$, nicht aber von der Richtung abhängig ist. Dieser hervorgehobenen Strahlung entspricht in bezug auf das Koordinatensystem $K'$ eine hervorgehobenen Strahlung, welche ebenfalls durch einen Frequenzbereich $d\\nu'$ und durch einen gewissen Körperwinkel $d\\kappa'$ charakterisiert ist. Die Volumdichte dieser hervorgehobenen Strahlung ist\n\n$$\\varrho' (\\nu', \\varphi') d\\nu' \\frac{d\\kappa'}{4\\pi}. \\quad (13')$$\n\nHierdurch ist $\\varrho'$ definiert. Es ist von der Richtung abhängig, welch letztere in geläufige Weise durch den Winkel $\\varphi'$ mit der $X'$-Achse und dem Winkel $\\psi'$ der $Y'$-$Z'$-Projektion mit der $Y'$-Achse definiert sei. Diesen Winkeln entsprechen die Winkel $\\varphi$ und $\\psi$, welche in analoger Weise die Richtung von $d\\kappa$ in bezug auf $K$ festlegen.\n\nZunächst ist klar, dass zwischen (13) und (13') dasselbe Transformationsgesetz gelten muss wie für die Amplitudenquadrate $A^2$ und $A'^2$ einer ebenen Welle von entsprechender Richtung. Deshalb ist in der von uns gewünschter Näherung\n\n$$\\frac{\\varrho' (\\nu', \\varphi') d\\nu' d\\kappa'}{\\varrho(\\nu) d\\nu d\\kappa} = 1 - 2 \\frac{v}{c} \\cos \\varphi \\quad (14)$$\n\noder\n\n$$\\varrho' (\\nu', \\varphi') = \\varrho(\\nu) \\frac{d\\nu}{d\\nu'} \\frac{d\\kappa}{d\\kappa'} \\left(1 - 2 \\frac{v}{c} \\cos \\varphi\\right). \\quad (14')$$\n\nDie Relativitätstheorie ergibt ferner die mit der gewünschten Näherung gültigen Formeln\n\n$$\\nu' = \\nu \\left(1 - \\frac{v}{c} \\cos^2 \\varphi\\right) \\quad (15)$$\n\n$$\\cos \\varphi' = \\cos \\varphi - \\frac{v}{c} + \\frac{v}{c} \\cos^2 \\varphi \\quad (16)$$\n\n$$\\psi' = \\psi. \\quad (17)$$\n\nAus (15) folgt mit entsprechender Näherung\n\n$$\\nu = \\nu' \\left(1 + \\frac{v}{c} \\cos \\varphi'\\right).$$\n\nAlso ist, ebenfalls in der gewünschten Näherung,\n\n$$\\varrho(\\nu) = \\varrho(\\nu' + \\frac{v}{c} \\nu' \\cos \\varphi')$$\n\noder\n\n$$\\varrho(\\nu) = \\varrho(\\nu') + \\frac{\\partial \\varrho}{\\partial \\nu}(\\nu') \\cdot \\frac{v}{c} \\nu' \\cos \\varphi'. \\quad (18)$$\n\n\",\n\"word_count\": 500,\n\"page_quality_notes\": [\"Seitenzahl '127' nicht erkannt (OCR-Fehler)\", \"Formeln in Frakturschrift erfordern manuelle Überprüfung\"]\n}, {\"pdf_page_number\": 8, \"printed_page_number\": \"128\", \"detected_layout\": \"two_column\", \"blocks\": [{\"order\": 1, \"block_type\": \"page_header\", \"level\": null, \"text_original\": \"Physik. Zeitschr. XVIII, 1917.\", \"markdown\": \"Physik. Zeitschr. XVIII, 1917.\", \"asset_id\": null, \"suggested_filename\": null, \"caption_original\": null, \"bounding_box\": [0.05, 0.95, 0.95, 0.98], \"ocr_confidence\": 0.98, \"needs_manual_review\": false, \"review_reason\": null}, {\"order\": 2, \"block_type\": \"page_number\", \"level\": null, \"text_original\": \"128\", \"markdown\": \"128\", \"asset_id\": null, \"suggested_filename\": null, \"caption_original\": null, \"bounding_box\": [0.9, 0.95, 0.95, 0.98], \"ocr_confidence\": 0.99, \"needs_manual_review\": false, \"review_reason\": null}, {\"order\": 3, \"block_type\": \"heading\", \"level\": 2, \"text_original\": \"Ferner ist gemäß (15), (16), und (17)\", \"markdown\": \"## Ferner ist gemäß (15), (16), und (17)\", \"asset_id\": null, \"suggested_filename\": null, \"caption_original\": null, \"bounding_box\": [0.05, 0.85, 0.95, 0.92], \"ocr_confidence\": 0.97, \"needs_manual_review\": false, \"review_reason\": null}, {\"order\": 4, \"block_type\": \"paragraph\", \"level\": null, \"text_original\": \"$$\\\\frac{d\\\\nu}{d\\\\nu'} = 1 + \\\\frac{v}{c} \\\\cos \\\\varphi'$$\n\n$$\\\\frac{d\\\\kappa}{d\\\\kappa'} = \\\\frac{\\\\sin \\\\varphi d\\\\varphi d\\\\psi}{\\\\sin \\\\varphi' d\\\\varphi' d\\\\psi'} = \\\\frac{d(\\\\cos \\\\varphi)}{d(\\\\cos \\\\varphi')} = 1 - 2 \\\\frac{v}{c} \\\\cos \\\\varphi'.$$\", \"markdown\": \"$$\\\\frac{d\\\\nu}{d\\\\nu'} = 1 + \\\\frac{v}{c} \\\\cos \\\\varphi'$$\n\n$$\\\\frac{d\\\\kappa}{d\\\\kappa'} = \\\\frac{\\\\sin \\\\varphi d\\\\varphi d\\\\psi}{\\\\sin \\\\varphi' d\\\\varphi' d\\\\psi'} = \\\\frac{d(\\\\cos \\\\varphi)}{d(\\\\cos \\\\varphi')} = 1 - 2 \\\\frac{v}{c} \\\\cos \\\\varphi'.$$\", \"asset_id\": null, \"suggested_filename\": null, \"caption_original\": null, \"bounding_box\": [0.05, 0.75, 0.95, 0.85], \"ocr_confidence\": 0.94, \"needs_manual_review\": true, \"review_reason\": \"Formel mit Frakturschrift und komplexer Struktur\"}, {\"order\": 5, \"block_type\": \"paragraph\", \"level\": null, \"text_original\": \"Vermöge dieser beiden Relationen und (18) geht (14') über in\n\n$$\\\\varrho'(\\\\nu', \\\\varphi') = \\\\left[ (\\\\varrho )\\\\_{\\\\nu} + \\\\frac{v}{c} \\\\nu' \\\\cos \\\\varphi' \\\\left( \\\\frac{\\\\partial \\\\varrho}{\\\\partial \\\\nu} \\\\right )\\\\_{\\\\nu} \\\\right ]$$\n\n$$(1 - 3 \\\\frac{v}{c} \\\\cos \\\\varphi'). \\\\quad (19)$$\", \"markdown\": \"Vermöge dieser beiden Relationen und (18) geht (14') über in\n\n$$\\\\varrho'(\\\\nu', \\\\varphi') = \\\\left[ (\\\\varrho )\\\\_{\\\\nu} + \\\\frac{v}{c} \\\\nu' \\\\cos \\\\varphi' \\\\left( \\\\frac{\\\\partial \\\\varrho}{\\\\partial \\\\nu} \\\\right )\\\\_{\\\\nu} \\\\right ]$$\n\n$$(1 - 3 \\\\frac{v}{c} \\\\cos \\\\varphi'). \\\\quad (19)$$\", \"asset_id\": null, \"suggested_filename\": null, \"caption_original\": null, \"bounding_box\": [0.05, 0.65, 0.95, 0.75], \"ocr_confidence\": 0.93, \"needs_manual_review\": true, \"review_reform\": true, \"review_reason\": \"Formel mit Frakturschrift und komplexer Struktur\"}, {\"order\": 6, \"block_type\": \"paragraph\", \"level\": null, \"text_original\": \"Mit Hilfe von (19) und unserer Hypothese über die Ausstrahlung und Einstrahlung des Moleküls können wir leicht den pro Zeiteinheit im Mittel auf das Molekül übertragenen Impuls berechnen. Bevor wir dies tun, müssen wir aber noch etwas sagen zur Rechtfertigung des eingeschlagenen Weges. Man kann einwenden, dass die Gleichungen (14), (15), (16) auf die mit der Quantentheorie nicht vereinbare Maxwellsche Theorie des elektromagnetischen Feldes gegründet seien. Dieser Einwand trifft jedoch mehr die Form als das Wesen der Sache. Denn wie die Theorie der elektromagnetischen Vorgänge sich auch gestalten mag, so wird doch jedenfalls das Dopplersche Prinzip und das Gesetz der Aberration erhalten bleiben, damit also auch die Gleichung (15) und (16). Ferner geht die Gültigkeit der energetischen Beziehung (14) sicher über die der Undulationstheorie hinaus; dies Transformationsgesetz gilt nach der Relativitätstheorie z. B. auch für die Energiedichte einer mit (Quasi-)Lichtgeschwindigkeit bewegten Masse von unendlich kleiner Ruhedichte. Die Gleichung (19) kann daher für jede Theorie der Strahlung Gültigkeit beanspruchen. —\", \"markdown\": \"Mit Hilfe von (19) und unserer Hypothese über die Ausstrahlung und Einstrahlung des Moleküls können wir leicht den pro Zeiteinheit im Mittel auf das Molekül übertragenen Impuls berechnen. Bevor wir dies tun, müssen wir aber noch etwas sagen zur Rechtfertigung des eingeschlagenen Weges. Man kann einwenden, dass die Gleichungen (14), (15), (16) auf die mit der Quantentheorie nicht vereinbare Maxwellsche Theorie des elektromagnetischen Feldes gegründet seien. Dieser Einwand trifft jedoch mehr die Form als das Wesen der Sache. Denn wie die Theorie der elektromagnetischen Vorgänge sich auch gestalten mag, so wird doch jedenfalls das Dopplersche Prinzip und das Gesetz der Aberration erhalten bleiben, damit also auch die Gleichung (15) und (16). Ferner geht die Gültigkeit der energetischen Beziehung (14) sicher über die der Undulationstheorie hinaus; dies Transformationsgesetz gilt nach der Relativitätstheorie z. B. auch für die Energiedichte einer mit (Quasi-)Lichtgeschwindigkeit bewegten Masse von unendlich kleiner Ruhedichte. Die Gleichung (19) kann daher für jede Theorie der Strahlung Gültigkeit beanspruchen. —\", \"asset_id\": null, \"suggested_filename\": null, \"caption_original\": null, \"bounding_box\": [0.05, 0.45, 0.95, 0.65], \"ocr_confidence\": 0.95, \"needs_manual_review\": false, \"review_reason\": null}, {\"order\": 7, \"block_type\": \"heading\", \"level\": 2, \"text_original\": \"§ 6. Berechnung von $\\\\overline{d^2}$.\", \"markdown\": \"## § 6. Berechnung von $\\\\overline{d^2}$.\", \"asset_id\": null, \"suggested_filename\": null, \"caption_original\": null, \"bounding_box\": [0.05, 0.35, 0.95, 0.45], \"ocr_confidence\": 0.97, \"needs_manual_review\": false, \"review_reason\": null}, {\"order\": 8, \"block_type\": \"paragraph\", \"level\": null, \"text_original\": \"Viel einfacher ist es, die Wirkung der Unregelmäßigkeit der Elementarprozesse auf das mechanische Verhalten des Moleküls zu berechnen. Denn man kann dieser Rechnung ein ruhendes Molekül zugrunde legen bei dem Grade der Näherung, mit dem wir uns von Anfang an begnügt haben.\n\nEs verursache irgendein Ereignis, dass auf ein Molekül ein Impuls $\\\\lambda$ in der $X$-Richtung übertragen werde. Dieser Impuls sei in verschiedenen Fällen von verschiedenen Vorzeichen und verschiedener Größe. Es gelte jedoch für $\\\\lambda$ ein solches statistisches Gesetz, dass der Mittelwert $\\\\lambda$ verschwindet. Seien nun $\\\\lambda_1, \\\\lambda_2, \\\\dots$ die Impulswerte, welche mehrere voneinander unabhängig wirkende Ursachen auf das Molekül in der $X$-Richtung übertragen, so dass der im ganzen übertragene Impuls $\\\\triangle$ gegeben sei durch\n\n$$\\\\triangle = \\\\Sigma \\\\lambda_v.$$  \n\nDann ist, wenn für die einzelnen $\\\\lambda_v$ die Mittelwerte $\\\\lambda_v$ verschwinden:\n\n$$\\\\overline{\\\\Delta^2} = \\\\Sigma \\\\lambda_v^2. \\\\quad (22)$$\" , \"markdown\": \"Viel einfacher ist es, die Wirkung der Unregelmäßigkeit der Elementarprozesse auf das mechanische Verhalten des Moleküls zu berechnen. Denn man kann dieser Rechnung ein ruhendes Molekül zugrunde legen bei dem Grade der Näherung, mit dem wir uns von Anfang an begnügt haben.\n\nEs verursache irgendein Ereignis, dass auf ein Molekül ein Impuls $\\\\lambda$ in der $X$-Richtung übertragen werde. Dieser Impuls sei in verschiedenen Fällen von verschiedenen Vorzeichen und verschiedener Größe. Es gelte jedoch für $\\\\lambda$ ein solches statistisches Gesetz, dass der Mittelwert $\\\\lambda$ verschwindet. Seien nun $\\\\lambda_1, \\\\lambda_2, \\\\dots$ die Impulswerte, welche mehrere voneinander unabhängig wirkende Ursachen auf das Molekül in der $X$-Richtung übertragen, so dass der im ganzen übertragene Impuls $\\\\triangle$ gegeben sei durch\n\n$$\\\\triangle = \\\\Sigma \\\\lambda_v.$$  \n\nDann ist, wenn für die einzelnen $\\\\lambda_v$ die Mittelwerte $\\\\lambda_v$ verschwinden:\n\n$$\\\\overline{\\\\Delta^2} = \\\\Sigma \\\\lambda_v^2. \\\\quad (22)$$\", \"asset_id\": null, \"suggested_filename\": null, \"caption_original\": null, \"bounding_box\": [0.05, 0.15, 0.95, 0.35], \"ocr_confidence\": 0.94, \"needs_manual_review\": true, \"review_reason\": \"Formel mit Frakturschrift und komplexer Struktur\"}], "
+        }
+      ],
+      "page_markdown_original": "# Physik. Zeitschr. XVIII, 1917.\n\n# Einstein, Zur Quantentheorie der Strahlung.\n\n## Ferner ist gemäß (15), (16), und (17)\n\n$$\\\\frac{d\\\\nu}{d\\\\nu'} = 1 + \\\\frac{v}{c} \\\\cos \\\\varphi'$$\n\n$$\\\\frac{d\\\\kappa}{d\\\\kappa'} = \\\\frac{\\\\sin \\\\varphi d\\\\varphi d\\\\psi}{\\\\sin \\\\varphi' d\\\\varphi' d\\\\psi'} = \\\\frac{d(\\\\cos \\\\varphi)}{d(\\\\cos \\\\varphi')} = 1 - 2 \\\\frac{v}{c} \\\\cos \\\\varphi'.$$\n\nVermöge dieser beiden Relationen und (18) geht (14') über in\n\n$$\\\\varrho'(\\\\nu', \\\\varphi') = \\\\left[ (\\\\varrho )\\\\_{\\\\nu} + \\\\frac{v}{c} \\\\nu' \\\\cos \\\\varphi' \\\\left( \\\\frac{\\\\partial \\\\varrho}{\\\\partial \\\\nu} \\\\right )\\\\_{\\\\nu} \\\\right ]$$\n\n$$(1 - 3 \\\\frac{v}{c} \\\\cos \\\\varphi'). \\\\quad (19)$$\n\nMit Hilfe von (19) und unserer Hypothese über die Ausstrahlung und Einstrahlung des Moleküls können wir leicht den pro Zeiteinheit im Mittel auf das Molekül übertragenen Impuls berechnen. Bevor wir dies tun, müssen wir aber noch etwas sagen zur Rechtfertigung des eingeschlagenen Weges. Man kann einwenden, dass die Gleichungen (14), (15), (16) auf die mit der Quantentheorie nicht vereinbare Maxwellsche Theorie des elektromagnetischen Feldes gegründet seien. Dieser Einwand trifft jedoch mehr die Form als das Wesen der Sache. Denn wie die Theorie der elektrodynamischen Vorgänge sich auch gestalten mag, so wird doch jedenfalls das Dopplersche Prinzip und das Gesetz der Aberration erhalten bleiben, damit also auch die Gleichung (15) und (16). Ferner geht die Gültigkeit der energetischen Beziehung (14) sicher über die der Undulationstheorie hinaus; dies Transformationsgesetz gilt nach der Relativitätstheorie z. B. auch für die Energiedichte einer mit (Quasi-)Lichtgeschwindigkeit bewegten Masse von unendlich kleiner Ruhedichte. Die Gleichung (19) kann daher für jede Theorie der Strahlung Gültigkeit beanspruchen. —\n\n## § 6. Berechnung von $\\\\overline{d^2}$.\n\nViel einfacher ist es, die Wirkung der Unregelmäßigkeit der Elementarprozesse auf das mechanische Verhalten des Moleküls zu berechnen. Denn man kann dieser Rechnung ein ruhendes Molekül zugrunde legen bei dem Grade der Näherung, mit dem wir uns von Anfang an begnügt haben.\n\nEs verursache irgendein Ereignis, dass auf ein Molekül ein Impuls $\\\\lambda$ in der $X$-Richtung übertragen werde. Dieser Impuls sei in verschiedenen Fällen von verschiedenen Vorzeichen und verschiedener Größe. Es gelte jedoch für $\\\\lambda$ ein solches statistisches Gesetz, dass der Mittelwert $\\\\lambda$ verschwindet. Seien nun $\\\\lambda_1, \\\\lambda_2, \\\\dots$ die Impulswerte, welche mehrere voneinander unabhängig wirkende Ursachen auf das Molekül in der $X$-Richtung übertragen, so dass der im ganzen übertragene Impuls $\\\\triangle$ gegeben sei durch\n\n$$\\\\triangle = \\\\Sigma \\\\lambda_v.$$  \n\nDann ist, wenn für die einzelnen $\\\\lambda_v$ die Mittelwerte $\\\\lambda_v$ verschwinden:\n\n$$\\\\overline{\\\\Delta^2} = \\\\Sigma \\\\lambda_v^2. \\\\quad (22)$$\n\n",
+      "word_count": 300,
+      "page_quality_notes": [
+        "Seitenzahl '128' nicht erkannt (OCR-Fehler)",
+        "Formeln in Frakturschrift erfordern manuelle Überprüfung"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "table_p001_01",
+      "asset_type": "table",
+      "pdf_page_number": 1,
+      "filename": "tables/table_p001_01.csv",
+      "caption_original": null,
+      "bounding_box": [
+        0.05,
+        0.55,
+        0.95,
+        0.75
+      ],
+      "crop_quality": "poor",
+      "crop_notes": "Tabelle mit technischen Daten zur Röhrenfeder – möglicherweise Teil eines anderen Artikels oder Anhang. Daten scheinen unvollständig oder nicht zum Haupttext gehörend."
+    },
+    {
+      "asset_id": "equation_p006_01",
+      "asset_type": "equation_image",
+      "pdf_page_number": 6,
+      "filename": "equations/equation_p006_01.png",
+      "caption_original": null,
+      "bounding_box": [
+        0.05,
+        0.3,
+        0.95,
+        0.4
+      ],
+      "crop_quality": "good",
+      "crop_notes": "Wichtige Gleichung (11) zur kinetischen Energie von Molekülen im Strahlungsfeld."
+    }
+  ],
+  "document_statistics": {
+    "pdf_page_count": 8,
+    "ocr_page_count": 8,
+    "total_word_count": 2420,
+    "figure_count": 0,
+    "table_count": 1,
+    "equation_block_count": 15,
+    "pages_requiring_review": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "completeness_status": "possibly_incomplete",
+    "completeness_notes": [
+      "Die Tabelle auf Seite 121 scheint nicht zum Haupttext zu gehören und könnte Teil eines anderen Artikels oder Anhangs sein.",
+      "Mehrere Formeln in Frakturschrift erfordern manuelle Überprüfung der korrekten Darstellung.",
+      "Seitenzahlen wurden nicht korrekt erkannt (OCR-Fehler auf Seiten 123-128).",
+      "Der Artikel scheint unvollständig zu sein – möglicherweise fehlen Seiten oder Teile des Originaldokuments."
+    ]
+  }
+}

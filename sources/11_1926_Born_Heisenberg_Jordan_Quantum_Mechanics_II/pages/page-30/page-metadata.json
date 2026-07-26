@@ -1,0 +1,200 @@
+{
+  "index": 29,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 102,
+      "topLeftY": 100,
+      "bottomRightX": 130,
+      "bottomRightY": 117,
+      "content": "586",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 100,
+      "bottomRightX": 455,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 137,
+      "bottomRightX": 579,
+      "bottomRightY": 176,
+      "content": "Konvergenz der Potenzreihe nach $\\lambda$ wesentlich von der geschickten Wahl von $H_0$ abhängen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 177,
+      "bottomRightX": 323,
+      "bottomRightY": 194,
+      "content": "Um die Hermitesche Form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 201,
+      "bottomRightX": 379,
+      "bottomRightY": 232,
+      "content": "$$\\sum_{mn} H_{mn} x_m x_n^*$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 237,
+      "bottomRightX": 579,
+      "bottomRightY": 256,
+      "content": "auf ihre Hauptachsen zu transformieren, kann man bekanntlich so verfahren:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 258,
+      "bottomRightX": 373,
+      "bottomRightY": 275,
+      "content": "Man suche die linearen Gleichungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 281,
+      "bottomRightX": 579,
+      "bottomRightY": 312,
+      "content": "$$W x_k - \\sum_l H(kl) x_l = 0 \\quad (15)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 315,
+      "bottomRightX": 579,
+      "bottomRightY": 414,
+      "content": "zu lösen; das ist nur möglich für gewisse Werte des Parameters $W$, nämlich $W = W_n$, wo $W_n$ wieder die Eigenwerte (Energiewerte) bedeuten. Wir nehmen zunächst an, daß keine Entartung vorliegt, also alle $W_n$ verschieden sind. Dann gehört zu jedem $W_n$ eine bis auf einen Faktor bestimmte Lösung $x_k = x_{kn}$; es gelten also die Identitäten",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 423,
+      "bottomRightX": 441,
+      "bottomRightY": 452,
+      "content": "$$W_n x_{kn} - \\sum_l H(kl) x_{ln} = 0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 459,
+      "bottomRightX": 450,
+      "bottomRightY": 490,
+      "content": "$$W_m x_{km}^* - \\sum_l H^*(kl) x_{lm}^* = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 498,
+      "bottomRightX": 580,
+      "bottomRightY": 557,
+      "content": "Multipliziert man die erste mit $x_{km}^*$, die zweite mit $x_{kn}$ und summiert über $k$, so folgt durch Subtraktion wegen des Hermiteschen Charakters von $H$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 558,
+      "bottomRightX": 438,
+      "bottomRightY": 587,
+      "content": "$$(W_n - W_m) \\sum_k x_{kn} x_{km}^* = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 593,
+      "bottomRightX": 579,
+      "bottomRightY": 630,
+      "content": "Durch geeignete Wahl des Proportionalitätsfaktors kann man es ferner erreichen, daß",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 626,
+      "bottomRightX": 395,
+      "bottomRightY": 658,
+      "content": "$$\\sum_k x_{kn} x_{kn}^* = 1$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 663,
+      "bottomRightX": 455,
+      "bottomRightY": 681,
+      "content": "ist. Folglich bilden die $x_{kn}$ eine orthogonale Matrix",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 301,
+      "topLeftY": 686,
+      "bottomRightX": 380,
+      "bottomRightY": 705,
+      "content": "$$S = (x_{kn}).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 711,
+      "bottomRightX": 580,
+      "bottomRightY": 749,
+      "content": "Diese ist es gerade, welche die gegebene Form auf eine Quadratsumme transformiert; denn setzt man",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 290,
+      "topLeftY": 754,
+      "bottomRightX": 397,
+      "bottomRightY": 785,
+      "content": "$$x_k = \\sum_n x_{kn} y_n$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 784,
+      "bottomRightX": 309,
+      "bottomRightY": 800,
+      "content": "in die Form ein, so erhält man",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 197,
+      "topLeftY": 809,
+      "bottomRightX": 494,
+      "bottomRightY": 916,
+      "content": "$$\\begin{aligned} \\sum_{kl} H(kl) x_k x_l^* &= \\sum_{kl} \\sum_{mn} H(kl) x_{km} x_{ln}^* y_m y_n^* \\\\ &= \\sum_{mn} \\sum_l W_m x_{lm} x_{ln}^* y_m y_n^* \\\\ &= \\sum_m W_m y_m y_m^*. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

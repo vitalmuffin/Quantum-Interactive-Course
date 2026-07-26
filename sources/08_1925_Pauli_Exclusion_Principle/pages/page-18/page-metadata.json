@@ -1,0 +1,128 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 91,
+      "topLeftY": 86,
+      "bottomRightX": 121,
+      "bottomRightY": 102,
+      "content": "782",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 297,
+      "topLeftY": 87,
+      "bottomRightX": 372,
+      "bottomRightY": 103,
+      "content": "W. Pauli jr.,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 124,
+      "bottomRightX": 578,
+      "bottomRightY": 163,
+      "content": "$j$-Werte (2, 2, 1, 0) zukommen und daß auch die $g$-Werte dieser Terme mit den theoretisch zu erwartenden im Einklang sind$^{1)}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 164,
+      "bottomRightX": 578,
+      "bottomRightY": 344,
+      "content": "Kehren wir nun wieder zur Diskussion der allmählichen Ausbildung der Achterschale zurück. Mittels des Reziprozitätssatzes, den wir auf die ganze Bohrsche Untergruppe mit $k = 2$ anwenden, die ja im abgeschlossenen Zustand sechs Elektronen enthält, können wir von den über die Viererschale gewonnenen Resultaten direkt zu der Anzahl der Realisierungsmöglichkeiten der Sechserschale (vier Elektronen mit $k_i = 2$) übergehen, wie sie z. B. bei 0 realisiert ist. Zu den Fällen a), b), c) der Viererschale sind offenbar im genannten Sinne die folgenden Fälle der Sechserschale konjugiert:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 349,
+      "bottomRightX": 578,
+      "bottomRightY": 407,
+      "content": "a) Vier äquivalente $n_{22}$-Elektronen (zwei leere Plätze in der $n_{21}$-Gruppe). Diese Teil-Untergruppe ist abgeschlossen; daher wie oben unter a) ein Term mit $j = 0$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 412,
+      "bottomRightX": 578,
+      "bottomRightY": 452,
+      "content": "b) Ein $n_{21}$, drei äquivalente $n_{22}$-Elektronen (ein leerer Platz in der $n_{21}$, ein leerer Platz in der $n_{22}$-Gruppe).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 125,
+      "topLeftY": 456,
+      "bottomRightX": 412,
+      "bottomRightY": 494,
+      "content": "Wie oben ein Term mit $j = 2$ und ein Term mit $j = 1$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 500,
+      "bottomRightX": 576,
+      "bottomRightY": 540,
+      "content": "c) Zwei äquivalente $n_{21}$, zwei äquivalente $n_{22}$-Elektronen (zwei leere Plätze in der $n_{22}$-Gruppe).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 125,
+      "topLeftY": 541,
+      "bottomRightX": 506,
+      "bottomRightY": 559,
+      "content": "Die erste Teil-Untergruppe ist abgeschlossen. Wie oben",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 260,
+      "topLeftY": 564,
+      "bottomRightX": 406,
+      "bottomRightY": 602,
+      "content": "ein Term mit $j = 2$, ein Term mit $j = 0$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 608,
+      "bottomRightX": 576,
+      "bottomRightY": 666,
+      "content": "Wir hätten demnach auch hier, z. B. bei Sauerstoff, fünf $p$-Terme mit der kleinsten Hauptquantenzahl zu erwarten. Es sind bisher bei 0 und 5 nur drei solche Terme beobachtet worden, und zwar mit den",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 681,
+      "bottomRightX": 576,
+      "bottomRightY": 773,
+      "content": "$^{1)}$ Diese Angaben wurden mir durch das Entgegenkommen von Herrn Back ermöglicht, der mir in seine Messungsresultate schon vor ihrer Veröffentlichung freundlichst Einsichtnahme gestattete. Hierfür möchte ich ihm auch an dieser Stelle meinen wärmsten Dank aussprechen. Herr Back wird über seine Messungen in Verbindung mit der allgemeinen Frage der Termordnung des Bleispektrums demnächst an anderer Stelle berichten.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 772,
+      "bottomRightX": 576,
+      "bottomRightY": 908,
+      "content": "Anmerkung bei der Korrektur: Die Termordnung der Spektren von Blei und Zinn wurde inzwischen in einer Arbeit von Frl. Sponer weitergeführt, deren wichtigste Resultate in der Sitzung des Gauvereins Niedersachsen in Göttingen am 9. Februar vorgetragen wurden. Bei Zinn ergaben sich fünf $p$-Terme mit maximaler Hauptquantenzahl, deren $j$-Werte genau den theoretisch zu erwartenden entsprechen. Bei Blei stimmen die erhaltenen $j$-Werte der vier bekannten größten $p$-Terme mit den Angaben des Textes überein. Für die Existenz eines fünften $p$-Termes mit $j = 0$, wie er bei Zinn vorhanden ist, konnten auch bei Blei Anhaltspunkte gewonnen werden.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "index": 31,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 102,
+      "bottomRightX": 133,
+      "bottomRightY": 117,
+      "content": "588",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 102,
+      "bottomRightX": 456,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 581,
+      "bottomRightY": 176,
+      "content": "Ebenso leicht gewinnt man die Lösung der dritten Näherung; wir geben nur den Energiewert an:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 187,
+      "bottomRightX": 581,
+      "bottomRightY": 274,
+      "content": "$$W^{(3)} = H^{(3)}(nn) - \\frac{1}{h} \\sum_l' \\frac{H^{(1)}(nl) H^{(2)}(ln) + H^{(2)}(nl) H^{(1)}(ln)}{\\nu_0(ln)} + \\frac{1}{h^2} \\left( \\sum_{kl}' \\frac{H^{(1)}(nl) H^{(1)}(lk) H^{(1)}(kn)}{\\nu_0(ln) \\nu_0(kn)} - H^{(1)}(nn) \\sum_l' \\frac{H^{(1)}(nl) H^{(1)}(ln)}{\\nu_0(ln)^2} \\right).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 282,
+      "bottomRightX": 581,
+      "bottomRightY": 323,
+      "content": "Die vorläufig willkürlichen Größen $y_n^{(0)}, y_n^{(1)}, \\dots$ dienen dazu, die Lösung zu normieren (orthogonal ist sie von selbst); die Bedingung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 287,
+      "topLeftY": 331,
+      "bottomRightX": 395,
+      "bottomRightY": 362,
+      "content": "$$\\sum_k x_{kn} x_{kn}^* = 1$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 363,
+      "bottomRightX": 172,
+      "bottomRightY": 380,
+      "content": "liefert für",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 380,
+      "bottomRightX": 452,
+      "bottomRightY": 402,
+      "content": "$$x_{kn} = x_{kn}^0 + \\lambda x_{kn}^{(1)} + \\lambda^2 x_{kn}^{(2)} + \\dots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 406,
+      "bottomRightX": 215,
+      "bottomRightY": 424,
+      "content": "die Gleichungen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 423,
+      "bottomRightX": 441,
+      "bottomRightY": 503,
+      "content": "$$\\sum_k x_{kn}^0 x_{kn}^{*0} = 1$$\n$$\\sum_k (x_{kn}^0 x_{kn}^{*(1)} + x_{kn}^{(1)} x_{kn}^{*0}) = 0$$\n$$\\dots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 514,
+      "bottomRightX": 581,
+      "bottomRightY": 531,
+      "content": "Setzt man hier die eben gefundene Lösung ein, so folgt der Reihe nach",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 262,
+      "topLeftY": 539,
+      "bottomRightX": 422,
+      "bottomRightY": 605,
+      "content": "$$|y_n^0|^2 = 1$$\n$$y_n^0 y_n^{*(1)} + y_n^{*0} y_n^{(1)} = 0$$\n$$\\dots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 606,
+      "bottomRightX": 206,
+      "bottomRightY": 622,
+      "content": "Setzen wir nun",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 620,
+      "bottomRightX": 581,
+      "bottomRightY": 642,
+      "content": "$$y_n^{(p)} = a_n^{(p)} e^{i\\varphi_n(p)}, \\quad (21)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 642,
+      "bottomRightX": 211,
+      "bottomRightY": 659,
+      "content": "so erhalten wir:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 183,
+      "topLeftY": 658,
+      "bottomRightX": 581,
+      "bottomRightY": 748,
+      "content": "$$\\left. \\begin{aligned} a_n^0 &= 1 \\\\ 2 a_n^{(1)} \\cos(\\varphi_n^0 - \\varphi_n^{(1)}) &= 0 \\\\ 2 a_n^{(r)} \\cos(\\varphi_n^0 - \\varphi_n^{(r)}) &= F^{(r)}(a^{(r-1)}, \\varphi^{(r-1)}, \\dots). \\end{aligned} \\right\\} \\quad (22)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 752,
+      "bottomRightX": 581,
+      "bottomRightY": 832,
+      "content": "Man kann also die Phasenkonstanten $\\varphi_n^0, \\varphi_n^{(1)}, \\dots$ beliebig wählen; dann sind die $a_n^0, a_n^{(1)}, \\dots$ sukzessive berechenbar und eindeutig bestimmt. Das steht in Übereinstimmung mit unserem früher (§ 3) gefundenen Resultat, daß die Phasen der Diagonalglieder von $S$ unbestimmt bleiben.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 836,
+      "bottomRightX": 581,
+      "bottomRightY": 917,
+      "content": "Setzt man die gefundenen Werte $a_n^0 = 1, \\dots$ in (21) Kap. 3 und dies in (18), (19), (20), Kap. 3, ein, so sieht man, daß das früher durchgeführte „Störungsverfahren“ gerade die Lösung geliefert hat, bei der die Phasen $\\varphi_n^{(p)}$ verschwinden, also die Diagonalglieder von $S$ reell sind.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

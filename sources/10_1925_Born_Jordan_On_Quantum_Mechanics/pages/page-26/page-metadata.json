@@ -1,0 +1,146 @@
+{
+  "index": 25,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 279,
+      "topLeftY": 102,
+      "bottomRightX": 410,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 555,
+      "topLeftY": 102,
+      "bottomRightX": 583,
+      "bottomRightY": 118,
+      "content": "883",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 139,
+      "bottomRightX": 524,
+      "bottomRightY": 157,
+      "content": "Wir haben auch die Energie direkt ausgerechnet und gefunden:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 159,
+      "bottomRightX": 583,
+      "bottomRightY": 196,
+      "content": "$$W_n = h\\nu_0\\left(n + \\frac{1}{2}\\right) - \\lambda^2 \\frac{5}{3} \\frac{C^2}{\\omega_0^2} \\left(n(n+1) + \\frac{17}{30}\\right) + \\cdots \\quad (88)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 199,
+      "bottomRightX": 583,
+      "bottomRightY": 237,
+      "content": "Die Frequenzbedingung ist in der Tat erfüllt, denn man hat mit Rücksicht auf (82):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 235,
+      "bottomRightX": 541,
+      "bottomRightY": 275,
+      "content": "$$W_n - W_{n-1} = h\\nu_0 - \\lambda^2 \\frac{2 C^2}{\\omega_0^2} n + \\cdots = \\frac{h}{2\\pi} \\omega(n, n-1),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 150,
+      "topLeftY": 275,
+      "bottomRightX": 541,
+      "bottomRightY": 311,
+      "content": "$$W_n - W_{n-2} = 2h\\nu_0 + \\cdots = \\frac{h}{2\\pi} \\omega(n, n-2).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 315,
+      "bottomRightX": 583,
+      "bottomRightY": 434,
+      "content": "An die Formel (88) kann man mit Heisenberg die Bemerkung knüpfen, daß schon in den Gliedern niederster Ordnung eine Abweichung von der klassischen Theorie vorhanden ist, die man durch Einführung einer „halbzahligen“ Quantenzahl $n' = n + \\frac{1}{2}$ formal beheben kann. Übrigens stimmen unsere Ausdrücke $\\omega(n, n-1)$ nach (86) und die klassischen Frequenzen genau überein. Denn die klassische Energie ist ¹):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 436,
+      "bottomRightX": 466,
+      "bottomRightY": 474,
+      "content": "$$W_n^{(kl)} = h\\nu_0 n - \\lambda^2 \\cdot \\frac{5}{3} \\frac{C^2}{\\omega_0^2} n^2 + \\cdots,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 473,
+      "bottomRightX": 299,
+      "bottomRightY": 490,
+      "content": "also die klassische Frequenz:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 490,
+      "bottomRightX": 512,
+      "bottomRightY": 566,
+      "content": "$$\\begin{aligned} \\omega_{kl} &= \\frac{1}{h} \\frac{\\partial W_n^{(kl)}}{\\partial n} = h\\nu_0 - \\lambda^2 \\frac{5}{3} \\frac{C^2}{\\omega_0^2} n + \\cdots \\\\ &= \\omega_{qu}(n, n-1) = \\frac{1}{h} \\left( W_n^{(qu)} - W_{n-1}^{(qu)} \\right). \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 572,
+      "bottomRightX": 584,
+      "bottomRightY": 629,
+      "content": "Wir haben schließlich geprüft, daß der Ausdruck (88) auch aus der Kramers-Bornschen Störungsformel erhalten werden kann (bis auf die additive Konstante).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 157,
+      "topLeftY": 641,
+      "bottomRightX": 529,
+      "bottomRightY": 660,
+      "content": "#### Kapitel IV. Bemerkungen zur Elektrodynamik.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 664,
+      "bottomRightX": 586,
+      "bottomRightY": 864,
+      "content": "Nach Heisenberg sollen die Quadrate der Absolutwerte $|q(nm)|^2$ der Elemente von $\\boldsymbol{q}$ für den Fall, daß $\\boldsymbol{q}$ kartesische Koordinate ist, maßgebend für die Sprungwahrscheinlichkeiten sein. Wir möchten hier zum Schluß noch ausführen, in welcher Weise diese Annahme aus allgemeineren Überlegungen heraus eine Begründung erhalten kann. Notwendig ist dazu ein Eingehen auf die Frage, wie die Grundgleichungen der Elektrodynamik im Sinne der neuen Theorie umzudeuten sind. Wir möchten aber betonen, daß die hier mitgeteilten Überlegungen nur vorläufigen Charakter haben; sie sollen unsere grundsätzliche Stellungnahme zu der Aufgabe erkennen lassen. Eine ausführliche Behandlung der hier",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 875,
+      "bottomRightX": 586,
+      "bottomRightY": 920,
+      "content": "¹) S. M. Born, Atommechanik (Berlin 1925), 4. Kapitel, § 42, S. 294; in der Formel (6) ist $a = 1/3$ zu setzen, um mit unserem Ansatz in Übereinstimmung zu kommen.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

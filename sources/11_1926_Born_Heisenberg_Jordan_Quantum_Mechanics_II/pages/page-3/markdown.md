@@ -1,0 +1,13 @@
+Zur Quantenmechanik. II.
+
+559
+
+quantenmechanische Grundgleichung (Kap. 1, § 1), die für alle möglichen Bewegungen Geltung hat und die notwendig ist, um dem Bewegungsproblem überhaupt einen bestimmten Sinn zu geben.
+
+Obwohl wir nun gerne aus der mathematischen Einheitlichkeit und Einfachheit der hier versuchten Theorie schließen möchten, daß sie schon wesentliche Züge der wirklichen Verhältnisse beim Problem des Atombaues wiedergibt, so muß man sich doch darüber klar sein, daß die Theorie eine Lösung der prinzipiellen Schwierigkeiten der Quantentheorie noch nicht geben kann. Die Kräfte, die dem Strahlungswiderstand der klassischen Theorie entsprechen, sind noch nicht in die Theorie eingearbeitet und für den Zusammenhang des Problems der Kopplung mit der hier versuchten Quantenmechanik sind nur einige undeutliche Anzeichen vorhanden (vgl. Kap. 1, § 5). Trotzdem scheint es, als ob diese prinzipiellen quantentheoretischen Schwierigkeiten vom Standpunkt der neuen Theorie aus ein anderes Aussehen zeigten, als bisher und als ob doch eine mehr als bisher begründete Hoffnung zur späteren Lösung dieser Probleme bestünde. Denken wir z. B. an die Frage der Stoßprozesse. Auf die grundsätzlichen Schwierigkeiten, die in der bisherigen Theorie einer Vereinigung der Grundpostulate der Quantentheorie mit der Gültigkeit des Energiesatzes bei schnellen Stößen im Wege stehen, hat in letzter Zeit besonders Bohr¹) hingewiesen. In der hier versuchten Theorie ergeben sich nun sowohl die Grundpostulate, wie der Energiesatz als mathematische Folgen der quantenmechanischen Gleichungen und die Ergebnisse der Franck-Hertzschen Stoßversuche scheinen so eine naturgemäße mathematische Konsequenz der Theorie; daher darf man hoffen, daß bei einer künftigen Behandlung der Stoßprobleme auf Grund der Quantenmechanik eben wegen des organischen Zusammenhanges der Grundpostulate mit dieser Mechanik Schwierigkeiten der erwähnten Art nicht auftreten werden.
+
+Der Fragenkomplex der anomalen Zeemaneffekte zeigt zunächst vom Standpunkt der hier versuchten Theorie aus kaum ein anderes Aussehen als bisher. Der in den Grundvoraussetzungen dieser Theorie enthaltene innige Zusammenhang der „aperiodischen“ und der „periodischen Bahnen“ bringt zwar mit sich, daß wir nicht sicher sein können, daß das Larmorsche Theorem allgemein gilt (Kap. 4, § 2); die Voraussetzungen für die Gültigkeit dieses Theorems sind beim Oszillator, nicht aber ohne weiteres beim Kernatom erfüllt. Doch ist es nicht wahrscheinlich, daß dieser Gesichtspunkt zu einer Deutung der anomalen Zeemaneffekte führen
+
+¹) N. Bohr, ZS. f. Phys. 34, 142, 1925.
+
+39\*

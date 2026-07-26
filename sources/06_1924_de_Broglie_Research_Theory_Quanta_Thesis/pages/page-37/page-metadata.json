@@ -1,0 +1,146 @@
+{
+  "index": 36,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 116,
+      "topLeftY": 34,
+      "bottomRightX": 452,
+      "bottomRightY": 55,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 517,
+      "topLeftY": 35,
+      "bottomRightX": 541,
+      "bottomRightY": 56,
+      "content": "57",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 29,
+      "topLeftY": 74,
+      "bottomRightX": 541,
+      "bottomRightY": 226,
+      "content": "a) Considérons d'abord le mouvement rectiligne et uniforme d'un mobile libre. Les hypothèses faites au début du chapitre premier nous ont permis, grâce au principe de Relativité restreinte, l'étude complète de ce cas. Voyons si nous pouvons retrouver la valeur prévue pour la vitesse de propagation de l'onde de phase :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 238,
+      "bottomRightX": 318,
+      "bottomRightY": 275,
+      "content": "$$V = \\frac{c}{\\beta}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 282,
+      "bottomRightX": 243,
+      "bottomRightY": 306,
+      "content": "Ici nous devons poser :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 314,
+      "bottomRightX": 372,
+      "bottomRightY": 361,
+      "content": "$$\\nu = \\frac{W}{h} = \\frac{m_0 c^2}{h \\sqrt{1 - \\beta^2}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 368,
+      "bottomRightX": 501,
+      "bottomRightY": 419,
+      "content": "$$\\frac{1}{h} \\sum_{1}^{3} p_i dq_i = \\frac{1}{h} \\frac{m_0 \\beta^2 c^2}{\\sqrt{1 - \\beta^2}} dt = \\frac{1}{h} \\frac{m_0 \\beta c}{\\sqrt{1 - \\beta^2}} dl = \\frac{\\nu dl}{V}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 26,
+      "topLeftY": 431,
+      "bottomRightX": 536,
+      "bottomRightY": 496,
+      "content": "d'où $V = \\frac{c}{\\beta}$. Nous avons donné une interprétation de ce résultat au point de vue de l'espace-temps.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 26,
+      "topLeftY": 495,
+      "bottomRightX": 536,
+      "bottomRightY": 596,
+      "content": "b) Considérons un électron dans un champ électrostatique (atome de Bohr). Nous devons supposer l'onde de phase ayant une fréquence $\\nu$ égale au quotient par $h$ de l'énergie totale du mobile, soit :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 170,
+      "topLeftY": 600,
+      "bottomRightX": 390,
+      "bottomRightY": 645,
+      "content": "$$W = \\frac{m_0 c^2}{\\sqrt{1 - \\beta^2}} + e\\psi = h\\nu$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 24,
+      "topLeftY": 659,
+      "bottomRightX": 489,
+      "bottomRightY": 685,
+      "content": "Le champ magnétique étant nul, on aura simplement :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 191,
+      "topLeftY": 695,
+      "bottomRightX": 366,
+      "bottomRightY": 737,
+      "content": "$$p_x = \\frac{m_0 v_x}{\\sqrt{1 - \\beta^2}}, \\text{ etc.}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 740,
+      "bottomRightX": 429,
+      "bottomRightY": 788,
+      "content": "$$\\frac{1}{h} \\sum_{1}^{3} p_i dq_i = \\frac{1}{h} \\frac{m_0 \\beta c}{\\sqrt{1 - \\beta^2}} dl = \\frac{\\nu}{V} dl$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 24,
+      "topLeftY": 788,
+      "bottomRightX": 65,
+      "bottomRightY": 809,
+      "content": "d'où",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 22,
+      "topLeftY": 817,
+      "bottomRightX": 522,
+      "bottomRightY": 958,
+      "content": "$$V = \\frac{\\frac{m_0 c^2}{\\sqrt{1 - \\beta^2}} + e\\psi}{\\frac{m_0 \\beta c}{\\sqrt{1 - \\beta^2}}} = \\frac{c}{\\beta} \\left( 1 + \\frac{e\\psi \\sqrt{1 - \\beta^2}}{m_0 c^2} \\right)$$\n$$= \\frac{c}{\\beta} \\left( 1 + \\frac{e\\psi}{W - e\\psi} \\right) = \\frac{c}{\\beta} \\cdot \\frac{W}{W - e\\psi}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

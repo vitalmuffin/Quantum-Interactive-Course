@@ -1,0 +1,227 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 103,
+      "bottomRightX": 133,
+      "bottomRightY": 119,
+      "content": "866",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 103,
+      "bottomRightX": 415,
+      "bottomRightY": 119,
+      "content": "M. Born und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 139,
+      "bottomRightX": 583,
+      "bottomRightY": 179,
+      "content": "schieden sind, wenn $k = k_n = k_m$, also $n = m$ ist. Mithin ist $\\tilde{p}$ die Reziproke von $p$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 306,
+      "topLeftY": 169,
+      "bottomRightX": 379,
+      "bottomRightY": 188,
+      "content": "$$\\tilde{p} = p^{-1}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 192,
+      "bottomRightX": 397,
+      "bottomRightY": 211,
+      "content": "Sei nun $a$ eine beliebige Matrix, so ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 215,
+      "bottomRightX": 476,
+      "bottomRightY": 246,
+      "content": "$$pa = \\left( \\sum_k p(nk) a(km) \\right) = (a(k_n, m))$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 249,
+      "bottomRightX": 583,
+      "bottomRightY": 299,
+      "content": "eine Matrix, die aus $a$ durch die Permutation $\\binom{n}{k_n}$ der Zeilen entsteht. und ebenso ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 202,
+      "topLeftY": 299,
+      "bottomRightX": 481,
+      "bottomRightY": 328,
+      "content": "$$ap^{-1} = \\left( \\sum_k a(nk) \\tilde{p}(km) \\right) = (a(n, k_m))$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 331,
+      "bottomRightX": 583,
+      "bottomRightY": 390,
+      "content": "die durch Permutieren der Kolonnen entstehende Matrix. Ein und dieselbe Permutation auf Zeilen und Kolonnen angewandt, liefert also die Matrix",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 379,
+      "bottomRightX": 392,
+      "bottomRightY": 398,
+      "content": "$$a' = pap^{-1}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 403,
+      "bottomRightX": 326,
+      "bottomRightY": 419,
+      "content": "Hieraus folgt ohne weiteres:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 424,
+      "bottomRightX": 474,
+      "bottomRightY": 463,
+      "content": "$$\\begin{aligned} a' + b' &= p(a + b)p^{-1} = (a + b)', \\\\ a'b' &= pabp^{-1} = (ab)', \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 466,
+      "bottomRightX": 365,
+      "bottomRightY": 484,
+      "content": "womit unsere Behauptung bewiesen ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 487,
+      "bottomRightX": 583,
+      "bottomRightY": 525,
+      "content": "Man sieht also, daß durch Matrizengleichungen irgend eine Reihenfolge oder Rangordnung der Elemente niemals bestimmt werden kann.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 527,
+      "bottomRightX": 583,
+      "bottomRightY": 565,
+      "content": "Übrigens gilt offenbar der viel allgemeinere Satz, daß jede Matrizengleichung invariant ist gegen Transformationen der Form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 570,
+      "bottomRightX": 392,
+      "bottomRightY": 587,
+      "content": "$$a' = bab^{-1},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 591,
+      "bottomRightX": 583,
+      "bottomRightY": 650,
+      "content": "wo $b$ eine beliebige Matrix bedeutet. Wir werden freilich später sehen, daß dies für Matrizen-Differentialgleichungen nicht mehr ohne weiteres richtig ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 650,
+      "bottomRightX": 427,
+      "bottomRightY": 667,
+      "content": "# Kapitel II. Dynamik.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 672,
+      "bottomRightX": 583,
+      "bottomRightY": 729,
+      "content": "§ 3. Die Grundgesetze. Das dynamische System ist zu beschreiben durch die Koordinate $q$ und den Impuls $p$. Sie sollen als Matrizen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 729,
+      "bottomRightX": 583,
+      "bottomRightY": 748,
+      "content": "$$q = (q(nm)e^{2\\pi i r(nm)t}), \\quad p = (p(nm)e^{2\\pi i r(nm)t}) \\quad (24)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 752,
+      "bottomRightX": 583,
+      "bottomRightY": 870,
+      "content": "angesetzt werden. Darin bedeuten die $v(nm)$ die quantentheoretischen Frequenzen, welche den Übergängen zwischen den Zuständen mit den Quantenzahlen $n$ und $m$ zugehören. Die Matrizen (24) sollen Hermitesche sein, d. h. bei Transposition der Matrizen soll jede Komponente in ihren konjugierten Wert übergehen, und zwar soll das für alle reellen $t$ gelten. Wir haben also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 875,
+      "bottomRightX": 583,
+      "bottomRightY": 894,
+      "content": "$$q(nm)q(mn) = |q(nm)|^2 \\quad (25)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 892,
+      "bottomRightX": 130,
+      "bottomRightY": 907,
+      "content": "und",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 299,
+      "topLeftY": 902,
+      "bottomRightX": 583,
+      "bottomRightY": 920,
+      "content": "$$v(nm) = -v(mn). \\quad (26)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

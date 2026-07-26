@@ -1,0 +1,101 @@
+{
+  "index": 103,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 69,
+      "topLeftY": 19,
+      "bottomRightX": 102,
+      "bottomRightY": 39,
+      "content": "124",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 258,
+      "topLeftY": 20,
+      "bottomRightX": 407,
+      "bottomRightY": 38,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 61,
+      "bottomRightX": 590,
+      "bottomRightY": 190,
+      "content": "tion de l'énergie par quantités finies $h\\nu$. Mais nous pourrions peut-être supposer que la masse des centres d'énergie liés à une même onde diffère de la masse propre $m_0$ d'un centre isolé et dépend du nombre d'autres centres avec lesquels ils se trouvent en interaction. On aurait alors :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 210,
+      "bottomRightX": 464,
+      "bottomRightY": 233,
+      "content": "$$\\mu_0 = f(p) \\quad \\text{avec} \\quad f(1) = m_0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 260,
+      "bottomRightX": 589,
+      "bottomRightY": 285,
+      "content": "en désignant par $p$ le nombre des centres portés par l'onde.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 286,
+      "bottomRightX": 591,
+      "bottomRightY": 415,
+      "content": "La nécessité de retomber sur les formules de l'électromagnétisme pour les très basses fréquences, conduirait à supposer que $f(p)$ est une fonction décroissante de $p$ tendant vers 0 quand $p$ tend vers l'infini. La vitesse de l'ensemble des $p$ centres formant une onde serait alors :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 440,
+      "bottomRightX": 441,
+      "bottomRightY": 487,
+      "content": "$$\\beta c = c \\sqrt{1 - \\left[ \\frac{f(p)c^2}{h\\nu} \\right]^2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 505,
+      "bottomRightX": 593,
+      "bottomRightY": 632,
+      "content": "Pour les très hautes fréquences, $p$ serait presque toujours égal à 1, les grains d'énergie seraient isolés, on aurait la loi de Wien pour le rayonnement noir et la formule du texte $\\beta = \\sqrt{1 - \\frac{m_0^2 c^4}{h^2 \\nu^2}}$ pour la vitesse de l'énergie radiante.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 634,
+      "bottomRightX": 594,
+      "bottomRightY": 762,
+      "content": "Pour les très faibles fréquences, $p$ serait toujours très grand, les grains seraient réunis en groupes très nombreux sur une même onde. Le rayonnement noir obéirait à la loi de Rayleigh et la vitesse tendrait vers $c$ quand $\\nu$ tendrait vers 0.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 768,
+      "bottomRightX": 594,
+      "bottomRightY": 975,
+      "content": "L'hypothèse précédente détruit un peu la simplicité de la conception du « quantum de lumière », mais cette simplicité ne peut certainement pas être entièrement conservée si l'on veut pouvoir raccorder la théorie électromagnétique avec la discontinuité révélée par les phénomènes photoélectriques. Ce raccord serait obtenu, me semble-t-il, par l'introduction de la fonction $f(p)$ car, pour une énergie donnée, une onde devra comprendre un nombre $p$ de grains de plus en plus",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

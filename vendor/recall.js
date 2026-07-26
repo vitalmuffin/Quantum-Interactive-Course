@@ -1,0 +1,1 @@
+(()=>{window.QMRecall={link(term,returnTo=''){const map={function:'wave',derivative:'calculus',integral:'calculus',probability:'probability',complex:'complex',basis:'basis',operator:'eigen',wave:'wave',superposition:'superposition'};const anchor=map[term]||'wave';const q=returnTo?`?return=${encodeURIComponent(returnTo)}`:'';return `primer.html${q}#${anchor}`}}})();

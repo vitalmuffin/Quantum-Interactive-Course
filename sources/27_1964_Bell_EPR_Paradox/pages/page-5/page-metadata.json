@@ -1,0 +1,200 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1022,
+    "width": 792
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 36,
+      "topLeftY": 18,
+      "bottomRightX": 121,
+      "bottomRightY": 34,
+      "content": "Vol. 1, No. 3",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 235,
+      "topLeftY": 18,
+      "bottomRightX": 553,
+      "bottomRightY": 35,
+      "content": "ON THE EINSTEIN PODOLSKY ROSEN PARADOX",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 730,
+      "topLeftY": 20,
+      "bottomRightX": 754,
+      "bottomRightY": 35,
+      "content": "199",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 53,
+      "bottomRightX": 144,
+      "bottomRightY": 71,
+      "content": "Using (20) then",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 211,
+      "topLeftY": 75,
+      "bottomRightX": 580,
+      "bottomRightY": 152,
+      "content": "$$| \\bar{P}(\\vec{a}, \\vec{b}) - \\bar{P}(\\vec{a}, \\vec{c}) | \\leq \\int d\\lambda \\alpha(\\lambda) [1 + \\bar{A}(\\vec{b}, \\lambda) \\bar{B}(\\vec{c}, \\lambda)] + \\int d\\lambda \\rho(\\lambda) [1 + \\bar{A}(\\vec{b}, \\lambda) \\bar{B}(\\vec{b}, \\lambda)]$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 163,
+      "bottomRightX": 202,
+      "bottomRightY": 181,
+      "content": "Then using (19) and 21)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 193,
+      "bottomRightX": 562,
+      "bottomRightY": 219,
+      "content": "$$| \\bar{P}(\\vec{a}, \\vec{b}) - \\bar{P}(\\vec{a}, \\vec{c}) | \\leq 1 + \\bar{P}(\\vec{b}, \\vec{c}) + \\epsilon + \\delta$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 235,
+      "bottomRightX": 173,
+      "bottomRightY": 254,
+      "content": "Finally, using (18),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 268,
+      "bottomRightX": 576,
+      "bottomRightY": 292,
+      "content": "$$| \\vec{a} \\cdot \\vec{c} - \\vec{a} \\cdot \\vec{b} | - 2(\\epsilon + \\delta) \\leq 1 - \\vec{b} \\cdot \\vec{c} + 2(\\epsilon + \\delta)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 312,
+      "bottomRightX": 55,
+      "bottomRightY": 324,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 341,
+      "bottomRightX": 758,
+      "bottomRightY": 364,
+      "content": "$$4(\\epsilon + \\delta) \\geq | \\vec{a} \\cdot \\vec{c} - \\vec{a} \\cdot \\vec{b} | + \\vec{b} \\cdot \\vec{c} - 1 \\tag{22}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 377,
+      "bottomRightX": 438,
+      "bottomRightY": 400,
+      "content": "Take for example $\\vec{a} \\cdot \\vec{c} = 0$, $\\vec{a} \\cdot \\vec{b} = \\vec{b} \\cdot \\vec{c} = 1/\\sqrt{2}$ Then",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 324,
+      "topLeftY": 415,
+      "bottomRightX": 462,
+      "bottomRightY": 437,
+      "content": "$$4(\\epsilon + \\delta) \\geq \\sqrt{2} - 1$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 454,
+      "bottomRightX": 437,
+      "bottomRightY": 472,
+      "content": "Therefore, for small finite $\\delta$, $\\epsilon$ cannot be arbitrarily small.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 474,
+      "bottomRightX": 751,
+      "bottomRightY": 510,
+      "content": "Thus, the quantum mechanical expectation value cannot be represented, either accurately or arbitrarily closely, in the form (2).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 325,
+      "topLeftY": 542,
+      "bottomRightX": 465,
+      "bottomRightY": 562,
+      "content": "# V. Generalization",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 572,
+      "bottomRightX": 765,
+      "bottomRightY": 719,
+      "content": "The example considered above has the advantage that it requires little imagination to envisage the measurements involved actually being made. In a more formal way, assuming [7] that any Hermitian operator with a complete set of eigenstates is an \"observable\", the result is easily extended to other systems. If the two systems have state spaces of dimensionality greater than 2 we can always consider two dimensional subspaces and define, in their direct product, operators $\\vec{\\sigma}_1$ and $\\vec{\\sigma}_2$ formally analogous to those used above and which are zero for states outside the product subspace. Then for at least one quantum mechanical state, the \"singlet\" state in the combined subspaces, the statistical predictions of quantum mechanics are incompatible with separable predetermination.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 337,
+      "topLeftY": 752,
+      "bottomRightX": 458,
+      "bottomRightY": 771,
+      "content": "# VI. Conclusion",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 782,
+      "bottomRightX": 758,
+      "bottomRightY": 854,
+      "content": "In a theory in which parameters are added to quantum mechanics to determine the results of individual measurements, without changing the statistical predictions, there must be a mechanism whereby the setting of one measuring device can influence the reading of another instrument, however remote. Moreover, the signal involved must propagate instantaneously, so that such a theory could not be Lorentz invariant.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 855,
+      "bottomRightX": 757,
+      "bottomRightY": 945,
+      "content": "Of course, the situation is different if the quantum mechanical predictions are of limited validity. Conceivably they might apply only to experiments in which the settings of the instruments are made sufficiently in advance to allow them to reach some mutual rapport by exchange of signals with velocity less than or equal to that of light. In that connection, experiments of the type proposed by Bohm and Aharonov [6], in which the settings are changed during the flight of the particles, are crucial.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 946,
+      "bottomRightX": 757,
+      "bottomRightY": 1002,
+      "content": "I am indebted to Drs. M. Bander and J. K. Perring for very useful discussions of this problem. The first draft of the paper was written during a stay at Brandeis University; I am indebted to colleagues there and at the University of Wisconsin for their interest and hospitality.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

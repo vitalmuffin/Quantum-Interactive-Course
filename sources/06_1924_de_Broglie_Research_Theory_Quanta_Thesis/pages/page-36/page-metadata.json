@@ -1,0 +1,137 @@
+{
+  "index": 35,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 40,
+      "topLeftY": 24,
+      "bottomRightX": 65,
+      "bottomRightY": 45,
+      "content": "56",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 26,
+      "bottomRightX": 380,
+      "bottomRightY": 44,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 67,
+      "bottomRightX": 566,
+      "bottomRightY": 120,
+      "content": "prouve pas qu'il en soit de même pour les autres. Cependant, par une généralisation tout indiquée nous poserons :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 138,
+      "bottomRightX": 513,
+      "bottomRightY": 173,
+      "content": "$$O_i = \\frac{1}{h} J_i \\quad (i = 1, 2, 3, 4).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 190,
+      "bottomRightX": 568,
+      "bottomRightY": 242,
+      "content": "La variation $d\\varphi$ relative à une portion infiniment petite de l'onde de phase a pour valeur :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 262,
+      "bottomRightX": 418,
+      "bottomRightY": 297,
+      "content": "$$d\\varphi = 2\\pi O_i dx^i = \\frac{2\\pi}{h} J_i dx^i.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 315,
+      "bottomRightX": 386,
+      "bottomRightY": 341,
+      "content": "Le principe de Fermat devient donc :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 355,
+      "bottomRightX": 446,
+      "bottomRightY": 401,
+      "content": "$$\\delta \\int_A^B \\sum_1^3 J_i dx^i = \\delta \\int_A^B \\sum_1^3 p_i dx^i = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 418,
+      "bottomRightX": 394,
+      "bottomRightY": 441,
+      "content": "Nous arrivons donc à l'énoncé suivant :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 442,
+      "bottomRightX": 572,
+      "bottomRightY": 546,
+      "content": "« Le principe de Fermat appliqué à l'onde de phase est identique au principe de Maupertuis appliqué au mobile ; les trajectoires dynamiquement possibles du mobile sont identiques aux rayons possibles de l'onde. »",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 547,
+      "bottomRightX": 574,
+      "bottomRightY": 651,
+      "content": "Nous pensons que cette idée d'une relation profonde entre les deux grands principes de l'Optique Géométrique et de la Dynamique pourrait être un guide précieux pour réaliser la synthèse des ondes et des quanta.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 45,
+      "topLeftY": 651,
+      "bottomRightX": 577,
+      "bottomRightY": 832,
+      "content": "L'hypothèse de la proportionnalité des vecteurs J et O est une sorte d'extension de la relation de quantum dont l'énoncé actuel est manifestement insuffisant puisqu'il fait intervenir l'énergie sans parler de son inséparable compagne la quantité de mouvement. Le nouvel énoncé est beaucoup plus satisfaisant parce qu'il s'exprime par l'égalité de deux vecteurs d'Univers.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 856,
+      "bottomRightX": 479,
+      "bottomRightY": 878,
+      "content": "## VI. — CAS PARTICULIERS ; DISCUSSIONS",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 51,
+      "topLeftY": 897,
+      "bottomRightX": 579,
+      "bottomRightY": 978,
+      "content": "Les conceptions générales du paragraphe précédent doivent maintenant être appliquées à des cas particuliers en vue d'en préciser le sens.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "index": 98,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 111,
+      "topLeftY": 36,
+      "bottomRightX": 448,
+      "bottomRightY": 55,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 501,
+      "topLeftY": 36,
+      "bottomRightX": 532,
+      "bottomRightY": 55,
+      "content": "119",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 24,
+      "topLeftY": 76,
+      "bottomRightX": 533,
+      "bottomRightY": 150,
+      "content": "on peut effectuer le calcul de l'énergie libre par la méthode de Planck comme pour un gaz ordinaire et, en identifiant le résultat avec l'expression ci-dessus, on trouve $A = 1$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 24,
+      "topLeftY": 151,
+      "bottomRightX": 533,
+      "bottomRightY": 201,
+      "content": "Dans le cas général, il faut employer une méthode plus détournée. Considérons le $p^a$ terme de la série de Planck :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 151,
+      "topLeftY": 210,
+      "bottomRightX": 399,
+      "bottomRightY": 265,
+      "content": "$$u_{\\nu p} d\\nu = A \\cdot \\frac{8\\pi}{c^3} h\\nu^3 e^{-p \\frac{h\\nu}{kT}} d\\nu.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 276,
+      "bottomRightX": 236,
+      "bottomRightY": 300,
+      "content": "On peut l'écrire aussi :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 311,
+      "bottomRightX": 381,
+      "bottomRightY": 369,
+      "content": "$$A \\frac{8\\pi}{c^3 p} \\nu^2 e^{-p \\frac{h\\nu}{kT}} d\\nu \\ p \\cdot h\\nu$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 23,
+      "topLeftY": 387,
+      "bottomRightX": 217,
+      "bottomRightY": 410,
+      "content": "ce qui permet de dire :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 411,
+      "bottomRightX": 531,
+      "bottomRightY": 634,
+      "content": "« Le rayonnement noir peut être considéré comme le mélange d'une infinité de gaz chacun caractérisé par une valeur entière $p$ et jouissant de la propriété suivante : le nombre des états possibles d'une unité gazeuse située dans un élément de volume $dxdydz$ et ayant une énergie comprise entre $ph\\nu$ et $ph(\\nu + d\\nu)$ est égal à $\\frac{8\\pi}{c^3 p} \\nu^2 d\\nu dxdydz$. » Dès lors, on peut calculer l'énergie libre par la méthode du premier paragraphe. On obtient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 644,
+      "bottomRightX": 510,
+      "bottomRightY": 771,
+      "content": "$$\\begin{aligned} F &= \\sum_1^\\infty F_p = -kT \\sum_1^\\infty \\log \\left[ \\frac{1}{n_p!} \\left( V \\int_0^\\infty \\frac{8\\pi}{c^3 p} \\nu^2 e^{-p \\frac{h\\nu}{kT}} d\\nu \\right)^{n_p} \\right] \\\\ &= -kT \\sum_1^\\infty n_p \\log \\left[ \\frac{e}{n_p} V \\int_0^{+\\infty} \\frac{8\\pi}{c^3 p} \\nu^2 e^{-p \\frac{h\\nu}{kT}} d\\nu \\right] \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 776,
+      "bottomRightX": 46,
+      "bottomRightY": 795,
+      "content": "où",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 35,
+      "topLeftY": 810,
+      "bottomRightX": 509,
+      "bottomRightY": 870,
+      "content": "$$n_p = V \\int_0^{+\\infty} A \\frac{8\\pi}{p c^3} \\nu^2 e^{-p \\frac{h\\nu}{kT}} d\\nu = A \\cdot \\frac{16\\pi}{c^3} \\frac{k^3 T^3}{h^3} \\cdot \\frac{1}{p^4} \\cdot V.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 882,
+      "bottomRightX": 97,
+      "bottomRightY": 902,
+      "content": "Donc :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 129,
+      "topLeftY": 915,
+      "bottomRightX": 418,
+      "bottomRightY": 957,
+      "content": "$$F = -A \\frac{16\\pi}{c^3 h^3} k^4 T^4 \\log \\left( \\frac{e}{A} \\right) \\sum_1 \\frac{1}{p^4} \\cdot V$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "index": 24,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 101,
+      "bottomRightX": 419,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 552,
+      "topLeftY": 101,
+      "bottomRightX": 580,
+      "bottomRightY": 117,
+      "content": "581",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 138,
+      "bottomRightX": 521,
+      "bottomRightY": 158,
+      "content": "Wenn wir $W_0 + \\lambda W_1$ kurz mit $H_0'$ bezeichnen und den Ansatz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 161,
+      "bottomRightX": 392,
+      "bottomRightY": 181,
+      "content": "$$p = S P S^{-1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 290,
+      "topLeftY": 185,
+      "bottomRightX": 392,
+      "bottomRightY": 205,
+      "content": "$$q = S Q S^{-1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 204,
+      "bottomRightX": 199,
+      "bottomRightY": 221,
+      "content": "machen, so ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 218,
+      "bottomRightX": 483,
+      "bottomRightY": 238,
+      "content": "$$S (H_0' + \\lambda^2 H_2' + \\lambda^3 H_3' + \\cdots) S^{-1} = W$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 243,
+      "bottomRightX": 470,
+      "bottomRightY": 261,
+      "content": "zu machen, was nach dem Verfahren von Kap. 1 durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 266,
+      "bottomRightX": 443,
+      "bottomRightY": 285,
+      "content": "$$S = 1 + \\lambda^2 S_2 + \\lambda^3 S_3 + \\cdots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 290,
+      "bottomRightX": 581,
+      "bottomRightY": 350,
+      "content": "erzielt werden kann. Die Verallgemeinerung dieser Betrachtungen für den Fall, daß erst mit der $r$-ten Näherung ein nicht entartetes System $W = W_0 + \\lambda W_1 + \\cdots + \\lambda^r W_r$ erreicht wird, ergibt sich von selbst ¹).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 351,
+      "bottomRightX": 581,
+      "bottomRightY": 469,
+      "content": "Am Schluß scheint es uns noch wichtig, darauf hinzuweisen, daß die bekannten Konvergenzschwierigkeiten bei den Reihen der klassischen Störungstheorie, die in der Diskussion des Dreikörperproblems eine so große Rolle spielen, hier in der quantenmechanischen Störungstheorie nicht auftreten; vielmehr dürften hier die im Endlichen verlaufenden Bahnen im allgemeinen auch periodisch sein.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 491,
+      "bottomRightX": 581,
+      "bottomRightY": 529,
+      "content": "### Kapitel 3. Zusammenhang mit der Theorie der Eigenwerte Hermitescher Formen.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 536,
+      "bottomRightX": 582,
+      "bottomRightY": 875,
+      "content": "§ 1. Allgemeine Methode. Im voranstehenden ist die Lösung der quantentheoretischen Grundgleichungen in möglichst engem Anschluß an die klassische Theorie entwickelt worden. Hinter diesem Formalismus der Störungstheorie verbirgt sich aber ein sehr einfacher, rein algebraischer Zusammenhang, und es lohnt sich wohl, diesen ans Licht zu ziehen. Denn abgesehen von der tieferen Einsicht in die mathematische Struktur der Theorie gewinnt man dabei auch den Vorteil, die von der Mathematik vorbereiteten Methoden und Ergebnisse verwerten zu können. So werden wir zu einer neuen Definition der Energiekonstanten („Terme“) gelangen, die auch im Falle aperiodischer Bewegungen, also kontinuierlich veränderlicher Indizes gültig bleibt. Hierdurch gewinnt man die Aussicht, Methoden zur direkten Energieberechnung ohne explizite Lösung des Bewegungsproblems zu finden, die der Sommerfeldschen Methode der komplexen Integration in der bisherigen Theorie entsprechen. Sodann werden wir die Störungen einer großen Klasse entarteter Systeme vollständig behandeln können, was mit den vorher erörterten Störungsmethoden noch nicht möglich war.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 889,
+      "bottomRightX": 582,
+      "bottomRightY": 921,
+      "content": "¹) Die analogen Fälle der klassischen Mechanik sind von M. Born und W. Heisenberg, Ann. d. Phys. 74, 1, 1924, diskutiert worden.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

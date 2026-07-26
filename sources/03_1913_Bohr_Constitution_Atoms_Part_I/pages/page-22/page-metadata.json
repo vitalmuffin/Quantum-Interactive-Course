@@ -1,0 +1,128 @@
+{
+  "index": 21,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 600
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 213,
+      "topLeftY": 86,
+      "bottomRightX": 394,
+      "bottomRightY": 106,
+      "content": "of Atoms and Molecules.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 501,
+      "topLeftY": 86,
+      "bottomRightX": 523,
+      "bottomRightY": 104,
+      "content": "21",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 68,
+      "topLeftY": 111,
+      "bottomRightX": 522,
+      "bottomRightY": 186,
+      "content": "Denoting the kinetic energy of an electron by T and neglecting the electromagnetic forces due to the motion of the electrons (see Part II.), we get, putting the centrifugal force on an electron equal to the radial force,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 190,
+      "bottomRightX": 364,
+      "bottomRightY": 227,
+      "content": "$$\\frac{2T}{a} = \\frac{e}{a^2}(E - es_n),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 232,
+      "bottomRightX": 90,
+      "bottomRightY": 247,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 255,
+      "bottomRightX": 366,
+      "bottomRightY": 288,
+      "content": "$$T = \\frac{e}{2a}(E - es_n).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 297,
+      "bottomRightX": 436,
+      "bottomRightY": 319,
+      "content": "From this we get for the frequency of revolution",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 211,
+      "topLeftY": 324,
+      "bottomRightX": 384,
+      "bottomRightY": 365,
+      "content": "$$\\omega = \\frac{1}{2\\pi} \\sqrt{\\frac{e(E - es_n)}{ma^3}}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 372,
+      "bottomRightX": 524,
+      "bottomRightY": 429,
+      "content": "The total amount of energy W necessary transferred to the system in order to remove the electrons to infinite distances apart from the nucleus and from each other is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 440,
+      "bottomRightX": 430,
+      "bottomRightY": 472,
+      "content": "$$W = -P - nT = \\frac{ne}{2a}(E - es_n) = nT,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 480,
+      "bottomRightX": 436,
+      "bottomRightY": 500,
+      "content": "equal to the total kinetic energy of the electrons.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 497,
+      "bottomRightX": 527,
+      "bottomRightY": 909,
+      "content": "We see that the only difference in the above formula and those holding for the motion of a single electron in a circular orbit round a nucleus is the exchange of E for $E-es_n$. It is also immediately seen that corresponding to the motion of an electron in an elliptical orbit round a nucleus, there will be a motion of the $n$ electrons in which each rotates in an elliptical orbit with the nucleus in the focus, and the $n$ electrons at any moment are situated at equal angular intervals on a circle with the nucleus as the centre. The major axis and frequency of the orbit of the single electrons will for this motion be given by the expressions (1) on p. 3 if we replace E by $E-es_n$ and W by $\\frac{W}{n}$. Let us now suppose that the system of $n$ electrons rotating in a ring round a nucleus is formed in a way analogous to the one assumed for a single electron rotating round a nucleus. It will thus be assumed that the electrons, before the binding by the nucleus, were at a great distance apart from the latter and possessed no sensible velocities, and also that during the binding a homogeneous radiation is emitted. As in the case of a single electron, we have here that the total amount of energy emitted during the formation of the system is equal to the final kinetic energy of the electrons. If we now suppose that during the",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 288,
+      "bottomRightX": 11,
+      "bottomRightY": 724,
+      "content": "Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

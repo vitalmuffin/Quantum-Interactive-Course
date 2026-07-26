@@ -1,0 +1,137 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 95,
+    "height": 1016,
+    "width": 737
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 86,
+      "topLeftY": 92,
+      "bottomRightX": 140,
+      "bottomRightY": 112,
+      "content": "Heft 49. ]  \n6. 12. 1935]",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 92,
+      "bottomRightX": 547,
+      "bottomRightY": 105,
+      "content": "SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 630,
+      "topLeftY": 92,
+      "bottomRightX": 654,
+      "bottomRightY": 105,
+      "content": "827",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 120,
+      "bottomRightX": 365,
+      "bottomRightY": 213,
+      "content": "Halten wir einen Augenblick inne. Diese Feststellung in ihrer Abstraktheit sagt eigentlich schon alles: Bestmögliches Wissen um ein Ganzes schließt nicht notwendig das gleiche für seine Teile ein. Übersetzen wir das in die Sprechweise von § 9: Das Ganze ist in einem bestimmten Zustand, die Teile für sich genommen nicht.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 211,
+      "bottomRightX": 365,
+      "bottomRightY": 238,
+      "content": "— Wieso? In irgendeinem Zustand muß ein System doch sein.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 236,
+      "bottomRightX": 365,
+      "bottomRightY": 289,
+      "content": "— Nein. Zustand ist $\\psi$-Funktion, ist maximale Kenntnissumme. Die muß ich mir ja nicht verschafft haben, ich kann ja faul gewesen sein. Dann ist das System in keinem Zustand.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 288,
+      "bottomRightX": 365,
+      "bottomRightY": 353,
+      "content": "— Schön, dann ist aber auch das agnostische Frageverbot noch nicht in Kraft und ich darf mir in unserem Falle denken: in irgendeinem Zustand (= $\\psi$-Funktion) wird das Teilsystem schon sein, ich kenne ihn bloß nicht.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 352,
+      "bottomRightX": 365,
+      "bottomRightY": 392,
+      "content": "— Halt. Leider nein. Es gibt kein „ich kenne bloß nicht“. Denn für das Gesamtsystem liegt maximale Kenntnis vor. —",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 391,
+      "bottomRightX": 365,
+      "bottomRightY": 534,
+      "content": "*Die Insuffizienz der $\\psi$-Funktion als Modellersatz beruht ausschließlich darauf, daß man sie nicht immer hat.* Hat man sie, so darf sie gut und gern als Beschreibung des Zustands gelten. Aber man hat sie zuweilen nicht, in Fällen, wo man es billig erwarten dürfte. Und dann darf man nicht postulieren, daß sie „in Wirklichkeit schon eine bestimmte sei, man kenne sie bloß nicht“; der einmal gewählte Standpunkt verbietet das. „Sie“ ist nämlich eine Summe von Kenntnissen und Kenntnisse, die niemand kennt, sind keine. —",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 532,
+      "bottomRightX": 365,
+      "bottomRightY": 920,
+      "content": "Wir fahren fort. Daß ein Teil des Wissens in Form disjunktiver Bedingungssätze zwischen den zwei Systemen schwebt, kann gewiß nicht vorkommen, wenn wir die beiden von entgegengesetzten Enden der Welt heranschaffen und ohne Wechselwirkung juxtaponieren. Denn dann „wissen“ die zwei ja voneinander nichts. Eine Messung an dem einen kann unmöglich einen Anhaltspunkt dafür geben, was von dem anderen zu erwarten steht. Besteht eine „Verschränkung der Voraussagen“, so kann sie offenbar nur darauf zurückgehen, daß die zwei Körper früher einmal im eigentlichen Sinn ein System gebildet, das heißt in Wechselwirkung gestanden, und *Spuren* aneinander hinterlassen haben. Wenn zwei getrennte Körper, die einzeln maximal bekannt sind, in eine Situation kommen, in der sie aufeinander einwirken, und sich wieder trennen, dann kommt regelmäßig das zustande, was ich eben *Verschränkung* unseres Wissens um die beiden Körper nannte. Der gemeinsame Erwartungskatalog besteht anfangs aus einer logischen Summe der Einzelkataloge; während des Vorgangs entwickelt er sich zwangsläufig nach bekanntem Gesetz (von Messung ist ja gar nicht die Rede). Das Wissen bleibt maximal, aber es hat sich zum Schluß, wenn die Körper sich wieder getrennt haben, nicht wieder aufgespalten in eine logische Summe von Wissen um die Einzelkörper. Was *davon* noch erhalten ist, kann, eventuell sehr stark, unter-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 377,
+      "topLeftY": 120,
+      "bottomRightX": 655,
+      "bottomRightY": 187,
+      "content": "untermaximal geworden sein. — Man beachte den großen Unterschied gegenüber der klassischen Modelltheorie, wo natürlich bei bekannten Anfangszuständen und bekannter Einwirkung die Endzustände einzeln genau bekannt wären.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 377,
+      "topLeftY": 185,
+      "bottomRightX": 655,
+      "bottomRightY": 418,
+      "content": "Der im § 8 beschriebene Meßprozeß fällt nun genau unter dieses allgemeine Schema, wenn wir es anwenden auf das Gesamtsystem Meßobjekt + Meßinstrument. Indem wir so ein objektives Bild dieses Vorganges, wie von irgendeinem anderen, konstruieren, dürfen wir hoffen, das seltsame Springen der $\\psi$-Funktion aufzuklären, wenn schon nicht zu beseitigen. Also der eine Körper ist jetzt das Meßobjekt, der andere das Instrument. Um jeden Eingriff von außen zu vermeiden, richten wir es so ein, daß das Instrument mittels eines eingebauten Uhrwerks automatisch an das Objekt herankriecht und ebenso wieder fortkriecht. Die Ablesung selbst verschieben wir, weil wir doch zunächst untersuchen wollen, was „objektiv“ geschieht; aber wir lassen das Ergebnis zu späterer Verwendung automatisch im Instrument sich aufzeichnen, wie das ja heute oft gemacht wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 377,
+      "topLeftY": 417,
+      "bottomRightX": 655,
+      "bottomRightY": 805,
+      "content": "Wie steht es jetzt, nach automatisch vollzogener Messung? Wir besitzen nach wie vor einen maximalen Erwartungskatalog für das Gesamtsystem. Der registrierte Meßwert steht natürlich nicht darin. Mit Bezug auf das Instrument ist der Katalog also sehr unvollständig, er sagt uns nicht einmal, wo die Schreibfeder ihre Spur hinterlassen hat. (Man erinnere sich der vergifteten Katze!) Das macht, unser Wissen hat sich in Konditionalsätze sublimiert: *wenn* die Marke bei Teilstrich 1 ist, *dann* gilt für das Meßobjekt dies und das, *wenn* sie bei 2 ist, dann dies und jenes, wenn sie bei 3 ist, dann ein drittes usw. Hat nun die $\\psi$-Funktion des Meßobjektes einen Sprung gemacht? Hat sie sich nach dem zwangsläufigen Gesetz (nach der partiellen Differentialgleichung) weiterentwickelt? Keines von beiden. Sie ist nicht mehr. Sie hat sich, nach dem zwangsläufigen Gesetz für die *Gesamt-$\\psi$-Funktion*, mit der des Meßinstruments verheddert. *Der Erwartungskatalog des Objekts hat sich in eine konditionale Disjunktion von Erwartungskatalogen aufgespalten* wie ein Baedeker, den man kunstgerecht zerlegt. Bei jeder Sektion steht außerdem noch die Wahrscheinlichkeit, daß sie zutrifft — abgeschrieben aus dem ursprünglichen Erwartungskatalog des Objekts. Aber *welche* zutrifft — welcher Abschnitt des Baedekers für die Weiterreise zu benützen ist, das läßt sich nur durch wirkliche Inspektion der Marke ermitteln.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 377,
+      "topLeftY": 804,
+      "bottomRightX": 655,
+      "bottomRightY": 920,
+      "content": "Und wenn wir *nicht* nachsehen? Sagen wir, es wurde photographisch registriert und durch ein Malheur bekommt der Film Licht, bevor er entwickelt wird. Oder wir haben aus Versehen statt eines Films schwarzes Papier eingelegt. Ja dann haben wir durch die mißglückte Messung nicht nur nichts Neues erfahren, sondern haben Kenntnis eingebüßt. Das ist nicht erstaunlich. Durch einen äußeren Eingriff wird natürlich die",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

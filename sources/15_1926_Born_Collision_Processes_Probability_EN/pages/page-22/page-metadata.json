@@ -1,0 +1,191 @@
+{
+  "index": 21,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 536,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 60,
+      "content": "22",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 93,
+      "bottomRightX": 678,
+      "bottomRightY": 131,
+      "content": "We assume that the potential $U$ can be developed in powers of $r^{-1}$; for a neutral atom, one will then have the dipole terms:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 327,
+      "topLeftY": 135,
+      "bottomRightX": 677,
+      "bottomRightY": 169,
+      "content": "$$U(x, y, z) = \\frac{e}{r^3} (\\mathfrak{P}\\mathfrak{r}) \\tag{1}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 189,
+      "bottomRightX": 678,
+      "bottomRightY": 232,
+      "content": "in the first approximation, where $\\mathfrak{P}(q)$ is the electric moment of the atom. We then associate it with the matrix $\\mathfrak{P}_{nm}$. From (6), § 7, one will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 327,
+      "topLeftY": 254,
+      "bottomRightX": 677,
+      "bottomRightY": 296,
+      "content": "$$V_{nm} = \\frac{8\\pi^2 \\mu e}{h^2} \\left( \\mathfrak{P}_{nm} \\frac{\\mathfrak{r}}{r^3} \\right). \\tag{2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 316,
+      "bottomRightX": 678,
+      "bottomRightY": 370,
+      "content": "Naturally, this Ansatz can only be correct for electrons that pass by the atom at the distance considered. We therefore restrict our consideration to electrons for which $r > r_0$ ($^1$), and thus write, from (13), § 6:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 388,
+      "bottomRightX": 601,
+      "bottomRightY": 430,
+      "content": "$$f_0^\\infty(-k_{nm}\\mathfrak{s}) = \\frac{1}{4\\pi^2 i k_{nm}} \\int_{r_0}^\\infty \\rho \\, d\\rho \\left\\{ F_{nm}(\\rho\\mathfrak{s}) e^{-i\\rho k_{nm}} - F_{nm}(-\\rho\\mathfrak{s}) e^{i\\rho k_{nm}} \\right\\}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 450,
+      "bottomRightX": 678,
+      "bottomRightY": 485,
+      "content": "We now assume that that the incoming electrons define a parallel bundle, which corresponds to a plane wave; one will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 254,
+      "topLeftY": 504,
+      "bottomRightX": 535,
+      "bottomRightY": 548,
+      "content": "$$F_{nm}(r\\mathfrak{s}) = V_{nm} e^{ik\\rho\\mathfrak{s}_z} = \\frac{8\\pi^2 \\mu e}{h^2} (\\mathfrak{P}_{nm}, \\mathfrak{s}) \\frac{e^{ik\\rho\\mathfrak{s}_z}}{\\rho^2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 565,
+      "bottomRightX": 276,
+      "bottomRightY": 583,
+      "content": "Moreover, one will have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 587,
+      "bottomRightX": 677,
+      "bottomRightY": 623,
+      "content": "$$i \\pi k_{nm} f_0^\\infty(-k_{nm}\\mathfrak{s}) = 4\\pi \\frac{\\mu e}{h^2} (\\mathfrak{P}_{nm}, \\mathfrak{s}) A, \\tag{3}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 642,
+      "bottomRightX": 375,
+      "bottomRightY": 660,
+      "content": "for which, with $\\mathfrak{s}_z = \\cos \\vartheta$, one will have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 683,
+      "bottomRightX": 677,
+      "bottomRightY": 725,
+      "content": "$$A = \\int_{r_0}^\\infty \\frac{d\\rho}{\\rho} \\cos [r (k \\cos \\vartheta - k_{nm})], \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 728,
+      "bottomRightX": 132,
+      "bottomRightY": 740,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 743,
+      "bottomRightX": 677,
+      "bottomRightY": 764,
+      "content": "$$A = - C_i (r_0 [k \\cos \\vartheta - k_{nm}]), \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 778,
+      "bottomRightX": 391,
+      "bottomRightY": 797,
+      "content": "in which $C_i(x)$ means the integral cosine ($^2$).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 798,
+      "bottomRightX": 446,
+      "bottomRightY": 816,
+      "content": "From (10), § 7, the profit function then becomes:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 868,
+      "bottomRightX": 678,
+      "bottomRightY": 914,
+      "content": "($^1$) The exclusion of the central collisions means the temporary sacrifice of being able to interpret an especially interesting group of phenomena, namely, the penetrability of the atom for slow electrons (viz., the Ramsauer effect).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 914,
+      "bottomRightX": 500,
+      "bottomRightY": 933,
+      "content": "($^2$) S. E. Jahnke and P. Emde, Funktionentafeln, Leipzig, 1909, pp. 19.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

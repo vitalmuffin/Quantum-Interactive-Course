@@ -1,0 +1,38 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 104,
+      "topLeftY": 99,
+      "bottomRightX": 133,
+      "bottomRightY": 115,
+      "content": "558",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 99,
+      "bottomRightX": 457,
+      "bottomRightY": 115,
+      "content": "M. Born, W. Heisenberg und P. Jordan.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 135,
+      "bottomRightX": 583,
+      "bottomRightY": 916,
+      "content": "Einfachheit und Einheit, wie das System der klassischen Mechanik. Ein solches System von quantentheoretischen Beziehungen zwischen beobachtbaren Größen wird allerdings gegenüber der bisherigen Quantentheorie den Mangel aufweisen müssen, daß es nicht unmittelbar geometrisch anschaulich interpretiert werden kann, da ja die Elektronenbewegungen nicht in den uns geläufigen Begriffen von Raum und Zeit beschrieben werden können; es wird ein charakteristischer Zug der neuen Theorie sein, daß sie ebensosehr eine Abänderung der bisherigen Kinematik wie der bisherigen Mechanik darstellt; es wird aber ein wichtiger Vorzug dieser Quantenmechanik darin bestehen, daß die Grundpostulate der Quantentheorie einen vollkommen organischen Bestandteil dieser Mechanik ausmachen, daß also z. B. die Existenz diskreter stationärer Zustände für die neue Theorie ebenso natürlich ist, wie etwa die Existenz diskreter Eigenschwingungsfrequenzen für die klassische Theorie (vgl. Kap. 3). Wenn man eben die fundamentalen, durch die quantentheoretischen Grundpostulate gegebenen Unterschiede zwischen Quantentheorie und klassischer Theorie im Auge behält, so scheint uns ein Formalismus, wie der in den beiden oben zitierten Arbeiten und im folgenden versuchte, wenn er sich als richtig erweisen sollte, eine Quantenmechanik darzustellen, die der klassischen so ähnlich ist, wie man nur irgendwie hoffen konnte. Wir erinnern hier nur an die Gültigkeit von Energie- und Impulssatz und an die Form der Bewegungsgleichungen (Kap. 1, § 2). Dieser Ähnlichkeit der neuen Theorie mit der klassischen entspricht es auch, daß von einem selbständigen Korrespondenzprinzip neben dieser Theorie wohl nicht die Rede sein kann; vielmehr kann die Theorie selbst als exakte Formulierung des Bohrschen Korrespondenzgedankens aufgefaßt werden. Es wird eine wichtige Aufgabe für die weitere Entwicklung der Theorie sein, die Art dieser Korrespondenz genauer zu untersuchen und den Übergang von der symbolischen Quantengeometrie in die anschauliche klassische Geometrie zu beschreiben. Im Hinblick auf diese Frage scheint es uns ein besonders wesentlicher Zug der neuen Theorie, daß in ihr die kontinuierlichen Spektra und die Linienspektra der Atome gleichberechtigt nebeneinander auftreten, d. h. als Lösung ein und derselben Bewegungsgleichung erscheinen und mathematisch eng miteinander verknüpft sind (vgl. Kap. 3, § 3); eine Unterscheidung zwischen „gequantelten“ und „ungequantelten“ Bewegungen verliert in dieser Theorie offenbar jeden Sinn, da in ihr nicht von einer Quantenbedingung die Rede ist, die bestimmte Bewegungen aus einer großen Anzahl von möglichen aussondert; an Stelle dieser Bedingung tritt vielmehr eine",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

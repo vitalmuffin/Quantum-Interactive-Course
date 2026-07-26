@@ -1,0 +1,43 @@
+SCATTERING OF X-RAYS BY LIGHT ELEMENTS
+
+485
+
+been able to show that only a small part, if any, of the secondary X-radiation is of the same wave-length as the primary.¹ While the energy of the secondary X-radiation is so nearly equal to that calculated from Thomson's classical theory that it is difficult to attribute it to anything other than true scattering,² these results show that if there is any scattering comparable in magnitude with that predicted by Thomson, it is of a greater wave-length than the primary X-rays.
+
+Such a change in wave-length is directly counter to Thomson's theory of scattering, for this demands that the scattering electrons, radiating as they do because of their forced vibrations when traversed by a primary X-ray, shall give rise to radiation of exactly the same frequency as that of the radiation falling upon them. Nor does any modification of the theory such as the hypothesis of a large electron suggest a way out of the difficulty. This failure makes it appear improbable that a satisfactory explanation of the scattering of X-rays can be reached on the basis of the classical electrodynamics.
+
+# THE QUANTUM HYPOTHESIS OF SCATTERING
+
+According to the classical theory, each X-ray affects every electron in the matter traversed, and the scattering observed is that due to the combined effects of all the electrons. From the point of view of the quantum theory, we may suppose that any particular quantum of X-rays is not scattered by all the electrons in the radiator, but spends all of its energy upon some particular electron. This electron will in turn scatter the ray in some definite direction, at an angle with the incident beam. This bending of the path of the quantum of radiation results in a change in its momentum. As a consequence, the scattering electron will recoil with a momentum equal to the change in momentum of the X-ray. The energy in the scattered ray will be equal to that in the incident ray minus the kinetic energy of the recoil of the scattering electron; and since the scattered ray must be a complete quantum, the frequency will be reduced in the same ratio as is the energy. Thus on the quantum theory we should expect the wave-length of the scattered X-rays to be greater than that of the incident rays.
+
+The effect of the momentum of the X-ray quantum is to set the
+
+¹ In previous papers (Phil. Mag. 41, 749, 1921; Phys. Rev. 18, 96, 1921) I have defended the view that the softening of the secondary X-radiation was due to a considerable admixture of a form of fluorescent radiation. Gray (Phil. Mag. 26, 611, 1913; Frank. Inst. Journ., Nov., 1920, p. 643) and Florance (Phil. Mag. 27, 225, 1914) have considered that the evidence favored true scattering, and that the softening is in some way an accompaniment of the scattering process. The considerations brought forward in the present paper indicate that the latter view is the correct one.
+
+² A. H. Compton, loc. cit., p. 16.
+
+486
+
+ARTHUR H. COMPTON
+
+scattering electron in motion at an angle of less than 90° with the primary beam. But it is well known that the energy radiated by a moving body is greater in the direction of its motion. We should therefore expect, as is experimentally observed, that the intensity of the scattered radiation should be greater in the general direction of the primary X-rays than in the reverse direction.
+
+The change in wave-length due to scattering.—Imagine, as in Fig. 1A,
+
+![img-0.jpeg](img-0.jpeg)
+
+Fig. 1 A
+
+Fig. 1 B
+
+that an X-ray quantum of frequency ν₀ is scattered by an electron of mass m. The momentum of the incident ray will be hν₀/c, where c is the velocity of light and h is Planck's constant, and that of the scattered ray is hνθ/c at an angle θ with the initial momentum. The principle of the conservation of momentum accordingly demands that the momentum of recoil of the scattering electron shall equal the vector difference between the momenta of these two rays, as in Fig. 1B. The momentum of the electron, mβc/√(1 - β²), is thus given by the relation
+
+$$\left( \frac{m\beta c}{\sqrt{1 - \beta^2}} \right)^2 = \left( \frac{h\nu_0}{c} \right)^2 + \left( \frac{h\nu_\theta}{c} \right)^2 + 2 \frac{h\nu_0}{c} \cdot \frac{h\nu_\theta}{c} \cos \theta, \tag{1}$$
+
+where β is the ratio of the velocity of recoil of the electron to the velocity of light. But the energy hνθ in the scattered quantum is equal to that of the incident quantum hν₀ less the kinetic energy of recoil of the scattering electron, i.e.,
+
+$$h\nu_\theta = h\nu_0 - mc^2 \left( \frac{1}{\sqrt{1 - \beta^2}} - 1 \right). \tag{2}$$
+
+We thus have two independent equations containing the two unknown quantities β and νθ. On solving the equations we find
+
+$$\nu_\theta = \nu_0 / (1 + 2\alpha \sin^2 \frac{1}{2}\theta), \tag{3}$$

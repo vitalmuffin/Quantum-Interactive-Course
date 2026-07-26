@@ -1,0 +1,56 @@
+{
+  "index": 32,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 155,
+      "bottomRightX": 587,
+      "bottomRightY": 236,
+      "content": "the integrations on the $x$, are performed in an expression such as (39) one has a sort of format into which various $F$ functionals may be inserted. One can study how what goes on in the quantum-mechanical system at different times is interrelated. To make these vague remarks somewhat more definite, we discuss an example.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 236,
+      "bottomRightX": 587,
+      "bottomRightY": 613,
+      "content": "In classical electrodynamics the fields describing, for instance, the interaction of two particles can be represented as a set of oscillators. The equations of motion of these oscillators may be solved and the oscillators essentially eliminated (Lienard and Wiechert potentials). The interactions which result involve relationships of the motion of one particle at one time, and of the other particle at another time. In quantum electrodynamics the field is again represented as a set of oscillators. But the motion of the oscillators cannot be worked out and the oscillators eliminated. It is true that the oscillators representing longitudinal waves may be eliminated. The result is instantaneous electrostatic interaction. The electrostatic elimination is very instructive as it shows up the difficulty of self-interaction very distinctly. In fact, it shows it up so clearly that there is no ambiguity in deciding what term is incorrect and should be omitted. This entire process is not relativistically invariant, nor is the omitted term. It would seem to be very desirable if the oscillators, representing transverse waves, could also be eliminated. This presents an almost insurmountable problem in the conventional quantum mechanics. We expect that the motion of a particle $a$ at one time depends upon the motion of $b$ at a previous time, and *vice versa*. A wave function $\\psi(x_a, x_b; t)$, however, can only describe the behavior of both particles at one time. There is no way to keep track of what $b$ did in the past in order to determine the behavior of $a$. The only way is to specify the state of the set of oscillators at $t$, which serve to “remember” what $b$ (and $a$) had been doing.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 613,
+      "bottomRightX": 587,
+      "bottomRightY": 778,
+      "content": "The present formulation permits the solution of the motion of all the oscillators and their complete elimination from the equations describing the particles. This is easily done. One must simply solve for the motion of the oscillators before one integrates over the various variables $x_i$, for the particles. It is the integration over $x_i$, which tries to condense the past history into a single state function. This we wish to avoid. Of course, the result depends upon the initial and final states of the oscillator. If they are specified, the result is an equation for $\\langle \\chi_{t'} | 1 | \\psi_{t'} \\rangle$ like (38), but containing as a factor, besides $\\exp(iS/\\hbar)$ another functional $G$ depending only on the coordinates describing the paths of the particles.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 778,
+      "bottomRightX": 587,
+      "bottomRightY": 811,
+      "content": "We illustrate briefly how this is done in a very simple case. Suppose a particle, coordinate $x(t)$, Lagrangian $L(\\dot{x}, x)$ interacts with an oscillator,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "33",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

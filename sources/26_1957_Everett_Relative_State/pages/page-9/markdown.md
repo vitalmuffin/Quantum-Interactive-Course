@@ -1,0 +1,13 @@
+a result of the interaction the state of the measuring apparatus is no longer capable of independent definition. It can be defined only *relative* to the state of the object system. In other words, there exists only a correlation between the two states of the two systems. It seems as if nothing can ever be settled by such a measurement.
+
+This indefinite behavior seems to be quite at variance with our observations, since physical objects always appear to us to have definite positions. Can we reconcile this feature wave mechanical theory built purely in Process 2 with experience, or must the theory be abandoned as untenable? In order to answer this question we consider the problem of observation itself within the framework of the theory.
+
+## 5. Observation
+
+We have the task of making deductions about the appearance of phenomena to observers which are considered as purely physical systems and are treated within the theory. To accomplish this it is necessary to identify some present properties of such an observer with features of the past experience of the observer, thus, in order to say that an observer 0 has observed the event $\alpha$, it is necessary that the state of 0 has become changed from its former state to a new state which is dependent upon $\alpha$.
+
+It will suffice for our purposes to consider the observers to possess memories (i.e., parts of a relatively permanent nature whose states are in correspondence with past experience of the observers). In order to make deductions about the past experience of an observer it is sufficient to deduce the present contents of the memory as it appears within the mathematical model.
+
+As models for observers we can, if we wish, consider automatically functioning machines, possessing sensory apparatus and coupled to recording devices capable of registering past sensory data and machine configurations. We can further suppose that the machine is so constructed that its present actions shall be determined not only by its present sensory data, but by the contents of its memory as well. Such a machine will then be capable of performing a sequence of observations (measurements), and furthermore of deciding upon its future experiments on the basis of past results. If we consider that current sensory data, as well as machine configuration, is immediately recorded in the memory, then the actions of the machine at a given instant can be regarded as a function of the memory contents only, and all
+
+9

@@ -1,0 +1,120 @@
+{
+  "index": 76,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 93,
+      "topLeftY": 35,
+      "bottomRightX": 434,
+      "bottomRightY": 54,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 495,
+      "topLeftY": 37,
+      "bottomRightX": 520,
+      "bottomRightY": 57,
+      "content": "97",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 7,
+      "topLeftY": 75,
+      "bottomRightX": 520,
+      "bottomRightY": 226,
+      "content": "direction d'observation et d'autre part, qu'elle semble provoquer la mise en mouvement d'électrons. Presque simultanément et indépendamment l'un de l'autre, MM. P. Debye et A. H. Compton sont parvenus à donner de ces écarts par rapport aux lois classiques une interprétation fondée sur la notion de quantum de lumière.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 7,
+      "topLeftY": 228,
+      "bottomRightX": 520,
+      "bottomRightY": 280,
+      "content": "En voici le principe : si un quantum de lumière est dévié de sa marche rectiligne en passant au voisinage d'un élec-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 287,
+      "bottomRightX": 443,
+      "bottomRightY": 409,
+      "content": "![img-5.jpeg](img-5.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-5.jpeg"
+    },
+    {
+      "topLeftX": 235,
+      "topLeftY": 415,
+      "bottomRightX": 291,
+      "bottomRightY": 436,
+      "content": "Fig. 6.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 7,
+      "topLeftY": 460,
+      "bottomRightX": 520,
+      "bottomRightY": 767,
+      "content": "tron, nous devons supposer que durant le temps où les deux centres d'énergie sont suffisamment voisins, ils exercent l'un sur l'autre, une certaine action. Lorsque cette action prendra fin, l'électron d'abord au repos aura emprunté au corpuscule lumineux une certaine énergie ; d'après la relation du quantum, la fréquence diffusée sera donc moindre que la fréquence incidente. La conservation de la quantité de mouvement achève de déterminer le problème. Supposons que le quantum diffusé se déplace dans une direction faisant l'angle $\\theta$ avec le prolongement de la direction d'incidence. Les fréquences avant et après la diffusion étant $\\nu_0$ et $\\nu_\\theta$ et la masse propre de l'électron étant $m_0$, on aura :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 779,
+      "bottomRightX": 446,
+      "bottomRightY": 876,
+      "content": "$$h\\nu_\\theta = h\\nu_0 - m_0c^2 \\left( \\frac{1}{\\sqrt{1-\\frac{\\beta^2}{\\nu}}} - 1 \\right)$$\n$$\\left( \\frac{m_0\\beta c}{\\sqrt{1-\\frac{\\beta^2}{\\nu}}} \\right)^2 = \\left( \\frac{h\\nu_0}{c} \\right)^2 + \\left( \\frac{h\\nu_\\theta}{c} \\right)^2 - 2 \\frac{h\\nu_0}{c} \\cdot \\frac{h\\nu_\\theta}{c} \\cos \\theta$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 25,
+      "topLeftY": 889,
+      "bottomRightX": 515,
+      "bottomRightY": 913,
+      "content": "Cette seconde relation se lit de suite sur la figure ci-jointe.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 7,
+      "topLeftY": 914,
+      "bottomRightX": 515,
+      "bottomRightY": 960,
+      "content": "La vitesse $v = \\beta c$ est celle qu'acquiert l'électron par ce processus.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 7,
+      "topLeftY": 963,
+      "bottomRightX": 423,
+      "bottomRightY": 986,
+      "content": "Ann. de Phys., 10e série, t. III (Janvier-Février 1925)",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 486,
+      "topLeftY": 970,
+      "bottomRightX": 497,
+      "bottomRightY": 987,
+      "content": "7",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 277,
+      "topLeftY": 101,
+      "bottomRightX": 408,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 554,
+      "topLeftY": 101,
+      "bottomRightX": 583,
+      "bottomRightY": 118,
+      "content": "875",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 138,
+      "bottomRightX": 584,
+      "bottomRightY": 235,
+      "content": "erledigten Fall so überaus verwickelt¹), daß sie kaum durchführbar scheint. Wenn trotzdem Energie- und Frequenzsatz in so allgemeinem Umfange bewiesen werden konnten, so scheint uns das eine starke Stütze für die Hoffnung zu bieten, daß diese Theorie wirklich tiefe physikalische Gesetze erfaßt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 238,
+      "bottomRightX": 584,
+      "bottomRightY": 338,
+      "content": "Zum Schluß sei hier noch ein Ergebnis verzeichnet, das aus den Formeln dieses Paragraphen leicht zu entnehmen ist: Die Gleichungen (35), (37) können ersetzt werden durch (38) und (44) (wo H die Energie bedeutet); die Frequenzen sind dabei aus der Frequenzbedingung zu bestimmen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 340,
+      "bottomRightX": 584,
+      "bottomRightY": 379,
+      "content": "Auf die wichtigen Anwendungen, welche dieser Satz gestattet, gehen wir in der Fortsetzung dieser Arbeit ein.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 403,
+      "bottomRightX": 584,
+      "bottomRightY": 421,
+      "content": "# Kapitel III. Untersuchung des anharmonischen Oszillators.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 430,
+      "bottomRightX": 363,
+      "bottomRightY": 447,
+      "content": "Der anharmonische Oszillator mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 456,
+      "bottomRightX": 584,
+      "bottomRightY": 491,
+      "content": "$$H = \\frac{1}{2} p^2 + \\frac{\\omega_0^2}{2} q^2 + \\frac{1}{3} \\lambda q^3 \\quad (51)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 503,
+      "bottomRightX": 586,
+      "bottomRightY": 684,
+      "content": "ist bereits von Heisenberg eingehend betrachtet worden. Trotzdem soll ihm hier eine erneute Untersuchung gewidmet werden, und zwar mit dem Ziel, die allgemeinste Lösung der Grundgleichungen für diesen Fall festzustellen. Wenn die Grundgleichungen der Theorie wirklich vollständig sind und keiner Ergänzung mehr bedürfen, so werden die Absolutwerte $|q(nm)|$, $|p(nm)|$ der Komponenten von $q$ und $p$ durch sie eindeutig festgelegt sein müssen, und es wird wichtig sein, dies am Beispiel (51) zu prüfen. Dagegen ist zu erwarten, daß bezüglich der Phasen $\\varphi_{nm}$, $\\psi_{nm}$ in",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 248,
+      "topLeftY": 691,
+      "bottomRightX": 423,
+      "bottomRightY": 711,
+      "content": "$$q(nm) = |q(nm)| e^{i\\varphi_{nm}},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 248,
+      "topLeftY": 716,
+      "bottomRightX": 423,
+      "bottomRightY": 738,
+      "content": "$$p(nm) = |p(nm)| e^{i\\psi_{nm}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 745,
+      "bottomRightX": 586,
+      "bottomRightY": 824,
+      "content": "noch eine Unbestimmtheit bestehen bleibt. Für die Statistik z. B. der Wechselwirkung von Quantenatomen mit äußeren Strahlungsfeldern wird es von grundlegender Bedeutung sein, den Grad dieser Unbestimmtheit genau festzulegen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 829,
+      "bottomRightX": 586,
+      "bottomRightY": 868,
+      "content": "§ 5. Harmonischer Oszillator. Der Ausgangspunkt unserer Überlegungen ist die Theorie des harmonischen Oszillators; für kleine $\\lambda$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 876,
+      "bottomRightX": 586,
+      "bottomRightY": 920,
+      "content": "¹) Für den Fall $H = \\frac{1}{2m} p^2 + U(q)$ kann sie mit Hilfe von (39') sofort ausgeführt werden.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 128,
+      "topLeftY": 921,
+      "bottomRightX": 307,
+      "bottomRightY": 936,
+      "content": "Zeitschrift für Physik, Bd. XXXIV.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 501,
+      "topLeftY": 924,
+      "bottomRightX": 519,
+      "bottomRightY": 939,
+      "content": "58",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

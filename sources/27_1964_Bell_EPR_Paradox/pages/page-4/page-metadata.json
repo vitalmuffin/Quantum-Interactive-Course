@@ -1,0 +1,254 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 92,
+    "height": 1014,
+    "width": 782
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 40,
+      "topLeftY": 21,
+      "bottomRightX": 63,
+      "bottomRightY": 35,
+      "content": "198",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 355,
+      "topLeftY": 21,
+      "bottomRightX": 427,
+      "bottomRightY": 37,
+      "content": "J. S. BELL",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 664,
+      "topLeftY": 21,
+      "bottomRightX": 745,
+      "bottomRightY": 37,
+      "content": "Vol. 1, No. 3",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 54,
+      "bottomRightX": 301,
+      "bottomRightY": 72,
+      "content": "It follows that $\\vec{c}$ is another unit vector",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 157,
+      "topLeftY": 80,
+      "bottomRightX": 610,
+      "bottomRightY": 144,
+      "content": "$$\\begin{array}{l} P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c}) = - \\int d\\lambda\\rho(\\lambda) [A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) - A(\\vec{a}, \\lambda) A(\\vec{c}, \\lambda)] \\\\ = \\int d\\lambda\\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda) [A(\\vec{b}, \\lambda) A(\\vec{c}, \\lambda) - 1] \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 157,
+      "bottomRightX": 161,
+      "bottomRightY": 175,
+      "content": "using (1), whence",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 167,
+      "bottomRightX": 569,
+      "bottomRightY": 208,
+      "content": "$$|P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c})| \\leq \\int d\\lambda\\rho(\\lambda) [1 - A(\\vec{b}, \\lambda) A(\\vec{c}, \\lambda)]$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 217,
+      "bottomRightX": 366,
+      "bottomRightY": 236,
+      "content": "The second term on the right is $P(\\vec{b}, \\vec{c})$, whence",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 267,
+      "topLeftY": 251,
+      "bottomRightX": 747,
+      "bottomRightY": 275,
+      "content": "$$1 + P(\\vec{b}, \\vec{c}) \\geq |P(\\vec{a}, \\vec{b}) - P(\\vec{a}, \\vec{c})| \\tag{15}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 289,
+      "bottomRightX": 736,
+      "bottomRightY": 343,
+      "content": "Unless $P$ is constant, the right hand side is in general of order $|\\vec{b}-\\vec{c}|$ for small $|\\vec{b}-\\vec{c}|$. Thus $P(\\vec{b}, \\vec{c})$ cannot be stationary at the minimum value ($-1$ at $\\vec{b} = \\vec{c}$) and cannot equal the quantum mechanical value (3).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 345,
+      "bottomRightX": 741,
+      "bottomRightY": 398,
+      "content": "Nor can the quantum mechanical correlation (3) be arbitrarily closely approximated by the form (2). The formal proof of this may be set out as follows. We would not worry about failure of the approximation at isolated points, so let us consider instead of (2) and (3) the functions",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 415,
+      "bottomRightX": 464,
+      "bottomRightY": 444,
+      "content": "$$\\overline{P}(\\vec{a}, \\vec{b}) \\text{ and } \\overline{-\\vec{a} \\cdot \\vec{b}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 460,
+      "bottomRightX": 752,
+      "bottomRightY": 498,
+      "content": "where the bar denotes independent averaging of $P(\\vec{a}', \\vec{b}')$ and $-\\vec{a}' \\cdot \\vec{b}'$ over vectors $\\vec{a}'$ and $\\vec{b}'$ within specified small angles of $\\vec{a}$ and $\\vec{b}$. Suppose that for all $\\vec{a}$ and $\\vec{b}$ the difference is bounded by $\\epsilon$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 316,
+      "topLeftY": 510,
+      "bottomRightX": 749,
+      "bottomRightY": 535,
+      "content": "$$|\\overline{P}(\\vec{a}, \\vec{b}) + \\vec{a} \\cdot \\vec{b}| \\leq \\epsilon \\tag{16}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 551,
+      "bottomRightX": 455,
+      "bottomRightY": 569,
+      "content": "Then it will be shown that $\\epsilon$ cannot be made arbitrarily small.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 570,
+      "bottomRightX": 265,
+      "bottomRightY": 588,
+      "content": "Suppose that for all $a$ and $b$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 322,
+      "topLeftY": 595,
+      "bottomRightX": 749,
+      "bottomRightY": 625,
+      "content": "$$|\\overline{\\vec{a} \\cdot \\vec{b}} - \\vec{a} \\cdot \\vec{b}| \\leq \\delta \\tag{17}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 643,
+      "bottomRightX": 142,
+      "bottomRightY": 660,
+      "content": "Then from (16)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 300,
+      "topLeftY": 663,
+      "bottomRightX": 749,
+      "bottomRightY": 688,
+      "content": "$$|\\overline{P}(\\vec{a}, \\vec{b}) + \\vec{a} \\cdot \\vec{b}| \\leq \\epsilon + \\delta \\tag{18}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 705,
+      "bottomRightX": 103,
+      "bottomRightY": 723,
+      "content": "From (2)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 718,
+      "bottomRightX": 749,
+      "bottomRightY": 755,
+      "content": "$$\\overline{P}(\\vec{a}, \\vec{b}) = \\int d\\lambda\\rho(\\lambda) \\overline{A}(\\vec{a}, \\lambda) \\overline{B}(\\vec{b}, \\lambda) \\tag{19}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 768,
+      "bottomRightX": 85,
+      "bottomRightY": 784,
+      "content": "where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 273,
+      "topLeftY": 789,
+      "bottomRightX": 749,
+      "bottomRightY": 814,
+      "content": "$$|\\overline{A}(\\vec{a}, \\lambda)| \\leq 1 \\text{ and } |\\overline{B}(\\vec{b}, \\lambda)| \\leq 1 \\tag{20}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 829,
+      "bottomRightX": 256,
+      "bottomRightY": 850,
+      "content": "From (18) and (19), with $\\vec{a} = \\vec{b}$,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 852,
+      "bottomRightX": 749,
+      "bottomRightY": 877,
+      "content": "$$d\\lambda\\rho(\\lambda) [\\overline{A}(\\vec{b}, \\lambda) \\overline{B}(\\vec{b}, \\lambda) + 1] \\leq \\epsilon + \\delta \\tag{21}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 885,
+      "bottomRightX": 111,
+      "bottomRightY": 903,
+      "content": "From (19)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 157,
+      "topLeftY": 897,
+      "bottomRightX": 614,
+      "bottomRightY": 1000,
+      "content": "$$\\begin{array}{l} \\overline{P}(\\vec{a}, \\vec{b}) - \\overline{P}(\\vec{a}, \\vec{c}) = \\int d\\lambda\\rho(\\lambda) [\\overline{A}(\\vec{a}, \\lambda) \\overline{B}(\\vec{b}, \\lambda) - \\overline{A}(\\vec{a}, \\lambda) \\overline{B}(\\vec{c}, \\lambda)] \\\\ = \\int d\\lambda\\rho(\\lambda) \\overline{A}(\\vec{a}, \\lambda) \\overline{B}(\\vec{b}, \\lambda) [1 + \\overline{A}(\\vec{b}, \\lambda) \\overline{B}(\\vec{c}, \\lambda)] \\\\ - \\int d\\lambda\\rho(\\lambda) \\overline{A}(\\vec{a}, \\lambda) \\overline{B}(\\vec{c}, \\lambda) [1 + \\overline{A}(\\vec{b}, \\lambda) \\overline{B}(\\vec{b}, \\lambda)] \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

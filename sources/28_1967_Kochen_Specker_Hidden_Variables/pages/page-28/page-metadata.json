@@ -1,0 +1,218 @@
+{
+  "index": 27,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 249,
+      "topLeftY": 90,
+      "bottomRightX": 394,
+      "bottomRightY": 105,
+      "content": "QUANTUM MECHANICS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 531,
+      "topLeftY": 87,
+      "bottomRightX": 551,
+      "bottomRightY": 105,
+      "content": "85",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 121,
+      "bottomRightX": 551,
+      "bottomRightY": 222,
+      "content": "Let $K_1$ be the set of all equations of the form $\\alpha + \\beta = \\gamma$ or $\\xi\\eta = \\zeta$ which subsist among elements of $\\mathfrak{N}$. (In the language of model theory, $K_1$ denotes the positive statements from the diagram of $\\mathfrak{N}$.) Let $K_2$ be the elementary axioms describing the class of Boolean algebras. Write $K = K_1 \\cup K_2$. Then the class of all models of $K$ consist precisely of the homomorphic images of $\\mathfrak{N}$ which are Boolean algebras.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 222,
+      "bottomRightX": 551,
+      "bottomRightY": 324,
+      "content": "Suppose now that $\\mathfrak{N}$ does not satisfy condition (i) ($i = 1, 2, \\text{or } 3$). Then by Theorem 0 and its counterpart for weak imbeddings there exist two distinct elements $a, b$ in $\\mathfrak{N}$ such that for every Boolean algebra $B$ and every homomorphism $h : \\mathfrak{N} \\to B$ we have $h(s_i(a)) = h(t_i(b))$. Since then $s_i(a)$ and $t_i(b)$ are identified in every model of $K$, we have by the Completeness Theorem for the Predicate Calculus that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 332,
+      "bottomRightX": 370,
+      "bottomRightY": 351,
+      "content": "$$K \\vdash s_i(a) = t_i(b).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 359,
+      "bottomRightX": 258,
+      "bottomRightY": 375,
+      "content": "Hence, there is a finite subset",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 383,
+      "bottomRightX": 485,
+      "bottomRightY": 402,
+      "content": "$$L = \\{\\alpha_j + \\beta_j = \\gamma_j, \\xi_k\\eta_k = \\zeta_k \\mid 1 \\leq j \\leq n, 1 \\leq k \\leq m\\}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 409,
+      "bottomRightX": 172,
+      "bottomRightY": 426,
+      "content": "of $K_1$ such that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 435,
+      "bottomRightX": 386,
+      "bottomRightY": 452,
+      "content": "$$K_2 \\cup L \\vdash s_i(a) = t_i(b)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 460,
+      "bottomRightX": 123,
+      "bottomRightY": 476,
+      "content": "so that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 485,
+      "bottomRightX": 518,
+      "bottomRightY": 511,
+      "content": "$$K_2 \\vdash (\\bigwedge_i (\\alpha_j + \\beta_j + \\gamma_j = 0) \\wedge \\bigwedge_k (\\xi_k\\eta_k + \\zeta_k = 0)) \\to s_i(a) = t_i(b)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 521,
+      "bottomRightX": 93,
+      "bottomRightY": 535,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 143,
+      "topLeftY": 543,
+      "bottomRightX": 490,
+      "bottomRightY": 570,
+      "content": "$$K_2 \\vdash (\\bigvee_{j,k} (\\alpha_j + \\beta_j + \\gamma_j)(\\xi_k\\eta_k + \\zeta_k) = 0) \\to s_i(a) = t_i(b),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 577,
+      "bottomRightX": 397,
+      "bottomRightY": 596,
+      "content": "i.e., $K_2 \\vdash \\rho(\\alpha_1, \\cdots, \\zeta_m) = 0 \\to s_i(a) = t_i(b)$ where",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 604,
+      "bottomRightX": 455,
+      "bottomRightY": 629,
+      "content": "$$\\rho(\\alpha_1, \\cdots, \\zeta_m) = \\bigvee_{j,k} (\\alpha_j + \\beta_j + \\gamma_j)(\\xi_k\\eta_k + \\zeta_k).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 637,
+      "bottomRightX": 550,
+      "bottomRightY": 671,
+      "content": "Since the constants $\\alpha_1, \\cdots, \\zeta_m, a, b$ do not occur in $K_2$, we may replace them by variables $x_1, \\cdots, x_n, x, y$ to obtain",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 679,
+      "bottomRightX": 440,
+      "bottomRightY": 697,
+      "content": "$$(10) \\quad K_2 \\vdash \\rho(x_1, \\cdots, x_n) = 0 \\to s_i(x) = t_i(y).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 703,
+      "bottomRightX": 550,
+      "bottomRightY": 737,
+      "content": "Hence, the implication $\\rho(x_1, \\cdots, x_n) = 0 \\to s_i(x) = t_i(y)$ is valid in all Boolean algebras. Let",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 257,
+      "topLeftY": 746,
+      "bottomRightX": 369,
+      "bottomRightY": 764,
+      "content": "$$\\varphi \\text{ denote } s_i(x) \\to \\rho$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 770,
+      "bottomRightX": 104,
+      "bottomRightY": 785,
+      "content": "and",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 789,
+      "bottomRightX": 373,
+      "bottomRightY": 807,
+      "content": "$$\\psi \\text{ denote } t_i(y) \\to \\rho.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 815,
+      "bottomRightX": 550,
+      "bottomRightY": 867,
+      "content": "Then it follows from (10) that $\\varphi = \\psi$ is Boolean identity, i.e., $\\varphi \\equiv \\psi$ is a classical tautology. (Note that for $i = 2, 3, \\psi = 1$ so that $\\varphi \\equiv \\psi$ reduces to $\\varphi$.) On the other hand the substitution of the elements $\\alpha_1, \\cdots, \\zeta_m, s_i(a), t_i(b)$ from $\\mathfrak{N}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 944,
+      "bottomRightX": 419,
+      "bottomRightY": 979,
+      "content": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

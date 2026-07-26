@@ -1,0 +1,74 @@
+{
+  "index": 95,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 28,
+      "topLeftY": 23,
+      "bottomRightX": 63,
+      "bottomRightY": 43,
+      "content": "116",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 217,
+      "topLeftY": 25,
+      "bottomRightX": 367,
+      "bottomRightY": 42,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 27,
+      "topLeftY": 64,
+      "bottomRightX": 552,
+      "bottomRightY": 195,
+      "content": "faire ici une nouvelle hypothèse qui sans nous éloigner de la conception des quanta de lumière, nous permette d'expliquer comment les formules classiques peuvent être valables dans un certain domaine. Nous énonçons cette hypothèse de la façon suivante :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 27,
+      "topLeftY": 196,
+      "bottomRightX": 553,
+      "bottomRightY": 484,
+      "content": "« Si deux ou plusieurs atomes ont des ondes de phase qui se superposent exactement dont on peut dire par suite qu'ils sont transportés par la même onde, leurs mouvements ne pourront plus être considérés comme entièrement indépendants et ces atomes ne pourront plus être traités comme des unités distinctes dans les calculs de probabilité ». Le mouvement de ces atomes « en onde » présenterait donc une sorte de cohérence par suite d'interactions impossibles à préciser, mais probablement apparentés au mécanisme qui rendrait instable le mouvement des atomes dont l'onde de phase ne serait pas stationnaire.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 27,
+      "topLeftY": 485,
+      "bottomRightX": 552,
+      "bottomRightY": 692,
+      "content": "Cette hypothèse de cohérence nous oblige à reprendre entièrement la démonstration de la loi de Maxwell. Comme nous ne pouvons plus prendre chaque atome comme « objet » de la théorie générale, ce sont les ondes de phase stationnaires élémentaires qui doivent jouer ce rôle. Qu'appelons-nous onde stationnaire élémentaire ? Une onde stationnaire peut être regardée comme due à la superposition de deux ondes de formules",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 50,
+      "topLeftY": 723,
+      "bottomRightX": 526,
+      "bottomRightY": 768,
+      "content": "$$\\sin \\left[ 2\\pi \\left( \\nu t - \\frac{x}{\\lambda} + \\varphi_0 \\right) \\right] \\quad \\text{et} \\quad \\sin \\left[ 2\\pi \\left( \\nu t + \\frac{x}{\\lambda} + \\varphi_0 \\right) \\right]$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 27,
+      "topLeftY": 799,
+      "bottomRightX": 553,
+      "bottomRightY": 982,
+      "content": "où $\\varphi_0$ peut prendre toutes les valeurs de $0$ à $1$. En donnant à $\\nu$ une des valeurs permises et à $\\varphi_0$ une valeur arbitraire entre $0$ et $1$, on définit une onde stationnaire élémentaire. Considérons une valeur déterminée de $\\varphi_0$ et toutes les valeurs permises de $\\nu$ comprises dans un petit intervalle $d\\nu$. Chaque onde élémentaire peut transporter $0$, $1$, $2\\dots$ atomes et, puisque la loi de distribution canonique doit être applicable",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

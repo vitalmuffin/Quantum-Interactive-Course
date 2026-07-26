@@ -1,0 +1,164 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 46,
+      "bottomRightX": 537,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 46,
+      "bottomRightX": 676,
+      "bottomRightY": 60,
+      "content": "15",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 92,
+      "bottomRightX": 637,
+      "bottomRightY": 148,
+      "content": "$$u _ { n } = - \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho ^ { 2 } d \\rho \\int _ { 0 } ^ { \\pi } \\sin \\vartheta d \\vartheta F _ { n - 1 } ^ { \\prime } ( \\rho \\sin \\vartheta , \\cdots ) \\frac { e ^ { - i k \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } } } { \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } } .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 166,
+      "bottomRightX": 565,
+      "bottomRightY": 186,
+      "content": "Finally, we introduce the integration variable $\\mu$ in place of $\\vartheta$ by way of:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 299,
+      "topLeftY": 202,
+      "bottomRightX": 527,
+      "bottomRightY": 272,
+      "content": "$$\\begin{array} { l } { { \\sqrt { \\rho ^ { 2 } + Z ^ { 2 } - 2 \\rho Z \\cos \\vartheta } = Z \\mu , } } \\\\ { { \\sin \\vartheta d \\vartheta = \\displaystyle \\frac { Z } { \\rho } \\mu d \\mu ; } } \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 273,
+      "bottomRightX": 380,
+      "bottomRightY": 292,
+      "content": "the limits of integration will then become:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 308,
+      "bottomRightX": 547,
+      "bottomRightY": 351,
+      "content": "$$\\vartheta = 0 ; \\mu = \\left| \\frac { \\rho } { Z } - 1 \\right| ; \\qquad \\vartheta = \\pi ; \\mu = \\frac { \\rho } { Z } + 1 ,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 372,
+      "bottomRightX": 678,
+      "bottomRightY": 426,
+      "content": "and $\\cos \\vartheta , \\sin \\vartheta$ will be certain functions $c ( \\rho , Z , \\mu ) , s ( \\rho , Z , \\mu )$ that will assume the values $c = 1 , s = 0$ at the lower limits and the values $c = - 1 , s = 0$ at the upper ones. One will then obtain:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 178,
+      "topLeftY": 429,
+      "bottomRightX": 610,
+      "bottomRightY": 473,
+      "content": "$$u _ { n } = - \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho d \\rho \\int _ { \\left| \\frac { \\rho } { Z } - 1 \\right| } ^ { \\frac { \\rho } { Z } + 1 } F _ { n - 1 } ^ { \\prime } ( \\rho s \\cos \\vartheta , \\rho s \\sin \\vartheta , \\rho c ) e ^ { - i k \\mu Z } d \\mu .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 494,
+      "bottomRightX": 660,
+      "bottomRightY": 513,
+      "content": "As in § 5, one will obtain the asymptotic representation from this by partial integration:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 160,
+      "topLeftY": 528,
+      "bottomRightX": 629,
+      "bottomRightY": 568,
+      "content": "$$u _ { n } ^ { \\infty } = \\frac { 1 } { 4 \\pi } \\int _ { 0 } ^ { 2 \\pi } d \\varphi \\int _ { 0 } ^ { \\infty } \\rho d \\rho \\frac { 1 } { i k Z } \\Big [ F _ { n - 1 } ^ { \\prime } ( 0 , 0 , \\rho ) e ^ { - i k ( Z + \\rho ) } - F _ { n - 1 } ^ { \\prime } ( 0 , 0 , - \\rho ) e ^ { - i k | Z - \\rho | } \\Big ] .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 586,
+      "bottomRightX": 267,
+      "bottomRightY": 604,
+      "content": "Here, from (5), one has:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 623,
+      "bottomRightX": 527,
+      "bottomRightY": 666,
+      "content": "$$F _ { n - 1 } ^ { \\prime } ( 0 , 0 , \\rho ) = F _ { n - 1 } ( a _ { 1 3 } \\rho , a _ { 2 3 } \\rho , a _ { 3 3 } \\rho ) = F _ { n - 1 } \\left( \\frac { \\rho x } { r } , \\frac { \\rho y } { r } , \\frac { \\rho z } { r } \\right) ,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 684,
+      "bottomRightX": 595,
+      "bottomRightY": 727,
+      "content": "$$F _ { n - 1 } ^ { \\prime } ( 0 , 0 , - \\rho ) = F _ { n - 1 } ( - a _ { 1 3 } \\rho , - a _ { 2 3 } \\rho , - a _ { 3 3 } \\rho ) = F _ { n - 1 } \\left( - \\frac { \\rho x } { r } , - \\frac { \\rho y } { r } , - \\frac { \\rho z } { r } \\right) .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 745,
+      "bottomRightX": 241,
+      "bottomRightY": 762,
+      "content": "One will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 169,
+      "topLeftY": 765,
+      "bottomRightX": 618,
+      "bottomRightY": 854,
+      "content": "$$\\begin{array} { l } { { u _ { n } ^ { \\infty } = \\displaystyle \\frac { e ^ { - i k r } } { 2 i k r } \\int _ { 0 } ^ { \\infty } \\rho d \\rho F _ { n - 1 } \\left( \\frac { \\rho x } { r } , \\frac { \\rho y } { r } , \\frac { \\rho z } { r } \\right) e ^ { - i k \\rho } } } \\\\ { { - \\displaystyle \\frac { e ^ { - i k r } } { 2 i k r } \\int _ { 0 } ^ { r } \\rho d \\rho F _ { n - 1 } \\left( - \\frac { \\rho x } { r } , \\cdots \\right) e ^ { i k \\rho } - \\frac { e ^ { i k r } } { 2 i k r } \\int _ { r } ^ { \\infty } \\rho d \\rho F _ { n - 1 } \\left( - \\frac { \\rho x } { r } , \\cdots \\right) e ^ { - i k \\rho } . } } \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 871,
+      "bottomRightX": 677,
+      "bottomRightY": 911,
+      "content": "Here, the last integral vanishes as $r \\to \\infty$; if we assume that $| V | \\leq a r ^ { - 2 }$ there, then due to the fact that $| u _ { 0 } | \\leq b r ^ { - 1 }$, we will have:",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

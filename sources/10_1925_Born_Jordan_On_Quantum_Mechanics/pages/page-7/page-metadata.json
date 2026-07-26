@@ -1,0 +1,209 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 103,
+      "bottomRightX": 134,
+      "bottomRightY": 119,
+      "content": "864",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 103,
+      "bottomRightX": 415,
+      "bottomRightY": 118,
+      "content": "M. Born und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 140,
+      "bottomRightX": 584,
+      "bottomRightY": 178,
+      "content": "eines Produkts sind invariant gegen zyklische Vertauschungen der Faktoren. Wegen (16) ist dieser Satz auch aus (10) zu folgern.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 180,
+      "bottomRightX": 584,
+      "bottomRightY": 218,
+      "content": "Zum Schluß dieser Vorbereitungen sollen den Funktionen $g(pq)$ von zwei Variablen noch einige Worte gewidmet werden. Für",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 303,
+      "topLeftY": 224,
+      "bottomRightX": 584,
+      "bottomRightY": 242,
+      "content": "$$y = p^s q^r \\quad (18)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 240,
+      "bottomRightX": 206,
+      "bottomRightY": 258,
+      "content": "wird nach (14)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 166,
+      "topLeftY": 262,
+      "bottomRightX": 584,
+      "bottomRightY": 310,
+      "content": "$$\\frac{\\partial y}{\\partial p} = \\sum_{l=0}^{s-1} p^{s-1-l} q^r p^l, \\quad \\frac{\\partial y}{\\partial q} = \\sum_{j=0}^{r-1} q^{r-1-j} p^s q^j. \\quad (18')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 312,
+      "bottomRightX": 584,
+      "bottomRightY": 350,
+      "content": "Die allgemeinste zu betrachtende Funktion $g(pq)$ ist nach § 1 darzustellen durch ein lineares Aggregat von Gliedern",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 281,
+      "topLeftY": 356,
+      "bottomRightX": 584,
+      "bottomRightY": 402,
+      "content": "$$z = \\prod_{j=1}^k (p^{s_j} q^{r_j}). \\quad (19)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 401,
+      "bottomRightX": 268,
+      "bottomRightY": 417,
+      "content": "Mit der Abkürzung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 233,
+      "topLeftY": 416,
+      "bottomRightX": 584,
+      "bottomRightY": 464,
+      "content": "$$P_l = \\prod_{j=l+1}^k (p^{s_j} q^{r_j}) \\prod_{j=1}^{l-1} (p^{s_j} q^{r_j}) \\quad (20)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 469,
+      "bottomRightX": 401,
+      "bottomRightY": 487,
+      "content": "können die Ableitungen geschrieben werden:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 217,
+      "topLeftY": 492,
+      "bottomRightX": 584,
+      "bottomRightY": 591,
+      "content": "$$\\left. \\begin{aligned} \\frac{\\partial z}{\\partial p} &= \\sum_{l=1}^k \\sum_{m=0}^{s_l-1} p^{s_l-1-m} q^{r_l} P_l p^m, \\\\ \\frac{\\partial z}{\\partial q} &= \\sum_{l=1}^k \\sum_{m=0}^{r_l-1} q^{r_l-1-m} P_l p^{s_l} q^m. \\end{aligned} \\right\\} \\quad (21)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 596,
+      "bottomRightX": 584,
+      "bottomRightY": 633,
+      "content": "Aus diesen Gleichungen ist eine wichtige Folgerung zu ziehen. Wir betrachten die Matrizen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 188,
+      "topLeftY": 633,
+      "bottomRightX": 584,
+      "bottomRightY": 673,
+      "content": "$$d_1 = q \\frac{\\partial z}{\\partial q} - \\frac{\\partial z}{\\partial q} q, \\quad d_2 = p \\frac{\\partial z}{\\partial p} - \\frac{\\partial z}{\\partial p} p. \\quad (22)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 678,
+      "bottomRightX": 243,
+      "bottomRightY": 696,
+      "content": "Nach (21) wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 696,
+      "bottomRightX": 456,
+      "bottomRightY": 736,
+      "content": "$$d_1 = \\sum_{l=1}^k (q^{r_l} P_l p^{s_l} - P_l p^{s_l} q^{r_l}),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 740,
+      "bottomRightX": 457,
+      "bottomRightY": 781,
+      "content": "$$d_2 = \\sum_{l=1}^k (p^{s_l} q^{r_l} P_l - q^{r_l} P_l p^{s_l}),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 783,
+      "bottomRightX": 216,
+      "bottomRightY": 799,
+      "content": "und daraus folgt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 799,
+      "bottomRightX": 477,
+      "bottomRightY": 839,
+      "content": "$$d_1 + d_2 = \\sum_{l=1}^k (p^{s_l} q^{r_l} P_l - P_l p^{s_l} q^{r_l}).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 844,
+      "bottomRightX": 586,
+      "bottomRightY": 901,
+      "content": "Hier hebt sich immer das zweite Glied eines Terms gegen das erste des folgenden, und auch das erste und letzte Glied der ganzen Summe zerstören sich. Also wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 902,
+      "bottomRightX": 586,
+      "bottomRightY": 922,
+      "content": "$$d_1 + d_2 = 0. \\quad (23)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

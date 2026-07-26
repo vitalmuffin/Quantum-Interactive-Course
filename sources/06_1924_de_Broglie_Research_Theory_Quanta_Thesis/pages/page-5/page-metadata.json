@@ -1,0 +1,56 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 146,
+      "topLeftY": 29,
+      "bottomRightX": 484,
+      "bottomRightY": 52,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 546,
+      "topLeftY": 31,
+      "bottomRightX": 569,
+      "bottomRightY": 51,
+      "content": "25",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 69,
+      "bottomRightX": 570,
+      "bottomRightY": 222,
+      "content": "d'interférence dont les premières sont dues à Young, étaient difficiles sinon impossibles à interpréter du point de vue corpusculaire. Fresnel développa alors son admirable théorie élastique de la propagation des ondes lumineuses et dès lors le crédit de la conception de Newton alla sans cesse en diminuant.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 54,
+      "topLeftY": 220,
+      "bottomRightX": 568,
+      "bottomRightY": 500,
+      "content": "Un des grands succès de Fresnel fut d'expliquer la propagation rectiligne de la lumière dont l'interprétation était si intuitive dans la théorie de l'émission. Quand deux théories fondées sur des idées qui nous paraissent entièrement différentes, rendent compte avec la même élégance d'une même vérité expérimentale, on peut toujours se demander si l'opposition des deux points de vue est bien réelle et n'est pas due seulement à l'insuffisance de nos efforts de synthèse. Cette question, on ne se la posa pas à l'époque de Fresnel et la notion de corpuscule de lumière fut considérée comme naïve et abandonnée.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 49,
+      "topLeftY": 497,
+      "bottomRightX": 567,
+      "bottomRightY": 959,
+      "content": "Le xix$^{e}$ siècle a vu naître une branche toute nouvelle de la physique qui a apporté dans notre conception du monde et dans notre industrie d'immenses bouleversements : la science de l'Électricité. Nous n'avons pas à rappeler ici comment elle s'est constituée grâce aux travaux de Volta, Ampère, Laplace, Faraday, etc. Ce qui importe seulement, c'est de dire que Maxwell sut résumer en des formules d'une superbe concision mathématique les résultats de ses devanciers et montrer comment l'optique tout entière pouvait être considérée comme un rameau de l'électromagnétisme. Les travaux de Hertz et plus encore ceux de M. H.-A. Lorentz perfectionnèrent la théorie de Maxwell ; Lorentz y introduisit de plus la notion de la discontinuité de l'électricité déjà élaborée par M. J.-J. Thomson et si brillamment confirmée par l'expérience. Certes, le développement de la théorie électromagnétique enlevait à l'éther élastique de Fresnel sa réalité et par là semblait séparer l'optique du domaine de la Mécanique, mais beaucoup de physiciens à la",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

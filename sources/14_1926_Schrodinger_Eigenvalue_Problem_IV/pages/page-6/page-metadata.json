@@ -1,0 +1,119 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 75,
+      "topLeftY": 40,
+      "bottomRightX": 106,
+      "bottomRightY": 58,
+      "content": "114",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 260,
+      "topLeftY": 40,
+      "bottomRightX": 368,
+      "bottomRightY": 61,
+      "content": "E. Schrödinger",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 76,
+      "bottomRightX": 554,
+      "bottomRightY": 179,
+      "content": "(der jetzt zunächst *nicht* als „pars realis“, sondern im eigentlichen Sinn gemeint ist), in die Amplitudengleichung (1') des ungestörten Problems, und man weiß, (vgl. § 1), daß auf diese Weise die Gesamtheit der Lösungen des ungestörten Problems gefunden wird. Es seien",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 178,
+      "topLeftY": 187,
+      "bottomRightX": 448,
+      "bottomRightY": 209,
+      "content": "$$E_k \\text{ und } u_k(x); \\quad k = 1, 2, 3 \\dots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 215,
+      "bottomRightX": 554,
+      "bottomRightY": 320,
+      "content": "die Eigenwerte und normierten Eigenfunktionen des ungestörten Problems, die wir als *bekannt* ansehen und, um uns nicht an Nebenfragen zu verlieren, die besonders zu überlegen sein werden, als *diskret* und untereinander *verschieden* annehmen wollen (nichtentartetes System ohne Streckenspektrum).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 319,
+      "bottomRightX": 554,
+      "bottomRightY": 444,
+      "content": "Lösungen des gestörten Problems werden wir dann, ganz genau wie im Falle eines von der Zeit unabhängigen Störungspotentials, in der Nachbarschaft *jeder* möglichen Lösung des ungestörten Problems zu suchen haben, also in der Nachbarschaft einer beliebigen Linearkombination mit konstanten Koeffizienten der [nach (8) mit den gehörigen Zeitfaktoren",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 444,
+      "bottomRightX": 554,
+      "bottomRightY": 606,
+      "content": "$e^{\\pm \\frac{2\\pi i E_k t}{h}}$ zu beheftenden] $u_k(x)$. Die in der Nachbarschaft einer *bestimmten* Linearkombination gelegene Lösung des gestörten Problems wird physikalisch *die* Bedeutung haben, daß *sie* es ist, welche sich zunächst einstellt, wenn beim Eintreffen der Lichtwelle gerade diese bestimmte Linearkombination von freien Eigenschwingungen vorlag (vielleicht mit geringfügigen Änderungen beim Vorgang des „Aufschaukelns“).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 606,
+      "bottomRightX": 554,
+      "bottomRightY": 709,
+      "content": "Da nun aber die Gleichung auch des gestörten Problems *homogen* ist — dieser Mangel an Analogie mit den „erzwungenen Schwingungen“ der Akustik sei nachdrücklich hervorgehoben! — so genügt es offenbar, die gestörte Lösung in der Nachbarschaft jedes *einzelnen*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 714,
+      "bottomRightX": 370,
+      "bottomRightY": 754,
+      "content": "$$(9) \\quad u_k(x) e^{\\pm \\frac{2\\pi i E_k t}{h}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 760,
+      "bottomRightX": 554,
+      "bottomRightY": 802,
+      "content": "aufzusuchen, welche man alsdann ad libitum linear kombinieren kann, ganz ebenso wie die ungestörten Lösungen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 802,
+      "bottomRightX": 554,
+      "bottomRightY": 840,
+      "content": "Wir machen also jetzt zur Lösung der ersten Gleichung (7) den Ansatz:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 839,
+      "bottomRightX": 417,
+      "bottomRightY": 880,
+      "content": "$$(10) \\quad \\psi = u_k(x) e^{\\frac{2\\pi i E_k t}{h}} + w(x, t).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

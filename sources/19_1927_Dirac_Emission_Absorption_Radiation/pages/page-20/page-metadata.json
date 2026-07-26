@@ -1,0 +1,92 @@
+{
+  "index": 19,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 158,
+      "topLeftY": 169,
+      "bottomRightX": 628,
+      "bottomRightY": 220,
+      "content": "atomic system alone, and the coefficients $v_{rs}$ are for the present unknown. We shall show that this form for the Hamiltonian, with the $v_{rs}$ arbitrary, leads to Einstein's laws for the emission and absorption of radiation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 221,
+      "bottomRightX": 630,
+      "bottomRightY": 397,
+      "content": "The light-quantum has the peculiarity that it apparently ceases to exist when it is in one of its stationary states, namely, the zero state, in which its momentum, and therefore also its energy, are zero. When a light-quantum is absorbed it can be considered to jump into this zero state, and when one is emitted it can be considered to jump from the zero state to one in which it is physically in evidence, so that it appears to have been created. Since there is no limit to the number of light-quanta that may be created in this way, we must suppose that there are an infinite number of light-quanta in the zero state, so that the $N_0$ of the Hamiltonian (20) is infinite. We must now have $\\Theta_0$ the variable canonically conjugate to $N_0$ a constant, since",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 410,
+      "bottomRightX": 589,
+      "bottomRightY": 431,
+      "content": "$$\\dot{\\Theta}_0 = \\partial F / \\partial N_0 = W_0 + \\text{terms involving } N_0^{-1/2} \\text{ or } (N_0 + 1)^{-1/2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 443,
+      "bottomRightX": 628,
+      "bottomRightY": 530,
+      "content": "and $W_0$ is zero. In order that the Hamiltonian (20) may remain finite it is necessary for the coefficients $v_{r0}, v_{0r}$ to be infinitely small. We shall suppose that they are infinitely small in such a way as to make $v_{r0}N_0^{1/2}$ and $v_{0r}N_0^{1/2}$ finite, in order that the transition probability coefficients may be finite. Thus we put",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 531,
+      "bottomRightX": 548,
+      "bottomRightY": 554,
+      "content": "$$v_{r0}(N_0 + 1)^{1/2}e^{-i\\Theta_0/h} = v_r, \\quad v_{0r}N_0^{1/2}e^{i\\Theta_0/h} = v_r^*,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 560,
+      "bottomRightX": 628,
+      "bottomRightY": 650,
+      "content": "where $v_r$ and $v_r^*$ are finite and conjugate imaginaries. We may consider the $v_r$ and $v_r^*$ to be functions only of the $J$'s and $\\omega$'s of the atomic system, since their factors $(N_0 + 1)^{1/2}e^{i\\Theta_0/h}$ and $N_0^{1/2}e^{i\\Theta_0/h}$ are practically constants, the rate of change of $N_0$ being very small compared with $N_0$. The Hamiltonian (20) now becomes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 170,
+      "topLeftY": 664,
+      "bottomRightX": 626,
+      "bottomRightY": 722,
+      "content": "$$\\begin{array}{rl} F = H_P(J) + \\Sigma_r W_r N_r & + \\Sigma_{r \\neq 0}[v_r N_r^{1/2}e^{i\\Theta_r/h} + v_r^*(N_r + 1)^{1/2}e^{-i\\Theta_r/h}] \\\\ & + \\Sigma_{r \\neq 0}\\Sigma_{s \\neq 0}v_{rs}N_r^{1/2}(N_s + 1 - \\delta_{rs})^{1/2}e^{i(\\Theta_r - \\Theta_s)/h}. \\end{array} \\tag{27}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 723,
+      "bottomRightX": 628,
+      "bottomRightY": 864,
+      "content": "The probability of a transition in which a light-quantum in the state $r$ is absorbed is proportional to the square of the modulus of that matrix element of the Hamiltonian which refers to this transition. This matrix element must come from the term $v_r N_r^{1/2}e^{i\\Theta_r/h}$ in the Hamiltonian, and must therefore be proportional to $N_r'^{1/2}$ where $N_r'$ is the number of light-quanta in state $r$ before the process. The probability of the absorption process is thus proportional to $N_r'$. In the same way the probability of a light-quantum in state $r$ being emitted is proportional to $(N_r' + 1)$, and the probability of",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 386,
+      "topLeftY": 892,
+      "bottomRightX": 402,
+      "bottomRightY": 904,
+      "content": "20",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

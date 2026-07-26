@@ -1,0 +1,17 @@
+had to go through a condition such that $B$ had to have some definite value, $b$.
+
+If an attempt is made to verify this, i.e., if $B$ is measured between the experiments $A$ and $C$, then formula (4) is, in fact, correct. More precisely, if the apparatus to measure $B$ is set up and used, but no attempt is made to utilize the results of the $B$ measurement in the sense that only the $A$ to $C$ correlation is recorded and studied, then (4) is correct. This is because the $B$ measuring machine has done its job; if we wish, we could read the meters at any time without disturbing the situation any further. The experiments which gave $a$ and $c$ can, therefore, be separated into groups depending on the value of $b$.
+
+Looking at probability from a frequency point of view (4) simply results from the statement that in each experiment giving $a$ and $c$, $B$ had some value. The only way (4) could be wrong is the statement, “$B$ had some value,” must sometimes be meaningless. Noting that (5) replaces (4) only under the circumstance that we make no attempt to measure $B$, we are led to say that the statement, “$B$ had some value,” may be meaningless whenever we make no attempt to measure $B^6$.
+
+Hence, we have different results for the correlation of $a$ and $c$, namely, Eq. (4) or Eq. (5), depending upon whether we do or do not attempt to measure $B$. No matter how subtly one tries, the attempt to measure $B$ must disturb the system, at least enough to change the results from those given by (5) to those of (4)$^7$. That measurements do, in fact, cause the necessary disturbances, and that, essentially, (4) could be false was first clearly enunciated by Heisenberg in his uncertainty principle. The law (5) is a result of the work of Schroedinger, the statistical interpretation of Born and Jordan, and the transformation theory of Dirac.$^8$
+
+Equation (5) is a typical representation of the wave nature of matter.
+
+$^6$It does not help to point out that we could have measured $B$ had we wished. The fact is that we did not.
+
+$^7$How (4) actually results from (5) when measurements disturb the system has been studied particularly by J. von Neumann (*Mathematische Grundlagen der Quantenmahanik* (Dover Publications, New York, 1943)). The effect of perturbation of the measuring equipment is effectively to change the phase of the interfering components, by $\theta_b$, say, so that (5) becomes $\varphi_{ac} = \sum_b e^{i\theta_b} \varphi_{ab} \varphi_{bc}$. However, as von Neumann shows, the phase shifts must remain unknown if $B$ is measured so that the resulting probability $P_{ac}$ is the square of $\varphi_{ac}$, averaged over all phases, $\theta_b$. This results in (4).
+
+$^8$If $\mathbf{A}$ and $\mathbf{B}$ are the operators corresponding to measurements $A$ and $B$, and if $\psi_a$, and $\psi_b$ are solutions of $\mathbf{A}\psi_a = a\psi_a$, and $\mathbf{B}\chi_b = b\chi_b$, then $\varphi_{ab} = \int \chi_b^* \psi_a dx = (\chi_b^*, \psi_a)$. Thus, $\psi_{ab}$ is an element $(a|b)$ of the transformation matrix for the transformation from a representation in which $\mathbf{A}$ is diagonal to one in which $\mathbf{B}$ is diagonal.
+
+5

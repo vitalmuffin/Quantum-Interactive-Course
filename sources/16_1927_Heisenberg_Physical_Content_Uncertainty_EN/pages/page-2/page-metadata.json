@@ -1,0 +1,121 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 109,
+    "height": 1024,
+    "width": 641
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 197,
+      "topLeftY": 0,
+      "bottomRightX": 407,
+      "bottomRightY": 16,
+      "content": "I.3 PRINCIPLE OF INDETERMINISM",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 547,
+      "topLeftY": 0,
+      "bottomRightX": 565,
+      "bottomRightY": 14,
+      "content": "63",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 36,
+      "topLeftY": 36,
+      "bottomRightX": 570,
+      "bottomRightY": 369,
+      "content": "seems to follow directly from the basic equations of quantum mechanics. When a definite mass m is given, in our everyday physics it is perfectly understandable to speak of the position and the velocity of the center of gravity of this mass. In quantum mechanics, however, the relation pq - qp = -iħ between mass, position, and velocity is believed to hold. Therefore we have good reason to become suspicious every time uncritical use is made of the words “position” and “velocity.” When one admits that discontinuities are somehow typical of processes that take place in small regions and in short times, then a contradiction between the concepts of “position” and “velocity” is quite plausible. If one considers, for example, the motion of a particle in one dimension, then in continuum theory one will be able to draw (Fig. 1) a worldline x(t) for the track of the particle (more precisely, its center of gravity), the tangent of which gives the velocity at every instant. In contrast, in a theory based on discontinuity there might be in place of this curve a series of points at finite separation (Fig. 2). In this case it is clearly meaningless to speak about one velocity at one position (1) because one velocity can only be defined by two positions and (2), conversely, because any one point is associated with two velocities.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 387,
+      "bottomRightX": 283,
+      "bottomRightY": 580,
+      "content": "![img-0.jpeg](img-0.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-0.jpeg"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 588,
+      "bottomRightX": 186,
+      "bottomRightY": 603,
+      "content": "FIGURE 1",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 327,
+      "topLeftY": 387,
+      "bottomRightX": 567,
+      "bottomRightY": 580,
+      "content": "![img-1.jpeg](img-1.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-1.jpeg"
+    },
+    {
+      "topLeftX": 426,
+      "topLeftY": 588,
+      "bottomRightX": 477,
+      "bottomRightY": 602,
+      "content": "FIGURE 2",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 37,
+      "topLeftY": 624,
+      "bottomRightX": 570,
+      "bottomRightY": 703,
+      "content": "The question therefore arises whether, through a more precise analysis of these kinematic and mechanical concepts, it might be possible to clear up the contradictions evident up to now in the physical interpretations of quantum mechanics and to arrive at a physical understanding of the quantum-mechanical formulas.*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 722,
+      "bottomRightX": 571,
+      "bottomRightY": 860,
+      "content": "* The present work has arisen from efforts and desires to which other investigators have already given clear expression, before the development of quantum mechanics. I call attention here especially to Bohr’s papers on the basic postulates of quantum theory (for example, Zeits. f. Physik, 13, 117 [1923]) and Einstein’s discussions on the connection between wave field and light quanta. The problems dealt with here are discussed most clearly in recent times, and the problems arising are partly answered, by W. Pauli (“Quantentheorie,” Handbuch der Physik, Vol. XXIII, cited hereafter as l.c.); quantum mechanics has changed only slightly the formulation of these problems as given by Pauli. It is also a special pleasure to thank here Herrn Pauli for the repeated stimulus I have received from our oral and written discussions, which have contributed decisively to the present work.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 589,
+      "topLeftY": 414,
+      "bottomRightX": 640,
+      "bottomRightY": 654,
+      "content": "umph\nbrea\nwon\nnot\nbut\nbrea\nrea\nan\nero\nm",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 597,
+      "topLeftY": 756,
+      "bottomRightX": 632,
+      "bottomRightY": 786,
+      "content": "1909",
+      "confidenceScores": null,
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 576,
+      "topLeftY": 801,
+      "bottomRightX": 640,
+      "bottomRightY": 847,
+      "content": "the\nold\ntest",
+      "confidenceScores": null,
+      "type": "aside_text"
+    }
+  ]
+}

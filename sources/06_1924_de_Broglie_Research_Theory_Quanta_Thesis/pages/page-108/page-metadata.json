@@ -1,0 +1,56 @@
+{
+  "index": 107,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 58,
+      "topLeftY": 30,
+      "bottomRightX": 91,
+      "bottomRightY": 49,
+      "content": "128",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 34,
+      "bottomRightX": 395,
+      "bottomRightY": 51,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 53,
+      "topLeftY": 74,
+      "bottomRightX": 579,
+      "bottomRightY": 203,
+      "content": "serait en quelque sorte la traduction ainsi que celle du quantum de lumière. La présente théorie doit donc plutôt être considérée comme une forme dont le contenu physique n'est pas entièrement précisé que comme une doctrine homogène définitivement constituée.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 299,
+      "topLeftY": 927,
+      "bottomRightX": 537,
+      "bottomRightY": 951,
+      "content": "*Le Gérant : F. AMIRAULT.*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 966,
+      "bottomRightX": 441,
+      "bottomRightY": 984,
+      "content": "LAVAL. — IMPRIMERIE BARNÉOUD.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

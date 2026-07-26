@@ -1,0 +1,1163 @@
+{
+  "document_id": "178_1924_bose_planck_energy_distribution",
+  "source_filename": "178_1924_bose_planck_energy_distribution.pdf",
+  "metadata": {
+    "title_original": "Plancks Gesetz und Lichtquantenhypothese.",
+    "title_normalized": "Plancks Gesetz und Lichtquantenhypothese",
+    "authors": [
+      "Bose (Dacca-University, Indien)"
+    ],
+    "publication_year": 1924,
+    "original_language": "de",
+    "journal": "Zeitschrift für Physik",
+    "volume": "26",
+    "issue": "1",
+    "page_range": "178-181",
+    "doi": "10.1007/BF01327326",
+    "received_date": "2. Juli 1924",
+    "abstract_original": "Der Phasenraum eines Lichtquants in bezug auf ein gegebenes Volumen wird in „Zellen“ von der Größe $h^3$ aufgeteilt. Die Zahl der möglichen Verteilungen der Lichtquanten einer makroskopisch definierten Strahlung unter diese Zellen liefert die Entropie und damit alle thermodynamischen Eigenschaften der Strahlung. Plancks Formel für die Verteilung der Energie in der Strahlung des schwarzen Körpers bildet den Ausgangspunkt für die Quantentheorie, welche in den letzten 20 Jahren entwickelt worden ist und in allen Gebieten der Physik reiche Früchte getragen hat. Bose leitet in dieser Arbeit die Plancksche Strahlungsformel unabhängig von der klassischen Elektrodynamik ab, indem er die Lichtquantenhypothese mit statistischer Mechanik verbindet. Die Methode wird später von Einstein auf die Quantentheorie des idealen Gases erweitert."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "178",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "Plancks Gesetz und Lichtquantenhypothese.",
+          "markdown": "# Plancks Gesetz und Lichtquantenhypothese",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Von Bose (Dacca-University, Indien).",
+          "markdown": "Von **Bose** (Dacca-University, Indien).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.5,
+            0.84
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Eingegangen am 2. Juli 1924.)",
+          "markdown": "(Eingegangen am 2. Juli 1924.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.75,
+            0.8,
+            0.9,
+            0.84
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Der Phasenraum eines Lichtquants in bezug auf ein gegebenes Volumen wird in „Zellen“ von der Größe $h^3$ aufgeteilt. Die Zahl der möglichen Verteilungen der Lichtquanten einer makroskopisch definierten Strahlung unter diese Zellen liefert die Entropie und damit alle thermodynamischen Eigenschaften der Strahlung.",
+          "markdown": "Der Phasenraum eines Lichtquants in bezug auf ein gegebenes Volumen wird in „Zellen“ von der Größe $h^3$ aufgeteilt. Die Zahl der möglichen Verteilungen der Lichtquanten einer makroskopisch definierten Strahlung unter diese Zellen liefert die Entropie und damit alle thermodynamischen Eigenschaften der Strahlung.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.78
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Plancks Formel für die Verteilung der Energie in der Strahlung des schwarzen Körpers bildet den Ausgangspunkt für die Quantentheorie, welche in den letzten 20 Jahren entwickelt worden ist und in allen Gebieten der Physik reiche Früchte getragen hat. Seit der Publikation im Jahre 1901 sind viele Arten der Ableitung dieses Gesetzes vorgeschlagen worden. Es ist anerkannt, daß die fundamentalen Voraussetzungen der Quantentheorie unvereinbar sind mit den Gesetzen der klassischen Elektrodynamik. Alle bisherigen Ableitungen machen Gebrauch von der Relation",
+          "markdown": "Plancks Formel für die Verteilung der Energie in der Strahlung des schwarzen Körpers bildet den Ausgangspunkt für die Quantentheorie, welche in den letzten 20 Jahren entwickelt worden ist und in allen Gebieten der Physik reiche Früchte getragen hat. Seit der Publikation im Jahre 1901 sind viele Arten der Ableitungen dieses Gesetzes vorgeschlagen worden. Es ist anerkannt, dass die fundamentalen Voraussetzungen der Quantentheorie unvereinbar sind mit den Gesetzen der klassischen Elektrodynamik. Alle bisherigen Ableitungen machen Gebrauch von der Relation",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.68
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\varrho_v dv = \\frac{8 \\pi v^2 dv}{c^3} E,$$",
+          "markdown": "$$\\varrho_v dv = \\frac{8 \\pi v^2 dv}{c^3} E,$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "d. h. von der Relation zwischen der Strahlungsdichte und der mittleren Energie eines Oszillators, und sie machen Annahmen über die Zahl der Freiheitsgrade des Äthers, wie sie in obige Gleichung eingeht (erster Faktor der rechten Seite). Dieser Faktor konnte jedoch nur aus der klassischen Theorie hergeleitet werden. Dies ist der unbefriedigende Punkt in allen Ableitungen, und es kann nicht wundernehmen, daß immer wieder Anstrengungen gemacht werden, eine Ableitung zu geben, die von diesem logischen Fehler frei ist.",
+          "markdown": "d. h. von der Relation zwischen der Strahlungsdichte und der mittleren Energie eines Oszillators, und sie machen Annahmen über die Zahl der Freiheitsgrade des Äthers, wie sie in obige Gleichung eingeht (erster Faktor der rechten Seite). Dieser Faktor konnte jedoch nur aus der klassischen Theorie hergeleitet werden. Dies ist der unbefriedigende Punkt in allen Ableitungen, und es kann nicht wundernehmen, dass immer wieder Anstrengungen gemacht werden, eine Ableitung zu geben, die von diesem logischen Fehler frei ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.54
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Eine bemerkenswert elegante Ableitung ist von Einstein angegeben worden. Dieser hat den logischen Mangel aller bisherigen Ableitungen erkannt und versucht, die Formel unabhängig von der klassischen Theorie zu deduzieren. Von sehr einfachen Annahmen über den Energieaustausch zwischen Molekülen und Strahlungsfeld ausgehend, findet er die Relation",
+          "markdown": "Eine bemerkenswert elegante Ableitung ist von Einstein angegeben worden. Dieser hat den logischen Mangel aller bisherigen Ableitungen erkannt und versucht, die Formel unabhängig von der klassischen Theorie zu deduzieren. Von sehr einfachen Annahmen über den Energieaustausch zwischen Molekülen und Strahlungsfeld ausgehend, findet er die Relation",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.44
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\varrho_v = \\frac{u_{mn}}{e^{\\frac{\\varepsilon_m - \\varepsilon_n}{kT}} - 1}.$$",
+          "markdown": "$$\\varrho_v = \\frac{u_{mn}}{e^{\\frac{\\varepsilon_m - \\varepsilon_n}{kT}} - 1}.$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.34
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Indessen muß er, um diese Formel mit der Planckschen in Übereinstimmung zu bringen, von Wiens Verschiebungsgesetz und Bohrs Korrespondenzprinzip Gebrauch machen. Wiens Gesetz ist auf die klassische Theorie gegründet, und das Korrespondenzprinzip nimmt an, daß die Quantentheorie mit der klassischen Theorie in gewissen Grenzfällen übereinstimme.",
+          "markdown": "Indessen muss er, um diese Formel mit der Planckschen in Übereinstimmung zu bringen, von Wiens Verschiebungsgesetz und Bohrs Korrespondenzprinzip Gebrauch machen. Wiens Gesetz ist auf die klassische Theorie gegründet, und das Korrespondenzprinzip nimmt an, dass die Quantentheorie mit der klassischen Theorie in gewissen Grenzfällen übereinstimme.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.28
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "In allen Fällen scheinen mir die Ableitungen nicht genügend logisch gerechtfertigt. Dagegen scheint mir die Lichtquantenhypothese in Verbindung mit der statistischen Mechanik (wie sie durch Planck den Bedürfnissen der Quantentheorie angepaßt worden ist) für die Ableitung des Gesetzes unabhängig von der klassischen Theorie hinreichend zu sein. Im folgenden will ich die Methode kurz skizzieren.",
+          "markdown": "In allen Fällen scheinen mir die Ableitungen nicht genügend logisch gerechnet zu sein. Dagegen scheint mir die Lichtquantenhypothese in Verbindung mit der statistischen Mechanik (wie sie durch Planck den Bedürfnissen der Quantentheorie angepasst worden ist) für die Ableitung des Gesetzes unabhängig von der klassischen Theorie hinreichend zu sein. Im Folgenden will ich die Methode kurz skizzieren.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.18
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": true,
+          "review_reason": "Unklare Formulierung: 'logisch gerechtfertigt' vs. 'logisch gerechnet'"
+        },
+        {
+          "order": 12,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Die Strahlung sei in das Volumen V eingeschlossen und ihre Gesamtenergie E sei gegeben.",
+          "markdown": "## Die Strahlung sei in das Volumen V eingeschlossen und ihre Gesamtenergie E sei gegeben.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.9,
+            0.09
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# Plancks Gesetz und Lichtquantenhypothese\n\nVon **Bose** (Dacca-University, Indien).\n\n(Eingegangen am 2. Juli 1924.)\n\nDer Phasenraum eines Lichtquants in bezug auf ein gegebenes Volumen wird in „Zellen“ von der Größe $h^3$ aufgeteilt. Die Zahl der möglichen Verteilungen der Lichtquanten einer makroskopisch definierten Strahlung unter diese Zellen liefert die Entropie und damit alle thermodynamischen Eigenschaften der Strahlung.\n\nPlancks Formel für die Verteilung der Energie in der Strahlung des schwarzen Körpers bildet den Ausgangspunkt für die Quantentheorie, welche in den letzten 20 Jahren entwickelt worden ist und in allen Gebieten der Physik reiche Früchte getragen hat. Seit der Publikation im Jahre 1901 sind viele Arten der Ableitungen dieses Gesetzes vorgeschlagen worden. Es ist anerkannt, dass die fundamentalen Voraussetzungen der Quantentheorie unvereinbar sind mit den Gesetzen der klassischen Elektrodynamik. Alle bisherigen Ableitungen machen Gebrauch von der Relation\n\n$$\\varrho_v dv = \\frac{8 \\pi v^2 dv}{c^3} E,$$\n\nd. h. von der Relation zwischen der Strahlungsdichte und der mittleren Energie eines Oszillators, und sie machen Annahmen über die Zahl der Freiheitsgrade des Äthers, wie sie in obige Gleichung eingeht (erster Faktor der rechten Seite). Dieser Faktor konnte jedoch nur aus der klassischen Theorie hergeleitet werden. Dies ist der unbefriedigende Punkt in allen Ableitungen, und es kann nicht wundernehmen, dass immer wieder Anstrengungen gemacht werden, eine Ableitung zu geben, die von diesem logischen Fehler frei ist.\n\nEine bemerkenswert elegante Ableitung ist von Einstein angegeben worden. Dieser hat den logischen Mangel aller bisherigen Ableitungen erkannt und versucht, die Formel unabhängig von der klassischen Theorie zu deduzieren. Von sehr einfachen Annahmen über den Energieaustausch zwischen Molekülen und Strahlungsfeld ausgehend, findet er die Relation\n\n$$\\varrho_v = \\frac{u_{mn}}{e^{\\frac{\\varepsilon_m - \\varepsilon_n}{kT}} - 1}.$$ \n\nIndessen muss er, um diese Formel mit der Planckschen in Übereinstimmung zu bringen, von Wiens Verschiebungsgesetz und Bohrs Korrespondenzprinzip Gebrauch machen. Wiens Gesetz ist auf die klassische Theorie gegründet, und das Korrespondenzprinzip nimmt an, dass die Quantentheorie mit der klassischen Theorie in gewissen Grenzfällen übereinstimme.\n\nIn allen Fällen scheinen mir die Ableitungen nicht genügend logisch gerechtfertigt. Dagegen scheint mir die Lichtquantenhypothese in Verbindung mit der statistischen Mechanik (wie sie durch Planck den Bedürfnissen der Quantentheorie angepasst worden ist) für die Ableitung des Gesetzes unabhängig von der klassischen Theorie hinreichend zu sein. Im Folgenden will ich die Methode kurz skizzieren.\n\n## Die Strahlung sei in das Volumen V eingeschlossen und ihre Gesamtenergie E sei gegeben.",
+      "word_count": 320,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite",
+        "Formeln teilweise in separaten Blöcken erfasst",
+        "Leichte OCR-Fehler bei mathematischen Symbolen (z. B. '±b' statt 'ν')"
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "179",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Es seien verschiedene Sorten von Quanten von der jeweiligen Anzahl N_s und Energie h v_s vorhanden (s = 0 bis s = ∞). Die Totalenergie E ist dann",
+          "markdown": "Es seien verschiedene Sorten von Quanten von der jeweiligen Anzahl $N_s$ und Energie $h v_s$ vorhanden (s = 0 bis s = ∞). Die Totalenergie E ist dann",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$E = \\sum_{s} N_{s} h \\nu_{s} = V \\int \\varrho_{v} d\\nu. \\tag{1}$$",
+          "markdown": "$$E = \\sum_{s} N_{s} h \\nu_{s} = V \\int \\varrho_{v} d\\nu. \\tag{1}$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.94
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Lösung des Problems verlangt dann die Bestimmung der N_s, welche ϱ_v bestimmen. Wenn wir die Wahrscheinlichkeit für jede durch beliebige N_s charakterisierte Verteilung angeben können, dann wird die Lösung durch die Bedingung bestimmt, daß diese Wahrscheinlichkeit bei Wahrung der Nebenbedingung (1) ein Maximum sein soll. Diese Wahrscheinlichkeit wollen wir nun aufsuchen.",
+          "markdown": "Die Lösung des Problems verlangt dann die Bestimmung der $N_s$, welche $\\varrho_v$ bestimmen. Wenn wir die Wahrscheinlichkeit für jede durch beliebige $N_s$ charakterisierte Verteilung angeben können, dann wird die Lösung durch die Bedingung bestimmt, dass diese Wahrscheinlichkeit bei Wahrung der Nebenbedingung (1) ein Maximum sein soll. Diese Wahrscheinlichkeit wollen wir nun aufsuchen.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Das Quantum hat ein Moment vom Betrage $$\n\\frac{h \\nu_{s}}{c}$$ in der Richtung seiner Fortbewegung. Der Momentanzustand des Quantums wird charakterisiert durch seine Koordinaten x, y, z und die zugehörigen Momente p_x p_y p_z; diese sechs Größen können als Punktkoordinaten in einem sechsdimensionalen Raum aufgefaßt werden, wobei wir die Beziehung haben",
+          "markdown": "Das Quantum hat ein Moment vom Betrage $$\n\\frac{h \\nu_{s}}{c}$$ in der Richtung seiner Fortbewegung. Der Momentanzustand des Quantums wird charakterisiert durch seine Koordinaten $x$, $y$, $z$ und die zugehörigen Momente $p_x$ $p_y$ $p_z$; diese sechs Größen können als Punktkoordinaten in einem sechsdimensionalen Raum aufgefasst werden, wobei wir die Beziehung haben",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.84
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "Formelzeilenumbrüche und OCR-Fehler bei mathematischen Symbolen"
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$p_{x}^{2} + p_{y}^{2} + p_{z}^{2} = \\frac{h^{2} \\nu^{2}}{c^{2}},$$",
+          "markdown": "$$p_{x}^{2} + p_{y}^{2} + p_{z}^{2} = \\frac{h^{2} \\nu^{2}}{c^{2}},$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.74
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "vermöglicher der genannte Punkt auf einer durch die Frequenz des Quants bestimmten Zylinderfläche zu bleiben gezwungen ist. Zum Frequenzbereich d v_s gehört in diesem Sinne der Phasenraum",
+          "markdown": "vermöge der genannten Punkt auf einer durch die Frequenz des Quants bestimmten Zylinderfläche zu bleiben gezwungen ist. Zum Frequenzbereich $d \\nu_s$ gehört in diesem Sinne der Phasenraum",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.9,
+          "needs_manual_review": true,
+          "review_reason": "OCR-Fehler: 'vermöglicher' statt 'vermöge', '±b' statt 'ν'"
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\int dx \\, dy \\, dz \\, dp_{x} \\, dp_{y} \\, dp_{z} = V \\cdot 4\\pi \\left(\\frac{h \\nu}{c}\\right)^{2} \\frac{h d\\nu}{c} = 4\\pi \\frac{h^{3} \\nu^{2}}{c^{3}} V d\\nu.$$",
+          "markdown": "$$\\int dx \\, dy \\, dz \\, dp_{x} \\, dp_{y} \\, dp_{z} = V \\cdot 4\\pi \\left(\\frac{h \\nu}{c}\\right)^{2} \\frac{h d\\nu}{c} = 4\\pi \\frac{h^{3} \\nu^{2}}{c^{3}} V d\\nu.$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Wenn wir das gesamte Phasenvolumen in Zellen von der Größe h³ einteilen, gehören zum Frequenzbereich d ν also 4π V $$\n\\frac{\\nu^{2}}{c^{2}}$$ d ν Zellen. In bezug auf die Art dieser Einteilung kann nichts Bestimmtes gesagt werden.",
+          "markdown": "Wenn wir das gesamte Phasenvolumen in Zellen von der Größe $h^3$ einteilen, gehören zum Frequenzbereich $d \\nu$ also $4\\pi V$ $$\n\\frac{\\nu^{2}}{c^{2}}$$ $d \\nu$ Zellen. In Bezug auf die Art dieser Einteilung kann nichts Bestimmtes gesagt werden.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.54
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Formelzeilenumbrüche und OCR-Fehler bei mathematischen Symbolen"
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Indessen muß die Gesamtzahl der Zellen als die Zahl der möglichen Anordnungen eines Quants in dem gegebenen Volumen angesehen werden. Um der Tatsache der Polarisation Rechnung zu tragen, erscheint es dagegen geboten, diese Zahl noch mit 2 zu multiplizieren, so daß wir für die Zahl der zu $d±b$ gehörigen Zellen $8\\pi V \\frac{±b^2 d±b}{c^3}$ erhalten.",
+          "markdown": "Indessen muss die Gesamtzahl der Zellen als die Zahl der möglichen Anordnungen eines Quants in dem gegebenen Volumen angesehen werden. Um der Tatsache der Polarisation Rechnung zu tragen, erscheint es dagegen geboten, diese Zahl noch mit 2 zu multiplizieren, so dass wir für die Zahl der zu $d\\nu$ gehörigen Zellen $8\\pi V \\frac{\\nu^{2} d\\nu}{c^{3}}$ erhalten.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.44
+          ],
+          "ocr_confidence": 0.88,
+          "needs_manual_review": true,
+          "review_reason": "OCR-Fehler: '±b' statt 'ν' in mehreren Stellen"
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nun ist es einfach, die thermodynamische Wahrscheinlichkeit eines (makroskopisch definierten) Zustandes zu berechnen. Es sei $N^s$ die Zahl der zum Frequenzbereich $d±b^s$ gehörigen Quanten. Auf wie viele Arten können diese auf die zu $d±b^s$ gehörigen Zellen verteilt werden? Sei $p_0^s$ die Zahl der vakanten Zellen, $p_1^s$ die Zahl derer, die ein Quant enthalten, $p_2^s$ die Zahl der Zellen, die zwei Quanten enthalten usf. Die Zahl der möglichen Verteilungen ist dann",
+          "markdown": "Nun ist es einfach, die thermodynamische Wahrscheinlichkeit eines (makroskopisch definierten) Zustandes zu berechnen. Es sei $N^s$ die Zahl der zum Frequenzbereich $d\\nu^s$ gehörigen Quanten. Auf wie viele Arten können diese auf die zu $d\\nu^s$ gehörigen Zellen verteilt werden? Sei $p_0^s$ die Zahl der vakanten Zellen, $p_1^s$ die Zahl derer, die ein Quant enthalten, $p_2^s$ die Zahl der Zellen, die zwei Quanten enthalten usf. Die Zahl der möglichen Verteilungen ist dann",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.34
+          ],
+          "ocr_confidence": 0.91,
+          "needs_manual_review": true,
+          "review_reason": "OCR-Fehler: '±b' statt 'ν' in mehreren Stellen"
+        },
+        {
+          "order": 11,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\frac{A^s!}{p_0^s! p_1^s! \\dots}, \\text{ wobei } A^s = \\frac{8\\pi\\nu^2}{c^3} d\\nu^s,$$",
+          "markdown": "$$\\frac{A^s!}{p_0^s! p_1^s! \\dots}, \\text{ wobei } A^s = \\frac{8\\pi\\nu^2}{c^3} d\\nu^s,$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.24
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "und wobei",
+          "markdown": "und wobei\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.19
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$N^s = 0 \\cdot p_0^s + 1 \\cdot p_1^s + 2 p_2^s \\dots$$",
+          "markdown": "$$N^s = 0 \\cdot p_0^s + 1 \\cdot p_1^s + 2 p_2^s \\dots$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.14
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "die Zahl der zu $d±b^s$ gehörigen Quanten ist.",
+          "markdown": "die Zahl der zu $d\\nu^s$ gehörigen Quanten ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.9,
+            0.09
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "OCR-Fehler: '±b' statt 'ν'"
+        }
+      ],
+      "page_markdown_original": "Es seien verschiedene Sorten von Quanten von der jeweiligen Anzahl $N_s$ und Energie $h v_s$ vorhanden (s = 0 bis s = ∞). Die Totalenergie E ist dann\n\n$$E = \\sum_{s} N_{s} h \\nu_{s} = V \\int \\varrho_{v} d\\nu. \\tag{1}$$\n\nDie Lösung des Problems verlangt dann die Bestimmung der $N_s$, welche $\\varrho_v$ bestimmen. Wenn wir die Wahrscheinlichkeit für jede durch beliebige $N_s$ charakterisierte Verteilung angeben können, dann wird die Lösung durch die Bedingung bestimmt, dass diese Wahrscheinlichkeit bei Wahrung der Nebenbedingung (1) ein Maximum sein soll. Diese Wahrscheinlichkeit wollen wir nun aufsuchen.\n\nDas Quantum hat ein Moment vom Betrage $$\n\\frac{h \\nu_{s}}{c}$$ in der Richtung seiner Fortbewegung. Der Momentanzustand des Quantums wird charakterisiert durch seine Koordinaten $x$, $y$, $z$ und die zugehörigen Momente $p_x$ $p_y$ $p_z$; diese sechs Größen können als Punktkoordinaten in einem sechsdimensionalen Raum aufgefasst werden, wobei wir die Beziehung haben\n\n$$p_{x}^{2} + p_{y}^{2} + p_{z}^{2} = \\frac{h^{2} \\nu^{2}}{c^{2}},$$\n\nvermöge der genannten Punkt auf einer durch die Frequenz des Quants bestimmten Zylinderfläche zu bleiben gezwungen ist. Zum Frequenzbereich $d \\nu_s$ gehört in diesem Sinne der Phasenraum\n\n$$\\int dx \\, dy \\, dz \\, dp_{x} \\, dp_{y} \\, dp_{z} = V \\cdot 4\\pi \\left(\\frac{h \\nu}{c}\\right)^{2} \\frac{h d\\nu}{c} = 4\\pi \\frac{h^{3} \\nu^{2}}{c^{3}} V d\\nu.$$ \n\nWenn wir das gesamte Phasenvolumen in Zellen von der Größe $h^3$ einteilen, gehören zum Frequenzbereich $d \\nu$ also $4\\pi V$ $$\n\\frac{\\nu^{2}}{c^{2}}$$ $d \\nu$ Zellen. In Bezug auf die Art dieser Einteilung kann nichts Bestimmtes gesagt werden.\n\nIndessen muss die Gesamtzahl der Zellen als die Zahl der möglichen Anordnungen eines Quants in dem gegebenen Volumen angesehen werden. Um der Tatsache der Polarisation Rechnung zu tragen, erscheint es dagegen geboten, diese Zahl noch mit 2 zu multiplizieren, so dass wir für die Zahl der zu $d\\nu$ gehörigen Zellen $8\\pi V \\frac{\\nu^{2} d\\nu}{c^{3}}$ erhalten.\n\nNun ist es einfach, die thermodynamische Wahrscheinlichkeit eines (makroskopisch definierten) Zustandes zu berechnen. Es sei $N^s$ die Zahl der zum Frequenzbereich $d\\nu^s$ gehörigen Quanten. Auf wie viele Arten können diese auf die zu $d\\nu^s$ gehörigen Zellen verteilt werden? Sei $p_0^s$ die Zahl der vakanten Zellen, $p_1^s$ die Zahl derer, die ein Quant enthalten, $p_2^s$ die Zahl der Zellen, die zwei Quanten enthalten usf. Die Zahl der möglichen Verteilungen ist dann\n\n$$\\frac{A^s!}{p_0^s! p_1^s! \\dots}, \\text{ wobei } A^s = \\frac{8\\pi\\nu^2}{c^3} d\\nu^s,$$\n\nund wobei\n\n$$N^s = 0 \\cdot p_0^s + 1 \\cdot p_1^s + 2 p_2^s \\dots$$\n\ndie Zahl der zu $d\\nu^s$ gehörigen Quanten ist.",
+      "word_count": 380,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite",
+        "Mehrere OCR-Fehler bei mathematischen Symbolen (z. B. '±b' statt 'ν')",
+        "Formeln teilweise in separaten Blöcken erfasst",
+        "Leichte Formatierungsprobleme bei Gleichungen mit Zeilenumbrüchen"
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "180",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Wahrscheinlichkeit des durch sämtliche $p_r^s$ definierten Zustandes ist offenbar",
+          "markdown": "Die Wahrscheinlichkeit des durch sämtliche $p_r^s$ definierten Zustandes ist offenbar",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\prod_s \\frac{A^s!}{p_0^s! p_1^s! \\dots}.$$",
+          "markdown": "$$\\prod_s \\frac{A^s!}{p_0^s! p_1^s! \\dots}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.94
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Mit Rücksicht darauf, daß wir die $p_r^s$ als große Zahlen betrachten können, haben wir",
+          "markdown": "Mit Rücksicht darauf, dass wir die $p_r^s$ als große Zahlen betrachten können, haben wir",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\lg W = \\sum_s A^s \\lg A^s - \\sum_s \\sum_r p_r^s \\lg p_r^s,$$",
+          "markdown": "$$\\lg W = \\sum_s A^s \\lg A^s - \\sum_s \\sum_r p_r^s \\lg p_r^s,$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.84
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "wobei",
+          "markdown": "wobei\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.79
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$A^s = \\sum_r p_r^s.$$",
+          "markdown": "$$A^s = \\sum_r p_r^s.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": "eq_A_s_sum",
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.74
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Dieser Ausdruck soll ein Maximum sein unter der Nebenbedingung",
+          "markdown": "Dieser Ausdruck soll ein Maximum sein unter der Nebenbedingung",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$E = \\sum_s N^s h \\nu^s; \\quad N^s = \\sum_r r p_r^s.$$",
+          "markdown": "$$E = \\sum_s N^s h \\nu^s; \\quad N^s = \\sum_r r p_r^s.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Die Durchführung der Variation liefert die Bedingungen",
+          "markdown": "Die Durchführung der Variation liefert die Bedingungen",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} \\sum_s \\sum_r \\delta p_r^s (1 + \\lg p_r^s) &= 0, & \\sum_s \\delta N^s h \\nu^s &= 0 \\\\ \\sum_r \\delta p_r^s &= 0 & \\delta N^s &= \\sum_r r \\delta p_r^s. \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} \\sum_s \\sum_r \\delta p_r^s (1 + \\lg p_r^s) &= 0, & \\sum_s \\delta N^s h \\nu^s &= 0 \\\\ \\sum_r \\delta p_r^s &= 0 & \\delta N^s &= \\sum_r r \\delta p_r^s. \\end{aligned}$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.54
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Hieraus folgt",
+          "markdown": "Hieraus folgt",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\sum_s \\sum_r \\delta p_r^s (1 + \\lg p_r^s + \\lambda^s) + \\frac{1}{\\beta} \\sum_s h \\nu^s \\sum_r r \\delta p_r^s = 0.$$",
+          "markdown": "$$\\sum_s \\sum_r \\delta p_r^s (1 + \\lg p_r^s + \\lambda^s) + \\frac{1}{\\beta} \\sum_s h \\nu^s \\sum_r r \\delta p_r^s = 0.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.34
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Daraus folgt zunächst",
+          "markdown": "Daraus folgt zunächst",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$p_r^s = B^s e^{-\\frac{r h \\nu^s}{\\beta}}.$$",
+          "markdown": "$$p_r^s = B^s e^{-\\frac{r h \\nu^s}{\\beta}}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.24
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 15,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Da aber",
+          "markdown": "Da aber",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.2
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 16,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$A^s = \\sum_r B^s e^{-\\frac{r h \\nu^s}{\\beta}} = B^s \\left(1 - e^{-\\frac{h \\nu^s}{\\beta}}\\right)^{-1},$$",
+          "markdown": "$$A^s = \\sum_r B^s e^{-\\frac{r h \\nu^s}{\\beta}} = B^s \\left(1 - e^{-\\frac{h \\nu^s}{\\beta}}\\right)^{-1},$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.1,
+            0.9,
+            0.14
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Die Wahrscheinlichkeit des durch sämtliche $p_r^s$ definierten Zustandes ist offenbar\n\n$$\\prod_s \\frac{A^s!}{p_0^s! p_1^s! \\dots}.$$ \n\nMit Rücksicht darauf, dass wir die $p_r^s$ als große Zahlen betrachten können, haben wir\n\n$$\\lg W = \\sum_s A^s \\lg A^s - \\sum_s \\sum_r p_r^s \\lg p_r^s,$$\n\nwobei\n\n$$A^s = \\sum_r p_r^s.$$ \n\nDieser Ausdruck soll ein Maximum sein unter der Nebenbedingung\n\n$$E = \\sum_s N^s h \\nu^s; \\quad N^s = \\sum_r r p_r^s.$$ \n\nDie Durchführung der Variation liefert die Bedingungen\n\n$$\\begin{aligned} \\sum_s \\sum_r \\delta p_r^s (1 + \\lg p_r^s) &= 0, & \\sum_s \\delta N^s h \\nu^s &= 0 \\\\ \\sum_r \\delta p_r^s &= 0 & \\delta N^s &= \\sum_r r \\delta p_r^s. \\end{aligned}$$\n\nHieraus folgt\n\n$$\\sum_s \\sum_r \\delta p_r^s (1 + \\lg p_r^s + \\lambda^s) + \\frac{1}{\\beta} \\sum_s h \\nu^s \\sum_r r \\delta p_r^s = 0.$$ \n\nDaraus folgt zunächst\n\n$$p_r^s = B^s e^{-\\frac{r h \\nu^s}{\\beta}}.$$ \n\nDa aber\n\n$$A^s = \\sum_r B^s e^{-\\frac{r h \\nu^s}{\\beta}} = B^s \\left(1 - e^{-\\frac{h \\nu^s}{\\beta}}\\right)^{-1},$$",
+      "word_count": 280,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite",
+        "Formeln teilweise in separaten Blöcken erfasst",
+        "Keine offensichtlichen OCR-Fehler in diesem Ausschnitt"
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "181",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "so ist",
+          "markdown": "so ist\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.99
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$B_s = A^s \\left(1 - e^{-\\frac{h \\nu^s}{\\beta}}\\right).$$",
+          "markdown": "$$B_s = A^s \\left(1 - e^{-\\frac{h \\nu^s}{\\beta}}\\right).$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.94
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Ferner hat man",
+          "markdown": "Ferner hat man",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\begin{aligned} N^s &= \\sum_r r p_r^s = \\sum_r r A^s \\left(1 - e^{-\\frac{h \\nu^s}{\\beta}}\\right) e^{-\\frac{r h \\nu^s}{\\beta}} \\\\ &= \\frac{A^s e^{-\\frac{h \\nu^s}{\\beta}}}{1 - e^{-\\frac{h \\nu^s}{\\beta}}}. \\end{aligned}$$",
+          "markdown": "$$\\begin{aligned} N^s &= \\sum_r r p_r^s = \\sum_r r A^s \\left(1 - e^{-\\frac{h \\nu^s}{\\beta}}\\right) e^{-\\frac{r h \\nu^s}{\\beta}} \\\\ &= \\frac{A^s e^{-\\frac{h \\nu^s}{\\beta}}}{1 - e^{-\\frac{h \\nu^s}{\\beta}}}. \\end{aligned}$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.84
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Mit Rücksicht auf den oben gefundenen Wert von $A^s$ ist also",
+          "markdown": "Mit Rücksicht auf den oben gefundenen Wert von $A^s$ ist also",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$E = \\sum_s \\frac{8 \\pi h \\nu^{s^3} d \\nu^s}{c^3} V \\frac{e^{-\\frac{h \\nu^s}{\\beta}}}{1 - e^{-\\frac{h \\nu^s}{\\beta}}}.$$",
+          "markdown": "$$E = \\sum_s \\frac{8 \\pi h \\nu^{s^3} d \\nu^s}{c^3} V \\frac{e^{-\\frac{h \\nu^s}{\\beta}}}{1 - e^{-\\frac{h \\nu^s}{\\beta}}}.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.64
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "OCR-Fehler: 'ν^{s^3}' statt 'ν^3'"
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Mit Benutzung der bisherigen Resultate findet man ferner",
+          "markdown": "Mit Benutzung der bisherigen Resultate findet man ferner",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$S = k \\left[ \\frac{E}{\\beta} - \\sum_s A^s \\lg \\left(1 - e^{\\frac{h \\nu^s}{\\beta}}\\right) \\right],$$",
+          "markdown": "$$S = k \\left[ \\frac{E}{\\beta} - \\sum_s A^s \\lg \\left(1 - e^{\\frac{h \\nu^s}{\\beta}}\\right) \\right],$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.54
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "woraus mit Rücksicht darauf, daß $\\frac{\\partial S}{\\partial E} = \\frac{1}{T}$, folgt, daß $\\beta = kT$. Setzt man dies in obige Gleichung für $E$ ein, so erhält man",
+          "markdown": "woraus mit Rücksicht darauf, dass $\\frac{\\partial S}{\\partial E} = \\frac{1}{T}$, folgt, dass $\\beta = kT$. Setzt man dies in obige Gleichung für $E$ ein, so erhält man",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$E = \\sum_s \\frac{8 \\pi h \\nu^{s^3}}{c^3} V \\frac{1}{e^{\\frac{h \\nu^s}{kT}} - 1} d \\nu^s,$$",
+          "markdown": "$$E = \\sum_s \\frac{8 \\pi h \\nu^{3}}{c^3} V \\frac{1}{e^{\\frac{h \\nu^s}{kT}} - 1} d \\nu^s,$$\n",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.44
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": true,
+          "review_reason": "OCR-Fehler: 'ν^{s^3}' statt 'ν^3' in der ersten Gleichung, 'ν^{s}' statt 'ν' in der zweiten Gleichung"
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "welche Gleichung Plancks Formel äquivalent ist.",
+          "markdown": "welche Gleichung Plancks Formel äquivalent ist.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "(Übersetzt von A. Einstein.)",
+          "markdown": "(Übersetzt von A. Einstein.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.34
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Anmerkung des Übersetzers.",
+          "markdown": "### Anmerkung des Übersetzers",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.29
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Boses Ableitung der Planckschen Formel bedeutet nach meiner Meinung einen wichtigen Fortschritt. Die hier benutzte Methode liefert auch die Quantentheorie des idealen Gases, wie ich an anderer Stelle ausführen will.",
+          "markdown": "Boses Ableitung der Planckschen Formel bedeutet nach meiner Meinung einen wichtigen Fortschritt. Die hier benutzte Methode liefert auch die Quantentheorie des idealen Gases, wie ich an anderer Stelle ausführen will.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.24
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "so ist\n\n$$B_s = A^s \\left(1 - e^{-\\frac{h \\nu^s}{\\beta}}\\right).$$\n\nFerner hat man\n\n$$\\begin{aligned} N^s &= \\sum_r r p_r^s = \\sum_r r A^s \\left(1 - e^{-\\frac{h \\nu^s}{\\beta}}\\right) e^{-\\frac{r h \\nu^s}{\\beta}} \\\\ &= \\frac{A^s e^{-\\frac{h \\nu^s}{\\beta}}}{1 - e^{-\\frac{h \\nu^s}{\\beta}}}. \\end{aligned}$$\n\nMit Rücksicht auf den oben gefundenen Wert von $A^s$ ist also\n\n$$E = \\sum_s \\frac{8 \\pi h \\nu^{s^3} d \\nu^s}{c^3} V \\frac{e^{-\\frac{h \\nu^s}{\\beta}}}{1 - e^{-\\frac{h \\nu^s}{\\beta}}}.$$ \n\nMit Benutzung der bisherigen Resultate findet man ferner\n\n$$S = k \\left[ \\frac{E}{\\beta} - \\sum_s A^s \\lg \\left(1 - e^{\\frac{h \\nu^s}{\\beta}}\\right) \\right],$$\n\nworaus mit Rücksicht darauf, dass $\\frac{\\partial S}{\\partial E} = \\frac{1}{T}$, folgt, dass $\\beta = kT$. Setzt man dies in obige Gleichung für $E$ ein, so erhält man\n\n$$E = \\sum_s \\frac{8 \\pi h \\nu^{3}}{c^3} V \\frac{1}{e^{\\frac{h \\nu^s}{kT}} - 1} d \\nu^s,$$\n\nwelche Gleichung Plancks Formel äquivalent ist.\n\n(Übersetzt von A. Einstein.)\n\n### Anmerkung des Übersetzers\n\nBoses Ableitung der Planckschen Formel bedeutet nach meiner Meinung einen wichtigen Fortschritt. Die hier benutzte Methode liefert auch die Quantentheorie des idealen Gases, wie ich an anderer Stelle ausführen will.",
+      "word_count": 220,
+      "page_quality_notes": [
+        "Zwei Spalten pro Seite",
+        "OCR-Fehler bei mathematischen Symbolen (z. B. 'ν^{s^3}' statt 'ν^3')",
+        "Formeln teilweise in separaten Blöcken erfasst"
+      ]
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 4,
+    "ocr_page_count": 4,
+    "total_word_count": 1140,
+    "figure_count": 0,
+    "table_count": 0,
+    "equation_block_count": 15,
+    "pages_requiring_review": [
+      1,
+      2,
+      4
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "Alle Seiten wurden erfolgreich OCR-erkannt",
+      "Formeln wurden als separate Blöcke erfasst",
+      "Keine Abbildungen oder Tabellen in diesem Dokument"
+    ]
+  }
+}

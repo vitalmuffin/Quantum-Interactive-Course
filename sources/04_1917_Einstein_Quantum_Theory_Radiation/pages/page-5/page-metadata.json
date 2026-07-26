@@ -1,0 +1,308 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 98,
+    "height": 1017,
+    "width": 680
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 14,
+      "topLeftY": 14,
+      "bottomRightX": 514,
+      "bottomRightY": 34,
+      "content": "Physik. Zeitschr. XVIII, 1917. Einstein, Zur Quantentheorie der Strahlung.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 627,
+      "topLeftY": 12,
+      "bottomRightX": 658,
+      "bottomRightY": 26,
+      "content": "125",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 55,
+      "bottomRightX": 326,
+      "bottomRightY": 156,
+      "content": "Da wir den systematischen Einfluß von $v$ auf den Impuls des Moleküls besonders in Rechnung gezogen haben, werden wir den Mittelwert $\\overline{vA}$ zu vernachlässigen haben. Durch Entwickeln der linken Seite der Gleichung erhält man daher",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 156,
+      "bottomRightX": 326,
+      "bottomRightY": 177,
+      "content": "$$\\overline{\\Delta^2} = 2 RM \\overline{v^2} \\tau. \\quad (10)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 178,
+      "bottomRightX": 326,
+      "bottomRightY": 359,
+      "content": "Der Mittelwert $\\overline{v^2}$, welchen die Strahlung von der Temperatur $T$ bei unseren Molekülen durch ihre Wechselwirkung mit ihnen erzeugt, muß ebenso groß sein, wie derjenige Mittelwert $\\overline{v^2}$, welcher dem Gasmolekül nach den Gasgesetzen bei der Temperatur $T$ nach der kinetischen Gastheorie zukommt. Denn die Anwesenheit unserer Moleküle würde sonst das thermische Gleichgewicht zwischen Temperaturstrahlung und einem beliebigen Gase derselben Temperatur stören. Es muß also sein",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 126,
+      "topLeftY": 359,
+      "bottomRightX": 326,
+      "bottomRightY": 398,
+      "content": "$$\\frac{M v^2}{2} = \\frac{k T}{2}. \\quad (11)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 38,
+      "topLeftY": 401,
+      "bottomRightX": 262,
+      "bottomRightY": 420,
+      "content": "Gleichung (10) geht also über in",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 126,
+      "topLeftY": 420,
+      "bottomRightX": 326,
+      "bottomRightY": 457,
+      "content": "$$\\frac{\\overline{\\Delta^2}}{\\tau} = 2 R k T. \\quad (12)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 460,
+      "bottomRightX": 326,
+      "bottomRightY": 612,
+      "content": "Die Untersuchung wird nun wie folgt weiterzuführen sein. Bei gegebener Strahlung ($\\varrho(v)$) werden $\\overline{A^2}$ und $R$ durch unsere Hypothesen über die Wechselwirkung zwischen Strahlung und Molekülen berechenbar sein. Setzt man die Resultate in (12) ein, so muß diese Gleichung identisch erfüllt sein, wenn $\\varrho$ in Funktion von $v$ und $T$ ausgedrückt wird vermöge der Planck-schen Gleichung (4).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 621,
+      "bottomRightX": 267,
+      "bottomRightY": 643,
+      "content": "§ 5. Berechnung von $R$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 643,
+      "bottomRightX": 329,
+      "bottomRightY": 902,
+      "content": "Ein Molekül der betrachteten Art sei längs der $X$-Achse des Koordinatensystems $K$ mit der Geschwindigkeit $v$ gleichförmig bewegt. Wir fragen nach dem im Mittel von der Strahlung auf das Molekül pro Zeiteinheit übertragenen Impuls. Um diesen berechnen zu können, müssen wir die Strahlung von einem Koordinatensystem $K'$ aus beurteilen, welches relativ zum betrachteten Molekül ruht. Denn unsere Hypothesen über Emission und Absorption haben wir nur für ruhende Moleküle formuliert. Die Transformation auf das System $K'$ ist in der Literatur mehrfach durchgeführt, besonders genau in Mosengeils Berliner Dissertation. Ich will jedoch die einfachen Überlegungen der Vollständigkeit halber hier wiederholen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 899,
+      "bottomRightX": 329,
+      "bottomRightY": 982,
+      "content": "Bezüglich $K$ ist die Strahlung isotrop, d. h. die einem bestimmten infinitesimalen Körperwinkel $dx$ bezüglich ihrer Strahlrichtung zugeordnete Strahlung vom Frequenzbereich $dv$ pro Volumeneinheit ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 465,
+      "topLeftY": 51,
+      "bottomRightX": 653,
+      "bottomRightY": 87,
+      "content": "$$\\varrho dv \\frac{dx}{4\\pi}, \\quad (13)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 90,
+      "bottomRightX": 651,
+      "bottomRightY": 221,
+      "content": "wobei $\\varrho$ nur von der Frequenz $v$, nicht aber von der Richtung abhängig ist. Dieser hervorgehobenen Strahlung entspricht in bezug auf das Koordinatensystem $K'$ eine hervorgehobenen Strahlung, welche ebenfalls durch einen Frequenzbereich $dv'$ und durch einen gewissen Körperwinkel $dx'$ charakterisiert ist. Die Volumdichte dieser hervorgehobenen Strahlung ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 443,
+      "topLeftY": 221,
+      "bottomRightX": 653,
+      "bottomRightY": 257,
+      "content": "$$\\varrho' (v', \\varphi') dv' \\frac{dx'}{4\\pi}. \\quad (13')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 260,
+      "bottomRightX": 653,
+      "bottomRightY": 391,
+      "content": "Hierdurch ist $\\varrho'$ definiert. Es ist von der Richtung abhängig, welch letztere in geläufige Weise durch den Winkel $\\varphi'$ mit der $X'$-Achse und dem Winkel $\\psi'$ der $Y'$-$Z'$-Projektion mit der $Y'$-Achse definiert sei. Diesen Winkeln entsprechen die Winkel $\\varphi$ und $\\psi$, welche in analoger Weise die Richtung von $dx$ in bezug auf $K$ festlegen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 389,
+      "bottomRightX": 654,
+      "bottomRightY": 486,
+      "content": "Zunächst ist klar, daß zwischen (13) und (13') dasselbe Transformationsgesetz gelten muß wie für die Amplitudenquadrate $A^2$ und $A''$ einer ebenen Welle von entsprechender Richtung. Deshalb ist in der von uns gewünschter Näherung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 400,
+      "topLeftY": 486,
+      "bottomRightX": 658,
+      "bottomRightY": 524,
+      "content": "$$\\frac{\\varrho' (v', \\varphi') dv' dx'}{\\varrho(v) dv dx} = 1 - 2 \\frac{v}{c} \\cos \\varphi \\quad (14)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 524,
+      "bottomRightX": 376,
+      "bottomRightY": 540,
+      "content": "oder",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 539,
+      "bottomRightX": 658,
+      "bottomRightY": 573,
+      "content": "$$\\varrho' (v', \\varphi') = \\varrho(v) \\frac{dv}{dv'} \\frac{dk}{dk'} (1 - 2 \\frac{v}{c} \\cos \\varphi). \\quad (14')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 574,
+      "bottomRightX": 658,
+      "bottomRightY": 612,
+      "content": "Die Relativitätstheorie ergibt ferner die mit der gewünschten Näherung gültigen Formeln",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 419,
+      "topLeftY": 615,
+      "bottomRightX": 658,
+      "bottomRightY": 647,
+      "content": "$$v' = v (1 - \\frac{v}{c} \\cos^2 \\varphi) \\quad (15)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 379,
+      "topLeftY": 656,
+      "bottomRightX": 658,
+      "bottomRightY": 687,
+      "content": "$$\\cos \\varphi' = \\cos \\varphi - \\frac{v}{c} + \\frac{v}{c} \\cos^2 \\varphi \\quad (16)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 465,
+      "topLeftY": 690,
+      "bottomRightX": 658,
+      "bottomRightY": 710,
+      "content": "$$\\varphi' = \\psi. \\quad (17)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 368,
+      "topLeftY": 711,
+      "bottomRightX": 658,
+      "bottomRightY": 731,
+      "content": "Aus (15) folgt mit entsprechender Näherung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 419,
+      "topLeftY": 734,
+      "bottomRightX": 572,
+      "bottomRightY": 766,
+      "content": "$$v = v' (1 + \\frac{v}{c} \\cos \\varphi').$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 770,
+      "bottomRightX": 658,
+      "bottomRightY": 790,
+      "content": "Also ist, ebenfalls in der gewünschten Näherung,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 400,
+      "topLeftY": 794,
+      "bottomRightX": 576,
+      "bottomRightY": 826,
+      "content": "$$\\varrho(v) = \\varrho(v' + \\frac{v}{c} v' \\cos \\varphi')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 828,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "oder",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 400,
+      "topLeftY": 843,
+      "bottomRightX": 658,
+      "bottomRightY": 877,
+      "content": "$$\\varrho(v) = \\varrho(v') + \\frac{\\partial \\varrho}{\\partial v}(v') \\cdot \\frac{v}{c} v' \\cos \\varphi'. \\quad (18)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 880,
+      "bottomRightX": 601,
+      "bottomRightY": 901,
+      "content": "Ferner ist gemäß (15), (16), und (17)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 419,
+      "topLeftY": 902,
+      "bottomRightX": 561,
+      "bottomRightY": 938,
+      "content": "$$\\frac{dv}{dv'} = 1 + \\frac{v}{c} \\cos \\varphi'$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 938,
+      "bottomRightX": 658,
+      "bottomRightY": 978,
+      "content": "$$\\frac{dx}{dx'} = \\frac{\\sin \\varphi d\\varphi d\\psi}{\\sin \\varphi' d\\varphi' d\\psi'} = \\frac{d(\\cos \\varphi)}{d(\\cos \\varphi')} = 1 - 2 \\frac{v}{c} \\cos \\varphi'.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

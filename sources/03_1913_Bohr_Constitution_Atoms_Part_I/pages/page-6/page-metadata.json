@@ -1,0 +1,155 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 600
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 206,
+      "topLeftY": 86,
+      "bottomRightX": 385,
+      "bottomRightY": 106,
+      "content": "of Atoms and Molecules.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 511,
+      "topLeftY": 86,
+      "bottomRightX": 523,
+      "bottomRightY": 104,
+      "content": "5",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 112,
+      "bottomRightX": 526,
+      "bottomRightY": 290,
+      "content": "orbit; then, from Planck's theory, we might expect that the amount of energy emitted by the process considered is equal to $\\tau h\\nu$, where $h$ is Planck's constant and $\\tau$ an entire number. If we assume that the radiation emitted is homogeneous, the second assumption concerning the frequency of the radiation suggests itself, since the frequency of revolution of the electron at the beginning of the emission is 0. The question, however, of the rigorous validity of both assumptions, and also of the application made of Planck's theory, will be more closely discussed in § 3.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 290,
+      "bottomRightX": 156,
+      "bottomRightY": 311,
+      "content": "Putting",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 267,
+      "topLeftY": 294,
+      "bottomRightX": 526,
+      "bottomRightY": 326,
+      "content": "$$W = \\tau h \\frac{\\omega}{2}, \\quad \\dots \\quad (2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 336,
+      "bottomRightX": 329,
+      "bottomRightY": 358,
+      "content": "we get by help of the formula (1)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 361,
+      "bottomRightX": 528,
+      "bottomRightY": 401,
+      "content": "$$W = \\frac{2\\pi^2 m e^2 E^2}{\\tau^2 h^2}, \\quad \\omega = \\frac{4\\pi^2 m e^2 E^2}{\\tau^2 h^3}, \\quad 2a = \\frac{\\tau^2 h^2}{2\\pi^2 m e E} \\quad (3)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 409,
+      "bottomRightX": 525,
+      "bottomRightY": 623,
+      "content": "If in these expressions we give $\\tau$ different values, we get a series of values for $W$, $\\omega$, and $a$ corresponding to a series of configurations of the system. According to the above considerations, we are led to assume that these configurations will correspond to states of the system in which there is no radiation of energy; states which consequently will be stationary as long as the system is not disturbed from outside. We see that the value of $W$ is greatest if $\\tau$ has its smallest value 1. This case will therefore correspond to the most stable state of the system, *i. e.* will correspond to the binding of the electron for the breaking up of which the greatest amount of energy is required.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 619,
+      "bottomRightX": 525,
+      "bottomRightY": 658,
+      "content": "Putting in the above expressions $\\tau=1$ and $E=c$, and introducing the experimental values",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 668,
+      "bottomRightX": 475,
+      "bottomRightY": 700,
+      "content": "$$e = 4 \\cdot 7 \\cdot 10^{-10}, \\quad \\frac{e}{m} = 5 \\cdot 31 \\cdot 10^{17}, \\quad h = 6 \\cdot 5 \\cdot 10^{-27},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 707,
+      "bottomRightX": 128,
+      "bottomRightY": 726,
+      "content": "we get",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 720,
+      "bottomRightX": 504,
+      "bottomRightY": 758,
+      "content": "$$2a = 1 \\cdot 1 \\cdot 10^{-8} \\text{ cm.}, \\quad \\omega = 6 \\cdot 2 \\cdot 10^{15} \\frac{1}{\\text{sec.}}, \\quad \\frac{W}{e} = 13 \\text{ volt.}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 768,
+      "bottomRightX": 526,
+      "bottomRightY": 824,
+      "content": "We see that these values are of the same order of magnitude as the linear dimensions of the atoms, the optical frequencies, and the ionization-potentials.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 821,
+      "bottomRightX": 527,
+      "bottomRightY": 877,
+      "content": "The general importance of Planck's theory for the discussion of the behaviour of atomic systems was originally pointed out by Einstein*. The considerations of Einstein",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 76,
+      "topLeftY": 883,
+      "bottomRightX": 527,
+      "bottomRightY": 918,
+      "content": "* A. Einstein, *Ann. d. Phys.* xvii. p. 132 (1905); xx. p. 199 (1906); xxii. p. 180 (1907).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 288,
+      "bottomRightX": 12,
+      "bottomRightY": 724,
+      "content": "Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

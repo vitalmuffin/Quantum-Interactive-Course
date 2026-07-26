@@ -1,0 +1,164 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 74,
+      "topLeftY": 88,
+      "bottomRightX": 94,
+      "bottomRightY": 104,
+      "content": "76",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 90,
+      "bottomRightX": 397,
+      "bottomRightY": 104,
+      "content": "S. KOCHEN & E. P. SPECKER",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 121,
+      "bottomRightX": 550,
+      "bottomRightY": 156,
+      "content": "Let $V$ be the set of operators in $H_2$ of trace zero. $V$ forms a 3-dimensional vector space over $\\mathbf{R}$. This is easily seen by noting that the Pauli spin matrices",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 170,
+      "topLeftY": 160,
+      "bottomRightX": 452,
+      "bottomRightY": 206,
+      "content": "$$\\sigma_x = \\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}, \\quad \\sigma_y = \\begin{bmatrix} 0 & -i \\\\ i & 0 \\end{bmatrix}, \\quad \\sigma_z = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 214,
+      "bottomRightX": 550,
+      "bottomRightY": 333,
+      "content": "form an orthonormal basis for $V$. If we assign to $(\\sigma_x, \\sigma_y, \\sigma_z)$ an orthonormal basis $(i, j, k)$ in 3-dimensional Euclidean space $E^3$, we obtain a vector isomorphism $P: V \\to E^3$. To every spin matrix $\\sigma$, i.e., a matrix $\\sigma$ in $V$ with eigenvalues $\\pm 1$, there corresponds under the map $P$ a point $P_\\sigma$ on the unit sphere $S^2$ in $E^3$. Physically, one speaks of the spin matrix $\\sigma$ as corresponding to the observable “the spin angular momentum of the electron (say) in the direction $0P_\\sigma$,” where $0$ is the origin in $E^3$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 332,
+      "bottomRightX": 550,
+      "bottomRightY": 351,
+      "content": "Now let $A$ be any matrix in $H_2$ with distinct eigenvalues $\\lambda_1, \\lambda_2$. We let",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 204,
+      "topLeftY": 358,
+      "bottomRightX": 419,
+      "bottomRightY": 393,
+      "content": "$$\\sigma(A) = \\left( \\frac{2}{\\lambda_1 - \\lambda_2} \\right) A - \\left( \\frac{\\lambda_1 + \\lambda_2}{\\lambda_1 - \\lambda_2} \\right) I.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 403,
+      "bottomRightX": 550,
+      "bottomRightY": 454,
+      "content": "Then $\\sigma(A)$ is a spin matrix such that the eigenvectors of $\\sigma(A)$ corresponding to $+1$ and $-1$ are the same as the eigenvectors of $A$ corresponding to $\\lambda_1$ and $\\lambda_2$ respectively.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 453,
+      "bottomRightX": 550,
+      "bottomRightY": 489,
+      "content": "We are now ready to choose the appropriate space $\\Omega$ and functions $f_A$. For $\\Omega$ we choose $S^2$. If $A \\in H_2$ with distinct eigenvalues $\\lambda_1$ and $\\lambda_2$, we let",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 494,
+      "bottomRightX": 397,
+      "bottomRightY": 539,
+      "content": "$$f_A(p) = \\begin{cases} \\lambda_1 & \\text{for } p \\in S^*_{P_\\sigma(A)} \\\\ \\lambda_2 & \\text{otherwise.} \\end{cases}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 548,
+      "bottomRightX": 550,
+      "bottomRightY": 584,
+      "content": "Here $S^*_{P_\\sigma(A)}$ denotes the upper hemisphere of $S^2$ with the North Pole at $P_{\\sigma(A)}$. If the eigenvalues of $A$ are equal, so that $A = \\lambda I$, say, then we let",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 591,
+      "bottomRightX": 395,
+      "bottomRightY": 610,
+      "content": "$$f_A(p) = \\lambda, \\quad \\text{for all} \\quad p \\in S^2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 618,
+      "bottomRightX": 552,
+      "bottomRightY": 688,
+      "content": "With this definition, it is a simple matter to check that the condition (I): $f_{u(A)} = u(f_A)$ holds. We need only note that for 2-dimensional operators it is sufficient to consider linear functions: $u(A) = \\alpha A + \\beta I$, with $\\alpha, \\beta \\in \\mathbf{R}$. Then condition (I) follows immediately from the fact that $\\sigma_{\\alpha A + \\beta I} = \\sigma_A$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 687,
+      "bottomRightX": 552,
+      "bottomRightY": 774,
+      "content": "Next we wish to assign a probability measure $\\mu_\\psi$ to each vector $\\psi \\in U^2$. Let $\\sigma_\\psi$ denote the spin matrix for which $\\psi$ is the eigenvector belonging to the eigenvalue $+1$. We may thus assign to each $\\psi \\in U^2$ a point $P_{\\sigma_\\psi}$ of $S^2$. We shall write $P_\\psi$ for $P_{\\sigma_\\psi}$. Physically, if $\\psi$ is the state vector of an electron, then the electron is said to have “spin in the direction $0P_\\psi$.”",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 773,
+      "bottomRightX": 552,
+      "bottomRightY": 825,
+      "content": "To delimit the problem and at the same time to obtain a solution with natural isotropy properties, we shall assume that the probability measures $\\mu_\\psi$ satisfy the following conditions:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 832,
+      "bottomRightX": 552,
+      "bottomRightY": 868,
+      "content": "(a) For each $\\psi \\in U^2$, the measure $\\mu_\\psi$ arises from a continuous probability density $u_\\psi(p)$ on $S^2$, so that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 944,
+      "bottomRightX": 419,
+      "bottomRightY": 979,
+      "content": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

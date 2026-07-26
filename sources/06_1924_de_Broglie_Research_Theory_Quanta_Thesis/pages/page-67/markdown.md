@@ -1,0 +1,9 @@
+RECHERCHES SUR LA THÉORIE DES QUANTA
+
+87
+
+sans chercher à l'attaquer de front. Pour progresser dans la voie suivie jusqu'ici, il faudrait établir, nous l'avons dit, une certaine liaison de nature sans doute statistique entre l'onde conçue à la façon classique et la superposition des ondes de phase; ceci conduirait certainement à attribuer à l'onde de phase ainsi par conséquent qu'au phénomène périodique défini au chapitre premier une nature électromagnétique.
+
+On peut considérer comme prouvé avec une quasi-certitude que l'émission et l'absorption du rayonnement ont lieu de façon discontinue. L'électromagnétisme ou plus précisément la théorie des électrons nous donne donc du mécanisme de ces phénomènes une vue inexacte. Cependant, M. Bóhr, par son principe de correspondance, nous a appris que si l'on considère les prévisions de cette théorie pour la radiation émise par un ensemble d'électrons, elles possèdent sans doute une sorte d'exactitude globale. Peut-être toute la théorie électromagnétique aurait-elle seulement une valeur statistique; les lois de Maxwell apparaîtraient alors comme une approximation à caractère continu d'une réalité discontinue, un peu de la même manière (mais un peu seulement) que les lois de l'hydrodynamique donnent une approximation continue des mouvements très complexes et très rapidement variables des molécules fluides. Cette idée de correspondance qui paraît encore assez imprécise et assez élastique, devra servir de guide aux chercheurs hardis qui voudront constituer une nouvelle théorie électromagnétique plus en accord que l'actuelle avec les phénomènes de quanta.
+
+Nous allons reproduire dans le paragraphe suivant des considérations que nous avons émises sur les interférences; à parler franchement elles doivent être considérées comme de vagues suggestions plutôt que comme de véritables explications.

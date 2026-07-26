@@ -1,0 +1,30 @@
+Heft 48, ]
+29. 11. 1935]
+
+SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.
+
+809
+
+Sorge trägt, daß sie sich zu Paaren sog. kanonisch konjugierter ordnen, wofür das einfachste Beispiel: eine Ortskoordinate x eines Massenpunktes und die Komponente p_x, in derselben Richtung geschätzt, seines linearen Impulses (d. i. Masse mal Geschwindigkeit). Solche zwei beschränken einander in der Schärfe, mit der sie gleichzeitig bekannt sein können, indem das Produkt ihrer Toleranz- oder Variationsbreiten (die man durch ein der Größe vorangesetztes Δ zu bezeichnen pflegt) nicht unter den Betrag einer gewissen universellen Konstante¹ herabsinken kann, etwa
+
+$$\Delta x \cdot \Delta p_x \geq h.$$
+
+(HEISENBERGS Ungenauigkeitsbeziehung.)
+
+B. Wenn nicht einmal in jedem Augenblick alle Variable durch einige von ihnen bestimmt sind, dann natürlich auch nicht in einem späteren Augenblick aus erlangbaren Daten eines früheren. Man kann das einen Bruch mit dem Kausalitätsprinzip nennen, aber es ist gegenüber A nichts wesentlich Neues. Wenn in keinem Augenblick ein klassischer Zustand feststeht, kann er sich auch nicht zwangsläufig verändern. Was sich verändert, sind die Statistiken oder Wahrscheinlichkeiten, die übrigens zwangsläufig. Einzelne Variable können dabei schärfer, andere unschärfer werden. Im ganzen läßt sich behaupten, daß sich die Gesamtschärfe der Beschreibung mit der Zeit nicht ändert, was darauf beruht, daß die durch A auferlegten Beschränkungen in jedem Augenblick dieselben sind. —
+
+Was bedeuten nun die Ausdrücke „unscharf“, „Statistik“, „Wahrscheinlichkeit“? Darüber gibt die Q.M. folgende Auskunft. Sie entnimmt die ganze unendliche Musterkarte denkbarer Variablen oder Bestimmungsstücke unbedenklich dem klassischen Modell und erklärt jedes Stück für direkt meßbar, ja sogar mit beliebiger Genauigkeit meßbar, wenn es nur auf es allein ankommt. Hat man sich durch eine passend ausgewählte beschränkte Zahl von Messungen eine Objektkenntnis von jenem maximalen Typus verschafft, wie sie nach A gerade noch möglich ist, dann gibt der mathematische Apparat der neuen Theorie die Mittel an die Hand, um für denselben Zeitpunkt oder für irgendeinen späteren jeder Variablen eine ganz bestimmte statistische Verteilung zuzuweisen, d. h. eine Angabe darüber, in welchem Bruchteil der Fälle sie bei diesem oder jenem Wert, oder in diesem oder jenem kleinen Intervall angetroffen werden wird (was man auch Wahrscheinlichkeit nennt). Es ist die Meinung, daß dies in der Tat die Wahrscheinlichkeit sei, die betreffende Variable, wenn man sie in dem betreffenden Zeitpunkt mißt, bei diesem oder jenem Wert anzutreffen. Durch einen einzelnen Versuch läßt sich die Richtigkeit dieser Wahrscheinlichkeitsvoraussage höchstens angenähert prüfen, nämlich dann, wenn sie einigermaßen
+
+¹ h = 1,041 · 10⁻²⁷ ergsec. In der Literatur wird meist das 2 π-fache davon (6,542 · 10⁻²⁷ ergsec) mit h bezeichnet und für unser h ein h mit einem Querstrichlein geschrieben.
+
+scharf ist, d. h. nur einen kleinen Wertebereich für überhaupt möglich erklärt. Um sie vollinhaltlich zu prüfen, muß man den ganzen Versuch ab ovo (d. h. einschließlich der orientierenden oder präparativen Messungen) sehr oft wiederholen und darf bloß die Fälle verwenden, wo die orientierenden Messungen genau dieselben Resultate ergeben haben. An diesen Fällen soll sich dann die für eine bestimmte Variable aus den orientierenden Messungen vorausberechnete Statistik durch Messung bestätigen — das ist die Meinung.
+
+Man muß sich hüten, diese Meinung deshalb zu kritisieren, weil sie so schwer auszusprechen ist; das liegt an unserer Sprache. Aber eine andere Kritik drängt sich auf. Kaum ein Physiker der klassischen Epoche hat wohl beim Ausdenken eines Modells sich erdreistet zu glauben, daß dessen Bestimmungsstücke am Naturobjekt meßbar sind. Nur viel abgeleitetere Folgerungen aus dem Bild waren tatsächlich der experimentellen Prüfung zugänglich. Und man durfte nach aller Erfahrung überzeugt sein: lange bevor die fortschreitende Experimentierkunst die weite Kluft überbrückt haben würde, wird das Modell durch allmähliche Anpassung an neue Tatsachen sich erheblich verändert haben. — Während nun die neue Theorie das klassische Modell für unzuständig erklärt, den Zusammenhang der Bestimmungsstücke untereinander wiederzugeben (wofür seine Ersinner es gemeint hatten), hält sie es andererseits für geeignet, uns darüber zu orientieren, was für Messungen an dem betreffenden Naturobjekt prinzipiell ausführbar sind; was denen, die das Bild ausgedacht, eine unerhörte Überspannung ihres Denkbehelfs, eine leichtfertige Vorwegnahme künftiger Entwicklung geschienen hätte. Wär' das nicht prästabilierte Harmonie von eigener Art, wenn die Forscher der klassischen Epoche, die, wie man heute hört, damals noch gar nicht wußten, was Messen eigentlich ist, uns gleichwohl als Vermächtnis ihnen unbewußt einen Orientierungsplan überantwortet hätten, aus dem zu entnehmen ist, was man alles z. B. an einem Wasserstoffatom grundsätzlich messen kann!?
+
+Ich hoffe später klarzumachen, daß die herrschende Lehrmeinung aus Bedrängnis geboren ist. Vorläufig fahre ich in ihrer Darlegung fort.
+
+§ 3. Beispiele für Wahrscheinlichkeitsvoraussagen.
+
+Also alle Voraussagen beziehen sich nach wie vor auf Bestimmungsstücke eines klassischen Modells, auf Orte und Geschwindigkeiten von Massenpunkten, auf Energien, Impulsmomente u. dgl. m. Unklassisch ist bloß, daß nur Wahrscheinlichkeiten vorausgesagt werden. Sehen wir uns das genauer an. Offiziell handelt es sich stets darum, daß vermittels einiger jetzt angestellter Messungen und ihrer Resultate über die zu erwartenden Resultate anderer Messungen, die entweder augenblicklich oder zu bestimmter Zeit darauf folgen sollen, die bestmöglichen Wahrscheinlichkeitsangaben gewonnen werden, welche die
+
+52*

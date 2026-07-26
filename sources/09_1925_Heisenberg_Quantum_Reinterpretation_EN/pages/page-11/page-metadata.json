@@ -1,0 +1,155 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 131,
+      "topLeftY": 165,
+      "bottomRightX": 387,
+      "bottomRightY": 181,
+      "content": "With this comes the quantum condition:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 305,
+      "topLeftY": 212,
+      "bottomRightX": 435,
+      "bottomRightY": 228,
+      "content": "Classically (J = nh):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 238,
+      "bottomRightX": 603,
+      "bottomRightY": 277,
+      "content": "$$1 = 2 \\pi m \\frac {d}{d J} \\sum_ {- \\infty} ^ {\\infty} \\tau^ {2} \\frac {| a _ {\\tau} | ^ {2} \\omega}{4} \\tag {44}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 297,
+      "topLeftY": 287,
+      "bottomRightX": 440,
+      "bottomRightY": 304,
+      "content": "Quantum theoretically:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 147,
+      "topLeftY": 315,
+      "bottomRightX": 603,
+      "bottomRightY": 352,
+      "content": "$$h = \\pi m \\sum_ {0} ^ {\\infty} \\left[ | a (n + \\tau , n) | ^ {2} \\omega (n + \\tau , n) - | a (n, n - \\tau) | ^ {2} \\omega (n, n - \\tau) \\right] \\quad . \\tag {45}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 358,
+      "bottomRightX": 585,
+      "bottomRightY": 375,
+      "content": "At the first order, this gives, both classically and quantum mechanically:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 386,
+      "bottomRightX": 603,
+      "bottomRightY": 421,
+      "content": "$$a _ {1} ^ {2} (n) \\quad \\text { or } \\quad a ^ {2} (n, n - 1) = \\frac {n + \\operatorname{const} h}{\\pi m \\omega_ {0}} \\tag {46}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 431,
+      "bottomRightX": 605,
+      "bottomRightY": 497,
+      "content": "Quantum theoretically, the constant in Eq. 46 can be determined with the condition that $a(n_0, n_0 - 1)$ must vanish in the ground state. If we number n such a way that n is equal to zero in the ground state i.e. $n_0 = 0$, then it follows that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 303,
+      "topLeftY": 497,
+      "bottomRightX": 603,
+      "bottomRightY": 531,
+      "content": "$$a ^ {2} (n, n - 1) = \\frac {n h}{\\pi m \\omega_ {0}} \\tag {47}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 535,
+      "bottomRightX": 605,
+      "bottomRightY": 587,
+      "content": "Thus it follows from the recursion equations 42 that in the classical theory $a_{\\tau}$ (to first order in $\\lambda$) has the form $\\chi(\\tau)n^{\\frac{\\tau}{2}}$ where $\\chi(\\tau)$ represents a factor independent from $n$. In the quantum theory, Eq. 43 implies",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 270,
+      "topLeftY": 600,
+      "bottomRightX": 603,
+      "bottomRightY": 639,
+      "content": "$$a (n, n - \\tau) = \\chi (\\tau) \\sqrt {\\frac {n !}{(n - \\tau) !}} \\quad , \\tag {48}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 650,
+      "bottomRightX": 605,
+      "bottomRightY": 701,
+      "content": "where $\\chi(\\tau)$ represents itself a proportionality factor independent from $n$. Naturally, for large values of $n$, the quantum theoretical value of $a_{\\tau}$ tends asymptotically to the classical one.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 151,
+      "topLeftY": 703,
+      "bottomRightX": 496,
+      "bottomRightY": 719,
+      "content": "For the energy, it is obvious to try the classical Ansatz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 281,
+      "topLeftY": 732,
+      "bottomRightX": 603,
+      "bottomRightY": 766,
+      "content": "$$E = \\frac {m \\dot {x} ^ {2}}{2} + m \\omega_ {0} ^ {2} \\frac {x ^ {2}}{2} + \\frac {m \\lambda}{3} x ^ {3} \\tag {49}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 775,
+      "bottomRightX": 603,
+      "bottomRightY": 811,
+      "content": "since in the presently calculated approximation it is really constant also quantum theoretically. Its value is given by Eq. 43, 46 and ?? as:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 831,
+      "bottomRightX": 375,
+      "bottomRightY": 844,
+      "content": "11",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 269,
+      "topLeftY": 47,
+      "bottomRightX": 534,
+      "bottomRightY": 61,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 660,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "14",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 94,
+      "bottomRightX": 676,
+      "bottomRightY": 148,
+      "content": "As in § 3, we determine $\\psi$ by a process of iteration in which the function $u_0$ that we just introduced in (11), § 5 will serve as the initial function. We then calculate $u_1, u_2, \\ldots$ in succession from the approximation equations:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 165,
+      "bottomRightX": 676,
+      "bottomRightY": 185,
+      "content": "$$\\Delta u_n + k^2 u_n = V u_{n-1} = F_{n-1} \\tag{2}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 202,
+      "bottomRightX": 676,
+      "bottomRightY": 237,
+      "content": "Green's theorem yields the solution that corresponds to the outgoing waves with the time factor $e^{ik\\nu t}$ in the form of:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 240,
+      "bottomRightX": 676,
+      "bottomRightY": 279,
+      "content": "$$u_n(\\tau) = -\\frac{1}{4\\pi} \\int F_{n-1}(\\tau') \\frac{e^{-ik[\\tau-\\tau']}}{\\tau - \\tau'} dS', \\tag{3}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 299,
+      "bottomRightX": 676,
+      "bottomRightY": 359,
+      "content": "in which $\\tau'$ means the vector with the components $x', y', z'$, and $dS' = dx' dy' dz'$. The convergence of the process can be proved on the basis of the assumption that $V$ goes to zero like $r^{-2}$ ($^1$); however, we shall not go into that, but assume that the series:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 344,
+      "topLeftY": 380,
+      "bottomRightX": 443,
+      "bottomRightY": 418,
+      "content": "$$\\psi(\\tau) = \\sum_{n=0}^{\\infty} u_n(\\tau)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 421,
+      "bottomRightX": 260,
+      "bottomRightY": 437,
+      "content": "represents the solution.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 440,
+      "bottomRightX": 621,
+      "bottomRightY": 459,
+      "content": "We investigate the asymptotic behavior of $u_n(\\tau)$. We write, more thoroughly:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 155,
+      "topLeftY": 479,
+      "bottomRightX": 631,
+      "bottomRightY": 532,
+      "content": "$$u_n(x, y, z) = -\\frac{1}{4\\pi} \\int F_{n-1}(x', y', z') \\frac{e^{-ik\\sqrt{(x-x')^2 + (y-y')^2 + (z-z')^2}}}{\\sqrt{(x-x')^2 + (y-y')^2 + (z-z')^2}} dx' dy' dz'.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 551,
+      "bottomRightX": 676,
+      "bottomRightY": 588,
+      "content": "We now once more introduce the rotation of the coordinate system that was given in § 5 and subject the integration variables to that rotation. One will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 605,
+      "bottomRightX": 503,
+      "bottomRightY": 624,
+      "content": "$$u_n(x, y, z) = u_n(a_{13}Z, a_{23}Z, a_{33}Z)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 640,
+      "bottomRightX": 676,
+      "bottomRightY": 692,
+      "content": "$$= -\\frac{1}{4\\pi} \\int F'_{n-1}(X', Y', Z') \\frac{e^{-ik\\sqrt{X'^2 + Y'^2 + Z'^2}}}{\\sqrt{X'^2 + Y'^2 + (Z-Z')^2}} dX' dY' dZ'; \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 695,
+      "bottomRightX": 215,
+      "bottomRightY": 712,
+      "content": "in this, one has:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 235,
+      "topLeftY": 713,
+      "bottomRightX": 676,
+      "bottomRightY": 734,
+      "content": "$$F'_{n-1}(X', Y', Z') = F_{n-1}(a_{11}X' + a_{11}Y' + a_{13}Z', \\ldots). \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 755,
+      "bottomRightX": 347,
+      "bottomRightY": 772,
+      "content": "We now introduce polar coordinates:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 790,
+      "bottomRightX": 579,
+      "bottomRightY": 810,
+      "content": "$$X' = \\rho \\sin \\vartheta \\cos \\varphi, \\quad Y' = \\rho \\sin \\vartheta \\sin \\varphi, \\quad Z' = \\rho \\cos \\vartheta.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 826,
+      "bottomRightX": 238,
+      "bottomRightY": 843,
+      "content": "One will then have:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 884,
+      "bottomRightX": 676,
+      "bottomRightY": 932,
+      "content": "($^1$) The case of ions is excluded from this; for them, one would have to take a hyperbolic path of the electron as the starting estimate in the approximation process, instead of a rectilinear motion. On this, see a treatise of J. R. Oppenheimer that will appear soon in Proc. Cambridge Phil. Soc., 26 July 1926.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

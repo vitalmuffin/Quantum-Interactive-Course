@@ -1,0 +1,119 @@
+{
+  "index": 101,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 44,
+      "topLeftY": 19,
+      "bottomRightX": 76,
+      "bottomRightY": 35,
+      "content": "122",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 18,
+      "bottomRightX": 381,
+      "bottomRightY": 34,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 58,
+      "bottomRightX": 567,
+      "bottomRightY": 211,
+      "content": "celle d'Einstein; seule, la manière d'écrire diffère. Mais l'intérêt en est de nous amener à l'énoncé suivant : « On peut également évaluer correctement les fluctuations du rayonnement noir en ne faisant aucunement appel à la théorie des interférences, mais en introduisant la cohérence des atomes liés à une même onde de phase ».",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 212,
+      "bottomRightX": 567,
+      "bottomRightY": 317,
+      "content": "Il semble donc presque certain que tout essai de conciliation entre la discontinuité de l'énergie radiante et les interférences devrait faire intervenir l'hypothèse de cohérence du dernier paragraphe.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 160,
+      "topLeftY": 362,
+      "bottomRightX": 449,
+      "bottomRightY": 386,
+      "content": "## APPENDICE AU CHAPITRE V",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 160,
+      "topLeftY": 422,
+      "bottomRightX": 449,
+      "bottomRightY": 445,
+      "content": "### Sur les quanta de lumière.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 475,
+      "bottomRightX": 569,
+      "bottomRightY": 606,
+      "content": "Nous avons proposé de considérer les atomes de lumière comme de petits centres d'énergie caractérisés par une masse propre très faible $m_0$ et animés de vitesse généralement très voisines de $c$, de telle façon qu'il existe entre la fréquence $\\nu$, la masse propre $m_0$ et la vitesse $\\beta c$ la relation :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 236,
+      "topLeftY": 623,
+      "bottomRightX": 364,
+      "bottomRightY": 670,
+      "content": "$$h\\nu = \\frac{m_0 c^2}{\\sqrt{1 - \\beta^2}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 677,
+      "bottomRightX": 186,
+      "bottomRightY": 698,
+      "content": "dont on déduit :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 703,
+      "bottomRightX": 403,
+      "bottomRightY": 749,
+      "content": "$$\\beta = \\sqrt{1 - \\left(\\frac{m_0 c^2}{h\\nu}\\right)^2}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 767,
+      "bottomRightX": 572,
+      "bottomRightY": 842,
+      "content": "Cette manière de voir nous a conduit à des concordances remarquables concernant l'effet Doppler et la pression de radiation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 844,
+      "bottomRightX": 572,
+      "bottomRightY": 975,
+      "content": "Malheureusement, elle soulève une grosse difficulté : pour des fréquences $\\nu$ de plus en plus faibles, la vitesse $\\beta c$ de l'énergie rayonnante deviendrait de plus en plus petite, s'annulerait pour $h\\nu = m_0 c^2$ et deviendrait ensuite imaginaire (?). Ceci est d'autant plus difficile à admettre que, dans",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

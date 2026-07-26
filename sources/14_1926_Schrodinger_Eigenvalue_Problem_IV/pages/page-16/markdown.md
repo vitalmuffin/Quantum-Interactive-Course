@@ -1,0 +1,15 @@
+124
+
+E. Schrödinger
+
+nichtverschwindendem $a_{kn}$, auftritt — auch die Frequenz $v = 0$ unter den Resonanzfrequenzen erscheint. Zu der „gewöhnlichen“ Streustrahlung liefern diese Glieder freilich, wie man aus (23) erkennt, wegen $E_k - E_n = 0$ keinen Beitrag.
+
+Die Vereinfachung, daß man auf eine eventuell vorhandene Entartung wenigstens in erster Näherung nicht besonders Rücksicht zu nehmen braucht, tritt, wie wir weiter unten überlegen werden (vgl. § 5), immer dann auf, wenn, wie es bei der Lichtwelle der Fall ist, der zeitliche Mittelwert der Störungsfunktion verschwindet oder, was dasselbe ist, wenn deren zeitliche Fourierentwicklung kein konstantes, d. h. von der Zeit unabhängiges Glied enthält.
+
+Während also unsere *erste* Voraussetzung über die Eigenwerte — daß sie *einfach* sein sollen — sich eigentlich als eine überflüssige Vorsicht erwiesen hat, führt ein Abgehen von der *zweiten* — daß sie durchaus *diskret* sein sollen — zwar auch keine *prinzipiellen* Änderungen herbei, aber doch recht erhebliche Änderungen im äußeren Habitus der Rechnung, so ferne nämlich zu den diskreten Summen in (14), (16), (17), (23) *Integrale* über das Streckenspektrum der Gleichung (1') hinzutreten. Die Theorie solcher Integraldarstellungen ist von H. Weyl$^{1)}$, allerdings nur für gewöhnliche Differentialgleichungen entwickelt worden, doch dürfte die Übertragung auf partielle wohl gestattet sein. Der Sachverhalt ist in aller Kürze dieser.$^{2)}$ Wenn die zu den inhomogenen Gleichungen (13) gehörige homogene Gleichung, d. i. die Schwingungsgleichung (1') des ungestörten Systems, neben einem Punktspektrum auch ein Streckenspektrum besitzt, das von $E = a$ bis $E = b$ reichen möge, dann läßt sich eine willkürliche Funktion $f(x)$ natürlich nicht mehr nach den normierten diskreten Eigenfunktionen $u_n(x)$ allein entwickeln:
+
+$$(26) \quad f(x) = \sum_{n=1}^{\infty} \varphi_n \cdot u_n(x) \quad \text{mit} \quad \varphi_n = \int f(x) u_n(x) \varrho(x) \, dx,$$
+
+1) H. Weyl, Math. Ann. 68. S. 220. 1910; Gött. Nachr. 1910. Vgl. auch E. Hilb, Sitz.-Ber. d. Physik. Mediz. Soc. Erlangen 43. S. 68. 1911; Math. Ann. 71. S. 76. 1911. — Hrn. H. Weyl verdanke ich nicht nur diese Literaturangaben, sondern auch sehr wertvolle mündliche Unterweisung in diesen nicht ganz einfachen Dingen.
+
+2) Die hier gegebene Darstellung verdanke ich Hrn. E. Fues.

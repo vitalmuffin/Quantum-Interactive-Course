@@ -1,0 +1,211 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 93,
+    "height": 791,
+    "width": 1023
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 109,
+      "topLeftY": 48,
+      "bottomRightX": 401,
+      "bottomRightY": 61,
+      "content": "SCATTERING OF X-RAYS BY LIGHT ELEMENTS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 440,
+      "topLeftY": 50,
+      "bottomRightX": 462,
+      "bottomRightY": 62,
+      "content": "497",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 74,
+      "bottomRightX": 463,
+      "bottomRightY": 141,
+      "content": "is scattered backward. If for the hard γ-rays from radium C, α = 1.09, corresponding to λ = 0.022 A, we thus obtain β_max = 0.82. The effective velocity of the scattering electrons is, therefore (Eq. 8), β̄ = 0.52. These results are in accord with the fact that the average velocity of the",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 157,
+      "bottomRightX": 348,
+      "bottomRightY": 398,
+      "content": "![img-4.jpeg](img-4.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-4.jpeg"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 404,
+      "bottomRightX": 463,
+      "bottomRightY": 432,
+      "content": "Fig. 5. The wave-length of scattered γ-rays at different angles with the primary beam, showing an increase at large angles similar to a Doppler effect.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 443,
+      "bottomRightX": 463,
+      "bottomRightY": 475,
+      "content": "β-rays excited by the γ-rays from radium is somewhat greater than half that of light.¹",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 477,
+      "bottomRightX": 463,
+      "bottomRightY": 687,
+      "content": "Absorption of X-rays due to scattering.—Valuable information concerning the magnitude of the scattering is given by the measurements of the absorption of X-rays due to scattering. Over a wide range of wavelengths, the formula for the total mass absorption, μ/ρ = κλ² + σ/ρ, is found to hold, where μ is the linear absorption coefficient, ρ is the density, κ is a constant, and σ is the energy loss due to the scattering process. Usually the term κλ², which represents the fluorescent absorption, is the more important; but when light elements and short wavelengths are employed, the scattering process accounts for nearly all the energy loss. In this case, the constant κ can be determined by measurements on the longer wave-lengths, and the value of σ/ρ can then be estimated with considerable accuracy for the shorter wave-lengths from the observed values of μ/ρ.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 689,
+      "bottomRightX": 462,
+      "bottomRightY": 721,
+      "content": "Hewlett has measured the total absorption coefficient for carbon over a wide range of wave-lengths.² From his data for the longer wave-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 724,
+      "bottomRightX": 394,
+      "bottomRightY": 738,
+      "content": "¹ E. Rutherford, Radioactive Substances and their Radiations, p. 273.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 738,
+      "bottomRightX": 271,
+      "bottomRightY": 750,
+      "content": "² C. W. Hewlett, Phys. Rev. 17, 284 (1921).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 558,
+      "topLeftY": 48,
+      "bottomRightX": 580,
+      "bottomRightY": 61,
+      "content": "498",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 698,
+      "topLeftY": 48,
+      "bottomRightX": 836,
+      "bottomRightY": 59,
+      "content": "ARTHUR H. COMPTON",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 558,
+      "topLeftY": 73,
+      "bottomRightX": 979,
+      "bottomRightY": 124,
+      "content": "lengths I estimate the value of κ to be 0.912, if λ is expressed in A. On subtracting the corresponding values of κλ² from his observed values of μ/ρ, the values of σ/ρ represented by the crosses of Fig. 6 are obtained.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 566,
+      "topLeftY": 135,
+      "bottomRightX": 965,
+      "bottomRightY": 423,
+      "content": "![img-5.jpeg](img-5.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-5.jpeg"
+    },
+    {
+      "topLeftX": 579,
+      "topLeftY": 427,
+      "bottomRightX": 953,
+      "bottomRightY": 441,
+      "content": "Fig. 6. The absorption in carbon due to scattering, for homogeneous X-rays.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 557,
+      "topLeftY": 452,
+      "bottomRightX": 976,
+      "bottomRightY": 535,
+      "content": "The value of σ₀/ρ as calculated for carbon from Thomson's formula is shown by the horizontal line at σ/ρ = 0.201. The values of σ/ρ calculated from Eq. (28) are represented by the solid curve. The circle shows the experimental value of the total absorption of γ-rays by carbon, which on the present view is due wholly to the scattering process.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 557,
+      "topLeftY": 536,
+      "bottomRightX": 976,
+      "bottomRightY": 683,
+      "content": "For wave-lengths less than 0.5 A, where the test is most significant, the agreement is perhaps within the experimental error. Experiments by Owen,¹ Crowther,² and Barkla and Ayers³ show that at about 0.5 A the \"excess scattering\" begins to be appreciable, increasing rapidly in importance at the longer wave-lengths.⁴ It is probably this effect which results in the increase of the scattering absorption above the theoretical value for the longer wave-lengths. Thus the experimental values of the absorption due to scattering seem to be in satisfactory accord with the present theory.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 569,
+      "topLeftY": 684,
+      "bottomRightX": 975,
+      "bottomRightY": 700,
+      "content": "True absorption due to scattering has not been noticed in the case of",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 569,
+      "topLeftY": 703,
+      "bottomRightX": 823,
+      "bottomRightY": 717,
+      "content": "¹ E. A. Owen, Proc. Camb. Phil. Soc. 16, 165 (1911).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 569,
+      "topLeftY": 717,
+      "bottomRightX": 804,
+      "bottomRightY": 729,
+      "content": "² J. A. Crowther, Proc. Roy. Soc. 86, 478 (1912).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 569,
+      "topLeftY": 729,
+      "bottomRightX": 793,
+      "bottomRightY": 742,
+      "content": "³ Barkla and Ayers, Phil. Mag. 21, 275 (1911).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 569,
+      "topLeftY": 742,
+      "bottomRightX": 910,
+      "bottomRightY": 755,
+      "content": "⁴ Cf. A. H. Compton, Washington University Studies, 8, 109 ff. (1921).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

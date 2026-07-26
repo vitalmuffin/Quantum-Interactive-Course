@@ -1,0 +1,128 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 139,
+      "topLeftY": 101,
+      "bottomRightX": 635,
+      "bottomRightY": 116,
+      "content": "QUANTUM THEORY IN TERMS OF \"HIDDEN\" VARIABLES. I",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 664,
+      "topLeftY": 101,
+      "bottomRightX": 685,
+      "bottomRightY": 115,
+      "content": "177",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 129,
+      "bottomRightX": 381,
+      "bottomRightY": 534,
+      "content": "$R^2(\\mathbf{x}, \\mathbf{y})$ can no longer be written as a product of a function of $\\mathbf{x}$ and a function of $\\mathbf{y}$, from which we conclude that the probability distributions of the two particles are no longer statistically independent. Moreover, the motion of the particle is exceedingly complicated, because the expressions for $R$ and $S$ are somewhat analogous to those obtained in the simpler problem of a nonstationary state of a single particle [see Eqs. (19) and (20)]. In the region where the scattered waves $\\psi_n(\\mathbf{x})f_n(\\mathbf{y}, t)$ have an amplitude comparable with that of the incident wave, $\\psi_0(\\mathbf{x})f_0(\\mathbf{y}, t)$, the functions $R$ and $S$, and therefore the \"quantum-mechanical\" potential and the particle momenta, undergo rapid and violent fluctuations, both as functions of position and of time. Because the quantum-mechanical potential has $R(\\mathbf{x}, \\mathbf{y}, t)$ in the denominator, these fluctuations may become very large in this region where $R$ is small. If the particles happen to enter such a region, they may exchange very large quantities of energy and momentum in a very short time, even if the classical potential, $V(\\mathbf{x}, \\mathbf{y})$ is very small. A small value of $V(\\mathbf{x}, \\mathbf{y})$ implies, however, a correspondingly small value of the scattered wave amplitudes, $f_n(\\mathbf{y}, t)$. Since the fluctuations become large only in the region where the scattered wave amplitude is comparable with the incident wave amplitude and since the probability that the particles shall enter a given region of $\\mathbf{x}, \\mathbf{y}$ space is proportional to $R^2(\\mathbf{x}, \\mathbf{y})$, it is clear that a large transfer of energy is improbable (although still always possible) when $V(\\mathbf{x}, \\mathbf{y})$ is small.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 535,
+      "bottomRightX": 381,
+      "bottomRightY": 784,
+      "content": "While interaction between the two particles takes place then, their orbits are subject to wild fluctuations. Eventually, however, the behavior of the system quiets down and becomes simple again. For after the wave function takes its asymptotic form (26), and the packets corresponding to different values of $n$ have obtained classically describable separations, we can deduce that because the probability density is $|\\psi|^2$, the outgoing particle must enter one of these packets and stay with that packet thereafter (since it does not enter the space between packets in which the probability density is negligibly different from zero). In the calculation of the particle velocities, $V_1 = \\nabla_x S/m$, $V_2 = \\nabla_y S/m$, and of the quantum-mechanical potential, $U = (-\\hbar^2/2mR)(\\nabla_x^2 R + \\nabla_y^2 R)$, we can therefore ignore all parts of the wave function other than the one actually containing the outgoing particle. It follows that the system acts as if it had the wave function",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 795,
+      "bottomRightX": 380,
+      "bottomRightY": 872,
+      "content": "$$\\Psi_n = \\psi_n(\\mathbf{x}) \\exp\\left(\\frac{iE_n t}{\\hbar}\\right) \\int f(\\mathbf{k} - \\mathbf{k}_0) \\times \\frac{\\exp\\{i[\\mathbf{k}_n \\cdot \\mathbf{r} - (\\hbar k_n^2 t/2m)t]\\}}{r} g_n(\\theta, \\phi, \\mathbf{k}) d\\mathbf{k}, \\quad (29)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 884,
+      "bottomRightX": 381,
+      "bottomRightY": 940,
+      "content": "where $n$ denotes the packet actually containing the outgoing particle. This means that for all practical purposes the complete wave function (26) of the system may be replaced by Eq. (29), which corresponds to",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 130,
+      "bottomRightX": 686,
+      "bottomRightY": 310,
+      "content": "an atomic electron in its $n$th quantum state, and to an outgoing particle with a correlated energy, $E_n' = \\hbar^2 k_n^2 / 2m$. Because the wave function is a product of a function of $\\mathbf{x}$ and a function of $\\mathbf{y}$, each system once again acts independently of the other. The wave function can now be renormalized because the multiplication of $\\Psi_n$ by a constant changes no physically significant quantity, such as the particle velocity or the \"quantum-mechanical\" potential. As shown in Sec. 5, when the electronic wave function is $\\psi_n(\\mathbf{x})\\exp(-iE_n t/\\hbar)$, its energy must be $E_n$. Thus, we have obtained a description of how it comes about that the energy is always transferred in quanta of size $E_n - E_0$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 312,
+      "bottomRightX": 686,
+      "bottomRightY": 451,
+      "content": "It should be noted that while the wave packets are still separating, the electron energy is not quantized, but has a continuous range of values, which fluctuate rapidly. It is only the final value of the energy, appearing after the interaction is over that must be quantized. A similar result is obtained in the usual interpretation if one notes that because of the uncertainty principle, the energy of either system can become definite only after enough time has elapsed to complete the scattering process.¹⁵",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 451,
+      "bottomRightX": 686,
+      "bottomRightY": 729,
+      "content": "In principle, the actual packet entered by the outgoing particle could be predicted if we knew the initial position of both particles and, of course, the initial form of the wave function of the combined system.¹⁶ In practice, however, the particle orbits are very complicated and very sensitively dependent on the precise values of these initial positions. Since we do not at present know how to measure these initial positions precisely, we cannot actually predict the outcome of such an interaction process. The best that we can do is to predict the probability that an outgoing particle enters the $n$th packet within a given range of solid angle, $d\\Omega$, leaving the hydrogen atom in its $n$th quantum state. In doing this, we use the fact that the probability density in $\\mathbf{x}, \\mathbf{y}$ space is $|\\psi(\\mathbf{x}, \\mathbf{y})|^2$ and that as long as we are restricted to the $n$th packet, we can replace the complete wave function (26) by the wave function (29), corresponding to the packet that actually contains the particle. Now, by definition, we have $\\int |\\psi_n(\\mathbf{x})|^2 d\\mathbf{x} = 1$. The remaining integration of",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 406,
+      "topLeftY": 736,
+      "bottomRightX": 674,
+      "bottomRightY": 774,
+      "content": "$$\\left| \\int f(\\mathbf{k} - \\mathbf{k}_0) \\frac{\\exp\\{i[k_n r - (\\hbar k_n^2/2m)t]\\}}{r} g_n(\\theta, \\phi, \\mathbf{k}) d\\mathbf{k} \\right|^2$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 783,
+      "bottomRightX": 686,
+      "bottomRightY": 882,
+      "content": "over the region of space corresponding to the $n$th outgoing packet leads, however, to precisely the same probability of scattering as would have been obtained by applying the usual interpretation. We conclude, then, that if $\\psi$ satisfies Schroedinger's equation, that if $\\mathbf{v} = \\nabla S/m$, and that if the probability density of particles is $P(\\mathbf{x}, \\mathbf{y}) = R^2(\\mathbf{x}, \\mathbf{y})$, we obtain in every respect",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 401,
+      "topLeftY": 887,
+      "bottomRightX": 576,
+      "bottomRightY": 898,
+      "content": "¹⁵ See reference 2, Chapter 18, Sec. 19.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 898,
+      "bottomRightX": 686,
+      "bottomRightY": 940,
+      "content": "¹⁶ Note that in the usual interpretation one assumes that nothing determines the precise outcome of an individual scattering process. Instead, one assumes that all descriptions are inherently and unavoidably statistical (see Sec. 2).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

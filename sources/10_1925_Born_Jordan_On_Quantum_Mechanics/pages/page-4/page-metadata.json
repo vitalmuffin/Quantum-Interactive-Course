@@ -1,0 +1,218 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 277,
+      "topLeftY": 102,
+      "bottomRightX": 409,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 555,
+      "topLeftY": 102,
+      "bottomRightX": 583,
+      "bottomRightY": 118,
+      "content": "861",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 139,
+      "bottomRightX": 462,
+      "bottomRightY": 158,
+      "content": "werden $\\boldsymbol{a}$ und $\\boldsymbol{b}$ vertauschbar genannt. Die durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 197,
+      "topLeftY": 159,
+      "bottomRightX": 585,
+      "bottomRightY": 197,
+      "content": "$$\\boldsymbol{1} = (\\delta_{nm}), \\quad \\begin{cases} \\delta_{nm} = 0 & \\text{für } n \\neq m, \\\\ \\delta_{nn} = 1 \\end{cases} \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 203,
+      "bottomRightX": 425,
+      "bottomRightY": 221,
+      "content": "definierte Einheitsmatrix hat die Eigenschaft",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 286,
+      "topLeftY": 226,
+      "bottomRightX": 585,
+      "bottomRightY": 245,
+      "content": "$$\\boldsymbol{a}\\boldsymbol{1} = \\boldsymbol{1}\\boldsymbol{a} = \\boldsymbol{a}. \\quad (6a)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 250,
+      "bottomRightX": 498,
+      "bottomRightY": 268,
+      "content": "Die zu $\\boldsymbol{a}$ reziproke Matrix $\\boldsymbol{a}^{-1}$ ist definiert durch$^{1)}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 270,
+      "topLeftY": 273,
+      "bottomRightX": 585,
+      "bottomRightY": 292,
+      "content": "$$\\boldsymbol{a}^{-1}\\boldsymbol{a} = \\boldsymbol{a}\\boldsymbol{a}^{-1} = \\boldsymbol{1}. \\quad (7)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 297,
+      "bottomRightX": 583,
+      "bottomRightY": 355,
+      "content": "Als „Mittelwert“ einer Matrix $\\boldsymbol{a}$ bezeichnen wir diejenige Matrix, deren Diagonalelemente mit denen von $\\boldsymbol{a}$ übereinstimmen, während alle übrigen Elemente Null sind:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 360,
+      "bottomRightX": 585,
+      "bottomRightY": 381,
+      "content": "$$\\overline{\\boldsymbol{a}} = (\\delta_{nm} a (nn)). \\quad (8)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 385,
+      "bottomRightX": 583,
+      "bottomRightY": 423,
+      "content": "Die Summe dieser Diagonalelemente soll „Diagonalsumme der Matrix $\\boldsymbol{a}$“ heißen und mit $D(\\boldsymbol{a})$ bezeichnet werden:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 277,
+      "topLeftY": 429,
+      "bottomRightX": 585,
+      "bottomRightY": 459,
+      "content": "$$D(\\boldsymbol{a}) = \\sum_n a(nn). \\quad (9)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 465,
+      "bottomRightX": 583,
+      "bottomRightY": 523,
+      "content": "Nach (3) beweist man leicht: Wenn die Diagonalsumme eines Produkts $\\boldsymbol{y} = \\boldsymbol{x}_1 \\boldsymbol{x}_2 \\dots \\boldsymbol{x}_m$ endlich ist, so bleibt sie unverändert bei zyklischer Vertauschung der Faktoren:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 529,
+      "bottomRightX": 585,
+      "bottomRightY": 548,
+      "content": "$$D(\\boldsymbol{x}_1 \\boldsymbol{x}_2 \\dots \\boldsymbol{x}_m) = D(\\boldsymbol{x}_r \\boldsymbol{x}_{r+1} \\dots \\boldsymbol{x}_m \\boldsymbol{x}_1 \\boldsymbol{x}_2 \\dots \\boldsymbol{x}_{r-1}). \\quad (10)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 552,
+      "bottomRightX": 583,
+      "bottomRightY": 590,
+      "content": "Es genügt offenbar, sich von der Richtigkeit des Satzes für zwei Faktoren zu überzeugen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 593,
+      "bottomRightX": 583,
+      "bottomRightY": 630,
+      "content": "Sind die Komponenten der Matrizen $\\boldsymbol{a}, \\boldsymbol{b}$ Funktionen eines Parameters $t$, so wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 634,
+      "bottomRightX": 527,
+      "bottomRightY": 676,
+      "content": "$$\\frac{d}{dt} \\sum_k a(nk) b(km) = \\sum_k \\{\\dot{a}(nk) b(km) + a(nk) \\dot{b}(km)\\}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 678,
+      "bottomRightX": 298,
+      "bottomRightY": 697,
+      "content": "oder nach der Definition (3):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 701,
+      "bottomRightX": 583,
+      "bottomRightY": 734,
+      "content": "$$\\frac{d}{dt}(\\boldsymbol{a}\\boldsymbol{b}) = \\dot{\\boldsymbol{a}}\\boldsymbol{b} + \\boldsymbol{a}\\dot{\\boldsymbol{b}}. \\quad (11)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 743,
+      "bottomRightX": 397,
+      "bottomRightY": 760,
+      "content": "Wiederholte Anwendung von (11) gibt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 763,
+      "bottomRightX": 583,
+      "bottomRightY": 797,
+      "content": "$$\\frac{d}{dt}(\\boldsymbol{x}_1 \\boldsymbol{x}_2 \\dots \\boldsymbol{x}_n) = \\dot{\\boldsymbol{x}}_1 \\boldsymbol{x}_2 \\dots \\boldsymbol{x}_n + \\boldsymbol{x}_1 \\dot{\\boldsymbol{x}}_2 \\dots \\boldsymbol{x}_n + \\dots + \\boldsymbol{x}_1 \\boldsymbol{x}_2 \\dots \\dot{\\boldsymbol{x}}_n. \\quad (11')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 802,
+      "bottomRightX": 583,
+      "bottomRightY": 861,
+      "content": "Durch die Rechenprozesse (2), (3) können Funktionen von Matrizen definiert werden. Als allgemeinste Funktion $f(\\boldsymbol{x}_1 \\boldsymbol{x}_2 \\dots \\boldsymbol{x}_m)$ soll hier zunächst eine solche in Betracht gezogen werden, welche durch eine",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 875,
+      "bottomRightX": 583,
+      "bottomRightY": 922,
+      "content": "$^{1)}$ Bekanntlich ist bei endlichen quadratischen Matrizen $\\boldsymbol{a}^{-1}$ durch diese Definition stets eindeutig festgelegt, wenn die Determinante $A$ von $\\boldsymbol{a}$ von Null verschieden ist. Ist $A = 0$, so gibt es keine zu $\\boldsymbol{a}$ reziproke Matrix.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

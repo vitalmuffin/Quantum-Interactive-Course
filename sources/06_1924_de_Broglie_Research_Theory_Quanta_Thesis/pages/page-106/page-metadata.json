@@ -1,0 +1,74 @@
+{
+  "index": 105,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 44,
+      "topLeftY": 17,
+      "bottomRightX": 78,
+      "bottomRightY": 36,
+      "content": "126",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 234,
+      "topLeftY": 19,
+      "bottomRightX": 384,
+      "bottomRightY": 36,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 60,
+      "bottomRightX": 569,
+      "bottomRightY": 292,
+      "content": "de concordance de phase dû à Fermat pourraient bien être deux aspects d'une seule loi ; ceci nous a conduit à concevoir une extension de la relation du quantum donnant la vitesse de l'onde de phase dans le champ électromagnétique. Certes, cette idée que le mouvement d'un point matériel dissimule toujours la propagation d'une onde, aurait besoin d'être étudiée et complétée, mais, si l'on parvenait à lui donner une forme entièrement satisfaisante, elle représenterait une synthèse d'une grande beauté rationnelle.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 294,
+      "bottomRightX": 570,
+      "bottomRightY": 525,
+      "content": "La plus importante conséquence qu'on peut en tirer est exposée au chapitre III. Après avoir rappelé les lois de stabilité des trajectoires quantifiées telles qu'elles résultent de nombreux travaux récents, nous avons montré qu'elles peuvent s'interpréter comme exprimant la résonnance de l'onde de phase sur la longueur des trajectoires fermées ou quasi-fermées. Nous croyons que c'est là la première explication physiquement plausible proposée pour ces conditions de stabilité de Bohr-Sommerfeld.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 528,
+      "bottomRightX": 570,
+      "bottomRightY": 658,
+      "content": "Les difficultés soulevées par les déplacements simultanés de deux centres électriques sont étudiées au chapitre IV, en particulier dans le cas des mouvements circulaires du noyau et de l'électron autour de leur centre de gravité dans l'atome d'hydrogène.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 659,
+      "bottomRightX": 571,
+      "bottomRightY": 918,
+      "content": "Au chapitre V, guidé par les résultats antérieurement obtenus, nous cherchons à nous représenter la possibilité d'une concentration de l'énergie radiante autour de certains points singuliers et nous montrons quelle harmonie profonde semble exister entre les points de vue opposés de Newton et de Fresnel et être révélée par l'identité de nombreuses prévisions. La théorie électromagnétique ne peut être intégralement conservée sous sa forme actuelle, mais son remaniement est un travail difficile, nous suggérons à ce propos une théorie qualitative des interférences.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 919,
+      "bottomRightX": 570,
+      "bottomRightY": 970,
+      "content": "Au chapitre VI, nous résumons les diverses théories successives de la diffusion des rayons X et $\\gamma$ par les corps",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

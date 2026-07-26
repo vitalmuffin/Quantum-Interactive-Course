@@ -1,0 +1,164 @@
+{
+  "index": 40,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 102,
+      "bottomRightX": 418,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 552,
+      "topLeftY": 102,
+      "bottomRightX": 581,
+      "bottomRightY": 117,
+      "content": "597",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 139,
+      "bottomRightX": 581,
+      "bottomRightY": 157,
+      "content": "Die gleiche Bemerkung ist anzuwenden auf den Translationsimpuls",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 198,
+      "topLeftY": 160,
+      "bottomRightX": 581,
+      "bottomRightY": 202,
+      "content": "$$\\mathfrak{p} = \\sum_{k=1}^{f/3} \\mathfrak{p}_k; \\quad \\text{d. h.} \\quad \\mathfrak{p}_x = \\sum_{k=1}^{f/3} \\mathfrak{p}_{kx}, \\dots, \\quad (2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 203,
+      "bottomRightX": 581,
+      "bottomRightY": 240,
+      "content": "der ebenfalls konstant wird. Also gilt auch der Schwerpunktsatz, wie in der klassischen Theorie.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 242,
+      "bottomRightX": 581,
+      "bottomRightY": 281,
+      "content": "Wir merken hier sogleich eine später zu benutzende Formel an, die aus den Vertauschungsrelationen (3), Kap. 2, abzuleiten ist. Es wird:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 125,
+      "topLeftY": 283,
+      "bottomRightX": 581,
+      "bottomRightY": 417,
+      "content": "$$\\begin{aligned} M_x M_y - M_y M_x &= \\sum_{kl} \\{ (\\mathfrak{p}_{ky} \\mathfrak{q}_{kx} - \\mathfrak{q}_{ky} \\mathfrak{p}_{kx}) (\\mathfrak{p}_{lx} \\mathfrak{q}_{lx} - \\mathfrak{q}_{lx} \\mathfrak{p}_{lx}) \\\\ &\\quad - (\\mathfrak{p}_{kx} \\mathfrak{q}_{kx} - \\mathfrak{q}_{kx} \\mathfrak{p}_{kx}) (\\mathfrak{p}_{ly} \\mathfrak{q}_{lx} - \\mathfrak{q}_{ly} \\mathfrak{p}_{lx}) \\}, \\\\ &= \\sum_{kl} \\{ \\mathfrak{p}_{ky} \\mathfrak{q}_{lx} (\\mathfrak{q}_{kx} \\mathfrak{p}_{lx} - \\mathfrak{p}_{lx} \\mathfrak{q}_{kx}) \\\\ &\\quad + \\mathfrak{q}_{ky} \\mathfrak{p}_{lx} (\\mathfrak{p}_{kx} \\mathfrak{q}_{lx} - \\mathfrak{q}_{lx} \\mathfrak{p}_{kx}), \\\\ &= \\frac{h}{2\\pi i} \\sum_k (\\mathfrak{p}_{kx} \\mathfrak{q}_{ky} - \\mathfrak{q}_{kx} \\mathfrak{p}_{ky}), \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 418,
+      "bottomRightX": 132,
+      "bottomRightY": 435,
+      "content": "also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 418,
+      "bottomRightX": 581,
+      "bottomRightY": 452,
+      "content": "$$M_x M_y - M_y M_x = \\varepsilon M_x, \\quad \\left( \\varepsilon = \\frac{h}{2\\pi i} \\right). \\quad (3)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 457,
+      "bottomRightX": 582,
+      "bottomRightY": 516,
+      "content": "Man sieht übrigens aus dieser Formel unmittelbar, daß der Flächensatz wie in der klassischen Theorie stets für höchstens eine oder für alle drei Achsen gilt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 518,
+      "bottomRightX": 583,
+      "bottomRightY": 720,
+      "content": "Für das Folgende wollen wir annehmen, daß das uns vorliegende Problem bei Behandlung nach den im vorigen Kapitel entwickelten Methoden zu diskreten Energiewerten (Punktspektrum) führt. Ist dann $\\dot{M}_z = 0$ bei einem nichtentarteten System — dies wird z. B. der Fall sein, wenn Kräfte mit Symmetrie um die $\\varepsilon$-Achse auf das Atom wirken —, so muß $M_z$ eine Diagonalmatrix werden; die einzelnen Diagonalglieder sind als Drehmomente des Atoms um die $\\varepsilon$-Achse für die einzelnen Zustände des Atoms anzusehen. Zur Untersuchung der Elektronenbewegungen in diesem Falle beachten wir zunächst, daß aus (1), Kap. 4, $\\mathfrak{q}_{lx} M_x - M_z \\mathfrak{q}_{lx} = 0 \\quad (4)$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 725,
+      "bottomRightX": 426,
+      "bottomRightY": 744,
+      "content": "folgt, was wegen $M_z(nm) = \\delta_{nm} M_{zn}$ bedeutet:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 748,
+      "bottomRightX": 583,
+      "bottomRightY": 767,
+      "content": "$$\\mathfrak{q}_{lx}(nm) (M_{zn} - M_{zm}) = 0. \\quad (5)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 771,
+      "bottomRightX": 583,
+      "bottomRightY": 830,
+      "content": "Man sieht: Bei einem Quantensprung, bei dem sich das Drehmoment $M_z$ ändert, liegt die „Schwingungsebene“ der erzeugten „Kugelwelle“ senkrecht zur $\\varepsilon$-Achse. Weiter wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 241,
+      "topLeftY": 834,
+      "bottomRightX": 583,
+      "bottomRightY": 874,
+      "content": "$$\\left. \\begin{aligned} \\mathfrak{q}_{lx} M_x - M_z \\mathfrak{q}_{lx} &= -\\varepsilon \\mathfrak{q}_{ly}, \\\\ \\mathfrak{q}_{ly} M_x - M_z \\mathfrak{q}_{ly} &= \\varepsilon \\mathfrak{q}_{lx}, \\end{aligned} \\right\\} \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 881,
+      "bottomRightX": 133,
+      "bottomRightY": 898,
+      "content": "also",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 881,
+      "bottomRightX": 583,
+      "bottomRightY": 920,
+      "content": "$$\\left. \\begin{aligned} \\mathfrak{q}_{lx}(nm) (M_{zn} - M_{zm}) &= -\\varepsilon \\mathfrak{q}_{ly}(nm), \\\\ \\mathfrak{q}_{ly}(nm) (M_{zn} - M_{zm}) &= \\varepsilon \\mathfrak{q}_{lx}(nm). \\end{aligned} \\right\\} \\quad (7)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

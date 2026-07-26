@@ -1,0 +1,146 @@
+{
+  "index": 25,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1004,
+    "width": 602
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 44,
+      "topLeftY": 12,
+      "bottomRightX": 68,
+      "bottomRightY": 31,
+      "content": "46",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 234,
+      "topLeftY": 12,
+      "bottomRightX": 381,
+      "bottomRightY": 28,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 51,
+      "bottomRightX": 564,
+      "bottomRightY": 131,
+      "content": "de ces deux études, synthèse sur laquelle on peut discuter mais dont l'élégance théorique est incontestable. Nous obtiendrons du même coup la solution du problème posé.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 152,
+      "bottomRightX": 506,
+      "bottomRightY": 199,
+      "content": "## II. — LES DEUX PRINCIPES DE MOINDRE ACTION DANS LA DYNAMIQUE CLASSIQUE",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 47,
+      "topLeftY": 219,
+      "bottomRightX": 572,
+      "bottomRightY": 297,
+      "content": "Dans la dynamique classique, le principe de moindre action sous sa forme Hamiltonienne s'énonce de la façon suivante :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 48,
+      "topLeftY": 295,
+      "bottomRightX": 576,
+      "bottomRightY": 485,
+      "content": "« Les équations de la dynamique peuvent se déduire du fait que l'intégrale $\\int_{t_1}^{t_2} \\mathcal{L} dt$ prise entre les limites *fixes* du temps pour des valeurs initiales et finales données des paramètres $q_i$ qui déterminent l'état du système, a une valeur stationnaire ». Par définition, $\\mathcal{L}$ est appelée la fonction de Lagrange et supposée dépendre des variables $q_i$ et $\\dot{q}_i = \\frac{dq_i}{dt}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 71,
+      "topLeftY": 496,
+      "bottomRightX": 172,
+      "bottomRightY": 518,
+      "content": "On a donc :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 515,
+      "bottomRightX": 376,
+      "bottomRightY": 555,
+      "content": "$$\\delta \\int_{t_1}^{t_2} \\mathcal{L} dt = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 53,
+      "topLeftY": 567,
+      "bottomRightX": 578,
+      "bottomRightY": 622,
+      "content": "On en déduit par une méthode connue du calcul des variations les équations dites de Lagrange :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 240,
+      "topLeftY": 634,
+      "bottomRightX": 389,
+      "bottomRightY": 689,
+      "content": "$$\\frac{d}{dt} \\left( \\frac{\\partial \\mathcal{L}}{\\partial \\dot{q}_i} \\right) = \\frac{\\partial \\mathcal{L}}{\\partial q_i}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 54,
+      "topLeftY": 711,
+      "bottomRightX": 403,
+      "bottomRightY": 736,
+      "content": "en nombre égal à celui des variables $q_i$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 54,
+      "topLeftY": 734,
+      "bottomRightX": 581,
+      "bottomRightY": 789,
+      "content": "Reste à définir la fonction $\\mathcal{L}$. La dynamique classique pose :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 789,
+      "bottomRightX": 387,
+      "bottomRightY": 810,
+      "content": "$$\\mathcal{L} = E_{\\text{cin}} - E_{\\text{pot}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 827,
+      "bottomRightX": 582,
+      "bottomRightY": 905,
+      "content": "différence des énergies cinétique et potentielle. Nous verrons plus loin que la dynamique relativiste emploie une valeur différente de $\\mathcal{L}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 57,
+      "topLeftY": 907,
+      "bottomRightX": 582,
+      "bottomRightY": 962,
+      "content": "Passons maintenant à la forme Maupertuisienne du principe de moindre action. Pour cela, remarquons d'abord que",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

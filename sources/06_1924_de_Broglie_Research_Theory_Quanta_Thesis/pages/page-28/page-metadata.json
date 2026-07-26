@@ -1,0 +1,128 @@
+{
+  "index": 27,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 41,
+      "topLeftY": 20,
+      "bottomRightX": 66,
+      "bottomRightY": 41,
+      "content": "48",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 22,
+      "bottomRightX": 383,
+      "bottomRightY": 39,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 63,
+      "bottomRightX": 568,
+      "bottomRightY": 114,
+      "content": "toires variées doivent toutes correspondre à une même valeur W de l'énergie.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 115,
+      "bottomRightX": 568,
+      "bottomRightY": 223,
+      "content": "Posons suivant la notation classique des équations canoniques : $p_i = \\frac{\\partial \\mathcal{L}}{\\partial q_i}$. Les $p_i$ sont les moments conjugués des variables $q_i$. Le principe Maupertuisien s'écrit :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 236,
+      "bottomRightX": 375,
+      "bottomRightY": 281,
+      "content": "$$\\delta \\int_A^B \\Sigma_i p_i dq_i = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 303,
+      "bottomRightX": 569,
+      "bottomRightY": 381,
+      "content": "dans la dynamique classique où $\\mathcal{L} = E_{\\text{cin}} - E_{\\text{pot}}$, $E_{\\text{pot}}$ est indépendant des $q_i$ et $E_{\\text{cin}}$ en est une fonction quadratique homogène. En vertu du théorème d'Euler :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 400,
+      "bottomRightX": 421,
+      "bottomRightY": 436,
+      "content": "$$\\Sigma_i p_i dq_i = \\Sigma_i p_i q_i dt = 2 E_{\\text{cin}} dt.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 459,
+      "bottomRightX": 569,
+      "bottomRightY": 525,
+      "content": "Pour le point matériel, $E_{\\text{cin}} = \\frac{1}{2} mv^2$ et le principe de moindre action prend sa forme la plus anciennement connue :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 539,
+      "bottomRightX": 375,
+      "bottomRightY": 581,
+      "content": "$$\\delta \\int_A^B mv dl = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 602,
+      "bottomRightX": 270,
+      "bottomRightY": 627,
+      "content": "$dl$, élément de trajectoire.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 660,
+      "bottomRightX": 505,
+      "bottomRightY": 707,
+      "content": "### III. — LES DEUX PRINCIPES DE MOINDRE ACTION DANS LA DYNAMIQUE DE L'ÉLECTRON",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 735,
+      "bottomRightX": 570,
+      "bottomRightY": 917,
+      "content": "Nous allons maintenant reprendre la question pour la dynamique de l'électron au point de vue relativiste. Il faut prendre ici le mot « électron » dans le sens général de point matériel portant une charge électrique. Nous supposerons que l'électron placé en dehors de tout champ possède une masse propre $m_0$; sa charge électrique est désignée par $e$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 917,
+      "bottomRightX": 570,
+      "bottomRightY": 970,
+      "content": "Nous allons de nouveau considérer l'espace-temps; les coordonnées d'espace seront appelées $x^1$, $x^2$ et $x^3$, la coor-",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

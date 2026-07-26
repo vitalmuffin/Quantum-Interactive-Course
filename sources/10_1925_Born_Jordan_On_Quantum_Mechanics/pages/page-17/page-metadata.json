@@ -1,0 +1,164 @@
+{
+  "index": 16,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 102,
+      "bottomRightX": 133,
+      "bottomRightY": 119,
+      "content": "874",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 102,
+      "bottomRightX": 415,
+      "bottomRightY": 117,
+      "content": "M. Born und P. Jordan.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 586,
+      "bottomRightY": 176,
+      "content": "wird. Vertauschung von $p$ und $q$ mit Vorzeichenwechsel von $h$ ergibt die neue Formel",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 176,
+      "bottomRightX": 586,
+      "bottomRightY": 225,
+      "content": "$$p^m q^n - q^n p^m = n \\frac{h}{2\\pi i} \\sum_{j=0}^{m-1} p^{m-1-j} q^{n-1} p^j. \\quad (48')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 225,
+      "bottomRightX": 310,
+      "bottomRightY": 243,
+      "content": "Vergleich mit (48) liefert",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 247,
+      "bottomRightX": 586,
+      "bottomRightY": 295,
+      "content": "$$\\frac{1}{s+1} \\sum_{l=0}^s p^{s-l} q^r p^l = \\frac{1}{r+1} \\sum_{j=0}^r q^{r-j} p^s q^j. \\quad (49)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 299,
+      "bottomRightX": 443,
+      "bottomRightY": 318,
+      "content": "Wir behaupten nun: Zu $H^*$ nach (47) gehört",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 320,
+      "bottomRightX": 586,
+      "bottomRightY": 368,
+      "content": "$$H = \\frac{1}{s+1} \\sum_{l=0}^s p^{s-l} q^r p^l. \\quad (50)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 372,
+      "bottomRightX": 586,
+      "bottomRightY": 411,
+      "content": "Beweisen müssen wir nur (40), wobei wir uns an Formel (18') aus § 2 zu erinnern haben.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 413,
+      "bottomRightX": 272,
+      "bottomRightY": 432,
+      "content": "Nun wird nach (50)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 432,
+      "bottomRightX": 480,
+      "bottomRightY": 466,
+      "content": "$$Hp - pH = \\frac{1}{s+1} (q^r p^{s+1} - p^{s+1} q^r),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 474,
+      "bottomRightX": 585,
+      "bottomRightY": 493,
+      "content": "und nach (48) ist das gleichbedeutend mit der unteren Gleichung (40).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 494,
+      "bottomRightX": 444,
+      "bottomRightY": 513,
+      "content": "Unter Benutzung von (49) erhalten wir ferner",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 518,
+      "bottomRightX": 481,
+      "bottomRightY": 554,
+      "content": "$$Hq - qH = \\frac{1}{r+1} (p^s q^{r+1} - q^{r+1} p^s),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 561,
+      "bottomRightX": 585,
+      "bottomRightY": 599,
+      "content": "was nach (48') mit der oberen Gleichung (40) gleichwertig ist. Damit ist der verlangte Beweis vollständig geführt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 599,
+      "bottomRightX": 585,
+      "bottomRightY": 680,
+      "content": "Während in der klassischen Mechanik die Energiekonstanz $\\dot{H} = 0$ unmittelbar aus den kanonischen Gleichungen abgelesen werden kann, liegt der Energiesatz $\\dot{H} = 0$ der Quantenmechanik, wie man sieht, viel weniger an der Oberfläche.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 681,
+      "bottomRightX": 586,
+      "bottomRightY": 920,
+      "content": "Wie weit seine Beweisbarkeit aus den gemachten Voraussetzungen davon entfernt ist, trivial zu sein, erkennt man, wenn man in engerer Anlehnung an das klassische Beweisverfahren die Konstanz von $H$ einfach durch Ausrechnen von $\\dot{H}$ zu beweisen sucht. Man hat zu diesem Zweck zunächst vermittelst (11), (11') $\\dot{H}$ als Funktion von $p$, $q$ und $\\dot{p}$, $\\dot{q}$ darzustellen, worauf für $\\dot{p}$, $\\dot{q}$ die Werte $-\\frac{\\partial H}{\\partial q}$, $\\frac{\\partial H}{\\partial p}$ einzuführen sind. Das ergibt $\\dot{H}$ als Funktion von $p$ und $q$. Die Gleichung (38) bzw. die daraus abgeleiteten, in der Fußnote Seite 873 mitgeteilten Formeln erlauben, diese Funktion in eine Summe von Gliedern $a p^s q^r$ umzurechnen, und zu beweisen ist, daß der Koeffizient $a$ jedes solchen Gliedes verschwindet. Diese Rechnung wird für den allgemeinsten oben in anderer Weise",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

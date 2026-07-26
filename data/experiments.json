@@ -1,0 +1,612 @@
+[
+  {
+    "id": "EXP01",
+    "papers": [
+      1
+    ],
+    "title_de": "Schwarzkörperstrahlung und UV-Katastrophe",
+    "title_en": "Black-body radiation and the ultraviolet catastrophe",
+    "goal_de": "Erkennen, warum klassische Energieequipartition bei hohen Frequenzen scheitert und wie Plancks Quantisierung das gesamte Spektrum beschreibt.",
+    "goal_en": "See why classical equipartition fails at high frequency and how Planck quantization describes the full spectrum.",
+    "controls": [
+      "temperature_K: 100–10000",
+      "x_axis: frequency/wavelength",
+      "model: Planck/Wien/Rayleigh–Jeans",
+      "log_scale: on/off"
+    ],
+    "outputs": [
+      "spectral curve",
+      "Wien peak",
+      "integrated Stefan–Boltzmann power",
+      "ratio to classical prediction"
+    ],
+    "equations": [
+      "u_ν(T)=8πhν³/c³·1/(exp(hν/kT)-1)",
+      "λ_max T=b",
+      "P/A=σT⁴"
+    ],
+    "presets": [
+      "furnace 1500 K",
+      "Sun 5772 K",
+      "cosmic microwave background 2.725 K"
+    ]
+  },
+  {
+    "id": "EXP02",
+    "papers": [
+      2
+    ],
+    "title_de": "Photoeffekt",
+    "title_en": "Photoelectric effect",
+    "goal_de": "Frequenz und Intensität auseinanderhalten: Frequenz bestimmt die Elektronenenergie, Intensität vor allem die Zahl emittierter Elektronen.",
+    "goal_en": "Separate frequency from intensity: frequency controls electron energy, while intensity mainly controls electron count.",
+    "controls": [
+      "frequency or wavelength",
+      "intensity",
+      "work function Φ",
+      "stopping voltage"
+    ],
+    "outputs": [
+      "emission threshold",
+      "K_max",
+      "electron current schematic",
+      "linear stopping-potential plot"
+    ],
+    "equations": [
+      "E_γ=hν",
+      "K_max=hν−Φ",
+      "eV_stop=K_max"
+    ],
+    "presets": [
+      "sodium",
+      "potassium",
+      "copper"
+    ]
+  },
+  {
+    "id": "EXP03",
+    "papers": [
+      3
+    ],
+    "title_de": "Bohr-Atom und Linienspektren",
+    "title_en": "Bohr atom and line spectra",
+    "goal_de": "Diskrete stationäre Zustände und Übergangsfrequenzen mit dem Wasserstoffspektrum verbinden.",
+    "goal_en": "Connect discrete stationary states and transition frequencies to the hydrogen spectrum.",
+    "controls": [
+      "initial n_i",
+      "final n_f",
+      "nuclear charge Z",
+      "series: Lyman/Balmer/Paschen"
+    ],
+    "outputs": [
+      "orbit-energy diagram",
+      "photon wavelength",
+      "visible spectral line",
+      "classical-orbit comparison"
+    ],
+    "equations": [
+      "E_n=−13.6 eV·Z²/n²",
+      "hν=E_i−E_f",
+      "1/λ=RZ²(1/n_f²−1/n_i²)"
+    ],
+    "presets": [
+      "Hα",
+      "Lyman-α",
+      "He⁺ transition"
+    ]
+  },
+  {
+    "id": "EXP04",
+    "papers": [
+      4,
+      19
+    ],
+    "title_de": "Einstein-Koeffizienten, spontane und stimulierte Emission",
+    "title_en": "Einstein coefficients, spontaneous and stimulated emission",
+    "goal_de": "Detailliertes Gleichgewicht und den Ursprung von Absorption, spontaner sowie stimulierter Emission nachvollziehen.",
+    "goal_en": "Trace detailed balance and the origin of absorption, spontaneous emission, and stimulated emission.",
+    "controls": [
+      "level spacing ΔE",
+      "temperature",
+      "radiation density ρ",
+      "A coefficient",
+      "B coefficient",
+      "population inversion"
+    ],
+    "outputs": [
+      "transition rates",
+      "level populations",
+      "gain/loss",
+      "time evolution"
+    ],
+    "equations": [
+      "ΔE=hν",
+      "R_abs=B₁₂ρN₁",
+      "R_em=A₂₁N₂+B₂₁ρN₂"
+    ],
+    "presets": [
+      "thermal equilibrium",
+      "weak field",
+      "laser-like inversion"
+    ]
+  },
+  {
+    "id": "EXP05",
+    "papers": [
+      5
+    ],
+    "title_de": "Compton-Streuung",
+    "title_en": "Compton scattering",
+    "goal_de": "Die Streuung als relativistischen Zweikörperstoß von Photon und Elektron verstehen.",
+    "goal_en": "Understand scattering as a relativistic two-body collision between a photon and an electron.",
+    "controls": [
+      "incident photon energy",
+      "scattering angle θ",
+      "target mass",
+      "electron binding approximation"
+    ],
+    "outputs": [
+      "wavelength shift",
+      "scattered photon energy",
+      "recoil-electron kinetic energy",
+      "momentum diagram"
+    ],
+    "equations": [
+      "Δλ=h/(mc)(1−cosθ)",
+      "E'γ=Eγ/[1+(Eγ/mc²)(1−cosθ)]"
+    ],
+    "presets": [
+      "17 keV X-ray",
+      "100 keV X-ray",
+      "511 keV gamma ray"
+    ]
+  },
+  {
+    "id": "EXP06",
+    "papers": [
+      6
+    ],
+    "title_de": "de-Broglie-Wellen und Elektronenbeugung",
+    "title_en": "de Broglie waves and electron diffraction",
+    "goal_de": "Materiewellenlänge, Beschleunigungsspannung und Beugungswinkel zusammenführen.",
+    "goal_en": "Connect matter wavelength, accelerating voltage, and diffraction angle.",
+    "controls": [
+      "particle mass",
+      "kinetic energy or voltage",
+      "lattice spacing d",
+      "diffraction order n"
+    ],
+    "outputs": [
+      "λ=h/p",
+      "Bragg angle",
+      "fringe spacing",
+      "classical-particle baseline"
+    ],
+    "equations": [
+      "λ=h/p",
+      "2d sinθ=nλ",
+      "λ_e≈h/√(2m_e eV)"
+    ],
+    "presets": [
+      "Davisson–Germer nickel",
+      "electron microscope",
+      "neutron diffraction"
+    ]
+  },
+  {
+    "id": "EXP07",
+    "papers": [
+      7,
+      8
+    ],
+    "title_de": "Bose-, Fermi- und Maxwell-Boltzmann-Statistik",
+    "title_en": "Bose, Fermi, and Maxwell–Boltzmann statistics",
+    "goal_de": "Ununterscheidbarkeit, Besetzungszahlen, Bose-Verstärkung und Pauli-Ausschluss vergleichen.",
+    "goal_en": "Compare indistinguishability, occupation numbers, Bose enhancement, and Pauli exclusion.",
+    "controls": [
+      "temperature",
+      "chemical potential",
+      "energy level",
+      "statistics: BE/FD/MB",
+      "degeneracy"
+    ],
+    "outputs": [
+      "occupation curve",
+      "state-counting table",
+      "low-temperature limit",
+      "shell filling"
+    ],
+    "equations": [
+      "n_BE=1/(e^{(ε−μ)/kT}−1)",
+      "n_FD=1/(e^{(ε−μ)/kT}+1)",
+      "n_MB=e^{−(ε−μ)/kT}"
+    ],
+    "presets": [
+      "photon gas",
+      "electron gas",
+      "dilute classical gas"
+    ]
+  },
+  {
+    "id": "EXP08",
+    "papers": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "title_de": "Matrizen, Operatoren und Kommutatoren",
+    "title_en": "Matrices, operators, and commutators",
+    "goal_de": "Aus beobachtbaren Übergängen die nichtkommutative Algebra der Quantenmechanik aufbauen.",
+    "goal_en": "Build the noncommutative algebra of quantum mechanics from observable transitions.",
+    "controls": [
+      "2×2 or 3×3 matrices",
+      "operator order",
+      "state vector",
+      "Hamiltonian parameters"
+    ],
+    "outputs": [
+      "AB versus BA",
+      "commutator",
+      "expectation values",
+      "time evolution"
+    ],
+    "equations": [
+      "[q,p]=iℏ",
+      "dA/dt=(i/ℏ)[H,A]+∂A/∂t",
+      "A_{mn}B_{nk} summed over n"
+    ],
+    "presets": [
+      "Pauli matrices",
+      "harmonic oscillator truncation",
+      "spin precession"
+    ]
+  },
+  {
+    "id": "EXP09",
+    "papers": [
+      13,
+      14,
+      15
+    ],
+    "title_de": "Schrödinger-Gleichung, Eigenwerte und Born-Regel",
+    "title_en": "Schrödinger equation, eigenvalues, and the Born rule",
+    "goal_de": "Wellenfunktion, Randbedingungen, diskrete Eigenwerte und Wahrscheinlichkeitsdichte verbinden.",
+    "goal_en": "Connect wave functions, boundary conditions, discrete eigenvalues, and probability density.",
+    "controls": [
+      "potential type",
+      "well width/depth",
+      "quantum number",
+      "wave-packet coefficients",
+      "time"
+    ],
+    "outputs": [
+      "ψ(x)",
+      "|ψ|²",
+      "energy spectrum",
+      "expectation values",
+      "probability conservation"
+    ],
+    "equations": [
+      "Hψ_n=E_nψ_n",
+      "iℏ∂_tψ=Hψ",
+      "P(x∈[a,b])=∫_a^b|ψ|²dx"
+    ],
+    "presets": [
+      "infinite well",
+      "finite well",
+      "harmonic oscillator",
+      "barrier tunneling"
+    ]
+  },
+  {
+    "id": "EXP10",
+    "papers": [
+      16,
+      20
+    ],
+    "title_de": "Unschärfe und komplementäre Messanordnungen",
+    "title_en": "Uncertainty and complementary arrangements",
+    "goal_de": "Statistische Zustandsbreite von bloßer Geräteungenauigkeit unterscheiden.",
+    "goal_en": "Distinguish intrinsic state spread from ordinary instrument imprecision.",
+    "controls": [
+      "wave-packet width Δx",
+      "central momentum",
+      "slit width",
+      "measurement resolution",
+      "Gaussian/non-Gaussian"
+    ],
+    "outputs": [
+      "position and momentum distributions",
+      "ΔxΔp",
+      "diffraction pattern",
+      "measurement back-action narrative"
+    ],
+    "equations": [
+      "ΔxΔp≥ℏ/2",
+      "ΔAΔB≥½|⟨[A,B]⟩|"
+    ],
+    "presets": [
+      "minimum Gaussian packet",
+      "single slit",
+      "gamma-ray microscope thought experiment"
+    ]
+  },
+  {
+    "id": "EXP11",
+    "papers": [
+      17,
+      18
+    ],
+    "title_de": "Born-Oppenheimer-Näherung und kovalente Bindung",
+    "title_en": "Born–Oppenheimer approximation and covalent bonding",
+    "goal_de": "Massentrennung, elektronische Potentialkurve und Austauschenergie als Grundlage chemischer Bindung zeigen.",
+    "goal_en": "Show mass separation, electronic potential curves, and exchange energy as foundations of chemical bonding.",
+    "controls": [
+      "internuclear distance R",
+      "nuclear mass",
+      "orbital overlap",
+      "symmetric/antisymmetric state",
+      "basis quality"
+    ],
+    "outputs": [
+      "potential-energy curves",
+      "equilibrium bond length",
+      "vibrational levels",
+      "bonding/antibonding density"
+    ],
+    "equations": [
+      "Ψ≈χ(R)ψ_e(r;R)",
+      "H_e(R)ψ_e=E_e(R)ψ_e",
+      "E_±=(H_AA±H_AB)/(1±S)"
+    ],
+    "presets": [
+      "H₂⁺",
+      "H₂ conceptual",
+      "isotope mass comparison"
+    ]
+  },
+  {
+    "id": "EXP12",
+    "papers": [
+      19
+    ],
+    "title_de": "Quantisiertes Strahlungsfeld",
+    "title_en": "Quantized radiation field",
+    "goal_de": "Feldmoden als harmonische Oszillatoren und Emission/Absorption über Erzeugungs- und Vernichtungsoperatoren verstehen.",
+    "goal_en": "Understand field modes as harmonic oscillators and emission/absorption through creation and annihilation operators.",
+    "controls": [
+      "photon number n",
+      "coupling strength",
+      "detuning",
+      "interaction time",
+      "mode frequency"
+    ],
+    "outputs": [
+      "transition amplitudes",
+      "√n and √(n+1) factors",
+      "occupation probabilities",
+      "energy exchange"
+    ],
+    "equations": [
+      "H=H_matter+H_field+H_int",
+      "a|n⟩=√n|n−1⟩",
+      "a†|n⟩=√(n+1)|n+1⟩"
+    ],
+    "presets": [
+      "vacuum spontaneous emission",
+      "stimulated emission",
+      "single-mode cavity"
+    ]
+  },
+  {
+    "id": "EXP13",
+    "papers": [
+      21
+    ],
+    "title_de": "Dirac-Elektron",
+    "title_en": "The Dirac electron",
+    "goal_de": "Relativistische Energie, Spinorstruktur und negative Energiezweige der Dirac-Gleichung erkunden.",
+    "goal_en": "Explore relativistic energy, spinor structure, and negative-energy branches of the Dirac equation.",
+    "controls": [
+      "momentum components",
+      "mass",
+      "spin orientation",
+      "potential step"
+    ],
+    "outputs": [
+      "E(p) branches",
+      "spinor components",
+      "velocity expectation",
+      "Klein-paradox regime"
+    ],
+    "equations": [
+      "(iℏγ^μ∂_μ−mc)ψ=0",
+      "E²=p²c²+m²c⁴",
+      "{α_i,α_j}=2δ_ij"
+    ],
+    "presets": [
+      "electron at rest",
+      "ultrarelativistic electron",
+      "potential step"
+    ]
+  },
+  {
+    "id": "EXP14",
+    "papers": [
+      22,
+      23,
+      26
+    ],
+    "title_de": "EPR, Messproblem, Schrödinger-Katze und relative Zustände",
+    "title_en": "EPR, measurement, Schrödinger's cat, and relative states",
+    "goal_de": "Verschränkung, bedingte Zustände, reduzierte Dichtematrizen und konkurrierende Messbeschreibungen sauber trennen.",
+    "goal_en": "Separate entanglement, conditional states, reduced density matrices, and competing accounts of measurement.",
+    "controls": [
+      "entanglement strength",
+      "measurement basis",
+      "decoherence parameter",
+      "collapse/unitary interpretation",
+      "observer branch"
+    ],
+    "outputs": [
+      "joint probabilities",
+      "conditional state",
+      "reduced density matrix",
+      "coherence terms",
+      "interpretation comparison"
+    ],
+    "equations": [
+      "|Ψ⟩=Σ_i c_i|s_i⟩|A_i⟩",
+      "ρ_S=Tr_A|Ψ⟩⟨Ψ|",
+      "P_i=|c_i|²"
+    ],
+    "presets": [
+      "EPR pair",
+      "cat plus detector",
+      "Everett relative state"
+    ]
+  },
+  {
+    "id": "EXP15",
+    "papers": [
+      25
+    ],
+    "title_de": "Bohmsche Trajektorien",
+    "title_en": "Bohmian trajectories",
+    "goal_de": "Zeigen, wie dieselbe Schrödinger-Wellenfunktion deterministische, aber nichtlokale und kontextuelle Teilchenbahnen führen kann.",
+    "goal_en": "Show how the same Schrödinger wave function can guide deterministic but nonlocal and contextual particle trajectories.",
+    "controls": [
+      "initial position",
+      "wave-packet separation",
+      "slit geometry",
+      "phase difference",
+      "time step"
+    ],
+    "outputs": [
+      "ψ field",
+      "quantum potential",
+      "trajectory ensemble",
+      "Born-distribution comparison"
+    ],
+    "equations": [
+      "ψ=Re^{iS/ℏ}",
+      "Q=−ℏ²/(2m)·∇²R/R",
+      "v=∇S/m"
+    ],
+    "presets": [
+      "double slit",
+      "Gaussian packet",
+      "two-particle entanglement schematic"
+    ]
+  },
+  {
+    "id": "EXP16",
+    "papers": [
+      27,
+      29,
+      30
+    ],
+    "title_de": "Bell-, CHSH- und Aspect-Test",
+    "title_en": "Bell, CHSH, and Aspect tests",
+    "goal_de": "Aus Lokalität und vorgegebenen Resultaten eine Schranke ableiten und mit Quantenkorrelationen sowie simulierten Zählraten vergleichen.",
+    "goal_en": "Derive a bound from locality and predetermined outcomes, then compare it with quantum correlations and simulated counts.",
+    "controls": [
+      "four analyzer angles a,a′,b,b′",
+      "visibility",
+      "pair count",
+      "detector efficiency",
+      "background",
+      "setting-switch interval",
+      "random seed"
+    ],
+    "outputs": [
+      "correlations E(a,b)",
+      "S value with uncertainty",
+      "local bound",
+      "quantum prediction",
+      "count table"
+    ],
+    "equations": [
+      "S=E(a,b)−E(a,b′)+E(a′,b)+E(a′,b′)",
+      "|S|≤2",
+      "|S|_QM≤2√2"
+    ],
+    "presets": [
+      "optimal CHSH angles",
+      "Aspect-like visibility",
+      "local hidden-variable toy model"
+    ]
+  },
+  {
+    "id": "EXP17",
+    "papers": [
+      28
+    ],
+    "title_de": "Kochen-Specker-Kontextualität",
+    "title_en": "Kochen–Specker contextuality",
+    "goal_de": "Verstehen, warum Projektoren in Dimension mindestens drei keine global konsistente, nichtkontextuelle 0/1-Belegung besitzen.",
+    "goal_en": "Understand why projectors in dimension at least three admit no globally consistent noncontextual 0/1 assignment.",
+    "controls": [
+      "vector set",
+      "measurement context",
+      "attempted value assignment",
+      "solver step",
+      "show contradiction"
+    ],
+    "outputs": [
+      "orthogonality graph",
+      "current assignments",
+      "violated constraint",
+      "minimal contradiction path"
+    ],
+    "equations": [
+      "v(P)∈{0,1}",
+      "Σ_i v(P_i)=1 for an orthogonal basis",
+      "v(f(A))=f(v(A))"
+    ],
+    "presets": [
+      "small pedagogical contextuality set",
+      "Kochen–Specker 117-vector reference",
+      "Peres-style reduced set as later extension"
+    ]
+  },
+  {
+    "id": "EXP18",
+    "papers": [
+      31,
+      32
+    ],
+    "title_de": "Quantensimulation, Quantenregister und Shor-Algorithmus",
+    "title_en": "Quantum simulation, quantum registers, and Shor's algorithm",
+    "goal_de": "Exponentiellen Zustandsraum, unitäre Gatter, Interferenz, Periodensuche und Faktorisierung als zusammenhängende Entwicklung zeigen.",
+    "goal_en": "Show exponential state space, unitary gates, interference, period finding, and factoring as one connected development.",
+    "controls": [
+      "qubit number n",
+      "Hamiltonian/circuit",
+      "integer N",
+      "coprime base a",
+      "shots",
+      "noise"
+    ],
+    "outputs": [
+      "state amplitudes",
+      "measurement histogram",
+      "QFT peaks",
+      "candidate period r",
+      "gcd factors",
+      "classical cost comparison"
+    ],
+    "equations": [
+      "|ψ⟩=Σ_{x=0}^{2^n−1}α_x|x⟩",
+      "QFT_N|x⟩=1/√N Σ_y e^{2πixy/N}|y⟩",
+      "gcd(a^{r/2}±1,N)"
+    ],
+    "presets": [
+      "two-qubit interference",
+      "N=15",
+      "N=21",
+      "small spin-chain simulation"
+    ]
+  }
+]

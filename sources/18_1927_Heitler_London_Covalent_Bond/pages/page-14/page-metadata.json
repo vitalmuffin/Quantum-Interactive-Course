@@ -1,0 +1,119 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 99,
+      "topLeftY": 95,
+      "bottomRightX": 128,
+      "bottomRightY": 110,
+      "content": "468",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 95,
+      "bottomRightX": 413,
+      "bottomRightY": 110,
+      "content": "W. Heitler und F. London,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 131,
+      "bottomRightX": 576,
+      "bottomRightY": 230,
+      "content": "sich befinden, das aber ist ausgeschlossen. Wohl aber wäre es durchaus möglich, mit angeregten He-Atomen eine existenzfähige Schale zu bilden, bei diesen wären mehrere gegenseitige Verhaltensweisen je nach dem vorliegenden Drall durchaus gegeben, und in diesem Sinne wird man das Vorhandensein sehr unstabiler He₂-Moleküle u. a. zu verstehen haben.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 231,
+      "bottomRightX": 576,
+      "bottomRightY": 310,
+      "content": "4. Die Überlegungen des vorigen Abschnittes werden unvollkommen erscheinen, solange nicht gezeigt ist, daß die Anziehungskräfte, welche zur homöopolaren Molekülbildung führen, erlöschen, sobald die vorhandene chemische Valenz abgesättigt ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 312,
+      "bottomRightX": 576,
+      "bottomRightY": 512,
+      "content": "Man überlegt sich leicht, daß zwischen zwei Systemen, die sich hinsichtlich ihres Elektronendralls nur in einer einzigen Weise relativ zueinander einstellen können (wie wir z. B. bei He sahen), nur eine Eigenschwingung vom Typ β bestehen kann, welche einen Knoten hat, und man wird demzufolge wie bei He hier stets Abstoßung erwarten. Dieser Fall tritt ersichtlich immer dann bereits ein, wenn wenigstens eines der Systeme eine abgeschlossene Schalenkonfiguration hat, also z. B. bei H₂ + H, He + H, H₂ + H₃ usw. Die Unmöglichkeit, H₃⁻, H₄⁻, HeH-Moleküle aus den unangeregten Atomen zu bilden, geht im übrigen bereits aus der Platzbeschränkung in der K-Schale hervor.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 518,
+      "bottomRightX": 576,
+      "bottomRightY": 597,
+      "content": "§ 5. Wasserstoff und Ionenbildung. Unsere Überlegungen im ersten Paragraphen können insofern nicht vollständig sein, als der Möglichkeit der Ionenbildung nicht Rechnung getragen wurde. Wir hatten dort in unseren Ansätzen den Ausgang genommen von den Funktionen (3):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 277,
+      "topLeftY": 609,
+      "bottomRightX": 395,
+      "bottomRightY": 627,
+      "content": "$$\\psi_1 \\varphi_2 \\text{ bzw. } \\psi_2 \\varphi_1,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 636,
+      "bottomRightX": 576,
+      "bottomRightY": 674,
+      "content": "welche für jeden Kern je ein Elektron vorsehen, — entsprechend unserer Fragestellung nach der Wechselwirkung neutraler Atome.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 676,
+      "bottomRightX": 576,
+      "bottomRightY": 735,
+      "content": "Wenn wir uns jetzt für die Wechselwirkung zweier H-Ionen (H⁺ und H⁻) interessieren, werden wir die Konfigurationen zweier Elektronen am gleichen Kern:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 727,
+      "bottomRightX": 576,
+      "bottomRightY": 747,
+      "content": "$$\\psi_1 \\psi_2 \\text{ bzw. } \\varphi_1 \\varphi_2, \\quad (21)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 755,
+      "bottomRightX": 576,
+      "bottomRightY": 851,
+      "content": "zu berücksichtigen haben, die wir bisher nicht beachteten. — Man könnte meinen, daß diese Vernachlässigung zu Unrecht geschah, da die Eigenfunktionen (21) zum gleichen Eigenwert gehören, wie die von uns bisher allein benutzten (3), daß wir also von einer vierfachen Entartung auszugehen hätten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 854,
+      "bottomRightX": 576,
+      "bottomRightY": 912,
+      "content": "Das ist indes nicht richtig: Auch für weit getrennte Ionen sind die sehr beträchtlichen Störungen der beiden Elektronen untereinander von vornherein mit zu berücksichtigen, wenn beide Elektronen am gleichen",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

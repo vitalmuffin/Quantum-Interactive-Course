@@ -1,0 +1,200 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 165,
+      "bottomRightX": 605,
+      "bottomRightY": 200,
+      "content": "number of the corresponding precession be $m$. The motion is then represented by the quantities",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 260,
+      "topLeftY": 214,
+      "bottomRightX": 604,
+      "bottomRightY": 230,
+      "content": "$$z : a(n, n - 1; m, m) \\cos \\omega(n, n - 1)t; \\tag{69}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 232,
+      "bottomRightX": 603,
+      "bottomRightY": 251,
+      "content": "$$x + iz : b(n, n - 1; m, m - 1)e^{i[\\omega(n, n - 1) + \\phi]t}; \\tag{70}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 253,
+      "bottomRightX": 603,
+      "bottomRightY": 272,
+      "content": "$$b(n, n - 1; m - 1, m)e^{i[-\\omega(n, n - 1) + \\phi]t} \\quad . \\tag{71}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 579,
+      "topLeftY": 277,
+      "bottomRightX": 603,
+      "bottomRightY": 292,
+      "content": "(72)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 307,
+      "bottomRightX": 360,
+      "bottomRightY": 323,
+      "content": "The equations of motion are simply:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 306,
+      "topLeftY": 336,
+      "bottomRightX": 604,
+      "bottomRightY": 354,
+      "content": "$$x^2 + y^2 + z^2 = a^2 \\quad , \\tag{73}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 365,
+      "bottomRightX": 455,
+      "bottomRightY": 384,
+      "content": "and because of Eq. 20 this leads to the equations: $^5$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 394,
+      "bottomRightX": 650,
+      "bottomRightY": 426,
+      "content": "$$\\frac{1}{2} \\left\\{ \\frac{1}{2} a^2(n, n - 1; m, m) + b^2(n, n - 1; m, m - 1) + b^2(n, n - 1; m, m + 1) \\right. \\tag{74}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 429,
+      "bottomRightX": 650,
+      "bottomRightY": 462,
+      "content": "$$\\left. + \\frac{1}{2} a^2(n + 1, n; m, m) + b^2(n + 1, n; m - 1, m) + b^2(n + 1, n; m + 1, m) \\right\\} = a^2 \\quad . \\tag{75}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 268,
+      "topLeftY": 486,
+      "bottomRightX": 604,
+      "bottomRightY": 517,
+      "content": "$$\\frac{1}{2} a(n, n - 1; m, m)a(n - 1, n - 2; m, m) \\tag{76}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 217,
+      "topLeftY": 520,
+      "bottomRightX": 603,
+      "bottomRightY": 536,
+      "content": "$$= b(n, n - 1; m, m + 1)b(n - 1, n - 2; m + 1, m) \\tag{77}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 540,
+      "bottomRightX": 603,
+      "bottomRightY": 557,
+      "content": "$$+ b(n, n - 1; m, m - 1)b(n - 1, n - 2; m - 1, m) \\quad . \\tag{78}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 570,
+      "bottomRightX": 497,
+      "bottomRightY": 587,
+      "content": "Concerning this, from Eq. 34 comes the quantum relation:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 597,
+      "bottomRightX": 604,
+      "bottomRightY": 621,
+      "content": "$$2\\pi m \\left\\{ b^2(n, n - 1; m, m - 1)\\omega(n, n - 1) \\right. \\tag{79}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 625,
+      "bottomRightX": 604,
+      "bottomRightY": 648,
+      "content": "$$\\left. - b^2(n, n - 1; m - 1, m)\\omega(n, n - 1) \\right\\} = (m + \\text{const})h \\quad . \\tag{80}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 656,
+      "bottomRightX": 483,
+      "bottomRightY": 674,
+      "content": "The classical relations corresponding to these equations:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 262,
+      "topLeftY": 685,
+      "bottomRightX": 604,
+      "bottomRightY": 740,
+      "content": "$$\\left. \\begin{array}{l} \\frac{1}{2} a_0^2 + b_1^2 + b_{-1}^2 = a^2; \\\\ \\frac{1}{4} a_0^2 = b_1 b_{-1}; \\\\ 2\\pi m(b_{+1}^2 - b_{-1}^2)\\omega = (m + \\text{const})h \\end{array} \\right\\} \\tag{81}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 751,
+      "bottomRightX": 605,
+      "bottomRightY": 786,
+      "content": "are sufficient (up to the undetermined constant added to m) for uniquely determine $a_0, b_1$ and $b_{-1}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 795,
+      "bottomRightX": 491,
+      "bottomRightY": 811,
+      "content": "$^5$Eq. 75 is essentially identical to the Ornstein-Burger sum rules.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 844,
+      "content": "15",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

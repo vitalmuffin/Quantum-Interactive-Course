@@ -1,0 +1,191 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 106,
+      "topLeftY": 105,
+      "bottomRightX": 134,
+      "bottomRightY": 122,
+      "content": "180",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 327,
+      "topLeftY": 105,
+      "bottomRightX": 359,
+      "bottomRightY": 120,
+      "content": "Bose,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 142,
+      "bottomRightX": 583,
+      "bottomRightY": 257,
+      "content": "Indessen muß die Gesamtzahl der Zellen als die Zahl der möglichen Anordnungen eines Quants in dem gegebenen Volumen angesehen werden. Um der Tatsache der Polarisation Rechnung zu tragen, erscheint es dagegen geboten, diese Zahl noch mit 2 zu multiplizieren, so daß wir für die Zahl der zu $d\\pmb{v}$ gehörigen Zellen $8\\pi V \\frac{\\pmb{v}^2 d\\pmb{v}}{c^3}$ erhalten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 262,
+      "bottomRightX": 583,
+      "bottomRightY": 400,
+      "content": "Nun ist es einfach, die thermodynamische Wahrscheinlichkeit eines (makroskopisch definierten) Zustandes zu berechnen. Es sei $N^s$ die Zahl der zum Frequenzbereich $d\\pmb{v}^s$ gehörigen Quanten. Auf wie viele Arten können diese auf die zu $d\\pmb{v}^s$ gehörigen Zellen verteilt werden? Sei $p_0^s$ die Zahl der vakanten Zellen, $p_1^s$ die Zahl derer, die ein Quant enthalten, $p_2^s$ die Zahl der Zellen, die zwei Quanten enthalten usf. Die Zahl der möglichen Verteilungen ist dann",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 205,
+      "topLeftY": 400,
+      "bottomRightX": 473,
+      "bottomRightY": 445,
+      "content": "$$\\frac{A^s!}{p_0^s! p_1^s! \\dots}, \\text{ wobei } A^s = \\frac{8\\pi\\pmb{v}^2}{c^3} d\\pmb{v}^s,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 449,
+      "bottomRightX": 174,
+      "bottomRightY": 465,
+      "content": "und wobei",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 465,
+      "bottomRightX": 446,
+      "bottomRightY": 485,
+      "content": "$$N^s = 0 \\cdot p_0^s + 1 \\cdot p_1^s + 2 p_2^s \\dots$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 489,
+      "bottomRightX": 390,
+      "bottomRightY": 507,
+      "content": "die Zahl der zu $d\\pmb{v}^s$ gehörigen Quanten ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 510,
+      "bottomRightX": 581,
+      "bottomRightY": 546,
+      "content": "Die Wahrscheinlichkeit des durch sämtliche $p_r^s$ definierten Zustandes ist offenbar",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 281,
+      "topLeftY": 540,
+      "bottomRightX": 390,
+      "bottomRightY": 580,
+      "content": "$$\\prod_s \\frac{A^s!}{p_0^s! p_1^s! \\dots}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 588,
+      "bottomRightX": 580,
+      "bottomRightY": 626,
+      "content": "Mit Rücksicht darauf, daß wir die $p_r^s$ als große Zahlen betrachten können, haben wir",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 626,
+      "bottomRightX": 467,
+      "bottomRightY": 657,
+      "content": "$$\\lg W = \\sum_s A^s \\lg A^s - \\sum_s \\sum_r p_r^s \\lg p_r^s,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 657,
+      "bottomRightX": 143,
+      "bottomRightY": 672,
+      "content": "wobei",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 295,
+      "topLeftY": 673,
+      "bottomRightX": 385,
+      "bottomRightY": 703,
+      "content": "$$A^s = \\sum_r p_r^s.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 709,
+      "bottomRightX": 546,
+      "bottomRightY": 727,
+      "content": "Dieser Ausdruck soll ein Maximum sein unter der Nebenbedingung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 217,
+      "topLeftY": 734,
+      "bottomRightX": 448,
+      "bottomRightY": 764,
+      "content": "$$E = \\sum_s N^s h \\pmb{v}^s; \\quad N^s = \\sum_r r p_r^s.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 769,
+      "bottomRightX": 475,
+      "bottomRightY": 788,
+      "content": "Die Durchführung der Variation liefert die Bedingungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 162,
+      "topLeftY": 793,
+      "bottomRightX": 519,
+      "bottomRightY": 859,
+      "content": "$$\\begin{aligned} \\sum_s \\sum_r \\delta p_r^s (1 + \\lg p_r^s) &= 0, & \\sum_s \\delta N^s h \\pmb{v}^s &= 0 \\\\ \\sum_r \\delta p_r^s &= 0 & \\delta N^s &= \\sum_r r \\delta p_r^s. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 861,
+      "bottomRightX": 190,
+      "bottomRightY": 879,
+      "content": "Hieraus folgt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 155,
+      "topLeftY": 883,
+      "bottomRightX": 522,
+      "bottomRightY": 920,
+      "content": "$$\\sum_s \\sum_r \\delta p_r^s (1 + \\lg p_r^s + \\lambda^s) + \\frac{1}{\\beta} \\sum_s h \\pmb{v}^s \\sum_r r \\delta p_r^s = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

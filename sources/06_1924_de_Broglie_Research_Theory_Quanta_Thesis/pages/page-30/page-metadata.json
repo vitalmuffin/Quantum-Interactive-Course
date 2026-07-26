@@ -1,0 +1,173 @@
+{
+  "index": 29,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 59,
+      "topLeftY": 27,
+      "bottomRightX": 84,
+      "bottomRightY": 47,
+      "content": "50",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 28,
+      "bottomRightX": 401,
+      "bottomRightY": 46,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 69,
+      "bottomRightX": 586,
+      "bottomRightY": 95,
+      "content": "naturellement la fonction à intégrer doit être invariante.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 99,
+      "bottomRightX": 131,
+      "bottomRightY": 120,
+      "content": "Soit :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 130,
+      "bottomRightX": 526,
+      "bottomRightY": 174,
+      "content": "$$\\int_{\\mathrm{P}}^{\\mathrm{Q}} (-m_0 c - e \\varphi_i u^i) ds = \\int_{\\mathrm{P}}^{\\mathrm{Q}} (-m_0 c u_i - e \\varphi_i) u^i ds$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 188,
+      "bottomRightX": 589,
+      "bottomRightY": 293,
+      "content": "cette intégrale. Le principe de Hamilton affirme que si la ligne d'Univers d'un mobile passe par P et Q, elle a une forme telle que l'intégrale ci-dessus définie ait une valeur stationnaire.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 294,
+      "bottomRightX": 587,
+      "bottomRightY": 319,
+      "content": "Définissons un troisième vecteur d'Univers par la relation :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 333,
+      "bottomRightX": 498,
+      "bottomRightY": 359,
+      "content": "$$J_i = m_0 c u_i + e \\varphi_i \\quad (i = 1, 2, 3, 4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 374,
+      "bottomRightX": 376,
+      "bottomRightY": 397,
+      "content": "l'énoncé de moindre action devient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 410,
+      "bottomRightX": 559,
+      "bottomRightY": 454,
+      "content": "$$\\delta \\int_{\\mathrm{P}}^{\\mathrm{Q}} (J_1 dx^1 + J_2 dx^2 + J_3 dx^3 + J_4 dx^4) = \\delta \\int_{\\mathrm{P}}^{\\mathrm{Q}} J_i dx^i = 0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 468,
+      "bottomRightX": 587,
+      "bottomRightY": 517,
+      "content": "Nous donnerons un peu plus loin un sens physique au vecteur d'univers J.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 519,
+      "bottomRightX": 589,
+      "bottomRightY": 605,
+      "content": "Pour l'instant, revenons à la forme usuelle des équations dynamiques en remplaçant dans la première forme de l'intégrale d'action $ds$ par $cdt \\sqrt{1 - \\beta^2}$. Nous obtenons ainsi :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 620,
+      "bottomRightX": 559,
+      "bottomRightY": 662,
+      "content": "$$\\delta \\int_{t_1}^{t_2} [-m_0 c^2 \\sqrt{1 - \\beta^2} - e c \\varphi_4 - e(\\varphi_1 v_x + \\varphi_2 v_y + \\varphi_3 v_z)] dt = 0$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 663,
+      "bottomRightX": 564,
+      "bottomRightY": 688,
+      "content": "$t_1$ et $t_2$ correspondant aux points P et Q de l'espace temps.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 58,
+      "topLeftY": 689,
+      "bottomRightX": 587,
+      "bottomRightY": 766,
+      "content": "S'il existe un champ purement électrostatique, les quantités $\\varphi_1 \\varphi_2 \\varphi_3$ sont nulles et la fonction de Lagrange prend la forme souvent utilisée :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 216,
+      "topLeftY": 774,
+      "bottomRightX": 430,
+      "bottomRightY": 802,
+      "content": "$$\\mathcal{L} = -m_0 c^2 \\sqrt{1 - \\beta^2} - e \\Psi.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 813,
+      "bottomRightX": 589,
+      "bottomRightY": 912,
+      "content": "Dans tous les cas, le principe de Hamilton ayant toujours la forme $\\delta \\int_{t_1}^{t_2} \\mathcal{L} dt = 0$, on est toujours conduit aux équations de Lagrange :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 197,
+      "topLeftY": 920,
+      "bottomRightX": 446,
+      "bottomRightY": 977,
+      "content": "$$\\frac{d}{dt} \\left( \\frac{\\partial \\mathcal{L}}{\\partial \\dot{q}_i} \\right) = \\frac{\\partial \\mathcal{L}}{\\partial \\dot{q}_i} (i = 1, 2, 3).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "index": 54,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 265,
+      "topLeftY": 101,
+      "bottomRightX": 419,
+      "bottomRightY": 117,
+      "content": "Zur Quantenmechanik. II.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 551,
+      "topLeftY": 101,
+      "bottomRightX": 580,
+      "bottomRightY": 117,
+      "content": "611",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 138,
+      "bottomRightX": 581,
+      "bottomRightY": 176,
+      "content": "raumstrahlung, daß man auf ein Versagen dieser Theorie schon beim einfachen Problem des harmonischen Oszillators schließen muß.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 179,
+      "bottomRightX": 582,
+      "bottomRightY": 318,
+      "content": "Wir wollen nun das Schwankungsquadrat $\\overline{\\Delta}^2$ aus den Interferenzen gemäß der Quantenmechanik berechnen. Zur Vermeidung rechnerischer Komplikationen, die das Wesen der Sache nicht berühren, beziehen wir uns auf den denkbar einfachsten Fall, nämlich eine eingespannte schwingende Saite. Es können übrigens alle wesentlichen Punkte der Rechnung ohne weiteres auf allgemeinere Fälle übertragen werden. Zunächst werde die klassische Behandlungsweise erläutert.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 321,
+      "bottomRightX": 582,
+      "bottomRightY": 360,
+      "content": "Die Länge der Saite sei $l$ und $u(x, t)$ die seitliche Auslenkung. Bei Einführung der durch",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 360,
+      "bottomRightX": 581,
+      "bottomRightY": 401,
+      "content": "$$u(x, t) = \\sum_{k=1}^{\\infty} q_k(t) \\sin k \\frac{\\pi}{l} x, \\quad (41)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 401,
+      "bottomRightX": 135,
+      "bottomRightY": 416,
+      "content": "oder",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 408,
+      "bottomRightX": 581,
+      "bottomRightY": 471,
+      "content": "$$q_k(t) = \\frac{2}{l} \\int_0^l u(x, t) \\sin k \\frac{\\pi}{l} x \\cdot dx \\quad (41')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 476,
+      "bottomRightX": 582,
+      "bottomRightY": 533,
+      "content": "gegebenen Fourierkoeffizienten $q_k(t)$ als Koordinaten geht die Energie der Saite in eine Quadratsumme über. Es wird nämlich bei geeigneter Wahl der Einheiten",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 121,
+      "topLeftY": 537,
+      "bottomRightX": 586,
+      "bottomRightY": 595,
+      "content": "$$H = \\frac{1}{2} \\int_0^l \\left\\{ u^2 + \\left( \\frac{\\partial u}{\\partial x} \\right)^2 \\right\\} dx = \\frac{l}{4} \\sum_{k=1}^{\\infty} \\left\\{ \\dot{q}_k(t)^2 + \\left( k \\frac{\\pi}{l} \\right)^2 q_k(t)^2 \\right\\}. \\quad (42)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 603,
+      "bottomRightX": 582,
+      "bottomRightY": 641,
+      "content": "Für die Energie $E$ auf einem Abschnitt $(0, a)$ der Saite erhalten wir allgemeiner",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 631,
+      "bottomRightX": 582,
+      "bottomRightY": 723,
+      "content": "$$E = \\frac{1}{2} \\int_0^a \\sum_{j,k=1}^{\\infty} \\left\\{ \\dot{q}_j \\dot{q}_k \\sin j \\frac{\\pi}{l} x \\sin k \\frac{\\pi}{l} x + q_j q_k j k \\left( \\frac{\\pi}{l} \\right)^2 \\cos j \\frac{\\pi}{l} \\cos k \\frac{\\pi}{l} x \\right\\} dx. \\quad (43)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 737,
+      "bottomRightX": 582,
+      "bottomRightY": 831,
+      "content": "Nehmen wir in (43), Kap. 4, nur die Glieder mit $j = k$, so erhalten wir unter der ausdrücklichen Voraussetzung, daß alle in Betracht kommenden Wellenlängen klein gegen $a$ seien, gerade den Wert $\\frac{a}{l} H$. Man sieht daraus: Die Differenz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 829,
+      "bottomRightX": 390,
+      "bottomRightY": 848,
+      "content": "$$\\Delta = E - \\bar{E},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 857,
+      "bottomRightX": 494,
+      "bottomRightY": 876,
+      "content": "worin der Querstrich die Mitteilung über die Phasen $\\varphi_k$ in",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 220,
+      "topLeftY": 884,
+      "bottomRightX": 582,
+      "bottomRightY": 915,
+      "content": "$$q_k = a_k \\cos(\\omega_k t + \\varphi_k); \\quad \\omega_k = k \\frac{\\pi}{l} \\quad (44)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

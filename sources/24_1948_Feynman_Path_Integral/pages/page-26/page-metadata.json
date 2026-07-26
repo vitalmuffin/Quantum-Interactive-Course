@@ -1,0 +1,119 @@
+{
+  "index": 25,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 159,
+      "bottomRightX": 587,
+      "bottomRightY": 208,
+      "content": "If $F$ does not depend on the variable $x_k$, this gives Newton's equations of motion. For example, if $F$ is constant, say unity, (48) just gives (dividing by $\\epsilon$)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 206,
+      "bottomRightX": 502,
+      "bottomRightY": 239,
+      "content": "$$0 \\leftrightarrow_S -\\frac{m}{\\epsilon} \\left( \\frac{x_{k+1} - x_k}{\\epsilon} - \\frac{x_k - x_{k-1}}{\\epsilon} \\right) - V'(x_k).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 246,
+      "bottomRightX": 587,
+      "bottomRightY": 311,
+      "content": "Thus, the transition element of mass times acceleration $[(x_{k+1} - x_k)/\\epsilon - (x_k - x_{k-1})/\\epsilon]/\\epsilon$ between any two states is equal to the transition element of force $-V'(x_k)$ between the same states. This is the matrix expression of Newton's law which holds in quantum mechanics.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 311,
+      "bottomRightX": 587,
+      "bottomRightY": 344,
+      "content": "What happens if $F$ does depend upon $x_k$? For example, let $F = x_k$. Then (48) gives, since $\\partial F/\\partial x_k = 1$,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 209,
+      "topLeftY": 355,
+      "bottomRightX": 522,
+      "bottomRightY": 389,
+      "content": "$$-\\frac{\\hbar}{i} \\leftrightarrow_S x_k \\left[ -m \\left( \\frac{x_{k+1} - x_k}{\\epsilon} - \\frac{x_k - x_{k-1}}{\\epsilon} \\right) - \\epsilon V'(x_k) \\right]$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 401,
+      "bottomRightX": 329,
+      "bottomRightY": 417,
+      "content": "or, neglecting terms of order $\\epsilon$,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 427,
+      "bottomRightX": 587,
+      "bottomRightY": 461,
+      "content": "$$m \\left( \\frac{x_{k+1} - x_k}{\\epsilon} \\right) x_k - m \\left( \\frac{x_k - x_{k-1}}{\\epsilon} \\right) x_k \\leftrightarrow_S \\frac{\\hbar}{i}. \\quad (49)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 474,
+      "bottomRightX": 587,
+      "bottomRightY": 538,
+      "content": "In order to transfer an equation such as (49) into conventional notation, we shall have to discover what matrix corresponds to a quantity such as $x_k x_{k+1}$. It is clear from a study of (39) that if $F$ is set equal to, say, $f(x_k)g(x_{k+1})$, the corresponding operator in (40) is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 548,
+      "bottomRightX": 501,
+      "bottomRightY": 567,
+      "content": "$$e^{-(i/\\hbar)(t'' - t - \\epsilon)\\mathbf{H}} g(\\mathbf{x}) e^{-(i/\\hbar)\\epsilon\\mathbf{H}} f(\\mathbf{x}) e^{-(i/\\hbar)(t - t')\\mathbf{H}},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 581,
+      "bottomRightX": 587,
+      "bottomRightY": 761,
+      "content": "the matrix element being taken between the states $\\chi_{t''}$ and $\\psi_{t'}$. The operators corresponding to functions of $x_{k+1}$ will appear to the left of the operators corresponding to functions of $x_k$, i.e., *the order of terms in a matrix operator product corresponds to an order in time of the corresponding factors in a functional*. Thus, if the functional can and is written in such a way that in each term factors corresponding to later times appear to the left of factors corresponding to earlier terms, the corresponding operator can immediately be written down if the order of the operators is kept the same as in the functional. $^{19}$ Obviously, the order of factors in a functional is of no consequence. The ordering just facilitates translation into conventional operator notation. To write Eq. (49) in the way desired for easy translation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 769,
+      "bottomRightX": 587,
+      "bottomRightY": 798,
+      "content": "$^{19}$Dirac has also studied operators containing quantities referring to different times. See reference 2.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 356,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 846,
+      "content": "26",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

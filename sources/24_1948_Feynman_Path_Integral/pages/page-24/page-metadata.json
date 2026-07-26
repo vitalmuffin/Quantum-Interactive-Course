@@ -1,0 +1,146 @@
+{
+  "index": 23,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 148,
+      "topLeftY": 157,
+      "bottomRightX": 586,
+      "bottomRightY": 303,
+      "content": "Thus, transition elements such as (39) are important insofar as $F$ may arise in some way from a change $\\delta S$ in an action expression. We denote, by observable functionals, those functionals $F$ which can be defined, (possibly indirectly) in terms of the changes which are produced by possible changes in the action $S$. The condition that a functional be observable is somewhat similar to the condition that an operator be Hermitian. The observable functionals are a restricted class because the action must remain a quadratic function of velocities. From one observable functional others may be derived, for example, by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 310,
+      "bottomRightX": 585,
+      "bottomRightY": 352,
+      "content": "$$\\langle \\chi_{t''} | F | \\psi_{t'} \\rangle_{S'} = \\left\\langle \\chi_{t''} \\left| F \\exp \\frac{i\\epsilon}{\\hbar} \\sum_{i=1}^j U(x_i, t_i) \\right| \\psi_{t'} \\right\\rangle_S \\quad (42)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 358,
+      "bottomRightX": 315,
+      "bottomRightY": 373,
+      "content": "which is obtained from (39).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 374,
+      "bottomRightX": 585,
+      "bottomRightY": 422,
+      "content": "Incidentally, (41) leads directly to an important perturbation formula. If the effect of $U$ is small the exponential can be expanded to first order in $U$ and we find",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 426,
+      "bottomRightX": 585,
+      "bottomRightY": 461,
+      "content": "$$\\langle \\chi_{t''} | 1 | \\psi_{t'} \\rangle_{S'} = \\left\\langle \\chi_{t''} | 1 | \\psi_{t'} \\right\\rangle_S + \\frac{i}{\\hbar} \\langle \\chi_{t''} | \\sum_i \\epsilon U(x_i, t_i) | \\psi_{t'} \\right\\rangle. \\quad (43)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 468,
+      "bottomRightX": 586,
+      "bottomRightY": 515,
+      "content": "Of particular importance is the case that $\\chi_{t''}$ is a state in which $\\psi_{t'}$ would not be found at all were it not. for the disturbance, $U$ (i.e., $\\langle \\chi_{t''} | 1 | \\psi_{t'} \\rangle_S = 0$) Then",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 283,
+      "topLeftY": 512,
+      "bottomRightX": 585,
+      "bottomRightY": 548,
+      "content": "$$\\frac{1}{\\hbar^2} |\\langle \\chi_{t''} | \\sum_i \\epsilon U(x_i, t_i) | \\psi_{t'} \\rangle_S|^2 \\quad (44)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 552,
+      "bottomRightX": 585,
+      "bottomRightY": 583,
+      "content": "is the probability of transition as induced to first order by the perturbation. In ordinary notation,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 151,
+      "topLeftY": 589,
+      "bottomRightX": 583,
+      "bottomRightY": 626,
+      "content": "$$\\langle \\chi_{t''} | \\sum_i \\epsilon U(x_i, t_i) | \\psi_{t'} \\rangle_S = \\int \\left\\{ \\int \\chi_{t''}^* e^{-(i/\\hbar)\\mathbf{H}(t''-t)} \\mathbf{U} e^{-(i/\\hbar)\\mathbf{H}(t-t')} \\psi_{t'} dx \\right\\} dt$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 634,
+      "bottomRightX": 585,
+      "bottomRightY": 665,
+      "content": "so that (44) reduces to the usual expression $^{18}$ for time dependent perturbations.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 689,
+      "bottomRightX": 347,
+      "bottomRightY": 707,
+      "content": "## 9. Newton's Equations",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 714,
+      "bottomRightX": 354,
+      "bottomRightY": 729,
+      "content": "### The Commutation Relation",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 742,
+      "bottomRightX": 586,
+      "bottomRightY": 775,
+      "content": "In this section we find that different functionals may give identical results when taken between any two states. This equivalence between functionals",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 782,
+      "bottomRightX": 585,
+      "bottomRightY": 810,
+      "content": "$^{18}$P. A. M. Dirac, *The Principles of Quantum Mechanics* (The Clarendon Press, Oxford, 1935), second edition, Section 47, Eq. (20)",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 831,
+      "bottomRightX": 376,
+      "bottomRightY": 845,
+      "content": "24",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

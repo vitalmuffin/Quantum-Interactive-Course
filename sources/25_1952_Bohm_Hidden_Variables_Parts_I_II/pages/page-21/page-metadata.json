@@ -1,0 +1,128 @@
+{
+  "index": 20,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 91,
+      "topLeftY": 101,
+      "bottomRightX": 112,
+      "bottomRightY": 114,
+      "content": "186",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 334,
+      "topLeftY": 101,
+      "bottomRightX": 441,
+      "bottomRightY": 114,
+      "content": "DAVID BOHM",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 129,
+      "bottomRightX": 380,
+      "bottomRightY": 227,
+      "content": "Thus, even if the initial particle variables were well defined, we should soon in practice lose all possibility of following the particle motion and would be forced to have recourse to some kind of statistical theory. The only question that remains is to show why the probability density that ultimately comes about should be equal to $|\\psi|^2$ and not to some other quantity.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 228,
+      "bottomRightX": 380,
+      "bottomRightY": 576,
+      "content": "To answer this question, we first note that a statistical ensemble with a probability density $|\\psi(\\mathbf{x})|^2$ has the property that under the action of forces which prevail at the atomic level, where our three special assumptions are satisfied, it will be preserved by the equations of motion of the particles, once it comes into existence. There remains only the problem of showing that an arbitrary deviation from this ensemble tends, under the action of the chaotically complicated forces described in the previous paragraph, to decay into an ensemble with a probability density of $|\\psi(\\mathbf{x})|^2$. This problem is very similar to that of proving Boltzmann's $H$ theorem, which shows in connection with a different but analogous problem that an arbitrary ensemble tends as a result of molecular chaos to decay into an equilibrium Gibbs ensemble. We shall not carry out a detailed proof here, but we merely suggest that it seems plausible that one could along similar lines prove that in our problem, an arbitrary ensemble tends to decay into an ensemble with a density of $|\\psi(\\mathbf{x})|^2$. These arguments indicate that in our interpretation, quantum fluctuations and classical fluctuations (such as the Brownian motion) have basically the same origin; viz., the chaotically complicated character of motion at the microscopic level.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 590,
+      "bottomRightX": 380,
+      "bottomRightY": 614,
+      "content": "# 8. THE HYPOTHETICAL EXPERIMENT OF EINSTEIN, PODOLSKY, AND ROSEN",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 623,
+      "bottomRightX": 380,
+      "bottomRightY": 720,
+      "content": "The hypothetical experiment of Einstein, Podolsky, and Rosen is based on the fact that if we have two particles, the sum of their momenta, $p=p_1+p_2$, commutes with the difference of their positions, $\\xi=x_1-x_2$. We can therefore define a wave function in which $p$ is zero, while $\\xi$ has a given value, $a$. Such a wave function is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 188,
+      "topLeftY": 723,
+      "bottomRightX": 380,
+      "bottomRightY": 737,
+      "content": "$$\\psi=\\delta(x_1-x_2-a). \\tag{17}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 748,
+      "bottomRightX": 380,
+      "bottomRightY": 790,
+      "content": "In the usual interpretation of the quantum theory, $p_1-p_2$ and $x_1+x_2$ are completely undetermined in a system having the above wave function.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 791,
+      "bottomRightX": 380,
+      "bottomRightY": 917,
+      "content": "The whole experiment centers on the fact that an observer has a choice of measuring either the momentum or the position of any one of the two particles. Whichever of these quantities he measures, he will be able to infer a definite value of the corresponding variable in the other particle, because of the fact that the above wave function implies correlations between variables belonging to each particle. Thus, if he obtains a position $x_1$ for the first particle, he can infer a position of",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 129,
+      "bottomRightX": 684,
+      "bottomRightY": 576,
+      "content": "$x_2=a-x_1$ for the second particle; but he loses all possibility of making any inferences about the momenta of either particle. On the other hand, if he measures the momentum of the first particle and obtains a value of $p_1$, he can infer a value of $p_2=-p_1$ for the momentum of the second particle; but he loses all possibility of making any inferences about the position of either particle. Now, Einstein, Podolsky, and Rosen believe that this result is itself probably correct, but they do not believe that quantum theory as usually interpreted can give a complete description of how these correlations are propagated. Thus, if these were classical particles, we could easily understand the propagation of correlations because each particle would then simply move with a velocity opposite to that of the other. But in the usual interpretation of quantum theory, there is no similar conceptual model showing in detail how the second particle, which is not in any way supposed to interact with the first particle, is nevertheless able to obtain either an uncontrollable disturbance of its position or an uncontrollable disturbance of its momentum depending on what kind of measurement the observer decided to carry out on the first particle. Bohr's point of view is, however, that no such model should be sought and that we should merely accept the fact that these correlations somehow manage to appear. We must note, of course, that the quantum-mechanical description of these processes will always be consistent, even though it gives us no precisely definable means of describing and analyzing the relationships between the classically describable phenomena appearing in various pieces of measuring apparatus.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 577,
+      "bottomRightX": 684,
+      "bottomRightY": 910,
+      "content": "In our suggested new interpretation of the quantum theory, however, we can describe this experiment in terms of a single precisely definable conceptual model, for we now describe the system in terms of a combination of a six-dimensional wave field and a precisely definable trajectory in a six-dimensional space (see Paper I, Sec. 6). If the wave function is initially equal to Eq. (17), then since the phase vanishes, the particles are both at rest. Their possible positions are, however, described by an ensemble, in which $x_1-x_2=a$. Now, if we measure the position of the first particle, we introduce uncontrollable fluctuations in the wave function for the entire system, which, through the \"quantum-mechanical\" forces, bring about corresponding uncontrollable fluctuations in the momentum of each particle. Similarly, if we measure the momentum of the first particle, uncontrollable fluctuations in the wave function for the system bring about, through the \"quantum-mechanical\" forces, corresponding uncontrollable changes in the position of each particle. Thus, the \"quantum-mechanical\" forces may be said to transmit uncontrollable disturbances instantaneously from one particle to another through the medium of the $\\psi$-field.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 911,
+      "bottomRightX": 684,
+      "bottomRightY": 940,
+      "content": "What does this transmission of forces at an infinite rate mean? In nonrelativistic theory, it certainly causes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 927,
+      "bottomRightX": 367,
+      "bottomRightY": 941,
+      "content": "5 Einstein, Podolsky, and Rosen, Phys. Rev. 47, 777 (1933).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 130,
+    "height": 1018,
+    "width": 722
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 587,
+      "topLeftY": 57,
+      "bottomRightX": 620,
+      "bottomRightY": 75,
+      "content": "237",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 133,
+      "topLeftY": 161,
+      "bottomRightX": 591,
+      "bottomRightY": 227,
+      "content": "# *Zur Theorie des Gesetzes  \nder Energieverteilung im Normalspectrum;  \nvon M. Planck.*",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 233,
+      "bottomRightX": 548,
+      "bottomRightY": 253,
+      "content": "(Vorgetragen in der Sitzung vom 14. December 1900.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 257,
+      "bottomRightX": 431,
+      "bottomRightY": 276,
+      "content": "(Vgl. oben S. 235.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 316,
+      "bottomRightX": 624,
+      "bottomRightY": 692,
+      "content": "M. H.! Als ich vor mehreren Wochen die Ehre hatte, Ihre Aufmerksamkeit auf eine neue Formel zu lenken, welche mir geeignet schien, das Gesetz der Verteilung der strahlenden Energie auf alle Gebiete des Normalspectrums auszudrücken¹), gründete sich meine Ansicht von der Brauchbarkeit der Formel, wie ich schon damals ausführte, nicht allein auf die anscheinend gute Uebereinstimmung der wenigen Zahlen, die ich Ihnen damals mitteilen konnte, mit den bisherigen Messungsresultaten²), sondern hauptsächlich auf den einfachen Bau der Formel und insbesondere darauf, dass dieselbe für die Abhängigkeit der Entropie eines bestrahlten monochromatisch schwingenden Resonators von seiner Schwingungsenergie einen sehr einfachen logarithmischen Ausdruck ergiebt, welcher die Möglichkeit einer allgemeinen Deutung jedenfalls eher zu versprechen schien, als jede andere bisher in Vorschlag gebrachte Formel, abgesehen von der WIEN’schen, die aber durch die Thatsachen nicht bestätigt wird.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 693,
+      "bottomRightX": 624,
+      "bottomRightY": 848,
+      "content": "Entropie bedingt Unordnung, und diese Unordnung glaubte ich erblicken zu müssen in der Unregelmässigkeit, mit der auch im vollkommen stationären Strahlungsfelde die Schwingungen des Resonators ihre Amplitude und ihre Phase wechseln, sofern man Zeitepochen betrachtet, die gross sind gegen die Zeit einer Schwingung, aber klein gegen die Zeit einer Messung. Die constante Energie des stationär schwingenden Resonators",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 870,
+      "bottomRightX": 622,
+      "bottomRightY": 907,
+      "content": "1) M. PLANCK, Verhandl. der Deutschen Physikal. Gesellsch. 2. p. 202. 1900.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 907,
+      "bottomRightX": 624,
+      "bottomRightY": 964,
+      "content": "2) Inzwischen haben die Herren H. RUBENS und F. KURLBAUM (Sitzungsber. d. k. Akad. d. Wissensch. zu Berlin vom 25. October 1900, p. 929) für sehr lange Wellen eine directe Bestätigung gegeben.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

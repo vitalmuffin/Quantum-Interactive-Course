@@ -1,0 +1,200 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 278,
+      "topLeftY": 103,
+      "bottomRightX": 410,
+      "bottomRightY": 118,
+      "content": "Zur Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 556,
+      "topLeftY": 102,
+      "bottomRightX": 584,
+      "bottomRightY": 118,
+      "content": "871",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 139,
+      "bottomRightX": 587,
+      "bottomRightY": 199,
+      "content": "glieder $H(n n)$ von $\\pmb{H}$ werden dann nach Heisenberg als Energieen der verschiedenen Zustände des Systems gedeutet, und die Bohrsche Frequenzbedingung fordert",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 204,
+      "bottomRightX": 448,
+      "bottomRightY": 222,
+      "content": "$$h \\nu (n m) = H (n n) - H (m m),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 222,
+      "bottomRightX": 138,
+      "bottomRightY": 237,
+      "content": "oder",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 278,
+      "topLeftY": 236,
+      "bottomRightX": 435,
+      "bottomRightY": 255,
+      "content": "$$W_n = H (n n) + \\text{konst.}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 261,
+      "bottomRightX": 314,
+      "bottomRightY": 277,
+      "content": "Wir betrachten die Größe",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 289,
+      "topLeftY": 284,
+      "bottomRightX": 402,
+      "bottomRightY": 304,
+      "content": "$$d = p q - q p.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 305,
+      "bottomRightX": 282,
+      "bottomRightY": 323,
+      "content": "Nach (11), (35) wird",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 328,
+      "bottomRightX": 484,
+      "bottomRightY": 394,
+      "content": "$$\\begin{aligned} \\dot{d} &= \\dot{p} q + p \\dot{q} - \\dot{q} p - q \\dot{p} \\\\ &= q \\frac{\\partial H}{\\partial q} - \\frac{\\partial H}{\\partial q} q + p \\frac{\\partial H}{\\partial p} - \\frac{\\partial H}{\\partial p} p. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 400,
+      "bottomRightX": 587,
+      "bottomRightY": 481,
+      "content": "Nach (22), (23) ist also $\\dot{d} = 0$ und $d$ eine Diagonalmatrix. Die Diagonalglieder von $d$ sind aber gerade durch die Quantenbedingung (37) festgelegt. Zusammenfassend erhalten wir unter Benutzung der durch (6) definierten Einheitsmatrix $\\pmb{I}$ die Gleichung",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 276,
+      "topLeftY": 487,
+      "bottomRightX": 587,
+      "bottomRightY": 522,
+      "content": "$$p q - q p = \\frac{h}{2 \\pi i} \\pmb{I}, \\quad (38)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 530,
+      "bottomRightX": 587,
+      "bottomRightY": 567,
+      "content": "die wir die „verschärfte Quantenbedingung“ nennen und auf der alle weiteren Schlüsse beruhen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 570,
+      "bottomRightX": 587,
+      "bottomRightY": 648,
+      "content": "Aus der Form dieser Gleichung ist zu entnehmen: Wird aus (38) eine Gleichung ($A$) abgeleitet, so bleibt ($A$) richtig, wenn man $p$ mit $q$ vertauscht und gleichzeitig $h$ durch $-h$ ersetzt. Deshalb braucht z. B. von den Gleichungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 648,
+      "bottomRightX": 587,
+      "bottomRightY": 682,
+      "content": "$$p^n q = q p^n + n \\frac{h}{2 \\pi i} p^{n-1}, \\quad (39)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 254,
+      "topLeftY": 692,
+      "bottomRightX": 587,
+      "bottomRightY": 726,
+      "content": "$$q^n p = p q^n - n \\frac{h}{2 \\pi i} q^{n-1} \\quad (39')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 735,
+      "bottomRightX": 587,
+      "bottomRightY": 770,
+      "content": "nur eine aus (38) bewiesen zu werden, was durch Induktion leicht auszuführen ist.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 774,
+      "bottomRightX": 587,
+      "bottomRightY": 812,
+      "content": "Wir wollen jetzt Energie- und Frequenzsatz, wie sie oben ausgesprochen wurden, zunächst beweisen für den Fall",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 820,
+      "bottomRightX": 423,
+      "bottomRightY": 840,
+      "content": "$$H = H_1(p) + H_2(q).$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 847,
+      "bottomRightX": 587,
+      "bottomRightY": 884,
+      "content": "Nach den Ausführungen von § 1 können hierin $H_1(p)$ und $H_2(q)$ formal durch Potenzsummen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 234,
+      "topLeftY": 891,
+      "bottomRightX": 459,
+      "bottomRightY": 921,
+      "content": "$$H_1 = \\sum_s a_s p^s, \\quad H_2 = \\sum_s b_s q^s$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

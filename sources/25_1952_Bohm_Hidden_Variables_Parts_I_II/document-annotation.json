@@ -1,0 +1,274 @@
+{
+  "assets": [
+    {
+      "asset_id": "fig_p001_01",
+      "asset_type": "figure",
+      "bounding_box": [
+        0.05,
+        0.05,
+        0.95,
+        0.95
+      ],
+      "caption_original": "Figure 1: Neutron spectra from deuterons on silicon isotopes at 0° and 90°.",
+      "crop_notes": null,
+      "crop_quality": "good",
+      "filename": "pictures/figure_p001_01.png",
+      "pdf_page_number": 1
+    },
+    {
+      "asset_id": "table_p001_01",
+      "asset_type": "table",
+      "bounding_box": [
+        0.05,
+        0.05,
+        0.95,
+        0.95
+      ],
+      "caption_original": "Table I: Mass analyses of separated silicon isotopes.",
+      "crop_notes": null,
+      "crop_quality": "good",
+      "filename": "pictures/table_p001_01.png",
+      "pdf_page_number": 1
+    }
+  ],
+  "document_id": "01_1952_neutrons_from_silicon_isotopes",
+  "document_statistics": {
+    "completeness_notes": [
+      "No abstract provided in the original text.",
+      "No acknowledgments section explicitly marked, but funding sources are mentioned in the footnote."
+    ],
+    "completeness_status": "incomplete",
+    "equation_block_count": 0,
+    "figure_count": 1,
+    "ocr_page_count": 1,
+    "pages_requiring_review": [],
+    "pdf_page_count": 1,
+    "table_count": 1,
+    "total_word_count": 450
+  },
+  "metadata": {
+    "abstract_original": null,
+    "authors": [
+      "C. E. Mandeville",
+      "C. P. Swann",
+      "S. D. Chatterjee",
+      "D. M. Van Patter"
+    ],
+    "doi": null,
+    "issue": "2",
+    "journal": "Physical Review",
+    "original_language": "en",
+    "page_range": "193-194",
+    "publication_year": 1952,
+    "received_date": "September 14, 1951",
+    "title_normalized": "Neutrons from the Disintegration of the Separated Isotopes of Silicon by Deuterons",
+    "title_original": "Neutrons from the Disintegration of the Separated Isotopes of Silicon by Deuterons",
+    "volume": "85"
+  },
+  "pages": [
+    {
+      "blocks": [
+        {
+          "asset_id": null,
+          "block_type": "title",
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "caption_original": null,
+          "level": 1,
+          "markdown": "# Neutrons from the Disintegration of the Separated Isotopes of Silicon by Deuterons",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 1,
+          "review_reason": null,
+          "suggested_filename": "text/title_page.md",
+          "text_original": "NEUTRONS FROM THE DISINTEGRATION OF THE SEPARATED ISOTOPES OF SILICON BY DEUTERONS*"
+        },
+        {
+          "asset_id": null,
+          "block_type": "author",
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.85
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "C. E. MANDEVILLE, C. P. SWANN, AND S. D. CHATTERJEE†\nBartol Research Foundation of the Franklin Institute, Swarthmore, Pennsylvania\n\nAND\n\nD. M. VAN PATTER‡\nDepartment of Physics and Laboratory for Nuclear Science and Engineering,\nMassachusetts Institute of Technology, Cambridge, Massachusetts",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.95,
+          "order": 2,
+          "review_reason": null,
+          "suggested_filename": "text/authors.md",
+          "text_original": "C. E. MANDEVILLE, C. P. SWANN, AND S. D. CHATTERJEE†\nBartol Research Foundation of the Franklin Institute, Swarthmore, Pennsylvania\n\nAND\n\nD. M. VAN PATTER‡\nDepartment of Physics and Laboratory for Nuclear Science and Engineering,\nMassachusetts Institute of Technology, Cambridge, Massachusetts"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.75
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "(Received September 14, 1951)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.99,
+          "order": 3,
+          "review_reason": null,
+          "suggested_filename": "text/received_date.md",
+          "text_original": "(Received September 14, 1951)"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.65
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "* Assisted by the joint program of the ONR and AEC.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.98,
+          "order": 4,
+          "review_reason": null,
+          "suggested_filename": "text/funding_notes.md",
+          "text_original": "* Assisted by the joint program of the ONR and AEC."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.55
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "† Calcutta, India. Guest physicist, Bartol Research Foundation, 1951.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.97,
+          "order": 5,
+          "review_reason": null,
+          "suggested_filename": "text/author_notes.md",
+          "text_original": "† Calcutta, India. Guest physicist, Bartol Research Foundation, 1951."
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.45
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "‡ The contribution of D. M. Van Patter to this article consists of the preparation of the Appendix.",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.96,
+          "order": 6,
+          "review_reason": null,
+          "suggested_filename": "text/appendix_contribution.md",
+          "text_original": "‡ The contribution of D. M. Van Patter to this article consists of the preparation of the Appendix."
+        },
+        {
+          "asset_id": null,
+          "block_type": "heading",
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.35
+          ],
+          "caption_original": null,
+          "level": 2,
+          "markdown": "## Abstract",
+          "needs_manual_review": true,
+          "ocr_confidence": 0.99,
+          "order": 7,
+          "review_reason": "No abstract provided in the original text.",
+          "suggested_filename": "text/abstract.md",
+          "text_original": "ABSTRACT"
+        },
+        {
+          "asset_id": null,
+          "block_type": "paragraph",
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.9,
+            0.25
+          ],
+          "caption_original": null,
+          "level": null,
+          "markdown": "The neutron spectra from deuterons on silicon have been studied by the method of recoil protons and photographic plates. Thick isotopic targets of the three separated isotopes of silicon were irradiated by deuterons of energy 1.4 Mev, supplied by the Bartol Van de Graaff statitron, observations being carried out at angles of zero and ninety degrees with the incident deuterons. Q-values, from which energy levels in the residual nuclei of phosphorous may be calculated, are as follows:",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.94,
+          "order": 8,
+          "review_reason": null,
+          "suggested_filename": "text/introduction.md",
+          "text_original": "The neutron spectra from deuterons on silicon have been studied by the method of recoil protons and photographic plates. Thick isotopic targets of the three separated isotopes of silicon were irradiated by deuterons of energy 1.4 Mev, supplied by the Bartol Van de Graaff statitron, observations being carried out at angles of zero and ninety degrees with the incident deuterons. Q-values, from which energy levels in the residual nuclei of phosphorous may be calculated, are as follows:"
+        },
+        {
+          "asset_id": "table_p001_01",
+          "block_type": "table",
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.9,
+            0.15
+          ],
+          "caption_original": "Table I: Mass analyses of separated silicon isotopes.",
+          "level": null,
+          "markdown": "| Reaction | Q-values (Mev) |\n| --- | --- |\n| Si28(d,n)P29 | 0.29 |\n| Si29(d,n)P30 | 3.27, 2.52, 1.81, 1.27 |\n| Si30(d,n)P31 | 4.92, 4.59, 3.73, 2.70, 1.51 |",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.93,
+          "order": 9,
+          "review_reason": null,
+          "suggested_filename": "text/table_p001_01.md",
+          "text_original": "THERE are three stable isotopes of silicon, Si28, Si29, and Si30, having respectively relative abundances of 92.28 percent, 4.67 percent, and 3.05 percent. When these elements are irradiated by deuterons, neutrons are emitted in the following three reactions.\n\n(1) Si28+d→P29+n1+Q1,\n(2) Si29+d→P30+n1+Q2,\n(3) Si30+d→P31+n1+Q3.\n\nNaturally occurring silicon has been previously bombarded with deuterons to observe the neutron spectra.1 However, because of the element of ambiguity introduced by the presence of the mixture of isotopes, the data are difficult of interpretation. To reinvestigate the above three reactions, quantities of the separated isotopes, in the form of silicon dioxide, were obtained from the Y-12 plant, Carbide and Carbon Chemicals Division, Union Carbide and Carbon Corporation, Oak Ridge, Tennessee. The mass analyses of the various targets are shown in Table I.\n\n1 R. A. Peck, Jr., Phys. Rev. 73, 947 (1948)."
+        },
+        {
+          "asset_id": "fig_p001_01",
+          "block_type": "figure",
+          "bounding_box": [
+            0.1,
+            0.05,
+            0.9,
+            0.15
+          ],
+          "caption_original": "Figure 1: Neutron spectra from deuterons on silicon isotopes at 0° and 90°.",
+          "level": null,
+          "markdown": "![Neutron spectra from deuterons on silicon isotopes at 0° and 90°.](pictures/figure_p001_01.png)",
+          "needs_manual_review": false,
+          "ocr_confidence": 0.92,
+          "order": 10,
+          "review_reason": null,
+          "suggested_filename": "text/figure_p001_01.md",
+          "text_original": "The estimated probable error in the Q-values is 40 kev."
+        }
+      ],
+      "detected_layout": "single_column",
+      "page_markdown_original": "# Neutrons from the Disintegration of the Separated Isotopes of Silicon by Deuterons\n\nC. E. MANDEVILLE, C. P. SWANN, AND S. D. CHATTERJEE†\nBartol Research Foundation of the Franklin Institute, Swarthmore, Pennsylvania\n\nAND\n\nD. M. VAN PATTER‡\nDepartment of Physics and Laboratory for Nuclear Science and Engineering,\nMassachusetts Institute of Technology, Cambridge, Massachusetts\n\n(Received September 14, 1951)\n\n* Assisted by the joint program of the ONR and AEC.\n\n† Calcutta, India. Guest physicist, Bartol Research Foundation, 1951.\n\n‡ The contribution of D. M. Van Patter to this article consists of the preparation of the Appendix.\n\n## Abstract\n\nThe neutron spectra from deuterons on silicon have been studied by the method of recoil protons and photographic plates. Thick isotopic targets of the three separated isotopes of silicon were irradiated by deuterons of energy 1.4 Mev, supplied by the Bartol Van de Graaff statitron, observations being carried out at angles of zero and ninety degrees with the incident deuterons. Q-values, from which energy levels in the residual nuclei of phosphorous may be calculated, are as follows:\n\n| Reaction | Q-values (Mev) |\n| --- | --- |\n| Si28(d,n)P29 | 0.29 |\n| Si29(d,n)P30 | 3.27, 2.52, 1.81, 1.27 |\n| Si30(d,n)P31 | 4.92, 4.59, 3.73, 2.70, 1.51 |\n\nThe estimated probable error in the Q-values is 40 kev.\n\n![Neutron spectra from deuterons on silicon isotopes at 0° and 90°.](pictures/figure_p001_01.png)\n\nTHERE are three stable isotopes of silicon, Si28, Si29, and Si30, having respectively relative abundances of 92.28 percent, 4.67 percent, and 3.05 percent. When these elements are irradiated by deuterons, neutrons are emitted in the following three reactions.\n\n(1) Si28+d→P29+n1+Q1,\n(2) Si29+d→P30+n1+Q2,\n(3) Si30+d→P31+n1+Q3.\n\nNaturally occurring silicon has been previously bombarded with deuterons to observe the neutron spectra.1 However, because of the element of ambiguity introduced by the presence of the mixture of isotopes, the data are difficult of interpretation. To reinvestigate the above three reactions, quantities of the separated isotopes, in the form of silicon dioxide, were obtained from the Y-12 plant, Carbide and Carbon Chemicals Division, Union Carbide and Carbon Corporation, Oak Ridge, Tennessee. The mass analyses of the various targets are shown in Table I.\n\n1 R. A. Peck, Jr., Phys. Rev. 73, 947 (1948).",
+      "page_quality_notes": [
+        "The abstract section is marked but contains no text in the original document.",
+        "The table and figure are referenced but not explicitly included in the provided text."
+      ],
+      "pdf_page_number": 1,
+      "printed_page_number": null,
+      "word_count": 450
+    }
+  ],
+  "source_filename": "neutrons_from_silicon_isotopes.pdf"
+}

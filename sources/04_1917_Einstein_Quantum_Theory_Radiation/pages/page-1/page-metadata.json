@@ -1,0 +1,201 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 100,
+    "height": 1022,
+    "width": 715
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 23,
+      "topLeftY": 24,
+      "bottomRightX": 531,
+      "bottomRightY": 45,
+      "content": "Physik. Zeitschr. XVIII, 1917. Einstein, Zur Quantentheorie der Strahlung.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 648,
+      "topLeftY": 31,
+      "bottomRightX": 674,
+      "bottomRightY": 45,
+      "content": "121",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 65,
+      "bottomRightX": 613,
+      "bottomRightY": 202,
+      "content": "|  Manometer für Überdruck | $\\phi = 1$ | 6 | 12 | kg/qcm  |\n| --- | --- | --- | --- | --- |\n|  Halbmesser der Röhrenfeder | $r_0 = 5,50$ | 5,56 | 5,55 | cm  |\n|  Große Halbachse d. Ellipse | $a = 1,138$ | 0,847 | 0,850 | „  |\n|  Kleine „ „ „ | $b = 0,293$ | 0,243 | 0,241 | „  |\n|  Wandstärke „ „ „ | $h = 0,031$ | 0,048 | 0,065 | „  |\n|  Bogenlänge der Röhrenfeder | $\\chi = 270^\\circ$ | 270° | 270° |   |\n|  Aufbiegung nach Versuch | $d\\chi: \\phi = 4,575$ | 0,896 | 0,454 |   |\n|  „ „ Gl. (25a) | $d\\chi: \\phi = 0,982$ | 0,766 | 0,578 |   |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 15,
+      "topLeftY": 209,
+      "bottomRightX": 336,
+      "bottomRightY": 532,
+      "content": "Mit Rücksicht auf die nur unvollkommene Ellipsengestalt der Meridiankurven sowie auf die Verlötung der Enden, welche zweifellos die der Theorie zugrunde liegende Achsensymmetrie um $ZZ$ beeinträchtigt, kann man die Abweichungen der berechneten und gefundenen Aufbiegungen an der 6 kg- und 12 kg-Röhrenfeder als zulässig hinnehmen, zumal sie entgegengesetzte Vorzeichen besitzen. Bei der schwachen 1 kg Feder dagegen reicht dies zur Erklärung einer 4,8fachen Aufbiegung jedenfalls nicht aus, so daß man hierfür auf die strengere Formel (18) zurückgreifen müßte. Außerdem ist es nicht unwahrscheinlich, daß in diesem Falle die Doppelsymmetrie bei der Formänderung verloren gegangen ist, ein Umstand, dem man in Gl. (8) näherungsweise durch Hinzufügung eines oder mehrerer Terme mit geraden Vielfachen von $\\eta$ genügen könnte.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 532,
+      "bottomRightX": 315,
+      "bottomRightY": 552,
+      "content": "Danzig-Langfuhr, Techn. Hochschule.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 553,
+      "bottomRightX": 321,
+      "bottomRightY": 572,
+      "content": "(Eingegangen 26. Februar 1917.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 613,
+      "bottomRightX": 301,
+      "bottomRightY": 633,
+      "content": "## Zur Quantentheorie der Strahlung.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 638,
+      "bottomRightX": 240,
+      "bottomRightY": 658,
+      "content": "Von A. Einstein$^{1)}$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 663,
+      "bottomRightX": 333,
+      "bottomRightY": 783,
+      "content": "Die formale Ähnlichkeit der Kurve der chromatischen Verteilung der Temperaturstrahlung mit Maxwellschen Geschwindigkeits-Verteilungsgesetz ist zu frappant, als daß sie lange hätte verborgen bleiben können. In der Tat wurde bereits W. Wien in der wichtigen theoretischen Arbeit, in welcher er sein Verschiebungsgesetz",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 785,
+      "bottomRightX": 331,
+      "bottomRightY": 817,
+      "content": "$$\\varrho = v^3 f \\left( \\frac{v}{T} \\right) \\quad (1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 820,
+      "bottomRightX": 331,
+      "bottomRightY": 875,
+      "content": "ableitete, durch diese Ähnlichkeit auf eine weitergehende Bestimmung der Strahlungsformel geführt. Er fand hierbei bekanntlich die Formel",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 121,
+      "topLeftY": 875,
+      "bottomRightX": 329,
+      "bottomRightY": 906,
+      "content": "$$\\varrho = \\alpha v^3 e^{-\\frac{kr}{kT}} \\quad (2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 907,
+      "bottomRightX": 329,
+      "bottomRightY": 958,
+      "content": "welche als Grenzgesetz für große Werte von $\\frac{v}{T}$ auch heute als richtig anerkannt wird (Wien-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 351,
+      "topLeftY": 211,
+      "bottomRightX": 674,
+      "bottomRightY": 311,
+      "content": "(Wiensche Strahlungsformel). Heute wissen wir, daß keine Betrachtung, welche auf die klassische Mechanik und Elektrodynamik aufgebaut ist, eine brauchbare Strahlungsformel liefern kann, sondern daß die klassische Theorie notwendig auf die Rayleighsche Formel",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 462,
+      "topLeftY": 314,
+      "bottomRightX": 674,
+      "bottomRightY": 348,
+      "content": "$$\\varrho = \\frac{ka}{h} v^2 T \\quad (3)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 351,
+      "topLeftY": 353,
+      "bottomRightX": 674,
+      "bottomRightY": 389,
+      "content": "führt. Als dann Planck in seiner grundlegenden Untersuchung seine Strahlungsformel",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 447,
+      "topLeftY": 394,
+      "bottomRightX": 674,
+      "bottomRightY": 440,
+      "content": "$$\\varrho = \\alpha v^3 \\frac{1}{e^{\\frac{kr}{kT}} - 1} \\quad (4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 351,
+      "topLeftY": 444,
+      "bottomRightX": 674,
+      "bottomRightY": 542,
+      "content": "auf die Voraussetzung von diskreten Energie-Elementen gegründet hatte, aus welcher sich in rascher Folge die Quantentheorie entwickelte, geriet jene Wiensche Überlegung, welche zur Gleichung (2) geführt hatte, naturgemäß wieder in Vergessenheit.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 351,
+      "topLeftY": 541,
+      "bottomRightX": 674,
+      "bottomRightY": 951,
+      "content": "Vor kurzem nun fand ich eine der ursprünglichen Wienschen Betrachtung$^{1)}$ verwandte, auf die Grundvoraussetzung der Quantentheorie sich stützende Ableitung der Planckschen Strahlungsformel, in welcher die Beziehung der Maxwellschen Kurve zu der chromatischen Verteilungskurve zur Geltung kommt. Diese Ableitung verdient nicht nur wegen ihrer Einfachheit Beachtung, sondern besonders deshalb, weil sie über den für uns noch so dunklen Vorgang der Emission und Absorption der Strahlung durch die Materie einige Klarheit zu bringen scheint. Indem ich einige vom Standpunkte der Quantentheorie naheliegende Hypothesen über die Strahlungs-Emission und -Absorption von Molekülen zugrunde legte, zeigte ich, daß Moleküle mit im Sinne der Quantentheorie bei Temperaturgleichgewicht verteilten Zuständen, im dynamischen Gleichgewicht mit Planckscher Strahlung stehen; es ergab sich auf diesem Wege die Plancksche Formel (4) in verblüffend einfacher und allgemeiner Weise. Sie ergab sich aus der Bedingung, daß die von der Quantentheorie geforderte Zustandsverteilung der inneren Energie der Moleküle allein durch Absorption",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 13,
+      "topLeftY": 978,
+      "bottomRightX": 328,
+      "bottomRightY": 1009,
+      "content": "1) Zuerst abgedruckt in den Mitteilungen der Physikalischen Gesellschaft Zürich. Nr. 18, 1916.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 344,
+      "topLeftY": 960,
+      "bottomRightX": 667,
+      "bottomRightY": 1011,
+      "content": "1) Verh. d. Deutschen physikal. Gesellschaft Nr. 13/14, 1916, S. 318. In der vorliegenden Untersuchung sind die der eben zitierten Abhandlung gegebenen Überlegungen wiederholt.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

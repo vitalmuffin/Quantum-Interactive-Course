@@ -1,0 +1,92 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 660
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 87,
+      "topLeftY": 58,
+      "bottomRightX": 119,
+      "bottomRightY": 77,
+      "content": "370",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 271,
+      "topLeftY": 58,
+      "bottomRightX": 383,
+      "bottomRightY": 78,
+      "content": "E. Schrödinger.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 93,
+      "bottomRightX": 564,
+      "bottomRightY": 154,
+      "content": "ihr exponentielles Verschwinden im Unendlichen wird überdies die Oberflächenbedingung (6) verbürgt. Wir fassen die Resultate für negative $E$ zusammen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 158,
+      "bottomRightX": 565,
+      "bottomRightY": 303,
+      "content": "*Bei negativem $E$ hat unser Variationsproblem dann und nur dann Lösungen, wenn $E$ der Bedingung (15) genügt. Der ganzen Zahl $n$, welche die Ordnung der in der Lösung auftretenden Kugelflächenfunktion angibt, dürfen dann immer nur Werte kleiner als $l$ erteilt werden (wovon stets mindestens einer zur Verfügung steht). Der von $r$ abhängige Teil der Lösung wird durch (18) gegeben.*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 306,
+      "bottomRightX": 565,
+      "bottomRightY": 348,
+      "content": "Durch Abzählung der Konstanten in den Kugelflächenfunktionen (bekanntlich $2n + 1$) findet man ferner:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 351,
+      "bottomRightX": 565,
+      "bottomRightY": 414,
+      "content": "*Die gefundene Lösung enthält für eine zulässige Kombination $(n, l)$ genau $2n + 1$ willkürliche Konstanten; für einen vorgegebenen $l$-Wert also $l^2$ willkürliche Konstanten.*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 419,
+      "bottomRightX": 565,
+      "bottomRightY": 481,
+      "content": "Wir haben damit die eingangs aufgestellten Behauptungen über das Eigenwertspektrum unseres Variationsproblems in den Hauptzügen bestätigt, immerhin bestehen noch Lücken.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 484,
+      "bottomRightX": 566,
+      "bottomRightY": 586,
+      "content": "Erstens der Nachweis der Vollständigkeit des gesamten nachgewiesenen Systems von Eigenfunktionen. Damit will ich mich in dieser Note nicht befassen. Nach anderweitigen Erfahrungen darf man vermuten, daß uns keine Eigenwerte entgangen sind.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 589,
+      "bottomRightX": 567,
+      "bottomRightY": 889,
+      "content": "Zweitens ist jetzt daran zu erinnern, daß die für positives $E$ nachgewiesenen Eigenfunktionen nicht ohne weiteres das Variationsproblem in der Form, in der es anfangs gestellt wurde, lösen, weil sie im Unendlichen nur wie $1/r$, $\\frac{\\partial \\psi}{\\partial r}$ auf einer großen Kugel also nur wie $1/r^2$ gegen Null geht. Das Oberflächenintegral (6) bleibt daher gerade noch von der Ordnung des $\\delta \\psi$ im Unendlichen. Wünscht man also das kontinuierliche Spektrum wirklich mit zu erhalten, so muß man dem Problem noch eine Bedingung hinzufügen: etwa daß $\\delta \\psi$ im Unendlichen verschwinden, oder wenigstens, daß es einem konstanten Wert zustreben soll, unabhängig von der Richtung, in der man ins räumlich Unendliche geht; in letzterem Fall bringen die Kugelflächenfunktionen das Oberflächenintegral zum Verschwinden.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

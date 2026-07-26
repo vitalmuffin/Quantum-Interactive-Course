@@ -1,0 +1,218 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 92,
+    "height": 1014,
+    "width": 784
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 31,
+      "topLeftY": 25,
+      "bottomRightX": 113,
+      "bottomRightY": 40,
+      "content": "Vol. 1, No. 3",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 25,
+      "bottomRightX": 542,
+      "bottomRightY": 40,
+      "content": "ON THE EINSTEIN PODOLSKY ROSEN PARADOX",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 719,
+      "topLeftY": 26,
+      "bottomRightX": 742,
+      "bottomRightY": 40,
+      "content": "197",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 29,
+      "topLeftY": 59,
+      "bottomRightX": 741,
+      "bottomRightY": 94,
+      "content": "Secondly, there is no difficulty in reproducing, in the form (2), the only features of (3) commonly used in verbal discussions of this problem:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 110,
+      "bottomRightX": 743,
+      "bottomRightY": 162,
+      "content": "$$\\left. \\begin{array}{l} P(\\vec{a}, \\vec{a}) = -P(\\vec{a}, -\\vec{a}) = -1 \\\\ P(\\vec{a}, \\vec{b}) = 0 \\text{ if } \\vec{a} \\cdot \\vec{b} = 0 \\end{array} \\right\\} \\tag{8}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 30,
+      "topLeftY": 180,
+      "bottomRightX": 744,
+      "bottomRightY": 198,
+      "content": "For example, let $\\lambda$ now be unit vector $\\vec{\\lambda}$, with uniform probability distribution over all directions, and take",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 212,
+      "bottomRightX": 744,
+      "bottomRightY": 265,
+      "content": "$$\\left. \\begin{array}{l} A(\\vec{a}, \\vec{\\lambda}) = \\operatorname{sign} \\vec{a} \\cdot \\vec{\\lambda} \\\\ B(a, b) = -\\operatorname{sign} \\vec{b} \\cdot \\vec{\\lambda} \\end{array} \\right\\} \\tag{9}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 283,
+      "bottomRightX": 108,
+      "bottomRightY": 300,
+      "content": "This gives",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 303,
+      "bottomRightX": 744,
+      "bottomRightY": 340,
+      "content": "$$P(\\vec{a}, \\vec{b}) = -1 + \\frac{2}{\\pi} \\theta, \\tag{10}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 29,
+      "topLeftY": 360,
+      "bottomRightX": 734,
+      "bottomRightY": 414,
+      "content": "where $\\theta$ is the angle between $a$ and $b$, and (10) has the properties (8). For comparison, consider the result of a modified theory [6] in which the pure singlet state is replaced in the course of time by an isotropic mixture of product states; this gives the correlation function",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 345,
+      "topLeftY": 423,
+      "bottomRightX": 744,
+      "bottomRightY": 461,
+      "content": "$$- \\frac{1}{3} \\vec{a} \\cdot \\vec{b} \\tag{11}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 30,
+      "topLeftY": 480,
+      "bottomRightX": 617,
+      "bottomRightY": 498,
+      "content": "It is probably less easy, experimentally, to distinguish (10) from (3), than (11) from (3).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 30,
+      "topLeftY": 498,
+      "bottomRightX": 721,
+      "bottomRightY": 535,
+      "content": "Unlike (3), the function (10) is not stationary at the minimum value $-1$ (at $\\theta = 0$). It will be seen that this is characteristic of functions of type (2).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 30,
+      "topLeftY": 535,
+      "bottomRightX": 744,
+      "bottomRightY": 590,
+      "content": "Thirdly, and finally, there is no difficulty in reproducing the quantum mechanical correlation (3) if the results $A$ and $B$ in (2) are allowed to depend on $\\vec{b}$ and $\\vec{a}$ respectively as well as on $\\vec{a}$ and $\\vec{b}$. For example, replace $\\vec{a}$ in (9) by $\\vec{a}'$, obtained from $\\vec{a}$ by rotation towards $\\vec{b}$ until",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 315,
+      "topLeftY": 607,
+      "bottomRightX": 450,
+      "bottomRightY": 645,
+      "content": "$$1 - \\frac{2}{\\pi} \\theta' = \\cos \\theta,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 30,
+      "topLeftY": 660,
+      "bottomRightX": 735,
+      "bottomRightY": 716,
+      "content": "where $\\theta'$ is the angle between $\\vec{a}'$ and $\\vec{b}$. However, for given values of the hidden variables, the results of measurements with one magnet now depend on the setting of the distant magnet, which is just what we would wish to avoid.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 750,
+      "bottomRightX": 454,
+      "bottomRightY": 769,
+      "content": "### IV. Contradiction",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 780,
+      "bottomRightX": 660,
+      "bottomRightY": 799,
+      "content": "The main result will now be proved. Because $\\rho$ is a normalized probability distribution,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 334,
+      "topLeftY": 802,
+      "bottomRightX": 745,
+      "bottomRightY": 840,
+      "content": "$$\\int d\\lambda \\rho(\\lambda) = 1, \\tag{12}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 850,
+      "bottomRightX": 719,
+      "bottomRightY": 871,
+      "content": "and because of the properties (1), $P$ in (2) cannot be less than $-1$. It can reach $-1$ at $\\vec{a} = \\vec{b}$ only if",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 316,
+      "topLeftY": 884,
+      "bottomRightX": 745,
+      "bottomRightY": 906,
+      "content": "$$A(\\vec{a}, \\lambda) = -B(\\vec{a}, \\lambda) \\tag{13}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 31,
+      "topLeftY": 925,
+      "bottomRightX": 595,
+      "bottomRightY": 943,
+      "content": "except at a set of points $\\lambda$ of zero probability. Assuming this, (2) can be rewritten",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 251,
+      "topLeftY": 950,
+      "bottomRightX": 745,
+      "bottomRightY": 987,
+      "content": "$$P(\\vec{a}, \\vec{b}) = -\\int d\\lambda \\rho(\\lambda) A(\\vec{a}, \\lambda) A(\\vec{b}, \\lambda). \\tag{14}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

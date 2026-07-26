@@ -1,0 +1,15 @@
+776
+
+W. Pauli jr..
+
+in einer abgeschlossenen Untergruppe mit der Anzahl der entsprechenden Terme des Zeemaneffektes der Alkalispektren übereinstimmt, auf folgende allgemeinere Regel über das Vorkommen von äquivalenten Elektronen im Atom zurückführen:
+
+Es kann niemals zwei oder mehrere äquivalente Elektronen im Atom geben, für welche in starken Feldern die Werte aller Quantenzahlen $n, k_1, k_2, m_1$ (oder, was dasselbe ist, $n, k_1, m_1, m_2$) übereinstimmen. Ist ein Elektron im Atom vorhanden, für das diese Quantenzahlen (im äußeren Felde) bestimmte Werte haben, so ist dieser Zustand „besetzt“.
+
+Es ist im Auge zu behalten, daß in diese Regel die Hauptquantenzahl $n$ wesentlich eingeht; selbstredend können sehr wohl mehrere (nicht äquivalente) Elektronen im Atom vorkommen, deren Werte der Quantenzahlen $k_1, k_2, m_1$ übereinstimmen, die sich aber durch die Hauptquantenzahl $n$ unterscheiden.
+
+Eine nähere Begründung für diese Regel können wir nicht geben, sie scheint sich jedoch von selbst als sehr naturgemäß darzubieten. Sie bezieht sich, wie erwähnt, zunächst auf den Fall starker Felder. Aus thermodynamischen Gründen [Invarianz der statistischen Gewichte bei adiabatischen Transformationen des Systems]$^{1)}$ muß jedoch die Anzahl der stationären Zustände des Atoms bei gegebenen Werten der Zahlen $k_1$ und $k_2$ für die einzelnen Elektronen und des Wertes von $\overline{m}_1 = \sum m_1$ [vgl. (1)] für das ganze Atom in starken und in schwachen Feldern übereinstimmen. Daher können wir auch im letzteren Falle über die Anzahl der stationären Zustände und ihre zugehörigen Werte von $j$ (bei vorgegebener Zahl der äquivalenten Elektronen, die zu den verschiedenen Werten von $k_1$ und $k_2$ gehören) bestimmte Aussagen machen. So kann die Anzahl der Realisierungsmöglichkeiten der verschiedenen unabgeschlossenen Elektronenschalen ermittelt und die am Beginn dieses Paragraphen aufgeworfene Frage nach dem Ausfallen oder Zusammenfallen gewisser Multipletterme in den Spektren bei Werten der Hauptquantenzahl, für die mehrere äquivalente Elektronen im Atom vorhanden sind, in jedem einzelnen Falle eindeutig beantwortet werden. Dabei können wir jedoch nur über die Anzahl der Terme und die Werte ihrer Quanten-
+
+mit bestimmten Werten der Abschirmungszahlen (bestimmt durch $k_1$) und der Relativitätskorrektion (bestimmt durch $k_2$) gebildeten Moseley-Sommerfeldschen Ausdrücke ein.
+
+$^{1)}$ Diese Invarianz ist unabhängig von der Gültigkeit der klassischen Mechanik bei der Transformation.

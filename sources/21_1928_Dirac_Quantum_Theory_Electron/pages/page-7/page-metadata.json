@@ -1,0 +1,173 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 101,
+      "topLeftY": 97,
+      "bottomRightX": 131,
+      "bottomRightY": 112,
+      "content": "616",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 96,
+      "bottomRightX": 412,
+      "bottomRightY": 115,
+      "content": "P. A. M. Dirac.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 132,
+      "bottomRightX": 467,
+      "bottomRightY": 153,
+      "content": "These relations can be summed up in the single equation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 164,
+      "bottomRightX": 423,
+      "bottomRightY": 183,
+      "content": "$$\\gamma_\\mu \\gamma_\\nu + \\gamma_\\nu \\gamma_\\mu = 2\\delta_{\\mu\\nu}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 178,
+      "bottomRightX": 163,
+      "bottomRightY": 196,
+      "content": "We have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 197,
+      "bottomRightX": 489,
+      "bottomRightY": 265,
+      "content": "$$\\begin{array}{l} \\gamma_\\mu' \\gamma_\\nu' + \\gamma_\\nu' \\gamma_\\mu' = \\Sigma_{\\tau\\lambda} a_{\\mu\\tau} a_{\\nu\\lambda} (\\gamma_\\tau \\gamma_\\lambda + \\gamma_\\lambda \\gamma_\\tau) \\\\ = 2\\Sigma_{\\tau\\lambda} a_{\\mu\\tau} a_{\\nu\\lambda} \\delta_{\\tau\\lambda} \\\\ = 2\\Sigma_\\tau a_{\\mu\\tau} a_{\\nu\\tau} = 2\\delta_{\\mu\\nu}. \\end{array}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 275,
+      "bottomRightX": 606,
+      "bottomRightY": 314,
+      "content": "Thus the $\\gamma_\\mu'$ satisfy the same relations as the $\\gamma_\\mu$. Thus we can put, analogously to (10)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 314,
+      "bottomRightX": 446,
+      "bottomRightY": 334,
+      "content": "$$\\gamma_4' = \\rho_3' \\qquad \\gamma_\\tau' = \\rho_2' \\sigma_\\tau'$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 346,
+      "bottomRightX": 606,
+      "bottomRightY": 387,
+      "content": "where the $\\rho''$'s and $\\sigma''$'s are easily verified to satisfy the relations corresponding to (7), (7') and (8), if $\\rho_2'$ and $\\rho_1'$ are defined by $\\rho_2' = -i\\gamma_1'\\gamma_2'\\gamma_3'$, $\\rho_1' = -i\\rho_2'\\rho_3'$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 388,
+      "bottomRightX": 606,
+      "bottomRightY": 487,
+      "content": "We shall now show that, by a canonical transformation, the $\\rho''$'s and $\\sigma''$'s may be brought into the form of the $\\rho$'s and $\\sigma$'s. From the equation $\\rho_3'^2 = 1$, it follows that the only possible characteristic values for $\\rho_3'$ are $\\pm 1$. If one applies to $\\rho_3'$ a canonical transformation with the transformation function $\\rho_1'$, the result is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 488,
+      "bottomRightX": 487,
+      "bottomRightY": 510,
+      "content": "$$\\rho_1' \\rho_3' (\\rho_1')^{-1} = - \\rho_2' \\rho_1' (\\rho_1')^{-1} = - \\rho_3'.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 522,
+      "bottomRightX": 607,
+      "bottomRightY": 602,
+      "content": "Since characteristic values are not changed by a canonical transformation, $\\rho_3'$ must have the same characteristic values as $- \\rho_3'$. Hence the characteristic values of $\\rho_3'$ are $+ 1$ twice and $- 1$ twice. The same argument applies to each of the other $\\rho''$'s, and to each of the $\\sigma''$'s.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 604,
+      "bottomRightX": 609,
+      "bottomRightY": 728,
+      "content": "Since $\\rho_3'$ and $\\sigma_3'$ commute, they can be brought simultaneously to the diagonal form by a canonical transformation. They will then have for their diagonal elements each $+ 1$ twice and $- 1$ twice. Thus, by suitably rearranging the rows and columns, they can be brought into the form $\\rho_3$ and $\\sigma_3$ respectively. (The possibility $\\rho_3' = \\pm \\sigma_3'$ is excluded by the existence of matrices that commute with one but not with the other.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 730,
+      "bottomRightX": 544,
+      "bottomRightY": 749,
+      "content": "Any matrix containing four rows and columns can be expressed as",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 760,
+      "bottomRightX": 608,
+      "bottomRightY": 779,
+      "content": "$$c + \\Sigma_\\tau c_\\tau \\sigma_\\tau + \\Sigma_\\tau c_\\tau' \\rho_\\tau + \\Sigma_{\\tau s} c_{\\tau s} \\rho_\\tau \\sigma_s \\tag{13}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 793,
+      "bottomRightX": 609,
+      "bottomRightY": 854,
+      "content": "where the sixteen coefficients $c$, $c_\\tau$, $c_\\tau'$, $c_{\\tau s}$ are c-numbers. By expressing $\\sigma_1'$ in this way, we see, from the fact that it commutes with $\\rho_3' = \\rho_3$ and anti-commutes* with $\\sigma_3' = \\sigma_3$, that it must be of the form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 865,
+      "bottomRightX": 482,
+      "bottomRightY": 886,
+      "content": "$$\\sigma_1' = c_1 \\sigma_1 + c_2 \\sigma_2 + c_{31} \\rho_3 \\sigma_1 + c_{32} \\rho_3 \\sigma_2,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 902,
+      "bottomRightX": 510,
+      "bottomRightY": 918,
+      "content": "* We say that $a$ anticommutes with $b$ when $ab = -ba$.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

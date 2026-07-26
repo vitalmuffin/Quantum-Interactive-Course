@@ -1,0 +1,119 @@
+{
+  "index": 41,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1001,
+    "width": 622
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 56,
+      "topLeftY": 28,
+      "bottomRightX": 81,
+      "bottomRightY": 48,
+      "content": "62",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 27,
+      "bottomRightX": 396,
+      "bottomRightY": 45,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 105,
+      "bottomRightX": 388,
+      "bottomRightY": 127,
+      "content": "# CHAPITRE III",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 178,
+      "bottomRightX": 520,
+      "bottomRightY": 227,
+      "content": "## Les conditions quantiques de stabilité des trajectoires.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 255,
+      "bottomRightX": 566,
+      "bottomRightY": 280,
+      "content": "### I. — LES CONDITIONS DE STABILITÉ DE BOHR-SOMMERFELD",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 301,
+      "bottomRightX": 590,
+      "bottomRightY": 608,
+      "content": "Dans sa théorie de l'atome, M. Bohr a le premier émis l'idée que, parmi les trajectoires fermées qu'un électron peut décrire autour d'un centre positif, certaines seules sont stables, les autres étant irréalisables dans la nature ou tout au moins si instables qu'il n'y a pas lieu d'en tenir compte. Se limitant aux trajectoires circulaires mettant en jeu un seul degré de liberté, M. Bohr énonça la condition suivante : « Seules, sont stables les trajectoires circulaires pour lesquelles le moment de la quantité de mouvement est un multiple entier de $\\frac{h}{2\\pi}$, $h$ étant la constante de Planck ». Ceci s'écrit :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 216,
+      "topLeftY": 610,
+      "bottomRightX": 424,
+      "bottomRightY": 650,
+      "content": "$$m_0 \\omega R^2 = n \\frac{h}{2\\pi} \\quad (n \\text{ entier})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 660,
+      "bottomRightX": 167,
+      "bottomRightY": 679,
+      "content": "ou encore :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 686,
+      "bottomRightX": 398,
+      "bottomRightY": 726,
+      "content": "$$\\int_0^{2\\pi} p_\\theta d\\theta = nh$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 742,
+      "bottomRightX": 595,
+      "bottomRightY": 798,
+      "content": "$\\theta$ étant l'azimut choisi comme coordonnée $q$ de Lagrange $p_\\theta$ le moment correspondant.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 66,
+      "topLeftY": 801,
+      "bottomRightX": 597,
+      "bottomRightY": 932,
+      "content": "MM. Sommerfeld et Wilson, pour étendre cet énoncé aux cas où interviennent plusieurs degrés de liberté, ont montré qu'il est généralement possible de choisir des coordonnées $q_i$, telles que les conditions de quantification des orbites soient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 941,
+      "bottomRightX": 466,
+      "bottomRightY": 984,
+      "content": "$$\\oint p_i dq_i = n_i h \\quad (n_i \\text{ entiers})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

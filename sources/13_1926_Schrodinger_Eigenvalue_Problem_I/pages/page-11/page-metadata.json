@@ -1,0 +1,128 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 660
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 192,
+      "topLeftY": 56,
+      "bottomRightX": 458,
+      "bottomRightY": 77,
+      "content": "Quantisierung als Eigenwertproblem.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 532,
+      "topLeftY": 56,
+      "bottomRightX": 563,
+      "bottomRightY": 75,
+      "content": "371",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 123,
+      "topLeftY": 92,
+      "bottomRightX": 366,
+      "bottomRightY": 112,
+      "content": "§ 2. Die Bedingung (15) ergibt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 114,
+      "bottomRightX": 394,
+      "bottomRightY": 147,
+      "content": "$$(19) \\quad - E_i = \\frac{me^4}{2K^2l^2} .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 152,
+      "bottomRightX": 566,
+      "bottomRightY": 235,
+      "content": "Es ergeben sich also die wohlbekannten Bohrschen Energie-niveaus, die den Balmertermen entsprechen, wenn man der Konstante $K$, die wir in (2) aus dimensionellen Gründen einführen mußten, den Wert erteilt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 238,
+      "bottomRightX": 359,
+      "bottomRightY": 271,
+      "content": "$$(20) \\quad K = \\frac{h}{2\\pi} .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 265,
+      "bottomRightX": 196,
+      "bottomRightY": 286,
+      "content": "Dann wird ja",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 280,
+      "bottomRightX": 398,
+      "bottomRightY": 313,
+      "content": "$$(19') \\quad - E_i = \\frac{2\\pi^2me^4}{h^2l^2} .$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 317,
+      "bottomRightX": 570,
+      "bottomRightY": 624,
+      "content": "Unser $l$ ist die Hauptquantenzahl. $n+1$ hat Analogie mit der Azimutalquantenzahl, die weitere Aufspaltung dieser Zahl bei der näheren Bestimmung der Kugelflächenfunktionen kann mit der Aufspaltung des Azimutalquants in ein „äquatoriales“ und ein „polares“ Quant in Analogie gesetzt werden. Diese Zahlen bestimmen *hier* das System der Knotenlinien auf der Kugel. Auch die „radiale Quantenzahl“, $l-n-1$ bestimmt genau die Zahl der „Knotenkugeln“, denn man kann sich leicht überzeugen, daß die Funktion $f(x)$ in (18) genau $l-n-1$ positive reelle Wurzeln hat. — Die positiven $E$-Werte entsprechen dem Kontinuum der hyperbolischen Bahnen, denen man in gewissem Sinn die radiale Quantenzahl $\\infty$ zuschreiben kann. Dem entspricht, daß, wie wir gesehen haben, die betreffenden Lösungsfunktionen unter *beständigen* Oszillationen ins Unendliche hinaus laufen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 624,
+      "bottomRightX": 572,
+      "bottomRightY": 788,
+      "content": "Von Interesse ist noch, daß der Bereich, innerhalb dessen die Funktionen (18) merklich von Null verschieden sind und innerhalb dessen sich ihre Oszillationen abspielen, jedenfalls von der *allgemeinen Größenordnung* der großen Achse der zugeordneten Ellipse ist. Der Faktor, mit dem multipliziert der Radiusvektor als Argument der konstantenfreien Funktion $f$ auftritt, ist — selbstverständlich — das Reziproke einer Länge, und diese Länge ist",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 789,
+      "bottomRightX": 476,
+      "bottomRightY": 829,
+      "content": "$$(21) \\quad \\frac{K}{\\sqrt{-2mE}} = \\frac{K^2l}{me^2} = \\frac{h^2l}{4\\pi^2me^2} = \\frac{a_l}{l} ,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 830,
+      "bottomRightX": 572,
+      "bottomRightY": 894,
+      "content": "wo $a_l$ die Halbachse der $l$-ten Ellipsenbahn. (Die Gleichungen folgen aus (19) zusammen mit der bekannten Beziehung $E_i = -\\frac{e^2}{2a_l}$).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 456,
+      "topLeftY": 896,
+      "bottomRightX": 483,
+      "bottomRightY": 912,
+      "content": "24\\*",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

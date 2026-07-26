@@ -1,0 +1,137 @@
+{
+  "index": 61,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 41,
+      "topLeftY": 22,
+      "bottomRightX": 65,
+      "bottomRightY": 42,
+      "content": "82",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 22,
+      "bottomRightX": 381,
+      "bottomRightY": 41,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 39,
+      "topLeftY": 62,
+      "bottomRightX": 565,
+      "bottomRightY": 115,
+      "content": "deurs ont pour valeurs $\\nu'$ et $c(1 - \\varepsilon')$. Le théorème d'addition des vitesses donne :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 131,
+      "bottomRightX": 430,
+      "bottomRightY": 191,
+      "content": "$$c(1 - \\varepsilon') = \\frac{c(1 - \\varepsilon) + v}{1 + \\frac{c(1 - \\varepsilon) \\cdot v}{c^2}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 41,
+      "topLeftY": 203,
+      "bottomRightX": 66,
+      "bottomRightY": 222,
+      "content": "ou",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 213,
+      "topLeftY": 227,
+      "bottomRightX": 401,
+      "bottomRightY": 271,
+      "content": "$$1 - \\varepsilon' = \\frac{1 - \\varepsilon + \\beta}{1 + (1 - \\varepsilon)\\beta}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 286,
+      "bottomRightX": 291,
+      "bottomRightY": 311,
+      "content": "ou encore en négligeant $\\varepsilon\\varepsilon'$ :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 326,
+      "bottomRightX": 471,
+      "bottomRightY": 373,
+      "content": "$$\\frac{\\varepsilon}{\\varepsilon'} = \\frac{\\nu'^2}{\\nu^2} = \\frac{1 + \\beta}{1 - \\beta}, \\quad \\frac{\\nu'}{\\nu} = \\sqrt{\\frac{1 + \\beta}{1 - \\beta}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 397,
+      "bottomRightX": 569,
+      "bottomRightY": 424,
+      "content": "si $\\beta$ est petit, on retrouve les formules de l'ancienne optique :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 126,
+      "topLeftY": 437,
+      "bottomRightX": 481,
+      "bottomRightY": 477,
+      "content": "$$\\frac{\\nu'}{\\nu} = 1 + \\beta, \\quad \\frac{T'}{T} = 1 - \\beta = 1 - \\frac{v}{c}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 46,
+      "topLeftY": 500,
+      "bottomRightX": 575,
+      "bottomRightY": 810,
+      "content": "Il est également facile de trouver le rapport des intensités émises pour les deux observateurs. Pendant l'unité de temps, l'observateur entraîné voit la source émettre $n$ atomes de lumière par unité de surface. La densité d'énergie du faisceau évaluée par cet observateur est donc $\\frac{nh\\nu}{c}$ et l'intensité en est $I = nh\\nu$. Pour l'observateur immobile, les $n$ atomes sont émis en un temps égal à $\\frac{1}{\\sqrt{1 - \\beta^2}}$ et ils remplissent un volume $c(1 - \\beta) \\frac{1}{\\sqrt{1 - \\beta^2}} = c \\sqrt{\\frac{1 - \\beta}{1 + \\beta}}$. La densité d'énergie du faisceau lui semble dont être :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 829,
+      "bottomRightX": 380,
+      "bottomRightY": 876,
+      "content": "$$\\frac{nh\\nu'}{c} \\sqrt{\\frac{1 + \\beta}{1 - \\beta}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 51,
+      "topLeftY": 893,
+      "bottomRightX": 173,
+      "bottomRightY": 915,
+      "content": "et l'intensité :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 189,
+      "topLeftY": 924,
+      "bottomRightX": 459,
+      "bottomRightY": 972,
+      "content": "$$I' = nh\\nu' \\sqrt{\\frac{1 + \\beta}{1 - \\beta}} = nh\\nu' \\cdot \\frac{\\nu'}{\\nu}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

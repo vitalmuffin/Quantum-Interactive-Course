@@ -1,0 +1,38 @@
+{
+  "index": 21,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 145,
+      "bottomRightX": 605,
+      "bottomRightY": 273,
+      "content": "fruitful framework for the quantization of general relativity. The formalism invites one to construct the formal theory first, and to supply the statistical interpretation later. This method should be particularly useful for interpreting quantized unified field theories where there is no question of ever isolating observers and object systems. They all are represented in a *single* structure, the field, and any interpretative rules can probably only be deduced in and through the theory itself.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 273,
+      "bottomRightX": 605,
+      "bottomRightY": 360,
+      "content": "Aside from any possible practical advantages of the theory, it remains a matter of intellectual interest that the statistical assertions of the usual interpretation do not have the status of independent hypotheses, but are deducible (in the present sense) from the pure wave mechanics that starts completely free of statistical postulates.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 356,
+      "topLeftY": 832,
+      "bottomRightX": 377,
+      "bottomRightY": 849,
+      "content": "22",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

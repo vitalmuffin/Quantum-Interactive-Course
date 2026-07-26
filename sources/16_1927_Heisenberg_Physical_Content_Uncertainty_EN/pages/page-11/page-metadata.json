@@ -1,0 +1,65 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1017,
+    "width": 640
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 96,
+      "topLeftY": 54,
+      "bottomRightX": 111,
+      "bottomRightY": 67,
+      "content": "72",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 54,
+      "bottomRightX": 394,
+      "bottomRightY": 67,
+      "content": "HEISENBERG",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 88,
+      "bottomRightX": 618,
+      "bottomRightY": 693,
+      "content": "the probability for “l” beyond $F_2$ is given by $d_{ml}\\overline{d}_{ml}$. In many repetitions of the entire experiment (in which each time the state is determined between $F_1$ and $F_2$) one will therefore observe the state $l$, beyond $F_2$, with the relative frequency $Z_{nl} = \\sum_m c_{nm}\\overline{c}_{nm}d_{ml}\\overline{d}_{ml}$. This expression does not agree at all with $e_{nl}\\overline{e}_{nl}$. For this reason Jordan (l.c.) has spoken of an “interference of probabilities.” I cannot agree. The two kinds of experiments which lead respectively to $e_{nl}\\overline{e}_{nl}$ and $Z_{nl}$ are physically distinct. In one case the atom experiences no disturbance between $F_1$ and $F_2$. In the other case it is perturbed by the apparatus which determines its stationary state. This apparatus has as a consequence that the “phase” of the atom changes by an amount that is in principle uncheckable, as the momentum of an electron likewise changes with a determination of its position (see §1). The magnetic field for the determination of the state between $F_1$ and $F_2$ will separate the eigenvalues $E$. In the observation of the path of the atomic beam the atoms are slowed down by statistically different and uncheckable amounts (I think here, say, of Wilson cloud-chamber pictures). This has as a consequence that the final transformation matrix (from the energy value before entry into $F_1$ to the energy after exit from $F_2$) is no longer given by $\\sum_m c_{nm}d_{ml}$, but every term in this sum has additionally an unknown phase factor. No expectation is therefore open to us, except that the mean value of $e_{nl}\\overline{e}_{nl}$ averaged over all these expected phase alterations is equal to $Z_{nl}$. A simple calculation confirms that this is the case. We can therefore deduce from one experiment the possible results of another by definite statistical rules. The other experiment itself selects out of the plenitude of all possibilities a quite definite one, and thereby limits the possibilities for all later experiments. Such an interpretation of the equation for the transformation matrix $S$ or the Schrödinger wave equation is only possible because the sum of solutions is again a solution. In this circumstance we see the deep significance of the linearity of Schrödinger wave equations. On that account they can be understood only as equations for waves in phase space; and on that account we may regard as hopeless every attempt to replace these equations by nonlinear equations, for example in the relativistic case (for more than one electron).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 173,
+      "topLeftY": 723,
+      "bottomRightX": 542,
+      "bottomRightY": 741,
+      "content": "### §3. THE TRANSITION FROM MICRO- TO MACROMECHANICS",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 752,
+      "bottomRightX": 618,
+      "bottomRightY": 868,
+      "content": "It seems to me that the concepts of kinematics and mechanics in quantum theory are sufficiently clarified by the analysis of the words “position of an electron,” “velocity,” “energy,” etc., in the preceding sections that physical understanding of macroscopic processes from the standpoint of quantum mechanics must also be possible. The transition from micro- to macromechanics has already been treated by Schrödinger,* but I do not believe that Schrödinger’s considerations",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 888,
+      "bottomRightX": 335,
+      "bottomRightY": 903,
+      "content": "* E. Schrödinger, Naturwiss., 14, 664 (1926).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

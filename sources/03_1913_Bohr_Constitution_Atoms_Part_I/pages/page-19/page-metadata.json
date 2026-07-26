@@ -1,0 +1,65 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 600
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 72,
+      "topLeftY": 86,
+      "bottomRightX": 96,
+      "bottomRightY": 104,
+      "content": "18",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 183,
+      "topLeftY": 86,
+      "bottomRightX": 418,
+      "bottomRightY": 104,
+      "content": "Dr. N. Bohr^{}[] *on the Constitution*",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 110,
+      "bottomRightX": 526,
+      "bottomRightY": 670,
+      "content": "rather few lines are observed. Now in Wood's experiments the pressure was not very low, and the states corresponding to high values for $\\tau$ could therefore not appear; yet in the absorption spectrum about 50 lines were detected. In the experiments in question we consequently observe an absorption of radiation which is not accompanied by a complete transition between two different stationary states. According to the present theory we must assume that this absorption is followed by an emission of energy during which the systems pass back to the original stationary state. If there are no collisions between the different systems this energy will be emitted as a radiation of the same frequency as that absorbed, and there will be no true absorption but only a scattering of the original radiation; a true absorption will not occur unless the energy in question is transformed by collisions into kinetic energy of free particles. In analogy we may now from the above experiments conclude that a bound electron—also in cases in which there is no ionization—will have an absorbing (scattering) influence on a homogeneous radiation, as soon as the frequency of the radiation is greater than $W/h$, where $W$ is the total amount of energy emitted during the binding of the electron. This would be highly in favour of a theory of absorption as the one sketched above, as there can in such a case be no question of a coincidence of the frequency of the radiation and a characteristic frequency of vibration of the electron. It will further be seen that the assumption, that there will be an absorption (scattering) of any radiation corresponding to a transition between two different mechanical states, is in perfect analogy with the assumption generally used that a free electron will have an absorbing (scattering) influence on light of any frequency. Corresponding considerations will hold for the emission of radiation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 74,
+      "topLeftY": 668,
+      "bottomRightX": 528,
+      "bottomRightY": 877,
+      "content": "In analogy to the assumption used in this paper that the emission of line-spectra is due to the re-formation of atoms after one or more of the lightly bound electrons are removed, we may assume that the homogeneous Röntgen radiation is emitted during the settling down of the systems after one of the firmly bound electrons escapes, *e.g.* by impact of cathode particles\\*. In the next part of this paper, dealing with the constitution of atoms, we shall consider the question more closely and try to show that a calculation based on this assumption is in quantitative agreement with the results of experiments: here we shall only mention briefly a problem with which we meet in such a calculation.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 880,
+      "bottomRightX": 486,
+      "bottomRightY": 900,
+      "content": "\\* Compare J. J. Thomson, *Phil. Mag.* xxiii. p. 456 (1912).",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 0,
+      "topLeftY": 288,
+      "bottomRightX": 12,
+      "bottomRightY": 724,
+      "content": "Downloaded By: [German National Library 2007] At: 08:03 18 November 2010",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

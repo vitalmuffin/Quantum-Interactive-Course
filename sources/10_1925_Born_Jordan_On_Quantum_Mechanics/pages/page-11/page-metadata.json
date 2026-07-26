@@ -1,0 +1,146 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 103,
+      "bottomRightX": 133,
+      "bottomRightY": 119,
+      "content": "868",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 103,
+      "bottomRightX": 415,
+      "bottomRightY": 119,
+      "content": "M. Born und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 139,
+      "bottomRightX": 583,
+      "bottomRightY": 176,
+      "content": "die Diagonalmatrix mit den permutierten $W_n$ in der Diagonale. Man hat daher",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 213,
+      "topLeftY": 177,
+      "bottomRightX": 477,
+      "bottomRightY": 211,
+      "content": "$$p \\dot{g} p^{-1} = \\frac{2 \\pi i}{h} (W' g' - g' W') = \\dot{g}',$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 219,
+      "bottomRightX": 584,
+      "bottomRightY": 259,
+      "content": "wo $g' = p g p^{-1}$ ist und $\\dot{g}'$ die nach der Regel (31) mit permutierten $W_n$ gebildete zeitliche Ableitung von $g'$ bedeutet.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 260,
+      "bottomRightX": 586,
+      "bottomRightY": 299,
+      "content": "Die Zeilen und Kolonnen von $\\dot{g}$ erleiden also dieselbe Permutation wie die von $g$, und daraus folgt unsere Behauptung.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 300,
+      "bottomRightX": 586,
+      "bottomRightY": 418,
+      "content": "Zu beachten ist, daß ein entsprechender Satz für beliebige Transformation der Form $a' = b a b^{-1}$ nicht gilt; denn bei solchen ist $W'$ nicht mehr Diagonalmatrix. Trotz dieser Schwierigkeit scheint uns ein genaues Studium dieser allgemeinen Transformationen unerläßlich, weil es Einblick in die tieferen Zusammenhänge der neuen Theorie verspricht; wir werden später darauf zurückkommen$^{1)}$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 420,
+      "bottomRightX": 525,
+      "bottomRightY": 438,
+      "content": "Für den Fall einer Hamiltonschen Funktion der Gestalt",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 442,
+      "bottomRightX": 418,
+      "bottomRightY": 476,
+      "content": "$$H = \\frac{1}{2 m} p^2 + U(q)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 482,
+      "bottomRightX": 588,
+      "bottomRightY": 540,
+      "content": "werden wir mit Heisenberg annehmen, daß die Bewegungsgleichungen ebenso wie die klassischen lauten, so daß wir mit der Symbolik von § 2 schreiben können:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 541,
+      "bottomRightX": 588,
+      "bottomRightY": 620,
+      "content": "$$\\left. \\begin{aligned} \\dot{q} &= \\frac{\\partial H}{\\partial p} = \\frac{1}{m} p, \\\\ \\dot{p} &= -\\frac{\\partial H}{\\partial q} = -\\frac{\\partial U}{\\partial q}. \\end{aligned} \\right\\} \\quad (32)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 625,
+      "bottomRightX": 590,
+      "bottomRightY": 803,
+      "content": "Es soll versucht werden, durch eine korrespondenzmäßige Betrachtung auch für den allgemeinen Fall einer beliebigen Hamiltonschen Funktion $H(p q)$ zugehörige Bewegungsgleichungen zu bestimmen. Das ist erforderlich in Rücksicht auf die relativistische Mechanik und besonders auf die Behandlung der Bewegung von Elektronen unter Mitwirkung magnetischer Felder. Denn in letzterem Falle kann die Funktion $H$ bei kartesischen Koordinaten nicht mehr dargestellt werden als Summe zweier Funktionen, deren eine nur von den Impulsen und deren andere nur von den Koordinaten abhängt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 805,
+      "bottomRightX": 591,
+      "bottomRightY": 844,
+      "content": "Klassisch sind die Bewegungsgleichungen abzuleiten aus dem Wirkungsprinzip",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 846,
+      "bottomRightX": 591,
+      "bottomRightY": 890,
+      "content": "$$\\int_{t_0}^{t_1} L dt = \\int_{t_0}^{t_1} \\{p \\dot{q} - H(p q)\\} dt = \\text{Extremum.} \\quad (33)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 145,
+      "topLeftY": 903,
+      "bottomRightX": 512,
+      "bottomRightY": 920,
+      "content": "$^{1)}$ Vgl. die demnächst erscheinende Fortsetzung dieser Arbeit.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

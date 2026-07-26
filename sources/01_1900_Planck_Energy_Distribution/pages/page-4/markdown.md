@@ -1,0 +1,19 @@
+240 Verhandlungen der Deutschen Physikal. Gesellschaft. [Nr. 17.
+
+mit der gemeinsamen Schwingungszahl $\nu$ der Resonatoren multiplicirt ergiebt das Energieelement $\varepsilon$ in erg, und durch Division von $E$ durch $\varepsilon$ erhalten wir die Anzahl $P$ der Energieelemente, welche unter die $N$ Resonatoren zu verteilen sind. Wenn der so berechnete Quotient keine ganze Zahl ist, so nehme man für $P$ eine in der Nähe gelegene ganze Zahl.
+
+Nun ist einleuchtend, dass die Verteilung der $P$ Energieelemente auf die $N$ Resonatoren nur auf eine endliche ganz bestimmte Anzahl von Arten erfolgen kann. Jede solche Art der Verteilung nennen wir nach einem von Hrn. BOLTZMANN für einen ähnlichen Begriff gebrauchten Ausdruck eine „Complexion“. Bezeichnet man die Resonatoren mit den Ziffern 1., 2., 3. . . bis $N$, schreibt diese der Reihe nach nebeneinander, und setzt unter jeden Resonator die Anzahl der auf ihn entfallenden Energieelemente, so erhält man für jede Complexion ein Symbol von folgender Form:
+
+|  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  7 | 38 | 11 | 0 | 9 | 2 | 20 | 4 | 4 | 5  |
+
+Hier ist $N=10$, $P=100$ angenommen. Die Anzahl aller möglichen Complexionen ist offenbar gleich der Anzahl aller möglichen Ziffernbilder, die man auf diese Weise, bei bestimmtem $N$ und $P$, für die untere Reihe erhalten kann. Um jedes Missverständnis auszuschliessen, sei noch bemerkt, dass zwei Complexionen als verschieden anzusehen sind, wenn die entsprechenden Ziffernbilder dieselben Ziffern, aber in verschiedener Anordnung, enthalten. Aus der Combinationslehre ergiebt sich die Anzahl aller möglichen Complexionen zu
+
+$$\frac{N \cdot (N+1) \cdot (N+2) \dots (N+P-1)}{1 \cdot 2 \cdot 3 \dots P} = \frac{(N+P-1)!}{(N-1)! P!}$$
+
+und mit genügender Annäherung
+
+$$= \frac{(N+P)^{N+P}}{N^N P^P}.$$
+
+Dieselbe Rechnung führen wir bei den Resonatoren der übrigen Gattungen aus, indem wir für jede Resonatorgattung die Anzahl der bei der für sie angenommenen Energie möglichen Complexionen bestimmen. Die Multiplication aller so erhaltenen Zahlen ergiebt dann die Gesamtzahl $\Re$ der bei der ver-

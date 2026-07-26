@@ -1,0 +1,29 @@
+SCATTERING OF X-RAYS BY LIGHT ELEMENTS
+
+499
+
+X-rays. In the case of hard γ-rays, however, Ishino has shown¹ that there is true absorption as well as scattering, and that for the lighter elements the true absorption is proportional to the atomic number. That is, this absorption is proportional to the number of electrons present, just as is the scattering. He gives for the true mass absorption coefficient of the hard γ-rays from RaC in both aluminium and iron the value 0.021. According to Eq. (30), the true mass absorption by aluminium should be 0.021 and by iron, 0.020, taking the effective wave-length of the rays to be 0.022 A. The difference between the theory and the experiments is less than the probable experimental error.
+
+Ishino has also estimated the true mass scattering coefficients of the hard γ-rays from RaC by aluminium and iron to be 0.045 and 0.042 respectively.² These values are very far from the values 0.193 and 0.187 predicted by the classical theory. But taking λ = 0.022 A, as before, the corresponding values calculated from Eq. (29) are 0.040 and 0.038, which do not differ seriously from the experimental values.
+
+It is well known that for soft X-rays scattered by light elements the total scattering is in accord with Thomson's formula. This is in agreement with the present theory, according to which the true scattering coefficient σₛ approaches Thomson's value σ₀ when α ≡ h/mcλ becomes small (Eq. 29).
+
+![img-6.jpeg](img-6.jpeg)
+
+The relative intensity of the X-rays scattered in different directions with the primary beam.—Our Eq. (27) predicts a concentration of the energy in the forward direction. A large number of experiments on the scattering of X-rays have shown that, except for the excess scattering at small angles, the ionization due to the scattered beam is symmetrical on the emergence and incidence sides of a scattering plate. The difference in intensity on the two sides according to Eq. (27) should, however, be noticeable. Thus if the wave-length is 0.7 A, which is probably about that used by Barkla and Ayers in their experiments on the scattering by carbon,³ the ratio of the intensity of the rays scattered at 40° to that at 140° should be about 1.10. But their experimental ratio was 1.04, which differs from our theory by more than their probable experimental error.
+
+It will be remembered, however, that our theory, and experiment also, indicates a difference in the wave-length of the X-rays scattered in different directions. The softer X-rays which are scattered backward are the more easily absorbed and, though of smaller intensity, may produce an
+
+¹ M. Ishino, Phil. Mag. 33, 140 (1917).
+
+² M. Ishino, loc. cit.
+
+³ Barkla and Ayers, loc. cit.
+
+500
+
+ARTHUR H. COMPTON
+
+ionization equal to that of the beam scattered forward. Indeed, if α is small compared with unity, as is the case for ordinary X-rays, Eq. (27) may be written approximately Iθ/Iθ' = (λ₀/λθ)³, where Iθ' is the intensity of the beam scattered at the angle θ according to the classical theory. The part of the absorption which results in ionization is however proportional to λ². Hence if, as is usually the case, only a small part of the X-rays entering the ionization chamber is absorbed by the gas in the chamber, the ionization is also proportional to λ². Thus if iθ represents the ionization due to the beam scattered at the angle θ, and if iθ' is the corresponding ionization on the classical theory, we have iθ/iθ' = (Iθ/Iθ')(λθ/λθ)³ = 1, or iθ = iθ'. That is, to a first approximation, the ionization should be the same as that on the classical theory, though the energy in the scattered beam is less. This conclusion is in good accord with the experiments which have been performed on the scattering of ordinary X-rays, if correction is made for the excess scattering which appears at small angles.
+
+Fig. 7. Comparison of experimental and theoretical intensities of scattered γ-rays.

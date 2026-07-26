@@ -1,0 +1,101 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 104,
+      "topLeftY": 105,
+      "bottomRightX": 135,
+      "bottomRightY": 122,
+      "content": "612",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 296,
+      "topLeftY": 105,
+      "bottomRightX": 416,
+      "bottomRightY": 122,
+      "content": "P. A. M. Dirac.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 141,
+      "bottomRightX": 607,
+      "bottomRightY": 263,
+      "content": "at any specified time having a value lying between any specified limits, when the system is represented by a given wave function $\\psi_n$? The Gordon-Klein interpretation can answer such questions if they refer to the position of the electron (by the use of $\\rho_{nn}$), but not if they refer to its momentum, or angular momentum or any other dynamical variable. We should expect the interpretation of the relativity theory to be just as general as that of the non-relativity theory.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 265,
+      "bottomRightX": 607,
+      "bottomRightY": 323,
+      "content": "The general interpretation of non-relativity quantum mechanics is based on the transformation theory, and is made possible by the wave equation being of the form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 323,
+      "bottomRightX": 606,
+      "bottomRightY": 341,
+      "content": "$$(H - W) \\psi = 0, \\quad (2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 353,
+      "bottomRightX": 607,
+      "bottomRightY": 413,
+      "content": "*i.e.*, being linear in $W$ or $\\partial/\\partial t$, so that the wave function at any time determines the wave function at any later time. The wave equation of the relativity theory must also be linear in $W$ if the general interpretation is to be possible.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 415,
+      "bottomRightX": 607,
+      "bottomRightY": 456,
+      "content": "The second difficulty in Gordon's interpretation arises from the fact that if one takes the conjugate imaginary of equation (1), one gets",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 466,
+      "bottomRightX": 520,
+      "bottomRightY": 500,
+      "content": "$$\\left[ \\left( - \\frac{W}{c} + \\frac{e}{c} A_0 \\right)^2 + \\left( - p + \\frac{e}{c} A \\right)^2 + m^2 c^2 \\right] \\psi = 0,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 515,
+      "bottomRightX": 608,
+      "bottomRightY": 824,
+      "content": "which is the same as one would get if one put $-e$ for $e$. The wave equation (1) thus refers equally well to an electron with charge $e$ as to one with charge $-e$. If one considers for definiteness the limiting case of large quantum numbers one would find that some of the solutions of the wave equation are wave packets moving in the way a particle of charge $-e$ would move on the classical theory, while others are wave packets moving in the way a particle of charge $e$ would move classically. For this second class of solutions $W$ has a negative value. One gets over the difficulty on the classical theory by arbitrarily excluding those solutions that have a negative $W$. One cannot do this on the quantum theory, since in general a perturbation will cause transitions from states with $W$ positive to states with $W$ negative. Such a transition would appear experimentally as the electron suddenly changing its charge from $-e$ to $e$, a phenomenon which has not been observed. The true relativity wave equation should thus be such that its solutions split up into two non-combining sets, referring respectively to the charge $-e$ and the charge $e$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 826,
+      "bottomRightX": 608,
+      "bottomRightY": 908,
+      "content": "In the present paper we shall be concerned only with the removal of the first of these two difficulties. The resulting theory is therefore still only an approximation, but it appears to be good enough to account for all the duplexity phenomena without arbitrary assumptions.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

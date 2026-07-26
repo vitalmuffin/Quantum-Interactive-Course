@@ -1,0 +1,209 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 719
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 106,
+      "topLeftY": 107,
+      "bottomRightX": 136,
+      "bottomRightY": 123,
+      "content": "624",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 106,
+      "bottomRightX": 470,
+      "bottomRightY": 125,
+      "content": "Quantum Theory of Electron.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 143,
+      "bottomRightX": 436,
+      "bottomRightY": 161,
+      "content": "The correction is now, to the first order of accuracy",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 291,
+      "topLeftY": 171,
+      "bottomRightX": 417,
+      "bottomRightY": 207,
+      "content": "$$\\frac{1}{Bh} \\left( \\frac{j}{r} \\frac{\\partial V}{\\partial r} - \\frac{1}{2} \\frac{\\partial^2 V}{\\partial r^2} \\right),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 221,
+      "bottomRightX": 610,
+      "bottomRightY": 260,
+      "content": "where $Bh = 2mc$ (provided $p_0$ is positive). For the hydrogen atom we must put $V = e^2/cr$. The first order correction now becomes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 293,
+      "topLeftY": 268,
+      "bottomRightX": 608,
+      "bottomRightY": 301,
+      "content": "$$- \\frac{e^2}{2mc^2 r^3} (j + 1). \\quad (28)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 311,
+      "bottomRightX": 608,
+      "bottomRightY": 351,
+      "content": "If we write $-j$ for $j + 1$ in (27), we do not alter the terms representing the unperturbed system, so",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 333,
+      "topLeftY": 350,
+      "bottomRightX": 608,
+      "bottomRightY": 382,
+      "content": "$$\\frac{e^2}{2mc^2 r^3} j \\quad (28')$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 397,
+      "bottomRightX": 551,
+      "bottomRightY": 415,
+      "content": "will give a second possible correction for the same unperturbed term.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 417,
+      "bottomRightX": 578,
+      "bottomRightY": 435,
+      "content": "In the theory of Pauli and Darwin, the corresponding correcting term is",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 295,
+      "topLeftY": 447,
+      "bottomRightX": 400,
+      "bottomRightY": 481,
+      "content": "$$\\frac{e^2}{2mhc^2 r^3} (\\boldsymbol{\\sigma}, \\mathbf{m})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 494,
+      "bottomRightX": 608,
+      "bottomRightY": 556,
+      "content": "when the Thomas factor $\\frac{1}{2}$ is included. We must remember that in the Pauli-Darwin theory, the resultant orbital angular momentum $k$ plays the part of our $j$. We must define $k$ by",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 297,
+      "topLeftY": 558,
+      "bottomRightX": 422,
+      "bottomRightY": 575,
+      "content": "$$\\mathbf{m}^2 = k (k + 1) h^2$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 587,
+      "bottomRightX": 608,
+      "bottomRightY": 627,
+      "content": "instead of by the exact analogue of (19), in order that it may have integral characteristic values, like $j$. We have from (20)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 638,
+      "bottomRightX": 489,
+      "bottomRightY": 656,
+      "content": "$$(\\boldsymbol{\\sigma}, \\mathbf{m})^2 = k (k + 1) h^2 - h (\\boldsymbol{\\sigma}, \\mathbf{m})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 658,
+      "bottomRightX": 120,
+      "bottomRightY": 673,
+      "content": "or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 261,
+      "topLeftY": 671,
+      "bottomRightX": 460,
+      "bottomRightY": 690,
+      "content": "$$\\{(\\boldsymbol{\\sigma}, \\mathbf{m}) + \\frac{1}{2}h\\}^2 = (k + \\frac{1}{2})^2 h^2,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 690,
+      "bottomRightX": 142,
+      "bottomRightY": 705,
+      "content": "hence",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 261,
+      "topLeftY": 703,
+      "bottomRightX": 460,
+      "bottomRightY": 721,
+      "content": "$$(\\boldsymbol{\\sigma}, \\mathbf{m}) = kh \\text{ or } - (k + 1) h.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 102,
+      "topLeftY": 735,
+      "bottomRightX": 288,
+      "bottomRightY": 751,
+      "content": "The correction thus becomes",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 763,
+      "bottomRightX": 461,
+      "bottomRightY": 797,
+      "content": "$$\\frac{e^2}{2mc^2 r^3} k \\quad \\text{or} \\quad - \\frac{e^2}{2mc^2 r^3} (k + 1),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 811,
+      "bottomRightX": 608,
+      "bottomRightY": 871,
+      "content": "which agrees with (28) and (28'). The present theory will thus, in the first approximation, lead to the same energy levels as those obtained by Darwin, which are in agreement with experiment.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

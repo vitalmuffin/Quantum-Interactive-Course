@@ -1,0 +1,66 @@
+{
+  "index": 54,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 144,
+      "topLeftY": 39,
+      "bottomRightX": 480,
+      "bottomRightY": 60,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 544,
+      "topLeftY": 39,
+      "bottomRightX": 567,
+      "bottomRightY": 61,
+      "content": "75",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 55,
+      "topLeftY": 80,
+      "bottomRightX": 568,
+      "bottomRightY": 233,
+      "content": "centre de gravité les rayons à l'instant $t$ des deux ondes de phase (trait plein) et les trajectoires décrites au cours du temps par les deux mobiles (trait pointillé). On parvient alors très bien à se représenter comment chaque mobile décrit sa trajectoire avec une vitesse qui à tout instant est tangente au rayon de l'onde de phase.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 250,
+      "bottomRightX": 524,
+      "bottomRightY": 648,
+      "content": "![img-4.jpeg](img-4.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-4.jpeg"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 656,
+      "bottomRightX": 334,
+      "bottomRightY": 678,
+      "content": "Fig. 5.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 51,
+      "topLeftY": 701,
+      "bottomRightX": 562,
+      "bottomRightY": 905,
+      "content": "Insistons sur un dernier point. Les rayons de l'onde à l'instant $t$ sont les enveloppes de la vitesse de propagation, mais ces rayons ne sont pas les trajectoires de l'énergie, ils leur sont seulement tangents en chaque point. Ceci rappelle des conclusions connues de l'hydrodynamique où les lignes de courant, enveloppes des vitesses, ne sont les trajectoires des particules fluides que si leur forme est invariable, autrement dit si le mouvement est permanent.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

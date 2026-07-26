@@ -1,0 +1,29 @@
+828
+
+KÖHLER: Über die Variabilität des Ringmosaikvirus (X-Virus) der Kartoffel.
+
+[ Die Naturwissenschaften
+
+Kenntnis, die man von einem System hat, zunächst immer verdorben. Man muß den Eingriff schon sehr behutsam organisieren, damit sie sich nachher wieder zurückgewinnen läßt.
+
+Was haben wir durch diese Analyse gewonnen? *Eretens* den Einblick in das disjunktive Aufspalten des Erwartungskataloges, welches noch ganz stetig erfolgt und durch Einbetten in einen gemeinsamen Katalog für Instrument und Objekt ermöglicht wird. Aus dieser Verquickung kann das Objekt nur dadurch wieder herausgelöst werden, daß das lebende Subjekt vom Resultat der Messung wirklich Kenntnis nimmt. Irgendeinmal muß das geschehen, wenn das, was sich abgespielt hat, wirklich eine Messung heißen soll, — wie sehr es uns auch am Herzen liege, den Vorgang so objektiv wie möglich herauszupräparieren. Und das ist der *zweite* Einblick, den wir gewinnen: *erst bei diesem Inspizieren*, welches die Disjunktion entscheidet, passiert etwas Unstetiges, Sprunghaftes. Man ist geneigt, es einen *mentalen* Akt zu nennen, denn das Objekt ist ja schon abgeschaltet, wird nicht mehr physisch ergriffen; was ihm wider-
+
+widerfahren, ist schon vorbei. Aber es wäre nicht ganz richtig, zu sagen, daß die $\varphi$-Funktion des Objekts, die sich *sonst* nach einer partiellen Differentialgleichung, unabhängig vom Beobachter, verändert, *jetzt* infolge eines mentalen Aktes sprunghaft wechselt. Denn sie war verlorengegangen, es gab sie nicht mehr. Was nicht ist, kann sich auch nicht verändern. Sie wird wiedergeboren, wird restituiert, wird aus der verwickelten Kenntnis, die man besitzt, herausgelöst durch einen Wahrnehmungsakt, der in der Tat bestimmt nicht mehr eine physische Einwirkung auf das Meßobjekt ist. Von der Form, in der man die $\varphi$-Funktion zuletzt gekannt, zu der neuen, in der sie wieder auftritt, führt kein stetiger Weg — er führte eben durch die Vernichtung. Kontrastiert man die zwei Formen, so erscheint die Sache als Sprung. In Wahrheit liegt wichtiges Geschehen dazwischen, nämlich die Einwirkung der zwei Körper aufeinander, während welcher das Objekt keinen privaten Erwartungskatalog besaß und auch keinen Anspruch darauf hatte, weil es nicht selbständig war.
+
+(Schluß folgt.)
+
+## Über die Variabilität des Ringmosaikvirus (X-Virus) der Kartoffel$^{1}$.
+
+Von E. KÖHLER, Berlin-Dahlem.
+
+Unter der Bezeichnung Ringmosaikvirus (oder auch X-Virus) faßt man eine Gruppe von Mosaikvira der Kartoffel zusammen, die dadurch charakterisiert sind, daß sie auf den Blättern des Tabaks, ihrer Testpflanze, als Krankheitszeichen eigentümliche Ringmuster hervorrufen. Wichtige Charakteristika sind ferner folgende: Leichte Übertragbarkeit mit dem Saft, relativ hohe Widerstandsfähigkeit gegen Erhitzen, keine Übertragbarkeit durch die Blattlausart *Myzus persicae*, hohe Verdünnungsresistenz. Das Ringmosaikvirus besitzt eine außergewöhnliche Verbreitung in den Kartoffelbeständen der ganzen Welt. An wirtschaftlicher Bedeutung tritt es hinter gewissen anderen Viren zurück, da die meisten Kartoffelsorten gegen dieses Virus ausgesprochen tolerant sind und nicht oder jedenfalls nicht merklich geschädigt werden.
+
+Dem Umstand, daß die meisten Sorten (Klone) so hochgradig tolerant sind, hat das Virus auch seine weite Verbreitung zu verdanken. Der Mensch hatte keine Veranlassung, es bei toleranten Sorten durch Selektion zu unterdrücken. Daher sehen wir auch, daß alle toleranten Sorten einer unaufhaltsamen Verseuchung durch dieses Virus unterliegen, während die weniger toleranten durch die Gegenwirkung des Menschen in großem Umfang davon befreit bleiben.
+
+Eine besonders hervorstechende Eigenschaft des Ringmosaikvirus ist seine Variabilität. Kaum 2 Stämme, die wir durch einfaches Überimpfen von Kartoffeln auf Tabak gewinnen, sind einander
+
+vollkommen gleich. Dazu kommt die zuerst von KENNETH M. SMITH gemachte Beobachtung, daß solche Stämme auf dem Tabak im Laufe der Zeit eine Verstärkung erfahren können, daß also augenscheinlich Virulenzänderungen eine Rolle spielen.
+
+In der letzten Zeit haben JAMES JOHNSON und KOCH an nordamerikanischen Kartoffeln die Feststellung gemacht, daß innerhalb der Ringmosaikgruppe 2 Typen unterschieden werden müssen, die sie als potato ring spot-Virus und Mottle-Virus bezeichnen. Von diesen zeichnet sich das letztere durch eine etwas erhöhte Hitzeresistenz aus. In manchen nordamerikanischen Sorten kommen beide Typen im Gemisch vor, manche Sorten enthalten augenscheinlich entweder nur das eine oder nur das andere Virus. Von jedem Typus lassen sich Stämme unterschiedlicher Virulenz isolieren. Durch unsere eigenen Untersuchungen konnten wir diese Feststellungen weitgehend bestätigen, und zwar sind dem potato ring spot-Virus u. a. unsere früher isolierten Stämme Mb 12 (von „Magnum bonum“), E 1 (von „Erdgold“), H 19 (von „Kl. Sp. Wohltmann“), M 23 (von „Kl. Sp. Wohltmann“) zuzusprechen. Von diesen ist Mb 12 der virulenzschwächte und nahezu latent, M 23 der virulenzstärkste. Das Mottle-Virus haben wir vorwiegend in der Sorte „Erstling“ (synon. „Duke of York“) angetroffen. Manche aus der nördlichen Provinz Hannover stammende Herkünfte dieser Sorte waren fast rein mit diesem Virus durchsetzt, nur gelegentlich fanden wir darin auch Beimengungen eines anderen Typus. Wir konnten 3 Mottle-Stämme unterschiedlicher Virulenz isolieren, die als Erstl. 34, Erstl. 25 und Erstl. Mix bezeichnet wurden, von ihnen ist das
+
+$^{1}$ Nach einem auf dem VI. Internationalen Botanikerkongreß in Amsterdam gehaltenen Vortrag. Eine ausführliche Abhandlung ist in Vorbereitung.

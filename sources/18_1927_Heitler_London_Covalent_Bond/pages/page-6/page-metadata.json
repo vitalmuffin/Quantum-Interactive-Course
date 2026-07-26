@@ -1,0 +1,92 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 98,
+      "topLeftY": 95,
+      "bottomRightX": 128,
+      "bottomRightY": 112,
+      "content": "460",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 259,
+      "topLeftY": 95,
+      "bottomRightX": 415,
+      "bottomRightY": 110,
+      "content": "W. Heitler und F. London,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 131,
+      "bottomRightX": 577,
+      "bottomRightY": 170,
+      "content": "§ 2. Diskussion des Resultats. 1. Wir erhalten also zwei Störungsenergien entsprechend den Ansätzen (5a):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 246,
+      "topLeftY": 175,
+      "bottomRightX": 422,
+      "bottomRightY": 212,
+      "content": "$$E_a = E_{11} - \\frac{E_{11}S - E_{12}}{1 + S}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 212,
+      "bottomRightX": 509,
+      "bottomRightY": 254,
+      "content": "gehört zu $\\frac{1}{\\sqrt{2 + 2S}}(\\psi_1\\varphi_2 + \\psi_2\\varphi_1)$ (symmetrisch in 1 und 2),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 246,
+      "topLeftY": 253,
+      "bottomRightX": 422,
+      "bottomRightY": 287,
+      "content": "$$E_\\beta = E_{11} + \\frac{E_{11}S - E_{12}}{1 - S}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 290,
+      "bottomRightX": 534,
+      "bottomRightY": 329,
+      "content": "gehört zu $\\frac{1}{\\sqrt{2 - 2S}}(\\psi_1\\varphi_2 - \\psi_2\\varphi_1)$ (antisymmetrisch in 1 und 2).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 336,
+      "bottomRightX": 577,
+      "bottomRightY": 516,
+      "content": "Es ist ein mit klassischen Begriffen nur sehr künstlich zu beschreibendes Ergebnis, daß zwei neutrale Atome auf zwei verschiedene Weisen miteinander wechselwirken können. Von einem wirklichen Verständnis dieses Sachverhaltes sind wir wohl noch weit entfernt. Aber es ist wünschenswert, sich wenigstens darüber klar zu werden, wie diese merkwürdige Zweideutigkeit mathematisch zustande kommt. Das Wesentliche ist offenbar, daß das Problem ursprünglich zweifach entartet ist (1a und 1b), entsprechend den beiden Möglichkeiten, die Elektronen den neutralen Atomen zuzuordnen$^{1}$. Die Aufhebung dieser Entartung knüpft sich, wie",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 530,
+      "bottomRightX": 578,
+      "bottomRightY": 912,
+      "content": "$^{1}$ In der klassischen Mechanik ist dieses Problem nicht entartet: Es gehört zwar zu den beiden Elektronenanordnungen derselbe Energiewert. Aber das Kriterium einer Entartung der klassischen Mechanik ist nicht $E_k - E_l = 0$, sondern $\\nu \\equiv \\frac{\\partial E}{\\partial J} = 0$ (eine „Nachbarschaftsbezeichnung“ hinsichtlich der Wirkungsvariablen $J$). Tatsächlich haben auch die Elektronen in diesem Falle ihren vollen Periodizitätsgrad. Erst wenn die Energie ausreicht, die zwischen den beiden Atomen befindliche Potentialschwelle zu überwinden (oder bei hinreichender Annäherung der beiden Atome), hat $E_k - E_l = 0$ jetzt $\\frac{\\partial E}{\\partial J} = 0$ zur Folge und das Problem ist entartet. Dabei beschreiben die Elektronen jetzt Bahnen um beide Kerne und tauschen sich ständig aus. In der Quantenmechanik tritt diese Fallunterscheidung nicht auf (vgl. F. Hund, ZS. f. Phys. 40, 442, 1926). Bei noch so großer (endlicher) Potentialschwelle besteht dementsprechend stets eine gewisse Wahrscheinlichkeit für einen Austausch der Elektronen. Während es in der klassischen Mechanik eine Möglichkeit gibt, eine Etikettierung an Elektronen festzuhalten (man lege jedes Elektron in eine hinlänglich tiefe Potentialmulde und halte größere Energiezufuhr fern), ist etwas Entsprechendes in der Quantenmechanik unmöglich: Wenn man auch in einem Augenblick ein Elektron in einer Potentialmulde weiß, nie ist man sicher, ob es sich nicht bereits im nächsten Augenblick mit einem anderen ausgetauscht hat. Daher ist eine Statistik, welche prinzipiell von einer Individualisierung der Elektronen absieht und nur ihre zahlenmäßige Verteilung auf die Zustände berücksichtigt, wie die Bose- oder Fermistatistik, den quantenmechanischen Beschreibungsmöglichkeiten so ungemein angepaßt.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

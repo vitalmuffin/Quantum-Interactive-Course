@@ -1,0 +1,37 @@
+we find
+
+$$\left\{F_{ss}^{(4,4)} + \left(F_{nn}^{(4,3)}\right)_{ss}^{(1)} - W^{(4)}\right\} \rho_{ns}^{(0)} = 0. \tag{69}$$
+
+This equation determines finally the function $\rho_{ns}^{(0)}(\theta)$, hence the motion of the principal axes of inertia: the translations and rotations. The principal term of the operator in (69) is the one which contains the second derivative with respect to the $\theta_i$; a glance at (63) shows that it arises from $H_{\theta\theta}^{(0)}\chi_{ns}^{(0)}\phi_n^{(0)}$, the term corresponds in $F_{nn}^{(4,4)}$ to
+
+$$\left(\overline{H_{\theta\theta}^{(0)}}\right)_n = \int \overline{\phi_n^{(0)}} H_{\theta\theta}^{(0)}(\phi_n^{(0)} \dots) dx, \tag{70}$$
+
+where in the place of the dots we have to put in the function which is operated upon. Since the operator (70) is independent of the $\zeta_i$, the diagonal elements of the corresponding s-matrix are identical with it. Physically the fact that the complicated operators $\left(\overline{H_{\theta\theta}^{(0)}}\right)_n$ appear instead of the simple operators $H_{\theta\theta}^{(0)}$ indicates a coupling between the top motion of the nuclei and the electronic motion.
+
+These are, as we will later see for the case of the diatomic molecule, the same effects that Kramers and Pauli [2] have tried to demonstrate using the assumption of a 'fly-wheel' built in to the top. Thus there are terms in (69) that contribute to the operator $H_{\zeta\theta}$; these correspond to a coupling of the top motion with angular momenta which are a consequence of nuclear vibration. Finally, there are terms which do not concern the $\theta_I$; these are the additions to the vibrational energy of order $\kappa^4$.
+
+Since the translations can always be separated in a trivial fashion, we consider only the rotations. If $r$ be the rotational quantum number, we have for the solution of (70)
+
+$$W^{(4)} = W_{nsr}^{(4)}; \quad \rho_{ns}^{(0)} = \rho_{nsr}^{(0)}(\theta). \tag{71}$$
+
+Then one can solve (67) and finally also (64). It is of no use to write out the formulae explicitly.
+
+Clearly, the procedure may be continued; however nothing new of significance will appear. The higher approximations describe couplings among rotations, vibrations and electronic motions. Quantum numbers other than the ones already introduced do not enter.
+
+We summarize now the consequences of our solutions. The most obvious result is that in order to determine completely the eigenfunctions to 0th order it is necessary to solve the approximation differential equations to 4th order; we have
+
+$$\psi_{nsr}(x, \zeta, \theta) = \phi_n^{(0)}(x, \xi, \theta) \sigma_{ns}^{(0)}(\zeta) \rho_{nsr}^{(0)}(\theta) + \dots \tag{72}$$
+
+where $\phi_n^{(0)}$ is the eigenfunction for electronic motion for stationary nuclei, $\sigma_{ns}^{(0)}$ that for nuclear vibration, and $\rho_{nsr}^{(0)}$ that for rotation. Thus are defined the vibrational coordinates $\zeta_i$ from an equilibrium configuration $\xi_i$ which is defined by the requirement that in this configuration the electronic energy $V_n(\xi)$ is a minimum. The determination of the three functions $\phi_n^{(0)}$, $\sigma_{ns}^{(0)}$ and $\rho_{nsr}^{(0)}$ yield the energy to 4th order:
+
+$$W_{nsr} = V_n^{(0)} + \kappa^2 W_{ns}^{(2)} + \kappa^4 W_{nsr}^{(4)} + \dots; \tag{73}$$
+
+where $V_n^{(0)}$ is the minimum value of the electronic energy which characterizes the molecule at rest, $W_{ns}^{(2)}$ is the energy of nuclear vibration, and $W_{nsr}^{(4)}$ contains (along with additional terms for the vibrational energy) the rotational energy. In this approximation (to $\kappa^4$) the three basic types of motion are 'separated'; the coupling among them involves terms of higher powers of $\kappa$.
+
+Given (72) we can now calculate transition probabilities (intensities of bands).
+
+The electrical moment of a molecule $\mathcal{M}$ consists of a nuclear part $\mathcal{P}$ and an electronic part $p$; the $x$-component is:
+
+$$\mathcal{M}_x = \mathcal{P}_x + p_x, \quad \text{where} \quad \left\{ \begin{array}{l} \mathcal{P}_x = \sum_l e_l X_l \\ p_x = e \sum_k x_k \end{array} \right. . \tag{74}$$
+
+12

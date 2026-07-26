@@ -1,0 +1,47 @@
+{
+  "index": 22,
+  "dimensions": {
+    "dpi": 109,
+    "height": 1024,
+    "width": 642
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 91,
+      "topLeftY": 54,
+      "bottomRightX": 109,
+      "bottomRightY": 68,
+      "content": "84",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 316,
+      "topLeftY": 55,
+      "bottomRightX": 395,
+      "bottomRightY": 69,
+      "content": "HEISENBERG",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 91,
+      "bottomRightX": 620,
+      "bottomRightY": 187,
+      "content": "the phase of the light and that of the electronic motion is not so simple as was assumed. I owe great thanks to Professor Bohr for sharing with me at an early stage the results of these more recent investigations of his—to appear soon in a paper on the conceptual structure of quantum theory—and for discussing them with me.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 208,
+      "bottomRightX": 521,
+      "bottomRightY": 227,
+      "content": "Copenhagen, Institute for Theoretical Physics of the University.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

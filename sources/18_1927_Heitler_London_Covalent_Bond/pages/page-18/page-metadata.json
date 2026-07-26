@@ -1,0 +1,47 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 99,
+      "topLeftY": 95,
+      "bottomRightX": 528,
+      "bottomRightY": 112,
+      "content": "472 W. Heitler und F. London, Wechselwirkung neutraler Atome usw.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 132,
+      "bottomRightX": 577,
+      "bottomRightY": 210,
+      "content": "Herrn Prof. Schrödinger möchten wir von Herzen danken für das liebenswürdige, fördernde Interesse, mit welchem er unsere Arbeit begleitet hat. Dem International Education Board danken wir, daß er es uns ermöglicht hat, hier in Zürich zu arbeiten.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 222,
+      "bottomRightX": 498,
+      "bottomRightY": 240,
+      "content": "Zürich, Physikal. Institut der Universität, Juni 1927.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 265,
+      "bottomRightX": 577,
+      "bottomRightY": 356,
+      "content": "systemen anzuregen (z. B. $1^1 S - 2^3 S$ bei He). Nach der Bornschen Theorie sind solche Übergänge nur auf Grund der minimalen magnetischen Wechselwirkung möglich. Bei der Deutung des Kraftgesetzes der Atomkerne, welches sich in den Streuversuchen mit $\\alpha$- oder $H$-Teilchen bemerkbar macht, wird man als einen wesentlichen Einfluß den Austausch mit Kernbausteinen zu berücksichtigen haben.",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

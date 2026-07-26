@@ -1,0 +1,92 @@
+{
+  "index": 90,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 38,
+      "bottomRightX": 442,
+      "bottomRightY": 58,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 498,
+      "topLeftY": 38,
+      "bottomRightX": 528,
+      "bottomRightY": 55,
+      "content": "111",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 20,
+      "topLeftY": 77,
+      "bottomRightX": 531,
+      "bottomRightY": 276,
+      "content": "si, par exemple la vitesse moyenne des atomes d'un gaz est $10^5$ cm./sec. et le parcours moyen $10^{-5}$ cm., la vitesse moyenne des ondes de phase sera $\\frac{c^2}{v} = 9 \\cdot 10^{15}$ cm./sec. et pendant le temps $10^{-10}$ seconde nécessaire en moyenne au libre parcours, elle progressera de $9 \\cdot 10^5$ cm. ou 9 kilomètres. Il semble donc possible d'imaginer l'existence d'ondes de phase stationnaires dans une masse gazeuse en équilibre.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 20,
+      "topLeftY": 275,
+      "bottomRightX": 534,
+      "bottomRightY": 725,
+      "content": "Pour mieux comprendre la nature des modifications que nous allons avoir à apporter à la mécanique statistique, nous considérerons d'abord le cas simple ou des molécules se meuvent le long d'une droite AB de longueur $l$ en se réfléchissant en A et B. La distribution initiale des positions et des vitesses est supposée réglée par le hasard. La probabilité pour qu'une molécule se trouve sur un élément $dx$ de AB est donc $\\frac{dx}{l}$. Dans la conception classique, on doit de plus prendre la probabilité d'une vitesse comprise entre $v$ et $v + dv$ proportionnelle à $dv$; donc si on constitue une extension en phase en prenant comme variables $x$ et $v$, tous les éléments égaux $dxdv$ seront également probables. Il en est tout autrement quand on introduit les conditions de stabilité envisagées plus haut. Si les vitesses sont assez faibles pour permettre de négliger les termes de Relativité, la longueur d'onde liée au mouvement d'une molécule dont la vitesse est $v$, sera :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 730,
+      "bottomRightX": 345,
+      "bottomRightY": 808,
+      "content": "$$\\lambda = \\frac{\\frac{c}{\\beta}}{\\frac{m_0 c^2}{h}} = \\frac{h}{m_0 v}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 23,
+      "topLeftY": 823,
+      "bottomRightX": 337,
+      "bottomRightY": 847,
+      "content": "et la condition de résonance s'écrira :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 859,
+      "bottomRightX": 423,
+      "bottomRightY": 899,
+      "content": "$$l = n\\lambda = n \\frac{h}{m_0 v} \\quad (n, \\text{ entier})$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 40,
+      "topLeftY": 903,
+      "bottomRightX": 271,
+      "bottomRightY": 944,
+      "content": "Posons $\\frac{h}{m_0 l} = v_0$, il vient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 243,
+      "topLeftY": 950,
+      "bottomRightX": 314,
+      "bottomRightY": 969,
+      "content": "$$v = n v_0.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

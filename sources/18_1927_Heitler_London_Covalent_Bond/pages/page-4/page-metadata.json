@@ -1,0 +1,110 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 99,
+      "topLeftY": 95,
+      "bottomRightX": 128,
+      "bottomRightY": 112,
+      "content": "458",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 260,
+      "topLeftY": 95,
+      "bottomRightX": 416,
+      "bottomRightY": 112,
+      "content": "W. Heitler und F. London,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 132,
+      "bottomRightX": 459,
+      "bottomRightY": 150,
+      "content": "mit den Normierungs- und Orthogonalitätsbedingungen",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 234,
+      "topLeftY": 160,
+      "bottomRightX": 577,
+      "bottomRightY": 219,
+      "content": "$$\\left. \\begin{array}{l} a^2 + b^2 + 2abS = 1, \\\\ c^2 + d^2 + 2cdS = 1, \\\\ ac + bd + (ad + bc)S = 0 \\end{array} \\right\\} \\quad (5)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 229,
+      "bottomRightX": 577,
+      "bottomRightY": 269,
+      "content": "(wobei $S = \\int \\psi_1 \\varphi_1 \\psi_2 \\varphi_2 d\\tau_1 d\\tau_2$) sind als ungestörte Eigenfunktionen des Problems anzusehen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 272,
+      "bottomRightX": 578,
+      "bottomRightY": 531,
+      "content": "3. Die exakten Eigenfunktionen der Differentialgleichung (1) gehen aus ganz bestimmten Linearkombinationen (4) hervor, den Eigenfunktionen „nullter Näherung“ und unterscheiden sich von letzteren nur um eine kleine Störung $v$. Die Koeffizienten $a, b, c, d$ in (4) für diese Eigenfunktionen nullter Näherung lassen sich nach bekannten Regeln bestimmen. Zwar fehlt der Gleichung (1) der Charakter eines Störungsproblems, weil man kein Glied in der Potentialfunktion als „Störungspotential“ abtrennen kann, aber die Methode zur Bestimmung der besagten Koeffizienten und der Störungsenergien ist genau die gleiche, wie wenn ein Störungspotential vorhanden wäre. Um die Rechnungen durchsichtiger zu machen, wollen wir von vorherin die richtigen und gemäß (5) normierten Linearkombinationen wählen (und ihre Richtigkeit nachträglich verifizieren):",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 223,
+      "topLeftY": 531,
+      "bottomRightX": 578,
+      "bottomRightY": 614,
+      "content": "$$\\left. \\begin{array}{l} \\alpha = \\frac{1}{\\sqrt{2 + 2S}} (\\psi_1 \\varphi_2 + \\psi_2 \\varphi_1), \\\\ \\beta = \\frac{1}{\\sqrt{2 - 2S}} (\\psi_1 \\varphi_2 - \\psi_2 \\varphi_1). \\end{array} \\right\\} \\quad (4a)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 624,
+      "bottomRightX": 563,
+      "bottomRightY": 643,
+      "content": "Für die gestörten Eigenfunktionen werden wir jetzt anzusetzen haben:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 281,
+      "topLeftY": 656,
+      "bottomRightX": 577,
+      "bottomRightY": 698,
+      "content": "$$\\left. \\begin{array}{l} \\chi_\\alpha = \\alpha + v_\\alpha, \\\\ \\chi_\\beta = \\beta + v_\\beta. \\end{array} \\right\\} \\quad (6)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 705,
+      "bottomRightX": 578,
+      "bottomRightY": 745,
+      "content": "Mit diesem Ansatz gehen wir in die Gleichung (1) ein, und berücksichtigen, daß die Funktionen $\\psi_1, \\psi_2, \\varphi_1, \\varphi_2$ den vier Gleichungen genügen,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 754,
+      "bottomRightX": 578,
+      "bottomRightY": 912,
+      "content": "$$\\left. \\begin{array}{l} \\Delta_1 \\psi_1 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{a_1}}\\right) \\psi_1 = 0, \\\\ \\Delta_2 \\psi_2 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{a_2}}\\right) \\psi_2 = 0, \\\\ \\Delta_1 \\varphi_1 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{b_1}}\\right) \\varphi_1 = 0, \\\\ \\Delta_2 \\varphi_2 + \\frac{8\\pi^2 m}{h^2} \\left(E_0 + \\frac{\\varepsilon^2}{r_{b_2}}\\right) \\varphi_2 = 0, \\end{array} \\right\\} \\quad (7)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

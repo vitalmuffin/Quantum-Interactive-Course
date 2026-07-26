@@ -1,0 +1,65 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 113,
+    "height": 1017,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 115,
+      "topLeftY": 87,
+      "bottomRightX": 580,
+      "bottomRightY": 104,
+      "content": "Über den Zusammenhang des Abschlusses der Elektronengruppen usw. 767",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 124,
+      "bottomRightX": 582,
+      "bottomRightY": 283,
+      "content": "des Leuchtelektrons ist eine andere Quantenzahl maßgebend wie für die des Impulsmomentes). Offenbar hängt das Auftreten von halben (effektiven) Quantenzahlen und der durch dasselbe formal bedingte Wert $g = 2$ des Aufspaltungsfaktors beim $s$-Term der Alkalien aufs engste mit der Zweifachheit der Termniveaus zusammen. Wir wollen hier jedoch keine nähere theoretische Analyse dieses Sachverhaltes versuchen und den folgenden Betrachtungen den Zeemaneffekt der Alkalien als Erfahrungstatsache zugrunde legen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 288,
+      "bottomRightX": 583,
+      "bottomRightY": 548,
+      "content": "Ohne uns zunächst um die sogleich näher zu erörternden, der in Rede stehenden Auffassung entgegenstehenden Schwierigkeiten zu kümmern, versuchen wir nun, diese formale Klassifikation des Leuchtelektrons durch die vier Quantenzahlen $n, k_1, k_2, m_1$ auch auf kompliziertere Atome als die der Alkalien zu übertragen. Da zeigt es sich, daß wir auf Grund dieser Klassifikation im Gegensatz zur üblichen Auffassung an der Permanenz der Quantenzahlen (Aufbauprinzip) auch bei der Komplexstruktur der Spektren und dem anomalen Zeemaneffekt vollständig festhalten können. Dieses von Bohr aufgestellte Prinzip besagt, daß bei Anlagerung eines weiteren Elektrons an ein (im ganzen möglicherweise geladenes) Atom die Quantenzahlen der schon gebundenen Elektronen dieselben Werte behalten, die ihnen im zugehörigen stationären Zustand des freien Atomrestes zukommen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 552,
+      "bottomRightX": 583,
+      "bottomRightY": 871,
+      "content": "Betrachten wir vorerst speziell die Erdalkalien. Das Spektrum besteht hier aus einem Einfach- und einem Triplettsystem. Den Quantenzuständen mit einem bestimmten Werte der Quantenzahl $k_1$ des Leuchtelektrons entsprechen dabei beim ersteren System insgesamt $1 \\cdot (2k_1 - 1)$, beim letzteren System insgesamt $3 \\cdot (2k_1 - 1)$ stationäre Zustände im äußeren Magnetfeld. Man hat dies bisher so interpretiert, daß in starken Feldern dem Leuchtelektron in jedem Falle $2k_1 - 1$ Stellungen entsprechen, während der Atomrest im ersteren Falle einer, im letzteren Falle dreier Stellungen fähig ist. Die Anzahl dieser Stellungen ist offenbar verschieden von der Anzahl 2 der Stellungen des freien Atomrestes (alkaliähnlicher $s$-Term) im Felde. Von Bohr wurde dieser Sachverhalt als „Zwang“ bezeichnet, der nicht mit der Wirkung äußerer Kraftfelder analog ist$^{1)}$. Wir können nun aber einfach die im ganzen $4(2k_1 - 1)$ Zustände des Atoms dahin interpretieren, daß dem Atomrest nach wie vor zwei Zustände im Felde zukommen und dem Leuchtelektron wie bei den Alkalien $2(2k_1 - 1)$ Zustände.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 889,
+      "bottomRightX": 440,
+      "bottomRightY": 906,
+      "content": "$^{1)}$ Ann. d. Phys. 71, 228, 1923, insbesondere S. 276.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 492,
+      "topLeftY": 909,
+      "bottomRightX": 519,
+      "bottomRightY": 923,
+      "content": "51\\*",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

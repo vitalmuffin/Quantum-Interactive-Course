@@ -1,0 +1,65 @@
+{
+  "index": 89,
+  "dimensions": {
+    "dpi": 35,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 29,
+      "topLeftY": 37,
+      "bottomRightX": 63,
+      "bottomRightY": 53,
+      "content": "110",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 38,
+      "bottomRightX": 364,
+      "bottomRightY": 55,
+      "content": "LOUIS DE BROGLIE",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 25,
+      "topLeftY": 78,
+      "bottomRightX": 551,
+      "bottomRightY": 178,
+      "content": "nos idées sur la liaison de la dynamique avec la théorie des ondes. Nous allons chercher comment sont modifiées les formules précédentes par l'introduction de ces deux notions.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 53,
+      "topLeftY": 210,
+      "bottomRightX": 520,
+      "bottomRightY": 259,
+      "content": "## II. — CONCEPTION NOUVELLE DE L'ÉQUILIBRE STATISTIQUE D'UN GAZ",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 288,
+      "bottomRightX": 550,
+      "bottomRightY": 627,
+      "content": "Si le mouvement des atomes gazeux est accompagné d'une propagation d'ondes le récipient contenant le gaz va être sillonné en tous sens par ces ondes. Nous sommes naturellement amenés à considérer comme dans la conception du rayonnement noir développée par M. Jeans, les ondes de phase formant des systèmes stationnaires (c'est-à-dire résonant sur les dimensions de l'enceinte) comme étant les seules stables; elles seules interviendraient dans l'étude de l'équilibre thermodynamique. C'est quelque chose d'analogue à ce que nous avons rencontré au sujet de l'atome de Bohr; là aussi, les trajectoires stables étaient définies par une condition de résonance et les autres devaient être considérées comme normalement irréalisables dans l'atome.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 17,
+      "topLeftY": 628,
+      "bottomRightX": 547,
+      "bottomRightY": 993,
+      "content": "On pourrait se demander comment il peut exister dans un gaz des systèmes stationnaires d'ondes de phase puisque le mouvement des atomes est constamment troublé par leurs chocs mutuels. On peut d'abord répondre que grâce à l'incoordination du mouvement moléculaire, le nombre des atomes détournés de leur direction primitive pendant le temps *dt* par l'effet des chocs est exactement compensé par le nombre de ceux dont le mouvement est ramené par ledit effet dans la même direction; tout se passe en somme comme si les atomes décrivaient une trajectoire rectiligne d'une paroi à l'autre puisque leur identité de structure dispense de tenir compte de leur individualité. De plus, pendant la durée du libre parcours, l'onde de phase peut parcourir plusieurs fois la longueur d'un récipient même de grande dimension;",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

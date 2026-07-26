@@ -1,0 +1,128 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 172,
+      "topLeftY": 28,
+      "bottomRightX": 510,
+      "bottomRightY": 50,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 573,
+      "topLeftY": 29,
+      "bottomRightX": 596,
+      "bottomRightY": 52,
+      "content": "39",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 68,
+      "bottomRightX": 596,
+      "bottomRightY": 121,
+      "content": "prise entre $\\beta$ et $\\beta + \\delta\\beta$; les fréquences des ondes correspondantes remplissent un petit intervalle $\\nu, \\nu + \\delta\\nu$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 117,
+      "bottomRightX": 595,
+      "bottomRightY": 272,
+      "content": "Nous allons établir le théorème suivant qui nous sera utile ultérieurement. « La vitesse du groupe des ondes de phase est égale à la vitesse du mobile ». En effet, cette vitesse de groupe est déterminée par la formule donnée ci-dessus dans laquelle $V$ et $\\nu$ peuvent être considérés comme fonction de $\\beta$ puisque l'on a :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 197,
+      "topLeftY": 284,
+      "bottomRightX": 484,
+      "bottomRightY": 332,
+      "content": "$$V = \\frac{c}{\\beta} \\quad \\nu = \\frac{1}{h} \\frac{m_0 c^2}{\\sqrt{1 - \\beta^2}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 345,
+      "bottomRightX": 217,
+      "bottomRightY": 369,
+      "content": "On peut écrire :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 266,
+      "topLeftY": 379,
+      "bottomRightX": 384,
+      "bottomRightY": 484,
+      "content": "$$U = \\frac{\\frac{d\\nu}{d\\beta}}{\\frac{d\\left(\\frac{\\nu}{V}\\right)}{d\\beta}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 489,
+      "bottomRightX": 106,
+      "bottomRightY": 510,
+      "content": "Or",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 522,
+      "bottomRightX": 554,
+      "bottomRightY": 678,
+      "content": "$$\\frac{d\\nu}{d\\beta} = \\frac{m_0 c^2}{h} \\cdot \\frac{\\beta}{(1 - \\beta^2)^{\\frac{3}{2}}} \\quad d \\frac{\\left(\\frac{\\nu}{V}\\right)}{d\\beta} = \\frac{m_0 c}{h} \\cdot \\frac{d \\left(\\frac{\\beta}{\\sqrt{1 - \\beta^2}}\\right)}{d\\beta} = \\frac{m_0 c}{h} \\frac{1}{(1 - \\beta^2)^{\\frac{3}{2}}}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 682,
+      "bottomRightX": 136,
+      "bottomRightY": 703,
+      "content": "Donc :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 279,
+      "topLeftY": 716,
+      "bottomRightX": 384,
+      "bottomRightY": 737,
+      "content": "$$U = \\beta c = \\nu.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 753,
+      "bottomRightX": 589,
+      "bottomRightY": 882,
+      "content": "La vitesse de groupe des ondes de phase est bien égale à la vitesse du mobile. Ce résultat appelle une remarque : dans la théorie ondulatoire de la dispersion, si on excepte les zones d'absorption, la vitesse de l'énergie est égale à la vitesse de groupe (¹). Ici, bien que placés à un point de vue",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 909,
+      "bottomRightX": 585,
+      "bottomRightY": 955,
+      "content": "(¹) Voir par exemple LÉON BRILLOUIN. La théorie des quanta et l'atome de Bohr, chapitre I.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

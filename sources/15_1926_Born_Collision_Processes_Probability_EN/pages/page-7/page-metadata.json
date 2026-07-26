@@ -1,0 +1,227 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 272,
+      "topLeftY": 46,
+      "bottomRightX": 538,
+      "bottomRightY": 63,
+      "content": "Born – Quantum mechanics of collision processes.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 666,
+      "topLeftY": 47,
+      "bottomRightX": 675,
+      "bottomRightY": 59,
+      "content": "7",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 93,
+      "bottomRightX": 676,
+      "bottomRightY": 131,
+      "content": "We examine the asymptotic behavior of the solution at infinity. In order to get a simple relationship, we assume that $V(x)$ vanishes faster than $x^{-2}$ at infinity; i.e.:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 148,
+      "bottomRightX": 676,
+      "bottomRightY": 185,
+      "content": "$$| V(x) | < \\frac{K}{x^2}, \\tag{4}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 204,
+      "bottomRightX": 339,
+      "bottomRightY": 223,
+      "content": "in which $K$ is a positive number ($^1$).",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 224,
+      "bottomRightX": 472,
+      "bottomRightY": 243,
+      "content": "We now determine $\\psi(x)$ by a process of iteration; let:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 327,
+      "topLeftY": 258,
+      "bottomRightX": 676,
+      "bottomRightY": 280,
+      "content": "$$u_0(x) = e^{ikx}, \\tag{5}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 297,
+      "bottomRightX": 569,
+      "bottomRightY": 315,
+      "content": "and let $u_1(x), u_2(x), \\ldots$ be the solutions of the successive approximations:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 322,
+      "topLeftY": 334,
+      "bottomRightX": 469,
+      "bottomRightY": 374,
+      "content": "$$\\frac{d^2 u_n}{dx^2} + k^2 u_n = V u_{n-1},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 376,
+      "bottomRightX": 291,
+      "bottomRightY": 392,
+      "content": "which vanishes as $x \\to +\\infty$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 394,
+      "bottomRightX": 226,
+      "bottomRightY": 410,
+      "content": "One then has:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 264,
+      "topLeftY": 413,
+      "bottomRightX": 522,
+      "bottomRightY": 450,
+      "content": "$$u_n(x) = \\frac{1}{k} \\int_x^\\infty u_{n-1}(\\xi) V(\\xi) \\sin k(\\xi - x) d\\xi,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 470,
+      "bottomRightX": 341,
+      "bottomRightY": 488,
+      "content": "as one can verify directly. One has:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 280,
+      "topLeftY": 507,
+      "bottomRightX": 507,
+      "bottomRightY": 543,
+      "content": "$$| u_n(x) | \\le \\frac{1}{k} \\int_x^\\infty | u_{n-1}(\\xi) | \\cdot | V(\\xi) | d\\xi.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 545,
+      "bottomRightX": 238,
+      "bottomRightY": 561,
+      "content": "We now show that:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 329,
+      "topLeftY": 565,
+      "bottomRightX": 458,
+      "bottomRightY": 608,
+      "content": "$$| u_n(x) | \\le \\frac{1}{n!} \\left( \\frac{K}{kx} \\right)^n.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 629,
+      "bottomRightX": 676,
+      "bottomRightY": 664,
+      "content": "This is correct for $n = 0$, since it follows from (5) that $| u_0(x) | \\le 1$. We now assume that is it correct for $n - 1$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 304,
+      "topLeftY": 667,
+      "bottomRightX": 484,
+      "bottomRightY": 714,
+      "content": "$$| u_{n-1}(\\xi) | \\le \\frac{1}{(n-1)!} \\left( \\frac{K}{k\\xi} \\right)^{n-1};$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 716,
+      "bottomRightX": 238,
+      "bottomRightY": 731,
+      "content": "it then follows that:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 218,
+      "topLeftY": 734,
+      "bottomRightX": 569,
+      "bottomRightY": 780,
+      "content": "$$| u_n(x) | \\le \\frac{1}{k} \\frac{1}{(n-1)!} \\left( \\frac{K}{k} \\right)^{n-1} \\cdot K \\int_x^\\infty \\xi^{-n+1} \\xi^2 d\\xi = \\frac{1}{n!} \\left( \\frac{K}{kx} \\right)^n,$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 782,
+      "bottomRightX": 216,
+      "bottomRightY": 797,
+      "content": "as was asserted.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 800,
+      "bottomRightX": 277,
+      "bottomRightY": 816,
+      "content": "As a result, the series:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 329,
+      "topLeftY": 819,
+      "bottomRightX": 676,
+      "bottomRightY": 859,
+      "content": "$$\\psi(x) = \\sum_{n=0}^\\infty u_n(x) \\tag{6}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 913,
+      "bottomRightX": 595,
+      "bottomRightY": 932,
+      "content": "($^1$) The cases of a pure Coulomb field and a dipole field are excluded by this assumption.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

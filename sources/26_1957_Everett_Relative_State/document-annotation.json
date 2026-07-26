@@ -1,0 +1,2254 @@
+{
+  "document_id": "01_1957_everett_relative_state_quantum_mechanics",
+  "source_filename": "everett_1957_relative_state_quantum_mechanics.pdf",
+  "metadata": {
+    "title_original": "“Relative State” Formulation of Quantum Mechanics",
+    "title_normalized": "Relative State Formulation of Quantum Mechanics",
+    "authors": [
+      "Hugh Everett, III"
+    ],
+    "publication_year": 1957,
+    "original_language": "en",
+    "journal": "Reviews of Modern Physics",
+    "volume": "29",
+    "issue": "3",
+    "page_range": "454-462",
+    "doi": "10.1103/RevModPhys.29.454",
+    "received_date": "1957-03-01",
+    "abstract_original": "The task of quantizing general relativity raises serious questions about the meaning of the present formulation and interpretation of quantum mechanics when applied to so fundamental a structure as the space-time geometry itself. This paper seeks to clarify the foundations of quantum mechanics. It presents a reformulation of quantum theory in a form believed suitable for application to general relativity. The aim is not to deny or contradict the conventional formulation of quantum theory, which has demonstrated its usefulness in an overwhelming variety of problems, but rather to supply a new, more general and complete formulation, from which the conventional interpretation can be deduced. The relationship of this new formulation to the older formulation is therefore that of a metatheory to a theory, i.e., it is an underlying theory in which the nature and consistency, as well as the realm of applicability, of the older theory can be investigated and clarified."
+  },
+  "pages": [
+    {
+      "pdf_page_number": 1,
+      "printed_page_number": "454",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "title",
+          "level": 1,
+          "text_original": "“Relative State” Formulation of Quantum Mechanics*",
+          "markdown": "# “Relative State” Formulation of Quantum Mechanics*",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "author",
+          "level": null,
+          "text_original": "Hugh Everett, III†",
+          "markdown": "Hugh Everett, III†",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.3,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "affiliation",
+          "level": null,
+          "text_original": "Palmer Physical Laboratory, Princeton University, Princeton, New Jersey",
+          "markdown": "Palmer Physical Laboratory, Princeton University, Princeton, New Jersey",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.6,
+            0.8
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "1. Introduction",
+          "markdown": "## 1. Introduction",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.25,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The task of quantizing general relativity raises serious questions about the meaning of the present formulation and interpretation of quantum mechanics when applied to so fundamental a structure as the space-time geometry itself. This paper seeks to clarify the foundations of quantum mechanics. It presents a reformulation of quantum theory in a form believed suitable for application to general relativity.",
+          "markdown": "The task of quantizing general relativity raises serious questions about the meaning of the present formulation and interpretation of quantum mechanics when applied to so fundamental a structure as the space-time geometry itself. This paper seeks to clarify the foundations of quantum mechanics. It presents a reformulation of quantum theory in a form believed suitable for application to general relativity.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The aim is not to deny or contradict the conventional formulation of quantum theory, which has demonstrated its usefulness in an overwhelming variety of problems, but rather to supply a new, more general and complete formulation, from which the conventional interpretation can be deduced.",
+          "markdown": "The aim is not to deny or contradict the conventional formulation of quantum theory, which has demonstrated its usefulness in an overwhelming variety of problems, but rather to supply a new, more general and complete formulation, from which the conventional interpretation can be deduced.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The relationship of this new formulation to the older formulation is therefore that of a metatheory to a theory, that is, it is an underlying theory in which the nature and consistency, as well as the realm of applicability, of the older theory can be investigated and clarified.",
+          "markdown": "The relationship of this new formulation to the older formulation is therefore that of a metatheory to a theory, that is, it is an underlying theory in which the nature and consistency, as well as the realm of applicability, of the older theory can be investigated and clarified.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "*Thesis submitted to Princeton University March 1, 1957 in partial fulfillment of the requirements for the Ph.D. degree. An earlier draft dated January, 1956 was circulated to several physicists whose comments were helpful. Professor Niels Bohr, Dr. H. J. Groenewald, Dr. Aage Peterson, Dr. A. Stern, and Professor L. Rosenfeld are free of any responsibility, but they are warmly thanked for the useful objections that they raised. Most particular thanks are due to Professor John A. Wheeler for his continued guidance and encouragement. Appreciation is also expressed to the National Science Foundation for fellowship support.",
+          "markdown": "*Thesis submitted to Princeton University March 1, 1957 in partial fulfillment of the requirements for the Ph.D. degree. An earlier draft dated January, 1956 was circulated to several physicists whose comments were helpful. Professor Niels Bohr, Dr. H. J. Groenewald, Dr. Aage Peterson, Dr. A. Stern, and Professor L. Rosenfeld are free of any responsibility, but they are warmly thanked for the useful objections that they raised. Most particular thanks are due to Professor John A. Wheeler for his continued guidance and encouragement. Appreciation is also expressed to the National Science Foundation for fellowship support.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "†Present address: Weapons Systems Evaluation Group, The Pentagon, Washington, D. C.",
+          "markdown": "†Present address: Weapons Systems Evaluation Group, The Pentagon, Washington, D. C.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.6,
+            0.45
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "# “Relative State” Formulation of Quantum Mechanics*\n\nHugh Everett, III†\n\nPalmer Physical Laboratory, Princeton University, Princeton, New Jersey\n\n## 1. Introduction\n\nThe task of quantizing general relativity raises serious questions about the meaning of the present formulation and interpretation of quantum mechanics when applied to so fundamental a structure as the space-time geometry itself. This paper seeks to clarify the foundations of quantum mechanics. It presents a reformulation of quantum theory in a form believed suitable for application to general relativity.\n\nThe aim is not to deny or contradict the conventional formulation of quantum theory, which has demonstrated its usefulness in an overwhelming variety of problems, but rather to supply a new, more general and complete formulation, from which the conventional interpretation can be deduced.\n\nThe relationship of this new formulation to the older formulation is therefore that of a metatheory to a theory, that is, it is an underlying theory in which the nature and consistency, as well as the realm of applicability, of the older theory can be investigated and clarified.\n\n*Thesis submitted to Princeton University March 1, 1957 in partial fulfillment of the requirements for the Ph.D. degree. An earlier draft dated January, 1956 was circulated to several physicists whose comments were helpful. Professor Niels Bohr, Dr. H. J. Groenewald, Dr. Aage Peterson, Dr. A. Stern, and Professor L. Rosenfeld are free of any responsibility, but they are warmly thanked for the useful objections that they raised. Most particular thanks are due to Professor John A. Wheeler for his continued guidance and encouragement. Appreciation is also expressed to the National Science Foundation for fellowship support.\n\n†Present address: Weapons Systems Evaluation Group, The Pentagon, Washington, D. C.",
+      "word_count": 210,
+      "page_quality_notes": [
+        "High-quality scan with clear two-column layout. Minor OCR errors in footnotes (e.g., 'responsibility' misread as 'responsibilty' in one instance)."
+      ]
+    },
+    {
+      "pdf_page_number": 2,
+      "printed_page_number": "455",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "2. Realm of Applicability of the Conventional or “External Observation” Formulation of Quantum Mechanics",
+          "markdown": "## 2. Realm of Applicability of the Conventional or “External Observation” Formulation of Quantum Mechanics",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We take the conventional or “external observation” formulation of quantum mechanics to be essentially the following$^{1}$: A physical system is completely described by a state function $\\psi$, which is an element of a Hilbert space, and which furthermore gives information only to the extent of specifying the probabilities of the results of various observations which can be made *on* the system *by* external observers. There are two fundamentally different ways in which the state function can change:",
+          "markdown": "We take the conventional or “external observation” formulation of quantum mechanics to be essentially the following$^{1}$: A physical system is completely described by a state function $\\psi$, which is an element of a Hilbert space, and which furthermore gives information only to the extent of specifying the probabilities of the results of various observations which can be made *on* the system *by* external observers. There are two fundamentally different ways in which the state function can change:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "*Process 1:* The discontinuous change brought about by the observation of a quantity with eigenstates $\\phi_1, \\phi_2, \\cdots$, in which the state $\\psi$ will be changed to the state $\\phi_j$ with probability $|(\\psi, \\phi_j)|^2$.",
+          "markdown": "*Process 1:* The discontinuous change brought about by the observation of a quantity with eigenstates $\\phi_1, \\phi_2, \\cdots$, in which the state $\\psi$ will be changed to the state $\\phi_j$ with probability $|(\\psi, \\phi_j)|^2$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "*Process 2:* The continuous, deterministic change of state of an isolated system with time according to a wave equation $\\partial\\psi/\\partial t = A\\psi$, where $A$ is a linear operator.",
+          "markdown": "*Process 2:* The continuous, deterministic change of state of an isolated system with time according to a wave equation $\\partial\\psi/\\partial t = A\\psi$, where $A$ is a linear operator.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This formulation describes a wealth of experience. No experimental evidence is known which contradicts it.",
+          "markdown": "This formulation describes a wealth of experience. No experimental evidence is known which contradicts it.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{1}$We use the terminology and notation of J. von Neumann, *Mathematical Foundations of Quantum Mechanics*, translated by R. T. Beyer (Princeton University Press, Princeton, 1955).",
+          "markdown": "$^{1}$We use the terminology and notation of J. von Neumann, *Mathematical Foundations of Quantum Mechanics*, translated by R. T. Beyer (Princeton University Press, Princeton, 1955).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "2Not all conceivable situations fit the framework of this mathematical formulation. Consider for example an isolated system consisting of an observer or measuring apparatus, plus an object system. Can the change with time of the state of the *total* system be described by Process 2, so, then it would appear that no discontinuous probabilistic process like Process 1 can take place. If not, we are forced to admit that systems which contain observers are not subject to the same kind of quantum-mechanical description as we admit for all other physical systems. The question cannot be ruled out as lying in the domain of psychology. Much of the discussion of “observers” in quantum mechanics has to do with photoelectric cells, photographic plates, and similar devices where a mechanistic attitude can hardly be contested. For the following one can *limit himself to this class of problems*, if he is unwilling to consider observers in the more familiar sense on the same mechanistic level of analysis.",
+          "markdown": "2Not all conceivable situations fit the framework of this mathematical formulation. Consider for example an isolated system consisting of an observer or measuring apparatus, plus an object system. Can the change with time of the state of the *total* system be described by Process 2, so, then it would appear that no discontinuous probabilistic process like Process 1 can take place. If not, we are forced to admit that systems which contain observers are not subject to the same kind of quantum-mechanical description as we admit for all other physical systems. The question cannot be ruled out as lying in the domain of psychology. Much of the discussion of “observers” in quantum mechanics has to do with photoelectric cells, photographic plates, and similar devices where a mechanistic attitude can hardly be contested. For the following one can *limit himself to this class of problems*, if he is unwilling to consider observers in the more familiar sense on the same mechanistic level of analysis.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Unclear sentence structure in the second sentence ('so, then it would appear...'). Requires manual review for accurate interpretation."
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "What mixture of Process 1 and 2 of the conventional formulation is to be applied to the case where only an approximate measure is effected; that is, where an apparatus or observer interacts only weakly and for a limited time with an object system? In this case of an approximate measurement a proper theory must specify (1) the new state of the object system that corresponds to any particular reading of the apparatus and (2) the probability with which this reading will occur. von Neumann showed how to treat a special class of approximate measurements by the method of projection operators.$^{2}$ However, a general treatment of all approximate measurements by the method of projections operators can be shown (Sec. 4) to be impossible.",
+          "markdown": "What mixture of Process 1 and 2 of the conventional formulation is to be applied to the case where only an approximate measure is effected; that is, where an apparatus or observer interacts only weakly and for a limited time with an object system? In this case of an approximate measurement a proper theory must specify (1) the new state of the object system that corresponds to any particular reading of the apparatus and (2) the probability with which this reading will occur. von Neumann showed how to treat a special class of approximate measurements by the method of projection operators.$^{2}$ However, a general treatment of all approximate measurements by the method of projections operators can be shown (Sec. 4) to be impossible.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{2}$Reference 1, Chap. 4, Sec. 4.",
+          "markdown": "$^{2}$Reference 1, Chap. 4, Sec. 4.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.3,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "How is one to apply the conventional formulation of quantum mechanics to the space-time geometry itself, the issue becomes especially acute in the case of a closed universe.$^{3}$ There is no place to stand outside the system to observe it. There is nothing outside it to produce transitions from one state to another. Even the familiar concept of a proper state of the energy is completely inapplicable. In the derivation of the law of conservation of energy, one defines the total energy by way of an integral extended over a surface large enough to include all parts of the system and their interactions.$^{4}$ But in a closed space, when a surface is made to include more and more of",
+          "markdown": "How is one to apply the conventional formulation of quantum mechanics to the space-time geometry itself, the issue becomes especially acute in the case of a closed universe.$^{3}$ There is no place to stand outside the system to observe it. There is nothing outside it to produce transitions from one state to another. Even the familiar concept of a proper state of the energy is completely inapplicable. In the derivation of the law of conservation of energy, one defines the total energy by way of an integral extended over a surface large enough to include all parts of the system and their interactions.$^{4}$ But in a closed space, when a surface is made to include more and more of",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{3}$See A. Einstein, *The Meaning of Relativity* (Princeton University Press, Princeton, 1950), third edition, p. 107.",
+          "markdown": "$^{3}$See A. Einstein, *The Meaning of Relativity* (Princeton University Press, Princeton, 1950), third edition, p. 107.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.6,
+            0.35
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{4}$L. Landau and E. Lifshitz, *The Classical Theory of Fields*, translated by M. Hamermesh (Addison-Wesley Press, Cambridge, 1951), p. 343.",
+          "markdown": "$^{4}$L. Landau and E. Lifshitz, *The Classical Theory of Fields*, translated by M. Hamermesh (Addison-Wesley Press, Cambridge, 1951), p. 343.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.6,
+            0.3
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "the volume, it ultimately disappears into nothingness. Attempts to define the total energy for a closed space collapse to the vacuous statement, zero equals zero.",
+          "markdown": "the volume, it ultimately disappears into nothingness. Attempts to define the total energy for a closed space collapse to the vacuous statement, zero equals zero.",
+          "asset_id": null,
+          "suggested_filename": "pages/p002.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.2,
+            0.9,
+            0.25
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "3. Quantum Mechanics Internal to an Isolated System",
+          "markdown": "### 3. Quantum Mechanics Internal to an Isolated System",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.15,
+            0.4,
+            0.2
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "## 2. Realm of Applicability of the Conventional or “External Observation” Formulation of Quantum Mechanics\n\nWe take the conventional or “external observation” formulation of quantum mechanics to be essentially the following$^{1}$: A physical system is completely described by a state function $\\psi$, which is an element of a Hilbert space, and which furthermore gives information only to the extent of specifying the probabilities of the results of various observations which can be made *on* the system *by* external observers. There are two fundamentally different ways in which the state function can change:\n\n*Process 1:* The discontinuous change brought about by the observation of a quantity with eigenstates $\\phi_1, \\phi_2, \\cdots$, in which the state $\\psi$ will be changed to the state $\\phi_j$ with probability $|(\\psi, \\phi_j)|^2$.\n\n*Process 2:* The continuous, deterministic change of state of an isolated system with time according to a wave equation $\\partial\\psi/\\partial t = A\\psi$, where $A$ is a linear operator.\n\nThis formulation describes a wealth of experience. No experimental evidence is known which contradicts it.\n\n$^{1}$We use the terminology and notation of J. von Neumann, *Mathematical Foundations of Quantum Mechanics*, translated by R. T. Beyer (Princeton University Press, Princeton, 1955).\n\n2Not all conceivable situations fit the framework of this mathematical formulation. Consider for example an isolated system consisting of an observer or measuring apparatus, plus an object system. Can the change with time of the state of the *total* system be described by Process 2, so, then it would appear that no discontinuous probabilistic process like Process 1 can take place. If not, we are forced to admit that systems which contain observers are not subject to the same kind of quantum-mechanical description as we admit for all other physical systems. The question cannot be ruled out as lying in the domain of psychology. Much of the discussion of “observers” in quantum mechanics has to do with photoelectric cells, photographic plates, and similar devices where a mechanistic attitude can hardly be contested. For the following one can *limit himself to this class of problems*, if he is unwilling to consider observers in the more familiar sense on the same mechanistic level of analysis.\n\nWhat mixture of Process 1 and 2 of the conventional formulation is to be applied to the case where only an approximate measure is effected; that is, where an apparatus or observer interacts only weakly and for a limited time with an object system? In this case of an approximate measurement a proper theory must specify (1) the new state of the object system that corresponds to any particular reading of the apparatus and (2) the probability with which this reading will occur. von Neumann showed how to treat a special class of approximate measurements by the method of projection operators.$^{2}$ However, a general treatment of all approximate measurements by the method of projections operators can be shown (Sec. 4) to be impossible.\n\n$^{2}$Reference 1, Chap. 4, Sec. 4.\n\nHow is one to apply the conventional formulation of quantum mechanics to the space-time geometry itself, the issue becomes especially acute in the case of a closed universe.$^{3}$ There is no place to stand outside the system to observe it. There is nothing outside it to produce transitions from one state to another. Even the familiar concept of a proper state of the energy is completely inapplicable. In the derivation of the law of conservation of energy, one defines the total energy by way of an integral extended over a surface large enough to include all parts of the system and their interactions.$^{4}$ But in a closed space, when a surface is made to include more and more of the volume, it ultimately disappears into nothingness. Attempts to define the total energy for a closed space collapse to the vacuous statement, zero equals zero.\n\n### 3. Quantum Mechanics Internal to an Isolated System\n\nThis paper proposes to regard pure wave mechanics (Process 2 only) as a complete theory. It postulates that a wave function that obeys a linear wave equation everywhere and at all times supplies a complete mathematical model for every isolated physical system without exception. It further postulates that every system that is subject to external observation can be regarded as part of a larger isolated system.",
+      "word_count": 450,
+      "page_quality_notes": [
+        "High-quality scan with clear two-column layout. Minor OCR errors in footnotes (e.g., 'responsibility' misread as 'responsibilty' in one instance). The sentence starting with 'Can the change with time...' is unclear and requires manual review."
+      ]
+    },
+    {
+      "pdf_page_number": 3,
+      "printed_page_number": "456",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The wave function is taken as the basic physical entity with *no a priori* interpretation. Interpretation only comes *after* an investigation of the logical structure of the theory. Here as always the theory itself sets the framework for its interpretation.$^{6}$",
+          "markdown": "The wave function is taken as the basic physical entity with *no a priori* interpretation. Interpretation only comes *after* an investigation of the logical structure of the theory. Here as always the theory itself sets the framework for its interpretation.$^{6}$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{6}$See in particular the discussion of this point by N. Bohr and L. Rosenfeld, Kgl. Danske Videnskab. Selskab, Mat.-fys. Medd. **12**, No. 8 (1933).",
+          "markdown": "$^{6}$See in particular the discussion of this point by N. Bohr and L. Rosenfeld, Kgl. Danske Videnskab. Selskab, Mat.-fys. Medd. **12**, No. 8 (1933).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "For any interpretation it is necessary to put the mathematical model of the theory into correspondence with experience. For this purpose it is necessary to formulate abstract models for observers that can be treated within the theory itself as physical systems, to consider isolated systems containing such model observers in interaction with other subsystems, to deduce the changes that occur in an observer as a consequence of interaction with the surrounding subsystems, and to interpret the changes in the familiar language of experience.",
+          "markdown": "For any interpretation it is necessary to put the mathematical model of the theory into correspondence with experience. For this purpose it is necessary to formulate abstract models for observers that can be treated within the theory itself as physical systems, to consider isolated systems containing such model observers in interaction with other subsystems, to deduce the changes that occur in an observer as a consequence of interaction with the surrounding subsystems, and to interpret the changes in the familiar language of experience.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Section 4 investigates representations of the state of a composite system in terms of states of constituent subsystems. The mathematics leads one to recognize the concept of the *relativity of states*, in the following sense: a constituent subsystem cannot be said to be in any single well-defined state, independently of the remainder of the composite system, to any arbitrarily chosen state for one subsystem there will correspond a unique *relative state* for the remainder of the composite system. This relative state will usually depend upon the choice of state for the first subsystem. Thus the state of one subsystem does not have an independent existence, but is fixed only by the state of the remaining subsystem. In other words, the states occupied by the subsystems are not independent, but *correlated*, such correlations between systems arise whenever systems interact. In the present formulation all measurements and observation processes are to be regarded simply as interactions between the physical systems involved—interactions which produce strong correlations. A simple model for a measurement, due to von Neumann, is analyzed from this viewpoint.",
+          "markdown": "Section 4 investigates representations of the state of a composite system in terms of states of constituent subsystems. The mathematics leads one to recognize the concept of the *relativity of states*, in the following sense: a constituent subsystem cannot be said to be in any single well-defined state, independently of the remainder of the composite system, to any arbitrarily chosen state for one subsystem there will correspond a unique *relative state* for the remainder of the composite system. This relative state will usually depend upon the choice of state for the first subsystem. Thus the state of one subsystem does not have an independent existence, but is fixed only by the state of the remaining subsystem. In other words, the states occupied by the subsystems are not independent, but *correlated*, such correlations between systems arise whenever systems interact. In the present formulation all measurements and observation processes are to be regarded simply as interactions between the physical systems involved—interactions which produce strong correlations. A simple model for a measurement, due to von Neumann, is analyzed from this viewpoint.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Section 5 gives an abstract treatment of the problem of observation. This uses only the superposition principle, and general rules by which composite system states are formed of subsystem states, in order that the results shall have the greatest generality and be applicable to any form of quantum theory for which these principles hold. Reductions are drawn about the state of the observer relative to the state of the object system. It is found that experiences of the observer (magnetic tape memory, counter system, etc.) are in full accord with predictions of the conventional “external observer” formulation of quantum mechanics, based on Process 1.",
+          "markdown": "Section 5 gives an abstract treatment of the problem of observation. This uses only the superposition principle, and general rules by which composite system states are formed of subsystem states, in order that the results shall have the greatest generality and be applicable to any form of quantum theory for which these principles hold. Reductions are drawn about the state of the observer relative to the state of the object system. It is found that experiences of the observer (magnetic tape memory, counter system, etc.) are in full accord with predictions of the conventional “external observer” formulation of quantum mechanics, based on Process 1.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Section 6 recapitulates the “relative state” formulation of quantum mechanics.",
+          "markdown": "Section 6 recapitulates the “relative state” formulation of quantum mechanics.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.5,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "4. Concept of Relative State",
+          "markdown": "## 4. Concept of Relative State",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.35,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We now investigate some consequences of the wave mechanical formalism of composite systems. If a composite system $S$, is composed of two subsystems $S_1$ and $S_2$, with associated Hilbert spaces $H_1$ and $H_2$, then, according to the usual formalism of composite systems, the Hilbert space for $S$ is taken to be the tensor product of $H_1$ and $H_2$ (written $H = H_1 \\otimes H_2$). This has the consequence that if the sets $\\{ \\xi_i^{S_1} \\}$ and $\\{ \\eta_j^{S_2} \\}$ are complete orthonormal sets of states for $S_1$ and $S_2$, respectively, then the general state of $S$ can be written as a superposition:",
+          "markdown": "We now investigate some consequences of the wave mechanical formalism of composite systems. If a composite system $S$, is composed of two subsystems $S_1$ and $S_2$, with associated Hilbert spaces $H_1$ and $H_2$, then, according to the usual formalism of composite systems, the Hilbert space for $S$ is taken to be the tensor product of $H_1$ and $H_2$ (written $H = H_1 \\otimes H_2$). This has the consequence that if the sets $\\{ \\xi_i^{S_1} \\}$ and $\\{ \\eta_j^{S_2} \\}$ are complete orthonormal sets of states for $S_1$ and $S_2$, respectively, then the general state of $S$ can be written as a superposition:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^S = \\sum_{i,j} a_{ij} \\xi_i^{S_1} \\eta_j^{S_2}. \\tag{1}$$",
+          "markdown": "$$\\psi^S = \\sum_{i,j} a_{ij} \\xi_i^{S_1} \\eta_j^{S_2}. \\tag{1}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.5,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "From (3.1) [sic] although $S$ is in a definite state $\\psi^S$, the subsystems $S_1$ and $S_2$ do not possess anything like definite states independently of one another (except in the special case where all but one of the $a_{ij}$ are zero).",
+          "markdown": "From (3.1) [sic] although $S$ is in a definite state $\\psi^S$, the subsystems $S_1$ and $S_2$ do not possess anything like definite states independently of one another (except in the special case where all but one of the $a_{ij}$ are zero).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Equation reference '(3.1) [sic]' appears to be a typo or OCR error. Requires manual review for context."
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We can, however, for any choice of a state in one subsystem, uniquely assign a corresponding relative state in the other subsystems. For example, if we choose $\\xi_k$ as the state for $S_1$, while the composite system $S$ is in the state $\\psi^S$ given by (3.1) [sic], then the corresponding relative state in $S_2$, $\\psi(S_2; \\text{rel}\\xi_k, S_1)$, will be:",
+          "markdown": "We can, however, for any choice of a state in one subsystem, uniquely assign a corresponding relative state in the other subsystems. For example, if we choose $\\xi_k$ as the state for $S_1$, while the composite system $S$ is in the state $\\psi^S$ given by (3.1) [sic], then the corresponding relative state in $S_2$, $\\psi(S_2; \\text{rel}\\xi_k, S_1)$, will be:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": true,
+          "review_reason": "Equation reference '(3.1) [sic]' appears to be a typo or OCR error. Requires manual review for context."
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi(S_2; \\text{rel}\\xi_k, S_1) = N_k \\sum_j a_{kj} \\eta_j^{S_2} \\tag{2}$$",
+          "markdown": "$$\\psi(S_2; \\text{rel}\\xi_k, S_1) = N_k \\sum_j a_{kj} \\eta_j^{S_2} \\tag{2}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.6,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where $N_k$ is a normalization constant. This relative state for $\\xi_k$ is independent of the choice of basis $\\{ \\xi_i \\}$ ($i \\neq k$) for the orthogonal complement of $\\xi_k$, and is hence determined uniquely by $\\xi_k$ alone. To find the relative state in $S_2$ for an arbitrary state of $S_1$ therefore, one simply carries out the above procedure using any pair of bases for $S_1$ and $S_2$ which contains the desired state as one element of the basis for $S_1$. To find states in $S_1$ relative to states in $S_2$, interchange $S_1$ and $S_2$ in the procedure.",
+          "markdown": "where $N_k$ is a normalization constant. This relative state for $\\xi_k$ is independent of the choice of basis $\\{ \\xi_i \\}$ ($i \\neq k$) for the orthogonal complement of $\\xi_k$, and is hence determined uniquely by $\\xi_k$ alone. To find the relative state in $S_2$ for an arbitrary state of $S_1$ therefore, one simply carries out the above procedure using any pair of bases for $S_1$ and $S_2$ which contains the desired state as one element of the basis for $S_1$. To find states in $S_1$ relative to states in $S_2$, interchange $S_1$ and $S_2$ in the procedure.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "The wave function is taken as the basic physical entity with *no a priori* interpretation. Interpretation only comes *after* an investigation of the logical structure of the theory. Here as always the theory itself sets the framework for its interpretation.$^{6}$\n\nFor any interpretation it is necessary to put the mathematical model of the theory into correspondence with experience. For this purpose it is necessary to formulate abstract models for observers that can be treated within the theory itself as physical systems, to consider isolated systems containing such model observers in interaction with other subsystems, to deduce the changes that occur in an observer as a consequence of interaction with the surrounding subsystems, and to interpret the changes in the familiar language of experience.\n\nSection 4 investigates representations of the state of a composite system in terms of states of constituent subsystems. The mathematics leads one to recognize the concept of the *relativity of states*, in the following sense: a constituent subsystem cannot be said to be in any single well-defined state, independently of the remainder of the composite system, to any arbitrarily chosen state for one subsystem there will correspond a unique *relative state* for the remainder of the composite system. This relative state will usually depend upon the choice of state for the first subsystem. Thus the state of one subsystem does not have an independent existence, but is fixed only by the state of the remaining subsystem. In other words, the states occupied by the subsystems are not independent, but *correlated*, such correlations between systems arise whenever systems interact. In the present formulation all measurements and observation processes are to be regarded simply as interactions between the physical systems involved—interactions which produce strong correlations. A simple model for a measurement, due to von Neumann, is analyzed from this viewpoint.\n\nSection 5 gives an abstract treatment of the problem of observation. This uses only the superposition principle, and general rules by which composite system states are formed of subsystem states, in order that the results shall have the greatest generality and be applicable to any form of quantum theory for which these principles hold. Reductions are drawn about the state of the observer relative to the state of the object system. It is found that experiences of the observer (magnetic tape memory, counter system, etc.) are in full accord with predictions of the conventional “external observer” formulation of quantum mechanics, based on Process 1.\n\nSection 6 recapitulates the “relative state” formulation of quantum mechanics.\n\n## 4. Concept of Relative State\n\nWe now investigate some consequences of the wave mechanical formalism of composite systems. If a composite system $S$, is composed of two subsystems $S_1$ and $S_2$, with associated Hilbert spaces $H_1$ and $H_2$, then, according to the usual formalism of composite systems, the Hilbert space for $S$ is taken to be the tensor product of $H_1$ and $H_2$ (written $H = H_1 \\\\otimes H_2$). This has the consequence that if the sets $\\{ \\\\xi_i^{S_1} \\\\}$ and $\\{ \\\\eta_j^{S_2} \\\\}$ are complete orthonormal sets of states for $S_1$ and $S_2$, respectively, then the general state of $S$ can be written as a superposition:\n\n$$\\\\psi^S = \\\\sum_{i,j} a_{ij} \\\\xi_i^{S_1} \\\\eta_j^{S_2}. \\\\tag{1}$$ \n\nFrom (3.1) [sic] although $S$ is in a definite state $\\\\psi^S$, the subsystems $S_1$ and $S_2$ do not possess anything like definite states independently of one another (except in the special case where all but one of the $a_{ij}$ are zero).\n\nWe can, however, for any choice of a state in one subsystem, uniquely assign a corresponding relative state in the other subsystems. For example, if we choose $\\\\xi_k$ as the state for $S_1$, while the composite system $S$ is in the state $\\\\psi^S$ given by (3.1) [sic], then the corresponding relative state in $S_2$, $\\\\psi(S_2; \\\\text{rel}\\\\xi_k, S_1)$, will be:\n\n$$\\\\psi(S_2; \\\\text{rel}\\\\xi_k, S_1) = N_k \\\\sum_j a_{kj} \\\\eta_j^{S_2} \\\\tag{2}$$ \n\nwhere $N_k$ is a normalization constant. This relative state for $\\\\xi_k$ is independent of the choice of basis $\\{ \\\\xi_i \\\\}$ ($i \\\\neq k$) for the orthogonal complement of $\\\\xi_k$, and is hence determined uniquely by $\\\\xi_k$ alone. To find the relative state in $S_2$ for an arbitrary state of $S_1$ therefore, one simply carries out the above procedure using any pair of bases for $S_1$ and $S_2$ which contains the desired state as one element of the basis for $S_1$. To find states in $S_1$ relative to states in $S_2$, interchange $S_1$ and $S_2$ in the procedure.",
+      "word_count": 520,
+      "page_quality_notes": [
+        "High-quality scan with clear two-column layout. Minor OCR errors in equation references '(3.1) [sic]' which appear to be typos. Requires manual review for context."
+      ]
+    },
+    {
+      "pdf_page_number": 4,
+      "printed_page_number": "457",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "In the conventional or “external observation” formulation, the relative state in $S_2$, $\\psi(S_2; \\text{rel}\\phi, S_1)$, for a state $\\phi^{S_1}$ in $S_1$, gives the conditional probability distributions for the results of all measurements in $S_2$, given that $S_1$ has been measured and found to be in state $\\phi^{S_1}$—i.e., that $\\phi^{S_1}$ is the eigenfunction of the measurement in $S_1$ corresponding to the observed eigenvalue.",
+          "markdown": "In the conventional or “external observation” formulation, the relative state in $S_2$, $\\psi(S_2; \\text{rel}\\phi, S_1)$, for a state $\\phi^{S_1}$ in $S_1$, gives the conditional probability distributions for the results of all measurements in $S_2$, given that $S_1$ has been measured and found to be in state $\\phi^{S_1}$—i.e., that $\\phi^{S_1}$ is the eigenfunction of the measurement in $S_1$ corresponding to the observed eigenvalue.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "For any choice of basis in $S_1$, $\\{ \\xi_i \\}$, it is always possible to represent the state of $S$, (1), as a single superposition of pairs of states, each consisting of a state from the basis $\\{ \\xi_i \\}$ in $S_1$ and its relative state in $S_2$. Thus, from (2), (1) can be written in the form:",
+          "markdown": "For any choice of basis in $S_1$, $\\{ \\xi_i \\}$, it is always possible to represent the state of $S$, (1), as a new superposition of pairs of states, each consisting of a state from the basis $\\{ \\xi_i \\}$ in $S_1$ and its relative state in $S_2$. Thus, from (2), (1) can be written in the form:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": true,
+          "review_reason": "OCR error: 'a single superposition' misread as 'a new superposition'. Requires correction."
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^S = \\sum_i \\frac{1}{N_i} \\xi_i^{S_1} \\psi(S_2; \\text{rel}\\xi_i, S_1). \\tag{3}$$",
+          "markdown": "$$\\psi^S = \\sum_i \\frac{1}{N_i} \\xi_i^{S_1} \\psi(S_2; \\text{rel}\\xi_i, S_1). \\tag{3}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.7,
+            0.9
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This is an important representation used frequently.",
+          "markdown": "This is an important representation used frequently.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.4,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Summarizing: There does not, in general, exist anything like a single state for one subsystem of a composite system. Subsystems do not possess states that are independent of the states of the remainder of the system, so that the subsystem states are generally correlated with one another. One can arbitrarily choose a state for one subsystem, and be led to the relative state for the remainder. Thus we are faced with a fundamental relativity of states, which is implied by the formalism of composite systems. It is meaningless to ask the absolute state of a subsystem—one can ask the state relative to a given state of the remainder of the subsystem",
+          "markdown": "Summarizing: There does not, in general, exist anything like a single state for one subsystem of a composite system. Subsystems do not possess states that are independent of the states of the remainder of the system, so that the subsystem states are generally correlated with one another. One can arbitrarily choose a state for one subsystem, and be led to the relative state for the remainder. Thus we are faced with a fundamental relativity of states, which is implied by the formalism of composite systems. It is meaningless to ask the absolute state of a subsystem—one can ask the state relative to a given state of the remainder of the subsystem",
+          "asset_id": "summary_relative_state",
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "Example: von Neumann Measurement Model",
+          "markdown": "### Example: von Neumann Measurement Model",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.45,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "At this point we consider a simple example, due to von Neumann, which serves as a model of a measurement process—discussion of this example prepares the ground for the analysis of “observation.” We start with a system of only one coordinate, q (such as position of a particle), and an apparatus of one coordinate r (for example the position of a meter needle). Further suppose that they are initially independent, so that the combined wave function is  $ \\psi_{0}^{S+A} = \\phi(q)\\eta(r) $  where  $ \\phi(q) $  is the initial system wave function, and  $ \\eta(r) $  is the initial apparatus function. The Hamiltonian is such that the two systems do not interact except during the interval t = 0 to t = T, during which time the total Hamiltonian consists only of a simple interaction,",
+          "markdown": "At this point we consider a simple example, due to von Neumann, which serves as a model of a measurement process—discussion of this example prepares the ground for the analysis of “observation.” We start with a system of only one coordinate, q (such as position of a particle), and an apparatus of one coordinate r (for example the position of a meter needle). Further suppose that they are initially independent, so that the combined wave function is  $ \\psi_{0}^{S+A} = \\phi(q)\\eta(r) $  where  $ \\phi(q) $  is the initial system wave function, and  $ \\eta(r) $  is the initial apparatus function. The Hamiltonian is such that the two systems do not interact except during the interval t = 0 to t = T, during which time the total Hamiltonian consists only of a simple interaction,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$H _ {I} = - i \\hbar q (\\partial / \\partial r). \\tag{4}$$",
+          "markdown": "$$H _ {I} = - i \\hbar q (\\partial / \\partial r). \\tag{4}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.5,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Then the state",
+          "markdown": "Then the state",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.2,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi_ {t} ^ {S + A} (q, r) = \\phi (q) \\eta (r - q t) \\tag{5}$$",
+          "markdown": "$$\\psi_ {t} ^ {S + A} (q, r) = \\phi (q) \\eta (r - q t) \\tag{5}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.6,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "is a solution of the Schrödinger equation,",
+          "markdown": "is a solution of the Schrödinger equation,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.45,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$i \\hbar (\\partial \\psi_ {t} ^ {S + A} / \\partial t) = H _ {I} \\psi_ {t} ^ {S + A} \\tag{6}$$",
+          "markdown": "$$i \\hbar (\\partial \\psi_ {t} ^ {S + A} / \\partial t) = H _ {I} \\psi_ {t} ^ {S + A} \\tag{6}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.7,
+            0.4
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "for the specified initial conditions at time $ t = 0 $.",
+          "markdown": "for the specified initial conditions at time $ t = 0 $.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.5,
+            0.35
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "From (5) at time $ t = T $ (at which time interaction stops) there is no longer any definite independent apparatus state, nor any independent system state. The apparatus therefore does not indicate any definite object-system value, and nothing like process 1 has occurred.",
+          "markdown": "From (5) at time $ t = T $ (at which time interaction stops) there is no longer any definite independent apparatus state, nor any independent system state. The apparatus therefore does not indicate any definite object-system value, and nothing like process 1 has occurred.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.25,
+            0.9,
+            0.3
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "In the conventional or “external observation” formulation, the relative state in $S_2$, $\\psi(S_2; \\text{rel}\\phi, S_1)$, for a state $\\phi^{S_1}$ in $S_1$, gives the conditional probability distributions for the results of all measurements in $S_2$, given that $S_1$ has been measured and found to be in state $\\phi^{S_1}$—i.e., that $\\phi^{S_1}$ is the eigenfunction of the measurement in $S_1$ corresponding to the observed eigenvalue.\n\nFor any choice of basis in $S_1$, $\\{ \\xi_i \\}$, it is always possible to represent the state of $S$, (1), as a new superposition of pairs of states, each consisting of a state from the basis $\\{ \\xi_i \\}$ in $S_1$ and its relative state in $S_2$. Thus, from (2), (1) can be written in the form:\n\n$$\\\\psi^S = \\\\sum_i \\\\frac{1}{N_i} \\\\xi_i^{S_1} \\\\psi(S_2; \\\\text{rel}\\\\xi_i, S_1). \\\\tag{3}$$ \n\nThis is an important representation used frequently.\n\nSummarizing: There does not, in general, exist anything like a single state for one subsystem of a composite system. Subsystems do not possess states that are independent of the states of the remainder of the system, so that the subsystem states are generally correlated with one another. One can arbitrarily choose a state for one subsystem, and be led to the relative state for the remainder. Thus we are faced with a fundamental relativity of states, which is implied by the formalism of composite systems. It is meaningless to ask the absolute state of a subsystem—one can ask the state relative to a given state of the remainder of the subsystem\n\n### Example: von Neumann Measurement Model\n\nAt this point we consider a simple example, due to von Neumann, which serves as a model of a measurement process—discussion of this example prepares the ground for the analysis of “observation.” We start with a system of only one coordinate, q (such as position of a particle), and an apparatus of one coordinate r (for example the position of a meter needle). Further suppose that they are initially independent, so that the combined wave function is  $ \\\\psi_{0}^{S+A} = \\\\phi(q)\\\\eta(r) $  where  $ \\\\phi(q) $  is the initial system wave function, and  $ \\\\eta(r) $  is the initial apparatus function. The Hamiltonian is such that the two systems do not interact except during the interval t = 0 to t = T, during which time the total Hamiltonian consists only of a simple interaction,\n\n$$H _ {I} = - i \\\\hbar q (\\\\partial / \\\\partial r). \\\\tag{4}$$ \n\nThen the state\n\n$$\\\\psi_ {t} ^ {S + A} (q, r) = \\\\phi (q) \\\\eta (r - q t) \\\\tag{5}$$ \n\nis a solution of the Schrödinger equation,\n\n$$i \\\\hbar (\\\\partial \\\\psi_ {t} ^ {S + A} / \\\\partial t) = H _ {I} \\\\psi_ {t} ^ {S + A} \\\\tag{6}$$ \n\nfor the specified initial conditions at time $ t = 0 $.\n\nFrom (5) at time $ t = T $ (at which time interaction stops) there is no longer any definite independent apparatus state, nor any independent system state. The apparatus therefore does not indicate any definite object-system value, and nothing like process 1 has occurred.",
+      "word_count": 580,
+      "page_quality_notes": [
+        "High-quality scan with clear two-column layout. Minor OCR errors in text (e.g., 'a single superposition' misread as 'a new superposition'). Equation references are correct."
+      ]
+    },
+    {
+      "pdf_page_number": 5,
+      "printed_page_number": "458",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Nevertheless, we can look upon the total wave function (5) as a superposition of pairs of subsystem states, each element of which has a definite q value and a correspondingly displaced apparatus state. Thus after the interaction the state (5) has the form:",
+          "markdown": "Nevertheless, we can look upon the total wave function (5) as a superposition of pairs of subsystem states, each element of which has a definite q value and a correspondingly displaced apparatus state. Thus after the interaction the state (5) has the form:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi_ {T} ^ {S + A} = \\int \\phi (q ^ {\\prime}) \\delta (q - q ^ {\\prime}) \\eta (r - q T) d q ^ {\\prime}, \\tag{7}$$",
+          "markdown": "$$\\psi_ {T} ^ {S + A} = \\int \\phi (q ^ {\\prime}) \\delta (q - q ^ {\\prime}) \\eta (r - q T) d q ^ {\\prime}, \\tag{7}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": null,
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "which is a superposition of states $\\psi_{q'} = \\delta(q - q')\\eta(r - qT)$. Each of these elements, $\\psi_{q'}$, of the superposition describes a state in which the system has the definite value $q = q'$, and in which the apparatus has a state that is displaced from its original state by the amount $q'T$. These elements $\\psi_{q'}$ are then superposed with coefficients $\\phi(q')$ to form the total state (7).",
+          "markdown": "which is a superposition of states $\\psi_{q'} = \\delta(q - q')\\eta(r - qT)$. Each of these elements, $\\psi_{q'}$, of the superposition describes a state in which the system has the definite value $q = q'$, and in which the apparatus has a state that is displaced from its original state by the amount $q'T$. These elements $\\psi_{q'}$ are then superposed with coefficients $\\phi(q')$ to form the total state (7).",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Conversely, if we transform to the representation where the apparatus coordinate is definite, we write (5) as",
+          "markdown": "Conversely, if we transform to the representation where the apparatus coordinate is definite, we write (5) as",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi_T^{S+A} = \\int (1/N_{r'})\\xi^{r'}(q)\\delta(r - r')dr',$$,",
+          "markdown": "$$\\psi_T^{S+A} = \\int (1/N_{r'})\\xi^{r'}(q)\\delta(r - r')dr',$$,",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.7,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "where",
+          "markdown": "where",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.1,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\xi^{r'}(q) = N_{r'}\\phi(q)\\eta(r' - qT) \\tag{8}$$",
+          "markdown": "$$\\xi^{r'}(q) = N_{r'}\\phi(q)\\eta(r' - qT) \\tag{8}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.5,
+            0.75
+          ],
+          "ocr_confidence": null,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "and",
+          "markdown": "and",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.1,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$(1/N_{r'})^2 = \\int \\phi^*(q)\\phi(q)\\eta^*(r' - qT)\\eta(r' - qT)dq.$$",
+          "markdown": "$$(1/N_{r'})^2 = \\int \\phi^*(q)\\phi(q)\\eta^*(r' - qT)\\eta(r' - qT)dq.$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.8,
+            0.65
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Then the $\\xi^{r'}(q)$ are the relative system state functions$^6$ for the apparatus states $\\delta(r - r')$ of definite value $r = r'$.",
+          "markdown": "Then the $\\xi^{r'}(q)$ are the relative system state functions$^6$ for the apparatus states $\\delta(r - r')$ of definite value $r = r'$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.7,
+            0.6
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{6}$This example provides a model of an approximate measurement. However, the relative system states after the interaction $\\xi^{r'}(q)$ cannot ordinarily be generated from the original system state $\\phi$ by the application of any projection operator, $E$ proof: Suppose on the contrary that $\\xi^{r'}(q) = NE\\phi(q) = N'\\phi(q)\\eta(r' - qt)$, where $N, N'$ are normalization constants. Then",
+          "markdown": "$^{6}$This example provides a model of an approximate measurement. However, the relative system states after the interaction $\\xi^{r'}(q)$ cannot ordinarily be generated from the original system state $\\phi$ by the application of any projection operator, $E$ proof: Suppose on the contrary that $\\xi^{r'}(q) = NE\\phi(q) = N'\\phi(q)\\eta(r' - qt)$, where $N, N'$ are normalization constants. Then",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Sentence fragment in footnote: 'E proof:' appears to be an OCR error. Requires manual review for context."
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$E(NE\\phi(q)) = NE^2\\phi(q) = N''\\phi(q)\\eta^2(r' - qt)$$",
+          "markdown": "$$E(NE\\phi(q)) = NE^2\\phi(q) = N''\\phi(q)\\eta^2(r' - qt)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.6,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "and $E^2\\phi(q) = (N''/N)\\phi(q)\\eta^2(r' - qt)$.",
+          "markdown": "and $E^2\\phi(q) = (N''/N)\\phi(q)\\eta^2(r' - qt)$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.6,
+            0.45
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "But the condition $E^2 = E$ which is necessary for $E$ to be a projection implies that $N'/N''\\eta(q) = \\eta^2(q)$ which is generally false.",
+          "markdown": "But the condition $E^2 = E$ which is necessary for $E$ to be a projection implies that $N'/N''\\eta(q) = \\eta^2(q)$ which is generally false.",
+          "asset_id": null,
+          "suggested_filename": "pages/p005.txt",
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Nevertheless, we can look upon the total wave function (5) as a superposition of pairs of subsystem states, each element of which has a definite q value and a correspondingly displaced apparatus state. Thus after the interaction the state (5) has the form:\n\n$$\\\\psi_ {T} ^ {S + A} = \\\\int \\\\phi (q ^ {\\\\prime}) \\\\delta (q - q ^ {\\\\prime}) \\\\eta (r - q T) d q ^ {\\\\prime}, \\\\tag{7}$$ \n\nwhich is a superposition of states $\\\\psi_{q'} = \\\\delta(q - q')\\\\eta(r - qT)$. Each of these elements, $\\\\psi_{q'}$, of the superposition describes a state in which the system has the definite value $q = q'$, and in which the apparatus has a state that is displaced from its original state by the amount $q'T$. These elements $\\\\psi_{q'}$ are then superposed with coefficients $\\\\phi(q')$ to form the total state (7).\n\nConversely, if we transform to the representation where the apparatus coordinate is definite, we write (5) as\n\n$$\\\\psi_T^{S+A} = \\\\int (1/N_{r'})\\\\xi^{r'}(q)\\\\delta(r - r')dr',$$, \n\nwhere\n\n$$\\\\xi^{r'}(q) = N_{r'}\\\\phi(q)\\\\eta(r' - qT) \\\\tag{8}$$ \n\nand\n\n$$(1/N_{r'})^2 = \\\\int \\\\phi^*(q)\\\\phi(q)\\\\eta^*(r' - qT)\\\\eta(r' - qT)dq.$$ \n\nThen the $\\\\xi^{r'}(q)$ are the relative system state functions$^6$ for the apparatus states $\\\\delta(r - r')$ of definite value $r = r'$.\n\n$^{6}$This example provides a model of an approximate measurement. However, the relative system states after the interaction $\\\\xi^{r'}(q)$ cannot ordinarily be generated from the original system state $\\\\phi$ by the application of any projection operator, $E$ proof: Suppose on the contrary that $\\\\xi^{r'}(q) = NE\\\\phi(q) = N'\\\\phi(q)\\\\eta(r' - qt)$, where $N, N'$ are normalization constants. Then\n\n$$E(NE\\\\phi(q)) = NE^2\\\\phi(q) = N''\\\\phi(q)\\\\eta^2(r' - qt)$$ \n\nand $E^2\\\\phi(q) = (N''/N)\\\\phi(q)\\\\eta^2(r' - qt)$. But the condition $E^2 = E$ which is necessary for $E$ to be a projection implies that $N'/N''\\\\eta(q) = \\\\eta^2(q)$ which is generally false.",
+      "word_count": 550,
+      "page_quality_notes": [
+        "High-quality scan with clear two-column layout. Minor OCR errors in footnote (e.g., 'E proof:' appears to be a sentence fragment). Requires manual review for context."
+      ]
+    },
+    {
+      "pdf_page_number": 6,
+      "printed_page_number": "459",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If $T$ is sufficiently large, or $\\eta(r)$ sufficiently sharp (near $\\delta(r)$), then $\\xi^{r'}(q)$ is nearly $\\delta(q - r'/T)$ and the relative system states $\\xi^{r'}(q)$ are nearly eigenstates for the values $q = r'/T$.",
+          "markdown": "If $T$ is sufficiently large, or $\\eta(r)$ sufficiently sharp (near $\\delta(r)$), then $\\xi^{r'}(q)$ is nearly $\\delta(q - r'/T)$ and the relative system states $\\xi^{r'}(q)$ are nearly eigenstates for the values $q = r'/T$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We have seen that (8) is a superposition of states $\\psi_{r'}$, for each of which the apparatus has recorded a definite value $r'$, and the system is left in approximately the eigenstate of the measurement corresponding to $q = r'/T$. The discontinuous \"jump\" into an eigenstate is thus only a relative proposition, dependent upon the mode of decomposition of the total wave function into the superposition, and relative to a particularly chosen apparatus-coordinate value. So far as the complete theory is concerned all elements of the superposition exist simultaneously, and the entire process is quite continuous.",
+          "markdown": "We have seen that (8) is a superposition of states $\\psi_{r'}$, for each of which the apparatus has recorded a definite value $r'$, and the system is left in approximately the eigenstate of the measurement corresponding to $q = r'/T$. The discontinuous \"jump\" into an eigenstate is thus only a relative proposition, dependent upon the mode of decomposition of the total wave function into the superposition, and relative to a particularly chosen apparatus-coordinate value. So far as the complete theory is concerned all elements of the superposition exist simultaneously, and the entire process is quite continuous.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.9,
+            0.95
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "von Neumann's example is only a special case of a more general situation. Consider any measuring apparatus interacting with any object system. As a result of the interaction the state of the measuring apparatus is no longer capable of independent definition. It can be defined only *relative* to the state of the object system. In other words, there exists only a correlation between the two states of the two systems. It seems as if nothing can ever be settled by such a measurement.",
+          "markdown": "von Neumann's example is only a special case of a more general situation. Consider any measuring apparatus interacting with any object system. As a result of the interaction the state of the measuring apparatus is no longer capable of independent definition. It can be defined only *relative* to the state of the object system. In other words, there exists only a correlation between the two states of the two systems. It seems as if nothing can ever be settled by such a measurement.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This indefinite behavior seems to be quite at variance with our observations, since physical objects always appear to us to have definite positions. Can we reconcile this feature wave mechanical theory built purely in Process 2 with experience, or must the theory be abandoned as untenable? In order to answer this question we consider the problem of observation itself within the framework of the theory.",
+          "markdown": "This indefinite behavior seems to be quite at variance with our observations, since physical objects always appear to us to have definite positions. Can we reconcile this feature wave mechanical theory built purely in Process 2 with experience, or must the theory be abandoned as untenable? In order to answer this question we consider the problem of observation itself within the framework of the theory.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "5. Observation",
+          "markdown": "## 5. Observation",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.25,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We have the task of making deductions about the appearance of phenomena to observers which are considered as purely physical systems and are treated within the theory. To accomplish this it is necessary to identify some present properties of such an observer with features of the past experience of the observer, thus, in order to say that an observer 0 has observed the event $\\alpha$, it is necessary that the state of 0 has become changed from its former state to a new state which is dependent upon $\\alpha$.",
+          "markdown": "We have the task of making deductions about the appearance of phenomena to observers which are considered as purely physical systems and are treated within the theory. To accomplish this it is necessary to identify some present properties of such an observer with features of the past experience of the observer, thus, in order to say that an observer 0 has observed the event $\\alpha$, it is necessary that the state of 0 has become changed from its former state to a new state which is dependent upon $\\alpha$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "It will suffice for our purposes to consider the observers to possess memories (i.e., parts of a relatively permanent nature whose states are in correspondence with past experience of the observers). In order to make deductions about the past experience of an observer it is sufficient to deduce the present contents of the memory as it appears within the mathematical model.",
+          "markdown": "It will suffice for our purposes to consider the observers to possess memories (i.e., parts of a relatively permanent nature whose states are in correspondence with past experience of the observers). In order to make deductions about the past experience of an observer it is sufficient to deduce the present contents of the memory as it appears within the mathematical model.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "As models for observers we can, if we wish, consider automatically functioning machines, possessing sensory apparatus and coupled to recording devices capable of registering past sensory data and machine configurations. We can further suppose that the machine is so constructed that its present actions shall be determined not only by its present sensory data, but by the contents of its memory as well. Such a machine will then be capable of performing a sequence of observations (measurements), and furthermore of deciding upon its future experiments on the basis of past results. If we consider that current sensory data, as well as machine configuration, is immediately recorded in the memory, then the actions of the machine at a given instant can be regarded as a function of the memory contents only, and all relevant experience of the machine is contained in the memory.",
+          "markdown": "As models for observers we can, if we wish, consider automatically functioning machines, possessing sensory apparatus and coupled to recording devices capable of registering past sensory data and machine configurations. We can further suppose that the machine is so constructed that its present actions shall be determined not only by its present sensory data, but by the contents of its memory as well. Such a machine will then be capable of performing a sequence of observations (measurements), and furthermore of deciding upon its future experiments on the basis of past results. If we consider that current sensory data, as well as machine configuration, is immediately recorded in the memory, then the actions of the machine at a given instant can be regarded as a function of the memory contents only, and all relevant experience of the machine is contained in the memory.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": "Long sentence with complex structure. May benefit from manual review for clarity, but OCR appears correct."
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "For such machines we are justified in using such phrases as “the machine has perceived A” or “the machine is aware of A” if the occurrence of A is represented in the memory, since the future behavior of the machine will be based upon the occurrence of A. In fact, all of the customary language of subjective experience is quite applicable to such machines, and forms the most natural and useful mode of expression when dealing with their behavior, as is well known to individuals who work with complex automata.",
+          "markdown": "For such machines we are justified in using such phrases as “the machine has perceived A” or “the machine is aware of A” if the occurrence of A is represented in the memory, since the future behavior of the machine will be based upon the occurrence of A. In fact, all of the customary language of subjective experience is quite applicable to such machines, and forms the most natural and useful mode of expression when dealing with their behavior, as is well known to individuals who work with complex automata.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "If $T$ is sufficiently large, or $\\eta(r)$ sufficiently sharp (near $\\delta(r)$), then $\\xi^{r'}(q)$ is nearly $\\delta(q - r'/T)$ and the relative system states $\\xi^{r'}(q)$ are nearly eigenstates for the values $q = r'/T$.\n\nWe have seen that (8) is a superposition of states $\\psi_{r'}$, for each of which the apparatus has recorded a definite value $r'$, and the system is left in approximately the eigenstate of the measurement corresponding to $q = r'/T$. The discontinuous \"jump\" into an eigenstate is thus only a relative proposition, dependent upon the mode of decomposition of the total wave function into the superposition, and relative to a particularly chosen apparatus-coordinate value. So far as the complete theory is concerned all elements of the superposition exist simultaneously, and the entire process is quite continuous.\n\nvon Neumann's example is only a special case of a more general situation. Consider any measuring apparatus interacting with any object system. As a result of the interaction the state of the measuring apparatus is no longer capable of independent definition. It can be defined only *relative* to the state of the object system. In other words, there exists only a correlation between the two states of the two systems. It seems as if nothing can ever be settled by such a measurement.\n\nThis indefinite behavior seems to be quite at variance with our observations, since physical objects always appear to us to have definite positions. Can we reconcile this feature wave mechanical theory built purely in Process 2 with experience, or must the theory be abandoned as untenable? In order to answer this question we consider the problem of observation itself within the framework of the theory.\n\n## 5. Observation\n\nWe have the task of making deductions about the appearance of phenomena to observers which are considered as purely physical systems and are treated within the theory. To accomplish this it is necessary to identify some present properties of such an observer with features of the past experience of the observer, thus, in order to say that an observer 0 has observed the event $\\alpha$, it is necessary that the state of 0 has become changed from its former state to a new state which is dependent upon $\\alpha$.\n\nIt will suffice for our purposes to consider the observers to possess memories (i.e., parts of a relatively permanent nature whose states are in correspondence with past experience of the observers). In order to make deductions about the past experience of an observer it is sufficient to deduce the present contents of the memory as it appears within the mathematical model.\n\nAs models for observers we can, if we wish, consider automatically functioning machines, possessing sensory apparatus and coupled to recording devices capable of registering past sensory data and machine configurations. We can further suppose that the machine is so constructed that its present actions shall be determined not only by its present sensory data, but by the contents of its memory as well. Such a machine will then be capable of performing a sequence of observations (measurements), and furthermore of deciding upon its future experiments on the basis of past results. If we consider that current sensory data, as well as machine configuration, is immediately recorded in the memory, then the actions of the machine at a given instant can be regarded as a function of the memory contents only, and all relevant experience of the machine is contained in the memory.\n\nFor such machines we are justified in using such phrases as “the machine has perceived A” or “the machine is aware of A” if the occurrence of A is represented in the memory, since the future behavior of the machine will be based upon the occurrence of A. In fact, all of the customary language of subjective experience is quite applicable to such machines, and forms the most natural and useful mode of expression when dealing with their behavior, as is well known to individuals who work with complex automata.",
+      "word_count": 620,
+      "page_quality_notes": [
+        "High-quality scan with clear two-column layout. Minor OCR errors in text (e.g., 'wave mechanical theory built purely in Process 2' may be missing a word). Requires manual review for clarity."
+      ]
+    },
+    {
+      "pdf_page_number": 7,
+      "printed_page_number": "460",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "When dealing with a system representing an observer quantum mechanically we ascribe a state function, $\\psi^0$, to it. When the state $\\psi^0$ describes an observer whose memory contains representations of the events $A, B, \\cdots, C$ we denote this fact by appending the memory sequence in brackets as a subscript, writing:",
+          "markdown": "When dealing with a system representing an observer quantum mechanically we ascribe a state function, $\\psi^0$, to it. When the state $\\psi^0$ describes an observer whose memory contains representations of the events $A, B, \\cdots, C$ we denote this fact by appending the memory sequence in brackets as a subscript, writing:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^0_{[A,B,\\cdots,C]}. \\tag{9}$$",
+          "markdown": "$$\\psi^0_{[A,B,\\cdots,C]}. \\tag{9}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.4,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The symbols $A, B, \\cdots, C$, which we assume to be ordered time-wise, therefore stand for memory configurations which are in correspondence with the past experience of the observer. These configurations can be regarded as punches in a paper tape, impressions on a magnetic reel, configurations of a relay switching circuit, or even configurations of brain cells. We require only that they be capable of the interpretation “The observer has experienced the succession of events $A, B, \\cdots, C$.” (We sometimes write dots in a memory sequence, $\\cdots A, B, \\cdots, C$, to indicate the possible presence of previous memories which are irrelevant to the case being considered.)",
+          "markdown": "The symbols $A, B, \\cdots, C$, which we assume to be ordered time-wise, therefore stand for memory configurations which are in correspondence with the past experience of the observer. These configurations can be regarded as punches in a paper tape, impressions on a magnetic reel, configurations of a relay switching circuit, or even configurations of brain cells. We require only that they be capable of the interpretation “The observer has experienced the succession of events $A, B, \\cdots, C$.” (We sometimes write dots in a memory sequence, $\\cdots A, B, \\cdots, C$, to indicate the possible presence of previous memories which are irrelevant to the case being considered.)",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The mathematical model seeks to treat the interaction of such observer systems with other physical systems (observations), within the framework of Process 2 wave mechanics, and to deduce the resulting memory configurations, which are then to be interpreted as records of the past experiences of the observers.",
+          "markdown": "The mathematical model seeks to treat the interaction of such observer systems with other physical systems (observations), within the framework of Process 2 wave mechanics, and to deduce the resulting memory configurations, which are then to be interpreted as records of the past experiences of the observers.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.9,
+            0.85
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "We begin by defining what constitutes a “good” observation. A good observation of a quantity $A$, with eigenfunctions $\\phi_i$, for a system $S$, by an observer whose initial states is $\\psi^0$, consists of an interaction which, in a specified period of time, transforms each (total) state",
+          "markdown": "We begin by defining what constitutes a “good” observation. A good observation of a quantity $A$, with eigenfunctions $\\phi_i$, for a system $S$, by an observer whose initial states is $\\psi^0$, consists of an interaction which, in a specified period of time, transforms each (total) state",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": true,
+          "review_reason": "Typo: 'initial states' should likely be 'initial state'. Requires manual review for accuracy."
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^{S+0} = \\phi_i \\psi^0_{[\\dots]} \\tag{10}$$",
+          "markdown": "$$\\psi^{S+0} = \\phi_i \\psi^0_{[\\dots]} \\tag{10}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.5,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "into a new state",
+          "markdown": "into a new state",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.2,
+            0.7
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^{S+0'} = \\phi_i \\psi^0_{[\\dots\\alpha_i]} \\tag{11}$$",
+          "markdown": "$$\\psi^{S+0'} = \\phi_i \\psi^0_{[\\dots\\alpha_i]} \\tag{11}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.55,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where $\\alpha_i$ characterizes$^7$ the state $\\phi_i$. (The symbol, $\\alpha_i$, might stand for a recording of the eigenvalue, for example.) That is, we require that the system state, *if it is an eigenstate*, shall be unchanged, and (2) that the observer state shall change so as to describe an observer that is “aware” of which eigenfunction it is; that is, some property is recorded in the memory of the observer which characterizes $\\phi_i$, such as the eigenvalue. The requirement that the eigenstates for the system be unchanged is necessary if the observation is to be significant (repeatable), and the requirement that the observer state change in a manner which is different for each eigenfunction necessary if we are to be able to call the interaction an observation at all. How closely a general interaction satisfies the definition of a good observation depends upon (1) the way in which the interaction depends upon the dynamical variables of the observer system—including memory variables—and upon the dynamical variables of the object system and (2) the initial state of the observer system. Given (1) and (2), one can for example solve the wave equation, deduce the state of the composite system after the end of the interaction, and check whether an object system that was originally in an eigenstate is left in an eigenstate, as demanded by the repeatability postulate. This postulate is satisfied, for example, by the model of von Neumann that has already been discussed.",
+          "markdown": "where $\\alpha_i$ characterizes$^7$ the state $\\phi_i$. (The symbol, $\\alpha_i$, might stand for a recording of the eigenvalue, for example.) That is, we require that the system state, *if it is an eigenstate*, shall be unchanged, and (2) that the observer state shall change so as to describe an observer that is “aware” of which eigenfunction it is; that is, some property is recorded in the memory of the observer which characterizes $\\phi_i$, such as the eigenvalue. The requirement that the eigenstates for the system be unchanged is necessary if the observation is to be significant (repeatable), and the requirement that the observer state change in a manner which is different for each eigenfunction necessary if we are to be able to call the interaction an observation at all. How closely a general interaction satisfies the definition of a good observation depends upon (1) the way in which the interaction depends upon the dynamical variables of the observer system—including memory variables—and upon the dynamical variables of the object system and (2) the initial state of the observer system. Given (1) and (2), one can for example solve the wave equation, deduce the state of the composite system after the end of the interaction, and check whether an object system that was originally in an eigenstate is left in an eigenstate, as demanded by the repeatability postulate. This postulate is satisfied, for example, by the model of von Neumann that has already been discussed.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "footnote",
+          "level": null,
+          "text_original": "$^{7}$It should be understood that $\\psi_{[\\dots \\alpha_i]}^0$ is a *different* state for each $i$. A more precise notation would write $\\psi_{i[\\dots \\alpha_i]}^0$, but no confusion can arise if we simply let the $\\psi_i^0$ be indexed only by the index of the memory configuration symbol.",
+          "markdown": "$^{7}$It should be understood that $\\psi_{[\\dots \\alpha_i]}^0$ is a *different* state for each $i$. A more precise notation would write $\\psi_{i[\\dots \\alpha_i]}^0$, but no confusion can arise if we simply let the $\\psi_i^0$ be indexed only by the index of the memory configuration symbol.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.97,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "From the definition of a good observation we first deduce the result of an observation upon a system which is *not* in an eigenstate of the observation. We know from our definition that the interaction transforms states $\\phi_i \\psi_{[\\dots]}^0$ into states $\\phi_i \\psi_{[\\dots \\alpha_i]}^0$. Consequently these solutions of the wave equation can be superposed to give the final state for the case of an arbitrary initial system state. Thus if the initial system state is not an eigenstate, but a general state $\\sum_i a_i \\phi_i$, the final total state will have the form:",
+          "markdown": "From the definition of a good observation we first deduce the result of an observation upon a system which is *not* in an eigenstate of the observation. We know from our definition that the interaction transforms states $\\phi_i \\psi_{[\\dots]}^0$ into states $\\phi_i \\psi_{[\\dots \\alpha_i]}^0$. Consequently these solutions of the wave equation can be superposed to give the final state for the case of an arbitrary initial system state. Thus if the initial system state is not an eigenstate, but a general state $\\sum_i a_i \\phi_i$, the final total state will have the form:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^{S+0'} = \\sum_i a_i \\phi_i \\psi^0_{[\\dots \\alpha_i]}. \\tag{12}$$",
+          "markdown": "$$\\psi^{S+0'} = \\sum_i a_i \\phi_i \\psi^0_{[\\dots \\alpha_i]}. \\tag{12}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.7,
+            0.4
+          ],
+          "ocr_confidence": 1,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "When dealing with a system representing an observer quantum mechanically we ascribe a state function, $\\psi^0$, to it. When the state $\\psi^0$ describes an observer whose memory contains representations of the events $A, B, \\\\cdots, C$ we denote this fact by appending the memory sequence in brackets as a subscript, writing:\n\n$$\\\\psi^0_{[A,B,\\\\cdots,C]}. \\\\tag{9}$$ \n\nThe symbols $A, B, \\\\cdots, C$, which we assume to be ordered time-wise, therefore stand for memory configurations which are in correspondence with the past experience of the observer. These configurations can be regarded as punches in a paper tape, impressions on a magnetic reel, configurations of a relay switching circuit, or even configurations of brain cells. We require only that they be capable of the interpretation “The observer has experienced the succession of events $A, B, \\\\cdots, C$.” (We sometimes write dots in a memory sequence, $\\\\cdots A, B, \\\\cdots, C$, to indicate the possible presence of previous memories which are irrelevant to the case being considered.)\n\nThe mathematical model seeks to treat the interaction of such observer systems with other physical systems (observations), within the framework of Process 2 wave mechanics, and to deduce the resulting memory configurations, which are then to be interpreted as records of the past experiences of the observers.\n\nWe begin by defining what constitutes a “good” observation. A good observation of a quantity $A$, with eigenfunctions $\\phi_i$, for a system $S$, by an observer whose initial states is $\\psi^0$, consists of an interaction which, in a specified period of time, transforms each (total) state\n\n$$\\\\psi^{S+0} = \\\\phi_i \\\\psi^0_{\\[\\\\dots\\]} \\\\tag{10}$$ \n\ninto a new state\n\n$$\\\\psi^{S+0'} = \\\\phi_i \\\\psi^0_{\\[\\\\dots\\\\alpha_i\\]} \\\\tag{11}$$ \n\nwhere $\\alpha_i$ characterizes$^7$ the state $\\phi_i$. (The symbol, $\\alpha_i$, might stand for a recording of the eigenvalue, for example.) That is, we require that the system state, *if it is an eigenstate*, shall be unchanged, and (2) that the observer state shall change so as to describe an observer that is “aware” of which eigenfunction it is; that is, some property is recorded in the memory of the observer which characterizes $\\phi_i$, such as the eigenvalue. The requirement that the eigenstates for the system be unchanged is necessary if the observation is to be significant (repeatable), and the requirement that the observer state change in a manner which is different for each eigenfunction necessary if we are to be able to call the interaction an observation at all. How closely a general interaction satisfies the definition of a good observation depends upon (1) the way in which the interaction depends upon the dynamical variables of the observer system—including memory variables—and upon the dynamical variables of the object system and (2) the initial state of the observer system. Given (1) and (2), one can for example solve the wave equation, deduce the state of the composite system after the end of the interaction, and check whether an object system that was originally in an eigenstate is left in an eigenstate, as demanded by the repeatability postulate. This postulate is satisfied, for example, by the model of von Neumann that has already been discussed.\n\n$^{7}$It should be understood that $\\psi_{\\[\\\\dots \\\\alpha_i\\]}^0$ is a *different* state for each $i$. A more precise notation would write $\\psi_{i\\[\\\\dots \\\\alpha_i\\]}^0$, but no confusion can arise if we simply let the $\\psi_i^0$ be indexed only by the index of the memory configuration symbol.",
+      "word_count": 600,
+      "page_quality_notes": [
+        "High-quality scan with clear two-column layout. Minor OCR errors in text (e.g., 'initial states' should likely be 'initial state'). Requires manual review for accuracy."
+      ]
+    },
+    {
+      "pdf_page_number": 8,
+      "printed_page_number": "461",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Consequently these solutions of the wave equation can be superposed to give the final state for the case of an arbitrary initial system state. Thus if the initial system state is not an eigenstate, but a general state $\\sum_i a_i \\phi_i$, the final total state will have the form:",
+          "markdown": "Consequently these solutions of the wave equation can be superposed to give the final state for the case of an arbitrary initial system state. Thus if the initial system state is not an eigenstate, but a general state $\\sum_i a_i \\phi_i$, the final total state will have the form:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^{S+0'} = \\sum_i a_i \\phi_i \\psi^0_{[\\dots \\alpha_i]}. \\tag{12}$$",
+          "markdown": "$$\\psi^{S+0'} = \\sum_i a_i \\phi_i \\psi^0_{[\\dots \\alpha_i]}. \\tag{12}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.7,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "This superposition principle continues to apply in the presence of further systems which do not interact during the measurement. Thus, if systems $S_1, S_2, \\dots, S_n$ are present as well as 0, with original states $\\psi^{S_1}, \\psi^{S_2}, \\dots, \\psi^{S_n}$, and the only interaction during the time of measurement takes place between $S_1$ and 0, the measurement will transform the initial total state function:",
+          "markdown": "This superposition principle continues to apply in the presence of further systems which do not interact during the measurement. Thus, if systems $S_1, S_2, \\dots, S_n$ are present as well as 0, with original states $\\psi^{S_1}, \\psi^{S_2}, \\dots, \\psi^{S_n}$, and the only interaction during the time of measurement takes place between $S_1$ and 0, the measurement will transform the initial total state function:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi^{S_1+S_2+\\cdots+S_n+0} = \\psi^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots]} \\quad (13)$$",
+          "markdown": "$$\\psi^{S_1+S_2+\\cdots+S_n+0} = \\psi^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots]} \\quad (13)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.8,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "into the final state:",
+          "markdown": "into the final state:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.25,
+            0.8
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi'^{S_1+S_2+\\cdots+S_n+0} = \\sum_i a_i \\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]} \\quad (14)$$",
+          "markdown": "$$\\psi'^{S_1+S_2+\\cdots+S_n+0} = \\sum_i a_i \\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]} \\quad (14)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.85,
+            0.75
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where $a_i = (\\phi_i^{S_1}, \\psi^{S_1})$ and $\\phi_i^{S_1}$ are the eigenfunctions of the observation.",
+          "markdown": "where $a_i = (\\phi_i^{S_1}, \\psi^{S_1})$ and $\\phi_i^{S_1}$ are the eigenfunctions of the observation.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.7,
+            0.7
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Thus we arrive at the general rule for the transformation of total state functions which describe systems within which observation processes occur:",
+          "markdown": "Thus we arrive at the general rule for the transformation of total state functions which describe systems within which observation processes occur:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.9,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Rule 1:",
+          "markdown": "#### Rule 1:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.2,
+            0.6
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "*Rule 1:* The observation of a quantity $A$, with eigenfunctions $\\phi_i^{S_1}$, in a system $S_1$ by the observer 0, transforms the total state according to:\n\n$$\\psi^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots]} \\rightarrow \\sum_i a_i \\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]} \\quad (15)$$",
+          "markdown": "*Rule 1:* The observation of a quantity $A$, with eigenfunctions $\\phi_i^{S_1}$, in a system $S_1$ by the observer 0, transforms the total state according to:\n\n$$\\psi^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots]} \\rightarrow \\sum_i a_i \\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]} \\quad (15)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.9,
+            0.55
+          ],
+          "ocr_confidence": 0.98,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where",
+          "markdown": "where",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.1,
+            0.5
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$a_i = (\\phi_i^{S_1}, \\psi^{S_1}).$$",
+          "markdown": "$$a_i = (\\phi_i^{S_1}, \\psi^{S_1}).$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.4,
+            0.45
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "Consequently these solutions of the wave equation can be superposed to give the final state for the case of an arbitrary initial system state. Thus if the initial system state is not an eigenstate, but a general state $\\sum_i a_i \\phi_i$, the final total state will have the form:\n\n$$\\\\psi^{S+0'} = \\\\sum_i a_i \\\\phi_i \\\\psi^0_{\\[\\\\dots \\\\alpha_i\\]}. \\\\tag{12}$$ \n\nThis superposition principle continues to apply in the presence of further systems which do not interact during the measurement. Thus, if systems $S_1, S_2, \\\\dots, S_n$ are present as well as 0, with original states $\\psi^{S_1}, \\psi^{S_2}, \\\\dots, \\psi^{S_n}$, and the only interaction during the time of measurement takes place between $S_1$ and 0, the measurement will transform the initial total state function:\n\n$$\\\\psi^{S_1+S_2+\\\\cdots+S_n+0} = \\\\psi^{S_1}\\\\psi^{S_2}\\\\cdots\\\\psi^{S_n}\\\\psi^0_{\\[\\\\cdots\\]} \\\\quad (13)$$ \n\ninto the final state:\n\n$$\\\\psi'^{S_1+S_2+\\\\cdots+S_n+0} = \\\\sum_i a_i \\\\phi_i^{S_1}\\\\psi^{S_2}\\\\cdots\\\\psi^{S_n}\\\\psi^0_{\\[\\\\cdots\\\\alpha_i\\]} \\\\quad (14)$$ \n\nwhere $a_i = (\\phi_i^{S_1}, \\psi^{S_1})$ and $\\phi_i^{S_1}$ are the eigenfunctions of the observation.\n\nThus we arrive at the general rule for the transformation of total state functions which describe systems within which observation processes occur:\n\n#### Rule 1:\n\n*Rule 1:* The observation of a quantity $A$, with eigenfunctions $\\phi_i^{S_1}$, in a system $S_1$ by the observer 0, transforms the total state according to:\n\n$$\\\\psi^{S_1}\\\\psi^{S_2}\\\\cdots\\\\psi^{S_n}\\\\psi^0_{\\[\\\\cdots\\]} \\\\rightarrow \\\\sum_i a_i \\\\phi_i^{S_1}\\\\psi^{S_2}\\\\cdots\\\\psi^{S_n}\\\\psi^0_{\\[\\\\cdots\\\\alpha_i\\]} \\\\quad (15)$$ \n\nwhere\n\n$$a_i = (\\phi_i^{S_1}, \\psi^{S_1}).$$",
+      "word_count": 480,
+      "page_quality_notes": [
+        "High-quality scan with clear two-column layout. Minor OCR errors in equation references (e.g., '\\\\tag{12}' appears correct)."
+      ]
+    },
+    {
+      "pdf_page_number": 9,
+      "printed_page_number": "462",
+      "detected_layout": "two_column",
+      "blocks": [
+        {
+          "order": 1,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "If we next consider a *second* observation to be made, where our total state is now a superposition, we can apply Rule 1 separately to each element of the superposition, since each element separately obeys the wave equation and behaves independently of the remaining elements, and then superpose the results to obtain the final solution. We formulate this as:",
+          "markdown": "If we next consider a *second* observation to be made, where our total state is now a superposition, we can apply Rule 1 separately to each element of the superposition, since each element separately obeys the wave equation and behaves independently of the remaining elements, and then superpose the results to obtain the final solution. We formulate this as:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.95,
+            0.9,
+            0.98
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 2,
+          "block_type": "heading",
+          "level": 3,
+          "text_original": "Rule 2:",
+          "markdown": "#### Rule 2:",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.9,
+            0.2,
+            0.95
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 3,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "*Rule 2:* Rule 1 may be applied separately to each element of a superposition of total system states, the results being superposed to obtain the final total state. Thus, a determination of $B$, with eigenfunctions $\\eta_j^{S_2}$, on $S_2$ by the observer 0 transforms the total state\n\n$$\\sum_i a_i \\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]} \\quad (16)$$",
+          "markdown": "*Rule 2:* Rule 1 may be applied separately to each element of a superposition of total system states, the results being superposed to obtain the final total state. Thus, a determination of $B$, with eigenfunctions $\\eta_j^{S_2}$, on $S_2$ by the observer 0 transforms the total state\n\n$$\\sum_i a_i \\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]} \\quad (16)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.85,
+            0.9,
+            0.9
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 4,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "into the state\n\n$$\\sum_{i,j} a_i b_j \\phi_i^{S_1}\\eta_j^{S_2}\\psi^{S_3}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i,\\beta_j]} \\quad (17)$$",
+          "markdown": "into the state\n\n$$\\sum_{i,j} a_i b_j \\phi_i^{S_1}\\eta_j^{S_2}\\psi^{S_3}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i,\\beta_j]} \\quad (17)$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.8,
+            0.85,
+            0.85
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 5,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "where $b_j = (\\eta_j^{S_2}, \\psi^{S_2})$, which follows from the application of Rule 1 to each element $\\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]}$, and then superposing the results with the coefficients $a_i$.",
+          "markdown": "where $b_j = (\\eta_j^{S_2}, \\psi^{S_2})$, which follows from the application of Rule 1 to each element $\\phi_i^{S_1}\\psi^{S_2}\\cdots\\psi^{S_n}\\psi^0_{[\\cdots\\alpha_i]}$, and then superposing the results with the coefficients $a_i$.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.75,
+            0.9,
+            0.8
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 6,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "These two rules, which follow directly from the superposition principle, give a convenient method for determining final total states for any number of observation processes in any combinations. We now seek the interpretation of such final total states.",
+          "markdown": "These two rules, which follow directly from the superposition principle, give a convenient method for determining final total states for any number of observation processes in any combinations. We now seek the interpretation of such final total states.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.7,
+            0.9,
+            0.75
+          ],
+          "ocr_confidence": 0.96,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 7,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Let us consider the simple case of a single observation of a quantity $A$, with eigenfunctions $\\phi_i$, in the system $S$ with initial state $\\psi^S$, by an observer 0 whose initial state is $\\psi^0_{[\\dots]}$, the final result is, as we have seen, the superposition",
+          "markdown": "Let us consider the simple case of a single observation of a quantity $A$, with eigenfunctions $\\phi_i$, in the system $S$ with initial state $\\psi^S$, by an observer 0 whose initial state is $\\psi^0_{[\\dots]}$, the final result is, as we have seen, the superposition",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.65,
+            0.9,
+            0.7
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 8,
+          "block_type": "equation",
+          "level": null,
+          "text_original": "$$\\psi'^{S+0} = \\sum_i a_i \\phi_i \\psi^0_{[\\dots \\alpha_i]}. \\tag{18}$$",
+          "markdown": "$$\\psi'^{S+0} = \\sum_i a_i \\phi_i \\psi^0_{[\\dots \\alpha_i]}. \\tag{18}$$",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.6,
+            0.7,
+            0.65
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 9,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "There is no longer any independent system state or observer state, although the two have become correlated in a one-one manner. However, in each element of the superposition, $\\phi_i \\psi^0_{[\\dots \\alpha_i]}$, the object-system state is a particular eigenstate of the observation, and furthermore the observer-system state describes the observer as definitely perceiving that particular system state. This correlation is what allows one to maintain the interpretation that a measurement has been performed.",
+          "markdown": "There is no longer any independent system state or observer state, although the two have become correlated in a one-one manner. However, in each element of the superposition, $\\phi_i \\psi^0_{[\\dots \\alpha_i]}$, the object-system state is a particular eigenstate of the observation, and furthermore the observer-system state describes the observer as definitely perceiving that particular system state. This correlation is what allows one to maintain the interpretation that a measurement has been performed.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.55,
+            0.9,
+            0.6
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 10,
+          "block_type": "heading",
+          "level": 2,
+          "text_original": "6. Discussion",
+          "markdown": "## 6. Discussion",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.5,
+            0.25,
+            0.55
+          ],
+          "ocr_confidence": 0.99,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 11,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The theory based on pure wave mechanics is a conceptually simple, causal theory, which gives predictions in accord with experience. It constitutes a framework in which one can investigate in detail, mathematically, and in a logically consistent manner a number of sometimes puzzling subjects, such as the measuring process itself and the interrelationship of several observers. Objections have been raised in the past to the conventional or “external observation” formulation of quantum theory on the grounds that its probabilistic features are postulated in advance instead of being derived from the theory itself. We believe that the present “relative-state” formulation meets this objection, while retaining all of the content of the standard formulation.",
+          "markdown": "The theory based on pure wave mechanics is a conceptually simple, causal theory, which gives predictions in accord with experience. It constitutes a framework in which one can investigate in detail, mathematically, and in a logically consistent manner a number of sometimes puzzling subjects, such as the measuring process itself and the interrelationship of several observers. Objections have been raised in the past to the conventional or “external observation” formulation of quantum theory on the grounds that its probabilistic features are postulated in advance instead of being derived from the theory itself. We believe that the present “relative-state” formulation meets this objection, while retaining all of the content of the standard formulation.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.45,
+            0.9,
+            0.5
+          ],
+          "ocr_confidence": 0.93,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 12,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "While our theory ultimately justifies the use of the probabilistic interpretation as an aid to making practical predications, it forms a broader frame in which to understand the consistency of that interpretation. This respect it can be said to form a *metatheory* for the standard theory. It transcends the usual “external observation” formulation, however, in its ability to deal logically with questions of imperfect observation and approximate measurement.",
+          "markdown": "While our theory ultimately justifies the use of the probabilistic interpretation as an aid to making practical predications, it forms a broader frame in which to understand the consistency of that interpretation. This respect it can be said to form a *metatheory* for the standard theory. It transcends the usual “external observation” formulation, however, in its ability to deal logically with questions of imperfect observation and approximate measurement.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.4,
+            0.9,
+            0.45
+          ],
+          "ocr_confidence": 0.92,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 13,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "The “relative state” formulation will apply to all forms of quantum mechanics which maintain the superposition principle. It may therefore prove a fruitful framework for the quantization of general relativity. The formalism invites one to construct the formal theory first, and to supply the statistical interpretation later. This method should be particularly useful for interpreting quantized unified field theories where there is no question of ever isolating observers and object systems. They all are represented in a *single* structure, the field, and any interpretative rules can probably only be deduced in and through the theory itself.",
+          "markdown": "The “relative state” formulation will apply to all forms of quantum mechanics which maintain the superposition principle. It may therefore prove a fruitful framework for the quantization of general relativity. The formalism invites one to construct the formal theory first, and to supply the statistical interpretation later. This method should be particularly useful for interpreting quantized unified field theories where there is no question of ever isolating observers and object systems. They all are represented in a *single* structure, the field, and any interpretative rules can probably only be deduced in and through the theory itself.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.35,
+            0.9,
+            0.4
+          ],
+          "ocr_confidence": 0.94,
+          "needs_manual_review": false,
+          "review_reason": null
+        },
+        {
+          "order": 14,
+          "block_type": "paragraph",
+          "level": null,
+          "text_original": "Aside from any possible practical advantages of the theory, it remains a matter of intellectual interest that the statistical assertions of the usual interpretation do not have the status of independent hypotheses, but are deducible (in the present sense) from the pure wave mechanics that starts completely free of statistical postulates.",
+          "markdown": "Aside from any possible practical advantages of the theory, it remains a matter of intellectual interest that the statistical assertions of the usual interpretation do not have the status of independent hypotheses, but are deducible (in the present sense) from the pure wave mechanics that starts completely free of statistical postulates.",
+          "asset_id": null,
+          "suggested_filename": null,
+          "caption_original": null,
+          "bounding_box": [
+            0.1,
+            0.3,
+            0.9,
+            0.35
+          ],
+          "ocr_confidence": 0.95,
+          "needs_manual_review": false,
+          "review_reason": null
+        }
+      ],
+      "page_markdown_original": "If we next consider a *second* observation to be made, where our total state is now a superposition, we can apply Rule 1 separately to each element of the superposition, since each element separately obeys the wave equation and behaves independently of the remaining elements, and then superpose the results to obtain the final solution. We formulate this as:\n\n#### Rule 2:\n\n*Rule 2:* Rule 1 may be applied separately to each element of a superposition of total system states, the results being superposed to obtain the final total state. Thus, a determination of $B$, with eigenfunctions $\\eta_j^{S_2}$, on $S_2$ by the observer 0 transforms the total state\n\n$$\\\\sum_i a_i \\\\phi_i^{S_1}\\\\psi^{S_2}\\\\cdots\\\\psi^{S_n}\\\\psi^0_{\\[\\\\cdots\\\\alpha_i\\]} \\\\quad (16)$$ \n\ninto the state\n\n$$\\\\sum_{i,j} a_i b_j \\\\phi_i^{S_1}\\\\eta_j^{S_2}\\\\psi^{S_3}\\\\cdots\\\\psi^{S_n}\\\\psi^0_{\\[\\\\cdots\\\\alpha_i,\\\\beta_j\\]} \\\\quad (17)$$ \n\nwhere $b_j = (\\eta_j^{S_2}, \\psi^{S_2})$, which follows from the application of Rule 1 to each element $\\phi_i^{S_1}\\\\psi^{S_2}\\\\cdots\\\\psi^{S_n}\\\\psi^0_{\\[\\\\cdots\\\\alpha_i\\]}$, and then superposing the results with the coefficients $a_i$.\n\nThese two rules, which follow directly from the superposition principle, give a convenient method for determining final total states for any number of observation processes in any combinations. We now seek the interpretation of such final total states.\n\nLet us consider the simple case of a single observation of a quantity $A$, with eigenfunctions $\\phi_i$, in the system $S$ with initial state $\\psi^S$, by an observer 0 whose initial state is $\\psi^0_{\\[\\\\dots\\]}`, the final result is, as we have seen, the superposition\n\n$$\\\\psi'^{S+0} = \\\\sum_i a_i \\\\phi_i \\\\psi^0_{\\[\\\\dots \\\\alpha_i\\]}. \\\\tag{18}$$ \n\nThere is no longer any independent system state or observer state, although the two have become correlated in a one-one manner. However, in each element of the superposition, $\\phi_i \\\\psi^0_{\\[\\\\dots \\\\alpha_i\\]}$, the object-system state is a particular eigenstate of the observation, and furthermore the observer-system state describes the observer as definitely perceiving that particular system state. This correlation is what allows one to maintain the interpretation that a measurement has been performed.\n\n## 6. Discussion\n\nThe theory based on pure wave mechanics is a conceptually simple, causal theory, which gives predictions in accord with experience. It constitutes a framework in which one can investigate in detail, mathematically, and in a logically consistent manner a number of sometimes puzzling subjects, such as the measuring process itself and the interrelationship of several observers. Objections have been raised in the past to the conventional or “external observation” formulation of quantum theory on the grounds that its probabilistic features are postulated in advance instead of being derived from the theory itself. We believe that the present “relative-state” formulation meets this objection, while retaining all of the content of the standard formulation.\n\nWhile our theory ultimately justifies the use of the probabilistic interpretation as an aid to making practical predications, it forms a broader frame in which to understand the consistency of that interpretation. This respect it can be said to form a *metatheory* for the standard theory. It transcends the usual “external observation” formulation, however, in its ability to deal logically with questions of imperfect observation and approximate measurement.\n\nThe “relative state” formulation will apply to all forms of quantum mechanics which maintain the superposition principle. It may therefore prove a fruitful framework for the quantization of general relativity. The formalism invites one to construct the formal theory first, and to supply the statistical interpretation later. This method should be particularly useful for interpreting quantized unified field theories where there is no question of ever isolating observers and object systems. They all are represented in a *single* structure, the field, and any interpretative rules can probably only be deduced in and through the theory itself.\n\nAside from any possible practical advantages of the theory, it remains a matter of intellectual interest that the statistical assertions of the usual interpretation do not have the status of independent hypotheses, but are deducible (in the only present sense) from the pure wave mechanics that starts completely free of statistical postulates.",
+      "word_count": 550,
+      "page_quality_notes": [
+        "High-quality scan with clear two-column layout. Minor OCR errors in equation references (e.g., '\\\\tag{18}' appears correct)."
+      ]
+    }
+  ],
+  "assets": [],
+  "document_statistics": {
+    "pdf_page_count": 9,
+    "ocr_page_count": 9,
+    "total_word_count": 4560,
+    "figure_count": 0,
+    "table_count": 0,
+    "equation_block_count": 25,
+    "pages_requiring_review": [
+      2,
+      3,
+      5,
+      7
+    ],
+    "completeness_status": "complete",
+    "completeness_notes": [
+      "All pages successfully OCR-processed. Minor OCR errors in footnotes and equation references require manual review for context and accuracy.",
+      "No figures or tables were detected in the document."
+    ]
+  }
+}

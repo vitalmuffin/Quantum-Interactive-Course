@@ -1,0 +1,14 @@
+590
+
+M. Born, W. Heisenberg und P. Jordan,
+
+Hieraus folgt, wenn $m$ irgend eine Zahl der Reihe $n, n + 1, \dots n + r - 1$, und $k$ irgend eine Zahl außerhalb dieser Reihe bedeutet, daß die Summen
+
+$$\sum_{m=n}^{n+r-1} p^0(mk) p^{*0}(mk),$$
+$$\sum_{m=n}^{n+r-1} q^0(mk) q^{*0}(mk)$$
+
+auch bei Entartung eindeutig bestimmt sind, d. h. daß diese Summen gegen die Transformationen, die nach (19), Kap. 2, bei Entartung aus gewissen Lösungen $p, q$ neue, davon wesentlich verschiedene Lösungen $p' q'$ hervorgehen lassen, invariant sind. Dieses Ergebnis gibt eine mathematische Darstellung der sogenannten spektroskopischen Stabilität, die in den neueren Theorien über die Feinstrukturintensitäten (vgl. Kap. 4) eine wichtige Rolle gespielt hat.
+
+§ 3. Kontinuierliche Spektra. Das gleichzeitige Auftreten von kontinuierlichen Spektra und Linienspektra als Lösungen derselben Bewegungsgleichungen und derselben Vertauschungsrelationen schien uns ein besonders wesentlicher Zug der neuen Theorie. Trotz dieses engen Zusammenhangs beider Arten von Spektra bestehen aber zwischen den kontinuierlichen und den diskreten Spektra mathematisch wie physikalisch charakteristische Unterschiede, entsprechend dem Unterschied zwischen Fourierreihe und Fourierintegral in der klassischen Theorie; es erscheint uns deshalb notwendig, auch die Behandlung der kontinuierlichen Spektra hier in groben Umrissen darzustellen. Die mathematische Theorie der bei unendlichen quadratischen Formen auftretenden Streckenspektra ist im Anschluß an die grundlegenden Untersuchungen von Hilbert ausführlich entwickelt worden von Hellinger (l. c.) für den Fall beschränkter quadratischer Formen. Wenn wir uns hier erlauben, die Ergebnisse Hellingers auf die bei uns auftretenden unbeschränkten Formen zu übertragen, so scheint uns dies deshalb berechtigt, weil die Methoden Hellingers offenbar vollständig dem physikalischen Sinne des gestellten Problems entsprechen.
+
+Betrachten wir zunächst kurz das klassische Analogon unseres Problems, die aperiodische Bewegung und ihr Fourierintegral. Während in einer Fourierreihe zu einer Schwingung $e^{2\pi i\nu t}$ stets eine gewisse Amplitude $a(\nu)$ gehört, tritt beim Fourierintegral an Stelle von $a(\nu)$ eine Größe der Form $\varphi(\nu) d\nu$, wo man $\varphi(\nu)$ gewissermaßen als Amplitudendichte pro Frequenzintervall $d\nu$ bezeichnen kann. In ähnlicher Weise

@@ -1,0 +1,200 @@
+{
+  "index": 25,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 101,
+      "bottomRightX": 131,
+      "bottomRightY": 117,
+      "content": "582",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 101,
+      "bottomRightX": 456,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 580,
+      "bottomRightY": 235,
+      "content": "Ist ein Problem von $f$ Freiheitsgraden durch die Energiefunktion $H(p, q)$ vorgelegt, so können wir zunächst irgend ein System von Matrizen $p_k^0, q_k^0$ derart wählen, daß jedenfalls die Vertauschungsregeln (3), Kap. 2, erfüllt sind; z. B. können die $p_k, q_k$ eines Systems ungekoppelter harmonischer Oszillatoren genommen werden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 238,
+      "bottomRightX": 580,
+      "bottomRightY": 277,
+      "content": "Dann kann man, wie oben Kap. 2, § 1, erwähnt, die dynamische Aufgabe, d. h. die Bestimmung der $p_k, q_k$, auch so formulieren:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 278,
+      "bottomRightX": 580,
+      "bottomRightY": 337,
+      "content": "Es soll eine Transformation $(p_k^0, q_k^0) \\rightarrow (p_k, q_k)$ gefunden werden, welche die Gleichungen (3), Kap. 2, invariant läßt und zugleich die Energie in eine Diagonalmatrix verwandelt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 339,
+      "bottomRightX": 580,
+      "bottomRightY": 416,
+      "content": "Man übersieht die Transformation von Matrizen am besten, wenn man sie als Koeffizientensysteme von linearen Transformationen bzw. bilinearen Formen auffaßt. Wir schicken daher einige bekannte Sätze der Algebra solcher Formen voraus.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 418,
+      "bottomRightX": 539,
+      "bottomRightY": 438,
+      "content": "Zu jeder Matrix $\\bar{a} = (a(nm))$ gehört eine bilineare Form",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 256,
+      "topLeftY": 446,
+      "bottomRightX": 580,
+      "bottomRightY": 477,
+      "content": "$$A(xy) = \\sum_{nm} a(nm) x_n y_m \\quad (1)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 483,
+      "bottomRightX": 580,
+      "bottomRightY": 541,
+      "content": "zweier Reihen von Variablen $x_1, x_2, \\dots$ und $y_1, y_2, \\dots$. Ist die Matrix vom Hermiteschen Typus, d. h. ist die transponierte Matrix $\\bar{a} = (a(mn))$ gleich der zur ursprünglichen konjugiert komplexen Matrix:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 239,
+      "topLeftY": 549,
+      "bottomRightX": 580,
+      "bottomRightY": 568,
+      "content": "$$\\bar{a} = a^*, \\quad a(mn) = a^*(nm), \\quad (2)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 576,
+      "bottomRightX": 580,
+      "bottomRightY": 614,
+      "content": "so nimmt die Form $A$ reelle Werte an, wenn man für die Variablen $y_n$ die konjugiert komplexen Werte $x_n$ setzt:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 622,
+      "bottomRightX": 580,
+      "bottomRightY": 654,
+      "content": "$$A(xx^*) = \\sum_{nm} a(nm) x_n x_m^*. \\quad (1a)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 662,
+      "bottomRightX": 480,
+      "bottomRightY": 680,
+      "content": "Es sei an die leicht zu beweisende Rechenregel erinnert:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 294,
+      "topLeftY": 688,
+      "bottomRightX": 580,
+      "bottomRightY": 711,
+      "content": "$$(\\tilde{a}\\tilde{b}) = \\tilde{b}\\tilde{a}. \\quad (3)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 719,
+      "bottomRightX": 490,
+      "bottomRightY": 738,
+      "content": "Wir unterwerfen nun die $x_n$ einer linearen Transformation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 284,
+      "topLeftY": 746,
+      "bottomRightX": 580,
+      "bottomRightY": 776,
+      "content": "$$x_n = \\sum_l v(ln) y_l \\quad (4)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 783,
+      "bottomRightX": 381,
+      "bottomRightY": 801,
+      "content": "mit der (komplexen) Matrix $\\nu = (v(ln))$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 809,
+      "bottomRightX": 353,
+      "bottomRightY": 827,
+      "content": "Dann geht die Form $A$ über in:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 832,
+      "bottomRightX": 580,
+      "bottomRightY": 862,
+      "content": "$$A(xx^*) = B(yy^*) = \\sum_{nm} b(nm) y_n y_m^* \\quad (5)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 867,
+      "bottomRightX": 132,
+      "bottomRightY": 881,
+      "content": "mit",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 881,
+      "bottomRightX": 454,
+      "bottomRightY": 912,
+      "content": "$$b(nm) = \\sum_{kl} v(nk) a(kl) v^*(ml),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}

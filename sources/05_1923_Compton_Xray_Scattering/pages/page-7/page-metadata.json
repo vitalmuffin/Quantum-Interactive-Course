@@ -1,0 +1,229 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 93,
+    "height": 791,
+    "width": 1023
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 108,
+      "topLeftY": 43,
+      "bottomRightX": 402,
+      "bottomRightY": 55,
+      "content": "SCATTERING OF X-RAYS BY LIGHT ELEMENTS",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 440,
+      "topLeftY": 44,
+      "bottomRightX": 463,
+      "bottomRightY": 56,
+      "content": "495",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 70,
+      "bottomRightX": 464,
+      "bottomRightY": 119,
+      "content": "the secondary. The zero point for the spectrum of both the primary and secondary X-rays was determined by finding the position of the first order lines on both sides of the zero point.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 131,
+      "bottomRightX": 441,
+      "bottomRightY": 413,
+      "content": "![img-3.jpeg](img-3.jpeg)",
+      "confidenceScores": null,
+      "type": "image",
+      "imageId": "img-3.jpeg"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 415,
+      "bottomRightX": 464,
+      "bottomRightY": 443,
+      "content": "Fig. 4. Spectrum of molybdenum X-rays scattered by graphite, compared with the spectrum of the primary X-rays, showing an increase in wave-length on scattering.",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 455,
+      "bottomRightX": 464,
+      "bottomRightY": 538,
+      "content": "It will be seen that the wave-length of the scattered rays is unquestionably greater than that of the primary rays which excite them. Thus the Kα line from molybdenum has a wave-length 0.708 A. The wave-length of this line in the scattered beam is found in these experiments, however, to be 0.730 A. That is,",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 546,
+      "bottomRightX": 352,
+      "bottomRightY": 563,
+      "content": "$$\\lambda_{\\theta} - \\lambda_{0} = 0.022 \\text{ A (experiment)}.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 572,
+      "bottomRightX": 304,
+      "bottomRightY": 588,
+      "content": "But according to the present theory (Eq. 5),",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 113,
+      "topLeftY": 595,
+      "bottomRightX": 391,
+      "bottomRightY": 613,
+      "content": "$$\\lambda_{\\theta} - \\lambda_{0} = 0.0484 \\sin^{2} 45^{\\circ} = 0.024 \\text{ A (theory)},$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 43,
+      "topLeftY": 621,
+      "bottomRightX": 272,
+      "bottomRightY": 636,
+      "content": "which is a very satisfactory agreement.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 42,
+      "topLeftY": 637,
+      "bottomRightX": 464,
+      "bottomRightY": 733,
+      "content": "The variation in wave-length of the scattered beam with the angle is illustrated in the case of γ-rays. The writer has measured¹ the mass absorption coefficient in lead of the rays scattered at different angles when various substances are traversed by the hard γ-rays from RaC. The mean results for iron, aluminium and paraffin are given in column 2 of Table I. This variation in absorption coefficient corresponds to a",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 56,
+      "topLeftY": 737,
+      "bottomRightX": 273,
+      "bottomRightY": 751,
+      "content": "¹ A. H. Compton, Phil. Mag. 41, 760 (1921).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 556,
+      "topLeftY": 44,
+      "bottomRightX": 580,
+      "bottomRightY": 58,
+      "content": "496",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 697,
+      "topLeftY": 43,
+      "bottomRightX": 836,
+      "bottomRightY": 56,
+      "content": "ARTHUR H. COMPTON",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 553,
+      "topLeftY": 70,
+      "bottomRightX": 979,
+      "bottomRightY": 187,
+      "content": "difference in wave-length at the different angles. Using the value given by Hull and Rice for the mass absorption coefficient in lead for wavelength 0.122, 3.0, remembering¹ that the characteristic fluorescent absorption τ/ρ is proportional to λ², and estimating the part of the absorption due to scattering by the method described below, I find for the wave-lengths corresponding to these absorption coefficients the values given in the fourth column of Table I. That this extrapolation is very",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 738,
+      "topLeftY": 198,
+      "bottomRightX": 794,
+      "bottomRightY": 212,
+      "content": "TABLE I",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 662,
+      "topLeftY": 221,
+      "bottomRightX": 875,
+      "bottomRightY": 235,
+      "content": "Wave-length of Primary and Scattered γ-rays",
+      "confidenceScores": null,
+      "type": "caption"
+    },
+    {
+      "topLeftX": 557,
+      "topLeftY": 239,
+      "bottomRightX": 979,
+      "bottomRightY": 321,
+      "content": "|   | Angle | μ/ρ | τ/ρ | λ obs. | λ calc.  |\n| --- | --- | --- | --- | --- | --- |\n|  Primary | 0° | .076 | .017 | 0.022 A | (0.022 A)  |\n|  Scattered | 45° | .10 | .042 | .030 | 0.029  |\n|  \" | 90° | .21 | .123 | .043 | 0.047  |\n|  \" | 135° | .59 | .502 | .068 | 0.063  |",
+      "confidenceScores": null,
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 554,
+      "topLeftY": 335,
+      "bottomRightX": 979,
+      "bottomRightY": 518,
+      "content": "nearly correct is indicated by the fact that it gives for the primary beam a wave-length 0.022 A. This is in good accord with the writer's value 0.025 A, calculated from the scattering of γ-rays by lead at small angles,² and with Ellis' measurements from his β-ray spectra, showing lines of wave-length .045, .025, .021 and .020 A, with line .020 the strongest.³ Taking λ₀ = 0.022 A, the wave-lengths at the other angles may be calculated from Eq. (31). The results, given in the last column of Table I., and shown graphically in Fig. 5, are in satisfactory accord with the measured values. There is thus good reason for believing that Eq. (5) represents accurately the wave-length of the X-rays and γ-rays scattered by light elements.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 554,
+      "topLeftY": 519,
+      "bottomRightX": 979,
+      "bottomRightY": 684,
+      "content": "Velocity of recoil of the scattering electrons.—The electrons which recoil in the process of the scattering of ordinary X-rays have not been observed. This is probably because their number and velocity is usually small compared with the number and velocity of the photoelectrons ejected as a result of the characteristic fluorescent absorption. I have pointed out elsewhere,⁴ however, that there is good reason for believing that most of the secondary β-rays excited in light elements by the action of γ-rays are such recoil electrons. According to Eq. (6), the velocity of these electrons should vary from 0, when the γ-ray is scattered forward, to v_max = β_max c = 2cα[(1 + α)/(1 + 2α + 2α²)], when the γ-ray quantum",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 557,
+      "topLeftY": 686,
+      "bottomRightX": 978,
+      "bottomRightY": 713,
+      "content": "¹ Cf. L. de Broglie, Jour. de Phys. et Rad. 3, 33 (1922); A. H. Compton, Bull. N. R. C., No. 20, p. 43 (1922).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 573,
+      "topLeftY": 713,
+      "bottomRightX": 787,
+      "bottomRightY": 725,
+      "content": "² A. H. Compton, Phil. Mag. 41, 777 (1921).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 573,
+      "topLeftY": 725,
+      "bottomRightX": 797,
+      "bottomRightY": 737,
+      "content": "³ C. D. Ellis, Proc. Roy. Soc. A, 101, 6 (1922).",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 573,
+      "topLeftY": 737,
+      "bottomRightX": 835,
+      "bottomRightY": 751,
+      "content": "⁴ A. H. Compton, Bull. N. R. C., No. 20, p. 27 (1922).",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

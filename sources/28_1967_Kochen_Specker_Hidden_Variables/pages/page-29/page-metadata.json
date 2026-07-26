@@ -1,0 +1,137 @@
+{
+  "index": 28,
+  "dimensions": {
+    "dpi": 97,
+    "height": 1024,
+    "width": 631
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 75,
+      "topLeftY": 87,
+      "bottomRightX": 95,
+      "bottomRightY": 104,
+      "content": "86",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 90,
+      "bottomRightX": 401,
+      "bottomRightY": 104,
+      "content": "S. KOCHEN & E. P. SPECKER",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 121,
+      "bottomRightX": 550,
+      "bottomRightY": 171,
+      "content": "for the variables $x_1, \\dots, x_n, s_i(x), t_i(y)$ yields a value 0 for $\\rho$, and hence a value $s_i(a)'$ for $\\varphi$ and $t_i(b)'$ for $\\psi$. (Here $u'$ denotes $1 - u$.) Hence, under this valuation of $\\varphi$ and $\\psi$ in $\\mathfrak{A}$, we have",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 185,
+      "bottomRightX": 461,
+      "bottomRightY": 256,
+      "content": "$$\\begin{aligned} \\varphi &= a', \\quad \\psi = b', \\quad \\text{so that} \\quad \\varphi \\neq \\psi, \\quad \\text{for} \\quad i = 1 \\\\ \\varphi &= a', \\quad \\text{so that} \\quad \\varphi \\neq 1, \\quad \\text{for} \\quad i = 2 \\\\ \\varphi &= 0, \\quad \\text{for} \\quad i = 3, \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 265,
+      "bottomRightX": 204,
+      "bottomRightY": 282,
+      "content": "proving the theorem.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 282,
+      "bottomRightX": 550,
+      "bottomRightY": 316,
+      "content": "Since in the case of quantum mechanics there is, by Theorem 1, no homomorphism of $D$ onto $Z_2$, we obtain the following consequence of Theorem 4.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 326,
+      "bottomRightX": 550,
+      "bottomRightY": 377,
+      "content": "**Corollary.** *There is a propositional formula $\\varphi$ which is a classical tautology but which is false under a (meaningful) substitution of quantum mechanical propositions for the propositional variables of $\\varphi$.*",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 385,
+      "bottomRightX": 550,
+      "bottomRightY": 437,
+      "content": "It is in fact not difficult to construct such a formula. Assign to each one-dimensional linear subspace $L_i$ of $D$ a distinct propositional variable $x_i$. To each orthogonal triple $L_1, L_2, L_3$ of $D$ assign the Boolean function",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 447,
+      "bottomRightX": 385,
+      "bottomRightY": 462,
+      "content": "$$x_i + x_j + x_k + x_i x_j x_k.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 473,
+      "bottomRightX": 550,
+      "bottomRightY": 507,
+      "content": "Note that classically this formula is valid if and only if exactly one of $x_i, x_j, x_k$ is valid. Hence the formula",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 515,
+      "bottomRightX": 428,
+      "bottomRightY": 533,
+      "content": "$$\\varphi = 1 - \\prod (x_i + x_j + x_k + x_i x_j x_k),$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 542,
+      "bottomRightX": 550,
+      "bottomRightY": 678,
+      "content": "where the product extends over all orthogonal triples of $D$, is classically valid, by Theorem 1. On the other hand, the substitution of the quantum mechanical statement $P_i$ of Section 4 for each $x_i$ makes $\\varphi$ false since each factor of the product takes the value 1. Thus, the formula $\\varphi$ is the formal counterpart of the argument given at the end of Section 4. Actually, the formula $\\varphi$ is uneconomical in the number of variables used. A more judicious choice of variables corresponding to the graph $\\Gamma_2$ yields a formula in 86 variables which is classically valid and quantum mechanically refutable.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 678,
+      "bottomRightX": 550,
+      "bottomRightY": 866,
+      "content": "This way of viewing the results of Sections 3 and 4, seems to us to display a new feature of quantum mechanics in its departure from classical mechanics. It is of course true that the Uncertainty Principle, say, already marks a departure from classical physics. However, the statement of the Uncertainty Principle involves two observables which are not commasurable, and so may be refuted in the future with the addition of new states. This is the view of those who believe in hidden variables. Thus, the Uncertainty Principle as applied to the two-dimensional situation described in Section 6 becomes inapplicable once the system is imbedded in the classical one. The statement $\\varphi(P_1, \\dots, P_n)$ we have constructed deals only in each of the steps of its construction with commasurable observables, and so cannot be refuted at a later date.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 944,
+      "bottomRightX": 419,
+      "bottomRightY": 979,
+      "content": "This content downloaded from\n140.0.246.18 on Thu, 30 Sep 2021 02:54:11 UTC\nAll use subject to https://about.jstor.org/terms",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

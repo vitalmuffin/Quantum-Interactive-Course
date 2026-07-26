@@ -1,0 +1,137 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 165,
+      "bottomRightX": 605,
+      "bottomRightY": 218,
+      "content": "as a representation of the quantity x(t) and then try to answer the question posed before: how would the quantity $x(t)^2$ be represented? Classically, the answer is obviously",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 231,
+      "bottomRightX": 605,
+      "bottomRightY": 270,
+      "content": "$$Y_\\beta(n)e^{i\\omega(n)\\beta t} = \\sum_{\\alpha=-\\infty}^{+\\infty} \\vec{X}_\\alpha \\vec{X}_{\\beta-\\alpha} e^{i\\omega(n)(\\alpha+\\beta-\\alpha)t} \\tag{16}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 253,
+      "topLeftY": 285,
+      "bottomRightX": 605,
+      "bottomRightY": 318,
+      "content": "$$\\text{or} \\quad = \\int_{-\\infty}^{+\\infty} \\vec{X}_\\alpha \\vec{X}_{\\beta-\\alpha} e^{i\\omega(n)(\\alpha+\\beta-\\alpha)t} d\\alpha \\tag{17}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 323,
+      "bottomRightX": 179,
+      "bottomRightY": 337,
+      "content": "so that",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 298,
+      "topLeftY": 337,
+      "bottomRightX": 605,
+      "bottomRightY": 376,
+      "content": "$$x(t)^2 = \\sum_{\\beta=-\\infty}^{+\\infty} \\vec{Y}_\\beta e^{i\\omega(n)\\beta t} \\tag{18}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 383,
+      "bottomRightX": 229,
+      "bottomRightY": 400,
+      "content": "or, respectively",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 308,
+      "topLeftY": 399,
+      "bottomRightX": 605,
+      "bottomRightY": 431,
+      "content": "$$= \\int_{-\\infty}^{+\\infty} \\vec{Y}_\\beta e^{i\\omega(n)\\beta t} d\\beta \\tag{19}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 437,
+      "bottomRightX": 605,
+      "bottomRightY": 471,
+      "content": "It seems that quantum theoretically the easiest and most natural assumption is to replace Eqs. 16, 17 with",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 146,
+      "topLeftY": 486,
+      "bottomRightX": 605,
+      "bottomRightY": 524,
+      "content": "$$Y(n, n-\\beta)e^{i\\omega(n,n-\\beta)t} = \\sum_{\\alpha=-\\infty}^{+\\infty} X(n, n-\\alpha)X(n-\\alpha, n-\\beta)e^{i\\omega(n,n-\\beta)t} \\tag{20}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 202,
+      "topLeftY": 539,
+      "bottomRightX": 605,
+      "bottomRightY": 571,
+      "content": "$$\\text{or} \\quad = \\int_{-\\infty}^{+\\infty} X(n, n-\\alpha)X(n-\\alpha, n-\\beta)e^{i\\omega(n,n-\\beta)t} d\\alpha \\tag{21}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 577,
+      "bottomRightX": 606,
+      "bottomRightY": 714,
+      "content": "and indeed this way of combination follows almost inevitably from the frequency combination relation. If we accept the assumptions 20, 21 one recognizes also that the phases of the quantum theoretical $\\vec{X}$ have the same relevant physical significance as in the classical theory: only the beginning time and hence a phase constant common to all the $\\vec{X}$ is arbitrary and without physical meaning but the phase of every single $\\vec{X}$ enters in the quantity $\\vec{Y}^1$. A geometric interpretation of these quantum theoretic phase relationships in analogy to the classical theory seems at first not possible.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 715,
+      "bottomRightX": 605,
+      "bottomRightY": 750,
+      "content": "We ask now about how to represent the quantity $x(t)^3$ and we find without difficulty:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 130,
+      "topLeftY": 760,
+      "bottomRightX": 608,
+      "bottomRightY": 804,
+      "content": "$^1$Footnote of WH: Compare also to H.A. Kramers and W.Heisenberg, (add bib. In the expressions used there for the induced scattering momentum, the phases are essentially contained.",
+      "confidenceScores": null,
+      "type": "references"
+    },
+    {
+      "topLeftX": 364,
+      "topLeftY": 832,
+      "bottomRightX": 373,
+      "bottomRightY": 844,
+      "content": "5",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

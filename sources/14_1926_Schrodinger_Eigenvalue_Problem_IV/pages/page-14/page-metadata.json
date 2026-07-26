@@ -1,0 +1,56 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 70,
+      "topLeftY": 40,
+      "bottomRightX": 102,
+      "bottomRightY": 58,
+      "content": "122",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 40,
+      "bottomRightX": 364,
+      "bottomRightY": 60,
+      "content": "E. Schrödinger",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 68,
+      "topLeftY": 75,
+      "bottomRightX": 550,
+      "bottomRightY": 795,
+      "content": "bergschen Quantenmechanik.¹) Experimentell nachgewiesen wurde sie, soviel mir bekannt, noch in keinem Falle. Die *vorliegende* Theorie läßt nun auch sehr deutlich erkennen, daß das Auftreten dieser Streustrahlung an besondere Bedingungen geknüpft ist, welche wohl eigens zu dem Zweck anzustellende Versuche erheischen. Erstens müssen *zwei* Eigenschwingungen $u_k$ und $u_l$ *kräftig* erregt sein, so daß alle Versuche ausscheiden, die an Atomen im Normalzustand angestellt sind — und das ist die überwiegende Mehrzahl. Zweitens muß mindestens *ein* dritter Eigenschwingungszustand $u_n$ *existieren* (d. h. *möglich*, er braucht nicht *erregt* zu sein), welcher sowohl mit $u_k$ als auch mit $u_l$ kombiniert zu kräftiger Spontanemission führt. Denn mit dem Produkt der betreffenden Spontanemissionskoeffizienten ($a_{kn} b_{ln}$ und $a_{ln} b_{kn}$) ist die aufzufindende außergewöhnliche Streustrahlung proportional. Die Kombination ($u_k, u_l$) brauchte an und für sich nicht kräftig zu emittieren, es würde nichts schaden, wenn selbst — in der Sprache der älteren Theorie — dieser „Übergang verboten“ wäre. Dennoch wird man praktisch auch diese Forderung hinzufügen müssen, und zwar die Forderung, daß die Linie ($u_k, u_l$) während des Versuches wirklich kräftig ausgesandt wird, weil das eigentlich das einzige Mittel ist, um sich zu vergewissern, daß wirklich *beide* Eigenschwingungen, und zwar in denselben Atomindividuen und in einer hinreichenden Zahl solcher, kräftig erregt sind. Bedenkt man nun, daß in den kräftigen und am meisten untersuchten Termreihen, d. i. in den gewöhnlichen $s$-, $p$-, $d$-, $f$-Reihen, die Verhältnisse meistens so liegen, daß zwei Terme, die mit einem dritten kräftig kombinieren, dies untereinander nicht tun, so erscheint wirklich eine besondere Auswahl des Versuchsobjektes und der Versuchsbedingungen nötig, um die in Rede stehende Streustrahlung mit Sicherheit erwarten zu dürfen, besonders da sie von anderer Frequenz ist als das einfallende Licht und *daher* nicht zu Dispersion oder Rotationspolarisation Anlaß geben, sondern nur als allseitiges Streulicht bemerkt werden kann.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 799,
+      "bottomRightX": 550,
+      "bottomRightY": 841,
+      "content": "Die oben zitierte quantenmechanische Dispersionstheorie von Born, Heisenberg und Jordan, gestattet, soweit ich es",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 107,
+      "topLeftY": 864,
+      "bottomRightX": 550,
+      "bottomRightY": 882,
+      "content": "1) Born, Heisenberg und Jordan, Ztschr. f. Phys. 35. S. 572. 1926.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

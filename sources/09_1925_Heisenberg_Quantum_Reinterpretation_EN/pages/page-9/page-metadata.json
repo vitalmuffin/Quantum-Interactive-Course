@@ -1,0 +1,56 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 87,
+    "height": 1018,
+    "width": 720
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 130,
+      "topLeftY": 164,
+      "bottomRightX": 608,
+      "bottomRightY": 653,
+      "content": "only in the easiest cases. A particular complication comes also from systems like the Hydrogen atom: since the solutions represent partly periodic and partly aperiodic motions, it has the consequence that the quantum theoretic series 20, 21 and Eq. 34 always fall in both the sum and the integral case. Quantum mechanically, it is not possible to divide “periodic and aperiodic motions”. Despite that, one might see Eq. 26 and Eq.34 at least in principle as a satisfactory solution of the mechanical problem, if it is possible to show that this solution coincides (or is not in contradiction) with the until now known quantum mechanical relationships and that a small perturbation of a mechanical problem gives rise to additional orders in the energies or frequencies respectively which correspond to the expressions found by Kramers and Born (in contrast to which would have lead the classical theory). Further, one must investigate if in general Eq. 26 in the suggested quantum theoretical interpretation corresponds an energy integral $m\\frac{x^2}{2} + U(x) = \\text{const}$ and if such obtained energy (analogously as classically holds $\\nu = \\frac{\\partial W}{\\partial J}$) the relation $\\Delta W = h\\nu$ is sufficient. A general answer to these questions might demonstrate the coherence of the present experiments and lead to a quantum mechanics which operates only with observable quantities. Apart from a general relationship between the Kramer’s dispersion formula and Eq. 26 and 27, we can only answer the above stated questions in very special solvable cases through simple recursion. That general relationship between Kramer’s dispersion theory and our Eq. 26 and 27 consists in the fact that in Eq. 26 (i.e. its quantum theoretical analog) like in the the classical theory follows, that the oscillating electron with respect to light which has a much shorter wavelength with respect to the eigenfrequencies of the system, behaves like a free electron. This result follows also from Kramer’s theory when Eq. 34 is taken into account. Indeed, Kramers finds for the induced moment by the wave $E \\cos 2\\pi\\nu t$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 662,
+      "bottomRightX": 644,
+      "bottomRightY": 718,
+      "content": "$$M = e^2 E \\cos(2\\pi\\nu t) \\frac{2}{h} \\sum_{\\alpha=0}^{\\infty} \\left\\{ \\frac{|X(n, n+\\alpha)|^2 \\nu(n, n+\\alpha)}{\\nu^2(n, n+\\alpha) - \\nu^2} - \\frac{|X(n, n-\\alpha)|^2 \\nu(n, n-\\alpha)}{\\nu^2(n, n-\\alpha) - \\nu^2} \\right\\} \\tag{36}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 131,
+      "topLeftY": 719,
+      "bottomRightX": 283,
+      "bottomRightY": 736,
+      "content": "and for $\\nu \\gg \\nu(n, n+\\alpha)$",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 749,
+      "bottomRightX": 645,
+      "bottomRightY": 805,
+      "content": "$$M = -\\frac{2Ee^2 \\cos(2\\pi\\nu t)}{\\nu^2 h} \\sum_{\\alpha=0}^{\\infty} \\left\\{ |X(n, n+\\alpha)|^2 \\nu(n, n+\\alpha) - |X(n, n-\\alpha)|^2 \\nu(n, n-\\alpha) \\right\\} \\tag{37}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 364,
+      "topLeftY": 832,
+      "bottomRightX": 373,
+      "bottomRightY": 844,
+      "content": "9",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

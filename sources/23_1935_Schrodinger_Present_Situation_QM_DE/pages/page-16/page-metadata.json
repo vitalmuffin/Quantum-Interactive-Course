@@ -1,0 +1,209 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 95,
+    "height": 1016,
+    "width": 737
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 84,
+      "topLeftY": 93,
+      "bottomRightX": 142,
+      "bottomRightY": 114,
+      "content": "Heft 50.\n13. 12. 1933]",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 93,
+      "bottomRightX": 545,
+      "bottomRightY": 107,
+      "content": "SCHRÖDINGER: Die gegenwärtige Situation in der Quantenmechanik.",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 628,
+      "topLeftY": 93,
+      "bottomRightX": 651,
+      "bottomRightY": 107,
+      "content": "847",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 122,
+      "bottomRightX": 362,
+      "bottomRightY": 175,
+      "content": "einen ganz bestimmten in Bereitschaft haben muß:\ndenn wir können, wenn wir wollen, gerade ihn am\nHilfssystem in Erfahrung bringen und finden ihn\ndann bei direkter Messung stets bestätigt.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 174,
+      "bottomRightX": 364,
+      "bottomRightY": 484,
+      "content": "Soll man sich nun denken, weil wir über die\nBeziehung zwischen den in einem System bereit-\ngestellten Variablenwerten so gar nichts wissen,\ndaß keine besteht, daß weitgehend beliebige\nKombinationen vorkommen können? Das würde\nheißen, daß solch ein System von „einem Frei-\nheitsgrad“ nicht bloß zwei Zahlen zu seiner aus-\nreichenden Beschreibung nötig hätte, wie die\nklassische Mechanik wollte, sondern viel mehr,\nvielleicht unendlich viele. Aber dann ist es doch\nseltsam, daß zwei Systeme immer gleich in allen\nVariablen übereinstimmen, wenn sie in zweien\nübereinstimmen. Man müßte also zweitens an-\nnehmen, daß dies an unserer Ungeschicklichkeit\nliegt; müßte denken, daß wir praktisch nicht im-\nstande sind, zwei Systeme in eine Situation zu\nbringen, in der sie bezüglich zweier Variablen über-\neinstimmen, ohne nolens volens die Übereinstim-\nmung auch für alle übrigen Variablen mit herbei-\nzuführen, obwohl das an sich nicht nötig wäre.\nDiese beiden Annahmen müßte man machen, um\nden völligen Mangel an Einsicht in den Zusammen-\nhang der Variablenwerte innerhalb eines Systems\nnicht als eine große Verlegenheit zu empfinden.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 493,
+      "bottomRightX": 364,
+      "bottomRightY": 521,
+      "content": "§ 14. Die Änderung der Verschränkung mit der Zeit.\nBedenken gegen die Sonderstellung der Zeit.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 523,
+      "bottomRightX": 365,
+      "bottomRightY": 833,
+      "content": "Es ist vielleicht nicht überflüssig, daran zu\nerinnern, daß alles, was in den Abschnitten 12\nund 13 gesagt worden ist, sich auf einen einzigen\nAugenblick bezieht. Die Verschränkung ist nicht\nzeitbeständig. Sie bleibt zwar dauernd eine ein-\neindeutige Verschränkung aller Variablen, aber die\nZuordnung wechselt. Das heißt folgendes. Zu einer\nspäteren Zeit t kann man wohl auch wieder die\nWerte von q oder von p, die dann gelten, durch eine\nMessung am Hilfssystem in Erfahrung bringen, aber\ndie Messungen, die man dazu am Hilfssystem vor-\nnehmen muß, sind andere. Welche es sind, kann\nman in einfachen Fällen leicht sehen. Es kommt\njetzt natürlich auf die Kräfte an, die innerhalb jedes\nder beiden Systeme wirken. Nehmen wir an, es wir-\nken keine Kräfte. Die Masse wollen wir, einfach-\nheitshalber, für beide gleich setzen und m nennen.\nDann würden im klassischen Modell die Impulse p\nund P konstant bleiben, weil es doch die mit der\nMasse multiplizierten Geschwindigkeiten sind; und\ndie Koordinaten zur Zeit t, die wir zur Unter-\nscheidung mit dem Index t beheften wollen\n(q, Qt), würden sich aus den anfänglichen, die auch\nweiterhin q, Q heißen sollen, so berechnen:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 839,
+      "bottomRightX": 266,
+      "bottomRightY": 891,
+      "content": "$$\\begin{aligned} q_t &= q + \\frac{p}{m} t \\\\ Q_t &= Q + \\frac{P}{m} t. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 894,
+      "bottomRightX": 365,
+      "bottomRightY": 920,
+      "content": "Sprechen wir zuerst von dem kleinen System.\nDie natürlichste Art, es klassisch zur Zeit t zu be-",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 122,
+      "bottomRightX": 652,
+      "bottomRightY": 291,
+      "content": "schreiben, ist durch Angabe von Koordinate und\nImpuls zu dieser Zeit, d. i. durch qt und p. Aber\nman kann es auch anders machen. Man kann statt\nqt auch q angeben. Auch q ist ein „Bestimmungs-\nstück zur Zeit t“, und zwar zu jeder Zeit t, und zwar\neines, das sich mit der Zeit nicht ändert. Das ist\nso ähnlich, wie ich ein gewisses Bestimmungs-\nstück meiner eigenen Person, nämlich mein Alter,\nentweder durch die Zahl 48 angeben kann, welche\nsich mit der Zeit verändert und beim System der\nAngabe von qt entspricht, oder durch die Zahl 1887,\nwas in Dokumenten üblich ist und der Angabe\nvon q entspricht. Nun ist nach obigem",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 478,
+      "topLeftY": 295,
+      "bottomRightX": 555,
+      "bottomRightY": 317,
+      "content": "$$q = q_t - \\frac{p}{m} t.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 320,
+      "bottomRightX": 652,
+      "bottomRightY": 349,
+      "content": "Ähnlich für das zweite System. Wir nehmen also\nals Bestimmungsstücke",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 409,
+      "topLeftY": 353,
+      "bottomRightX": 621,
+      "bottomRightY": 405,
+      "content": "$$\\begin{aligned} \\text{für das erste System } q_t - \\frac{p}{m} t \\text{ und } p \\\\ \\text{„ „ zweite „ } Q_t - \\frac{P}{m} t \\text{ und } P. \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 411,
+      "bottomRightX": 652,
+      "bottomRightY": 438,
+      "content": "Der Vorteil ist, daß zwischen diesen dauernd die-\nselbe Verschränkung fortbesteht:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 460,
+      "topLeftY": 443,
+      "bottomRightX": 572,
+      "bottomRightY": 485,
+      "content": "$$\\begin{aligned} q_t - \\frac{p}{m} t &= Q_t - \\frac{P}{m} t \\\\ p &= -P \\end{aligned}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 484,
+      "bottomRightX": 462,
+      "bottomRightY": 497,
+      "content": "oder aufgelöst:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 441,
+      "topLeftY": 498,
+      "bottomRightX": 589,
+      "bottomRightY": 522,
+      "content": "$$q_t = Q_t - \\frac{2t}{m} P; \\quad p = -P.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 528,
+      "bottomRightX": 653,
+      "bottomRightY": 594,
+      "content": "Was mit der Zeit anders wird, ist also nur dies: die\nKoordinate des „kleinen“ Systems wird nicht ein-\nfach durch eine Koordinatenmessung am Hilfs-\nsystem ermittelt, sondern durch eine Messung des\nAggregates",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 486,
+      "topLeftY": 594,
+      "bottomRightX": 547,
+      "bottomRightY": 617,
+      "content": "$$Q_t - \\frac{2t}{m} P.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 623,
+      "bottomRightX": 653,
+      "bottomRightY": 754,
+      "content": "Darunter darf man sich aber nicht etwa vorstellen,\ndaß man Qt und P mißt, denn das geht ja nicht.\nSondern man hat sich zu denken, wie man es sich\nin der Q.M. immer zu denken hat, daß es ein\ndirektes Meßverfahren für dieses Aggregat gibt.\nIm übrigen gilt, mit dieser Änderung, alles, was in\nden Abschnitten 12 und 13 gesagt worden ist, für\njeden Zeitpunkt; insbesondere besteht in jedem\nZeitpunkt die ein-eindeutige Verschränkung aller\nVariablen samt ihren üblen Konsequenzen.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 753,
+      "bottomRightX": 653,
+      "bottomRightY": 805,
+      "content": "Genau so steht es auch, wenn innerhalb jedes\nSystems eine Kraft wirkt, aber qt und p ver-\nschränken sich dann mit Variablen, die kompli-\nzierter aus Qt und P zusammengesetzt sind.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 804,
+      "bottomRightX": 653,
+      "bottomRightY": 920,
+      "content": "Ich habe das kurz erklärt, damit wir uns folgen-\ndes überlegen können. Daß die Verschränkung\nsich mit der Zeit ändert, macht uns doch ein wenig\nnachdenklich. Müssen etwa alle Messungen, von\ndenen die Rede war, in ganz kurzer Zeit, eigentlich\nmomentan, zeitlos, vollzogen werden, um die un-\nerbittlichen Konsequenzen zu rechtfertigen? Läßt\nsich der Spuk bannen durch den Hinweis, daß die\nMessungen Zeit gebrauchen? Nein. Man hat ja",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "index": 24,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 184,
+      "topLeftY": 27,
+      "bottomRightX": 524,
+      "bottomRightY": 48,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 585,
+      "topLeftY": 26,
+      "bottomRightX": 611,
+      "bottomRightY": 48,
+      "content": "45",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 67,
+      "bottomRightX": 611,
+      "bottomRightY": 292,
+      "content": "qu'elles faisaient toutes intervenir des accélérations alors que la transformation de Lorentz-Einstein ne s'applique qu'aux mouvements uniformes. Les arguments de l'illustre mathématicien ont cependant prouvé une fois de plus que l'application des idées Einsteiniennes devient très délicate dès l'instant où l'on a affaire à des accélérations et, en cela, ils sont très instructifs. La méthode qui nous a permis l'étude de l'onde de phase au chapitre premier ne va plus ici nous être d'aucun secours.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 293,
+      "bottomRightX": 609,
+      "bottomRightY": 951,
+      "content": "L'onde de phase qui accompagne le mouvement d'un mobile, si toutefois on admet nos conceptions, a des propriétés qui dépendent de la nature de ce mobile puisque sa fréquence, par exemple, est déterminée par l'énergie totale. Il semble donc naturel de supposer que, si un champ de force agit sur le mouvement d'un mobile, il agira aussi sur la propagation de son onde de phase. Guidé par l'idée d'une identité profonde du principe de la moindre action et de celui de Fermat, j'ai été conduit dès le début de mes recherches sur ce sujet à *admettre* que pour une valeur donnée de l'énergie totale du mobile et par suite de la fréquence de son onde de phase, les trajectoires dynamiquement possibles de l'un coïncidaient avec les rayons possibles de l'autre. Cela m'a conduit à un résultat fort satisfaisant qui sera exposé au chapitre III, savoir l'interprétation des conditions de stabilité intraatomique établies par Bohr. Malheureusement, il fallait des hypothèses assez arbitraires sur la valeur des vitesses de propagations V de l'onde de phase en chaque point du champ. Nous allons, au contraire, nous servir ici d'une méthode qui nous semble beaucoup plus générale et plus satisfaisante. Nous étudierons d'une part le principe mécanique de la moindre action sous ses formes Hamiltonienne et Maupertuisienne dans la dynamique classique et dans celle de la Relativité et d'autre part à un point de vue très général, la propagation des ondes et le principe de Fermat. Nous serons alors amené à concevoir une synthèse",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "index": 22,
+  "dimensions": {
+    "dpi": 93,
+    "height": 1023,
+    "width": 791
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 92,
+      "topLeftY": 102,
+      "bottomRightX": 114,
+      "bottomRightY": 115,
+      "content": "188",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 335,
+      "topLeftY": 102,
+      "bottomRightX": 443,
+      "bottomRightY": 116,
+      "content": "DAVID BOHM",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 131,
+      "bottomRightX": 382,
+      "bottomRightY": 284,
+      "content": "arrangements of matter that must be used in making different kinds of measurements. In this point, we are in agreement with Bohr, who repeatedly stresses the fundamental role of the measuring apparatus as an inseparable part of the observed system. We differ from Bohr, however, in that we have proposed a method by which the role of the apparatus can be analyzed and described in principle in a precise way, whereas Bohr asserts that a precise conception of the details of the measurement process is as a matter of principle unattainable.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 285,
+      "bottomRightX": 382,
+      "bottomRightY": 453,
+      "content": "Finally, we wish to stress that the conclusions drawn thus far refer only to the measurement of the so-called \"observables\" carried out by the methods that are now available. If the quantum theory needs to be modified at small distances, then, as suggested in Sec. 6, precise measurements can in principle be made of the actual position and momentum of a particle. Here, it should be noted that Von Neumann's theorem is likewise irrelevant, this time because we are going beyond the assumption of the unlimited validity of the present general form of quantum theory, which plays an integral part in his proof.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 136,
+      "topLeftY": 464,
+      "bottomRightX": 334,
+      "bottomRightY": 476,
+      "content": "# 10. SUMMARY AND CONCLUSIONS",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 480,
+      "bottomRightX": 382,
+      "bottomRightY": 731,
+      "content": "The usual interpretation of the quantum theory implies that we must renounce the possibility of describing an individual system in terms of a single precisely defined conceptual model. We have, however, proposed an alternative interpretation which does not imply such a renunciation, but which instead leads us to regard a quantum-mechanical system as a synthesis of a precisely definable particle and a precisely definable ψ-field which exerts a force on this particle. An experimental choice between these two interpretations cannot be made in a domain in which the present mathematical formulation of the quantum theory is a good approximation; but such a choice is conceivable in domains, such as those associated with dimensions of the order of 10⁻¹³ cm, where the extrapolation of the present theory seems to break down and where our suggested new interpretation can lead to completely different kinds of predictions.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 731,
+      "bottomRightX": 382,
+      "bottomRightY": 942,
+      "content": "At present, our suggested new interpretation provides a consistent alternative to the usual assumption that no objective and precisely definable description of reality is possible at the quantum level of accuracy. For, in our description, the problem of objective reality at the quantum level is at least in principle not fundamentally different from that at the classical level, although new problems of measurement of the properties of an individual system appear, which can be solved only with the aid of an improvement in the theory, such as the possible modifications in the nuclear domain suggested in Sec. 6. In this connection, we wish to point out that what we can measure depends not only on the type of apparatus that is available, but also on the existing theory, which determines the kind of inference that can",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 391,
+      "topLeftY": 131,
+      "bottomRightX": 689,
+      "bottomRightY": 229,
+      "content": "be used to connect the directly observable state of the apparatus with the state of the system of interest. In other words, our epistemology is determined to a large extent by the existing theory. It is therefore not wise to specify the possible forms of future theories in terms of purely epistemological limitations deduced from existing theories.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 391,
+      "topLeftY": 229,
+      "bottomRightX": 689,
+      "bottomRightY": 885,
+      "content": "The development of the usual interpretation of the quantum theory seems to have been guided to a considerable extent by the principle of not postulating the possible existence of entities which cannot now be observed. This principle, which stems from a general philosophical point of view known during the nineteenth century as \"positivism\" or \"empiricism\" represents an extraphysical limitation on the possible kinds of theories that we shall choose to take into consideration.⁷ The word \"extraphysical\" is used here advisedly, since we can in no way deduce, either from the experimental data of physics, or from its mathematical formulation, that it will necessarily remain forever impossible for us to observe entities whose existence cannot now be observed. Now, there is no reason why an extraphysical general principle is necessarily to be avoided, since such principles could conceivably serve as useful working hypotheses. The particular extraphysical principle described above cannot, however, be said to be a good working hypothesis. For the history of scientific research is full of examples in which it was very fruitful indeed to assume that certain objects or elements might be real, long before any procedures were known which would permit them to be observed directly. The atomic theory is just such an example. For the possibility of the actual existence of individual atoms was first postulated in order to explain various macrophysical results which could, however, also be understood directly in terms of macrophysical concepts without the need for assuming the existence of atoms. Certain nineteenth-century positivists (notably Mach) therefore insisted on purely philosophical grounds that it was incorrect to suppose that individual atoms actually existed, because they had never been observed as such. The atomic theory, they thought, should be regarded only as an interesting way of calculating various observable large-scale properties of matter. Nevertheless, evidence for the existence of individual atoms was ultimately discovered by people who took the atomic hypothesis seriously enough to suppose that individual atoms might actually exist, even though no one had yet observed them. We may have here, perhaps, a close analogy to the usual interpretation of the quantum theory, which avoids considering the possibility that the wave function of an individual system may represent objective reality, because we cannot observe it with the aid of existing experiments and theories.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 391,
+      "topLeftY": 889,
+      "bottomRightX": 687,
+      "bottomRightY": 945,
+      "content": "⁷ A leading nineteenth-century exponent of the positivist point of view was Mach. Modern positivists appear to have retreated from this extreme position, but its reflection still remains in the philosophical point of view implicitly adopted by a large number of modern theoretical physicists.",
+      "confidenceScores": null,
+      "type": "references"
+    }
+  ]
+}

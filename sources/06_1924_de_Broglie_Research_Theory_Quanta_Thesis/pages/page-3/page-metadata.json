@@ -1,0 +1,92 @@
+{
+  "index": 2,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1010,
+    "width": 652
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 159,
+      "topLeftY": 32,
+      "bottomRightX": 499,
+      "bottomRightY": 54,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 561,
+      "topLeftY": 34,
+      "bottomRightX": 585,
+      "bottomRightY": 54,
+      "content": "23",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 72,
+      "bottomRightX": 585,
+      "bottomRightY": 116,
+      "content": "entre l'onde liée au grain d'énergie lumineuse et l'onde électromagnétique de Maxwell (ch. V.)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 73,
+      "topLeftY": 110,
+      "bottomRightX": 585,
+      "bottomRightY": 174,
+      "content": "En particulier, l'étude de la diffusion des rayons X et $\\gamma$ par les corps amorphes nous sert à montrer combien une conciliation de ce genre est aujourd'hui désirable (ch. VI)",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 168,
+      "bottomRightX": 585,
+      "bottomRightY": 269,
+      "content": "Enfin, l'introduction de la notion d'onde de phase dans la mécanique statistique conduit à justifier l'intervention des quanta dans la théorie dynamique des gaz et à retrouver les lois du rayonnement noir comme traduisant la distribution de l'énergie entre les atomes dans un gaz de quanta de lumière.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 310,
+      "bottomRightX": 469,
+      "bottomRightY": 336,
+      "content": "## INTRODUCTION HISTORIQUE",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 176,
+      "topLeftY": 356,
+      "bottomRightX": 478,
+      "bottomRightY": 379,
+      "content": "### I. — Du XVI$^{e}$ au XX$^{e}$ siècle.",
+      "confidenceScores": null,
+      "type": "title"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 399,
+      "bottomRightX": 583,
+      "bottomRightY": 856,
+      "content": "La science moderne est née à la fin du XVI$^{e}$ siècle à la suite du renouveau intellectuel dû à la Renaissance. Tandis que l'Astronomie de position devenait de jour en jour plus précise, les sciences de l'équilibre et du mouvement, la statique et la dynamique se constituèrent lentement. On sait que ce fut Newton qui le premier fit de la Dynamique un corps de doctrine homogène et par sa mémorable loi de la gravitation universelle ouvrit à la nouvelle science un champ énorme d'applications et de vérifications. Pendant les XVIII$^{e}$ et XIX$^{e}$ siècles un grand nombre de géomètres, d'astronomes et de physiciens développèrent les principes de Newton et la Mécanique parvint à tel degré de beauté et d'harmonie rationnelle qu'on en oublia presque son caractère de science physique. On parvint, en particulier, à faire découler toute cette science d'un seul principe, le principe de moindre action énoncé d'abord par Maupertuis, puis d'une autre manière par Hamilton et dont la forme mathématique est remarquablement élégante et condensée.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 855,
+      "bottomRightX": 580,
+      "bottomRightY": 956,
+      "content": "Par son intervention en Acoustique, en Hydrodynamique, en Optique, en Capillarité, la Mécanique parut un instant régner sur tous les domaines. Elle eut un peu plus de peine à absorber une nouvelle branche de la science née au",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

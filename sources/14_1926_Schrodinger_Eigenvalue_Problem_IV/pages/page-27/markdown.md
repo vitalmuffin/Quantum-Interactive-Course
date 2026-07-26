@@ -1,0 +1,11 @@
+Quantisierung als Eigenwertproblem
+
+135
+
+hervortreten läßt. $\psi \bar{\psi}$ ist eine Art *Gewichtsfunktion* im Konfigurationenraum des Systems. Die *wellenmechanische* Konfiguration des Systems ist eine *Superposition* vieler, streng genommen *aller*, kinematisch möglichen punktmechanischen Konfigurationen. Dabei steuert jede punktmechanische Konfiguration mit einem gewissen *Gewicht* zur wahren wellenmechanischen Konfiguration bei, welches Gewicht eben durch $\psi \bar{\psi}$ gegeben ist. Wenn man Paradoxien liebt, kann man sagen, das System befindet sich gleichsam in allen kinematisch denkbaren Lagen gleichzeitig, aber nicht in allen „gleich stark“. Bei makroskopischen Bewegungen zieht sich die Gewichtsfunktion praktisch auf ein kleines Gebiet von praktisch nicht unterscheidbaren Lagen zusammen, dessen Schwerpunkt im Konfigurationenraum makroskopisch wahrnehmbare Strecken zurücklegt. Bei mikroskopischen Bewegungsproblemen interessiert jedenfalls *auch*, und für gewisse Fragen sogar *in erster Linie*, die wechselnde *Verteilung* über das Gebiet.
+
+Diese Umdeutung mag im ersten Augenblick choquieren, nachdem wir bisher oft in so anschaulich konkreter Form von den „$\psi$-Schwingungen“ als von etwas ganz Realem gesprochen haben. Etwas greifbar Reales liegt ihnen ja aber auch nach der jetzigen Auffassung zugrunde, nämlich die höchst realen, elektrodynamisch wirksamen Fluktuationen der elektrischen Raumdichte. Die $\psi$-Funktion soll nicht mehr und nicht weniger sein bzw. leisten, als daß sie gestattet, die Gesamtheit dieser Fluktuationen durch eine einzige partielle Differentialgleichung mathematisch zu beherrschen und zu übersehen. Daß die $\psi$-Funktion selbst im allgemeinen nicht direkt dreidimensional räumlich interpretiert werden kann und darf, so sehr das Ein-elektronenproblem dazu verleitet, weil sie eben im allgemeinen eine Funktion im Konfigurationenraum, nicht im wirklichen Raum ist, ist zu wiederholten Malen hervorgehoben worden.¹)
+
+Von einer Gewichtsfunktion im oben dargelegten Sinne wird man wünschen, daß ihr Integral über den ganzen Konfigurationenraum beständig auf ein und denselben unveränderlichen Wert, am liebsten auf Eins, normiert bleibe. In der Tat überzeugt man sich leicht, daß dies notwendig ist, damit
+
+1) Ann. d. Phys. 79. S. 526. 754. 1926.

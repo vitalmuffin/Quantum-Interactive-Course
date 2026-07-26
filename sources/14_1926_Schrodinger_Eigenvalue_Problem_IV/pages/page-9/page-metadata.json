@@ -1,0 +1,83 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 120,
+    "height": 1020,
+    "width": 630
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 173,
+      "topLeftY": 40,
+      "bottomRightX": 435,
+      "bottomRightY": 61,
+      "content": "Quantisierung als Eigenwertproblem",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 518,
+      "topLeftY": 40,
+      "bottomRightX": 551,
+      "bottomRightY": 59,
+      "content": "117",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 69,
+      "topLeftY": 75,
+      "bottomRightX": 551,
+      "bottomRightY": 176,
+      "content": "$$(16) \\left\\{ \\begin{aligned} \\psi &= u_k(x) e^{\\frac{2\\pi i E_k t}{h}} \\\\ &+ \\frac{1}{2} \\sum_{n=1}^{\\infty} a_{kn}' u_n(x) \\left( \\frac{e^{\\frac{2\\pi i t}{h}(E_k + h\\nu)}}{E_k - E_n + h\\nu} + \\frac{e^{\\frac{2\\pi i t}{h}(E_k - h\\nu)}}{E_k - E_n - h\\nu} \\right). \\end{aligned} \\right.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 70,
+      "topLeftY": 187,
+      "bottomRightX": 554,
+      "bottomRightY": 519,
+      "content": "Es schwingen also im Störungsfalle mit jeder *freien* Schwingung $u_k(x)$ alle jene Schwingungen $u_n(x)$ in kleiner Amplitude mit, für welche $a_{kn}' \\neq 0$. Es sind das genau diejenigen, welche, wenn sie mit $u_k$ als freie Schwingungen zusammenbestehen, zu einer Ausstrahlung Anlaß geben, die (ganz oder teilweise) in der Polarisationsrichtung der einfallenden Welle polarisiert ist. Denn $a_{kn}'$ ist ja, von einem Faktor abgesehen, nichts anderes als die in diese Polarisationsrichtung fallende Amplitudenkomponente des mit der Frequenz $(E_k - E_n)/h$ oszillierenden *elektrischen Moments* des Atoms *nach der Undulationsmechanik*, welches beim Zusammenbestehen von $u_k$ und $u_n$ auftritt.¹⁾ — Das Mitschwingen findet jedoch nicht mit der diesen Schwingungen eigentümlichen Eigenfrequenz $E_n/h$, auch nicht mit der Frequenz $\\nu$ der Lichtwelle statt, vielmehr mit der Summe und mit der Differenz von $E_k/h$ (d. i. die Frequenz der *einen* bestehenden *freien* Schwingung) und $\\nu$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 521,
+      "bottomRightX": 554,
+      "bottomRightY": 583,
+      "content": "Als *reelle* Lösung kann der Realteil oder der Imaginärteil von (16) betrachtet werden. — Wir operieren aber im folgenden mit der komplexen Lösung selbst.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 72,
+      "topLeftY": 586,
+      "bottomRightX": 555,
+      "bottomRightY": 773,
+      "content": "Um die Bedeutung unseres Ergebnisses für die Dispersionstheorie zu erkennen, hat man die Ausstrahlung zu untersuchen, die aus dem Zusammenbestehen der erregten Zwangsschwingungen mit der ursprünglich schon vorhandenen freien Schwingung entspringt. Bilden wir zu dem Zweck nach dem bisher stets benutzten Verfahren²⁾ — eine Kritik folgt im § 7 — das Produkt der komplexen Wellenfunktion (16) in den konjugiert komplexen Wert, d. h. also die Norm der komplexen Wellenfunktion $\\psi$. Dabei beachten wir, daß die Störungsglieder klein",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 793,
+      "bottomRightX": 315,
+      "bottomRightY": 812,
+      "content": "1) Vgl. das Folgende und § 7.",
+      "confidenceScores": null,
+      "type": "footer"
+    },
+    {
+      "topLeftX": 75,
+      "topLeftY": 811,
+      "bottomRightX": 555,
+      "bottomRightY": 881,
+      "content": "2) Vgl. Ann. d. Phys. 79. S. 755. 1926; ferner die Berechnung der Starkeffektintensitäten in der dritten Mitteilung. An der erstgenannten Stelle wurde statt $\\psi \\bar{\\psi}$ der Realteil von $\\psi \\bar{\\psi}$ vorgeschlagen. Das war ein Fehlgriff, der schon in der 3. Mitt. verbessert wurde.",
+      "confidenceScores": null,
+      "type": "footer"
+    }
+  ]
+}

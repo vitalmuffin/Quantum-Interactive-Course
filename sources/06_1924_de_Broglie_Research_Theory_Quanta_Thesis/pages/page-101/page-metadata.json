@@ -1,0 +1,155 @@
+{
+  "index": 100,
+  "dimensions": {
+    "dpi": 34,
+    "height": 1002,
+    "width": 606
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 105,
+      "topLeftY": 30,
+      "bottomRightX": 442,
+      "bottomRightY": 48,
+      "content": "RECHERCHES SUR LA THÉORIE DES QUANTA",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 496,
+      "topLeftY": 30,
+      "bottomRightX": 526,
+      "bottomRightY": 45,
+      "content": "121",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 69,
+      "bottomRightX": 530,
+      "bottomRightY": 121,
+      "content": "pour autant qu'elles se rapportent à l'intervalle des fréquences $\\nu, \\nu + d\\nu$. Si l'on admet la loi de Rayleigh :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 129,
+      "bottomRightX": 448,
+      "bottomRightY": 180,
+      "content": "$$u_\\nu = \\frac{8\\pi k}{c^3} \\nu^2 T, \\quad \\bar{\\epsilon}^2 = \\frac{c^3}{8\\pi\\nu^2 d\\nu} \\cdot \\frac{(Vu_\\nu d\\nu)^2}{V}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 196,
+      "bottomRightX": 530,
+      "bottomRightY": 271,
+      "content": "et ce résultat, comme on devait s'y attendre, coïncide avec celui que fournit le calcul des interférences conduit suivant les règles de la théorie électromagnétique.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 271,
+      "bottomRightX": 531,
+      "bottomRightY": 346,
+      "content": "Si, au contraire, on adopte la loi de Wien qui correspond à l'hypothèse d'une radiation formée d'atomes entièrement indépendants, on trouve :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 355,
+      "bottomRightX": 470,
+      "bottomRightY": 415,
+      "content": "$$\\bar{\\epsilon}^2 = kT^2V \\frac{d}{dT} \\left( \\frac{8\\pi h}{c^3} \\nu^3 e^{-\\frac{h\\nu}{kT}} d\\nu \\right) = (u_\\nu V d\\nu) h\\nu$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 435,
+      "bottomRightX": 365,
+      "bottomRightY": 460,
+      "content": "formule qui se déduit aussi de $\\bar{\\epsilon}^2 = \\bar{E}h\\nu$.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 460,
+      "bottomRightX": 530,
+      "bottomRightY": 512,
+      "content": "Enfin, dans le cas réel de la loi de Planck, on parvient, ainsi qu'Einstein l'a le premier remarqué, à l'expression :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 128,
+      "topLeftY": 524,
+      "bottomRightX": 425,
+      "bottomRightY": 574,
+      "content": "$$\\bar{\\epsilon}^2 = (u_\\nu V d\\nu) h\\nu + \\frac{c^3}{8\\pi\\nu^2 d\\nu} \\cdot \\frac{(u_\\nu d\\nu V)^2}{V}$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 590,
+      "bottomRightX": 533,
+      "bottomRightY": 666,
+      "content": "$\\bar{\\epsilon}^2$ apparaît donc comme la somme de ce qu'il serait : $1^0$ si le rayonnement était formé de quanta $h\\nu$ indépendants ; $2^0$ si le rayonnement était purement ondulatoire.",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 667,
+      "bottomRightX": 533,
+      "bottomRightY": 716,
+      "content": "D'autre part, la conception des groupements d'atomes « en ondes » nous conduit à écrire la loi de Planck :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 732,
+      "bottomRightX": 457,
+      "bottomRightY": 793,
+      "content": "$$u_\\nu d\\nu = \\sum_1^\\infty \\frac{8\\pi h}{c^3} \\nu^3 e^{-p \\frac{h\\nu}{kT}} d\\nu = \\sum_1^\\infty n_{p,\\nu} ph\\nu d\\nu$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 21,
+      "topLeftY": 808,
+      "bottomRightX": 534,
+      "bottomRightY": 864,
+      "content": "et, en appliquant à chaque sorte de groupements la formule $\\bar{\\epsilon}^2 = \\bar{n}q^2$, on obtient :",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 197,
+      "topLeftY": 878,
+      "bottomRightX": 355,
+      "bottomRightY": 914,
+      "content": "$$\\bar{\\epsilon}^2 = \\sum_1^\\infty n_{p,\\nu} d\\nu (ph\\nu)^2.$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 44,
+      "topLeftY": 930,
+      "bottomRightX": 534,
+      "bottomRightY": 955,
+      "content": "Naturellement cette expression est au fond identique à",
+      "confidenceScores": null,
+      "type": "text"
+    }
+  ]
+}

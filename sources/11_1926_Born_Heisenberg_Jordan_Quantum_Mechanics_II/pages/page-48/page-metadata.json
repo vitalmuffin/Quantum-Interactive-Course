@@ -1,0 +1,137 @@
+{
+  "index": 47,
+  "dimensions": {
+    "dpi": 111,
+    "height": 1022,
+    "width": 689
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 103,
+      "topLeftY": 102,
+      "bottomRightX": 132,
+      "bottomRightY": 117,
+      "content": "604",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 102,
+      "bottomRightX": 455,
+      "bottomRightY": 117,
+      "content": "M. Born, W. Heisenberg und P. Jordan,",
+      "confidenceScores": null,
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 138,
+      "bottomRightX": 580,
+      "bottomRightY": 194,
+      "content": "vorhanden. Wir nennen diese Glieder $Z_l(j; m)$. Dann ergibt (26), Kap. 4, unter Berücksichtigung von $M_z = m \\frac{h}{2\\pi}$ und (24), Kap. 4:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 198,
+      "bottomRightX": 580,
+      "bottomRightY": 322,
+      "content": "$$\\left. \\begin{aligned} q_{lz}(j, m) &= \\frac{2\\pi}{h} Z_l(j, m) \\frac{m}{j(j+1)}, \\\\ (q_{lx} + i q_{ly})(j, m-1; j, m) &= \\frac{2\\pi}{h} Z_l(j, m-1) \\sqrt{\\frac{j(j+1) - m(m-1)}{j(j+1)}}, \\\\ (q_{lx} - i q_{ly})(j, m; j, m-1) &= \\frac{2\\pi}{h} Z_l(j, m) \\sqrt{\\frac{j(j+1) - m(m-1)}{j(j+1)}}. \\end{aligned} \\right\\} \\quad (28)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 328,
+      "bottomRightX": 580,
+      "bottomRightY": 366,
+      "content": "Um schließlich noch die Abhängigkeit der Größe $Z_l(j, m)$ von $m$ zu erhalten, benutzen wir etwa die Relation",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 371,
+      "bottomRightX": 580,
+      "bottomRightY": 392,
+      "content": "$$M_z q_{ly} - q_{ly} M_z = \\varepsilon q_{lz}; \\quad (29)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 398,
+      "bottomRightX": 580,
+      "bottomRightY": 436,
+      "content": "sie ergibt in unserem Falle, daß $Z_l(j, m)$ nicht von $m$ abhängt. Wir erhalten so für die Übergänge $j \\rightarrow j$:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 444,
+      "bottomRightX": 580,
+      "bottomRightY": 486,
+      "content": "$$\\left. \\begin{aligned} q_{lz}(j, m) : (q_{lx} + i q_{ly})(j, m-1; j, m) &: (q_{lx} - i q_{ly})(j, m; j, m-1) \\\\ &= m : \\sqrt{j(j+1) - m(m-1)} : \\sqrt{j(j+1) - m(m-1)}. \\end{aligned} \\right\\} \\quad (30)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 493,
+      "bottomRightX": 580,
+      "bottomRightY": 567,
+      "content": "Analog behandeln wir die Sprünge $j \\rightarrow j-1$. Für diese ist nach (21), Kap. 4, $X_l(j, m; j-1, m) = \\frac{\\varepsilon}{j} Y_l(j, m; j-1, m)$. Drücken wir aus (26), Kap. 4, die Intensitäten durch $X_l(j, m; j-1, m)$ aus, so ergibt sich:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 573,
+      "bottomRightX": 580,
+      "bottomRightY": 736,
+      "content": "$$\\left. \\begin{aligned} q_{lz}(j, m; j-1, m) &= i \\frac{2\\pi}{h} X_l(j, m; j-1, m) \\frac{1}{j}, \\\\ (q_{lx} + i q_{ly})(j, m-1; j-1, m) \\\\ &= i \\frac{2\\pi}{h} X_l(j, m-1; j-1, m-1) \\frac{\\sqrt{j-m}}{j \\sqrt{j+m-1}}, \\\\ (q_{lx} - i q_{ly})(j, m; j-1, m-1) \\\\ &= -i \\frac{2\\pi}{h} X_l(j, m; j-1, m) \\frac{\\sqrt{j+m-1}}{j \\sqrt{j-m}}. \\end{aligned} \\right\\} \\quad (31)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 741,
+      "bottomRightX": 580,
+      "bottomRightY": 798,
+      "content": "Um schließlich noch die Abhängigkeit der Größe $X_l(j, m; j-1, m)$ von $m$ festzulegen, benutzen wir wieder die Relation (29), Kap. 4, die uns hier nach einfacher Rechnung ergibt:",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 804,
+      "bottomRightX": 580,
+      "bottomRightY": 825,
+      "content": "$$X_l(j, m; j-1, m) = A(j, j-1) \\sqrt{j^2 - m^2}. \\quad (32)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    },
+    {
+      "topLeftX": 138,
+      "topLeftY": 829,
+      "bottomRightX": 245,
+      "bottomRightY": 846,
+      "content": "Wir erhalten so",
+      "confidenceScores": null,
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 852,
+      "bottomRightX": 580,
+      "bottomRightY": 916,
+      "content": "$$\\left. \\begin{aligned} q_{lz}(j, m; j-1, m) : (q_{lx} + i q_{ly})(j, m-1; j-1, m) \\\\ : (q_{lx} - i q_{ly})(j, m; j-1, m-1) &= \\sqrt{j^2 - m^2} : \\sqrt{(j-m)(j-m+1)} \\\\ &: -\\sqrt{(j+m)(j+m-1)}. \\end{aligned} \\right\\} \\quad (33)$$",
+      "confidenceScores": null,
+      "type": "equation"
+    }
+  ]
+}
