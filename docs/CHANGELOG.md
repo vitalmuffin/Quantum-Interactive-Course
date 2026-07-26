@@ -1,6 +1,18 @@
 # Changelog
 
-## v0.10 — Offline sources, conceptual stages, model and progress repair
+## v0.12 — Persistent stage rail, mobile mathematics, graph and translation repair
+
+- Added a persistent collapsible stage rail on the left and content-only stage navigation.
+- Kept active-stage highlighting synchronized across page and hash changes.
+- Fixed graph node selection and aligned graph/detail panel heights.
+- Disabled carousel arrows at their scroll boundaries.
+- Replaced remote math rendering with bundled MathJax SVG output and stabilized source-view equations.
+- Added seven compact foundation illustrations and removed visible design/meta copy.
+- Audited all German translation files; corrected three `_EN` source-language mismatches and added explicit metadata.
+- Improved mobile access to stages, progress, sources, tabs, equations, and long paths.
+
+
+## v0.11 — Offline sources, conceptual stages, model and progress repair
 
 - Renamed course to **Quantum – Das Kleinste verstehen**.
 - Pre-rendered the shared header to remove the old-header flash.

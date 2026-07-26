@@ -1,39 +1,43 @@
 {
-  "version": "0.10",
+  "version": "0.12",
   "product_name": "Quantum – Das Kleinste verstehen",
-  "created_utc": "2026-07-26T10:16:06.593036+00:00",
+  "created_utc": "2026-07-26T12:11:09.362655+00:00",
   "status": "validated release candidate",
   "contents": {
     "paper_count": 32,
-    "pdf_count": 32,
+    "pdf_count": 0,
     "embedded_source_texts": 748,
     "primary_source_images": 36,
     "historical_model_sections": 15,
     "guided_stages": 10,
-    "primer_units": 7
+    "primer_units": 7,
+    "foundation_illustrations": 7,
+    "translation_files_audited": 64
   },
   "validation": {
     "html_files_checked": 10,
-    "local_links_checked": 532,
+    "local_links_checked": 551,
     "missing_refs": 0,
     "warnings": 0,
     "numeric_model_checks_passed": 40,
     "numeric_model_checks_total": 40,
     "runtime_smoke_pages_passed": 4,
     "runtime_smoke_pages_total": 4,
+    "translation_audit": "passed",
+    "v012_feature_regression": "passed",
     "source_bundle_missing_paths": 0,
     "javascript_syntax_errors": 0,
     "chronology_sorted": true,
-    "visual_browser_test": "not available in build environment; static, numeric, bundle-integrity and runtime smoke checks passed"
+    "visual_browser_test": "not executable in build environment because Chromium is governed by a system URLBlocklist; static, numeric, bundle-integrity, translation and runtime smoke checks passed"
   },
   "package": {
-    "file_count_excluding_manifest": 2350,
-    "bytes_excluding_manifest": 136725132
+    "file_count_excluding_manifest": 2357,
+    "bytes_excluding_manifest": 136297802
   },
   "files": {
     "CHANGELOG.md": {
-      "bytes": 4309,
-      "sha256": "5705a6f3a34f9d0a802b53fa5122a60723c866331e86aac46ff97a729286c202"
+      "bytes": 5082,
+      "sha256": "1ef254c5ca811931e2362457c41c7d08a6fbca9902fe56d51294e8f443bcf258"
     },
     "FINAL_SCIENTIFIC_DIDACTIC_AUDIT.md": {
       "bytes": 3125,
@@ -43,9 +47,9 @@
       "bytes": 1922,
       "sha256": "dff3d64711c35f92446adc3618ddc50772b5e1c136b3fccd092caf431ec1bece"
     },
-    "MODEL_VALIDATION_v0.10.md": {
-      "bytes": 1958,
-      "sha256": "85cf6e6c9227bd4cb0f9921219289792b32fb0955852bb63691ebd497590d759"
+    "MODEL_VALIDATION_v0.11.md": {
+      "bytes": 2813,
+      "sha256": "294ee0250a9788743f834f1c18c528d24ed3800c4dde20b4f851715daac579e2"
     },
     "MODEL_VALIDATION_v0.9.md": {
       "bytes": 4129,
@@ -72,12 +76,20 @@
       "sha256": "c0de33ce0ae6fe9e7387a284cb6963b7db7d1edfbe9a2cd1d881c24b33e3602c"
     },
     "README.md": {
-      "bytes": 6617,
-      "sha256": "935dd2c5b9077921149fcf28ed4fa7cc8544404aeee3631db8f455ce7c36094c"
+      "bytes": 6943,
+      "sha256": "8a0a250ae1ff7846590f52635b03b88af65b98e380703d7ddbcbf7b070a4e0c4"
     },
     "RELEASE_NOTES_v0.10.md": {
       "bytes": 2695,
-      "sha256": "e1581fb3b9c4b615dda149981b93116a6ebb800281d10e4c031e8970ca72fea3"
+      "sha256": "e7ba260a4776329558b0b776773dd6e7b922c80052ee8d7fd204ffbf81d747e7"
+    },
+    "RELEASE_NOTES_v0.11.md": {
+      "bytes": 1297,
+      "sha256": "1987dc91ffe0951388fcf6200c1ed0bc26c9751115a7652a34b45db411f49706"
+    },
+    "RELEASE_NOTES_v0.12.md": {
+      "bytes": 2477,
+      "sha256": "c12600f04897cea12e326ddc1109812fb6ccd39671de314905eb0ff4e4be2d24"
     },
     "RELEASE_NOTES_v0.8.md": {
       "bytes": 461,
@@ -96,8 +108,8 @@
       "sha256": "04878860aeb93574661bfe83103563c2ca598756658a2caf0b8f69fdacf57a9b"
     },
     "STATUS.md": {
-      "bytes": 659,
-      "sha256": "d0d54dad1577235106eb1cce4c437c57617a08f1e0c130fe8a41c69eb4ac10de"
+      "bytes": 1376,
+      "sha256": "1f903bb2b0c83510fbaba4148f4ede0366bbe7b4f0aba2a3a13a7358ea0867b9"
     },
     "TEXT_BILINGUAL_AUDIT.md": {
       "bytes": 3179,
@@ -106,6 +118,10 @@
     "THIRD_PARTY.md": {
       "bytes": 562,
       "sha256": "d0400f7d2af87fed742f3ec211d711c269a01737a6021d53d3776875eba49fae"
+    },
+    "TRANSLATION_QUALITY_AUDIT_v0.12.md": {
+      "bytes": 2106,
+      "sha256": "dd5aa0ebb5a5c9c8924aed4379c26828241b8d26f7d4161d4d2aa359c036fce9"
     },
     "VALIDATION_REPORT.md": {
       "bytes": 936,
@@ -408,56 +424,56 @@
       "sha256": "ea51af39aefbf166fa08afe673902485b4c1fc486270f5786dcdb4e636fa2aad"
     },
     "data/source_index.json": {
-      "bytes": 453467,
-      "sha256": "1284cd676d0b2ed82f024dda5bf6f9dca0ff0f2afb063be5a18b5448b33d9279"
+      "bytes": 454101,
+      "sha256": "9c7467998120062f96b61630ce5793b4a7211afa6df5b3e345b6e6f15dae348a"
     },
     "data/source_offline_bundle.js": {
-      "bytes": 9271113,
-      "sha256": "6c4c9f8d6e21125e51d456ac758847cd8e91b4044bc7ec78581be9abc47aeefe"
+      "bytes": 9078041,
+      "sha256": "747dac14b8d73eb08bd75b7e510e9e00beb3608c0e1849f52c2372f0f3ab1160"
     },
     "data/timeline.json": {
       "bytes": 219222,
       "sha256": "87775d423da2e42f7980ddd2252b992fbea58d187f8dd07769f75af29bd2c75c"
     },
     "evidence_notes.html": {
-      "bytes": 7121,
-      "sha256": "3b6fcb1412cfb14b44db341f913aac43a3fd8c447173324edbf8302a97b4af6d"
+      "bytes": 7180,
+      "sha256": "fd3e3abbcb41a0bcd9bb55014c5f6a688df63d7cc98a4905fd13d74a2cb809fe"
     },
     "foundations_tests.html": {
-      "bytes": 85402,
-      "sha256": "9bbbdb9badeba4f55d3ae25eae0c97035dfd2d2d52177f8cb9c88f63ca4cf335"
+      "bytes": 81163,
+      "sha256": "e93df5a8b4a4c345f3c77b00d2df288674bdfc6b32fc75053f80f4aa38c50059"
     },
     "historical_core.html": {
-      "bytes": 185528,
-      "sha256": "1f8b7cd6c7b056a0fa6a33cfe8c5ffd9545a4b994472da4e6ec01992b0f2ac36"
+      "bytes": 177014,
+      "sha256": "c55a07174e8061b2f3ceaa50bb35d76299e408977488f0d97b6f5ff5755fed26"
     },
     "index.html": {
-      "bytes": 2005447,
-      "sha256": "861d00279a96586c478f8ffd9f7feb97a1581c747bda291045d6443e498e72ae"
+      "bytes": 1950717,
+      "sha256": "301bcd64b29fdbb4c636ea9eb5283e3a288ee7dec54b236e1980a2325522dbba"
     },
     "math_foundations.html": {
-      "bytes": 3437,
-      "sha256": "47757e4dd97dd6d465b3fd549c0d5b02aa6c16735c249e8173d7819e164fb29f"
+      "bytes": 3496,
+      "sha256": "a26fd22359f7f55d88440217d2aa8ae6c49e8bee8b4cb3cb81ac512617591e9b"
     },
     "prehistory.html": {
-      "bytes": 24005,
-      "sha256": "33a251d105c8f46a9c528ef9ef415655e1adc0d5265996185cfbdc660c7a3aeb"
+      "bytes": 24064,
+      "sha256": "76c4ef0b0be1266a0fe7fbe7b0b9f763392086ee6e188d1aef28d4e4c262a3c1"
     },
     "primer.html": {
-      "bytes": 145074,
-      "sha256": "6035e344da9a9640b1b57ba9a4fd5a550ad21f8f5cffcc622294e126e020e58c"
+      "bytes": 121351,
+      "sha256": "b69cdff6480b8f187198b9580b1354eedd19d265591180a28c7179f7f4606d45"
     },
     "progress.html": {
       "bytes": 367,
       "sha256": "bfe5e05a83e271ac4b56a4a5663b4a39ce8f1630454d5a980381417694b50471"
     },
     "quantum_information.html": {
-      "bytes": 76827,
-      "sha256": "f6d19797a47467974a54636aafc54a009d0cab298e6f1fe75013b1aab5b7662c"
+      "bytes": 72588,
+      "sha256": "f2a124d5fb4da363bc67582ee61b27ba3f4db787a1c43ae61b0429320de277bb"
     },
     "source_reader.html": {
-      "bytes": 24886,
-      "sha256": "21ded37bceb4371ccfad26cfd03113e1f9fa12247ee1de2e43694914c66a0394"
+      "bytes": 30451,
+      "sha256": "817fed6399285d5605d511e02b83aa703aa67fe1c5833339d4b9c7caa49b67eb"
     },
     "sources/01_1900_Planck_Energy_Distribution/document-annotation.json": {
       "bytes": 102731,
@@ -2392,8 +2408,8 @@
       "sha256": "d0a11c86143210e5d21f931f77902d4b1f0fdac7f59dd1e9f736ca51423bdea9"
     },
     "sources/09_1925_Heisenberg_Quantum_Reinterpretation_EN/text_german.md": {
-      "bytes": 30784,
-      "sha256": "abcca261d2650a0d77bc9cbd3f2a86f8ea7ceb369466890bd95576dc662caeda"
+      "bytes": 4322,
+      "sha256": "ca778adfb0316031ab58cdcc8f6fb1ff7d3c1374a12dc3b6bc1f2721ebd53922"
     },
     "sources/10_1925_Born_Jordan_On_Quantum_Mechanics/document-annotation.json": {
       "bytes": 203147,
@@ -3896,8 +3912,8 @@
       "sha256": "5bb9c1f33e5c63c959177e8420aa2202e4fe9b6f33739084af8d04c457bb2908"
     },
     "sources/15_1926_Born_Collision_Processes_Probability_EN/text_german.md": {
-      "bytes": 56998,
-      "sha256": "4aee264726e9040533e37df4b90e0cba826555f650f06fda06242d7d922a136b"
+      "bytes": 3932,
+      "sha256": "37281690a22cc7f3e9fb2705e4a2a35f1a3937ea5ab7c15bd681f19097c56d3b"
     },
     "sources/16_1927_Heisenberg_Physical_Content_Uncertainty_EN/document-annotation.json": {
       "bytes": 208084,
@@ -4104,8 +4120,8 @@
       "sha256": "2a0663dc2610c1a723173816470f568db0c9b0444c58dc9e6b445f8ee70b5b9d"
     },
     "sources/16_1927_Heisenberg_Physical_Content_Uncertainty_EN/text_german.md": {
-      "bytes": 65527,
-      "sha256": "d611da5577f924991701ea8156134585aa4aafcc549739c19204f7ef018f81bb"
+      "bytes": 4378,
+      "sha256": "0cd2a07ddf8c5d9fdf314ddec175ed9194e819a26c8dff4815cdd4e50de4521e"
     },
     "sources/17_1927_Born_Oppenheimer_Molecular_Quantum_Theory_EN/document-annotation.json": {
       "bytes": 97417,
@@ -6700,8 +6716,8 @@
       "sha256": "83f04f69bfc98ec6482484b5c1d26722d252d17cd5dca1ceb2df5187bfe35f77"
     },
     "summaries/09_1925_Heisenberg_Quantum_Reinterpretation_EN/summary_german.md": {
-      "bytes": 18163,
-      "sha256": "2d8efd21a419e6f3ef5065a4a71a32ff6a796a442c25c0958bdfa387b36bdc00"
+      "bytes": 4322,
+      "sha256": "ca778adfb0316031ab58cdcc8f6fb1ff7d3c1374a12dc3b6bc1f2721ebd53922"
     },
     "summaries/10_1925_Born_Jordan_On_Quantum_Mechanics/summary_english.md": {
       "bytes": 23144,
@@ -6748,16 +6764,16 @@
       "sha256": "d18fc63bfd5f0d3cc949a6941764dfd37a821784a9f8bf661160c9dab49621e9"
     },
     "summaries/15_1926_Born_Collision_Processes_Probability_EN/summary_german.md": {
-      "bytes": 19939,
-      "sha256": "2047bd8b4eb75cf66b3abc47886c6066d17acc253722125fd5b06625e9b9cb58"
+      "bytes": 3932,
+      "sha256": "37281690a22cc7f3e9fb2705e4a2a35f1a3937ea5ab7c15bd681f19097c56d3b"
     },
     "summaries/16_1927_Heisenberg_Physical_Content_Uncertainty_EN/summary_english.md": {
       "bytes": 21271,
       "sha256": "d26ef7d06ce8d8d11f72fc3309a777cadd3fcb9fe8c8f7a22fcf766325f49bc7"
     },
     "summaries/16_1927_Heisenberg_Physical_Content_Uncertainty_EN/summary_german.md": {
-      "bytes": 22062,
-      "sha256": "9a8cbc02e90271a55d82f9248792cde3f16ad6ae012fa30c1b0e48fb21ea722c"
+      "bytes": 4378,
+      "sha256": "0cd2a07ddf8c5d9fdf314ddec175ed9194e819a26c8dff4815cdd4e50de4521e"
     },
     "summaries/17_1927_Born_Oppenheimer_Molecular_Quantum_Theory_EN/summary_english.md": {
       "bytes": 24104,
@@ -6893,11 +6909,19 @@
     },
     "tests/validate_course.py": {
       "bytes": 4945,
-      "sha256": "8a5088f994afeb35d3788b0b7f9f17cdce0556c80e64de9f31e64240e2904554"
+      "sha256": "947fd4b5fb0fa9f5a58315209e5ed8126c106e745fc6bee7a0afc60200297177"
     },
     "tests/validate_models.py": {
       "bytes": 9287,
       "sha256": "ba91c27c825bae895ba2e4a8ad415a4759d3245b6efff0e0d01637c29b66efcb"
+    },
+    "tests/validate_translations.py": {
+      "bytes": 1818,
+      "sha256": "a206de469914bebd452150bd93b942242584ee8e02ed888656e1d1d255aa1ccd"
+    },
+    "tests/validate_v012_features.py": {
+      "bytes": 4022,
+      "sha256": "cae9ca2b4a173baec51a7a24d417cbffaf492c4aea51a739a0b9f1c39fb2c7fb"
     },
     "vendor/MathJax/CONTRIBUTING.md": {
       "bytes": 12550,
@@ -9407,13 +9431,21 @@
       "bytes": 1123,
       "sha256": "f77118f00bc7c07364b9f5a7866d094b9393d6181eb9f916981c8d44c121da0d"
     },
+    "vendor/course-enhancements.js": {
+      "bytes": 14680,
+      "sha256": "99a70bdbdd5697148ee2b5a5c4d2048953eee22b0008d1ab5fbc14781d140e1d"
+    },
     "vendor/course-shell.css": {
-      "bytes": 20359,
-      "sha256": "f6bce3babe72c8d07b7123aae942c0571af4fee10ccb78aea236ec3808bdeb18"
+      "bytes": 30993,
+      "sha256": "beb710f1b67eb81e4c0ce9ab3635dd20b73495d07b8b0938ba6314bbb9c50f14"
     },
     "vendor/course-shell.js": {
-      "bytes": 36737,
-      "sha256": "cd9d9c09a3e668a30768570cc2b5892825af4a642661703cf0ac70ba65367673"
+      "bytes": 39178,
+      "sha256": "8e4d560947fe37732fcd185c64d8ae25d1919fcb43f51fc7776c95d280c62c0e"
+    },
+    "vendor/math-offline.js": {
+      "bytes": 874,
+      "sha256": "08766c74e98fce48c5c3dce46ff29a0cf2991e4e23b7ef6dfbe4586ccb5db670"
     },
     "vendor/plotly-3.3.1.min.js": {
       "bytes": 4838938,

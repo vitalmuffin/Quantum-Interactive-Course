@@ -1,4 +1,4 @@
-# Release Notes v0.10
+# Release Notes v0.11
 
 ## Integration und Navigation
 
