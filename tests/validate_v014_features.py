@@ -34,7 +34,7 @@ need('.qm-stage-frame{left:0!important;width:100%!important}' in css,'embedded m
 need("mobileTrigger=document.createElement('button')" in enh,'mobile stage trigger is not created')
 need("railScrim=document.createElement('button')" in enh,'mobile rail scrim is not created')
 need('setExpanded(innerWidth<=760?false:' in enh,'mobile rail does not start collapsed')
-need('v0.14' in (R/'index.html').read_text(encoding='utf-8'),'course version not updated')
+need(any(v in (R/'index.html').read_text(encoding='utf-8') for v in ('v0.14','v0.15')),'course version not updated')
 need((R/'docs/RELEASE_NOTES_v0.14.md').exists(),'v0.14 release notes missing')
 
 if errors:
