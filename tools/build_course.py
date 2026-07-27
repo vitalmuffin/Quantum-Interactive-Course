@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rebuild generated course artifacts from the canonical v0.16 sources.
+"""Rebuild generated course artifacts from the canonical course sources.
 
 Canonical inputs:
 - data/course.config.json: shell, routes, version, progress, quiz extensions
@@ -142,7 +142,7 @@ def build_manifest(config: dict[str, Any], course_data: dict[str, Any], source_i
         "version": str(config["courseVersion"]),
         "product_name": config.get("title", {}).get("de", "Quantum course"),
         "created_utc": datetime.now(timezone.utc).isoformat(),
-        "status": "architecture-stabilization release candidate",
+        "status": "interaction-correction release candidate",
         "canonical_sources": [
             "data/course.config.json",
             "data/course_data.json",

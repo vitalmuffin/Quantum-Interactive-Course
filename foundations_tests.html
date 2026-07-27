@@ -6,9 +6,9 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <meta content="dark light" name="color-scheme"/>
-<title>Grundlagenstreit und Tests · Quantum – Das Kleinste verstehen</title><script src="vendor/course-config.js?v=0.16"></script><script src="vendor/qm-state.js?v=0.16"></script><script src="vendor/page-api.js?v=0.16"></script><script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"]],processEscapes:true,packages:{"[+]":["ams"]}},svg:{fontCache:"local"},startup:{typeset:true}};</script><script src="vendor/mathjax-tex-svg-full.js?v=0.16"></script><script src="vendor/math-core.js?v=0.16"></script><script src="vendor/math-defensive.js?v=0.16"></script><script src="vendor/math-offline.js?v=0.16"></script>
+<title>Grundlagenstreit und Tests · Quantum – Das Kleinste verstehen</title><script src="vendor/course-config.js?v=0.17"></script><script src="vendor/qm-state.js?v=0.17"></script><script src="vendor/page-api.js?v=0.17"></script><script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"]],processEscapes:true,packages:{"[+]":["ams"]}},svg:{fontCache:"local"},startup:{typeset:true}};</script><script src="vendor/mathjax-tex-svg-full.js?v=0.17"></script><script src="vendor/math-core.js?v=0.17"></script><script src="vendor/math-defensive.js?v=0.17"></script><script src="vendor/math-offline.js?v=0.17"></script>
 <meta content="Bilingual interactive laboratories from EPR to Aspect, contextuality, and decoherence." name="description"/>
-<script src="vendor/plotly-loader.js?v=0.16"></script>
+<script src="vendor/plotly-loader.js?v=0.17"></script>
 <style>
     :root{
       --bg:#06120f;--bg2:#0a1b1a;--panel:#0d211e;--panel2:#102925;
@@ -147,13 +147,13 @@
 .skip-link:focus{transform:translateY(0)}
 :focus-visible{outline:3px solid var(--accent,#36b89a)!important;outline-offset:3px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*::before,*::after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}
-</style><link href="vendor/course-shell.css?v=0.16" rel="stylesheet"/></head>
+</style><link href="vendor/course-shell.css?v=0.17" rel="stylesheet"/></head>
 <body data-course-page="foundations_tests.html"><header aria-label="Course navigation" class="course-shell"></header><a class="skip-link" href="#main-content">Zum Inhalt / Skip to content</a>
 <header class="topbar">
 <div class="shell topbar-inner">
 <a class="brand" href="index.html">
 <span class="mark"></span>
-<span><strong data-de="Quantum – Das Kleinste verstehen" data-en="Quantum — Understanding the Smallest">Quantum – Das Kleinste verstehen</strong><small>v0.16 · 1935–1982</small></span>
+<span><strong data-de="Quantum – Das Kleinste verstehen" data-en="Quantum — Understanding the Smallest">Quantum – Das Kleinste verstehen</strong><small>v0.17 · 1935–1982</small></span>
 </a>
 <nav>
 <a data-de="Systemkarte" data-en="System map" href="index.html">Systemkarte</a>
@@ -170,7 +170,7 @@
 <main id="main-content">
 <section class="hero">
 <div class="shell">
-<span class="eyebrow" data-de="Etappe v0.16 · Grundlagenstreit und Tests" data-en="Stage v0.16 · Foundations and tests">Etappe v0.16 · Grundlagenstreit und Tests</span>
+<span class="eyebrow" data-de="Etappe v0.17 · Grundlagenstreit und Tests" data-en="Stage v0.17 · Foundations and tests">Etappe v0.17 · Grundlagenstreit und Tests</span>
 <h1><span data-de="Von der Frage" data-en="From the question">Von der Frage</span><br/><span class="gradient" data-de="„Ist die Theorie vollständig?“" data-en="“Is the theory complete?”">„Ist die Theorie vollständig?“</span><br/><span data-de="zum messbaren Test." data-en="to a measurable test.">zum messbaren Test.</span></h1>
 <div class="hero-grid">
 <p class="lead" data-de="1935 begann eine präzise Debatte über Realität, Messung und Vollständigkeit. Bell verwandelte einen Teil dieser Debatte 1964 in eine mathematische Schranke. CHSH machte sie experimentell handhabbar. Aspect testete die Korrelationen mit schnell wechselnden Analysatoren. Diese Seite trennt jederzeit: mathematischen Satz, Beobachtung, ausgeschlossene Modellklasse und philosophische Deutung." data-en="In 1935 a precise debate began about reality, measurement, and completeness. Bell turned part of that debate into a mathematical bound in 1964. CHSH made it experimentally practical. Aspect tested the correlations with rapidly changing analyzers. This page always separates mathematical theorem, observation, excluded model class, and philosophical interpretation.">
@@ -324,9 +324,9 @@
 <div class="visual"><canvas aria-label="Interaktive physikalische Visualisierung / interactive physics visualization" class="sim" id="decCanvas" role="img"></canvas><div class="result-grid"><div class="result-card"><small data-de="Interferenzsichtbarkeit" data-en="interference visibility">Interferenzsichtbarkeit</small><b id="decVis">—</b></div><div class="result-card"><small data-de="Welche-Weg-Information" data-en="which-path information">Welche-Weg-Information</small><b id="decWhich">—</b></div><div class="result-card"><small data-de="klassische Erscheinung" data-en="classical appearance">klassische Erscheinung</small><b id="decClass">—</b></div></div><div class="statement" data-de="Dekohärenz erklärt die stabile Auswahl einer bevorzugten, praktisch klassischen Basis und den Verlust beobachtbarer Interferenz. Das konzeptionelle Problem eines einzelnen tatsächlich erlebten Ergebnisses hängt von der Interpretation ab." data-en="Decoherence explains the stable emergence of a preferred, practically classical basis and the loss of observable interference. The conceptual problem of one actually experienced outcome depends on interpretation.">Dekohärenz löst nicht automatisch jede Form des Messproblems.</div></div>
 <div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{\rho_{01}(t)}={\rho_{01}(0)}e^{-{N\Gamma t}}" data-tex-en="{\rho_{01}(t)}={\rho_{01}(0)}e^{-{N\Gamma t}}"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="\rho_{01}(t)" data-tex-en="\rho_{01}(t)"></b><span data-de="Interferenzterm" data-en="interference term">Interferenzterm</span></div><div class="symbol-row"><b class="math" data-tex-de="\rho_{01}(0)" data-tex-en="\rho_{01}(0)"></b><span data-de="anfängliche Kohärenz" data-en="initial coherence">anfängliche Kohärenz</span></div><div class="symbol-row"><b class="math" data-tex-de="N\Gamma t" data-tex-en="N\Gamma t"></b><span data-de="Umweltinformation" data-en="environmental information">Umweltinformation</span></div></div></div><div class="source-inline-card"><div class="source-inline-actions"><a class="evidence-link" data-de="Aufbereitung &amp; Paper" data-en="Preparation &amp; paper" href="evidence_notes.html#decoherence">Aufbereitung &amp; Paper</a></div></div></article>
 </div></section>
-<section class="section"><div class="shell"><div class="next-stage"><span class="eyebrow" data-de="Nächste Etappe" data-en="Next stage">Nächste Etappe</span><h3 data-de="v0.16 · Quanteninformation und Quantenrechnung" data-en="v0.16 · Quantum information and computation">v0.16 · Quanteninformation und Quantenrechnung</h3><p class="intro" data-de="Feynmans Quantensimulation, Qubits, Gatter, No-Cloning, Teleportation, BB84 und Shors Periodensuche werden als zusammenhängendes System aufgebaut." data-en="Feynman's quantum simulation, qubits, gates, no-cloning, teleportation, BB84, and Shor's period finding will be built as one connected system.">Feynmans Quantensimulation, Qubits, Gatter, No-Cloning, Teleportation, BB84 und Shors Periodensuche.</p></div></div></section>
+<section class="section"><div class="shell"><div class="next-stage"><span class="eyebrow" data-de="Nächste Etappe" data-en="Next stage">Nächste Etappe</span><h3 data-de="v0.17 · Quanteninformation und Quantenrechnung" data-en="v0.17 · Quantum information and computation">v0.17 · Quanteninformation und Quantenrechnung</h3><p class="intro" data-de="Feynmans Quantensimulation, Qubits, Gatter, No-Cloning, Teleportation, BB84 und Shors Periodensuche werden als zusammenhängendes System aufgebaut." data-en="Feynman's quantum simulation, qubits, gates, no-cloning, teleportation, BB84, and Shor's period finding will be built as one connected system.">Feynmans Quantensimulation, Qubits, Gatter, No-Cloning, Teleportation, BB84 und Shors Periodensuche.</p></div></div></section>
 </main>
-<footer class="footer"><div class="shell">v0.16 · <span data-de="Grundlagenstreit und Tests · lokale Primärquellen" data-en="Foundations and tests · local primary sources">Grundlagenstreit und Tests · lokale Primärquellen</span></div></footer>
+<footer class="footer"><div class="shell">v0.17 · <span data-de="Grundlagenstreit und Tests · lokale Primärquellen" data-en="Foundations and tests · local primary sources">Grundlagenstreit und Tests · lokale Primärquellen</span></div></footer>
 <script>
 const $=id=>document.getElementById(id);
 const C={accent:'#61e4c2',blue:'#78a9ff',gold:'#f2c46f',pink:'#ff91b0',danger:'#ff858d',violet:'#bd91ff'};
@@ -515,5 +515,5 @@ window.addEventListener('resize',()=>{renderBohm();renderBell();renderAspect();r
 function animate(){renderAspect();requestAnimationFrame(animate)}
 window.addEventListener('load',()=>{renderMath();renderAll();requestAnimationFrame(animate)});
 </script>
-<script src="vendor/recall.js"></script><script src="vendor/progress.js"></script><script src="vendor/course-shell.js?v=0.16"></script><script src="vendor/course-enhancements.js?v=0.16"></script></body>
+<script src="vendor/recall.js"></script><script src="vendor/progress.js"></script><script src="vendor/course-shell.js?v=0.17"></script><script src="vendor/course-enhancements.js?v=0.17"></script></body>
 </html>

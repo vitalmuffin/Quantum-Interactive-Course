@@ -6,9 +6,9 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <meta content="dark light" name="color-scheme"/>
-<title>Quanteninformation und Quantenrechnung · Quantum – Das Kleinste verstehen</title><script src="vendor/course-config.js?v=0.16"></script><script src="vendor/qm-state.js?v=0.16"></script><script src="vendor/page-api.js?v=0.16"></script><script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"]],processEscapes:true,packages:{"[+]":["ams"]}},svg:{fontCache:"local"},startup:{typeset:true}};</script><script src="vendor/mathjax-tex-svg-full.js?v=0.16"></script><script src="vendor/math-core.js?v=0.16"></script><script src="vendor/math-defensive.js?v=0.16"></script><script src="vendor/math-offline.js?v=0.16"></script>
+<title>Quanteninformation und Quantenrechnung · Quantum – Das Kleinste verstehen</title><script src="vendor/course-config.js?v=0.17"></script><script src="vendor/qm-state.js?v=0.17"></script><script src="vendor/page-api.js?v=0.17"></script><script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"]],processEscapes:true,packages:{"[+]":["ams"]}},svg:{fontCache:"local"},startup:{typeset:true}};</script><script src="vendor/mathjax-tex-svg-full.js?v=0.17"></script><script src="vendor/math-core.js?v=0.17"></script><script src="vendor/math-defensive.js?v=0.17"></script><script src="vendor/math-offline.js?v=0.17"></script>
 <meta content="Bilingual interactive course from Feynman's quantum simulation idea to qubits, gates, BB84, teleportation, and Shor's algorithm." name="description"/>
-<script src="vendor/plotly-loader.js?v=0.16"></script>
+<script src="vendor/plotly-loader.js?v=0.17"></script>
 <style>
     :root{
       --bg:#07111f;--bg2:#0a1727;--panel:#0f2032;--panel2:#14283b;
@@ -143,11 +143,11 @@
 .skip-link:focus{transform:translateY(0)}
 :focus-visible{outline:3px solid var(--accent,#36b89a)!important;outline-offset:3px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*::before,*::after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}
-</style><link href="vendor/course-shell.css?v=0.16" rel="stylesheet"/></head>
+</style><link href="vendor/course-shell.css?v=0.17" rel="stylesheet"/></head>
 <body data-course-page="quantum_information.html"><header aria-label="Course navigation" class="course-shell"></header><a class="skip-link" href="#main-content">Zum Inhalt / Skip to content</a>
 <header class="topbar">
 <div class="shell topbar-inner">
-<a class="brand" href="index.html"><span class="mark"></span><span><strong data-de="Quantum – Das Kleinste verstehen" data-en="Quantum — Understanding the Smallest">Quantum – Das Kleinste verstehen</strong><small>v0.16 · 1982–1994</small></span></a>
+<a class="brand" href="index.html"><span class="mark"></span><span><strong data-de="Quantum – Das Kleinste verstehen" data-en="Quantum — Understanding the Smallest">Quantum – Das Kleinste verstehen</strong><small>v0.17 · 1982–1994</small></span></a>
 <nav>
 <a data-de="Systemkarte" data-en="System map" href="index.html">Systemkarte</a>
 <a href="primer.html">Primer</a>
@@ -164,7 +164,7 @@
 <main id="main-content">
 <section class="hero">
 <div class="shell">
-<span class="eyebrow" data-de="Etappe v0.16 · Quanteninformation und Quantenrechnung" data-en="Stage v0.16 · Quantum information and computation">Etappe v0.16 · Quanteninformation und Quantenrechnung</span>
+<span class="eyebrow" data-de="Etappe v0.17 · Quanteninformation und Quantenrechnung" data-en="Stage v0.17 · Quantum information and computation">Etappe v0.17 · Quanteninformation und Quantenrechnung</span>
 <h1><span data-de="Rechnen wird" data-en="Computation becomes">Rechnen wird</span><br/><span class="gradient" data-de="kontrollierte Quanteninterferenz." data-en="controlled quantum interference.">kontrollierte Quanteninterferenz.</span></h1>
 <div class="hero-grid">
 <p class="lead" data-de="Ein Quantencomputer liest nicht alle möglichen Antworten gleichzeitig aus. Er präpariert Amplituden, verändert ihre Phasen, verschränkt Teilsysteme und lässt falsche Wege destruktiv interferieren. Die Messung liefert danach nur ein klassisches Ergebnis. Der Algorithmus muss die Wahrscheinlichkeitsverteilung so formen, dass nützliche Resultate häufig werden." data-en="A quantum computer does not read all possible answers at once. It prepares amplitudes, changes their phases, entangles subsystems, and makes unwanted paths interfere destructively. Measurement then yields only one classical result. The algorithm must shape the probability distribution so useful outcomes become likely.">
@@ -304,9 +304,9 @@
 <div class="visual"><div aria-label="Interaktives Diagramm / interactive plot" class="plot" id="shorPlot" role="img"></div><div class="result-grid"><div class="result-card"><small data-de="wahre Periode r" data-en="true period r">wahre Periode r</small><b id="shR">—</b></div><div class="result-card"><small data-de="Faktorkandidaten" data-en="factor candidates">Faktorkandidaten</small><b id="shFactors">—</b></div><div class="result-card"><small data-de="Erfolgsbedingung" data-en="success condition">Erfolgsbedingung</small><b id="shStatus">—</b></div></div><div class="statement" data-de="Der Quantencomputer gibt nicht direkt die Faktoren aus. Er liefert Messdaten über eine Periode; Kettenbrüche und ggT-Berechnungen erledigen die klassische Nachverarbeitung." data-en="The quantum computer does not directly output the factors. It supplies measurement data about a period; continued fractions and gcd calculations perform the classical postprocessing.">Shor ist ein hybrider Quanten-Klassik-Algorithmus.</div></div>
 <div class="formula-card"><div class="math-scroll"><div class="math" data-tex-de="{f(x)}={a^x\bmod N},\qquad f(x+{r})=f(x)" data-tex-en="{f(x)}={a^x\bmod N},\qquad f(x+{r})=f(x)"></div></div><div class="symbol-list formula-symbols"><div class="symbol-row"><b class="math" data-tex-de="f(x)" data-tex-en="f(x)"></b><span data-de="periodische Funktion" data-en="periodic function">periodische Funktion</span></div><div class="symbol-row"><b class="math" data-tex-de="a^x\bmod N" data-tex-en="a^x\bmod N"></b><span data-de="modulare Potenz" data-en="modular power">modulare Potenz</span></div><div class="symbol-row"><b class="math" data-tex-de="r" data-tex-en="r"></b><span data-de="Periode" data-en="period">Periode</span></div></div></div><div class="source-inline-card"><div class="source-inline-actions"><a class="evidence-link" data-de="Paper-Ausschnitt" data-en="Paper excerpt" href="source_reader.html?paper=32_1994_Shor_Quantum_Factoring&amp;view=excerpt&amp;page=4">Paper-Ausschnitt</a><a class="evidence-link" data-de="Aufbereitung" data-en="Preparation" href="source_reader.html?paper=32_1994_Shor_Quantum_Factoring&amp;view=summary">Aufbereitung</a></div></div></article>
 </div></section>
-<section class="section"><div class="shell"><div class="next-stage"><span class="eyebrow" data-de="Nächste Etappe" data-en="Next stage">Nächste Etappe</span><h3 data-de="v0.16 · Primärquellen, Paper-Ausschnitte und Kursaufbereitungen" data-en="v0.16 · Primary sources, paper excerpts, and course preparations">v0.16 · Primärquellen, Paper-Ausschnitte und Kursaufbereitungen</h3><p class="intro" data-de="Die Quellenetappe verbindet die 32 Primärarbeiten mit formatierten Zusammenfassungen, Seitenkontext, Gleichungen, Abbildungen und den zugehörigen Kursmodellen." data-en="The sources stage connects the 32 primary papers with formatted summaries, page context, equations, figures, and the corresponding course models.">Primärquellen, Seitenkontext und Kursaufbereitung.</p></div></div></section>
+<section class="section"><div class="shell"><div class="next-stage"><span class="eyebrow" data-de="Nächste Etappe" data-en="Next stage">Nächste Etappe</span><h3 data-de="v0.17 · Primärquellen, Paper-Ausschnitte und Kursaufbereitungen" data-en="v0.17 · Primary sources, paper excerpts, and course preparations">v0.17 · Primärquellen, Paper-Ausschnitte und Kursaufbereitungen</h3><p class="intro" data-de="Die Quellenetappe verbindet die 32 Primärarbeiten mit formatierten Zusammenfassungen, Seitenkontext, Gleichungen, Abbildungen und den zugehörigen Kursmodellen." data-en="The sources stage connects the 32 primary papers with formatted summaries, page context, equations, figures, and the corresponding course models.">Primärquellen, Seitenkontext und Kursaufbereitung.</p></div></div></section>
 </main>
-<footer class="footer"><div class="shell">v0.16 · <span data-de="Quanteninformation und Quantenrechnung" data-en="Quantum information and computation">Quanteninformation und Quantenrechnung</span></div></footer>
+<footer class="footer"><div class="shell">v0.17 · <span data-de="Quanteninformation und Quantenrechnung" data-en="Quantum information and computation">Quanteninformation und Quantenrechnung</span></div></footer>
 <script>
 const $=id=>document.getElementById(id);
 const COLORS={accent:'#6ee7ca',blue:'#84a9ff',gold:'#f5c66b',pink:'#ff8db6',danger:'#ff858f',violet:'#be92ff'};
@@ -347,5 +347,5 @@ bind(['fn','fb'],renderFeynman);bind(['qTheta','qPhi'],renderBloch);document.que
 $('deBtn').addEventListener('click',()=>applyLanguage('de'));$('enBtn').addEventListener('click',()=>applyLanguage('en'));$('themeBtn').addEventListener('click',()=>{document.documentElement.dataset.theme=document.documentElement.dataset.theme==='dark'?'light':'dark';renderAll()});window.addEventListener('resize',()=>{renderBloch();renderTeleport()});
 window.addEventListener('load',()=>{refreshBases();renderMath();renderAll()});
 </script>
-<script src="vendor/recall.js"></script><script src="vendor/progress.js"></script><script src="vendor/course-shell.js?v=0.16"></script><script src="vendor/course-enhancements.js?v=0.16"></script></body>
+<script src="vendor/recall.js"></script><script src="vendor/progress.js"></script><script src="vendor/course-shell.js?v=0.17"></script><script src="vendor/course-enhancements.js?v=0.17"></script></body>
 </html>

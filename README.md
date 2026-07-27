@@ -1,6 +1,10 @@
-# Quantum – Das Kleinste verstehen · v0.16
+# Quantum – Das Kleinste verstehen · v0.17
 
 Ein bilingualer, interaktiver Kurs zur Entwicklung der Quantenmechanik. Die primäre Zielgruppe sind STEM-Einsteiger:innen. Kurze Erklärungen, Modelle und Verständnischecks bilden den geführten Weg; Primärquellen und ausführliche Aufbereitungen stehen als direkte Vertiefung daneben.
+
+## Aktueller Stand v0.17
+
+Die Grundlagenvisualisierungen verwenden mathematisch erzeugte Kurven. Die erste Wellenansicht startet pausiert und bleibt bei Frequenzänderungen phasenstetig, Wellenpakete zeigen Komponenten und ihre tatsächliche Summe auf derselben Skala, alle Regler besitzen eine robuste Pointer-Steuerung, und die komplexe Ebene wird zunächst aus Real- und Imaginärteil aufgebaut. Die Drehdarstellung ist als optionale Vertiefung einklappbar.
 
 ## Start
 
@@ -33,7 +37,7 @@ Danach `http://localhost:8000/` öffnen. Der Kurs bleibt mit `file://` kompatibe
 
 Die Seitenleiste wird aus einer gemeinsamen Konfiguration erzeugt. Auf Mobilgeräten liegt sie außerhalb des Inhaltsbereichs und wird über ein kleines Menüsymbol geöffnet. Kurswechsel erfolgen im bestehenden Iframe-Rahmen; es wird keine zweite Shell erzeugt.
 
-## Architektur in v0.16
+## Architektur seit v0.16
 
 ### Eine Quelle der Wahrheit
 

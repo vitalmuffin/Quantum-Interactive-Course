@@ -125,16 +125,43 @@ function setupCarouselArrows(){
   const update=()=>{const max=Math.max(0,track.scrollWidth-track.clientWidth-2);buttons[0].disabled=track.scrollLeft<=2;buttons[1].disabled=track.scrollLeft>=max};
   track.addEventListener('scroll',update,{passive:true});addEventListener('resize',update,{passive:true});requestAnimationFrame(update);setTimeout(update,250);
 }
+
+function sampledPath(fn,{x0=45,x1=685,y0=125,xMin=-2*Math.PI,xMax=2*Math.PI,yScale=80,points=256,maxAbs=Infinity}={}){
+  let d='',drawing=false;
+  for(let index=0;index<=points;index++){
+    const x=xMin+(xMax-xMin)*index/points,value=fn(x);
+    if(!Number.isFinite(value)||Math.abs(value)>maxAbs){drawing=false;continue}
+    const px=x0+(x1-x0)*index/points,py=y0-value*yScale;
+    d+=`${drawing?'L':'M'}${px.toFixed(1)} ${py.toFixed(1)}`;
+    drawing=true;
+  }
+  return d;
+}
+function compactArrowMarker(id){
+  return `<defs><marker id="${id}" markerWidth="5.5" markerHeight="5.5" refX="5.1" refY="2.75" orient="auto"><path d="M0 0L5.5 2.75L0 5.5Z"/></marker></defs>`;
+}
 function visualSvg(id){
   const common='viewBox="0 0 720 250" role="img"';
   const axes='<path class="fv-axis" d="M45 125H685M365 25V225"/><path class="fv-tick" d="M205 120v10M525 120v10"/>';
-  if(id==='wave')return `<svg ${common} aria-label="Sinus, Kosinus und Tangens">${axes}<path class="fv-a" d="M45 125 C85 45 125 45 165 125 S245 205 285 125 S365 45 405 125 S485 205 525 125 S605 45 685 125"/><path class="fv-b" d="M45 45 C85 45 125 125 165 125 S245 45 285 45 S365 125 405 125 S485 45 525 45 S605 125 685 125"/><path class="fv-c" d="M55 215 C95 190 125 160 155 125 C185 90 215 55 245 35 M285 215 C325 190 345 160 365 125 C395 80 425 50 455 35 M505 215 C545 185 575 155 605 110 C630 72 655 45 680 35"/></svg><div class="foundation-legend"><span class="fv-a-dot">sin(x)</span><span class="fv-b-dot">cos(x)</span><span class="fv-c-dot">tan(x)</span></div>`;
-  if(id==='superposition')return `<svg ${common} aria-label="Funktionen und ihre Summe">${axes}<path class="fv-a" d="M45 125 C95 55 145 55 195 125 S295 195 345 125 S445 55 495 125 S595 195 685 125"/><path class="fv-b" d="M45 125 C70 90 95 90 120 125 S170 160 195 125 S245 90 270 125 S320 160 345 125 S395 90 420 125 S470 160 495 125 S545 90 570 125 S620 160 685 125"/><path class="fv-sum" d="M45 125 C90 25 145 35 195 125 S300 225 345 125 S445 25 495 125 S600 225 685 125"/></svg><div class="foundation-legend"><span class="fv-a-dot">f(x)</span><span class="fv-b-dot">g(x)</span><span class="fv-sum-dot">f(x)+g(x)</span></div>`;
+  if(id==='wave'){
+    const sine=sampledPath(Math.sin);
+    const cosine=sampledPath(Math.cos);
+    const tangent=sampledPath(Math.tan,{maxAbs:1.16});
+    const waveAxes='<path class="fv-grid" d="M45 45H685M45 205H685"/><path class="fv-axis" d="M45 125H685M365 25V225"/><text x="14" y="49">+1</text><text x="25" y="129">0</text><text x="14" y="209">−1</text>';
+    return `<svg ${common} aria-label="Sinus, Kosinus und Tangens auf derselben Skala">${waveAxes}<path class="fv-a" d="${sine}"/><path class="fv-b" d="${cosine}"/><path class="fv-c" d="${tangent}"/></svg><div class="foundation-legend"><span class="fv-a-dot">sin(x)</span><span class="fv-b-dot">cos(x)</span><span class="fv-c-dot">tan(x)</span></div>`;
+  }
+  if(id==='superposition'){
+    const f=x=>.65*Math.sin(x);
+    const g=x=>.45*Math.sin(2*x+Math.PI/3);
+    const scale={yScale:62};
+    const first=sampledPath(f,scale),second=sampledPath(g,scale),sum=sampledPath(x=>f(x)+g(x),scale);
+    return `<svg ${common} aria-label="Zwei Funktionen und ihre punktweise Summe">${axes}<path class="fv-a" d="${first}"/><path class="fv-b" d="${second}"/><path class="fv-sum" d="${sum}"/></svg><div class="foundation-legend"><span class="fv-a-dot">f(x)</span><span class="fv-b-dot">g(x)</span><span class="fv-sum-dot">f(x)+g(x)</span></div>`;
+  }
   if(id==='probability')return `<svg ${common} aria-label="Wahrscheinlichkeitsdichte und Fläche"><path class="fv-axis" d="M45 215H685M365 30V225"/><path class="fv-fill" d="M45 215 C160 215 210 200 260 150 C305 105 325 50 365 42 C405 50 425 105 470 150 C520 200 570 215 685 215 Z"/><path class="fv-a" d="M45 215 C160 215 210 200 260 150 C305 105 325 50 365 42 C405 50 425 105 470 150 C520 200 570 215 685 215"/><text x="480" y="85">∫ p(x) dx = 1</text></svg>`;
-  if(id==='complex')return `<svg ${common} aria-label="Komplexe Zahlenebene"><path class="fv-axis" d="M70 125H650M360 25V225"/><circle class="fv-circle" cx="360" cy="125" r="82"/><path class="fv-a" marker-end="url(#fvArrow)" d="M360 125L425 75"/><path class="fv-dash" d="M425 75V125M425 75H360"/><text x="432" y="70">z = r·e^{iθ}</text><text x="430" y="143">Re</text><text x="325" y="45">Im</text><defs><marker id="fvArrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z"/></marker></defs></svg>`;
-  if(id==='basis')return `<svg ${common} aria-label="Vektor und Projektionen"><path class="fv-axis" d="M80 205H660M180 225V30"/><path class="fv-a" marker-end="url(#fvArrow2)" d="M180 205L525 65"/><path class="fv-dash" d="M525 65V205M525 65H180"/><path class="fv-b" d="M180 205H525"/><path class="fv-c" d="M180 205V65"/><text x="535" y="65">|ψ⟩</text><text x="340" y="225">Komponente 1</text><text x="90" y="120">Komponente 2</text><defs><marker id="fvArrow2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z"/></marker></defs></svg>`;
+  if(id==='complex')return `<svg ${common} aria-label="Komplexe Zahl aus Real- und Imaginärteil"><path class="fv-axis" d="M70 125H650M360 25V225"/><circle class="fv-circle" cx="360" cy="125" r="82"/><path class="fv-a" marker-end="url(#fvArrow)" d="M360 125L425 75"/><path class="fv-dash" d="M425 75V125M425 75H360"/><text x="432" y="70">z = a + bi</text><text x="392" y="143">a = Re(z)</text><text x="280" y="75">b = Im(z)</text>${compactArrowMarker("fvArrow")}</svg>`;
+  if(id==='basis')return `<svg ${common} aria-label="Vektor und Projektionen"><path class="fv-axis" d="M80 205H660M180 225V30"/><path class="fv-a" marker-end="url(#fvArrow2)" d="M180 205L525 65"/><path class="fv-dash" d="M525 65V205M525 65H180"/><path class="fv-b" d="M180 205H525"/><path class="fv-c" d="M180 205V65"/><text x="535" y="65">|ψ⟩</text><text x="340" y="225">Komponente 1</text><text x="90" y="120">Komponente 2</text>${compactArrowMarker("fvArrow2")}</svg>`;
   if(id==='calculus')return `<svg ${common} aria-label="Ableitung und Integral"><path class="fv-axis" d="M45 210H685M130 25V225"/><path class="fv-fill" d="M220 210 C270 190 315 150 360 105 C405 60 455 45 510 70 L510 210Z"/><path class="fv-a" d="M45 215 C160 215 220 205 280 170 C340 135 365 90 430 60 C500 28 570 55 685 130"/><path class="fv-b" d="M295 175L490 42"/><circle class="fv-point" cx="390" cy="88" r="6"/><text x="500" y="42">Tangente: f′(x)</text><text x="330" y="195">Fläche: ∫f(x)dx</text></svg>`;
-  if(id==='eigen')return `<svg ${common} aria-label="Operator und Eigenrichtungen"><path class="fv-axis" d="M80 205H660M180 225V30"/><path class="fv-a" marker-end="url(#fvArrow3)" d="M180 205L350 205"/><path class="fv-b" marker-end="url(#fvArrow3)" d="M180 205L180 80"/><path class="fv-sum" marker-end="url(#fvArrow3)" d="M180 205L450 205"/><path class="fv-c" marker-end="url(#fvArrow3)" d="M180 205L180 125"/><path class="fv-dash" marker-end="url(#fvArrow3)" d="M180 205L390 75"/><path class="fv-dash2" marker-end="url(#fvArrow3)" d="M180 205L505 125"/><text x="465" y="225">Eigenrichtung: nur skaliert</text><text x="400" y="70">allgemeiner Vektor: gedreht</text><defs><marker id="fvArrow3" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z"/></marker></defs></svg>`;
+  if(id==='eigen')return `<svg ${common} aria-label="Operator und Eigenrichtungen"><path class="fv-axis" d="M80 205H660M180 225V30"/><path class="fv-a" marker-end="url(#fvArrow3)" d="M180 205L350 205"/><path class="fv-b" marker-end="url(#fvArrow3)" d="M180 205L180 80"/><path class="fv-sum" marker-end="url(#fvArrow3)" d="M180 205L450 205"/><path class="fv-c" marker-end="url(#fvArrow3)" d="M180 205L180 125"/><path class="fv-dash" marker-end="url(#fvArrow3)" d="M180 205L390 75"/><path class="fv-dash2" marker-end="url(#fvArrow3)" d="M180 205L505 125"/><text x="465" y="225">Eigenrichtung: nur skaliert</text><text x="400" y="70">allgemeiner Vektor: gedreht</text>${compactArrowMarker("fvArrow3")}</svg>`;
   return'';
 }
 function setupFoundationVisuals(){

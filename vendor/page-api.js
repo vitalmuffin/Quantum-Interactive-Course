@@ -76,10 +76,79 @@ function notifyLocation(){
   if(parent===window)return;
   post(parent,'location',{url:location.href,stage:stageFromLocation()});
 }
+
+function decimalsForStep(step){
+  const raw=String(step);
+  if(raw.includes('e-'))return Number(raw.split('e-')[1])||0;
+  return (raw.split('.')[1]||'').length;
+}
+function enhanceRange(input){
+  const InputCtor=window.HTMLInputElement;
+  if(!InputCtor||!(input instanceof InputCtor)||input.type!=='range'||input.dataset.qmRangeEnhanced)return;
+  input.dataset.qmRangeEnhanced='1';
+  input.classList.add('qm-range-enhanced');
+  let activePointer=null;
+  const updateFromPointer=event=>{
+    const rect=input.getBoundingClientRect();
+    if(!rect.width)return;
+    const min=Number(input.min||0),max=Number(input.max||100);
+    const stepRaw=input.step&&input.step!=='any'?Number(input.step):null;
+    let ratio=Math.min(1,Math.max(0,(event.clientX-rect.left)/rect.width));
+    if(getComputedStyle(input).direction==='rtl')ratio=1-ratio;
+    let value=min+ratio*(max-min);
+    if(stepRaw&&Number.isFinite(stepRaw)&&stepRaw>0){
+      value=min+Math.round((value-min)/stepRaw)*stepRaw;
+      value=Number(value.toFixed(decimalsForStep(stepRaw)));
+    }
+    value=Math.min(max,Math.max(min,value));
+    if(String(input.value)!==String(value)){
+      input.value=String(value);
+      input.dispatchEvent(new Event('input',{bubbles:true}));
+    }
+  };
+  input.addEventListener('pointerdown',event=>{
+    if(event.button!==0||activePointer!==null)return;
+    activePointer=event.pointerId;
+    input.focus?.({preventScroll:true});
+    input.setPointerCapture?.(event.pointerId);
+    updateFromPointer(event);
+    event.preventDefault();
+  });
+  input.addEventListener('pointermove',event=>{
+    if(event.pointerId!==activePointer)return;
+    updateFromPointer(event);
+    event.preventDefault();
+  });
+  const finish=event=>{
+    if(event.pointerId!==activePointer)return;
+    updateFromPointer(event);
+    input.releasePointerCapture?.(event.pointerId);
+    activePointer=null;
+    input.dispatchEvent(new Event('change',{bubbles:true}));
+    event.preventDefault();
+  };
+  input.addEventListener('pointerup',finish);
+  input.addEventListener('pointercancel',event=>{
+    if(event.pointerId===activePointer){activePointer=null;input.dispatchEvent(new Event('change',{bubbles:true}))}
+  });
+}
+function enhanceRanges(root=document){
+  const InputCtor=window.HTMLInputElement;
+  if(InputCtor&&root instanceof InputCtor)enhanceRange(root);
+  root.querySelectorAll?.('input[type="range"]').forEach(enhanceRange);
+}
+function initializeRangeControls(){
+  enhanceRanges(document);
+  if(typeof MutationObserver==='undefined'||!document.documentElement)return;
+  new MutationObserver(records=>{
+    for(const record of records)for(const node of record.addedNodes)if(node.nodeType===1)enhanceRanges(node);
+  }).observe(document.documentElement,{childList:true,subtree:true});
+}
 function initializeSettings(){
   const settings=window.QMState?.settings||{};
   setLanguage(settings.language==='en'?'en':'de');
   setTheme(settings.theme==='light'?'light':'dark');
 }
-window.QMPage=Object.freeze({CHANNEL,stages,language,register,setLanguage,setTheme,stageFromLocation,stageForCourseLink,cleanUrl,embeddedUrl,targetOrigin,trustedMessage,post,notifyLocation,initializeSettings,fileFromUrl});
+window.QMPage=Object.freeze({CHANNEL,stages,language,register,setLanguage,setTheme,stageFromLocation,stageForCourseLink,cleanUrl,embeddedUrl,targetOrigin,trustedMessage,post,notifyLocation,initializeSettings,enhanceRanges,fileFromUrl});
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',initializeRangeControls,{once:true});else initializeRangeControls();
 })();
