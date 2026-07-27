@@ -1,147 +1,178 @@
-# Quantum – Das Kleinste verstehen · v0.15
+# Quantum – Das Kleinste verstehen · v0.16
 
-Ein bilingualer, interaktiver Onlinekurs zur Entwicklung der Quantenmechanik. Der Kurs verbindet mathematische Grundlagen, Primer, physikalische Vorgeschichte, historische Primärarbeiten, Modellrechnungen, Grundlagenexperimente und Quanteninformation zu einem geführten Lernweg.
+Ein bilingualer, interaktiver Kurs zur Entwicklung der Quantenmechanik. Die primäre Zielgruppe sind STEM-Einsteiger:innen. Kurze Erklärungen, Modelle und Verständnischecks bilden den geführten Weg; Primärquellen und ausführliche Aufbereitungen stehen als direkte Vertiefung daneben.
 
 ## Start
 
-Die Startseite kann direkt geöffnet werden:
+Direkt und offline:
 
 ```bash
 xdg-open index.html
 ```
 
-Die Quellenansicht ist in v0.15 vollständig offline gebündelt und funktioniert ebenfalls beim direkten Öffnen über `file://`.
-
-Optional kann der Kurs über einen lokalen Webserver gestartet werden:
+Über einen lokalen Webserver:
 
 ```bash
-cd 'Quantum Interactive Course'
 ./start_course.sh
 ```
 
-Danach im Browser öffnen:
+Danach `http://localhost:8000/` öffnen. Der Kurs bleibt mit `file://` kompatibel; der lokale Server ist für Entwicklung und Browser-Debugging bequemer.
+
+## Kursstruktur
+
+1. Überblick und historische Systemkarte
+2. Grundlagen und mathematischer Primer
+3. Klassische Grenzen
+4. Energiequanten und Photonen
+5. Materiewellen und Statistik
+6. Operatoren und Wellenmechanik
+7. Wahrscheinlichkeit, Bindung und Felder
+8. Deutung und experimentelle Tests
+9. Quanteninformation
+10. Primärquellen
+
+Die Seitenleiste wird aus einer gemeinsamen Konfiguration erzeugt. Auf Mobilgeräten liegt sie außerhalb des Inhaltsbereichs und wird über ein kleines Menüsymbol geöffnet. Kurswechsel erfolgen im bestehenden Iframe-Rahmen; es wird keine zweite Shell erzeugt.
+
+## Architektur in v0.16
+
+### Eine Quelle der Wahrheit
+
+Manuell gepflegte Kerndaten:
 
 ```text
-http://localhost:8000/
+data/course.config.json   Kursversion, Etappen, Routen, Zustandsschlüssel, Quiz-Erweiterungen
+data/course_data.json     Paper-, Modell- und Abhängigkeitsdaten
+data/source_index.json    Dateien und Metadaten der Quellenansicht
 ```
 
-## Geführter Lernweg
+Generierte Dateien dürfen nicht direkt bearbeitet werden:
 
-1. **Überblick** — Systemkarte, zwei interaktive Einstiegsmodelle und Motivation.
-2. **Grundlagen & Primer** — sieben Konzepte mit Definitionen, Mini-Beispielen, Abbildungen und interaktiven Modellen.
-3. **Klassische Grenzen** — Mechanik, Elektrodynamik, Thermodynamik und die messbaren Krisen vor der Quantenmechanik.
-4. **Energiequanten & Photonen** — Planck, Einstein, Bohr, Strahlungsprozesse und Compton.
-5. **Materiewellen & Statistik** — de Broglie, Bose–Einstein, Fermi–Dirac und Pauli.
-6. **Operatoren & Wellenmechanik** — Matrixmechanik, Schrödinger-Gleichung und harmonischer Oszillator.
-7. **Wahrscheinlichkeit, Bindung & Felder** — Born-Regel, Unschärfe, Molekülbindung, Feldquantisierung und Dirac.
-8. **Deutung & Tests** — EPR, Katze, Bohm, Everett, Bell, CHSH, Kochen–Specker, Aspect und Dekohärenz.
-9. **Quanteninformation** — Qubits, Gatter, Verschränkung, No-Cloning, Teleportation, BB84, Deutsch–Jozsa und Shor.
-10. **Quellen** — 32 Primärarbeiten mit formatierter Aufbereitung, OCR-Seiten, Gleichungen, Abbildungen und PDFs.
+```text
+vendor/course-config.js
+data/course_overview.json
+data/course_overview.bundle.js
+data/course_data.bundle.js
+data/papers_index.json
+manifest.json
+```
 
-Die obere Kursleiste ist bereits im HTML vorhanden und wird nicht erst nachträglich aufgebaut. Dadurch erscheint beim Seitenwechsel kein alter Header. Der DE/EN-Umschalter bleibt als segmentierter Schalter erhalten.
+### Geteiltes Laden
 
-## Mathematik und Primer
+`index.html` enthält die große Paper-Datenbank nicht mehr. Für Karte, Filter und Paperliste wird zunächst nur das kleine Overview-Bundle geladen. Vollständige Zusammenfassungen, Gleichungen und Quelldetails werden erst beim Öffnen eines Papers über `vendor/course-data-loader.js` nachgeladen. Das reduziert Parse-Arbeit und Speicherbedarf beim ersten Seitenaufbau.
 
-`primer.html` enthält sieben Einheiten:
+Plotly wird ebenfalls erst beim ersten Plot-Aufruf aus dem lokalen Bundle geladen.
 
-- Funktionen, Wellen und Wellenpakete;
-- Superposition;
-- Wahrscheinlichkeit, Normierung, Erwartungswert und Varianz;
-- komplexe Zahlen und Phase;
-- Zustände und Messbasen;
-- Ableitung und Integral;
-- Operatoren, Eigenvektoren und Eigenwerte.
+### Gemeinsame Seitenschnittstelle
 
-Jede Einheit enthält kurze Definitionen, anschauliche Erklärungen, Mini-Beispiele und eine passende Abbildung. Vertiefungen können bei Bedarf aufgeklappt werden.
+`vendor/page-api.js` stellt die gemeinsame Schnittstelle für alle Seiten bereit:
 
-Historische Texte verlinken zum passenden Primer. Über den Rückkehrparameter gelangt man anschließend wieder zur ursprünglichen Textstelle. Die Abschlusskarten des Primers führen nun zu den zugehörigen historischen Modellen; der primäre Weiter-Button führt in die Vorgeschichte.
+- Sprache und Theme setzen;
+- aktuelle Etappe aus Route und Anker bestimmen;
+- Kurslinks normalisieren;
+- Parent/Iframe-Nachrichten über den Kanal `qm-course-v1` senden;
+- Nachrichtenquelle und Origin prüfen;
+- seitenabhängige Adapter registrieren.
 
-## Interaktive Modelle
+`vendor/course-enhancements.js` enthält den äußeren Iframe-Rahmen und die Etappenleiste. `vendor/course-shell.js` erzeugt Kopfzeile, Fortschritt, Etappenquiz und Dialoge.
 
-Der historische Kern enthält 15 Modelle. Neu oder grundlegend überarbeitet wurden insbesondere:
+### Fortschritt
 
-- Materiewellen-Doppelspalt mit festem Schirmausschnitt, sodass steigende Masse beziehungsweise steigender Impuls die Fransen sichtbar verkleinert und schließlich unter die Auflösung drückt;
-- Teilchen im Kasten mit `ψ` als Standardansicht und deutlich markierten unendlichen Wänden;
-- harmonischer Oszillator mit Potential, Energieniveaus, Zustandsbreite und Knotenzahl;
-- Unschärferelation als direkter Breitentausch zwischen Orts- und Impulsverteilung;
-- Molekülbindung mit Kernabstoßung für `R → 0`, massenabhängigen Vibrationsabständen und einer zusätzlichen Atomschemadarstellung.
+Der kanonische Local-Storage-Schlüssel lautet:
 
-Formeln stehen unter den Visualisierungen. Formelzeichen werden in separaten Zeilen erklärt; horizontales Scrollen und überladene Underbrace-Beschriftungen wurden entfernt.
+```text
+qm_course_progress_v1
+```
 
-## Fortschritt und Verständnischecks
+Beim ersten Start werden die älteren Formate `quantum_course_progress_v011` und `qm_course_progress_v07` zusammengeführt. Danach wird nur das neue Schema verwendet. Beim Zurücksetzen werden auch die alten Schlüssel entfernt, damit gelöschter Fortschritt nicht erneut importiert wird.
 
-- Der Lesefortschritt wird beim Scrollen automatisch gespeichert.
-- Historische Unteretappen besitzen jeweils einen eigenen lokalen Scrollfortschritt.
-- Nach jedem inhaltlichen Abschnitt steht eine wiederholbare Verständnisfrage.
-- Am Ende einer Etappe öffnet sich einmalig der Etappentest, sofern die Etappe noch nicht abgeschlossen ist.
-- Falsche Antworten werden als Wissenslücken im Fortschritts-Pop-out gespeichert und verlinken zurück zur relevanten Textstelle beziehungsweise Darstellung.
-- Ein Abschnitt gilt erst nach richtiger Antwort als verstanden; Tests können jederzeit wiederholt werden.
+Scrollfortschritt wird nur bei einer relevanten Zunahme gespeichert, nicht bei jedem einzelnen Scroll-Frame.
 
-## Quellenansicht
+### Mathematik
 
-`source_reader.html` verwendet `data/source_offline_bundle.js`. Darin sind der vollständige Quellenindex und 748 lokale Textdateien eingebettet. Es ist kein `fetch()` für Zusammenfassungen, OCR-Seiten oder Übersetzungen erforderlich.
+Die MathJax-SVG-Ausgabe ist lokal gebündelt. Drei Modi stehen bereit:
 
-Verfügbar sind:
+```text
+?math=explicit    nur gezielte Komponentenaufrufe
+?math=hybrid      gezielte Aufrufe plus Beobachtung neu eingefügter Formelbereiche; Standard
+?math=defensive   zusätzliche vollständige Nachprüfung und Wiederholungsversuche
+```
 
-- formatierte Kursaufbereitung;
-- seitenweiser Paper-Ausschnitt;
-- Original-OCR sowie deutsche und englische Fassungen; bei drei englischen Übersetzungen ursprünglich deutscher Arbeiten wird statt einer nicht verlässlichen deutschen Volltextübersetzung transparent eine geprüfte deutsche Aufbereitung angezeigt;
-- Schlüsselgleichungen und OCR-Gleichungen mit Seitenverweis;
-- Bibliografie, DOI und lokale Dateipfade;
-- Abbildungen in einem Pop-over mit Seitenkontext und Bildunterschrift;
-- eingebettetes PDF und direkter PDF-Link als Fallback.
+Die gemeinsame API lautet:
 
-Die vollständige Zusammenfassung ist standardmäßig eingeklappt. Formeln werden lokal durch MathJax gerendert. Dynamische Display-Gleichungen werden nach dem Einfügen erneut erkannt und bei einem zu frühen Renderaufruf automatisch wiederholt.
+```javascript
+await window.QMMath.render(tex, element, { displayMode: true });
+await window.QMMath.renderMarked(rootElement);
+```
 
-## Validierung
+Der defensive Modus bleibt als Vergleichs- und Rückfalloption erhalten, bis der explizite Komponentenweg auf allen Zielbrowsern ausreichend erprobt ist.
+
+## Verständnischecks
+
+Neben Multiple-Choice-Fragen unterstützt der gemeinsame Quiz-Renderer:
+
+- numerische Antworten mit Toleranz;
+- Mehrfachauswahl;
+- Reihenfolgeaufgaben;
+- Vorhersagefragen vor einer Simulation.
+
+Die zusätzlichen Aufgaben werden in `data/course.config.json` gepflegt und automatisch den passenden Etappen zugeordnet.
+
+## Build
+
+Der Build verwendet nur die Python-Standardbibliothek:
 
 ```bash
-python3 tests/validate_course.py
-python3 tests/validate_models.py
-python3 tests/runtime_smoke.py
-python3 tests/validate_translations.py
-python3 tests/validate_v012_features.py
-python3 tests/validate_v013_features.py
-python3 tests/validate_v014_features.py
-python3 tests/validate_v015_features.py
+npm run build
 ```
 
-Ergebnis der Release-Prüfung:
+Der Befehl erzeugt die Runtime-Konfiguration, die beiden Daten-Bundles, den Kompatibilitätsindex und das Manifest neu.
 
-- 0 fehlende lokale Links oder Quellenpfade;
-- 40/40 unabhängige numerische Modellprüfungen bestanden;
-- 4/4 Runtime-Smoke-Tests der Modellseiten bestanden;
-- JavaScript-Syntaxprüfung aller Hauptseiten und Bundles bestanden;
-- 32 Papers und 748 eingebettete Quellentexte im Offline-Bundle bestätigt;
-- alle 64 als deutsch bezeichneten Übersetzungs-/Zusammenfassungsdateien auf längere englische Passagen geprüft;
-- v0.15-Regressionsprüfungen für Navigation, Graph, mobile Quellenansicht, lokale Mathematik und Übersetzungsmetadaten bestanden.
+Prüfen, ob generierte Dateien aktuell sind:
 
-Eine echte pixelbasierte Browserprüfung ließ sich in der Erstellungsumgebung nicht zuverlässig automatisieren. Die statischen, strukturellen, numerischen und simulierten Runtime-Prüfungen sind reproduzierbar in `tests/` enthalten.
+```bash
+npm run build:check
+```
 
-## Wichtige Dateien
+## Tests
 
-- `index.html` — Übersicht, Systemkarte und Einstiegsmodelle
-- `primer.html` — integrierte mathematische Grundlagen und Primer
-- `prehistory.html` — klassische Grenzen und Theorieentwicklung
-- `historical_core.html` — 15 Modelle von 1900 bis 1928
-- `foundations_tests.html` — Deutungen und Tests 1935–1982
-- `quantum_information.html` — Quanteninformation und Algorithmen
-- `source_reader.html` — offlinefähige Primärquellenansicht
-- `data/source_offline_bundle.js` — Quellenindex und 748 Textressourcen
-- `tests/` — reproduzierbare Validierung
+Vollständige Prüfung:
 
+```bash
+npm test
+```
 
-## Ordnerstruktur ab v0.15
+Enthalten sind:
+
+- lokale Links, Anker und Quellenpfade;
+- 40 unabhängige numerische Modellprüfungen;
+- Übersetzungsprüfung der deutschen Quelldateien;
+- Runtime-Smoke-Tests der Modellseiten;
+- Architektur-, Build- und Migrationsinvarianten;
+- statische Barrierefreiheitsprüfung;
+- Regressionstests für die Änderungen aus v0.12–v0.15;
+- echte Chromium-Tests für alle drei Mathematikmodi, Quiztypen und die mobile Off-Canvas-Navigation.
+
+Die Browser-Smoke-Tests verwenden eine injizierte Testseite, weil lokale HTTP- und `file://`-Navigation in manchen Build-Umgebungen durch Chromium-Richtlinien gesperrt sein kann.
+
+## Verzeichnisstruktur
 
 ```text
-Quantum Interactive Course/
-├── assets/       # PDFs und extrahierte Primärquellen-Abbildungen
-├── data/         # Kurs-, Graph- und Offline-Quelldaten
-├── docs/         # Audits, Roadmap, Status und Release Notes
-├── sources/      # vollständige Quellen- und Übersetzungsdateien
-├── summaries/    # deutsche und englische Paper-Zusammenfassungen
-├── tests/        # statische, numerische und Runtime-Prüfungen
-├── vendor/       # lokal gebündelte JavaScript- und MathJax-Abhängigkeiten
-├── index.html    # Einstiegspunkt
-└── start_course.sh
+assets/       Bilder und weitere Kursressourcen
+data/         kanonische Daten und generierte Browser-Bundles
+docs/         Architektur, Audits, Roadmap und Release Notes
+sources/      Primärquellen, OCR-Seiten, PDFs und Extraktionen
+summaries/    deutsche und englische Aufbereitungen
+tests/        statische, numerische, Runtime- und Browserprüfungen
+tools/        reproduzierbarer Build
+vendor/       gemeinsame Runtime, CSS und lokal gebündelte Bibliotheken
 ```
+
+## Nächste inhaltliche Erweiterungen
+
+Die priorisierte, bewusst kurze Paperliste steht in:
+
+```text
+docs/MISSING_PRINCIPLES_AND_PAPERS_v0.16.md
+```
+
+Neue Papers sollten zuerst heruntergeladen, rechtlich geprüft, extrahiert, übersetzt und durch denselben bestehenden Quellenprozess geführt werden. Erst danach werden sie in `data/course_data.json` aufgenommen.

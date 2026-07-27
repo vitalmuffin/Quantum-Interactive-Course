@@ -1,4 +1,19 @@
-# v0.13 — mobile navigation and graph repair
+# Changelog
+
+## v0.16 — architecture stabilization and split loading
+
+- Introduced canonical course configuration and historical data sources.
+- Added a reproducible Python build and drift-check command.
+- Unified progress into `qm_course_progress_v1` with migration and safe reset.
+- Simplified and validated the persistent iframe protocol.
+- Split the initial map dataset from lazily loaded paper details.
+- Added lazy Plotly loading and modular shared CSS.
+- Added explicit, hybrid, and defensive MathJax modes.
+- Added numeric, multi-select, ordering, and prediction quiz types.
+- Added Chromium, architecture, accessibility, migration, and regression tests.
+- Added a short prioritized list of missing principles and primary papers.
+
+## v0.13 — mobile navigation and graph repair
 
 - corrected the stretched spacing of the persistent stage rail;
 - removed the redundant stage button from the top bar;
@@ -9,7 +24,6 @@
 - moved release documentation and audits into `docs/`;
 - packaged the project below the top-level folder `Quantum Interactive Course/`.
 
-# Changelog
 
 ## v0.12 — Persistent stage rail, mobile mathematics, graph and translation repair
 

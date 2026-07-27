@@ -5,8 +5,8 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta content="Interaktiver mathematischer und begrifflicher Primer für den Kurs zur Geschichte der Quantenmechanik." name="description"/>
-<title>Quanten-Primer v0.15 · Intuition vor Formalismus</title><script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"]],processEscapes:true,packages:{"[+]":["ams"]}},svg:{fontCache:"local"},startup:{typeset:true}};</script><script src="vendor/mathjax-tex-svg-full.js?v=0.15"></script><script src="vendor/math-offline.js?v=0.15"></script>
-<script charset="utf-8" defer="" src="vendor/plotly-3.3.1.min.js"></script>
+<title>Quanten-Primer v0.16 · Intuition vor Formalismus</title><script src="vendor/course-config.js?v=0.16"></script><script src="vendor/qm-state.js?v=0.16"></script><script src="vendor/page-api.js?v=0.16"></script><script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"]],processEscapes:true,packages:{"[+]":["ams"]}},svg:{fontCache:"local"},startup:{typeset:true}};</script><script src="vendor/mathjax-tex-svg-full.js?v=0.16"></script><script src="vendor/math-core.js?v=0.16"></script><script src="vendor/math-defensive.js?v=0.16"></script><script src="vendor/math-offline.js?v=0.16"></script>
+<script src="vendor/plotly-loader.js?v=0.16"></script>
 <style>
     :root{
       color-scheme:dark;
@@ -101,11 +101,11 @@
 .skip-link:focus{transform:translateY(0)}
 :focus-visible{outline:3px solid var(--accent,#36b89a)!important;outline-offset:3px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*::before,*::after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}
-</style><link href="vendor/course-shell.css" rel="stylesheet"/></head>
-<body data-course-page="primer.html"><header class="course-shell course-shell-static"><div class="course-shell-inner"><a class="course-brand" href="index.html"><span class="course-brand-mark"></span><span data-brand="">Quantum<small>Das Kleinste verstehen · v0.15</small></span></a><nav aria-label="Geführte Kursreise" class="course-journey"><a class="" href="index.html"><span class="course-step-no">1</span><span>Überblick</span></a><a class="active" href="primer.html"><span class="course-step-no">2</span><span>Grundlagen &amp; Primer</span></a><a class="" href="prehistory.html"><span class="course-step-no">3</span><span>Klassische Grenzen</span></a><a class="" href="historical_core.html#planck"><span class="course-step-no">4</span><span>Energiequanten &amp; Photonen</span></a><a class="" href="historical_core.html#matterwave"><span class="course-step-no">5</span><span>Materiewellen &amp; Statistik</span></a><a class="" href="historical_core.html#matrix"><span class="course-step-no">6</span><span>Operatoren &amp; Wellenmechanik</span></a><a class="" href="historical_core.html#born"><span class="course-step-no">7</span><span>Wahrscheinlichkeit, Bindung &amp; Felder</span></a><a class="" href="foundations_tests.html"><span class="course-step-no">8</span><span>Deutung &amp; Tests</span></a><a class="" href="quantum_information.html"><span class="course-step-no">9</span><span>Quanteninformation</span></a><a class="" href="source_reader.html"><span class="course-step-no">10</span><span>Quellen</span></a></nav><div class="course-tools"><button class="course-tool labelled" data-role="progress">Fortschritt</button><div class="course-lang-seg"><button class="active" data-lang="de">DE</button><button data-lang="en">EN</button></div><button aria-label="Farbschema" class="course-tool" data-role="theme">◐</button></div></div><div class="qm-stage-progress"><i></i></div></header><a class="skip-link" href="#main-content">Zum Inhalt / Skip to content</a>
+</style><link href="vendor/course-shell.css?v=0.16" rel="stylesheet"/></head>
+<body data-course-page="primer.html"><header aria-label="Course navigation" class="course-shell"></header><a class="skip-link" href="#main-content">Zum Inhalt / Skip to content</a>
 <header class="topbar">
 <div class="shell topbar-inner">
-<a class="brand" href="index.html"><span class="mark"></span><span><b data-de="Quantum – Das Kleinste verstehen" data-en="Quantum — Understanding the Smallest">Quantum – Das Kleinste verstehen</b><small>v0.15 · Interaktiver Primer</small></span></a>
+<a class="brand" href="index.html"><span class="mark"></span><span><b data-de="Quantum – Das Kleinste verstehen" data-en="Quantum — Understanding the Smallest">Quantum – Das Kleinste verstehen</b><small>v0.16 · Interaktiver Primer</small></span></a>
 <nav class="topnav"><a data-de="Mathe-Basics" data-en="Math basics" href="math_foundations.html">Mathe-Basics</a>
 <a data-de="Timeline" data-en="Timeline" href="index.html">Timeline</a>
 <a class="hide-mobile" data-de="Grundlagen" data-en="Foundations" href="#wave">Grundlagen</a>
@@ -117,7 +117,7 @@
 <main id="main-content">
 <section class="hero">
 <div class="shell">
-<span class="eyebrow" data-de="Etappe v0.15 · Intuition vor Fachsprache" data-en="Stage v0.15 · Intuition before jargon">Etappe v0.15 · Intuition vor Fachsprache</span>
+<span class="eyebrow" data-de="Etappe v0.16 · Intuition vor Fachsprache" data-en="Stage v0.16 · Intuition before jargon">Etappe v0.16 · Intuition vor Fachsprache</span>
 <h1><span data-de="Erst sehen." data-en="See it first.">Erst sehen.</span><br/><span class="gradient" data-de="Dann rechnen." data-en="Then calculate.">Dann rechnen.</span></h1>
 <div class="hero-grid">
 <div>
@@ -220,7 +220,7 @@
 </div><a class="btn primary primer-forward" data-de="Weiter zur Vorgeschichte: Warum die klassische Physik an Grenzen geriet →" data-en="Continue to prehistory: why classical physics reached its limits →" href="prehistory.html">Weiter zur Vorgeschichte: Warum die klassische Physik an Grenzen geriet →</a>
 </div></section>
 </main>
-<footer><div class="shell"><span data-de="v0.15 · Interaktiver Primer · Wahrscheinlichkeits- und Analysis-Labore geprüft." data-en="v0.15 · Interactive primer · probability and calculus labs audited.">v0.15 · Interaktiver Primer · Wahrscheinlichkeits- und Analysis-Labore geprüft.</span></div></footer>
+<footer><div class="shell"><span data-de="v0.16 · Interaktiver Primer · Wahrscheinlichkeits- und Analysis-Labore geprüft." data-en="v0.16 · Interactive primer · probability and calculus labs audited.">v0.16 · Interaktiver Primer · Wahrscheinlichkeits- und Analysis-Labore geprüft.</span></div></footer>
 <script>
 (()=>{
   "use strict";
@@ -298,5 +298,5 @@
   if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
 })();
 </script>
-<script src="vendor/progress.js"></script><script defer="True" src="vendor/course-shell.js"></script><script defer="" src="vendor/course-enhancements.js"></script></body>
+<script src="vendor/progress.js"></script><script src="vendor/course-shell.js?v=0.16"></script><script src="vendor/course-enhancements.js?v=0.16"></script></body>
 </html>

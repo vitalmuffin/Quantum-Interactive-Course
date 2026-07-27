@@ -1,0 +1,19 @@
+{
+  "name": "quantum-interactive-course",
+  "version": "0.16.0",
+  "private": true,
+  "description": "Build and validation commands for the offline-first interactive quantum mechanics course.",
+  "scripts": {
+    "build": "python3 tools/build_course.py",
+    "build:check": "python3 tools/build_course.py --check",
+    "test:models": "python3 tests/validate_models.py",
+    "test:translations": "python3 tests/validate_translations.py",
+    "test:runtime": "python3 tests/runtime_smoke.py",
+    "test:architecture": "python3 tests/validate_v016_architecture.py",
+    "test:browser": "python3 tests/browser_smoke_v016.py",
+    "test:static": "python3 tests/validate_course.py && npm run test:models && npm run test:translations && npm run test:runtime && npm run test:architecture && npm run test:accessibility && npm run test:regressions",
+    "test": "npm run build:check && npm run test:static && npm run test:browser",
+    "test:regressions": "python3 tests/validate_v012_features.py && python3 tests/validate_v013_features.py && python3 tests/validate_v014_features.py && python3 tests/validate_v015_features.py",
+    "test:accessibility": "python3 tests/validate_accessibility.py"
+  }
+}

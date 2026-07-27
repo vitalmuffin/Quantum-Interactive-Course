@@ -1,40 +1,15 @@
 (()=>{
 'use strict';
-const STAGES=[
- {id:'intro',url:'index.html',de:'Überblick',en:'Overview'},
- {id:'primer',url:'primer.html',de:'Grundlagen & Primer',en:'Foundations & primer'},
- {id:'prehistory',url:'prehistory.html',de:'Klassische Grenzen',en:'Classical limits'},
- {id:'photons',url:'historical_core.html#planck',de:'Energiequanten & Photonen',en:'Energy quanta & photons'},
- {id:'matter',url:'historical_core.html#matterwave',de:'Materiewellen & Statistik',en:'Matter waves & statistics'},
- {id:'formalism',url:'historical_core.html#matrix',de:'Operatoren & Wellenmechanik',en:'Operators & wave mechanics'},
- {id:'applications',url:'historical_core.html#born',de:'Wahrscheinlichkeit, Bindung & Felder',en:'Probability, bonding & fields'},
- {id:'tests',url:'foundations_tests.html',de:'Deutung & Tests',en:'Interpretations & tests'},
- {id:'info',url:'quantum_information.html',de:'Quanteninformation',en:'Quantum information'},
- {id:'sources',url:'source_reader.html',de:'Quellen',en:'Sources'}
-];
-const $=(s,r=document)=>r.querySelector(s);
-const $$=(s,r=document)=>[...r.querySelectorAll(s)];
-const lang=()=>document.documentElement.lang?.startsWith('en')?'en':'de';
-const file=()=>location.pathname.split('/').pop()||'index.html';
+const CONFIG=window.QM_COURSE_CONFIG||{};
+const STAGES=CONFIG.stages||[];
+const API=window.QMPage;
+const $=(selector,root=document)=>root.querySelector(selector);
+const $$=(selector,root=document)=>[...root.querySelectorAll(selector)];
+const lang=()=>API?.language?.()||(document.documentElement.lang?.startsWith('en')?'en':'de');
+const file=()=>API?.fileFromUrl?.(location.href)||(location.pathname.split('/').pop()||'index.html');
 const isEmbedded=()=>new URLSearchParams(location.search).get('embedded')==='1';
-let rail,frame,currentId,mobileTrigger,railScrim;
-
-function stageFromLocation(path=file(),hash=location.hash){
-  if(path==='index.html')return'intro';
-  if(path==='primer.html'||path==='math_foundations.html')return'primer';
-  if(path==='prehistory.html')return'prehistory';
-  if(path==='historical_core.html'){
-    const h=String(hash||'').replace(/^#/,'');
-    if(['matterwave','statistics'].includes(h))return'matter';
-    if(['matrix','schrodinger','oscillator'].includes(h))return'formalism';
-    if(['born','uncertainty','molecule','field','dirac'].includes(h))return'applications';
-    return'photons';
-  }
-  if(path==='foundations_tests.html')return'tests';
-  if(path==='quantum_information.html')return'info';
-  if(path==='source_reader.html')return'sources';
-  return'intro';
-}
+let rail=null,frame=null,currentId=null,mobileTrigger=null,railScrim=null;
+function stageFromLocation(path=file(),hash=location.hash){return API?.stageFromLocation?.(path,hash)||'intro'}
 function stageFromScroll(){
   if(file()!=='historical_core.html')return stageFromLocation();
   const y=scrollY+innerHeight*.35;
@@ -44,100 +19,106 @@ function stageFromScroll(){
   if(matter&&y>=matter.offsetTop)return'matter';
   return'photons';
 }
-function cleanUrl(raw){
-  const u=new URL(raw,location.href);u.searchParams.delete('embedded');return u.pathname.split('/').pop()+(u.search?u.search:'')+(u.hash||'');
-}
-function embeddedUrl(raw){
-  const u=new URL(raw,location.href);u.searchParams.set('embedded','1');return u.pathname.split('/').pop()+u.search+(u.hash||'');
-}
-function stageForCourseLink(raw){
-  let u;try{u=new URL(raw,location.href)}catch(_){return null}
-  if(u.origin!==location.origin)return null;
-  const path=u.pathname.split('/').pop()||'index.html';
-  if(path==='index.html'&&u.hash&&!['','#top'].includes(u.hash))return null;
-  if(!['index.html','primer.html','math_foundations.html','prehistory.html','historical_core.html','foundations_tests.html','quantum_information.html','source_reader.html'].includes(path))return null;
-  return stageFromLocation(path,u.hash);
-}
-function routeCourseLink(raw,stageId=stageForCourseLink(raw)){
-  if(!stageId)return false;
-  showFrame(cleanUrl(raw),stageId);return true;
-}
+const cleanUrl=raw=>API?.cleanUrl?.(raw)||raw;
+const embeddedUrl=raw=>API?.embeddedUrl?.(raw)||raw;
+const stageForCourseLink=raw=>API?.stageForCourseLink?.(raw)||null;
+function routeCourseLink(raw,stageId=stageForCourseLink(raw)){if(!stageId)return false;showFrame(cleanUrl(raw),stageId);return true}
 function setupCourseLinkRouting(){
-  document.addEventListener('click',e=>{
-    if(e.defaultPrevented||e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
-    const a=e.target.closest?.('a[href]');if(!a||a.target==='_blank'||a.hasAttribute('download'))return;
-    const id=stageForCourseLink(a.href);if(!id)return;
-    e.preventDefault();routeCourseLink(a.href,id);
+  document.addEventListener('click',event=>{
+    if(event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+    const anchor=event.target.closest?.('a[href]');if(!anchor||anchor.target==='_blank'||anchor.hasAttribute('download'))return;
+    const stageId=stageForCourseLink(anchor.href);if(!stageId)return;
+    event.preventDefault();routeCourseLink(anchor.href,stageId);
     if(innerWidth<760)setExpanded(false);
   });
 }
 function updateRail(id=stageFromScroll()){
-  currentId=id; if(!rail)return;
-  $$('.qm-stage-link',rail).forEach((a,i)=>{
-    const active=STAGES[i].id===id;a.classList.toggle('active',active);a.setAttribute('aria-current',active?'step':'false');
-    const status=$('.qm-stage-state',a);if(status)status.textContent=active?'●':i<STAGES.findIndex(s=>s.id===id)?'✓':'○';
+  currentId=id;if(!rail)return;
+  const currentIndex=STAGES.findIndex(stage=>stage.id===id);
+  $$('.qm-stage-link',rail).forEach((anchor,index)=>{
+    const active=STAGES[index]?.id===id;
+    anchor.classList.toggle('active',active);
+    if(active)anchor.setAttribute('aria-current','step');else anchor.removeAttribute('aria-current');
+    const status=$('.qm-stage-state',anchor);if(status)status.textContent=active?'●':index<currentIndex?'✓':'○';
   });
-  const label=$('.qm-stage-current',rail),s=STAGES.find(x=>x.id===id);if(label&&s)label.textContent=s[lang()];
+  const label=$('.qm-stage-current',rail),stage=STAGES.find(item=>item.id===id);
+  if(label&&stage)label.textContent=stage[lang()];
 }
 function setExpanded(open){
   const mobile=matchMedia('(max-width:760px)').matches;
   document.body.classList.toggle('qm-rail-expanded',open);rail?.classList.toggle('expanded',open);
-  if(!mobile)localStorage.setItem('qm_stage_rail_expanded',open?'1':'0');
-  const b=$('.qm-stage-toggle',rail);if(b){b.setAttribute('aria-expanded',String(open));b.title=open?(lang()==='de'?'Etappen einklappen':'Collapse stages'):(lang()==='de'?'Etappen ausklappen':'Expand stages')}
+  if(!mobile)window.QMState?.setRailExpanded?.(open);
+  const button=$('.qm-stage-toggle',rail);
+  if(button){button.setAttribute('aria-expanded',String(open));button.title=open?(lang()==='de'?'Etappen einklappen':'Collapse stages'):(lang()==='de'?'Etappen ausklappen':'Expand stages')}
   if(mobileTrigger){mobileTrigger.setAttribute('aria-expanded',String(open));mobileTrigger.setAttribute('aria-label',lang()==='de'?(open?'Etappen schließen':'Etappen öffnen'):(open?'Close stages':'Open stages'))}
   railScrim?.classList.toggle('open',mobile&&open);
 }
-function showFrame(url,stageId){
-  currentId=stageId;updateRail(stageId);
-  const target=embeddedUrl(url);
+function sendShellState(){
+  if(!frame?.contentWindow)return;
+  API?.post?.(frame.contentWindow,'shell-state',{language:lang(),theme:document.documentElement.dataset.theme||'dark'});
+}
+function ensureFrame(){
+  if(frame?.isConnected)return frame;
+  frame=document.querySelector('.qm-stage-frame');
   if(!frame){
-    frame=document.createElement('iframe');frame.className='qm-stage-frame';frame.name='qm-stage-frame';frame.title=lang()==='de'?'Kursinhalt':'Course content';document.body.appendChild(frame);
-    document.body.classList.add('qm-stage-frame-active');
+    frame=document.createElement('iframe');frame.className='qm-stage-frame';frame.name='qm-stage-frame';frame.title=lang()==='de'?'Kursinhalt':'Course content';
+    document.body.appendChild(frame);
+  }
+  document.body.classList.add('qm-stage-frame-active');
+  if(!frame.dataset.qmBound){
+    frame.dataset.qmBound='1';
     frame.addEventListener('load',()=>{
       try{
-        const w=frame.contentWindow,loc=w.location;
-        const id=stageFromLocation(loc.pathname.split('/').pop(),loc.hash);updateRail(id);
-        history.replaceState({qmFrame:true},'',cleanUrl(loc.href));
-        w.postMessage({type:'qm-shell-state',lang:lang(),theme:document.documentElement.dataset.theme||'dark'},'*');
-      }catch(_){/* same-origin is expected on the static course */}
+        const locationInFrame=frame.contentWindow.location;
+        updateRail(stageFromLocation(API.fileFromUrl(locationInFrame.href),locationInFrame.hash));
+        history.replaceState({qmFrame:true},'',cleanUrl(locationInFrame.href));
+        sendShellState();
+      }catch(error){console.warn('Could not synchronize embedded course page:',error)}
     });
   }
-  try{
-    const u=new URL(target,location.href),cw=frame.contentWindow;
-    if(frame.src&&cw&&cw.location.pathname.endsWith(u.pathname.split('/').pop())&&cw.location.search===u.search){cw.location.hash=u.hash;updateRail(stageId);history.pushState({qmFrame:true},'',cleanUrl(url));setTimeout(()=>updateRail(stageId),60);return;}
-  }catch(_){/* initial frame navigation */}
-  frame.src=target;history.pushState({qmFrame:true},'',cleanUrl(url));
+  return frame;
 }
-function navigateStage(e,s){
-  const target=new URL(s.url,location.href),targetFile=target.pathname.split('/').pop();
+function showFrame(url,stageId){
+  currentId=stageId;updateRail(stageId);
+  const target=embeddedUrl(url),courseFrame=ensureFrame();
+  try{
+    const wanted=new URL(target,location.href),inside=courseFrame.contentWindow?.location;
+    const same=inside&&API.fileFromUrl(inside.href)===API.fileFromUrl(wanted.href)&&inside.search===wanted.search;
+    if(same){inside.hash=wanted.hash;history.pushState({qmFrame:true},'',cleanUrl(url));setTimeout(()=>updateRail(stageId),50);return}
+  }catch(_){/* first navigation or inaccessible transitional document */}
+  courseFrame.src=target;history.pushState({qmFrame:true},'',cleanUrl(url));
+}
+function navigateStage(event,stage){
+  event.preventDefault();
+  const target=new URL(stage.url,location.href),targetFile=API.fileFromUrl(target.href);
   if(!frame&&targetFile===file()){
-    e.preventDefault();currentId=s.id;updateRail(s.id);
-    const id=target.hash.slice(1);if(id)document.getElementById(id)?.scrollIntoView({behavior:'smooth',block:'start'});else scrollTo({top:0,behavior:'smooth'});
-    history.pushState(null,'',s.url);return;
-  }
-  e.preventDefault();showFrame(s.url,s.id);
+    currentId=stage.id;updateRail(stage.id);
+    const anchor=target.hash.slice(1);if(anchor)document.getElementById(anchor)?.scrollIntoView({behavior:'smooth',block:'start'});else scrollTo({top:0,behavior:'smooth'});
+    history.pushState(null,'',stage.url);
+  }else showFrame(stage.url,stage.id);
   if(innerWidth<760)setExpanded(false);
 }
 function buildRail(){
-  rail=document.createElement('aside');rail.className='qm-stage-rail';rail.setAttribute('aria-label',lang()==='de'?'Kurs-Etappen':'Course stages');
-  rail.innerHTML=`<button class="qm-stage-toggle" type="button" aria-expanded="false"><span class="qm-toggle-icon">☰</span><span class="qm-toggle-label">${lang()==='de'?'Etappen':'Stages'}</span></button><div class="qm-stage-current"></div><nav>${STAGES.map((s,i)=>`<a class="qm-stage-link" href="${s.url}" data-stage="${s.id}"><span class="qm-stage-number">${i+1}</span><span class="qm-stage-name">${s[lang()]}</span><span class="qm-stage-state">○</span></a>`).join('')}</nav><button class="qm-rail-progress" type="button"><span>◔</span><span>${lang()==='de'?'Fortschritt':'Progress'}</span></button>`;
-  mobileTrigger=document.createElement('button');mobileTrigger.className='qm-stage-mobile-trigger';mobileTrigger.type='button';mobileTrigger.innerHTML='<span aria-hidden="true">☰</span>';mobileTrigger.setAttribute('aria-controls','qmStageRail');
-  rail.id='qmStageRail';
-  railScrim=document.createElement('button');railScrim.className='qm-stage-scrim';railScrim.type='button';railScrim.tabIndex=-1;
+  document.querySelectorAll('.qm-stage-rail,.qm-stage-mobile-trigger,.qm-stage-scrim').forEach(node=>node.remove());
+  rail=document.createElement('aside');rail.id='qmStageRail';rail.className='qm-stage-rail';rail.setAttribute('aria-label',lang()==='de'?'Kurs-Etappen':'Course stages');
+  rail.innerHTML=`<button class="qm-stage-toggle" type="button" aria-expanded="false"><span class="qm-toggle-icon" aria-hidden="true">☰</span><span class="qm-toggle-label">${lang()==='de'?'Etappen':'Stages'}</span></button><div class="qm-stage-current"></div><nav>${STAGES.map((stage,index)=>`<a class="qm-stage-link" href="${stage.url}" data-stage="${stage.id}"><span class="qm-stage-number">${index+1}</span><span class="qm-stage-name">${stage[lang()]}</span><span class="qm-stage-state" aria-hidden="true">○</span></a>`).join('')}</nav><button class="qm-rail-progress" type="button"><span aria-hidden="true">◔</span><span>${lang()==='de'?'Fortschritt':'Progress'}</span></button>`;
+  mobileTrigger=document.createElement('button');mobileTrigger.className='qm-stage-mobile-trigger';mobileTrigger.type='button';mobileTrigger.innerHTML='<span aria-hidden="true">☰</span>';mobileTrigger.setAttribute('aria-controls',rail.id);
+  railScrim=document.createElement('button');railScrim.className='qm-stage-scrim';railScrim.type='button';railScrim.tabIndex=-1;railScrim.setAttribute('aria-label',lang()==='de'?'Etappen schließen':'Close stages');
   document.body.append(railScrim,rail,mobileTrigger);
   $('.qm-stage-toggle',rail).onclick=()=>setExpanded(!document.body.classList.contains('qm-rail-expanded'));
   mobileTrigger.onclick=()=>setExpanded(true);railScrim.onclick=()=>setExpanded(false);
-  $$('.qm-stage-link',rail).forEach((a,i)=>a.onclick=e=>navigateStage(e,STAGES[i]));
+  $$('.qm-stage-link',rail).forEach((anchor,index)=>anchor.onclick=event=>navigateStage(event,STAGES[index]));
   $('.qm-rail-progress',rail).onclick=()=>window.QMCourseShell?.openProgress?.();
-  const saved=localStorage.getItem('qm_stage_rail_expanded');setExpanded(innerWidth<=760?false:(saved===null?innerWidth>=1280:saved==='1'));updateRail();
+  const saved=Boolean(window.QMState?.settings?.railExpanded);setExpanded(innerWidth<=760?false:(innerWidth>=1280?saved:true));updateRail();
   addEventListener('resize',()=>{if(innerWidth<=760&&document.body.classList.contains('qm-rail-expanded'))setExpanded(false)},{passive:true});
 }
 function refreshRailLanguage(){
-  if(!rail)return;$('.qm-toggle-label',rail).textContent=lang()==='de'?'Etappen':'Stages';
-  $$('.qm-stage-name',rail).forEach((n,i)=>n.textContent=STAGES[i][lang()]);
+  if(!rail)return;
+  $('.qm-toggle-label',rail).textContent=lang()==='de'?'Etappen':'Stages';
+  $$('.qm-stage-name',rail).forEach((node,index)=>node.textContent=STAGES[index][lang()]);
   $('.qm-rail-progress span:last-child',rail).textContent=lang()==='de'?'Fortschritt':'Progress';
-  if(mobileTrigger)mobileTrigger.setAttribute('aria-label',lang()==='de'?'Etappen öffnen':'Open stages');
-  updateRail(currentId||stageFromScroll());
+  rail.setAttribute('aria-label',lang()==='de'?'Kurs-Etappen':'Course stages');
+  updateRail(currentId||stageFromScroll());sendShellState();
 }
 function setupCarouselArrows(){
   const wrap=$('.rail-carousel'),track=wrap?.querySelector('.rail'),buttons=wrap?$$('.rail-arrow',wrap):[];if(!track||buttons.length<2)return;
@@ -163,27 +144,43 @@ function setupFoundationVisuals(){
     const box=document.createElement('figure');box.className='foundation-visual';box.innerHTML=visualSvg(id);const grid=foundation.querySelector('.foundation-grid');foundation.insertBefore(box,grid||null);
   });
 }
+
 function setupEmbeddedBridge(){
   document.documentElement.classList.add('qm-embedded');
-  const notify=()=>parent.postMessage({type:'qm-embedded-location',url:location.href,stage:stageFromScroll()},'*');
-  addEventListener('hashchange',notify);addEventListener('load',notify);let tick=false;addEventListener('scroll',()=>{if(!tick){requestAnimationFrame(()=>{notify();tick=false});tick=true}},{passive:true});
-  document.addEventListener('click',e=>{
-    if(e.defaultPrevented||e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
-    const a=e.target.closest?.('a[href]');if(!a||a.target==='_blank'||a.hasAttribute('download'))return;
-    const stage=stageForCourseLink(a.href);if(!stage)return;
-    e.preventDefault();parent.postMessage({type:'qm-embedded-navigate',url:cleanUrl(a.href),stage},'*');
+  const notify=()=>API?.post?.(parent,'location',{url:location.href,stage:stageFromScroll()});
+  addEventListener('hashchange',notify);addEventListener('load',notify);
+  let ticking=false;addEventListener('scroll',()=>{if(!ticking){requestAnimationFrame(()=>{notify();ticking=false});ticking=true}},{passive:true});
+  document.addEventListener('click',event=>{
+    if(event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+    const anchor=event.target.closest?.('a[href]');if(!anchor||anchor.target==='_blank'||anchor.hasAttribute('download'))return;
+    const stageId=stageForCourseLink(anchor.href);if(!stageId)return;
+    event.preventDefault();API?.post?.(parent,'navigate',{url:cleanUrl(anchor.href),stage:stageId});
   });
-  addEventListener('message',e=>{const d=e.data||{};if(d.type!=='qm-shell-state')return;if(d.lang){localStorage.setItem('qm_language',d.lang);const b=$(d.lang==='de'?'#langDE,#deBtn':'#langEN,#enBtn');b?.click()}if(d.theme&&document.documentElement.dataset.theme!==d.theme){const b=$('#themeToggle,#themeBtn,#theme');b?.click()}});
+  addEventListener('message',event=>{
+    if(!API?.trustedMessage?.(event,parent))return;
+    const message=event.data||{};if(message.channel!==API.CHANNEL||message.type!=='shell-state')return;
+    if(message.language)API.setLanguage(message.language);
+    if(message.theme)API.setTheme(message.theme);
+  });
+  notify();
 }
 function init(){
   if(isEmbedded()){setupFoundationVisuals();setupCarouselArrows();setupEmbeddedBridge();return}
   buildRail();setupCourseLinkRouting();setupCarouselArrows();setupFoundationVisuals();
   let ticking=false;addEventListener('scroll',()=>{if(!ticking){requestAnimationFrame(()=>{updateRail(stageFromScroll());ticking=false});ticking=true}},{passive:true});
   addEventListener('hashchange',()=>updateRail(stageFromScroll()));
-  addEventListener('message',e=>{const d=e.data||{};if(d.type==='qm-embedded-navigate'){routeCourseLink(d.url,d.stage||stageForCourseLink(d.url));return}if(d.type!=='qm-embedded-location')return;currentId=d.stage||currentId;updateRail(currentId);requestAnimationFrame(()=>updateRail(currentId));try{history.replaceState({qmFrame:true},'',cleanUrl(d.url))}catch(_){}});
+  addEventListener('message',event=>{
+    if(!frame?.contentWindow||!API?.trustedMessage?.(event,frame.contentWindow))return;
+    const message=event.data||{};if(message.channel!==API.CHANNEL)return;
+    if(message.type==='navigate'){routeCourseLink(message.url,message.stage||stageForCourseLink(message.url));return}
+    if(message.type!=='location')return;
+    currentId=message.stage||currentId;updateRail(currentId);
+    try{history.replaceState({qmFrame:true},'',cleanUrl(message.url))}catch(_){}
+  });
   addEventListener('popstate',()=>{if(frame)frame.src=embeddedUrl(location.href)});
+  addEventListener('qm-language-change',refreshRailLanguage);
+  addEventListener('qm-theme-change',sendShellState);
   new MutationObserver(refreshRailLanguage).observe(document.documentElement,{attributes:true,attributeFilter:['lang']});
-  const themeObserver=new MutationObserver(()=>{try{frame?.contentWindow?.postMessage({type:'qm-shell-state',lang:lang(),theme:document.documentElement.dataset.theme||'dark'},'*')}catch(_){}});themeObserver.observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
 }
-if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
 })();
