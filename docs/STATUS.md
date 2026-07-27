@@ -1,26 +1,53 @@
-# Status v0.15
+# Status v0.16
 
-**Dauerhafte linke Etappenleiste mit Nummern und Auf-/Zuklappen:** umgesetzt  
-**Etappenwechsel ohne Austausch der äußeren Kursoberfläche:** umgesetzt  
-**Aktive Etappe wird live aktualisiert:** umgesetzt  
-**Karussellpfeile an den Grenzen deaktiviert:** umgesetzt  
-**Systemgraph aktualisiert Detailansicht und markiert Auswahl:** umgesetzt  
-**Graph- und Detailfeld auf großen Displays gleich hoch:** umgesetzt  
-**Eigenständiges lokales MathJax 3 mit direkter SVG-Ausgabe für Desktop, Mobilgeräte und `file://`:** umgesetzt  
-**Quellengleichungen bleiben nach dem Setzen sichtbar:** umgesetzt  
-**Große dynamische Display-Gleichungen werden nach MathJax-Bereitschaft gesetzt und bei Bedarf erneut versucht:** umgesetzt  
-**Mobile Etappenleiste als kleines Off-Canvas-Menü ohne dauerhaft belegte Inhaltsbreite:** umgesetzt  
-**Sieben Grundlagenabbildungen:** umgesetzt  
-**Meta-/Layoutformulierungen aus sichtbaren Konzepttexten entfernt:** umgesetzt  
-**64 deutsche Übersetzungs-/Zusammenfassungsdateien geprüft:** bestanden  
-**Drei `_EN`-Fehlklassifikationen korrigiert und transparent markiert:** umgesetzt  
+## Plattform
+
+**Kanonische Kurskonfiguration:** umgesetzt (`data/course.config.json`)  
+**Kanonische Paper-/Modelldaten:** umgesetzt (`data/course_data.json`)  
+**Reproduzierbarer Build:** umgesetzt (`tools/build_course.py`)  
+**Generierte Dateien auf Drift prüfbar:** umgesetzt (`npm run build:check`)  
+**Gemeinsame Seiten-API:** umgesetzt (`vendor/page-api.js`)  
+**Vereinfachtes und validiertes Iframe-Protokoll:** umgesetzt (`qm-course-v1`)  
+**Einheitlicher Fortschrittsschlüssel:** umgesetzt (`qm_course_progress_v1`)  
+**Migration aus beiden alten Formaten:** umgesetzt und ausführbar getestet  
+**Alte Schlüssel beim Reset entfernt:** umgesetzt  
+**Gedrosselte Scrollspeicherung:** umgesetzt  
+**Modularisierte gemeinsame CSS-Schicht:** umgesetzt  
+
+## Laden und Mobilgeräte
+
+**`index.html` unter 450 kB:** umgesetzt  
+**Kleines initiales Overview-Bundle:** 39 kB komprimierter JavaScript-Text / 48 kB JSON  
+**Vollständige Paperdetails erst bei Auswahl:** umgesetzt  
+**Plotly erst beim ersten Plot-Aufruf:** umgesetzt  
+**Mobile Etappenleiste als Off-Canvas-Overlay:** umgesetzt  
+**Keine zweite Shell bei geführter Navigation:** strukturell und im Chromium-Fixture geprüft  
+
+## Mathematik
+
+**Lokales MathJax-SVG:** umgesetzt  
+**Expliziter Komponentenmodus:** umgesetzt  
+**Hybridmodus als Standard:** umgesetzt  
+**Vollständig defensiver Rückfallmodus:** umgesetzt  
+**Große und dynamische Formeln in allen drei Modi:** in echtem Chromium geprüft  
+
+## Lernen und Tests
+
+**Multiple Choice:** vorhanden  
+**Numerische Aufgaben mit Toleranz:** ergänzt  
+**Mehrfachauswahl:** ergänzt  
+**Reihenfolgeaufgaben:** ergänzt  
+**Vorhersagefragen vor Simulationen:** ergänzt  
 **40/40 numerische Modellprüfungen:** bestanden  
-**4/4 Runtime-Smoke-Tests:** bestanden  
-**Lokale Links und Quellenpfade:** ohne Fehler geprüft  
+**4/4 Runtime-Smoke-Seiten:** bestanden  
+**Übersetzungsprüfung:** bestanden  
+**Link-/Quellenprüfung:** bestanden  
+**Statische Barrierefreiheitsprüfung:** bestanden  
+**Chromium-Smoke-Test für Mathematik, Quiz und mobile Navigation:** bestanden  
 
-Eine visuelle Browserautomatisierung war in der Build-Umgebung durch eine systemweite Browser-URL-Sperrrichtlinie nicht ausführbar. JavaScript-Syntax, DOM-Struktur, Dateiverweise, Übersetzungsqualität, numerische Modelle und simulierte Laufzeitpfade wurden automatisiert geprüft.
+## Weiter offen
 
-
-## v0.15
-
-Dynamische Display-Gleichungen wurden auf einen robusten, wiederholbaren MathJax-SVG-Renderpfad umgestellt. Die falsche Argumentreihenfolge der Quellenansicht und veraltete Browser-Caches werden abgefangen.
+- Reale Endgeräteprüfung auf Safari iOS, Chrome Android und Firefox Android.
+- Schrittweise Ablösung älterer seiteninterner Renderfunktionen durch registrierte Komponentenadapter.
+- Weitere Aufteilung des großen Offline-Quellenbundles, falls die Quellenansicht auf schwächeren Mobilgeräten weiterhin zu langsam startet.
+- Inhaltliche Ergänzungen gemäß `MISSING_PRINCIPLES_AND_PAPERS_v0.16.md` erst nach Download und Quellenprozess.

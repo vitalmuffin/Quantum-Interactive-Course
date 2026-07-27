@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "courseVersion": "0.16",
+  "title": {
+    "de": "Quantum – Das Kleinste verstehen",
+    "en": "Quantum — Understanding the Smallest"
+  },
+  "subtitle": {
+    "de": "Das Kleinste verstehen",
+    "en": "Understanding the Smallest"
+  },
+  "primaryAudience": {
+    "de": "STEM-Einsteiger:innen; Vertiefung über Primärquellen",
+    "en": "STEM beginners; deeper study through primary papers"
+  },
+  "progress": {
+    "key": "qm_course_progress_v1",
+    "legacyKeys": [
+      "quantum_course_progress_v011",
+      "qm_course_progress_v07"
+    ],
+    "schemaVersion": 1
+  },
+  "settings": {
+    "languageKey": "qm_language",
+    "themeKey": "qm_theme",
+    "railKey": "qm_stage_rail_expanded"
+  },
+  "math": {
+    "defaultMode": "hybrid",
+    "modes": [
+      "explicit",
+      "hybrid",
+      "defensive"
+    ],
+    "queryParameter": "math"
+  },
+  "stages": [
+    {
+      "id": "intro",
+      "url": "index.html",
+      "de": "Überblick",
+      "en": "Overview",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "primer",
+      "url": "primer.html",
+      "de": "Grundlagen & Primer",
+      "en": "Foundations & primer",
+      "pages": [
+        "primer.html",
+        "math_foundations.html"
+      ]
+    },
+    {
+      "id": "prehistory",
+      "url": "prehistory.html",
+      "de": "Klassische Grenzen",
+      "en": "Classical limits",
+      "pages": [
+        "prehistory.html"
+      ]
+    },
+    {
+      "id": "photons",
+      "url": "historical_core.html#planck",
+      "de": "Energiequanten & Photonen",
+      "en": "Energy quanta & photons",
+      "pages": [
+        "historical_core.html"
+      ],
+      "anchors": [
+        "planck",
+        "photo",
+        "bohr",
+        "radiation",
+        "compton"
+      ]
+    },
+    {
+      "id": "matter",
+      "url": "historical_core.html#matterwave",
+      "de": "Materiewellen & Statistik",
+      "en": "Matter waves & statistics",
+      "pages": [
+        "historical_core.html"
+      ],
+      "anchors": [
+        "matterwave",
+        "statistics"
+      ]
+    },
+    {
+      "id": "formalism",
+      "url": "historical_core.html#matrix",
+      "de": "Operatoren & Wellenmechanik",
+      "en": "Operators & wave mechanics",
+      "pages": [
+        "historical_core.html"
+      ],
+      "anchors": [
+        "matrix",
+        "schrodinger",
+        "oscillator"
+      ]
+    },
+    {
+      "id": "applications",
+      "url": "historical_core.html#born",
+      "de": "Wahrscheinlichkeit, Bindung & Felder",
+      "en": "Probability, bonding & fields",
+      "pages": [
+        "historical_core.html"
+      ],
+      "anchors": [
+        "born",
+        "uncertainty",
+        "molecule",
+        "field",
+        "dirac"
+      ]
+    },
+    {
+      "id": "tests",
+      "url": "foundations_tests.html",
+      "de": "Deutung & Tests",
+      "en": "Interpretations & tests",
+      "pages": [
+        "foundations_tests.html"
+      ]
+    },
+    {
+      "id": "info",
+      "url": "quantum_information.html",
+      "de": "Quanteninformation",
+      "en": "Quantum information",
+      "pages": [
+        "quantum_information.html"
+      ]
+    },
+    {
+      "id": "sources",
+      "url": "source_reader.html",
+      "de": "Quellen",
+      "en": "Sources",
+      "pages": [
+        "source_reader.html",
+        "evidence_notes.html"
+      ]
+    }
+  ],
+  "advancedQuizQuestions": {
+    "photon-energy": {
+      "stage": "photons",
+      "type": "number",
+      "anchor": "photo",
+      "unit": "eV",
+      "answer": 2.48,
+      "tolerance": 0.06,
+      "de": {
+        "question": "Ein Photon hat die Wellenlänge λ = 500 nm. Berechne mit E ≈ 1240 eV·nm / λ seine Energie.",
+        "placeholder": "Energie in eV",
+        "explanation": "Mit E ≈ 1240/500 eV ergibt sich E ≈ 2,48 eV. Dabei ist E die Photonenenergie und λ die Wellenlänge."
+      },
+      "en": {
+        "question": "A photon has wavelength λ = 500 nm. Use E ≈ 1240 eV·nm / λ to calculate its energy.",
+        "placeholder": "Energy in eV",
+        "explanation": "E ≈ 1240/500 eV = 2.48 eV. Here E is photon energy and λ is wavelength."
+      }
+    },
+    "formalism-properties": {
+      "stage": "formalism",
+      "type": "multi",
+      "anchor": "matrix",
+      "answers": [
+        0,
+        2
+      ],
+      "de": {
+        "question": "Welche Aussagen treffen auf einen hermiteschen Operator zu? Wähle alle richtigen Antworten.",
+        "options": [
+          "Seine Eigenwerte sind reell.",
+          "Er kommutiert mit jedem anderen Operator.",
+          "Eigenzustände zu verschiedenen Eigenwerten sind orthogonal.",
+          "Jede Matrix ist automatisch hermitesch."
+        ],
+        "explanation": "Hermitesche Operatoren besitzen reelle Eigenwerte; Eigenzustände verschiedener Eigenwerte sind orthogonal. Sie kommutieren nicht automatisch mit beliebigen Operatoren."
+      },
+      "en": {
+        "question": "Which statements apply to a Hermitian operator? Select all correct answers.",
+        "options": [
+          "Its eigenvalues are real.",
+          "It commutes with every other operator.",
+          "Eigenstates belonging to different eigenvalues are orthogonal.",
+          "Every matrix is automatically Hermitian."
+        ],
+        "explanation": "Hermitian operators have real eigenvalues, and eigenstates of distinct eigenvalues are orthogonal. They do not automatically commute with arbitrary operators."
+      }
+    },
+    "uncertainty-sources": {
+      "stage": "applications",
+      "type": "multi",
+      "anchor": "uncertainty",
+      "answers": [
+        0,
+        2
+      ],
+      "de": {
+        "question": "Welche Aussagen gehören zur quantenmechanischen Unschärfe? Wähle alle richtigen Antworten.",
+        "options": [
+          "Sie beschreibt die Streuung von Messergebnissen in einem Zustand.",
+          "Sie ist immer nur schlechte Kalibrierung des Geräts.",
+          "Für nichtkommutierende Observablen kann es eine zustandsabhängige Untergrenze geben.",
+          "Sie verschwindet grundsätzlich bei besseren Detektoren."
+        ],
+        "explanation": "Quantenmechanische Unschärfe ist eine Eigenschaft des Zustands und nicht bloß technische Messungenauigkeit. Für nichtkommutierende Observablen folgt eine Untergrenze aus dem Kommutator."
+      },
+      "en": {
+        "question": "Which statements belong to quantum uncertainty? Select all correct answers.",
+        "options": [
+          "It describes the spread of outcomes in a state.",
+          "It is always only poor instrument calibration.",
+          "Noncommuting observables can have a state-dependent lower bound.",
+          "It necessarily disappears with better detectors."
+        ],
+        "explanation": "Quantum uncertainty is a property of the state, not merely technical imprecision. For noncommuting observables, the commutator implies a lower bound."
+      }
+    },
+    "chsh-bound-number": {
+      "stage": "tests",
+      "type": "number",
+      "anchor": "chsh",
+      "unit": "",
+      "answer": 2.0,
+      "tolerance": 0.001,
+      "de": {
+        "question": "Welche maximale Größe darf |S| in einem lokalen CHSH-Modell annehmen?",
+        "placeholder": "Grenzwert",
+        "explanation": "Lokale Modelle erfüllen |S| ≤ 2. Die quantenmechanische Tsirelson-Grenze liegt dagegen bei 2√2."
+      },
+      "en": {
+        "question": "What maximum value may |S| reach in a local CHSH model?",
+        "placeholder": "Bound",
+        "explanation": "Local models satisfy |S| ≤ 2. The quantum Tsirelson bound is instead 2√2."
+      }
+    },
+    "qubit-normalization": {
+      "stage": "info",
+      "type": "number",
+      "anchor": "qubit",
+      "unit": "",
+      "answer": 0.64,
+      "tolerance": 0.005,
+      "de": {
+        "question": "Für |ψ⟩ = 0,6|0⟩ + β|1⟩ sei β reell und positiv. Wie groß ist β²?",
+        "placeholder": "β²",
+        "explanation": "Aus |0,6|² + |β|² = 1 folgt β² = 1 − 0,36 = 0,64."
+      },
+      "en": {
+        "question": "For |ψ⟩ = 0.6|0⟩ + β|1⟩, let β be real and positive. What is β²?",
+        "placeholder": "β²",
+        "explanation": "Normalization gives |0.6|² + |β|² = 1, so β² = 1 − 0.36 = 0.64."
+      }
+    },
+    "knowledge-cycle-order": {
+      "stage": "prehistory",
+      "type": "order",
+      "anchor": "knowledge-cycle",
+      "answers": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "de": {
+        "question": "Bringe die Schritte eines typischen wissenschaftlichen Modellwechsels in die richtige Reihenfolge.",
+        "items": [
+          "Eine neue Annahme und ein berechenbarer Formalismus werden vorgeschlagen.",
+          "Eine stabile Beobachtung wird beschrieben.",
+          "Ein Experiment trennt die neuen Vorhersagen von Alternativen.",
+          "Das bisherige Modell scheitert in einem klaren Bereich."
+        ],
+        "explanation": "Eine sinnvolle Minimalfolge ist: Beobachtung → Krise des alten Modells → neue Annahme/Formalismus → unterscheidender Test."
+      },
+      "en": {
+        "question": "Put the steps of a typical scientific model change in the correct order.",
+        "items": [
+          "A new premise and calculable formalism are proposed.",
+          "A stable observation is described.",
+          "An experiment separates the new predictions from alternatives.",
+          "The previous model fails in a defined regime."
+        ],
+        "explanation": "A useful minimal sequence is: observation → failure of the old model → new premise/formalism → discriminating test."
+      }
+    },
+    "planck-slider-prediction": {
+      "stage": "photons",
+      "type": "prediction",
+      "anchor": "planck",
+      "answer": 1,
+      "de": {
+        "question": "Sage vor dem Verschieben des Temperaturreglers voraus: Was geschieht mit dem Maximum der Planck-Kurve bei höherer Temperatur?",
+        "options": [
+          "Es wandert zu längeren Wellenlängen.",
+          "Es wandert zu kürzeren Wellenlängen.",
+          "Es bleibt bei derselben Wellenlänge und wird nur schmaler."
+        ],
+        "explanation": "Nach dem Wienschen Verschiebungsgesetz gilt λ_max·T = konstant. Eine höhere Temperatur bedeutet daher eine kleinere Peak-Wellenlänge."
+      },
+      "en": {
+        "question": "Predict before moving the temperature slider: what happens to the maximum of the Planck curve at higher temperature?",
+        "options": [
+          "It moves to longer wavelengths.",
+          "It moves to shorter wavelengths.",
+          "It remains at the same wavelength and only narrows."
+        ],
+        "explanation": "Wien’s displacement law gives λ_max·T = constant, so higher temperature implies a shorter peak wavelength."
+      }
+    },
+    "wavepacket-slider-prediction": {
+      "stage": "primer",
+      "type": "prediction",
+      "anchor": "superposition",
+      "answer": 0,
+      "de": {
+        "question": "Sage vor dem Verschieben von Δk voraus: Was geschieht räumlich mit einem Wellenpaket, wenn mehr unterschiedliche Wellenzahlen kohärent beitragen?",
+        "options": [
+          "Das Paket kann schmaler lokalisiert werden.",
+          "Das Paket muss breiter werden.",
+          "Die Ortsform bleibt grundsätzlich unverändert."
+        ],
+        "explanation": "Eine breitere Verteilung der Wellenzahlen beziehungsweise Impulse ermöglicht ein schmaleres Paket im Ort."
+      },
+      "en": {
+        "question": "Predict before changing Δk: what happens in space when a wider range of wave numbers contributes coherently?",
+        "options": [
+          "The packet can become more narrowly localized.",
+          "The packet must become broader.",
+          "Its spatial form necessarily remains unchanged."
+        ],
+        "explanation": "A broader wave-number or momentum distribution permits a narrower packet in position."
+      }
+    }
+  }
+}

@@ -61,10 +61,13 @@ for mid in ["blackbodyFormula","waveFormula"]:
  vi=max((i for i,x in enumerate(kids) if x.get("id") in ("blackbodyPlot",) or "canvas-wrap" in (x.get("class") or [])),default=-1)
  fi=next((i for i,x in enumerate(kids) if "formula-box" in (x.get("class") or [])), -1)
  if fi<=vi:errors.append(f"index {mid}: formula not after visual")
-# v0.11 integration checks
+# shared shell integration checks
 for n in ["index.html","primer.html","prehistory.html","historical_core.html","foundations_tests.html","quantum_information.html","source_reader.html"]:
- if not soups[n].select_one("header.course-shell-static"): errors.append(f"{n}: pre-rendered shell missing")
- if "vendor/course-shell.css" not in (root/n).read_text(encoding="utf-8"): errors.append(f"{n}: blue shell CSS missing")
+ mount=soups[n].select_one("header.course-shell")
+ if not mount or mount.get_text(strip=True): errors.append(f"{n}: generated shell mount point missing or prefilled")
+ text=(root/n).read_text(encoding="utf-8")
+ for asset in ["vendor/course-config.js","vendor/qm-state.js","vendor/page-api.js","vendor/course-shell.css","vendor/course-shell.js","vendor/course-enhancements.js"]:
+  if asset not in text: errors.append(f"{n}: shared asset missing {asset}")
 if not (root/"data/source_offline_bundle.js").exists(): errors.append("offline source bundle missing")
 sr=(root/"source_reader.html").read_text(encoding="utf-8")
 if "source_offline_bundle.js" not in sr or "source_index_bundle.js" in sr: errors.append("source reader not using offline bundle")
