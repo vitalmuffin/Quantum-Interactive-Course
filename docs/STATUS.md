@@ -1,53 +1,44 @@
-# Status v0.16
+# Status v0.17
 
-## Plattform
+## Platform
 
-**Kanonische Kurskonfiguration:** umgesetzt (`data/course.config.json`)  
-**Kanonische Paper-/Modelldaten:** umgesetzt (`data/course_data.json`)  
-**Reproduzierbarer Build:** umgesetzt (`tools/build_course.py`)  
-**Generierte Dateien auf Drift prüfbar:** umgesetzt (`npm run build:check`)  
-**Gemeinsame Seiten-API:** umgesetzt (`vendor/page-api.js`)  
-**Vereinfachtes und validiertes Iframe-Protokoll:** umgesetzt (`qm-course-v1`)  
-**Einheitlicher Fortschrittsschlüssel:** umgesetzt (`qm_course_progress_v1`)  
-**Migration aus beiden alten Formaten:** umgesetzt und ausführbar getestet  
-**Alte Schlüssel beim Reset entfernt:** umgesetzt  
-**Gedrosselte Scrollspeicherung:** umgesetzt  
-**Modularisierte gemeinsame CSS-Schicht:** umgesetzt  
+**Canonical course configuration:** implemented (`data/course.config.json`)  
+**Canonical paper/model data:** implemented (`data/course_data.json`)  
+**Reproducible build:** implemented (`tools/build_course.py`)  
+**Common page API and validated iframe channel:** implemented  
+**Unified progress key:** `qm_course_progress_v1`  
+**Migration from both historical progress formats:** tested  
+**Modular shared CSS:** implemented  
+**Split initial data loading:** implemented  
 
-## Laden und Mobilgeräte
+## Primer corrections
 
-**`index.html` unter 450 kB:** umgesetzt  
-**Kleines initiales Overview-Bundle:** 39 kB komprimierter JavaScript-Text / 48 kB JSON  
-**Vollständige Paperdetails erst bei Auswahl:** umgesetzt  
-**Plotly erst beim ersten Plot-Aufruf:** umgesetzt  
-**Mobile Etappenleiste als Off-Canvas-Overlay:** umgesetzt  
-**Keine zweite Shell bei geführter Navigation:** strukturell und im Chromium-Fixture geprüft  
+**Sine/cosine common −1…+1 scale:** implemented  
+**Mathematically sampled trigonometric plots:** implemented  
+**Exact introductory superposition `f+g`:** implemented  
+**Pointwise numerical sum in wave-packet Canvas:** implemented  
+**Wave laboratory starts paused:** implemented  
+**Frequency changes without phase jumps:** implemented  
+**Cartesian complex-number controls:** implemented  
+**Explicit `i = √(−1)` explanation:** implemented  
+**Optional advanced rotation by `e^{iθ}`:** implemented  
+**Smaller arrowheads:** implemented  
+**Shared draggable range controls:** implemented and Chromium-tested  
 
-## Mathematik
+## Mathematics and tests
 
-**Lokales MathJax-SVG:** umgesetzt  
-**Expliziter Komponentenmodus:** umgesetzt  
-**Hybridmodus als Standard:** umgesetzt  
-**Vollständig defensiver Rückfallmodus:** umgesetzt  
-**Große und dynamische Formeln in allen drei Modi:** in echtem Chromium geprüft  
+**Local MathJax SVG:** implemented  
+**Explicit, hybrid, and defensive modes:** implemented  
+**40/40 numerical model checks:** passed  
+**4/4 runtime smoke pages:** passed  
+**Translation audit:** passed  
+**Link and source audit:** passed  
+**Accessibility audit:** passed  
+**Chromium math, quiz, mobile navigation, and slider-drag fixture:** passed  
 
-## Lernen und Tests
+## Still open
 
-**Multiple Choice:** vorhanden  
-**Numerische Aufgaben mit Toleranz:** ergänzt  
-**Mehrfachauswahl:** ergänzt  
-**Reihenfolgeaufgaben:** ergänzt  
-**Vorhersagefragen vor Simulationen:** ergänzt  
-**40/40 numerische Modellprüfungen:** bestanden  
-**4/4 Runtime-Smoke-Seiten:** bestanden  
-**Übersetzungsprüfung:** bestanden  
-**Link-/Quellenprüfung:** bestanden  
-**Statische Barrierefreiheitsprüfung:** bestanden  
-**Chromium-Smoke-Test für Mathematik, Quiz und mobile Navigation:** bestanden  
-
-## Weiter offen
-
-- Reale Endgeräteprüfung auf Safari iOS, Chrome Android und Firefox Android.
-- Schrittweise Ablösung älterer seiteninterner Renderfunktionen durch registrierte Komponentenadapter.
-- Weitere Aufteilung des großen Offline-Quellenbundles, falls die Quellenansicht auf schwächeren Mobilgeräten weiterhin zu langsam startet.
-- Inhaltliche Ergänzungen gemäß `MISSING_PRINCIPLES_AND_PAPERS_v0.16.md` erst nach Download und Quellenprozess.
+- Real-device validation on Safari iOS, Chrome Android, and Firefox Android.
+- Gradual replacement of legacy page-local simulation code by registered components.
+- Further splitting of the large offline source bundle if weak mobile devices still show delays.
+- Content extensions only after the selected primary papers have been downloaded and processed.

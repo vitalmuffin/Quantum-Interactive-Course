@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Regression checks for robust large/dynamic equation rendering."""
 from pathlib import Path
-import sys
+import json,sys
 R=Path(__file__).resolve().parents[1]
 errors=[]
 def need(ok,msg):
@@ -14,9 +14,10 @@ need('el.textContent=' in core and 'qm-math-error' in core,'readable final fallb
 need('renderMarked' in core,'marked equation scan API missing')
 need('MutationObserver' in defensive and 'characterData' in defensive,'full defensive observer missing')
 need('return core.render(first,second,third)' in facade or 'core.render' in facade,'compatibility facade missing')
+version=json.loads((R/'data/course.config.json').read_text(encoding='utf-8'))['courseVersion']
 for name in ['index.html','primer.html','historical_core.html','foundations_tests.html','quantum_information.html','source_reader.html']:
     text=(R/name).read_text()
-    need('v=0.16' in text,f'{name}: cache-buster not current')
+    need(f'v={version}' in text,f'{name}: cache-buster not current')
 index=(R/'index.html').read_text(); primer=(R/'primer.html').read_text(); sr=(R/'source_reader.html').read_text()
 need('window.QMMath.render(latex,el,{displayMode:display})' in index,'index large equations do not use shared renderer')
 need('window.QMMath.render(latex,el,{displayMode:display})' in primer,'primer large equations do not use shared renderer')

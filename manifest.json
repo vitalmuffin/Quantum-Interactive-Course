@@ -1,8 +1,8 @@
 {
-  "version": "0.16",
+  "version": "0.17",
   "product_name": "Quantum – Das Kleinste verstehen",
-  "created_utc": "2026-07-27T09:42:58.832327+00:00",
-  "status": "architecture-stabilization release candidate",
+  "created_utc": "2026-07-27T11:55:47.161238+00:00",
+  "status": "interaction-correction release candidate",
   "canonical_sources": [
     "data/course.config.json",
     "data/course_data.json",
@@ -36,8 +36,8 @@
     "css_entrypoint": "vendor/course-shell.css"
   },
   "package": {
-    "file_count": 1767,
-    "uncompressed_bytes": 130476071
+    "file_count": 1772,
+    "uncompressed_bytes": 130510783
   },
   "files": [
     {
@@ -47,8 +47,8 @@
     },
     {
       "path": "README.md",
-      "size": 6115,
-      "sha256": "dd3b6243097fd6345ff65f6b408cf0cd4ab1a18e10c5908711966313665cd006"
+      "size": 6579,
+      "sha256": "eab975d871ee5f2154facb7ee61a64facdc18d044f3edf975fb2eeee16331dfe"
     },
     {
       "path": "assets/pdfs/01_1900_Planck_Energy_Distribution.pdf",
@@ -393,27 +393,27 @@
     {
       "path": "data/course.config.json",
       "size": 11913,
-      "sha256": "f9acd318ccd9dcf38ebfcc16008d324ce45802d2611c500a007bab1107aa9df2"
+      "sha256": "db5b7379068542edbf0b171c1f5fd82e0bfcd9ebc3a44373217871f996a326df"
     },
     {
       "path": "data/course_data.bundle.js",
       "size": 1646412,
-      "sha256": "ed71d75614b64f9642b6b3cd238207912e0e9ce6ac0407375f708e69cb744804"
+      "sha256": "a5473bcdba4060fe5b5e1c70d567d8b7602d5c1862fe514c7051ab9af6baa9d3"
     },
     {
       "path": "data/course_data.json",
       "size": 1681305,
-      "sha256": "51a2606f0fc92ea3a8ad7ad6bf6118b3edd5260987b49828fbd98c4b9ff1170d"
+      "sha256": "f46213dd0ab7a3481775d46e60419bbe64ab83e0431e35e4a62c1c9065fd6c3f"
     },
     {
       "path": "data/course_overview.bundle.js",
       "size": 39233,
-      "sha256": "09ee86fd9b712b68c1b982e4ef5fa58683f21d2f0461c8164cb978ae2119c7a7"
+      "sha256": "d8ce80a71460718d2fe0c92d5cf539dbc4d66c9a9fde993f8d70e76e27b0a929"
     },
     {
       "path": "data/course_overview.json",
       "size": 48640,
-      "sha256": "346fb9d8e7b303b6940ec5a2283c4c0a31f338c91820e74772174b266e96a1fb"
+      "sha256": "abc70e1b7932d75358d10cf7585276e79cd7f1cf584cb310319f225d24b813b9"
     },
     {
       "path": "data/experiments.json",
@@ -443,7 +443,7 @@
     {
       "path": "data/papers_index.json",
       "size": 1681305,
-      "sha256": "51a2606f0fc92ea3a8ad7ad6bf6118b3edd5260987b49828fbd98c4b9ff1170d"
+      "sha256": "f46213dd0ab7a3481775d46e60419bbe64ab83e0431e35e4a62c1c9065fd6c3f"
     },
     {
       "path": "data/source_index.json",
@@ -467,8 +467,8 @@
     },
     {
       "path": "docs/CHANGELOG.md",
-      "size": 6854,
-      "sha256": "6424ecaa5e1cbba56ee5e45014e755b8a053ada709b85278e32b2f55b5ab1d9b"
+      "size": 7664,
+      "sha256": "27d23b4f64c0b41741999a960484a8f6d526bc2cca82282757e59c862570db26"
     },
     {
       "path": "docs/FINAL_SCIENTIFIC_DIDACTIC_AUDIT.md",
@@ -556,6 +556,11 @@
       "sha256": "0a70a843f039b46cde667070ac1b0a59735a268acda3d260c38d9d8f14438aba"
     },
     {
+      "path": "docs/RELEASE_NOTES_v0.17.md",
+      "size": 2700,
+      "sha256": "88d0b1ab87736006b500c344c0ca93d89f4876ba88dca2f28254c6562ad7b6d9"
+    },
+    {
       "path": "docs/RELEASE_NOTES_v0.8.md",
       "size": 461,
       "sha256": "4dfc300abf3e25b56f305e3572ca0e8de5c8a39d84503c7476d5572db18af6ed"
@@ -577,8 +582,8 @@
     },
     {
       "path": "docs/STATUS.md",
-      "size": 2478,
-      "sha256": "ee962f3aecc442b382bd1e3edb7aa6fbe001946b6de5384c2fb2ccaa6abded4f"
+      "size": 1904,
+      "sha256": "df9262c813fdd91b8bb1e31caa80d3bd77e2c0afaeba8bc5a052e2134f3eb745"
     },
     {
       "path": "docs/TEXT_BILINGUAL_AUDIT.md",
@@ -621,59 +626,64 @@
       "sha256": "934d82f6ba0ccd871c1f785f6be4ba7be5e3acac9e0693cbbff667233f76ed5c"
     },
     {
+      "path": "docs/VALIDATION_REPORT_v0.17.md",
+      "size": 1939,
+      "sha256": "b694bf4786766cec8193bdf798e7502245a78b3935daeeb858b3cd74af165a0e"
+    },
+    {
       "path": "evidence_notes.html",
       "size": 5498,
-      "sha256": "ea2566db27cd7f2cd98061378432d641b76689939c059c44da5a917038c4e0b5"
+      "sha256": "2a63a049d97bcce5b7e0ae562c446e5cfc664f3256952e81fa5fc21bcfd41b3a"
     },
     {
       "path": "foundations_tests.html",
       "size": 79592,
-      "sha256": "82c07dfaf4db67f475417106dffaac40c4e5915d2336f407647c414ebf9a7eda"
+      "sha256": "c300e3cfd49164cba21e65b384af11e724de03e1abef36e6aa438883f541cbd7"
     },
     {
       "path": "historical_core.html",
       "size": 175471,
-      "sha256": "2848d8d501ba58654f1d430a56ecc0404aaa569af61b85072ffe93092cf58e83"
+      "sha256": "0aec4a9e282f6046eca89e10456f1a77085155c00b1bc70c16568ca06deeea03"
     },
     {
       "path": "index.html",
       "size": 307058,
-      "sha256": "99844107d2083ee094141ba687698315bb52de2c74db6a2c4b2b9ba7f17c9a46"
+      "sha256": "a512ec7975607316e51604b466982a8e706f42e4c677ac1f784c82a49923463b"
     },
     {
       "path": "math_foundations.html",
       "size": 1820,
-      "sha256": "eead73ca5e8fdcd2a5fefd3e4970c92484b655b43cadca46eede5d21bef1a6b0"
+      "sha256": "ceb4773ba5f22b2fc7d9318c60c362d79d29e9a0462dc3e63d3c8519a42e040d"
     },
     {
       "path": "package.json",
-      "size": 1192,
-      "sha256": "d48975f8c3faa2e2f9d879340d1ebbf65f82dc09eec3d08a8ade2254d3c04595"
+      "size": 1235,
+      "sha256": "54ca1c3ffc0d55a0b6b396df91c730895275acdfa53b7a3cf6ef681abd1bcba7"
     },
     {
       "path": "prehistory.html",
       "size": 22401,
-      "sha256": "de1b03437a6ab712955ed22c789963e24f70768034a7bf4a4f38e6f3417ce1d7"
+      "sha256": "25a2170f83a8d30fe3a706ef50106cf6601695b7696eadd9590de6761c79b8a9"
     },
     {
       "path": "primer.html",
-      "size": 119719,
-      "sha256": "82da7873036fc68d7458f06b6aa5746fb34b5d4321ceaf6e654967e6b44f9875"
+      "size": 124106,
+      "sha256": "aa8814b131a35a5d46534e3e90bb0b530b91cef8e39f377c0d53ab5022d6a8ab"
     },
     {
       "path": "progress.html",
       "size": 585,
-      "sha256": "bf6f2f61f94c1dc3b32f6522dd8f351492a08dfef510e6b3f5b0179ceef0935d"
+      "sha256": "06d9f746f0f8db2e8d75e8a213b6ed2b3754238737366bc855ec21dfc5f0371e"
     },
     {
       "path": "quantum_information.html",
       "size": 71011,
-      "sha256": "1a7e47c525642e6b8e6bec626489cbbce4e0b0804d13790f5dbd215f1b16e576"
+      "sha256": "9e02b4389daee16f79aa81d02f978d6c2ffe60571df1e8c09fe6bd81627c5e16"
     },
     {
       "path": "source_reader.html",
       "size": 28591,
-      "sha256": "5e2d506f6bde0c7a9a62ab0e3420cc76f76d9a979dba2eaafbc192d38dd44696"
+      "sha256": "cc4582b6750f2795e014f64eaa58e06f35747bcd9a87b8fe4097d59c6e7caadf"
     },
     {
       "path": "sources/01_1900_Planck_Energy_Distribution/document-annotation.json",
@@ -8716,6 +8726,11 @@
       "sha256": "a9155c0686a77a990f8a8a8289b425f8bf2920b2669f1df36540cf0541994fcf"
     },
     {
+      "path": "tests/browser_smoke_v017.py",
+      "size": 7722,
+      "sha256": "4628a334ea339f31ec89a860f68b7d8b2a373cf3ec93ec641eb4eece91839dbe"
+    },
+    {
       "path": "tests/runtime_smoke.py",
       "size": 3782,
       "sha256": "f14af87d26955e96ea855e606706c9ac6c9ec19e8081b3938b07cdff2ee48e05"
@@ -8752,13 +8767,13 @@
     },
     {
       "path": "tests/validate_v014_features.py",
-      "size": 1966,
-      "sha256": "945166de2fc5a01df89e56999e0ae84a87ee9e42e7a41edf88f9dfe4cdd1c8a8"
+      "size": 2090,
+      "sha256": "fbb14c85bbf9b04f88b6f3eac176dd01f35be9889abda63bfa079f36483ce981"
     },
     {
       "path": "tests/validate_v015_features.py",
-      "size": 1867,
-      "sha256": "e23eef1e1f22a1cc7cfb9e26033238244ba5ddccc1eb3a42e47c8a74a0ff49a2"
+      "size": 1973,
+      "sha256": "6f53cbf8ba774f871422e20e0633cc0049f708f7fa3bf10d0256f39100ca1449"
     },
     {
       "path": "tests/validate_v016_architecture.py",
@@ -8766,14 +8781,24 @@
       "sha256": "04ba94ff84d523561855a4486ab503e102a1760d09ce82c5dddaa4a946c563b7"
     },
     {
+      "path": "tests/validate_v017_architecture.py",
+      "size": 6894,
+      "sha256": "b72e89f841f4c74f7e80f6280ff919ad4ba3fb2fedbaf6950138ba0d4532d85d"
+    },
+    {
+      "path": "tests/validate_v017_features.py",
+      "size": 4738,
+      "sha256": "90883b2a1236faf4c107f845d0728154c12127e5106fe70ce7eb71a5fc35fdab"
+    },
+    {
       "path": "tools/build_course.py",
-      "size": 12573,
-      "sha256": "29868717088664edca047e71024b457ef952f32090b226cbf1827b881e4bc73d"
+      "size": 12570,
+      "sha256": "c004df23d706953fa10f2327cbc88cf62917b361cc64e084ab033eea5b3b25aa"
     },
     {
       "path": "vendor/course-config.js",
       "size": 9260,
-      "sha256": "9da156b5219a2efa038b752ecee764dd1b23f6ea7de45e5802ecaf64028ddf6b"
+      "sha256": "99e72849db58414ae8130145cf2a02475020ea73d247803fa2c2d4efd671c44d"
     },
     {
       "path": "vendor/course-data-loader.js",
@@ -8782,8 +8807,8 @@
     },
     {
       "path": "vendor/course-enhancements.js",
-      "size": 16145,
-      "sha256": "5b1b5fc0db79b6ff90c7f36eae601324726006cb6a6e7776f55348eda75796df"
+      "size": 16552,
+      "sha256": "015aab42fb7f8317cbc6abe4d23d7f3620e025aee0d01947783e4a4921319628"
     },
     {
       "path": "vendor/course-shell.css",
@@ -8817,8 +8842,8 @@
     },
     {
       "path": "vendor/page-api.js",
-      "size": 4003,
-      "sha256": "2dcb22b574dfdc04f99975639c67988cfc38231595d5f2090fc39daeb9ca6be3"
+      "size": 6927,
+      "sha256": "e92c9b3c90f776c7bef580896092c6a8e15dff3ebc5021ff4c5a39e6acc72e67"
     },
     {
       "path": "vendor/plotly-3.3.1.min.js",
@@ -8852,8 +8877,8 @@
     },
     {
       "path": "vendor/styles/learning.css",
-      "size": 18159,
-      "sha256": "0dab7a9b3dabd37d475e2ab13dd57829464ad964c77efeea46f7f0d6ad03f7b5"
+      "size": 20190,
+      "sha256": "4028209469ffccdcc27aa49979a5879951e8fd74f6af6cb3dbf44ea066ee8083"
     },
     {
       "path": "vendor/styles/math.css",

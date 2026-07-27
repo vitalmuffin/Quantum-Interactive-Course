@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.17 — Primer visual and interaction corrections
+
+- Put sine and cosine on one mathematically sampled −1…+1 coordinate system.
+- Recomputed the red superposition example as the literal pointwise sum of two displayed functions.
+- Made the wave-packet Canvas draw the stored component sum on a common scale.
+- Paused the wave laboratory by default and removed frequency-induced phase jumps.
+- Changed complex-number input to real and imaginary components; derived magnitude and phase.
+- Added the explicit definition `i = √(−1)` with the `±i` root clarification.
+- Moved complex rotation into an optional extension.
+- Added a shared Pointer Events drag layer and larger range thumbs for all sliders.
+- Reduced static SVG and Canvas arrowheads.
+- Added v0.17 static and Chromium regression tests.
+
 ## v0.16 — architecture stabilization and split loading
 
 - Introduced canonical course configuration and historical data sources.
